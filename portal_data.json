@@ -1,0 +1,67 @@
+{
+  "channel": {
+    "name": "Fun With Grandpaa",
+    "handle": "@FunWithGrandpaa",
+    "id": "UCsPVNs8qEAdMi8JWf0eqajQ",
+    "url": "https://www.youtube.com/@FunWithGrandpaa",
+    "owner": "porterburg56@gmail.com",
+    "tiktok_source": "funnytoddle_r",
+    "tiktok_url": "https://www.tiktok.com/@funnytoddle_r",
+    "active": true
+  },
+  "kpis": {
+    "total_uploads": 1,
+    "total_views": 0,
+    "total_likes": 0,
+    "videos_per_day": 2
+  },
+  "upcoming": {
+    "slot1": {
+      "slot": 1,
+      "time_utc": "22:00",
+      "time_et": "6:00 PM ET",
+      "strategy": "Newest Video",
+      "creator": "@funnytoddle_r",
+      "title": "Little Toddler Epic Dance Reaction",
+      "estimated_views": 8500,
+      "status": "Queued (Slot 1)"
+    },
+    "slot2": {
+      "slot": 2,
+      "time_utc": "00:00",
+      "time_et": "8:00 PM ET",
+      "strategy": "Most-Viewed Video",
+      "creator": "@funnytoddle_r",
+      "title": "Funniest Baby Laugh Ever With Grandpa",
+      "estimated_views": 45000,
+      "status": "Queued (Slot 2)"
+    }
+  },
+  "videos": [
+    {
+      "tiktok_id": "7680230295441771790",
+      "youtube_id": "iuE3f2WfSlI",
+      "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
+      "tiktok_views": 9430,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-01T07:42:18.618019+00:00"
+    }
+  ],
+  "runs": [
+    {
+      "id": 1,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-01",
+      "status": "success",
+      "video_id": "iuE3f2WfSlI",
+      "error_message": null,
+      "created_at": "2026-09-01T07:42:18.620928+00:00"
+    }
+  ],
+  "last_updated": "2026-09-01T07:57:58.233475+00:00"
+}
