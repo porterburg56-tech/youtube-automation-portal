@@ -137,6 +137,15 @@
       50% { opacity: 0.4; transform: scale(0.8); }
     }
 
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+
+    .spinning {
+      animation: spin 0.8s linear infinite;
+    }
+
     .header-actions {
       display: flex;
       align-items: center;
@@ -525,10 +534,11 @@
         <a href="https://studio.youtube.com/channel/UCsPVNs8qEAdMi8JWf0eqajQ/videos/short" target="_blank" class="btn">
           Studio Dashboard
         </a>
-        <button id="refreshBtn" class="btn" onclick="fetchData()">
+        <button id="refreshBtn" class="btn" onclick="fetchData(true)">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
           Refresh Stats
         </button>
+        <span id="lastSyncText" style="font-size: 11px; color: var(--text-muted); padding: 4px 8px; background: rgba(255,255,255,0.04); border-radius: 8px;">Syncing...</span>
       </div>
     </header>
 
@@ -566,10 +576,10 @@
       <!-- Slot 1 Card -->
       <div class="upcoming-card">
         <div>
-          <span class="slot-tag slot1">Slot 1 • Today 6:00 PM US ET (22:00 UTC)</span>
-          <h3 style="font-size: 18px; margin-bottom: 6px;" id="slot1Title">Baby Did the Full Morning Zombie Shuffle</h3>
-          <p style="font-size: 13px; color: var(--text-secondary);">
-            Strategy: <strong>Newest Unposted Video</strong> from @funnytoddle_r
+          <span class="slot-tag slot1" id="slot1Tag">⚡ Live Test Slot 1 • Today 11:35 AM IST (06:05 UTC)</span>
+          <h3 style="font-size: 18px; margin-bottom: 6px;" id="slot1Title">Little Toddler Epic Dance Reaction</h3>
+          <p style="font-size: 13px; color: var(--text-secondary);" id="slot1Strategy">
+            Strategy: <strong>Newest Unposted Video (Full HD 1080p Live Test)</strong> from @funnytoddle_r
           </p>
         </div>
 
@@ -606,7 +616,7 @@
             <div class="countdown-display slot2-timer" id="slot2Countdown">--:--:--</div>
           </div>
           <div style="text-align: right;">
-            <span class="status-badge" style="background: rgba(0, 212, 255, 0.15); color: var(--accent-cyan); border-color: rgba(0, 212, 255, 0.3);">Next in Queue</span>
+            <span class="status-badge" id="slot2Status" style="background: rgba(0, 212, 255, 0.15); color: var(--accent-cyan); border-color: rgba(0, 212, 255, 0.3);">Next in Queue</span>
           </div>
         </div>
 
@@ -697,17 +707,12 @@
       ]
     };
 
-    // Live countdown calculations to 22:00 UTC and 00:00 UTC
+    // Live countdown calculations to target schedules
     function updateCountdowns() {
       const now = new Date();
 
-      function getTimeRemaining(targetHourUTC) {
-        const target = new Date();
-        target.setUTCHours(targetHourUTC, 0, 0, 0);
-        if (target <= now) {
-          target.setUTCDate(target.getUTCDate() + 1);
-        }
-        const diff = target - now;
+      function formatDiff(diff) {
+        if (diff <= 0) return "00:00:00";
         const hours = Math.floor(diff / (1000 * 60 * 60));
         const mins = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
         const secs = Math.floor((diff % (1000 * 60)) / 1000);
@@ -717,49 +722,187 @@
       const slot1El = document.getElementById('slot1Countdown');
       const slot2El = document.getElementById('slot2Countdown');
 
-      if (slot1El) slot1El.textContent = getTimeRemaining(22);
-      if (slot2El) slot2El.textContent = getTimeRemaining(0);
+      if (slot1El) {
+        if (portalData && portalData.upcoming && portalData.upcoming.slot1 && portalData.upcoming.slot1.target_iso) {
+          const target = new Date(portalData.upcoming.slot1.target_iso);
+          const diff = target - now;
+          if (diff <= 0) {
+            slot1El.textContent = "Executing Live...";
+            slot1El.style.color = "var(--accent-emerald)";
+          } else {
+            slot1El.textContent = formatDiff(diff);
+            slot1El.style.color = "var(--accent-emerald)";
+          }
+        } else {
+          const target = new Date();
+          target.setUTCHours(22, 0, 0, 0);
+          if (target <= now) target.setUTCDate(target.getUTCDate() + 1);
+          slot1El.textContent = formatDiff(target - now);
+        }
+      }
+
+      if (slot2El) {
+        if (portalData && portalData.upcoming && portalData.upcoming.slot2 && portalData.upcoming.slot2.target_iso) {
+          const target = new Date(portalData.upcoming.slot2.target_iso);
+          const diff = target - now;
+          slot2El.textContent = diff <= 0 ? "00:00:00" : formatDiff(diff);
+        } else {
+          const target = new Date();
+          target.setUTCHours(0, 0, 0, 0);
+          if (target <= now) target.setUTCDate(target.getUTCDate() + 1);
+          slot2El.textContent = formatDiff(target - now);
+        }
+      }
     }
 
     setInterval(updateCountdowns, 1000);
     updateCountdowns();
 
     // Fetch live data from local API or portal_data.json
-    async function fetchData() {
+    async function fetchData(triggerRefresh = false) {
       const refreshBtn = document.getElementById('refreshBtn');
-      if (refreshBtn) refreshBtn.style.opacity = '0.5';
+      const icon = refreshBtn ? refreshBtn.querySelector('svg') : null;
+      if (refreshBtn) {
+        refreshBtn.disabled = true;
+        refreshBtn.style.opacity = '0.7';
+        if (icon) icon.classList.add('spinning');
+      }
 
       try {
-        let res = await fetch('./portal_data.json?t=' + Date.now());
+        if (triggerRefresh) {
+          try {
+            // Live server sync if running locally via dashboard.py
+            let apiRes = await fetch('/api/refresh', { cache: 'no-store' });
+            if (apiRes.ok) {
+              const freshData = await apiRes.json();
+              if (freshData && freshData.channel) {
+                portalData = freshData;
+                renderUI();
+                updateLastSyncTime(freshData.last_updated);
+                return;
+              }
+            }
+          } catch (err) {
+            // Static host (GitHub Pages) or /api/refresh not available, fall back to portal_data.json
+          }
+        }
+
+        let res = await fetch('./portal_data.json?t=' + Date.now(), { cache: 'no-store' });
         if (res.ok) {
           const data = await res.json();
           portalData = data;
           renderUI();
+          updateLastSyncTime(data.last_updated);
         }
       } catch (e) {
         console.log("Using cached/embedded data:", e);
       } finally {
-        if (refreshBtn) refreshBtn.style.opacity = '1';
+        if (refreshBtn) {
+          refreshBtn.disabled = false;
+          refreshBtn.style.opacity = '1';
+          if (icon) icon.classList.remove('spinning');
+        }
+      }
+    }
+
+    function updateLastSyncTime(isoString) {
+      const el = document.getElementById('lastSyncText');
+      if (!el) return;
+      if (isoString) {
+        const d = new Date(isoString);
+        el.textContent = 'Synced ' + d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+      } else {
+        el.textContent = 'Synced just now';
       }
     }
 
     function renderUI() {
       if (!portalData) return;
 
-      document.getElementById('kpiTotalUploads').textContent = portalData.videos ? portalData.videos.length : 1;
-      
-      let sumViews = 0;
-      if (portalData.videos) {
-        portalData.videos.forEach(v => { sumViews += (v.youtube_views || 0); });
-      }
-      document.getElementById('kpiTotalViews').textContent = sumViews.toLocaleString();
+      const videos = portalData.videos || [];
+      const kpis = portalData.kpis || {};
+      const runs = portalData.runs || [];
+      const upcoming = portalData.upcoming || {};
 
+      // 1. KPI Metrics
+      const kpiUploadsEl = document.getElementById('kpiTotalUploads');
+      if (kpiUploadsEl) kpiUploadsEl.textContent = kpis.total_uploads !== undefined ? kpis.total_uploads : videos.length;
+      
+      let sumViews = kpis.total_views !== undefined ? kpis.total_views : 0;
+      if (sumViews === 0 && videos.length > 0) {
+        videos.forEach(v => { sumViews += (v.youtube_views || 0); });
+      }
+      const kpiViewsEl = document.getElementById('kpiTotalViews');
+      if (kpiViewsEl) kpiViewsEl.textContent = sumViews.toLocaleString();
+
+      // 2. Upcoming Slot 1 Card
+      const slot1TagEl = document.getElementById('slot1Tag');
+      const slot1TitleEl = document.getElementById('slot1Title');
+      const slot1StrategyEl = document.getElementById('slot1Strategy');
+      const slot1StatusEl = document.getElementById('slot1Status');
+
+      if (slot1TagEl && upcoming.slot1) {
+        if (upcoming.slot1.target_iso) {
+          slot1TagEl.textContent = `⚡ Live Test Slot 1 • Today ${upcoming.slot1.time_local || '11:35 AM IST'} (${upcoming.slot1.time_utc} UTC)`;
+          slot1TagEl.style.background = 'rgba(0, 242, 152, 0.18)';
+          slot1TagEl.style.color = 'var(--accent-emerald)';
+          slot1TagEl.style.borderColor = 'rgba(0, 242, 152, 0.4)';
+        } else {
+          slot1TagEl.textContent = `Slot 1 • Today 6:00 PM US ET (22:00 UTC)`;
+        }
+      }
+
+      if (slot1TitleEl && upcoming.slot1 && upcoming.slot1.title) {
+        slot1TitleEl.textContent = upcoming.slot1.title;
+      }
+      if (slot1StrategyEl && upcoming.slot1 && upcoming.slot1.strategy) {
+        slot1StrategyEl.innerHTML = `Strategy: <strong>${upcoming.slot1.strategy}</strong> from ${upcoming.slot1.creator || '@funnytoddle_r'}`;
+      }
+      const todayUTC = new Date().toISOString().slice(0, 10);
+      const slot1RanToday = runs.some(r => r.slot === 1 && r.run_date === todayUTC && r.status === 'success');
+      const slot2RanToday = runs.some(r => r.slot === 2 && r.run_date === todayUTC && r.status === 'success');
+
+      if (slot1StatusEl) {
+        if (slot1RanToday) {
+          slot1StatusEl.textContent = 'Executed Today';
+          slot1StatusEl.style.background = 'rgba(0, 242, 152, 0.15)';
+          slot1StatusEl.style.color = 'var(--accent-emerald)';
+          slot1StatusEl.style.borderColor = 'rgba(0, 242, 152, 0.3)';
+        } else {
+          slot1StatusEl.textContent = upcoming.slot1?.status || 'Queued (Slot 1)';
+          slot1StatusEl.style.background = 'rgba(0, 212, 255, 0.15)';
+          slot1StatusEl.style.color = 'var(--accent-cyan)';
+          slot1StatusEl.style.borderColor = 'rgba(0, 212, 255, 0.3)';
+        }
+      }
+
+      // 3. Upcoming Slot 2 Card
+      const slot2TitleEl = document.getElementById('slot2Title');
+      const slot2StatusEl = document.getElementById('slot2Status');
+      if (slot2TitleEl && upcoming.slot2 && upcoming.slot2.title) {
+        slot2TitleEl.textContent = upcoming.slot2.title;
+      }
+      if (slot2StatusEl) {
+        if (slot2RanToday) {
+          slot2StatusEl.textContent = 'Executed Tonight';
+          slot2StatusEl.style.background = 'rgba(0, 242, 152, 0.15)';
+          slot2StatusEl.style.color = 'var(--accent-emerald)';
+          slot2StatusEl.style.borderColor = 'rgba(0, 242, 152, 0.3)';
+        } else {
+          slot2StatusEl.textContent = upcoming.slot2?.status || 'Next in Queue';
+          slot2StatusEl.style.background = 'rgba(0, 212, 255, 0.15)';
+          slot2StatusEl.style.color = 'var(--accent-cyan)';
+          slot2StatusEl.style.borderColor = 'rgba(0, 212, 255, 0.3)';
+        }
+      }
+
+      // 4. Video Table Rows
       const tbody = document.getElementById('videoTableBody');
-      if (tbody && portalData.videos && portalData.videos.length > 0) {
+      if (tbody && videos.length > 0) {
         tbody.innerHTML = '';
-        portalData.videos.forEach(v => {
+        videos.forEach(v => {
           const row = document.createElement('tr');
-          const dateStr = v.uploaded_at ? new Date(v.uploaded_at).toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' }) : 'Sep 1, 2026';
+          const dateStr = v.uploaded_at ? new Date(v.uploaded_at).toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' }) : 'Recent';
           
           row.innerHTML = `
             <td>
@@ -789,7 +932,14 @@
       }
     }
 
+    // Initial load
     fetchData();
+
+    // Auto-refresh dynamically every 30 seconds
+    setInterval(() => {
+      fetchData(false);
+    }, 30000);
+
   </script>
 </body>
 </html>
