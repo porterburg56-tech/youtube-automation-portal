@@ -964,21 +964,26 @@
 
       let cardsHtml = '';
 
-      // Card 1: Taste & Tales Slot 1 (11:00 AM ET / 15:00 UTC)
+      // Card 1: Taste & Tales Slot 1
       if (activeChannelFilter === 'all' || activeChannelFilter === 'channel_2') {
+        const ch2_s1 = (ch2.upcoming && ch2.upcoming.slot1) || {};
+        const ch2_s1Time = ch2_s1.time_utc || "15:00";
+        const ch2_s1Hour = parseInt(ch2_s1Time.split(':')[0], 10);
+        const ch2_s1Min = parseInt(ch2_s1Time.split(':')[1] || "0", 10);
+        const ch2_s1Label = ch2_s1.time_local ? `${ch2_s1.time_local} (${ch2_s1.time_utc} UTC)` : (ch2_s1.time_et || '11:00 AM ET');
         cardsHtml += `
           <div class="upcoming-card">
             <div>
-              <span class="slot-tag tag-ch2">🍳 Taste & Tales • 11:00 AM US ET (15:00 UTC)</span>
+              <span class="slot-tag tag-ch2">🍳 Taste & Tales • ${ch2_s1Label}</span>
               <h3 style="font-size: 18px; margin-bottom: 6px;">Crispy Lunchtime Recipe Short</h3>
               <p style="font-size: 13px; color: var(--text-secondary);">
-                Strategy: <strong>Auto-Transcription + Styled Subtitles</strong> from @${ch2.tiktok_source || 'dailychefstories'}
+                Strategy: <strong>${ch2_s1.strategy || 'Auto-Transcription + Styled Subtitles'}</strong> from @${ch2.tiktok_source || 'dailychefstories'}
               </p>
             </div>
             <div class="upcoming-timer-box">
               <div>
                 <div style="font-size: 11px; text-transform: uppercase; color: var(--text-muted); font-weight: 600;">Time Until Run</div>
-                <div class="countdown-display" data-countdown-utc="15">--:--:--</div>
+                <div class="countdown-display" data-countdown-utc="${ch2_s1Hour}" data-countdown-min="${ch2_s1Min}">--:--:--</div>
               </div>
               <div style="text-align: right;">
                 <span class="status-badge" style="background: rgba(255, 170, 0, 0.15); color: #ffc048; border-color: rgba(255, 170, 0, 0.3);">Queued (Slot 1)</span>
