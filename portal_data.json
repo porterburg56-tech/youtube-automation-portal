@@ -11,20 +11,23 @@
   },
   "kpis": {
     "total_uploads": 1,
-    "total_views": 0,
-    "total_likes": 0,
+    "total_views": 13,
+    "total_likes": 1,
     "videos_per_day": 2
   },
   "upcoming": {
     "slot1": {
       "slot": 1,
-      "time_utc": "22:00",
-      "time_et": "6:00 PM ET",
-      "strategy": "Newest Video",
+      "time_utc": "06:05",
+      "time_et": "2:05 AM ET",
+      "time_local": "11:35 AM IST",
+      "target_iso": "2026-09-02T06:05:00Z",
+      "strategy": "Newest Unposted Video (Full HD 1080p Live Test)",
       "creator": "@funnytoddle_r",
       "title": "Little Toddler Epic Dance Reaction",
       "estimated_views": 8500,
-      "status": "Queued (Slot 1)"
+      "status": "Scheduled Live Test (11:35 AM IST)",
+      "is_test": true
     },
     "slot2": {
       "slot": 2,
@@ -43,8 +46,8 @@
       "youtube_id": "iuE3f2WfSlI",
       "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
       "tiktok_views": 9430,
-      "youtube_views": 0,
-      "youtube_likes": 0,
+      "youtube_views": 13,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
       "status": "uploaded",
@@ -63,5 +66,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-01T07:57:58.233475+00:00"
+  "last_updated": "2026-09-02T05:53:13.003911+00:00"
 }
