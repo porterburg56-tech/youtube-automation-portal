@@ -18,16 +18,13 @@
   "upcoming": {
     "slot1": {
       "slot": 1,
-      "time_utc": "06:05",
-      "time_et": "2:05 AM ET",
-      "time_local": "11:35 AM IST",
-      "target_iso": "2026-09-02T06:05:00Z",
-      "strategy": "Newest Unposted Video (Full HD 1080p Live Test)",
+      "time_utc": "22:00",
+      "time_et": "6:00 PM ET",
+      "strategy": "Newest Video",
       "creator": "@funnytoddle_r",
       "title": "Little Toddler Epic Dance Reaction",
       "estimated_views": 8500,
-      "status": "Scheduled Live Test (11:35 AM IST)",
-      "is_test": true
+      "status": "Queued (Slot 1)"
     },
     "slot2": {
       "slot": 2,
@@ -88,5 +85,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-02T06:07:14.344218+00:00"
+  "last_updated": "2026-09-02T06:08:27.613277+00:00"
 }
