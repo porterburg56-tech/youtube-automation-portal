@@ -546,8 +546,8 @@
     <div class="kpi-grid">
       <div class="kpi-card accent-emerald">
         <div class="kpi-label">Published Shorts</div>
-        <div class="kpi-value" id="kpiTotalUploads">1</div>
-        <div class="kpi-sub">Uploaded via GitHub Actions</div>
+        <div class="kpi-value" id="kpiTotalUploads">3</div>
+        <div class="kpi-sub">Cloud VM Execution Active</div>
       </div>
       <div class="kpi-card accent-red">
         <div class="kpi-label">Total YouTube Views</div>
@@ -651,7 +651,51 @@
             </tr>
           </thead>
           <tbody id="videoTableBody">
-            <!-- Dynamic rows populated via JS -->
+            <!-- Video 1 -->
+            <tr>
+              <td>
+                <div class="video-col">
+                  <a href="https://www.youtube.com/shorts/2Eu2SeUHtu8" target="_blank" class="video-thumb-link">
+                    <img src="https://i.ytimg.com/vi/2Eu2SeUHtu8/hqdefault.jpg" alt="Thumbnail">
+                  </a>
+                  <div class="video-title-box">
+                    <h4><a href="https://www.youtube.com/shorts/2Eu2SeUHtu8" target="_blank">Baby Followed Grandpa All the Way Out the Back Door 😂🌙 #tiktokgrowth...</a></h4>
+                    <div class="video-subtext">ID: 2Eu2SeUHtu8 • Category: Comedy (23)</div>
+                  </div>
+                </div>
+              </td>
+              <td><span class="stat-pill" id="liveViews_2Eu2SeUHtu8">0</span></td>
+              <td><span class="stat-pill" id="liveLikes_2Eu2SeUHtu8">0</span></td>
+              <td><span class="stat-pill" style="color: var(--accent-cyan);">--</span></td>
+              <td><span class="status-badge">Public Short</span></td>
+              <td style="color: var(--text-secondary); font-size: 13px;">Sep 2, 2026</td>
+              <td>
+                <a href="https://www.youtube.com/shorts/2Eu2SeUHtu8" target="_blank" class="btn btn-yt" style="padding: 6px 12px; font-size: 12px;">Watch</a>
+              </td>
+            </tr>
+            <!-- Video 2 -->
+            <tr>
+              <td>
+                <div class="video-col">
+                  <a href="https://www.youtube.com/shorts/8eEz1ehaSeg" target="_blank" class="video-thumb-link">
+                    <img src="https://i.ytimg.com/vi/8eEz1ehaSeg/hqdefault.jpg" alt="Thumbnail">
+                  </a>
+                  <div class="video-title-box">
+                    <h4><a href="https://www.youtube.com/shorts/8eEz1ehaSeg" target="_blank">Baby Followed Grandpa All the Way Out the Back Door 😂🌙 #tiktokgrowth...</a></h4>
+                    <div class="video-subtext">ID: 8eEz1ehaSeg • Category: Comedy (23)</div>
+                  </div>
+                </div>
+              </td>
+              <td><span class="stat-pill" id="liveViews_8eEz1ehaSeg">1</span></td>
+              <td><span class="stat-pill" id="liveLikes_8eEz1ehaSeg">0</span></td>
+              <td><span class="stat-pill" style="color: var(--accent-cyan);">5,110</span></td>
+              <td><span class="status-badge">Public Short</span></td>
+              <td style="color: var(--text-secondary); font-size: 13px;">Sep 2, 2026</td>
+              <td>
+                <a href="https://www.youtube.com/shorts/8eEz1ehaSeg" target="_blank" class="btn btn-yt" style="padding: 6px 12px; font-size: 12px;">Watch</a>
+              </td>
+            </tr>
+            <!-- Video 3 -->
             <tr>
               <td>
                 <div class="video-col">
@@ -664,15 +708,13 @@
                   </div>
                 </div>
               </td>
-              <td><span class="stat-pill" id="liveViews_iuE3f2WfSlI">0</span></td>
-              <td><span class="stat-pill" id="liveLikes_iuE3f2WfSlI">0</span></td>
+              <td><span class="stat-pill" id="liveViews_iuE3f2WfSlI">14</span></td>
+              <td><span class="stat-pill" id="liveLikes_iuE3f2WfSlI">1</span></td>
               <td><span class="stat-pill" style="color: var(--accent-cyan);">9,430</span></td>
               <td><span class="status-badge">Public Short</span></td>
               <td style="color: var(--text-secondary); font-size: 13px;">Sep 1, 2026</td>
               <td>
-                <a href="https://www.youtube.com/shorts/iuE3f2WfSlI" target="_blank" class="btn btn-yt" style="padding: 6px 12px; font-size: 12px;">
-                  Watch
-                </a>
+                <a href="https://www.youtube.com/shorts/iuE3f2WfSlI" target="_blank" class="btn btn-yt" style="padding: 6px 12px; font-size: 12px;">Watch</a>
               </td>
             </tr>
           </tbody>
@@ -692,14 +734,34 @@
     // Embedded initial data for instant display
     let portalData = {
       channel: { name: "Fun With Grandpaa", handle: "@FunWithGrandpaa" },
-      kpis: { total_uploads: 1, total_views: 0, total_likes: 0 },
+      kpis: { total_uploads: 3, total_views: 15, total_likes: 1 },
       videos: [
+        {
+          youtube_id: "2Eu2SeUHtu8",
+          title: "Baby Followed Grandpa All the Way Out the Back Door 😂🌙 #tiktokgrowth...",
+          tiktok_views: 0,
+          youtube_views: 0,
+          youtube_likes: 0,
+          status: "uploaded",
+          uploaded_at: "2026-09-02T06:08:40Z",
+          thumbnail: "https://i.ytimg.com/vi/2Eu2SeUHtu8/hqdefault.jpg"
+        },
+        {
+          youtube_id: "8eEz1ehaSeg",
+          title: "Baby Followed Grandpa All the Way Out the Back Door 😂🌙 #tiktokgrowth...",
+          tiktok_views: 5110,
+          youtube_views: 1,
+          youtube_likes: 0,
+          status: "uploaded",
+          uploaded_at: "2026-09-02T06:06:57Z",
+          thumbnail: "https://i.ytimg.com/vi/8eEz1ehaSeg/hqdefault.jpg"
+        },
         {
           youtube_id: "iuE3f2WfSlI",
           title: "Baby Did the Full Morning Zombie Shuffle Behind Grandpa 😂☕ #shorts #funny #toddler",
           tiktok_views: 9430,
-          youtube_views: 0,
-          youtube_likes: 0,
+          youtube_views: 14,
+          youtube_likes: 1,
           status: "uploaded",
           uploaded_at: "2026-09-01T07:42:18Z",
           thumbnail: "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg"
