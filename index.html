@@ -774,17 +774,32 @@
       const now = new Date();
       const target = new Date();
       target.setUTCHours(utcHour, utcMin, 0, 0);
-      if (target <= now) {
+      const diff = target - now;
+      if (diff <= 0) {
+        const pastMinutes = (now - target) / (1000 * 60);
+        if (pastMinutes < 15) {
+          return 0; // Currently executing
+        }
         target.setUTCDate(target.getUTCDate() + 1);
+        return target - now;
       }
-      return target - now;
+      return diff;
     }
 
     function updateCountdowns() {
       document.querySelectorAll('[data-countdown-utc]').forEach(el => {
         const utcHour = parseInt(el.getAttribute('data-countdown-utc'), 10);
-        const diff = getTimeUntilUTC(utcHour);
-        el.textContent = formatDiff(diff);
+        const utcMin = parseInt(el.getAttribute('data-countdown-min') || '0', 10);
+        const diff = getTimeUntilUTC(utcHour, utcMin);
+        if (diff === 0) {
+          el.textContent = "Executing Live...";
+          el.style.color = "var(--accent-emerald)";
+          el.style.fontSize = "20px";
+        } else {
+          el.textContent = formatDiff(diff);
+          el.style.color = "var(--accent-cyan)";
+          el.style.fontSize = "24px";
+        }
       });
     }
 
@@ -1036,26 +1051,31 @@
             </div>
           `;
         } else {
+          const s1 = (ch1.upcoming && ch1.upcoming.slot1) || {};
+          const s1Time = s1.time_utc || "22:00";
+          const s1Hour = parseInt(s1Time.split(':')[0], 10);
+          const s1Min = parseInt(s1Time.split(':')[1] || "0", 10);
+          const s1Label = s1.time_local ? `${s1.time_local} (${s1.time_utc} UTC)` : (s1.time_et || '6:00 PM ET');
           cardsHtml += `
             <div class="upcoming-card">
               <div>
-                <span class="slot-tag tag-ch1">👶 Fun With Grandpaa • 6:00 PM US ET (22:00 UTC)</span>
-                <h3 style="font-size: 18px; margin-bottom: 6px;">Baby Followed Grandpa All the Way Out the Back Door 😂🌙</h3>
+                <span class="slot-tag tag-ch1">👶 Fun With Grandpaa • ${s1Label}</span>
+                <h3 style="font-size: 18px; margin-bottom: 6px;">${s1.title || 'Next Toddler Moment in Queue'}</h3>
                 <p style="font-size: 13px; color: var(--text-secondary);">
-                  Strategy: <strong>Newest Video</strong> from @funnytoddle_r
+                  Strategy: <strong>${s1.strategy || 'Newest Video'}</strong> from @funnytoddle_r
                 </p>
               </div>
               <div class="upcoming-timer-box">
                 <div>
                   <div style="font-size: 11px; text-transform: uppercase; color: var(--text-muted); font-weight: 600;">Time Until Run</div>
-                  <div class="countdown-display" data-countdown-utc="22">--:--:--</div>
+                  <div class="countdown-display" data-countdown-utc="${s1Hour}" data-countdown-min="${s1Min}">--:--:--</div>
                 </div>
                 <div style="text-align: right;">
-                  <span class="status-badge">Queued (Slot 1)</span>
+                  <span class="status-badge" style="background: rgba(0, 212, 255, 0.15); color: var(--accent-cyan); border-color: rgba(0, 212, 255, 0.3);">Queued (Slot 1)</span>
                 </div>
               </div>
               <div class="upcoming-meta">
-                <div>📍 US Prime-Time</div>
+                <div>📍 Live Test Schedule</div>
                 <div>•</div>
                 <div>🛡️ Watermark-Free + Audio Verified</div>
               </div>
