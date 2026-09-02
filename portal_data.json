@@ -106,10 +106,10 @@
       "upcoming": {
         "slot1": {
           "slot": 1,
-          "time_utc": "15:00",
-          "time_et": "11:00 AM ET",
-          "time_local": "8:30 PM IST",
-          "strategy": "Lunchtime Recipe (Auto-Subtitles)",
+          "time_utc": "07:42",
+          "time_et": "3:42 AM ET",
+          "time_local": "1:12 PM IST",
+          "strategy": "Live Scheduled Test (Auto-Subtitles)",
           "creator": "@dailychefstories",
           "status": "Queued (Slot 1)"
         },
@@ -274,5 +274,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-02T07:35:20.368150+00:00"
+  "last_updated": "2026-09-02T07:41:13.254534+00:00"
 }
