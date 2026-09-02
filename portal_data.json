@@ -10,7 +10,7 @@
     "active": true
   },
   "kpis": {
-    "total_uploads": 2,
+    "total_uploads": 3,
     "total_views": 15,
     "total_likes": 1,
     "videos_per_day": 2
@@ -39,6 +39,18 @@
   },
   "videos": [
     {
+      "tiktok_id": "2Eu2SeUHtu8",
+      "youtube_id": "2Eu2SeUHtu8",
+      "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19  #tiktokgrowth...",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/2Eu2SeUHtu8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-02T06:08:40Z"
+    },
+    {
       "tiktok_id": "7680593673784020237",
       "youtube_id": "8eEz1ehaSeg",
       "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19  #tiktokgrowth...",
@@ -48,7 +60,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8eEz1ehaSeg/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-02T06:06:41.049213+00:00"
+      "uploaded_at": "2026-09-02T06:06:57Z"
     },
     {
       "tiktok_id": "7680230295441771790",
@@ -60,7 +72,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-01T07:42:18.618019+00:00"
+      "uploaded_at": "2026-09-01T07:42:33Z"
     }
   ],
   "runs": [
@@ -85,5 +97,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-02T06:12:51.117985+00:00"
+  "last_updated": "2026-09-02T06:18:16.441014+00:00"
 }
