@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 2,
-    "total_views": 18,
+    "total_views": 16,
     "total_likes": 1,
     "total_subscribers": 0,
     "channels_count": 2,
@@ -22,15 +22,15 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 2,
-      "total_views": 18,
+      "total_views": 16,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
           "slot": 1,
-          "time_utc": "22:00",
-          "time_et": "6:00 PM ET",
-          "time_local": "3:30 AM IST",
-          "strategy": "Newest Video",
+          "time_utc": "07:26",
+          "time_et": "3:26 AM ET",
+          "time_local": "12:56 PM IST",
+          "strategy": "Live Scheduled Test Run",
           "creator": "@funnytoddle_r",
           "status": "Queued (Slot 1)"
         },
@@ -66,7 +66,7 @@
           "youtube_id": "iuE3f2WfSlI",
           "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
           "tiktok_views": 9430,
-          "youtube_views": 16,
+          "youtube_views": 14,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
@@ -75,16 +75,6 @@
         }
       ],
       "runs": [
-        {
-          "id": 2,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-02",
-          "status": "success",
-          "video_id": "8eEz1ehaSeg",
-          "error_message": null,
-          "created_at": "2026-09-02T06:06:41.051414+00:00"
-        },
         {
           "id": 1,
           "channel_id": "channel_1",
@@ -159,7 +149,7 @@
       "youtube_id": "iuE3f2WfSlI",
       "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
       "tiktok_views": 9430,
-      "youtube_views": 16,
+      "youtube_views": 14,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
@@ -181,15 +171,15 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 2,
-    "total_views": 18,
+    "total_views": 16,
     "total_likes": 1,
     "upcoming": {
       "slot1": {
         "slot": 1,
-        "time_utc": "22:00",
-        "time_et": "6:00 PM ET",
-        "time_local": "3:30 AM IST",
-        "strategy": "Newest Video",
+        "time_utc": "07:26",
+        "time_et": "3:26 AM ET",
+        "time_local": "12:56 PM IST",
+        "strategy": "Live Scheduled Test Run",
         "creator": "@funnytoddle_r",
         "status": "Queued (Slot 1)"
       },
@@ -225,7 +215,7 @@
         "youtube_id": "iuE3f2WfSlI",
         "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
         "tiktok_views": 9430,
-        "youtube_views": 16,
+        "youtube_views": 14,
         "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
@@ -234,16 +224,6 @@
       }
     ],
     "runs": [
-      {
-        "id": 2,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-02",
-        "status": "success",
-        "video_id": "8eEz1ehaSeg",
-        "error_message": null,
-        "created_at": "2026-09-02T06:06:41.051414+00:00"
-      },
       {
         "id": 1,
         "channel_id": "channel_1",
@@ -258,17 +238,17 @@
   },
   "kpis": {
     "total_uploads": 2,
-    "total_views": 18,
+    "total_views": 16,
     "total_likes": 1,
     "videos_per_day": 4
   },
   "upcoming": {
     "slot1": {
       "slot": 1,
-      "time_utc": "22:00",
-      "time_et": "6:00 PM ET",
-      "time_local": "3:30 AM IST",
-      "strategy": "Newest Video",
+      "time_utc": "07:26",
+      "time_et": "3:26 AM ET",
+      "time_local": "12:56 PM IST",
+      "strategy": "Live Scheduled Test Run",
       "creator": "@funnytoddle_r",
       "status": "Queued (Slot 1)"
     },
@@ -284,16 +264,6 @@
   },
   "runs": [
     {
-      "id": 2,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-02",
-      "status": "success",
-      "video_id": "8eEz1ehaSeg",
-      "error_message": null,
-      "created_at": "2026-09-02T06:06:41.051414+00:00"
-    },
-    {
       "id": 1,
       "channel_id": "channel_1",
       "slot": 1,
@@ -304,5 +274,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-02T07:10:58.761104+00:00"
+  "last_updated": "2026-09-02T07:24:21.657046+00:00"
 }
