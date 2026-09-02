@@ -3,32 +3,41 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fun With Grandpaa — Automation & Analytics Portal</title>
+  <title>YouTube Automation & Analytics Portal — Multi-Channel Network</title>
+  <meta name="description" content="Real-time multi-channel analytics and live upload pipeline for automated YouTube Shorts channels.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
+
   <style>
     :root {
-      --bg-primary: #07090e;
-      --bg-secondary: #0f131d;
-      --bg-card: rgba(18, 24, 38, 0.7);
-      --bg-card-hover: rgba(26, 34, 52, 0.85);
+      --bg-base: #0a0d14;
+      --bg-surface: #111622;
+      --bg-surface-elevated: #161c2c;
+      --bg-card: rgba(22, 28, 44, 0.7);
       --border-color: rgba(255, 255, 255, 0.08);
-      --border-glow: rgba(0, 212, 255, 0.25);
-      --text-primary: #f8fafc;
+      --border-active: rgba(255, 255, 255, 0.2);
+      
+      --accent-red: #ff0033;
+      --accent-red-glow: rgba(255, 0, 51, 0.25);
+      --accent-cyan: #00d4ff;
+      --accent-cyan-glow: rgba(0, 212, 255, 0.25);
+      --accent-emerald: #00f298;
+      --accent-emerald-glow: rgba(0, 242, 152, 0.25);
+      --accent-purple: #8a2be2;
+      --accent-gold: #ffaa00;
+      
+      --text-primary: #ffffff;
       --text-secondary: #94a3b8;
       --text-muted: #64748b;
-      --accent-red: #ff0033;
-      --accent-cyan: #00d4ff;
-      --accent-emerald: #00f298;
-      --accent-amber: #f59e0b;
-      --accent-purple: #a855f7;
-      --gradient-yt: linear-gradient(135deg, #ff0033 0%, #cc0029 100%);
-      --gradient-cyan: linear-gradient(135deg, #00d4ff 0%, #0072ff 100%);
-      --gradient-card: linear-gradient(145deg, rgba(255, 255, 255, 0.04) 0%, rgba(255, 255, 255, 0.01) 100%);
-      --shadow-sm: 0 4px 12px rgba(0, 0, 0, 0.3);
-      --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.5);
-      --shadow-glow: 0 0 24px rgba(0, 212, 255, 0.15);
+      
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --radius-full: 9999px;
+
+      --shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -2px rgba(0, 0, 0, 0.3);
+      --shadow-glow: 0 0 25px -5px var(--accent-red-glow);
     }
 
     * {
@@ -38,16 +47,17 @@
     }
 
     body {
-      background-color: var(--bg-primary);
-      color: var(--text-primary);
       font-family: 'Inter', sans-serif;
-      min-height: 100vh;
+      background-color: var(--bg-base);
+      color: var(--text-primary);
       line-height: 1.5;
+      min-height: 100vh;
       background-image: 
-        radial-gradient(circle at 15% 15%, rgba(0, 212, 255, 0.06) 0%, transparent 40%),
-        radial-gradient(circle at 85% 85%, rgba(255, 0, 51, 0.05) 0%, transparent 40%);
+        radial-gradient(circle at 15% 10%, rgba(255, 0, 51, 0.08) 0%, transparent 40%),
+        radial-gradient(circle at 85% 85%, rgba(0, 212, 255, 0.06) 0%, transparent 40%),
+        radial-gradient(circle at 50% 50%, rgba(138, 43, 226, 0.04) 0%, transparent 60%);
       background-attachment: fixed;
-      padding: 24px 16px;
+      padding: 32px 16px;
     }
 
     .container {
@@ -55,19 +65,17 @@
       margin: 0 auto;
     }
 
-    /* Top Navigation / Header */
+    /* Top Navigation Header */
     header {
-      background: var(--bg-card);
-      backdrop-filter: blur(16px);
-      border: 1px solid var(--border-color);
-      border-radius: 20px;
-      padding: 20px 28px;
       display: flex;
       justify-content: space-between;
       align-items: center;
-      flex-wrap: wrap;
-      gap: 16px;
-      margin-bottom: 28px;
+      background: var(--bg-card);
+      backdrop-filter: blur(16px);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 20px 28px;
+      margin-bottom: 20px;
       box-shadow: var(--shadow-sm);
     }
 
@@ -78,18 +86,26 @@
     }
 
     .channel-avatar {
-      width: 52px;
-      height: 52px;
-      border-radius: 50%;
-      background: var(--gradient-yt);
+      width: 54px;
+      height: 54px;
+      border-radius: var(--radius-full);
+      background: linear-gradient(135deg, var(--accent-red), #b30024);
       display: flex;
       align-items: center;
       justify-content: center;
-      color: white;
       font-family: 'Outfit', sans-serif;
+      font-weight: 800;
       font-size: 24px;
-      font-weight: 700;
-      box-shadow: 0 0 16px rgba(255, 0, 51, 0.3);
+      color: #fff;
+      box-shadow: 0 0 16px var(--accent-red-glow);
+      overflow: hidden;
+      flex-shrink: 0;
+    }
+
+    .channel-avatar img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
     }
 
     .channel-info h1 {
@@ -97,14 +113,6 @@
       font-size: 22px;
       font-weight: 700;
       color: #fff;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-
-    .channel-info p {
-      font-size: 13px;
-      color: var(--text-secondary);
       display: flex;
       align-items: center;
       gap: 10px;
@@ -117,33 +125,40 @@
       background: rgba(0, 242, 152, 0.12);
       border: 1px solid rgba(0, 242, 152, 0.3);
       color: var(--accent-emerald);
-      padding: 4px 10px;
-      border-radius: 999px;
-      font-size: 12px;
+      font-size: 11px;
       font-weight: 600;
+      padding: 2px 10px;
+      border-radius: var(--radius-full);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
     }
 
     .pulse-dot {
-      width: 8px;
-      height: 8px;
-      background: var(--accent-emerald);
+      width: 6px;
+      height: 6px;
       border-radius: 50%;
+      background-color: var(--accent-emerald);
       box-shadow: 0 0 8px var(--accent-emerald);
-      animation: pulse 1.8s infinite;
+      animation: pulse 2s infinite;
     }
 
     @keyframes pulse {
-      0%, 100% { opacity: 1; transform: scale(1); }
-      50% { opacity: 0.4; transform: scale(0.8); }
+      0% { opacity: 0.4; transform: scale(0.9); }
+      50% { opacity: 1; transform: scale(1.2); }
+      100% { opacity: 0.4; transform: scale(0.9); }
     }
 
-    @keyframes spin {
-      from { transform: rotate(0deg); }
-      to { transform: rotate(360deg); }
+    .channel-info p {
+      font-size: 13px;
+      color: var(--text-secondary);
+      margin-top: 2px;
+      display: flex;
+      gap: 10px;
+      align-items: center;
     }
 
-    .spinning {
-      animation: spin 0.8s linear infinite;
+    .channel-info p strong {
+      color: var(--text-primary);
     }
 
     .header-actions {
@@ -156,39 +171,117 @@
       display: inline-flex;
       align-items: center;
       gap: 8px;
+      background: var(--bg-surface-elevated);
+      color: var(--text-primary);
+      border: 1px solid var(--border-color);
       padding: 10px 18px;
-      border-radius: 12px;
+      border-radius: var(--radius-md);
       font-size: 13px;
       font-weight: 600;
-      cursor: pointer;
       text-decoration: none;
+      cursor: pointer;
       transition: all 0.2s ease;
-      border: 1px solid var(--border-color);
-      background: rgba(255, 255, 255, 0.05);
-      color: var(--text-primary);
     }
 
     .btn:hover {
-      background: rgba(255, 255, 255, 0.1);
+      background: rgba(255, 255, 255, 0.08);
+      border-color: rgba(255, 255, 255, 0.2);
       transform: translateY(-1px);
     }
 
     .btn-yt {
-      background: rgba(255, 0, 51, 0.15);
-      border-color: rgba(255, 0, 51, 0.3);
+      background: linear-gradient(135deg, rgba(255, 0, 51, 0.2), rgba(255, 0, 51, 0.05));
+      border-color: rgba(255, 0, 51, 0.4);
       color: #ff4d6d;
     }
 
     .btn-yt:hover {
-      background: rgba(255, 0, 51, 0.25);
+      background: linear-gradient(135deg, rgba(255, 0, 51, 0.3), rgba(255, 0, 51, 0.1));
+      border-color: var(--accent-red);
       color: #fff;
+      box-shadow: 0 0 12px var(--accent-red-glow);
     }
 
-    /* KPI Metrics Grid */
+    .spinning {
+      animation: spin 1s linear infinite;
+    }
+    @keyframes spin {
+      100% { transform: rotate(360deg); }
+    }
+
+    /* Channel Selector Bar */
+    .channel-selector-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 24px;
+      background: var(--bg-card);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 8px 12px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .channel-tabs {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .channel-tab {
+      background: transparent;
+      border: 1px solid transparent;
+      color: var(--text-secondary);
+      padding: 9px 18px;
+      border-radius: var(--radius-md);
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.2s ease;
+    }
+
+    .channel-tab:hover {
+      color: #fff;
+      background: rgba(255, 255, 255, 0.05);
+    }
+
+    .channel-tab.active {
+      background: rgba(255, 255, 255, 0.12);
+      color: #fff;
+      border-color: rgba(255, 255, 255, 0.22);
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+    }
+
+    .channel-tab .tab-badge {
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-size: 11px;
+      background: rgba(255, 255, 255, 0.08);
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+
+    .channel-tab.active .tab-badge {
+      background: var(--accent-cyan);
+      color: #000;
+      font-weight: 700;
+    }
+
+    .network-badge {
+      font-size: 12px;
+      color: var(--text-muted);
+      padding-right: 12px;
+    }
+
+    /* KPI Cards */
     .kpi-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 18px;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 16px;
       margin-bottom: 32px;
     }
 
@@ -196,7 +289,7 @@
       background: var(--bg-card);
       backdrop-filter: blur(12px);
       border: 1px solid var(--border-color);
-      border-radius: 16px;
+      border-radius: var(--radius-lg);
       padding: 20px;
       box-shadow: var(--shadow-sm);
       transition: transform 0.2s ease, border-color 0.2s ease;
@@ -220,20 +313,18 @@
       border-color: rgba(255, 255, 255, 0.15);
     }
 
+    .kpi-card.accent-emerald::before { background: var(--accent-emerald); }
     .kpi-card.accent-red::before { background: var(--accent-red); }
     .kpi-card.accent-cyan::before { background: var(--accent-cyan); }
-    .kpi-card.accent-emerald::before { background: var(--accent-emerald); }
-    .kpi-card.accent-purple::before { background: var(--accent-purple); }
+    .kpi-card.accent-gold::before { background: var(--accent-gold); }
 
     .kpi-label {
-      font-size: 13px;
+      font-size: 12px;
       color: var(--text-secondary);
-      font-weight: 500;
+      font-weight: 600;
       text-transform: uppercase;
       letter-spacing: 0.5px;
       margin-bottom: 6px;
-      display: flex;
-      justify-content: space-between;
     }
 
     .kpi-value {
@@ -250,7 +341,7 @@
       margin-top: 6px;
     }
 
-    /* Upcoming Section */
+    /* Upcoming Queue Section */
     .section-title {
       font-family: 'Outfit', sans-serif;
       font-size: 20px;
@@ -259,48 +350,54 @@
       margin-bottom: 16px;
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 12px;
     }
 
     .section-badge {
       font-size: 12px;
       font-weight: 600;
-      padding: 3px 8px;
-      border-radius: 6px;
-      background: rgba(0, 212, 255, 0.1);
+      padding: 2px 10px;
+      border-radius: var(--radius-full);
+      background: rgba(0, 212, 255, 0.12);
       color: var(--accent-cyan);
-      border: 1px solid rgba(0, 212, 255, 0.2);
+      border: 1px solid rgba(0, 212, 255, 0.25);
     }
 
     .upcoming-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
-      gap: 20px;
+      gap: 18px;
       margin-bottom: 36px;
     }
 
     .upcoming-card {
       background: var(--bg-card);
-      backdrop-filter: blur(14px);
+      backdrop-filter: blur(12px);
       border: 1px solid var(--border-color);
-      border-radius: 18px;
-      padding: 24px;
-      box-shadow: var(--shadow-sm);
+      border-radius: var(--radius-lg);
+      padding: 22px;
+      position: relative;
+      overflow: hidden;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
-      position: relative;
-      overflow: hidden;
+      gap: 18px;
+      transition: all 0.2s ease;
     }
 
-    .upcoming-card::after {
+    .upcoming-card:hover {
+      border-color: rgba(255, 255, 255, 0.18);
+      transform: translateY(-2px);
+    }
+
+    .upcoming-card::before {
       content: '';
       position: absolute;
       top: 0;
+      left: 0;
       right: 0;
-      width: 140px;
-      height: 140px;
-      background: radial-gradient(circle, rgba(0, 212, 255, 0.08) 0%, transparent 70%);
+      bottom: 0;
+      background: radial-gradient(circle at top right, rgba(0, 212, 255, 0.05), transparent 70%);
       pointer-events: none;
     }
 
@@ -308,73 +405,62 @@
       display: inline-flex;
       align-items: center;
       gap: 6px;
-      font-size: 12px;
+      padding: 4px 10px;
+      border-radius: var(--radius-full);
+      font-size: 11px;
       font-weight: 700;
       text-transform: uppercase;
       letter-spacing: 0.5px;
-      padding: 5px 12px;
-      border-radius: 8px;
-      margin-bottom: 14px;
+      margin-bottom: 10px;
     }
 
-    .slot-tag.slot1 {
-      background: rgba(0, 212, 255, 0.15);
-      color: var(--accent-cyan);
-      border: 1px solid rgba(0, 212, 255, 0.3);
+    .slot-tag.tag-ch1 {
+      background: rgba(255, 0, 51, 0.12);
+      color: #ff6b81;
+      border: 1px solid rgba(255, 0, 51, 0.25);
     }
 
-    .slot-tag.slot2 {
-      background: rgba(168, 85, 247, 0.15);
-      color: var(--accent-purple);
-      border: 1px solid rgba(168, 85, 247, 0.3);
+    .slot-tag.tag-ch2 {
+      background: rgba(255, 170, 0, 0.12);
+      color: #ffc048;
+      border: 1px solid rgba(255, 170, 0, 0.25);
     }
 
     .upcoming-timer-box {
-      background: rgba(0, 0, 0, 0.35);
-      border: 1px solid rgba(255, 255, 255, 0.05);
-      border-radius: 12px;
-      padding: 14px 18px;
-      margin: 14px 0;
+      background: rgba(0, 0, 0, 0.25);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      padding: 14px 16px;
       display: flex;
-      align-items: center;
       justify-content: space-between;
+      align-items: center;
     }
 
     .countdown-display {
       font-family: 'Outfit', sans-serif;
-      font-size: 26px;
+      font-size: 24px;
       font-weight: 700;
       color: var(--accent-cyan);
       letter-spacing: 1px;
     }
 
-    .slot2-timer {
-      color: var(--accent-purple);
-    }
-
     .upcoming-meta {
       display: flex;
       gap: 12px;
-      font-size: 13px;
-      color: var(--text-secondary);
-      margin-top: 8px;
+      font-size: 12px;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border-color);
+      padding-top: 12px;
     }
 
-    .upcoming-meta-item {
-      display: flex;
-      align-items: center;
-      gap: 4px;
-    }
-
-    /* Previous Uploads / Table Section */
+    /* Table Section */
     .uploads-section {
       background: var(--bg-card);
-      backdrop-filter: blur(16px);
+      backdrop-filter: blur(12px);
       border: 1px solid var(--border-color);
-      border-radius: 20px;
+      border-radius: var(--radius-lg);
       padding: 24px;
       box-shadow: var(--shadow-sm);
-      margin-bottom: 36px;
     }
 
     .video-table-wrapper {
@@ -389,19 +475,18 @@
     }
 
     th {
-      font-size: 12px;
-      font-weight: 600;
-      color: var(--text-muted);
+      font-size: 11px;
       text-transform: uppercase;
       letter-spacing: 0.5px;
-      padding: 14px 16px;
+      color: var(--text-muted);
+      font-weight: 600;
+      padding: 12px 14px;
       border-bottom: 1px solid var(--border-color);
     }
 
     td {
-      padding: 16px;
+      padding: 14px;
       border-bottom: 1px solid rgba(255, 255, 255, 0.04);
-      font-size: 14px;
       vertical-align: middle;
     }
 
@@ -412,89 +497,106 @@
     .video-col {
       display: flex;
       align-items: center;
-      gap: 16px;
-      min-width: 320px;
+      gap: 14px;
+      max-width: 440px;
     }
 
     .video-thumb-link {
-      position: relative;
-      width: 64px;
-      height: 96px;
-      border-radius: 8px;
+      width: 48px;
+      height: 72px;
+      border-radius: var(--radius-sm);
       overflow: hidden;
       flex-shrink: 0;
-      background: #111;
-      border: 1px solid rgba(255, 255, 255, 0.1);
+      background: #000;
       display: block;
+      position: relative;
     }
 
     .video-thumb-link img {
       width: 100%;
       height: 100%;
       object-fit: cover;
-      transition: transform 0.2s ease;
-    }
-
-    .video-thumb-link:hover img {
-      transform: scale(1.05);
     }
 
     .video-title-box h4 {
       font-size: 14px;
       font-weight: 600;
-      color: #fff;
-      margin-bottom: 4px;
+      line-height: 1.35;
       display: -webkit-box;
       -webkit-line-clamp: 2;
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
 
-    .video-title-box a {
-      color: inherit;
+    .video-title-box h4 a {
+      color: var(--text-primary);
       text-decoration: none;
+      transition: color 0.2s ease;
     }
 
-    .video-title-box a:hover {
+    .video-title-box h4 a:hover {
       color: var(--accent-cyan);
     }
 
     .video-subtext {
-      font-size: 12px;
+      font-size: 11px;
       color: var(--text-muted);
+      margin-top: 4px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .channel-badge-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 2px 7px;
+      border-radius: 4px;
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.4px;
+    }
+
+    .channel-badge-ch1 {
+      background: rgba(255, 0, 51, 0.15);
+      color: #ff6b81;
+      border: 1px solid rgba(255, 0, 51, 0.3);
+    }
+
+    .channel-badge-ch2 {
+      background: rgba(255, 170, 0, 0.15);
+      color: #ffc048;
+      border: 1px solid rgba(255, 170, 0, 0.3);
     }
 
     .stat-pill {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      padding: 4px 10px;
-      border-radius: 8px;
-      font-size: 13px;
+      font-family: 'Outfit', sans-serif;
+      font-size: 15px;
       font-weight: 600;
-      background: rgba(255, 255, 255, 0.04);
-      color: #fff;
+      color: var(--text-primary);
     }
 
     .status-badge {
       display: inline-flex;
       align-items: center;
-      gap: 5px;
-      padding: 4px 10px;
-      border-radius: 6px;
-      font-size: 12px;
+      padding: 4px 8px;
+      border-radius: var(--radius-sm);
+      font-size: 11px;
       font-weight: 600;
-      background: rgba(0, 242, 152, 0.15);
+      background: rgba(0, 242, 152, 0.12);
       color: var(--accent-emerald);
-      border: 1px solid rgba(0, 242, 152, 0.3);
+      border: 1px solid rgba(0, 242, 152, 0.25);
     }
 
     /* Footer */
     footer {
       text-align: center;
-      padding: 24px;
+      margin-top: 48px;
       color: var(--text-muted);
-      font-size: 13px;
+      font-size: 12px;
     }
 
     footer a {
@@ -505,6 +607,21 @@
     footer a:hover {
       color: var(--accent-cyan);
     }
+
+    @media (max-width: 768px) {
+      header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+      }
+      .header-actions {
+        width: 100%;
+        justify-content: space-between;
+      }
+      .upcoming-grid {
+        grid-template-columns: 1fr;
+      }
+    }
   </style>
 </head>
 <body>
@@ -513,23 +630,23 @@
     <!-- Top Header -->
     <header>
       <div class="channel-brand">
-        <div class="channel-avatar">G</div>
+        <div class="channel-avatar" id="headerAvatar">G</div>
         <div class="channel-info">
-          <h1>
+          <h1 id="headerTitle">
             Fun With Grandpaa
             <span class="badge-live"><span class="pulse-dot"></span> 24/7 Automation Live</span>
           </h1>
-          <p>
-            <span>YouTube: <strong>@FunWithGrandpaa</strong></span>
+          <p id="headerSubtitle">
+            <span>YouTube: <strong id="headerYtHandle">@FunWithGrandpaa</strong></span>
             <span>•</span>
-            <span>TikTok Source: <strong>@funnytoddle_r</strong></span>
+            <span>TikTok Source: <strong id="headerTiktokSource">@funnytoddle_r</strong></span>
           </p>
         </div>
       </div>
       <div class="header-actions">
-        <a href="https://www.youtube.com/@FunWithGrandpaa" target="_blank" class="btn btn-yt">
+        <a href="https://www.youtube.com/@FunWithGrandpaa" target="_blank" class="btn btn-yt" id="headerVisitBtn">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
-          Visit Channel
+          <span id="headerVisitText">Visit Channel</span>
         </a>
         <button id="refreshBtn" class="btn" onclick="fetchData(true)">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
@@ -539,96 +656,65 @@
       </div>
     </header>
 
+    <!-- Multi-Channel Switcher Bar -->
+    <div class="channel-selector-bar">
+      <div class="channel-tabs">
+        <button class="channel-tab active" id="tab_all" onclick="selectChannel('all')">
+          <span>🌐</span> All Channels (Cumulative)
+          <span class="tab-badge" id="badgeAll">2</span>
+        </button>
+        <button class="channel-tab" id="tab_channel_1" onclick="selectChannel('channel_1')">
+          <span>👶</span> Fun With Grandpaa
+          <span class="tab-badge" id="badgeCh1">2</span>
+        </button>
+        <button class="channel-tab" id="tab_channel_2" onclick="selectChannel('channel_2')">
+          <span>🍳</span> Taste & Tales
+          <span class="tab-badge" id="badgeCh2">0</span>
+        </button>
+      </div>
+      <div class="network-badge">
+        <span>⚡ 0 Collision Guarantee Active</span>
+      </div>
+    </div>
+
     <!-- KPI Metrics Grid -->
     <div class="kpi-grid">
       <div class="kpi-card accent-emerald">
         <div class="kpi-label">Published Shorts</div>
         <div class="kpi-value" id="kpiTotalUploads">2</div>
-        <div class="kpi-sub">Cloud VM Execution Active</div>
+        <div class="kpi-sub" id="kpiUploadsSub">Live across active channels</div>
       </div>
       <div class="kpi-card accent-red">
         <div class="kpi-label">Total YouTube Views</div>
-        <div class="kpi-value" id="kpiTotalViews">0</div>
-        <div class="kpi-sub">Across published Shorts</div>
+        <div class="kpi-value" id="kpiTotalViews">18</div>
+        <div class="kpi-sub" id="kpiViewsSub">Across published Shorts</div>
       </div>
       <div class="kpi-card accent-cyan">
         <div class="kpi-label">Daily Schedule</div>
-        <div class="kpi-value">2 / Day</div>
-        <div class="kpi-sub">6:00 PM & 8:00 PM US ET</div>
+        <div class="kpi-value" id="kpiSchedule">4 / Day</div>
+        <div class="kpi-sub" id="kpiScheduleSub">Staggered Non-Colliding Slots</div>
       </div>
-      <div class="kpi-card accent-purple">
-        <div class="kpi-label">System Health</div>
+      <div class="kpi-card accent-gold">
+        <div class="kpi-label">Pipeline Health</div>
         <div class="kpi-value" style="color: var(--accent-emerald);">100%</div>
-        <div class="kpi-sub">Cloud VM Execution Active</div>
+        <div class="kpi-sub" id="kpiHealthSub">Automated Cloud VM Runners</div>
       </div>
     </div>
 
     <!-- Coming Up Next Queue -->
     <div class="section-title">
       What's Coming Up Next
-      <span class="section-badge">Upcoming Queue</span>
+      <span class="section-badge" id="queueBadge">Upcoming Queue</span>
     </div>
 
-    <div class="upcoming-grid">
-      <!-- Slot 1 Card -->
-      <div class="upcoming-card">
-        <div>
-          <span class="slot-tag slot1" id="slot1Tag" style="background: rgba(0, 242, 152, 0.15); color: var(--accent-emerald); border-color: rgba(0, 242, 152, 0.3);">Slot 1 • Completed for Today</span>
-          <h3 style="font-size: 18px; margin-bottom: 6px;" id="slot1Title">Baby Followed Grandpa All the Way Out the Back Door 😂🌙</h3>
-          <p style="font-size: 13px; color: var(--text-secondary);" id="slot1Strategy">
-            Uploaded Today: <a href="https://www.youtube.com/shorts/8eEz1ehaSeg" target="_blank" style="color: var(--accent-cyan); font-weight: 600; text-decoration: none;">Watch on YouTube (8eEz1ehaSeg) ↗</a> • Next Slot 1: Tomorrow 6:00 PM ET
-          </p>
-        </div>
-
-        <div class="upcoming-timer-box">
-          <div>
-            <div style="font-size: 11px; text-transform: uppercase; color: var(--text-muted); font-weight: 600;">Execution Status</div>
-            <div class="countdown-display" id="slot1Countdown" style="color: var(--accent-emerald); font-size: 20px;">Done for Today ✓</div>
-          </div>
-          <div style="text-align: right;">
-            <span class="status-badge" id="slot1Status" style="background: rgba(0, 242, 152, 0.15); color: var(--accent-emerald); border-color: rgba(0, 242, 152, 0.3);">Executed Today</span>
-          </div>
-        </div>
-
-        <div class="upcoming-meta">
-          <div class="upcoming-meta-item">📍 Target: US Audience</div>
-          <div class="upcoming-meta-item">•</div>
-          <div class="upcoming-meta-item">🛡️ Watermark-Free + Audio Verified</div>
-        </div>
-      </div>
-
-      <!-- Slot 2 Card -->
-      <div class="upcoming-card">
-        <div>
-          <span class="slot-tag slot2">Slot 2 • Tonight 8:00 PM US ET (00:00 UTC)</span>
-          <h3 style="font-size: 18px; margin-bottom: 6px;" id="slot2Title">Funniest Baby Laugh Ever With Grandpa</h3>
-          <p style="font-size: 13px; color: var(--text-secondary);">
-            Strategy: <strong>Most-Viewed Video (Viral Pick)</strong> from @funnytoddle_r
-          </p>
-        </div>
-
-        <div class="upcoming-timer-box">
-          <div>
-            <div style="font-size: 11px; text-transform: uppercase; color: var(--text-muted); font-weight: 600;">Time Until Run</div>
-            <div class="countdown-display slot2-timer" id="slot2Countdown">--:--:--</div>
-          </div>
-          <div style="text-align: right;">
-            <span class="status-badge" id="slot2Status" style="background: rgba(0, 212, 255, 0.15); color: var(--accent-cyan); border-color: rgba(0, 212, 255, 0.3);">Next in Queue</span>
-          </div>
-        </div>
-
-        <div class="upcoming-meta">
-          <div class="upcoming-meta-item">📍 Target: US Prime-Time</div>
-          <div class="upcoming-meta-item">•</div>
-          <div class="upcoming-meta-item">🔥 High-View Priority</div>
-        </div>
-      </div>
+    <div class="upcoming-grid" id="upcomingGridContainer">
+      <!-- Dynamic Upcoming Cards rendered by JavaScript -->
     </div>
 
     <!-- Previous Uploads & Performance -->
     <div class="uploads-section">
-      <div class="section-title" style="margin-bottom: 4px;">
-        Previous Uploads & Real-Time Performance
+      <div class="section-title" style="margin-bottom: 4px;" id="tableSectionTitle">
+        Published Shorts & Real-Time Performance
       </div>
       <p style="font-size: 13px; color: var(--text-secondary); margin-bottom: 16px;">
         Live views, likes, and engagement synced directly from the YouTube Data API v3.
@@ -638,7 +724,7 @@
         <table>
           <thead>
             <tr>
-              <th>Short</th>
+              <th>Short & Channel</th>
               <th>YouTube Views</th>
               <th>Likes</th>
               <th>TikTok Source Views</th>
@@ -648,50 +734,7 @@
             </tr>
           </thead>
           <tbody id="videoTableBody">
-            <!-- Video 1 -->
-            <tr>
-              <td>
-                <div class="video-col">
-                  <a href="https://www.youtube.com/shorts/8eEz1ehaSeg" target="_blank" class="video-thumb-link">
-                    <img src="https://i.ytimg.com/vi/8eEz1ehaSeg/hqdefault.jpg" alt="Thumbnail">
-                  </a>
-                  <div class="video-title-box">
-                    <h4><a href="https://www.youtube.com/shorts/8eEz1ehaSeg" target="_blank">Baby Followed Grandpa All the Way Out the Back Door 😂🌙 #tiktokgrowth...</a></h4>
-                    <div class="video-subtext">ID: 8eEz1ehaSeg • Category: Comedy (23)</div>
-                  </div>
-                </div>
-              </td>
-              <td><span class="stat-pill" id="liveViews_8eEz1ehaSeg">1</span></td>
-              <td><span class="stat-pill" id="liveLikes_8eEz1ehaSeg">0</span></td>
-              <td><span class="stat-pill" style="color: var(--accent-cyan);">5,110</span></td>
-              <td><span class="status-badge">Public Short</span></td>
-              <td style="color: var(--text-secondary); font-size: 13px;">Sep 2, 2026</td>
-              <td>
-                <a href="https://www.youtube.com/shorts/8eEz1ehaSeg" target="_blank" class="btn btn-yt" style="padding: 6px 12px; font-size: 12px;">Watch</a>
-              </td>
-            </tr>
-            <!-- Video 2 -->
-            <tr>
-              <td>
-                <div class="video-col">
-                  <a href="https://www.youtube.com/shorts/iuE3f2WfSlI" target="_blank" class="video-thumb-link">
-                    <img src="https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg" alt="Thumbnail">
-                  </a>
-                  <div class="video-title-box">
-                    <h4><a href="https://www.youtube.com/shorts/iuE3f2WfSlI" target="_blank">Baby Did the Full Morning Zombie Shuffle Behind Grandpa 😂☕ #shorts #funny #toddler</a></h4>
-                    <div class="video-subtext">ID: iuE3f2WfSlI • Category: Comedy (23)</div>
-                  </div>
-                </div>
-              </td>
-              <td><span class="stat-pill" id="liveViews_iuE3f2WfSlI">16</span></td>
-              <td><span class="stat-pill" id="liveLikes_iuE3f2WfSlI">1</span></td>
-              <td><span class="stat-pill" style="color: var(--accent-cyan);">9,430</span></td>
-              <td><span class="status-badge">Public Short</span></td>
-              <td style="color: var(--text-secondary); font-size: 13px;">Sep 1, 2026</td>
-              <td>
-                <a href="https://www.youtube.com/shorts/iuE3f2WfSlI" target="_blank" class="btn btn-yt" style="padding: 6px 12px; font-size: 12px;">Watch</a>
-              </td>
-            </tr>
+            <!-- Dynamic Video Rows rendered by JavaScript -->
           </tbody>
         </table>
       </div>
@@ -706,103 +749,47 @@
   </div>
 
   <script>
-    // Embedded initial data for instant display
-    let portalData = {
-      channel: { name: "Fun With Grandpaa", handle: "@FunWithGrandpaa" },
-      kpis: { total_uploads: 2, total_views: 17, total_likes: 1 },
-      videos: [
-        {
-          youtube_id: "8eEz1ehaSeg",
-          title: "Baby Followed Grandpa All the Way Out the Back Door 😂🌙 #tiktokgrowth...",
-          tiktok_views: 5110,
-          youtube_views: 1,
-          youtube_likes: 0,
-          status: "uploaded",
-          uploaded_at: "2026-09-02T06:06:57Z",
-          thumbnail: "https://i.ytimg.com/vi/8eEz1ehaSeg/hqdefault.jpg"
-        },
-        {
-          youtube_id: "iuE3f2WfSlI",
-          title: "Baby Did the Full Morning Zombie Shuffle Behind Grandpa 😂☕ #shorts #funny #toddler",
-          tiktok_views: 9430,
-          youtube_views: 16,
-          youtube_likes: 1,
-          status: "uploaded",
-          uploaded_at: "2026-09-01T07:42:18Z",
-          thumbnail: "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg"
-        }
-      ]
-    };
+    let activeChannelFilter = 'all';
+    let portalData = null;
 
-    // Live countdown calculations to target schedules
-    function updateCountdowns() {
+    function selectChannel(channelId) {
+      activeChannelFilter = channelId;
+      document.querySelectorAll('.channel-tab').forEach(tab => {
+        tab.classList.remove('active');
+      });
+      const activeBtn = document.getElementById('tab_' + channelId);
+      if (activeBtn) activeBtn.classList.add('active');
+      renderUI();
+    }
+
+    function formatDiff(diff) {
+      if (diff <= 0) return "00:00:00";
+      const hours = Math.floor(diff / (1000 * 60 * 60));
+      const mins = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+      const secs = Math.floor((diff % (1000 * 60)) / 1000);
+      return `${String(hours).padStart(2, '0')}:${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
+    }
+
+    function getTimeUntilUTC(utcHour, utcMin = 0) {
       const now = new Date();
-      const todayUTC = new Date().toISOString().slice(0, 10);
-      const runs = (portalData && portalData.runs) || [];
-      const slot1RanToday = runs.some(r => r.slot === 1 && r.run_date === todayUTC && r.status === 'success');
-      const slot2RanToday = runs.some(r => r.slot === 2 && r.run_date === todayUTC && r.status === 'success');
-
-      function formatDiff(diff) {
-        if (diff <= 0) return "00:00:00";
-        const hours = Math.floor(diff / (1000 * 60 * 60));
-        const mins = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
-        const secs = Math.floor((diff % (1000 * 60)) / 1000);
-        return `${String(hours).padStart(2, '0')}:${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
+      const target = new Date();
+      target.setUTCHours(utcHour, utcMin, 0, 0);
+      if (target <= now) {
+        target.setUTCDate(target.getUTCDate() + 1);
       }
+      return target - now;
+    }
 
-      const slot1El = document.getElementById('slot1Countdown');
-      const slot2El = document.getElementById('slot2Countdown');
-
-      if (slot1El) {
-        if (slot1RanToday) {
-          slot1El.textContent = "Done for Today ✓";
-          slot1El.style.color = "var(--accent-emerald)";
-          slot1El.style.fontSize = "20px";
-        } else if (portalData && portalData.upcoming && portalData.upcoming.slot1 && portalData.upcoming.slot1.target_iso) {
-          const target = new Date(portalData.upcoming.slot1.target_iso);
-          const diff = target - now;
-          slot1El.style.fontSize = "24px";
-          if (diff <= 0) {
-            slot1El.textContent = "Executing Live...";
-            slot1El.style.color = "var(--accent-emerald)";
-          } else {
-            slot1El.textContent = formatDiff(diff);
-            slot1El.style.color = "var(--accent-emerald)";
-          }
-        } else {
-          const target = new Date();
-          target.setUTCHours(22, 0, 0, 0);
-          if (target <= now) target.setUTCDate(target.getUTCDate() + 1);
-          slot1El.style.fontSize = "24px";
-          slot1El.textContent = formatDiff(target - now);
-          slot1El.style.color = "var(--text-primary)";
-        }
-      }
-
-      if (slot2El) {
-        if (slot2RanToday) {
-          slot2El.textContent = "Done for Today ✓";
-          slot2El.style.color = "var(--accent-emerald)";
-          slot2El.style.fontSize = "20px";
-        } else if (portalData && portalData.upcoming && portalData.upcoming.slot2 && portalData.upcoming.slot2.target_iso) {
-          const target = new Date(portalData.upcoming.slot2.target_iso);
-          const diff = target - now;
-          slot2El.style.fontSize = "24px";
-          slot2El.textContent = diff <= 0 ? "00:00:00" : formatDiff(diff);
-        } else {
-          const target = new Date();
-          target.setUTCHours(0, 0, 0, 0);
-          if (target <= now) target.setUTCDate(target.getUTCDate() + 1);
-          slot2El.style.fontSize = "24px";
-          slot2El.textContent = formatDiff(target - now);
-        }
-      }
+    function updateCountdowns() {
+      document.querySelectorAll('[data-countdown-utc]').forEach(el => {
+        const utcHour = parseInt(el.getAttribute('data-countdown-utc'), 10);
+        const diff = getTimeUntilUTC(utcHour);
+        el.textContent = formatDiff(diff);
+      });
     }
 
     setInterval(updateCountdowns, 1000);
-    updateCountdowns();
 
-    // Fetch live data from local API or portal_data.json
     async function fetchData(triggerRefresh = false) {
       const refreshBtn = document.getElementById('refreshBtn');
       const icon = refreshBtn ? refreshBtn.querySelector('svg') : null;
@@ -815,20 +802,17 @@
       try {
         if (triggerRefresh) {
           try {
-            // Live server sync if running locally via dashboard.py
             let apiRes = await fetch('/api/refresh', { cache: 'no-store' });
             if (apiRes.ok) {
               const freshData = await apiRes.json();
-              if (freshData && freshData.channel) {
+              if (freshData) {
                 portalData = freshData;
                 renderUI();
                 updateLastSyncTime(freshData.last_updated);
                 return;
               }
             }
-          } catch (err) {
-            // Static host (GitHub Pages) or /api/refresh not available, fall back to portal_data.json
-          }
+          } catch (err) {}
         }
 
         let res = await fetch('./portal_data.json?t=' + Date.now(), { cache: 'no-store' });
@@ -839,7 +823,7 @@
           updateLastSyncTime(data.last_updated);
         }
       } catch (e) {
-        console.log("Using cached/embedded data:", e);
+        console.log("Error loading portal data:", e);
       } finally {
         if (refreshBtn) {
           refreshBtn.disabled = false;
@@ -863,143 +847,325 @@
     function renderUI() {
       if (!portalData) return;
 
-      const videos = portalData.videos || [];
-      const kpis = portalData.kpis || {};
-      const runs = portalData.runs || [];
-      const upcoming = portalData.upcoming || {};
+      const channels = portalData.channels || {};
+      const cumulative = portalData.cumulative || {};
+      const allVideos = portalData.videos || [];
+      const ch1 = channels.channel_1 || {};
+      const ch2 = channels.channel_2 || {};
 
-      const todayUTC = new Date().toISOString().slice(0, 10);
-      const slot1RanToday = runs.some(r => r.slot === 1 && r.run_date === todayUTC && r.status === 'success');
-      const slot2RanToday = runs.some(r => r.slot === 2 && r.run_date === todayUTC && r.status === 'success');
+      // 1. Update Channel Badges
+      const badgeAll = document.getElementById('badgeAll');
+      const badgeCh1 = document.getElementById('badgeCh1');
+      const badgeCh2 = document.getElementById('badgeCh2');
+      if (badgeAll) badgeAll.textContent = allVideos.length;
+      if (badgeCh1) badgeCh1.textContent = (ch1.videos || []).length;
+      if (badgeCh2) badgeCh2.textContent = (ch2.videos || []).length;
 
-      // 1. KPI Metrics
-      const kpiUploadsEl = document.getElementById('kpiTotalUploads');
-      if (kpiUploadsEl) kpiUploadsEl.textContent = kpis.total_uploads !== undefined ? kpis.total_uploads : videos.length;
-      
-      let sumViews = kpis.total_views !== undefined ? kpis.total_views : 0;
-      if (sumViews === 0 && videos.length > 0) {
-        videos.forEach(v => { sumViews += (v.youtube_views || 0); });
-      }
-      const kpiViewsEl = document.getElementById('kpiTotalViews');
-      if (kpiViewsEl) kpiViewsEl.textContent = sumViews.toLocaleString();
+      // 2. Header & Branding
+      const avatarEl = document.getElementById('headerAvatar');
+      const titleEl = document.getElementById('headerTitle');
+      const subEl = document.getElementById('headerSubtitle');
+      const visitBtn = document.getElementById('headerVisitBtn');
+      const visitText = document.getElementById('headerVisitText');
 
-      // 2. Upcoming Slot 1 Card
-      const slot1TagEl = document.getElementById('slot1Tag');
-      const slot1TitleEl = document.getElementById('slot1Title');
-      const slot1StrategyEl = document.getElementById('slot1Strategy');
-      const slot1StatusEl = document.getElementById('slot1Status');
-
-      const todayRun1 = runs.find(r => r.slot === 1 && r.run_date === todayUTC && r.status === 'success');
-      const todayVideo1 = todayRun1 ? videos.find(v => v.youtube_id === todayRun1.video_id) : null;
-
-      if (slot1RanToday) {
-        if (slot1TagEl) {
-          slot1TagEl.textContent = "Slot 1 • Completed for Today";
-          slot1TagEl.style.background = 'rgba(0, 242, 152, 0.15)';
-          slot1TagEl.style.color = 'var(--accent-emerald)';
-          slot1TagEl.style.borderColor = 'rgba(0, 242, 152, 0.3)';
-        }
-        if (slot1TitleEl) {
-          slot1TitleEl.textContent = todayVideo1 ? todayVideo1.title : "Slot 1 Uploaded Today";
-        }
-        if (slot1StrategyEl) {
-          if (todayVideo1) {
-            slot1StrategyEl.innerHTML = `Uploaded Today: <a href="https://www.youtube.com/shorts/${todayVideo1.youtube_id}" target="_blank" style="color: var(--accent-cyan); font-weight: 600; text-decoration: none;">Watch on YouTube (${todayVideo1.youtube_id}) ↗</a> • Next Slot 1: Tomorrow 6:00 PM ET`;
-          } else {
-            slot1StrategyEl.innerHTML = `Upload completed successfully • Next Slot 1: Tomorrow 6:00 PM ET`;
-          }
-        }
-        if (slot1StatusEl) {
-          slot1StatusEl.textContent = 'Executed Today';
-          slot1StatusEl.style.background = 'rgba(0, 242, 152, 0.15)';
-          slot1StatusEl.style.color = 'var(--accent-emerald)';
-          slot1StatusEl.style.borderColor = 'rgba(0, 242, 152, 0.3)';
-        }
-      } else {
-        if (slot1TagEl && upcoming.slot1) {
-          slot1TagEl.textContent = `Slot 1 • Today 6:00 PM US ET (22:00 UTC)`;
-          slot1TagEl.style.background = 'rgba(255, 0, 51, 0.12)';
-          slot1TagEl.style.color = '#ff4d6d';
-          slot1TagEl.style.borderColor = 'rgba(255, 0, 51, 0.25)';
-        }
-        if (slot1TitleEl && upcoming.slot1 && upcoming.slot1.title) {
-          slot1TitleEl.textContent = upcoming.slot1.title;
-        }
-        if (slot1StrategyEl && upcoming.slot1 && upcoming.slot1.strategy) {
-          slot1StrategyEl.innerHTML = `Strategy: <strong>${upcoming.slot1.strategy}</strong> from ${upcoming.slot1.creator || '@funnytoddle_r'}`;
-        }
-        if (slot1StatusEl) {
-          slot1StatusEl.textContent = upcoming.slot1?.status || 'Queued (Slot 1)';
-          slot1StatusEl.style.background = 'rgba(0, 212, 255, 0.15)';
-          slot1StatusEl.style.color = 'var(--accent-cyan)';
-          slot1StatusEl.style.borderColor = 'rgba(0, 212, 255, 0.3)';
-        }
-      }
-
-      // 3. Upcoming Slot 2 Card
-      const slot2TitleEl = document.getElementById('slot2Title');
-      const slot2StatusEl = document.getElementById('slot2Status');
-      if (slot2TitleEl && upcoming.slot2 && upcoming.slot2.title) {
-        slot2TitleEl.textContent = upcoming.slot2.title;
-      }
-      if (slot2StatusEl) {
-        if (slot2RanToday) {
-          slot2StatusEl.textContent = 'Executed Tonight';
-          slot2StatusEl.style.background = 'rgba(0, 242, 152, 0.15)';
-          slot2StatusEl.style.color = 'var(--accent-emerald)';
-          slot2StatusEl.style.borderColor = 'rgba(0, 242, 152, 0.3)';
+      if (activeChannelFilter === 'all') {
+        avatarEl.innerHTML = '🌐';
+        avatarEl.style.background = 'linear-gradient(135deg, var(--accent-purple), var(--accent-cyan))';
+        titleEl.innerHTML = `Multi-Channel Automation Network <span class="badge-live"><span class="pulse-dot"></span> 24/7 Automation Live</span>`;
+        subEl.innerHTML = `<span>Active Channels: <strong>2 Channels Online</strong></span> <span>•</span> <span>Combined Schedule: <strong>4 Uploads / Day</strong></span>`;
+        visitBtn.href = "https://www.youtube.com/@FunWithGrandpaa";
+        visitText.textContent = "Visit Channels";
+      } else if (activeChannelFilter === 'channel_1') {
+        if (ch1.avatar) {
+          avatarEl.innerHTML = `<img src="${ch1.avatar}" alt="Avatar">`;
         } else {
-          slot2StatusEl.textContent = upcoming.slot2?.status || 'Next in Queue';
-          slot2StatusEl.style.background = 'rgba(0, 212, 255, 0.15)';
-          slot2StatusEl.style.color = 'var(--accent-cyan)';
-          slot2StatusEl.style.borderColor = 'rgba(0, 212, 255, 0.3)';
+          avatarEl.textContent = ch1.avatar_letter || 'G';
         }
+        avatarEl.style.background = 'linear-gradient(135deg, var(--accent-red), #b30024)';
+        titleEl.innerHTML = `${ch1.name || 'Fun With Grandpaa'} <span class="badge-live"><span class="pulse-dot"></span> 24/7 Automation Live</span>`;
+        subEl.innerHTML = `<span>YouTube: <strong>${ch1.handle || '@FunWithGrandpaa'}</strong></span> <span>•</span> <span>TikTok Source: <strong>@${ch1.tiktok_source || 'funnytoddle_r'}</strong></span>`;
+        visitBtn.href = ch1.url || "https://www.youtube.com/@FunWithGrandpaa";
+        visitText.textContent = "Visit Channel";
+      } else if (activeChannelFilter === 'channel_2') {
+        if (ch2.avatar) {
+          avatarEl.innerHTML = `<img src="${ch2.avatar}" alt="Avatar">`;
+        } else {
+          avatarEl.textContent = ch2.avatar_letter || 'T';
+        }
+        avatarEl.style.background = 'linear-gradient(135deg, var(--accent-gold), #d47a2a)';
+        titleEl.innerHTML = `${ch2.name || 'Taste & Tales'} <span class="badge-live"><span class="pulse-dot"></span> 24/7 Automation Live</span>`;
+        subEl.innerHTML = `<span>YouTube: <strong>${ch2.handle || '@tastetales-b2z'}</strong></span> <span>•</span> <span>TikTok Source: <strong>@${ch2.tiktok_source || 'dailychefstories'}</strong></span>`;
+        visitBtn.href = ch2.url || "https://www.youtube.com/channel/UCm_Kob5IQbOT33pqMc1GcUw";
+        visitText.textContent = "Visit Channel";
       }
 
-      // 4. Video Table Rows
-      const tbody = document.getElementById('videoTableBody');
-      if (tbody && videos.length > 0) {
-        tbody.innerHTML = '';
-        videos.forEach(v => {
-          const row = document.createElement('tr');
-          const dateStr = v.uploaded_at ? new Date(v.uploaded_at).toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' }) : 'Recent';
-          
-          row.innerHTML = `
-            <td>
-              <div class="video-col">
-                <a href="https://www.youtube.com/shorts/${v.youtube_id}" target="_blank" class="video-thumb-link">
-                  <img src="${v.thumbnail || 'https://i.ytimg.com/vi/' + v.youtube_id + '/hqdefault.jpg'}" alt="Thumbnail">
-                </a>
-                <div class="video-title-box">
-                  <h4><a href="https://www.youtube.com/shorts/${v.youtube_id}" target="_blank">${v.title}</a></h4>
-                  <div class="video-subtext">ID: ${v.youtube_id} • Category: Comedy (23)</div>
-                </div>
-              </div>
-            </td>
-            <td><span class="stat-pill">${(v.youtube_views || 0).toLocaleString()}</span></td>
-            <td><span class="stat-pill">${(v.youtube_likes || 0).toLocaleString()}</span></td>
-            <td><span class="stat-pill" style="color: var(--accent-cyan);">${(v.tiktok_views || 0).toLocaleString()}</span></td>
-            <td><span class="status-badge">Public Short</span></td>
-            <td style="color: var(--text-secondary); font-size: 13px;">${dateStr}</td>
-            <td>
-              <a href="https://www.youtube.com/shorts/${v.youtube_id}" target="_blank" class="btn btn-yt" style="padding: 6px 12px; font-size: 12px;">
-                Watch
-              </a>
-            </td>
-          `;
-          tbody.appendChild(row);
-        });
+      // 3. KPI Cards
+      const kpiUploads = document.getElementById('kpiTotalUploads');
+      const kpiUploadsSub = document.getElementById('kpiUploadsSub');
+      const kpiViews = document.getElementById('kpiTotalViews');
+      const kpiViewsSub = document.getElementById('kpiViewsSub');
+      const kpiSchedule = document.getElementById('kpiSchedule');
+      const kpiScheduleSub = document.getElementById('kpiScheduleSub');
+
+      if (activeChannelFilter === 'all') {
+        kpiUploads.textContent = cumulative.total_uploads !== undefined ? cumulative.total_uploads : allVideos.length;
+        kpiUploadsSub.textContent = "Across 2 active channels";
+        kpiViews.textContent = (cumulative.total_views || 0).toLocaleString();
+        kpiViewsSub.textContent = "Cumulative network views";
+        kpiSchedule.textContent = "4 / Day";
+        kpiScheduleSub.textContent = "4 Non-Colliding Daily Slots";
+      } else if (activeChannelFilter === 'channel_1') {
+        kpiUploads.textContent = ch1.total_uploads !== undefined ? ch1.total_uploads : (ch1.videos || []).length;
+        kpiUploadsSub.textContent = "Published by Fun With Grandpaa";
+        kpiViews.textContent = (ch1.total_views || 0).toLocaleString();
+        kpiViewsSub.textContent = "Channel total views";
+        kpiSchedule.textContent = "2 / Day";
+        kpiScheduleSub.textContent = "6:00 PM & 8:00 PM US ET";
+      } else if (activeChannelFilter === 'channel_2') {
+        kpiUploads.textContent = ch2.total_uploads !== undefined ? ch2.total_uploads : (ch2.videos || []).length;
+        kpiUploadsSub.textContent = "Published by Taste & Tales";
+        kpiViews.textContent = (ch2.total_views || 0).toLocaleString();
+        kpiViewsSub.textContent = "Channel total views";
+        kpiSchedule.textContent = "2 / Day";
+        kpiScheduleSub.textContent = "11:00 AM & 3:00 PM US ET";
       }
+
+      // 4. Upcoming Queue Cards
+      renderUpcomingCards(ch1, ch2);
+
+      // 5. Video Table Rows
+      renderVideoTable(allVideos);
     }
 
-    // Initial load
+    function renderUpcomingCards(ch1, ch2) {
+      const container = document.getElementById('upcomingGridContainer');
+      if (!container) return;
+
+      const todayUTC = new Date().toISOString().slice(0, 10);
+      const ch1Runs = ch1.runs || [];
+      const ch1Slot1RanToday = ch1Runs.some(r => r.slot === 1 && r.run_date === todayUTC && r.status === 'success');
+      const ch1TodayRun1 = ch1Runs.find(r => r.slot === 1 && r.run_date === todayUTC && r.status === 'success');
+      const ch1TodayVid1 = ch1TodayRun1 ? (ch1.videos || []).find(v => v.youtube_id === ch1TodayRun1.video_id) : null;
+
+      let cardsHtml = '';
+
+      // Card 1: Taste & Tales Slot 1 (11:00 AM ET / 15:00 UTC)
+      if (activeChannelFilter === 'all' || activeChannelFilter === 'channel_2') {
+        cardsHtml += `
+          <div class="upcoming-card">
+            <div>
+              <span class="slot-tag tag-ch2">🍳 Taste & Tales • 11:00 AM US ET (15:00 UTC)</span>
+              <h3 style="font-size: 18px; margin-bottom: 6px;">Crispy Lunchtime Recipe Short</h3>
+              <p style="font-size: 13px; color: var(--text-secondary);">
+                Strategy: <strong>Auto-Transcription + Styled Subtitles</strong> from @${ch2.tiktok_source || 'dailychefstories'}
+              </p>
+            </div>
+            <div class="upcoming-timer-box">
+              <div>
+                <div style="font-size: 11px; text-transform: uppercase; color: var(--text-muted); font-weight: 600;">Time Until Run</div>
+                <div class="countdown-display" data-countdown-utc="15">--:--:--</div>
+              </div>
+              <div style="text-align: right;">
+                <span class="status-badge" style="background: rgba(255, 170, 0, 0.15); color: #ffc048; border-color: rgba(255, 170, 0, 0.3);">Queued (Slot 1)</span>
+              </div>
+            </div>
+            <div class="upcoming-meta">
+              <div>📍 US Daytime Audience</div>
+              <div>•</div>
+              <div>✨ Full HD + Auto-Subtitles</div>
+            </div>
+          </div>
+        `;
+      }
+
+      // Card 2: Taste & Tales Slot 2 (3:00 PM ET / 19:00 UTC)
+      if (activeChannelFilter === 'all' || activeChannelFilter === 'channel_2') {
+        cardsHtml += `
+          <div class="upcoming-card">
+            <div>
+              <span class="slot-tag tag-ch2">🍳 Taste & Tales • 3:00 PM US ET (19:00 UTC)</span>
+              <h3 style="font-size: 18px; margin-bottom: 6px;">Evening Culinary Feast Short</h3>
+              <p style="font-size: 13px; color: var(--text-secondary);">
+                Strategy: <strong>Viral High-View Recipe</strong> from @${ch2.tiktok_source || 'dailychefstories'}
+              </p>
+            </div>
+            <div class="upcoming-timer-box">
+              <div>
+                <div style="font-size: 11px; text-transform: uppercase; color: var(--text-muted); font-weight: 600;">Time Until Run</div>
+                <div class="countdown-display" data-countdown-utc="19">--:--:--</div>
+              </div>
+              <div style="text-align: right;">
+                <span class="status-badge" style="background: rgba(255, 170, 0, 0.15); color: #ffc048; border-color: rgba(255, 170, 0, 0.3);">Queued (Slot 2)</span>
+              </div>
+            </div>
+            <div class="upcoming-meta">
+              <div>📍 US Evening Prep</div>
+              <div>•</div>
+              <div>✨ Enhanced Colors + Normalized Audio</div>
+            </div>
+          </div>
+        `;
+      }
+
+      // Card 3: Fun With Grandpaa Slot 1 (6:00 PM ET / 22:00 UTC)
+      if (activeChannelFilter === 'all' || activeChannelFilter === 'channel_1') {
+        if (ch1Slot1RanToday) {
+          cardsHtml += `
+            <div class="upcoming-card">
+              <div>
+                <span class="slot-tag tag-ch1" style="background: rgba(0, 242, 152, 0.15); color: var(--accent-emerald); border-color: rgba(0, 242, 152, 0.3);">👶 Fun With Grandpaa • Slot 1 Completed Today</span>
+                <h3 style="font-size: 18px; margin-bottom: 6px;">${ch1TodayVid1 ? ch1TodayVid1.title : 'Baby Followed Grandpa All the Way Out the Back Door 😂🌙'}</h3>
+                <p style="font-size: 13px; color: var(--text-secondary);">
+                  ${ch1TodayVid1 ? `<a href="https://www.youtube.com/shorts/${ch1TodayVid1.youtube_id}" target="_blank" style="color: var(--accent-cyan); font-weight: 600; text-decoration: none;">Watch on YouTube (${ch1TodayVid1.youtube_id}) ↗</a> • Next Slot 1: Tomorrow 6:00 PM ET` : 'Upload completed successfully • Next Slot 1: Tomorrow 6:00 PM ET'}
+                </p>
+              </div>
+              <div class="upcoming-timer-box">
+                <div>
+                  <div style="font-size: 11px; text-transform: uppercase; color: var(--text-muted); font-weight: 600;">Execution Status</div>
+                  <div class="countdown-display" style="color: var(--accent-emerald); font-size: 20px;">Done for Today ✓</div>
+                </div>
+                <div style="text-align: right;">
+                  <span class="status-badge" style="background: rgba(0, 242, 152, 0.15); color: var(--accent-emerald); border-color: rgba(0, 242, 152, 0.3);">Executed Today</span>
+                </div>
+              </div>
+              <div class="upcoming-meta">
+                <div>📍 US Prime-Time</div>
+                <div>•</div>
+                <div>🛡️ Watermark-Free + Audio Verified</div>
+              </div>
+            </div>
+          `;
+        } else {
+          cardsHtml += `
+            <div class="upcoming-card">
+              <div>
+                <span class="slot-tag tag-ch1">👶 Fun With Grandpaa • 6:00 PM US ET (22:00 UTC)</span>
+                <h3 style="font-size: 18px; margin-bottom: 6px;">Baby Followed Grandpa All the Way Out the Back Door 😂🌙</h3>
+                <p style="font-size: 13px; color: var(--text-secondary);">
+                  Strategy: <strong>Newest Video</strong> from @funnytoddle_r
+                </p>
+              </div>
+              <div class="upcoming-timer-box">
+                <div>
+                  <div style="font-size: 11px; text-transform: uppercase; color: var(--text-muted); font-weight: 600;">Time Until Run</div>
+                  <div class="countdown-display" data-countdown-utc="22">--:--:--</div>
+                </div>
+                <div style="text-align: right;">
+                  <span class="status-badge">Queued (Slot 1)</span>
+                </div>
+              </div>
+              <div class="upcoming-meta">
+                <div>📍 US Prime-Time</div>
+                <div>•</div>
+                <div>🛡️ Watermark-Free + Audio Verified</div>
+              </div>
+            </div>
+          `;
+        }
+      }
+
+      // Card 4: Fun With Grandpaa Slot 2 (8:00 PM ET / 00:00 UTC)
+      if (activeChannelFilter === 'all' || activeChannelFilter === 'channel_1') {
+        cardsHtml += `
+          <div class="upcoming-card">
+            <div>
+              <span class="slot-tag tag-ch1">👶 Fun With Grandpaa • Tonight 8:00 PM US ET (00:00 UTC)</span>
+              <h3 style="font-size: 18px; margin-bottom: 6px;">Funniest Baby Laugh Ever With Grandpa</h3>
+              <p style="font-size: 13px; color: var(--text-secondary);">
+                Strategy: <strong>Most-Viewed Video (Viral Pick)</strong> from @funnytoddle_r
+              </p>
+            </div>
+            <div class="upcoming-timer-box">
+              <div>
+                <div style="font-size: 11px; text-transform: uppercase; color: var(--text-muted); font-weight: 600;">Time Until Run</div>
+                <div class="countdown-display" data-countdown-utc="0">--:--:--</div>
+              </div>
+              <div style="text-align: right;">
+                <span class="status-badge" style="background: rgba(0, 212, 255, 0.15); color: var(--accent-cyan); border-color: rgba(0, 212, 255, 0.3);">Next in Queue</span>
+              </div>
+            </div>
+            <div class="upcoming-meta">
+              <div>📍 US Night Prime-Time</div>
+              <div>•</div>
+              <div>🔥 High-View Priority</div>
+            </div>
+          </div>
+        `;
+      }
+
+      container.innerHTML = cardsHtml;
+      updateCountdowns();
+    }
+
+    function renderVideoTable(allVideos) {
+      const tbody = document.getElementById('videoTableBody');
+      if (!tbody) return;
+
+      let filteredVideos = allVideos;
+      if (activeChannelFilter !== 'all') {
+        filteredVideos = allVideos.filter(v => v.channel_id === activeChannelFilter);
+      }
+
+      if (filteredVideos.length === 0) {
+        tbody.innerHTML = `
+          <tr>
+            <td colspan="7" style="text-align: center; padding: 48px; color: var(--text-muted);">
+              <div style="font-size: 28px; margin-bottom: 8px;">🍳</div>
+              <div style="font-size: 15px; font-weight: 600; color: var(--text-secondary);">No videos uploaded to this channel yet</div>
+              <div style="font-size: 12px; margin-top: 4px;">Next automated upload scheduled at 11:00 AM US ET (15:00 UTC) with auto-transcribed subtitles!</div>
+            </td>
+          </tr>
+        `;
+        return;
+      }
+
+      tbody.innerHTML = '';
+      filteredVideos.forEach(v => {
+        const row = document.createElement('tr');
+        const dateStr = v.uploaded_at ? new Date(v.uploaded_at).toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' }) : 'Recent';
+        const isCh1 = v.channel_id === 'channel_1';
+        const badgeClass = isCh1 ? 'channel-badge-ch1' : 'channel-badge-ch2';
+        const badgeIcon = isCh1 ? '👶' : '🍳';
+        const channelLabel = isCh1 ? 'Fun With Grandpaa' : 'Taste & Tales';
+
+        row.innerHTML = `
+          <td>
+            <div class="video-col">
+              <a href="https://www.youtube.com/shorts/${v.youtube_id}" target="_blank" class="video-thumb-link">
+                <img src="${v.thumbnail || 'https://i.ytimg.com/vi/' + v.youtube_id + '/hqdefault.jpg'}" alt="Thumbnail">
+              </a>
+              <div class="video-title-box">
+                <h4><a href="https://www.youtube.com/shorts/${v.youtube_id}" target="_blank">${v.title}</a></h4>
+                <div class="video-subtext">
+                  <span class="channel-badge-pill ${badgeClass}">${badgeIcon} ${channelLabel}</span>
+                  <span>•</span>
+                  <span>ID: ${v.youtube_id}</span>
+                </div>
+              </div>
+            </div>
+          </td>
+          <td><span class="stat-pill">${(v.youtube_views || 0).toLocaleString()}</span></td>
+          <td><span class="stat-pill">${(v.youtube_likes || 0).toLocaleString()}</span></td>
+          <td><span class="stat-pill" style="color: var(--accent-cyan);">${(v.tiktok_views || 0).toLocaleString()}</span></td>
+          <td><span class="status-badge">Public Short</span></td>
+          <td style="color: var(--text-secondary); font-size: 13px;">${dateStr}</td>
+          <td>
+            <a href="https://www.youtube.com/shorts/${v.youtube_id}" target="_blank" class="btn btn-yt" style="padding: 6px 12px; font-size: 12px;">
+              Watch
+            </a>
+          </td>
+        `;
+        tbody.appendChild(row);
+      });
+    }
+
+    // Initial fetch
     fetchData();
 
-    // Auto-refresh dynamically every 30 seconds
+    // Auto-refresh every 30 seconds
     setInterval(() => {
       fetchData(false);
     }, 30000);
-
   </script>
 </body>
 </html>
