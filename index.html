@@ -903,6 +903,10 @@
       const runs = portalData.runs || [];
       const upcoming = portalData.upcoming || {};
 
+      const todayUTC = new Date().toISOString().slice(0, 10);
+      const slot1RanToday = runs.some(r => r.slot === 1 && r.run_date === todayUTC && r.status === 'success');
+      const slot2RanToday = runs.some(r => r.slot === 2 && r.run_date === todayUTC && r.status === 'success');
+
       // 1. KPI Metrics
       const kpiUploadsEl = document.getElementById('kpiTotalUploads');
       if (kpiUploadsEl) kpiUploadsEl.textContent = kpis.total_uploads !== undefined ? kpis.total_uploads : videos.length;
