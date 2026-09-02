@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 2,
-    "total_views": 16,
+    "total_uploads": 3,
+    "total_views": 18,
     "total_likes": 1,
     "total_subscribers": 0,
     "channels_count": 2,
@@ -21,8 +21,8 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 2,
-      "total_views": 16,
+      "total_uploads": 3,
+      "total_views": 18,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -48,6 +48,20 @@
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7680549553862429966",
+          "youtube_id": "bedJBHUaRyU",
+          "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25 #tiktokgrowth...",
+          "tiktok_views": 18000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/bedJBHUaRyU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-02T07:28:08Z"
+        },
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
           "tiktok_id": "7680593673784020237",
           "youtube_id": "8eEz1ehaSeg",
           "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19  #tiktokgrowth...",
@@ -66,7 +80,7 @@
           "youtube_id": "iuE3f2WfSlI",
           "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
           "tiktok_views": 9430,
-          "youtube_views": 14,
+          "youtube_views": 16,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
@@ -75,6 +89,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 3,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-02",
+          "status": "success",
+          "video_id": "bedJBHUaRyU",
+          "error_message": null,
+          "created_at": "2026-09-02T07:28:11.246438+00:00"
+        },
         {
           "id": 1,
           "channel_id": "channel_1",
@@ -131,6 +155,20 @@
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7680549553862429966",
+      "youtube_id": "bedJBHUaRyU",
+      "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25 #tiktokgrowth...",
+      "tiktok_views": 18000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/bedJBHUaRyU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-02T07:28:08Z"
+    },
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7680593673784020237",
       "youtube_id": "8eEz1ehaSeg",
       "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19  #tiktokgrowth...",
@@ -149,7 +187,7 @@
       "youtube_id": "iuE3f2WfSlI",
       "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
       "tiktok_views": 9430,
-      "youtube_views": 14,
+      "youtube_views": 16,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
@@ -170,8 +208,8 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 2,
-    "total_views": 16,
+    "total_uploads": 3,
+    "total_views": 18,
     "total_likes": 1,
     "upcoming": {
       "slot1": {
@@ -197,6 +235,20 @@
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7680549553862429966",
+        "youtube_id": "bedJBHUaRyU",
+        "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25 #tiktokgrowth...",
+        "tiktok_views": 18000,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/bedJBHUaRyU/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-02T07:28:08Z"
+      },
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
         "tiktok_id": "7680593673784020237",
         "youtube_id": "8eEz1ehaSeg",
         "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19  #tiktokgrowth...",
@@ -215,7 +267,7 @@
         "youtube_id": "iuE3f2WfSlI",
         "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
         "tiktok_views": 9430,
-        "youtube_views": 14,
+        "youtube_views": 16,
         "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
@@ -224,6 +276,16 @@
       }
     ],
     "runs": [
+      {
+        "id": 3,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-02",
+        "status": "success",
+        "video_id": "bedJBHUaRyU",
+        "error_message": null,
+        "created_at": "2026-09-02T07:28:11.246438+00:00"
+      },
       {
         "id": 1,
         "channel_id": "channel_1",
@@ -237,8 +299,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 2,
-    "total_views": 16,
+    "total_uploads": 3,
+    "total_views": 18,
     "total_likes": 1,
     "videos_per_day": 4
   },
@@ -264,6 +326,16 @@
   },
   "runs": [
     {
+      "id": 3,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-02",
+      "status": "success",
+      "video_id": "bedJBHUaRyU",
+      "error_message": null,
+      "created_at": "2026-09-02T07:28:11.246438+00:00"
+    },
+    {
       "id": 1,
       "channel_id": "channel_1",
       "slot": 1,
@@ -274,5 +346,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-02T07:24:21.657046+00:00"
+  "last_updated": "2026-09-02T07:28:13.815259+00:00"
 }
