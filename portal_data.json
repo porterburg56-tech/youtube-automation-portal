@@ -1,44 +1,146 @@
 {
-  "channel": {
-    "name": "Fun With Grandpaa",
-    "handle": "@FunWithGrandpaa",
-    "id": "UCsPVNs8qEAdMi8JWf0eqajQ",
-    "url": "https://www.youtube.com/@FunWithGrandpaa",
-    "owner": "porterburg56@gmail.com",
-    "tiktok_source": "funnytoddle_r",
-    "tiktok_url": "https://www.tiktok.com/@funnytoddle_r",
-    "active": true
-  },
-  "kpis": {
+  "cumulative": {
     "total_uploads": 2,
-    "total_views": 16,
+    "total_views": 18,
     "total_likes": 1,
-    "videos_per_day": 2
+    "total_subscribers": 0,
+    "channels_count": 2,
+    "videos_per_day": 4
   },
-  "upcoming": {
-    "slot1": {
-      "slot": 1,
-      "time_utc": "22:00",
-      "time_et": "6:00 PM ET",
-      "strategy": "Newest Video",
-      "creator": "@funnytoddle_r",
-      "title": "Little Toddler Epic Dance Reaction",
-      "estimated_views": 8500,
-      "status": "Queued (Slot 1)"
+  "channels": {
+    "channel_1": {
+      "id": "channel_1",
+      "name": "Fun With Grandpaa",
+      "handle": "@funwithgrandpaa",
+      "youtube_id": "UCsPVNs8qEAdMi8JWf0eqajQ",
+      "url": "https://www.youtube.com/@FunWithGrandpaa",
+      "owner": "porterburg56@gmail.com",
+      "tiktok_source": "funnytoddle_r",
+      "tiktok_url": "https://www.tiktok.com/@funnytoddle_r",
+      "avatar": "https://yt3.ggpht.com/ytc/AIdro_lb-lBb6-rl_rxGgAnDeW8EvJQjI_nH6RhaFU61qkNyLtqKelCNJ2fbVBeKGbbGsTR3ag=s240-c-k-c0x00ffffff-no-rj",
+      "avatar_letter": "G",
+      "category": "Comedy & Toddler Moments",
+      "subscribers": 0,
+      "total_uploads": 2,
+      "total_views": 18,
+      "total_likes": 1,
+      "upcoming": {
+        "slot1": {
+          "slot": 1,
+          "time_utc": "22:00",
+          "time_et": "6:00 PM ET",
+          "time_local": "3:30 AM IST",
+          "strategy": "Newest Video",
+          "creator": "@funnytoddle_r",
+          "status": "Queued (Slot 1)"
+        },
+        "slot2": {
+          "slot": 2,
+          "time_utc": "00:00",
+          "time_et": "8:00 PM ET",
+          "time_local": "5:30 AM IST",
+          "strategy": "Most-Viewed Video",
+          "creator": "@funnytoddle_r",
+          "status": "Queued (Slot 2)"
+        }
+      },
+      "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7680593673784020237",
+          "youtube_id": "8eEz1ehaSeg",
+          "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19  #tiktokgrowth...",
+          "tiktok_views": 5110,
+          "youtube_views": 2,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/8eEz1ehaSeg/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-02T06:06:57Z"
+        },
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7680230295441771790",
+          "youtube_id": "iuE3f2WfSlI",
+          "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
+          "tiktok_views": 9430,
+          "youtube_views": 16,
+          "youtube_likes": 1,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-01T07:42:33Z"
+        }
+      ],
+      "runs": [
+        {
+          "id": 2,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-02",
+          "status": "success",
+          "video_id": "8eEz1ehaSeg",
+          "error_message": null,
+          "created_at": "2026-09-02T06:06:41.051414+00:00"
+        },
+        {
+          "id": 1,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-01",
+          "status": "success",
+          "video_id": "iuE3f2WfSlI",
+          "error_message": null,
+          "created_at": "2026-09-01T07:42:18.620928+00:00"
+        }
+      ]
     },
-    "slot2": {
-      "slot": 2,
-      "time_utc": "00:00",
-      "time_et": "8:00 PM ET",
-      "strategy": "Most-Viewed Video",
-      "creator": "@funnytoddle_r",
-      "title": "Funniest Baby Laugh Ever With Grandpa",
-      "estimated_views": 45000,
-      "status": "Queued (Slot 2)"
+    "channel_2": {
+      "id": "channel_2",
+      "name": "Taste & Tales",
+      "handle": "@tastetales-b2z",
+      "youtube_id": "UCm_Kob5IQbOT33pqMc1GcUw",
+      "url": "https://www.youtube.com/channel/UCm_Kob5IQbOT33pqMc1GcUw",
+      "owner": "porterburg56@gmail.com",
+      "tiktok_source": "dailychefstories",
+      "tiktok_url": "https://www.tiktok.com/@dailychefstories",
+      "avatar": "https://yt3.ggpht.com/BzfrtPYNdc_HaeUp-BzMgQYBKQzMy8kzHQwtG7rtTR2XGjy4qb_K_Q2gI9A4HwplzX5C5ZrCzQ=s240-c-k-c0x00ffffff-no-rj",
+      "avatar_letter": "T",
+      "category": "Cooking, Recipes & Stories",
+      "subscribers": 0,
+      "total_uploads": 0,
+      "total_views": 0,
+      "total_likes": 0,
+      "upcoming": {
+        "slot1": {
+          "slot": 1,
+          "time_utc": "15:00",
+          "time_et": "11:00 AM ET",
+          "time_local": "8:30 PM IST",
+          "strategy": "Lunchtime Recipe (Auto-Subtitles)",
+          "creator": "@dailychefstories",
+          "status": "Queued (Slot 1)"
+        },
+        "slot2": {
+          "slot": 2,
+          "time_utc": "19:00",
+          "time_et": "3:00 PM ET",
+          "time_local": "12:30 AM IST",
+          "strategy": "Evening Feast (Auto-Subtitles)",
+          "creator": "@dailychefstories",
+          "status": "Queued (Slot 2)"
+        }
+      },
+      "videos": [],
+      "runs": []
     }
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7680593673784020237",
       "youtube_id": "8eEz1ehaSeg",
       "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19  #tiktokgrowth...",
@@ -51,11 +153,13 @@
       "uploaded_at": "2026-09-02T06:06:57Z"
     },
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7680230295441771790",
       "youtube_id": "iuE3f2WfSlI",
       "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
       "tiktok_views": 9430,
-      "youtube_views": 14,
+      "youtube_views": 16,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
@@ -63,6 +167,121 @@
       "uploaded_at": "2026-09-01T07:42:33Z"
     }
   ],
+  "channel": {
+    "id": "channel_1",
+    "name": "Fun With Grandpaa",
+    "handle": "@funwithgrandpaa",
+    "youtube_id": "UCsPVNs8qEAdMi8JWf0eqajQ",
+    "url": "https://www.youtube.com/@FunWithGrandpaa",
+    "owner": "porterburg56@gmail.com",
+    "tiktok_source": "funnytoddle_r",
+    "tiktok_url": "https://www.tiktok.com/@funnytoddle_r",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_lb-lBb6-rl_rxGgAnDeW8EvJQjI_nH6RhaFU61qkNyLtqKelCNJ2fbVBeKGbbGsTR3ag=s240-c-k-c0x00ffffff-no-rj",
+    "avatar_letter": "G",
+    "category": "Comedy & Toddler Moments",
+    "subscribers": 0,
+    "total_uploads": 2,
+    "total_views": 18,
+    "total_likes": 1,
+    "upcoming": {
+      "slot1": {
+        "slot": 1,
+        "time_utc": "22:00",
+        "time_et": "6:00 PM ET",
+        "time_local": "3:30 AM IST",
+        "strategy": "Newest Video",
+        "creator": "@funnytoddle_r",
+        "status": "Queued (Slot 1)"
+      },
+      "slot2": {
+        "slot": 2,
+        "time_utc": "00:00",
+        "time_et": "8:00 PM ET",
+        "time_local": "5:30 AM IST",
+        "strategy": "Most-Viewed Video",
+        "creator": "@funnytoddle_r",
+        "status": "Queued (Slot 2)"
+      }
+    },
+    "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7680593673784020237",
+        "youtube_id": "8eEz1ehaSeg",
+        "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19  #tiktokgrowth...",
+        "tiktok_views": 5110,
+        "youtube_views": 2,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/8eEz1ehaSeg/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-02T06:06:57Z"
+      },
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7680230295441771790",
+        "youtube_id": "iuE3f2WfSlI",
+        "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
+        "tiktok_views": 9430,
+        "youtube_views": 16,
+        "youtube_likes": 1,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-01T07:42:33Z"
+      }
+    ],
+    "runs": [
+      {
+        "id": 2,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-02",
+        "status": "success",
+        "video_id": "8eEz1ehaSeg",
+        "error_message": null,
+        "created_at": "2026-09-02T06:06:41.051414+00:00"
+      },
+      {
+        "id": 1,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-01",
+        "status": "success",
+        "video_id": "iuE3f2WfSlI",
+        "error_message": null,
+        "created_at": "2026-09-01T07:42:18.620928+00:00"
+      }
+    ]
+  },
+  "kpis": {
+    "total_uploads": 2,
+    "total_views": 18,
+    "total_likes": 1,
+    "videos_per_day": 4
+  },
+  "upcoming": {
+    "slot1": {
+      "slot": 1,
+      "time_utc": "22:00",
+      "time_et": "6:00 PM ET",
+      "time_local": "3:30 AM IST",
+      "strategy": "Newest Video",
+      "creator": "@funnytoddle_r",
+      "status": "Queued (Slot 1)"
+    },
+    "slot2": {
+      "slot": 2,
+      "time_utc": "00:00",
+      "time_et": "8:00 PM ET",
+      "time_local": "5:30 AM IST",
+      "strategy": "Most-Viewed Video",
+      "creator": "@funnytoddle_r",
+      "status": "Queued (Slot 2)"
+    }
+  },
   "runs": [
     {
       "id": 2,
@@ -85,5 +304,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-02T06:35:01.552359+00:00"
+  "last_updated": "2026-09-02T07:09:12.344223+00:00"
 }
