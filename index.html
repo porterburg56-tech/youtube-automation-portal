@@ -576,20 +576,20 @@
       <!-- Slot 1 Card -->
       <div class="upcoming-card">
         <div>
-          <span class="slot-tag slot1" id="slot1Tag">⚡ Live Test Slot 1 • Today 11:35 AM IST (06:05 UTC)</span>
-          <h3 style="font-size: 18px; margin-bottom: 6px;" id="slot1Title">Little Toddler Epic Dance Reaction</h3>
+          <span class="slot-tag slot1" id="slot1Tag" style="background: rgba(0, 242, 152, 0.15); color: var(--accent-emerald); border-color: rgba(0, 242, 152, 0.3);">Slot 1 • Completed for Today</span>
+          <h3 style="font-size: 18px; margin-bottom: 6px;" id="slot1Title">Baby Followed Grandpa All the Way Out the Back Door 😂🌙</h3>
           <p style="font-size: 13px; color: var(--text-secondary);" id="slot1Strategy">
-            Strategy: <strong>Newest Unposted Video (Full HD 1080p Live Test)</strong> from @funnytoddle_r
+            Uploaded Today: <a href="https://www.youtube.com/shorts/8eEz1ehaSeg" target="_blank" style="color: var(--accent-cyan); font-weight: 600; text-decoration: none;">Watch on YouTube (8eEz1ehaSeg) ↗</a> • Next Slot 1: Tomorrow 6:00 PM ET
           </p>
         </div>
 
         <div class="upcoming-timer-box">
           <div>
-            <div style="font-size: 11px; text-transform: uppercase; color: var(--text-muted); font-weight: 600;">Time Until Run</div>
-            <div class="countdown-display" id="slot1Countdown">--:--:--</div>
+            <div style="font-size: 11px; text-transform: uppercase; color: var(--text-muted); font-weight: 600;">Execution Status</div>
+            <div class="countdown-display" id="slot1Countdown" style="color: var(--accent-emerald); font-size: 20px;">Done for Today ✓</div>
           </div>
           <div style="text-align: right;">
-            <span class="status-badge" id="slot1Status">Executed Today</span>
+            <span class="status-badge" id="slot1Status" style="background: rgba(0, 242, 152, 0.15); color: var(--accent-emerald); border-color: rgba(0, 242, 152, 0.3);">Executed Today</span>
           </div>
         </div>
 
@@ -710,6 +710,10 @@
     // Live countdown calculations to target schedules
     function updateCountdowns() {
       const now = new Date();
+      const todayUTC = new Date().toISOString().slice(0, 10);
+      const runs = (portalData && portalData.runs) || [];
+      const slot1RanToday = runs.some(r => r.slot === 1 && r.run_date === todayUTC && r.status === 'success');
+      const slot2RanToday = runs.some(r => r.slot === 2 && r.run_date === todayUTC && r.status === 'success');
 
       function formatDiff(diff) {
         if (diff <= 0) return "00:00:00";
@@ -723,9 +727,14 @@
       const slot2El = document.getElementById('slot2Countdown');
 
       if (slot1El) {
-        if (portalData && portalData.upcoming && portalData.upcoming.slot1 && portalData.upcoming.slot1.target_iso) {
+        if (slot1RanToday) {
+          slot1El.textContent = "Done for Today ✓";
+          slot1El.style.color = "var(--accent-emerald)";
+          slot1El.style.fontSize = "20px";
+        } else if (portalData && portalData.upcoming && portalData.upcoming.slot1 && portalData.upcoming.slot1.target_iso) {
           const target = new Date(portalData.upcoming.slot1.target_iso);
           const diff = target - now;
+          slot1El.style.fontSize = "24px";
           if (diff <= 0) {
             slot1El.textContent = "Executing Live...";
             slot1El.style.color = "var(--accent-emerald)";
@@ -737,19 +746,27 @@
           const target = new Date();
           target.setUTCHours(22, 0, 0, 0);
           if (target <= now) target.setUTCDate(target.getUTCDate() + 1);
+          slot1El.style.fontSize = "24px";
           slot1El.textContent = formatDiff(target - now);
+          slot1El.style.color = "var(--text-primary)";
         }
       }
 
       if (slot2El) {
-        if (portalData && portalData.upcoming && portalData.upcoming.slot2 && portalData.upcoming.slot2.target_iso) {
+        if (slot2RanToday) {
+          slot2El.textContent = "Done for Today ✓";
+          slot2El.style.color = "var(--accent-emerald)";
+          slot2El.style.fontSize = "20px";
+        } else if (portalData && portalData.upcoming && portalData.upcoming.slot2 && portalData.upcoming.slot2.target_iso) {
           const target = new Date(portalData.upcoming.slot2.target_iso);
           const diff = target - now;
+          slot2El.style.fontSize = "24px";
           slot2El.textContent = diff <= 0 ? "00:00:00" : formatDiff(diff);
         } else {
           const target = new Date();
           target.setUTCHours(0, 0, 0, 0);
           if (target <= now) target.setUTCDate(target.getUTCDate() + 1);
+          slot2El.style.fontSize = "24px";
           slot2El.textContent = formatDiff(target - now);
         }
       }
@@ -841,34 +858,46 @@
       const slot1StrategyEl = document.getElementById('slot1Strategy');
       const slot1StatusEl = document.getElementById('slot1Status');
 
-      if (slot1TagEl && upcoming.slot1) {
-        if (upcoming.slot1.target_iso) {
-          slot1TagEl.textContent = `⚡ Live Test Slot 1 • Today ${upcoming.slot1.time_local || '11:35 AM IST'} (${upcoming.slot1.time_utc} UTC)`;
-          slot1TagEl.style.background = 'rgba(0, 242, 152, 0.18)';
+      const todayRun1 = runs.find(r => r.slot === 1 && r.run_date === todayUTC && r.status === 'success');
+      const todayVideo1 = todayRun1 ? videos.find(v => v.youtube_id === todayRun1.video_id) : null;
+
+      if (slot1RanToday) {
+        if (slot1TagEl) {
+          slot1TagEl.textContent = "Slot 1 • Completed for Today";
+          slot1TagEl.style.background = 'rgba(0, 242, 152, 0.15)';
           slot1TagEl.style.color = 'var(--accent-emerald)';
-          slot1TagEl.style.borderColor = 'rgba(0, 242, 152, 0.4)';
-        } else {
-          slot1TagEl.textContent = `Slot 1 • Today 6:00 PM US ET (22:00 UTC)`;
+          slot1TagEl.style.borderColor = 'rgba(0, 242, 152, 0.3)';
         }
-      }
-
-      if (slot1TitleEl && upcoming.slot1 && upcoming.slot1.title) {
-        slot1TitleEl.textContent = upcoming.slot1.title;
-      }
-      if (slot1StrategyEl && upcoming.slot1 && upcoming.slot1.strategy) {
-        slot1StrategyEl.innerHTML = `Strategy: <strong>${upcoming.slot1.strategy}</strong> from ${upcoming.slot1.creator || '@funnytoddle_r'}`;
-      }
-      const todayUTC = new Date().toISOString().slice(0, 10);
-      const slot1RanToday = runs.some(r => r.slot === 1 && r.run_date === todayUTC && r.status === 'success');
-      const slot2RanToday = runs.some(r => r.slot === 2 && r.run_date === todayUTC && r.status === 'success');
-
-      if (slot1StatusEl) {
-        if (slot1RanToday) {
+        if (slot1TitleEl) {
+          slot1TitleEl.textContent = todayVideo1 ? todayVideo1.title : "Slot 1 Uploaded Today";
+        }
+        if (slot1StrategyEl) {
+          if (todayVideo1) {
+            slot1StrategyEl.innerHTML = `Uploaded Today: <a href="https://www.youtube.com/shorts/${todayVideo1.youtube_id}" target="_blank" style="color: var(--accent-cyan); font-weight: 600; text-decoration: none;">Watch on YouTube (${todayVideo1.youtube_id}) ↗</a> • Next Slot 1: Tomorrow 6:00 PM ET`;
+          } else {
+            slot1StrategyEl.innerHTML = `Upload completed successfully • Next Slot 1: Tomorrow 6:00 PM ET`;
+          }
+        }
+        if (slot1StatusEl) {
           slot1StatusEl.textContent = 'Executed Today';
           slot1StatusEl.style.background = 'rgba(0, 242, 152, 0.15)';
           slot1StatusEl.style.color = 'var(--accent-emerald)';
           slot1StatusEl.style.borderColor = 'rgba(0, 242, 152, 0.3)';
-        } else {
+        }
+      } else {
+        if (slot1TagEl && upcoming.slot1) {
+          slot1TagEl.textContent = `Slot 1 • Today 6:00 PM US ET (22:00 UTC)`;
+          slot1TagEl.style.background = 'rgba(255, 0, 51, 0.12)';
+          slot1TagEl.style.color = '#ff4d6d';
+          slot1TagEl.style.borderColor = 'rgba(255, 0, 51, 0.25)';
+        }
+        if (slot1TitleEl && upcoming.slot1 && upcoming.slot1.title) {
+          slot1TitleEl.textContent = upcoming.slot1.title;
+        }
+        if (slot1StrategyEl && upcoming.slot1 && upcoming.slot1.strategy) {
+          slot1StrategyEl.innerHTML = `Strategy: <strong>${upcoming.slot1.strategy}</strong> from ${upcoming.slot1.creator || '@funnytoddle_r'}`;
+        }
+        if (slot1StatusEl) {
           slot1StatusEl.textContent = upcoming.slot1?.status || 'Queued (Slot 1)';
           slot1StatusEl.style.background = 'rgba(0, 212, 255, 0.15)';
           slot1StatusEl.style.color = 'var(--accent-cyan)';
