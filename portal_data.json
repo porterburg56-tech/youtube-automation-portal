@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 7,
+    "total_uploads": 8,
     "total_views": 73,
     "total_likes": 4,
     "total_subscribers": 1,
@@ -148,7 +148,7 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 1,
-      "total_uploads": 3,
+      "total_uploads": 4,
       "total_views": 30,
       "total_likes": 2,
       "upcoming": {
@@ -175,6 +175,20 @@
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
+          "tiktok_id": "7676918235106757901",
+          "youtube_id": "KHZ15IsYo14",
+          "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
+          "tiktok_views": 4000000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-03T19:13:44Z"
+        },
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
           "tiktok_id": "7680998487130967309",
           "youtube_id": "78EkdGFRBp4",
           "title": "Crispy Garlic Fried Chicken Drumsticks \ud83c\udf57\ud83d\udd25 #FriedChicken #ChickenRecip...",
@@ -184,7 +198,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/78EkdGFRBp4/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-03T15:16:36Z"
+          "uploaded_at": "2026-09-03T15:17:23Z"
         },
         {
           "channel_id": "channel_2",
@@ -216,6 +230,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 5,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-09-03",
+          "status": "success",
+          "video_id": "KHZ15IsYo14",
+          "error_message": null,
+          "created_at": "2026-09-03T19:13:52.065578+00:00"
+        },
         {
           "id": 4,
           "channel_id": "channel_2",
@@ -253,6 +277,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7676918235106757901",
+      "youtube_id": "KHZ15IsYo14",
+      "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
+      "tiktok_views": 4000000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-03T19:13:44Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7680998487130967309",
       "youtube_id": "78EkdGFRBp4",
       "title": "Crispy Garlic Fried Chicken Drumsticks \ud83c\udf57\ud83d\udd25 #FriedChicken #ChickenRecip...",
@@ -262,7 +300,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/78EkdGFRBp4/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-03T15:16:36Z"
+      "uploaded_at": "2026-09-03T15:17:23Z"
     },
     {
       "channel_id": "channel_1",
@@ -477,7 +515,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 7,
+    "total_uploads": 8,
     "total_views": 73,
     "total_likes": 4,
     "videos_per_day": 4
@@ -534,5 +572,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-03T15:16:51.243215+00:00"
+  "last_updated": "2026-09-03T19:13:55.063093+00:00"
 }
