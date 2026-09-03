@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 5,
-    "total_views": 54,
+    "total_uploads": 6,
+    "total_views": 55,
     "total_likes": 3,
     "total_subscribers": 0,
     "channels_count": 2,
@@ -21,7 +21,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 3,
+      "total_uploads": 4,
       "total_views": 29,
       "total_likes": 1,
       "upcoming": {
@@ -48,6 +48,20 @@
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7677190679428074765",
+          "youtube_id": "yyHs2FbbwXM",
+          "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
+          "tiktok_views": 4400000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-03T00:04:10Z"
+        },
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
           "tiktok_id": "7680972970247949581",
           "youtube_id": "AFqVQt-mHZg",
           "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet...",
@@ -57,7 +71,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/AFqVQt-mHZg/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-02T22:17:15Z"
+          "uploaded_at": "2026-09-02T22:17:32Z"
         },
         {
           "channel_id": "channel_1",
@@ -89,6 +103,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 5,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-03",
+          "status": "success",
+          "video_id": "yyHs2FbbwXM",
+          "error_message": null,
+          "created_at": "2026-09-03T00:04:14.649922+00:00"
+        },
         {
           "id": 4,
           "channel_id": "channel_1",
@@ -125,7 +149,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 0,
       "total_uploads": 2,
-      "total_views": 25,
+      "total_views": 26,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -155,7 +179,7 @@
           "youtube_id": "3RMF7dypOD4",
           "title": "Fun Short",
           "tiktok_views": 4900000,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3RMF7dypOD4/hqdefault.jpg",
@@ -205,6 +229,20 @@
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7677190679428074765",
+      "youtube_id": "yyHs2FbbwXM",
+      "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
+      "tiktok_views": 4400000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-03T00:04:10Z"
+    },
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7680972970247949581",
       "youtube_id": "AFqVQt-mHZg",
       "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet...",
@@ -214,7 +252,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/AFqVQt-mHZg/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-02T22:17:15Z"
+      "uploaded_at": "2026-09-02T22:17:32Z"
     },
     {
       "channel_id": "channel_2",
@@ -223,7 +261,7 @@
       "youtube_id": "3RMF7dypOD4",
       "title": "Fun Short",
       "tiktok_views": 4900000,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3RMF7dypOD4/hqdefault.jpg",
@@ -286,7 +324,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 3,
+    "total_uploads": 4,
     "total_views": 29,
     "total_likes": 1,
     "upcoming": {
@@ -313,6 +351,20 @@
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7677190679428074765",
+        "youtube_id": "yyHs2FbbwXM",
+        "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
+        "tiktok_views": 4400000,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-03T00:04:10Z"
+      },
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
         "tiktok_id": "7680972970247949581",
         "youtube_id": "AFqVQt-mHZg",
         "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet...",
@@ -322,7 +374,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/AFqVQt-mHZg/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-02T22:17:15Z"
+        "uploaded_at": "2026-09-02T22:17:32Z"
       },
       {
         "channel_id": "channel_1",
@@ -355,6 +407,16 @@
     ],
     "runs": [
       {
+        "id": 5,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-03",
+        "status": "success",
+        "video_id": "yyHs2FbbwXM",
+        "error_message": null,
+        "created_at": "2026-09-03T00:04:14.649922+00:00"
+      },
+      {
         "id": 4,
         "channel_id": "channel_1",
         "slot": 1,
@@ -377,8 +439,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 5,
-    "total_views": 54,
+    "total_uploads": 6,
+    "total_views": 55,
     "total_likes": 3,
     "videos_per_day": 4
   },
@@ -404,6 +466,16 @@
   },
   "runs": [
     {
+      "id": 5,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-03",
+      "status": "success",
+      "video_id": "yyHs2FbbwXM",
+      "error_message": null,
+      "created_at": "2026-09-03T00:04:14.649922+00:00"
+    },
+    {
       "id": 4,
       "channel_id": "channel_1",
       "slot": 1,
@@ -424,5 +496,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-02T22:17:20.661170+00:00"
+  "last_updated": "2026-09-03T00:04:17.406243+00:00"
 }
