@@ -1,9 +1,9 @@
 {
   "cumulative": {
-    "total_uploads": 6,
-    "total_views": 55,
-    "total_likes": 3,
-    "total_subscribers": 0,
+    "total_uploads": 7,
+    "total_views": 73,
+    "total_likes": 4,
+    "total_subscribers": 1,
     "channels_count": 2,
     "videos_per_day": 4
   },
@@ -22,8 +22,8 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 4,
-      "total_views": 29,
-      "total_likes": 1,
+      "total_views": 43,
+      "total_likes": 2,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -52,12 +52,12 @@
           "youtube_id": "yyHs2FbbwXM",
           "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
           "tiktok_views": 4400000,
-          "youtube_views": 0,
-          "youtube_likes": 0,
+          "youtube_views": 2,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-03T00:04:10Z"
+          "uploaded_at": "2026-09-03T00:04:32Z"
         },
         {
           "channel_id": "channel_1",
@@ -66,7 +66,7 @@
           "youtube_id": "AFqVQt-mHZg",
           "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet...",
           "tiktok_views": 2803,
-          "youtube_views": 0,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/AFqVQt-mHZg/hqdefault.jpg",
@@ -80,7 +80,7 @@
           "youtube_id": "8eEz1ehaSeg",
           "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19  #tiktokgrowth...",
           "tiktok_views": 5110,
-          "youtube_views": 7,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8eEz1ehaSeg/hqdefault.jpg",
@@ -94,7 +94,7 @@
           "youtube_id": "iuE3f2WfSlI",
           "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
           "tiktok_views": 9430,
-          "youtube_views": 22,
+          "youtube_views": 23,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
@@ -147,9 +147,9 @@
       "avatar": "https://yt3.ggpht.com/BzfrtPYNdc_HaeUp-BzMgQYBKQzMy8kzHQwtG7rtTR2XGjy4qb_K_Q2gI9A4HwplzX5C5ZrCzQ=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
-      "subscribers": 0,
-      "total_uploads": 2,
-      "total_views": 26,
+      "subscribers": 1,
+      "total_uploads": 3,
+      "total_views": 30,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -175,11 +175,25 @@
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
+          "tiktok_id": "7680998487130967309",
+          "youtube_id": "78EkdGFRBp4",
+          "title": "Crispy Garlic Fried Chicken Drumsticks \ud83c\udf57\ud83d\udd25 #FriedChicken #ChickenRecip...",
+          "tiktok_views": 9242,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/78EkdGFRBp4/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-03T15:16:36Z"
+        },
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
           "tiktok_id": "7639439855839218957",
           "youtube_id": "3RMF7dypOD4",
           "title": "Fun Short",
           "tiktok_views": 4900000,
-          "youtube_views": 6,
+          "youtube_views": 8,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3RMF7dypOD4/hqdefault.jpg",
@@ -193,7 +207,7 @@
           "youtube_id": "6pTM9H1eLnY",
           "title": "Puff Pastry Baked Apples with Nutella & Caramel \ud83c\udf4e  #BakedApples #Appl...",
           "tiktok_views": 7936,
-          "youtube_views": 20,
+          "youtube_views": 22,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6pTM9H1eLnY/hqdefault.jpg",
@@ -202,6 +216,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 4,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-03",
+          "status": "success",
+          "video_id": "78EkdGFRBp4",
+          "error_message": null,
+          "created_at": "2026-09-03T15:16:48.240041+00:00"
+        },
         {
           "id": 3,
           "channel_id": "channel_2",
@@ -227,18 +251,32 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7680998487130967309",
+      "youtube_id": "78EkdGFRBp4",
+      "title": "Crispy Garlic Fried Chicken Drumsticks \ud83c\udf57\ud83d\udd25 #FriedChicken #ChickenRecip...",
+      "tiktok_views": 9242,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/78EkdGFRBp4/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-03T15:16:36Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7677190679428074765",
       "youtube_id": "yyHs2FbbwXM",
       "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
       "tiktok_views": 4400000,
-      "youtube_views": 0,
-      "youtube_likes": 0,
+      "youtube_views": 2,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-03T00:04:10Z"
+      "uploaded_at": "2026-09-03T00:04:32Z"
     },
     {
       "channel_id": "channel_1",
@@ -247,7 +285,7 @@
       "youtube_id": "AFqVQt-mHZg",
       "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet...",
       "tiktok_views": 2803,
-      "youtube_views": 0,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/AFqVQt-mHZg/hqdefault.jpg",
@@ -261,7 +299,7 @@
       "youtube_id": "3RMF7dypOD4",
       "title": "Fun Short",
       "tiktok_views": 4900000,
-      "youtube_views": 6,
+      "youtube_views": 8,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3RMF7dypOD4/hqdefault.jpg",
@@ -275,7 +313,7 @@
       "youtube_id": "6pTM9H1eLnY",
       "title": "Puff Pastry Baked Apples with Nutella & Caramel \ud83c\udf4e  #BakedApples #Appl...",
       "tiktok_views": 7936,
-      "youtube_views": 20,
+      "youtube_views": 22,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6pTM9H1eLnY/hqdefault.jpg",
@@ -289,7 +327,7 @@
       "youtube_id": "8eEz1ehaSeg",
       "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19  #tiktokgrowth...",
       "tiktok_views": 5110,
-      "youtube_views": 7,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8eEz1ehaSeg/hqdefault.jpg",
@@ -303,7 +341,7 @@
       "youtube_id": "iuE3f2WfSlI",
       "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
       "tiktok_views": 9430,
-      "youtube_views": 22,
+      "youtube_views": 23,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
@@ -325,8 +363,8 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 4,
-    "total_views": 29,
-    "total_likes": 1,
+    "total_views": 43,
+    "total_likes": 2,
     "upcoming": {
       "slot1": {
         "slot": 1,
@@ -355,12 +393,12 @@
         "youtube_id": "yyHs2FbbwXM",
         "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
         "tiktok_views": 4400000,
-        "youtube_views": 0,
-        "youtube_likes": 0,
+        "youtube_views": 2,
+        "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-03T00:04:10Z"
+        "uploaded_at": "2026-09-03T00:04:32Z"
       },
       {
         "channel_id": "channel_1",
@@ -369,7 +407,7 @@
         "youtube_id": "AFqVQt-mHZg",
         "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet...",
         "tiktok_views": 2803,
-        "youtube_views": 0,
+        "youtube_views": 6,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/AFqVQt-mHZg/hqdefault.jpg",
@@ -383,7 +421,7 @@
         "youtube_id": "8eEz1ehaSeg",
         "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19  #tiktokgrowth...",
         "tiktok_views": 5110,
-        "youtube_views": 7,
+        "youtube_views": 12,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/8eEz1ehaSeg/hqdefault.jpg",
@@ -397,7 +435,7 @@
         "youtube_id": "iuE3f2WfSlI",
         "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
         "tiktok_views": 9430,
-        "youtube_views": 22,
+        "youtube_views": 23,
         "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
@@ -439,9 +477,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 6,
-    "total_views": 55,
-    "total_likes": 3,
+    "total_uploads": 7,
+    "total_views": 73,
+    "total_likes": 4,
     "videos_per_day": 4
   },
   "upcoming": {
@@ -496,5 +534,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-03T00:04:17.406243+00:00"
+  "last_updated": "2026-09-03T15:16:51.243215+00:00"
 }
