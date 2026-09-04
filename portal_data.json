@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 12,
-    "total_views": 89,
+    "total_uploads": 13,
+    "total_views": 95,
     "total_likes": 4,
     "total_subscribers": 1,
     "channels_count": 2,
@@ -21,7 +21,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 6,
+      "total_uploads": 7,
       "total_views": 48,
       "total_likes": 2,
       "upcoming": {
@@ -45,6 +45,20 @@
         }
       },
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7681648437833501966",
+          "youtube_id": "PaLcQYv70cc",
+          "title": "He Copied Every Single Step and Nobody Was Ready \ud83d\udc80\ud83d\ude2d #tiktokgrowthchal...",
+          "tiktok_views": 15500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/PaLcQYv70cc/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-04T22:16:41Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -132,6 +146,16 @@
       ],
       "runs": [
         {
+          "id": 8,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-04",
+          "status": "success",
+          "video_id": "PaLcQYv70cc",
+          "error_message": null,
+          "created_at": "2026-09-04T22:16:44.405938+00:00"
+        },
+        {
           "id": 7,
           "channel_id": "channel_1",
           "slot": 2,
@@ -197,7 +221,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 1,
       "total_uploads": 6,
-      "total_views": 41,
+      "total_views": 47,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -232,7 +256,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/GibB4tdu1e0/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-04T19:11:33Z"
+          "uploaded_at": "2026-09-04T19:12:39Z"
         },
         {
           "channel_id": "channel_2",
@@ -241,7 +265,7 @@
           "youtube_id": "b4-QdrGc2-g",
           "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
           "tiktok_views": 5309,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
@@ -255,7 +279,7 @@
           "youtube_id": "KHZ15IsYo14",
           "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
           "tiktok_views": 4000000,
-          "youtube_views": 5,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
@@ -371,6 +395,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7681648437833501966",
+      "youtube_id": "PaLcQYv70cc",
+      "title": "He Copied Every Single Step and Nobody Was Ready \ud83d\udc80\ud83d\ude2d #tiktokgrowthchal...",
+      "tiktok_views": 15500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/PaLcQYv70cc/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-04T22:16:41Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7634984663592799502",
@@ -382,7 +420,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/GibB4tdu1e0/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-04T19:11:33Z"
+      "uploaded_at": "2026-09-04T19:12:39Z"
     },
     {
       "channel_id": "channel_2",
@@ -391,7 +429,7 @@
       "youtube_id": "b4-QdrGc2-g",
       "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
       "tiktok_views": 5309,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
@@ -433,7 +471,7 @@
       "youtube_id": "KHZ15IsYo14",
       "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
       "tiktok_views": 4000000,
-      "youtube_views": 5,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
@@ -552,7 +590,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 6,
+    "total_uploads": 7,
     "total_views": 48,
     "total_likes": 2,
     "upcoming": {
@@ -576,6 +614,20 @@
       }
     },
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7681648437833501966",
+        "youtube_id": "PaLcQYv70cc",
+        "title": "He Copied Every Single Step and Nobody Was Ready \ud83d\udc80\ud83d\ude2d #tiktokgrowthchal...",
+        "tiktok_views": 15500,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/PaLcQYv70cc/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-04T22:16:41Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -663,6 +715,16 @@
     ],
     "runs": [
       {
+        "id": 8,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-04",
+        "status": "success",
+        "video_id": "PaLcQYv70cc",
+        "error_message": null,
+        "created_at": "2026-09-04T22:16:44.405938+00:00"
+      },
+      {
         "id": 7,
         "channel_id": "channel_1",
         "slot": 2,
@@ -715,8 +777,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 12,
-    "total_views": 89,
+    "total_uploads": 13,
+    "total_views": 95,
     "total_likes": 4,
     "videos_per_day": 4
   },
@@ -741,6 +803,16 @@
     }
   },
   "runs": [
+    {
+      "id": 8,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-04",
+      "status": "success",
+      "video_id": "PaLcQYv70cc",
+      "error_message": null,
+      "created_at": "2026-09-04T22:16:44.405938+00:00"
+    },
     {
       "id": 7,
       "channel_id": "channel_1",
@@ -792,5 +864,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-04T19:11:49.821390+00:00"
+  "last_updated": "2026-09-04T22:16:47.263829+00:00"
 }
