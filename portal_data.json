@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 9,
+    "total_uploads": 10,
     "total_views": 75,
     "total_likes": 4,
     "total_subscribers": 1,
@@ -21,7 +21,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 5,
+      "total_uploads": 6,
       "total_views": 43,
       "total_likes": 2,
       "upcoming": {
@@ -48,6 +48,20 @@
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7677235005495446797",
+          "youtube_id": "yYZcQkQHknU",
+          "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
+          "tiktok_views": 3600000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-04T00:03:46Z"
+        },
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
           "tiktok_id": "7681339924221562126",
           "youtube_id": "7y42u0-PBQM",
           "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
@@ -57,7 +71,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-03T22:16:54Z"
+          "uploaded_at": "2026-09-03T22:17:15Z"
         },
         {
           "channel_id": "channel_1",
@@ -117,6 +131,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 7,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-04",
+          "status": "success",
+          "video_id": "yYZcQkQHknU",
+          "error_message": null,
+          "created_at": "2026-09-04T00:03:48.971251+00:00"
+        },
         {
           "id": 6,
           "channel_id": "channel_1",
@@ -301,6 +325,20 @@
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7677235005495446797",
+      "youtube_id": "yYZcQkQHknU",
+      "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
+      "tiktok_views": 3600000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-04T00:03:46Z"
+    },
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7681339924221562126",
       "youtube_id": "7y42u0-PBQM",
       "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
@@ -310,7 +348,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-03T22:16:54Z"
+      "uploaded_at": "2026-09-03T22:17:15Z"
     },
     {
       "channel_id": "channel_2",
@@ -438,7 +476,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 5,
+    "total_uploads": 6,
     "total_views": 43,
     "total_likes": 2,
     "upcoming": {
@@ -465,6 +503,20 @@
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7677235005495446797",
+        "youtube_id": "yYZcQkQHknU",
+        "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
+        "tiktok_views": 3600000,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-04T00:03:46Z"
+      },
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
         "tiktok_id": "7681339924221562126",
         "youtube_id": "7y42u0-PBQM",
         "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
@@ -474,7 +526,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-03T22:16:54Z"
+        "uploaded_at": "2026-09-03T22:17:15Z"
       },
       {
         "channel_id": "channel_1",
@@ -535,6 +587,16 @@
     ],
     "runs": [
       {
+        "id": 7,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-04",
+        "status": "success",
+        "video_id": "yYZcQkQHknU",
+        "error_message": null,
+        "created_at": "2026-09-04T00:03:48.971251+00:00"
+      },
+      {
         "id": 6,
         "channel_id": "channel_1",
         "slot": 1,
@@ -577,7 +639,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 9,
+    "total_uploads": 10,
     "total_views": 75,
     "total_likes": 4,
     "videos_per_day": 4
@@ -603,6 +665,16 @@
     }
   },
   "runs": [
+    {
+      "id": 7,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-04",
+      "status": "success",
+      "video_id": "yYZcQkQHknU",
+      "error_message": null,
+      "created_at": "2026-09-04T00:03:48.971251+00:00"
+    },
     {
       "id": 6,
       "channel_id": "channel_1",
@@ -644,5 +716,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-03T22:16:59.590759+00:00"
+  "last_updated": "2026-09-04T00:03:51.584465+00:00"
 }
