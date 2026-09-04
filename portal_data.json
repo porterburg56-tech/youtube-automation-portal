@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 11,
-    "total_views": 82,
+    "total_uploads": 12,
+    "total_views": 89,
     "total_likes": 4,
     "total_subscribers": 1,
     "channels_count": 2,
@@ -22,7 +22,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 6,
-      "total_views": 47,
+      "total_views": 48,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -52,7 +52,7 @@
           "youtube_id": "yYZcQkQHknU",
           "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
           "tiktok_views": 3600000,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
@@ -80,7 +80,7 @@
           "youtube_id": "yyHs2FbbwXM",
           "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
           "tiktok_views": 4400000,
-          "youtube_views": 3,
+          "youtube_views": 2,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
@@ -196,8 +196,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 1,
-      "total_uploads": 5,
-      "total_views": 35,
+      "total_uploads": 6,
+      "total_views": 41,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -223,16 +223,30 @@
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
+          "tiktok_id": "7634984663592799502",
+          "youtube_id": "GibB4tdu1e0",
+          "title": "Fun Short",
+          "tiktok_views": 3800000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/GibB4tdu1e0/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-04T19:11:33Z"
+        },
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
           "tiktok_id": "7681371896209755405",
           "youtube_id": "b4-QdrGc2-g",
           "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
           "tiktok_views": 5309,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-04T15:15:22Z"
+          "uploaded_at": "2026-09-04T15:16:12Z"
         },
         {
           "channel_id": "channel_2",
@@ -255,7 +269,7 @@
           "youtube_id": "78EkdGFRBp4",
           "title": "Crispy Garlic Fried Chicken Drumsticks \ud83c\udf57\ud83d\udd25 #FriedChicken #ChickenRecip...",
           "tiktok_views": 9242,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/78EkdGFRBp4/hqdefault.jpg",
@@ -292,6 +306,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 7,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-09-04",
+          "status": "success",
+          "video_id": "GibB4tdu1e0",
+          "error_message": null,
+          "created_at": "2026-09-04T19:11:46.921657+00:00"
+        },
         {
           "id": 6,
           "channel_id": "channel_2",
@@ -349,16 +373,30 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7634984663592799502",
+      "youtube_id": "GibB4tdu1e0",
+      "title": "Fun Short",
+      "tiktok_views": 3800000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/GibB4tdu1e0/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-04T19:11:33Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7681371896209755405",
       "youtube_id": "b4-QdrGc2-g",
       "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
       "tiktok_views": 5309,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-04T15:15:22Z"
+      "uploaded_at": "2026-09-04T15:16:12Z"
     },
     {
       "channel_id": "channel_1",
@@ -367,7 +405,7 @@
       "youtube_id": "yYZcQkQHknU",
       "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
       "tiktok_views": 3600000,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
@@ -409,7 +447,7 @@
       "youtube_id": "78EkdGFRBp4",
       "title": "Crispy Garlic Fried Chicken Drumsticks \ud83c\udf57\ud83d\udd25 #FriedChicken #ChickenRecip...",
       "tiktok_views": 9242,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/78EkdGFRBp4/hqdefault.jpg",
@@ -423,7 +461,7 @@
       "youtube_id": "yyHs2FbbwXM",
       "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
       "tiktok_views": 4400000,
-      "youtube_views": 3,
+      "youtube_views": 2,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
@@ -515,7 +553,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 6,
-    "total_views": 47,
+    "total_views": 48,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -545,7 +583,7 @@
         "youtube_id": "yYZcQkQHknU",
         "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
         "tiktok_views": 3600000,
-        "youtube_views": 2,
+        "youtube_views": 4,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
@@ -573,7 +611,7 @@
         "youtube_id": "yyHs2FbbwXM",
         "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
         "tiktok_views": 4400000,
-        "youtube_views": 3,
+        "youtube_views": 2,
         "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
@@ -677,8 +715,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 11,
-    "total_views": 82,
+    "total_uploads": 12,
+    "total_views": 89,
     "total_likes": 4,
     "videos_per_day": 4
   },
@@ -754,5 +792,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-04T15:15:30.294947+00:00"
+  "last_updated": "2026-09-04T19:11:49.821390+00:00"
 }
