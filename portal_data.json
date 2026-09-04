@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 10,
-    "total_views": 75,
+    "total_uploads": 11,
+    "total_views": 82,
     "total_likes": 4,
     "total_subscribers": 1,
     "channels_count": 2,
@@ -22,7 +22,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 6,
-      "total_views": 43,
+      "total_views": 47,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -52,12 +52,12 @@
           "youtube_id": "yYZcQkQHknU",
           "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
           "tiktok_views": 3600000,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-04T00:03:46Z"
+          "uploaded_at": "2026-09-04T00:04:05Z"
         },
         {
           "channel_id": "channel_1",
@@ -66,7 +66,7 @@
           "youtube_id": "7y42u0-PBQM",
           "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
           "tiktok_views": 11200,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
@@ -80,7 +80,7 @@
           "youtube_id": "yyHs2FbbwXM",
           "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
           "tiktok_views": 4400000,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
@@ -196,8 +196,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 1,
-      "total_uploads": 4,
-      "total_views": 32,
+      "total_uploads": 5,
+      "total_views": 35,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -223,11 +223,25 @@
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
+          "tiktok_id": "7681371896209755405",
+          "youtube_id": "b4-QdrGc2-g",
+          "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
+          "tiktok_views": 5309,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-04T15:15:22Z"
+        },
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
           "tiktok_id": "7676918235106757901",
           "youtube_id": "KHZ15IsYo14",
           "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
           "tiktok_views": 4000000,
-          "youtube_views": 2,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
@@ -279,6 +293,16 @@
       ],
       "runs": [
         {
+          "id": 6,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-04",
+          "status": "success",
+          "video_id": "b4-QdrGc2-g",
+          "error_message": null,
+          "created_at": "2026-09-04T15:15:27.520520+00:00"
+        },
+        {
           "id": 5,
           "channel_id": "channel_2",
           "slot": 2,
@@ -323,18 +347,32 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7681371896209755405",
+      "youtube_id": "b4-QdrGc2-g",
+      "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
+      "tiktok_views": 5309,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-04T15:15:22Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7677235005495446797",
       "youtube_id": "yYZcQkQHknU",
       "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
       "tiktok_views": 3600000,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-04T00:03:46Z"
+      "uploaded_at": "2026-09-04T00:04:05Z"
     },
     {
       "channel_id": "channel_1",
@@ -343,7 +381,7 @@
       "youtube_id": "7y42u0-PBQM",
       "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
       "tiktok_views": 11200,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
@@ -357,7 +395,7 @@
       "youtube_id": "KHZ15IsYo14",
       "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
       "tiktok_views": 4000000,
-      "youtube_views": 2,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
@@ -385,7 +423,7 @@
       "youtube_id": "yyHs2FbbwXM",
       "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
       "tiktok_views": 4400000,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
@@ -477,7 +515,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 6,
-    "total_views": 43,
+    "total_views": 47,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -507,12 +545,12 @@
         "youtube_id": "yYZcQkQHknU",
         "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
         "tiktok_views": 3600000,
-        "youtube_views": 0,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-04T00:03:46Z"
+        "uploaded_at": "2026-09-04T00:04:05Z"
       },
       {
         "channel_id": "channel_1",
@@ -521,7 +559,7 @@
         "youtube_id": "7y42u0-PBQM",
         "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
         "tiktok_views": 11200,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
@@ -535,7 +573,7 @@
         "youtube_id": "yyHs2FbbwXM",
         "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
         "tiktok_views": 4400000,
-        "youtube_views": 2,
+        "youtube_views": 3,
         "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
@@ -639,8 +677,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 10,
-    "total_views": 75,
+    "total_uploads": 11,
+    "total_views": 82,
     "total_likes": 4,
     "videos_per_day": 4
   },
@@ -716,5 +754,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-04T00:03:51.584465+00:00"
+  "last_updated": "2026-09-04T15:15:30.294947+00:00"
 }
