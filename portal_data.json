@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 15,
-    "total_views": 105,
+    "total_uploads": 16,
+    "total_views": 107,
     "total_likes": 4,
     "total_subscribers": 1,
     "channels_count": 2,
@@ -244,8 +244,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 1,
-      "total_uploads": 7,
-      "total_views": 56,
+      "total_uploads": 8,
+      "total_views": 58,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -271,6 +271,20 @@
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
+          "tiktok_id": "7637584304318565646",
+          "youtube_id": "o5SexqEBXFw",
+          "title": "Crispy Chicken Petals with Creamy Cheddar Sauce #Chicken #Dinner #Coo...",
+          "tiktok_views": 3600000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/o5SexqEBXFw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-05T19:12:45Z"
+        },
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
           "tiktok_id": "7681744516734274830",
           "youtube_id": "H5ph_RXAj5Y",
           "title": "Strawberry Puff Pastry Cake \ud83c\udf53\u2728 The Layered Dessert You Need to Try! \ud83d\udd25...",
@@ -280,7 +294,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/H5ph_RXAj5Y/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-05T15:15:48Z"
+          "uploaded_at": "2026-09-05T15:16:51Z"
         },
         {
           "channel_id": "channel_2",
@@ -303,7 +317,7 @@
           "youtube_id": "b4-QdrGc2-g",
           "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
           "tiktok_views": 5309,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
@@ -317,7 +331,7 @@
           "youtube_id": "KHZ15IsYo14",
           "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
           "tiktok_views": 4000000,
-          "youtube_views": 17,
+          "youtube_views": 18,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
@@ -368,6 +382,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 9,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-09-05",
+          "status": "success",
+          "video_id": "o5SexqEBXFw",
+          "error_message": null,
+          "created_at": "2026-09-05T19:13:01.061098+00:00"
+        },
         {
           "id": 8,
           "channel_id": "channel_2",
@@ -445,6 +469,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7637584304318565646",
+      "youtube_id": "o5SexqEBXFw",
+      "title": "Crispy Chicken Petals with Creamy Cheddar Sauce #Chicken #Dinner #Coo...",
+      "tiktok_views": 3600000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/o5SexqEBXFw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-05T19:12:45Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7681744516734274830",
       "youtube_id": "H5ph_RXAj5Y",
       "title": "Strawberry Puff Pastry Cake \ud83c\udf53\u2728 The Layered Dessert You Need to Try! \ud83d\udd25...",
@@ -454,7 +492,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/H5ph_RXAj5Y/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-05T15:15:48Z"
+      "uploaded_at": "2026-09-05T15:16:51Z"
     },
     {
       "channel_id": "channel_1",
@@ -505,7 +543,7 @@
       "youtube_id": "b4-QdrGc2-g",
       "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
       "tiktok_views": 5309,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
@@ -547,7 +585,7 @@
       "youtube_id": "KHZ15IsYo14",
       "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
       "tiktok_views": 4000000,
-      "youtube_views": 17,
+      "youtube_views": 18,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
@@ -877,8 +915,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 15,
-    "total_views": 105,
+    "total_uploads": 16,
+    "total_views": 107,
     "total_likes": 4,
     "videos_per_day": 4
   },
@@ -974,5 +1012,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-05T15:15:59.524945+00:00"
+  "last_updated": "2026-09-05T19:13:04.055970+00:00"
 }
