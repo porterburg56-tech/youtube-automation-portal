@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 14,
-    "total_views": 101,
+    "total_uploads": 15,
+    "total_views": 105,
     "total_likes": 4,
     "total_subscribers": 1,
     "channels_count": 2,
@@ -22,7 +22,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 8,
-      "total_views": 48,
+      "total_views": 49,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -57,7 +57,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dqDNDVuIibA/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-05T00:03:53Z"
+          "uploaded_at": "2026-09-05T00:04:16Z"
         },
         {
           "channel_id": "channel_1",
@@ -94,7 +94,7 @@
           "youtube_id": "7y42u0-PBQM",
           "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
           "tiktok_views": 11200,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
@@ -244,8 +244,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 1,
-      "total_uploads": 6,
-      "total_views": 53,
+      "total_uploads": 7,
+      "total_views": 56,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -268,6 +268,20 @@
         }
       },
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7681744516734274830",
+          "youtube_id": "H5ph_RXAj5Y",
+          "title": "Strawberry Puff Pastry Cake \ud83c\udf53\u2728 The Layered Dessert You Need to Try! \ud83d\udd25...",
+          "tiktok_views": 89400,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/H5ph_RXAj5Y/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-05T15:15:48Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -303,7 +317,7 @@
           "youtube_id": "KHZ15IsYo14",
           "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
           "tiktok_views": 4000000,
-          "youtube_views": 14,
+          "youtube_views": 17,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
@@ -354,6 +368,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 8,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-05",
+          "status": "success",
+          "video_id": "H5ph_RXAj5Y",
+          "error_message": null,
+          "created_at": "2026-09-05T15:15:56.669600+00:00"
+        },
         {
           "id": 7,
           "channel_id": "channel_2",
@@ -419,6 +443,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7681744516734274830",
+      "youtube_id": "H5ph_RXAj5Y",
+      "title": "Strawberry Puff Pastry Cake \ud83c\udf53\u2728 The Layered Dessert You Need to Try! \ud83d\udd25...",
+      "tiktok_views": 89400,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/H5ph_RXAj5Y/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-05T15:15:48Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7677261920088444174",
@@ -430,7 +468,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dqDNDVuIibA/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-05T00:03:53Z"
+      "uploaded_at": "2026-09-05T00:04:16Z"
     },
     {
       "channel_id": "channel_1",
@@ -495,7 +533,7 @@
       "youtube_id": "7y42u0-PBQM",
       "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
       "tiktok_views": 11200,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
@@ -509,7 +547,7 @@
       "youtube_id": "KHZ15IsYo14",
       "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
       "tiktok_views": 4000000,
-      "youtube_views": 14,
+      "youtube_views": 17,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
@@ -629,7 +667,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 8,
-    "total_views": 48,
+    "total_views": 49,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -664,7 +702,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/dqDNDVuIibA/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-05T00:03:53Z"
+        "uploaded_at": "2026-09-05T00:04:16Z"
       },
       {
         "channel_id": "channel_1",
@@ -701,7 +739,7 @@
         "youtube_id": "7y42u0-PBQM",
         "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
         "tiktok_views": 11200,
-        "youtube_views": 1,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
@@ -839,8 +877,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 14,
-    "total_views": 101,
+    "total_uploads": 15,
+    "total_views": 105,
     "total_likes": 4,
     "videos_per_day": 4
   },
@@ -936,5 +974,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-05T00:03:59.249603+00:00"
+  "last_updated": "2026-09-05T15:15:59.524945+00:00"
 }
