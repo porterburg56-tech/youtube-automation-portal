@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 16,
+    "total_uploads": 17,
     "total_views": 107,
     "total_likes": 4,
     "total_subscribers": 1,
@@ -21,7 +21,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 8,
+      "total_uploads": 9,
       "total_views": 49,
       "total_likes": 2,
       "upcoming": {
@@ -45,6 +45,20 @@
         }
       },
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7682065782913682718",
+          "youtube_id": "7tG5erFwaZQ",
+          "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #tiktokgrowth...",
+          "tiktok_views": 6902,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/7tG5erFwaZQ/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-05T22:16:25Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -159,6 +173,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 10,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-05",
+          "status": "success",
+          "video_id": "7tG5erFwaZQ",
+          "error_message": null,
+          "created_at": "2026-09-05T22:16:30.491358+00:00"
+        },
         {
           "id": 9,
           "channel_id": "channel_1",
@@ -280,7 +304,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/o5SexqEBXFw/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-05T19:12:45Z"
+          "uploaded_at": "2026-09-05T19:13:33Z"
         },
         {
           "channel_id": "channel_2",
@@ -467,6 +491,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7682065782913682718",
+      "youtube_id": "7tG5erFwaZQ",
+      "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #tiktokgrowth...",
+      "tiktok_views": 6902,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/7tG5erFwaZQ/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-05T22:16:25Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7637584304318565646",
@@ -478,7 +516,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/o5SexqEBXFw/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-05T19:12:45Z"
+      "uploaded_at": "2026-09-05T19:13:33Z"
     },
     {
       "channel_id": "channel_2",
@@ -704,7 +742,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 8,
+    "total_uploads": 9,
     "total_views": 49,
     "total_likes": 2,
     "upcoming": {
@@ -728,6 +766,20 @@
       }
     },
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7682065782913682718",
+        "youtube_id": "7tG5erFwaZQ",
+        "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #tiktokgrowth...",
+        "tiktok_views": 6902,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/7tG5erFwaZQ/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-05T22:16:25Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -843,6 +895,16 @@
     ],
     "runs": [
       {
+        "id": 10,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-05",
+        "status": "success",
+        "video_id": "7tG5erFwaZQ",
+        "error_message": null,
+        "created_at": "2026-09-05T22:16:30.491358+00:00"
+      },
+      {
         "id": 9,
         "channel_id": "channel_1",
         "slot": 2,
@@ -915,7 +977,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 16,
+    "total_uploads": 17,
     "total_views": 107,
     "total_likes": 4,
     "videos_per_day": 4
@@ -941,6 +1003,16 @@
     }
   },
   "runs": [
+    {
+      "id": 10,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-05",
+      "status": "success",
+      "video_id": "7tG5erFwaZQ",
+      "error_message": null,
+      "created_at": "2026-09-05T22:16:30.491358+00:00"
+    },
     {
       "id": 9,
       "channel_id": "channel_1",
@@ -1012,5 +1084,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-05T19:13:04.055970+00:00"
+  "last_updated": "2026-09-05T22:16:33.299060+00:00"
 }
