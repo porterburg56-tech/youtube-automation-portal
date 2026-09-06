@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 17,
-    "total_views": 107,
+    "total_uploads": 18,
+    "total_views": 111,
     "total_likes": 4,
     "total_subscribers": 1,
     "channels_count": 2,
@@ -21,7 +21,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 9,
+      "total_uploads": 10,
       "total_views": 49,
       "total_likes": 2,
       "upcoming": {
@@ -48,6 +48,20 @@
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7663464745680276749",
+          "youtube_id": "gsQp78UWoZw",
+          "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
+          "tiktok_views": 2000000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-06T00:03:46Z"
+        },
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
           "tiktok_id": "7682065782913682718",
           "youtube_id": "7tG5erFwaZQ",
           "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #tiktokgrowth...",
@@ -57,7 +71,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7tG5erFwaZQ/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-05T22:16:25Z"
+          "uploaded_at": "2026-09-05T22:16:46Z"
         },
         {
           "channel_id": "channel_1",
@@ -174,6 +188,16 @@
       ],
       "runs": [
         {
+          "id": 11,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-06",
+          "status": "success",
+          "video_id": "gsQp78UWoZw",
+          "error_message": null,
+          "created_at": "2026-09-06T00:03:48.273600+00:00"
+        },
+        {
           "id": 10,
           "channel_id": "channel_1",
           "slot": 1,
@@ -269,7 +293,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 1,
       "total_uploads": 8,
-      "total_views": 58,
+      "total_views": 62,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -299,7 +323,7 @@
           "youtube_id": "o5SexqEBXFw",
           "title": "Crispy Chicken Petals with Creamy Cheddar Sauce #Chicken #Dinner #Coo...",
           "tiktok_views": 3600000,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/o5SexqEBXFw/hqdefault.jpg",
@@ -493,6 +517,20 @@
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7663464745680276749",
+      "youtube_id": "gsQp78UWoZw",
+      "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
+      "tiktok_views": 2000000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-06T00:03:46Z"
+    },
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7682065782913682718",
       "youtube_id": "7tG5erFwaZQ",
       "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #tiktokgrowth...",
@@ -502,7 +540,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7tG5erFwaZQ/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-05T22:16:25Z"
+      "uploaded_at": "2026-09-05T22:16:46Z"
     },
     {
       "channel_id": "channel_2",
@@ -511,7 +549,7 @@
       "youtube_id": "o5SexqEBXFw",
       "title": "Crispy Chicken Petals with Creamy Cheddar Sauce #Chicken #Dinner #Coo...",
       "tiktok_views": 3600000,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/o5SexqEBXFw/hqdefault.jpg",
@@ -742,7 +780,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 9,
+    "total_uploads": 10,
     "total_views": 49,
     "total_likes": 2,
     "upcoming": {
@@ -769,6 +807,20 @@
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7663464745680276749",
+        "youtube_id": "gsQp78UWoZw",
+        "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
+        "tiktok_views": 2000000,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-06T00:03:46Z"
+      },
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
         "tiktok_id": "7682065782913682718",
         "youtube_id": "7tG5erFwaZQ",
         "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #tiktokgrowth...",
@@ -778,7 +830,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/7tG5erFwaZQ/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-05T22:16:25Z"
+        "uploaded_at": "2026-09-05T22:16:46Z"
       },
       {
         "channel_id": "channel_1",
@@ -895,6 +947,16 @@
     ],
     "runs": [
       {
+        "id": 11,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-06",
+        "status": "success",
+        "video_id": "gsQp78UWoZw",
+        "error_message": null,
+        "created_at": "2026-09-06T00:03:48.273600+00:00"
+      },
+      {
         "id": 10,
         "channel_id": "channel_1",
         "slot": 1,
@@ -977,8 +1039,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 17,
-    "total_views": 107,
+    "total_uploads": 18,
+    "total_views": 111,
     "total_likes": 4,
     "videos_per_day": 4
   },
@@ -1003,6 +1065,16 @@
     }
   },
   "runs": [
+    {
+      "id": 11,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-06",
+      "status": "success",
+      "video_id": "gsQp78UWoZw",
+      "error_message": null,
+      "created_at": "2026-09-06T00:03:48.273600+00:00"
+    },
     {
       "id": 10,
       "channel_id": "channel_1",
@@ -1084,5 +1156,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-05T22:16:33.299060+00:00"
+  "last_updated": "2026-09-06T00:03:50.614231+00:00"
 }
