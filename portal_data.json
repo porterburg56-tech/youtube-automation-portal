@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 18,
-    "total_views": 111,
+    "total_uploads": 19,
+    "total_views": 119,
     "total_likes": 4,
     "total_subscribers": 1,
     "channels_count": 2,
@@ -22,7 +22,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 10,
-      "total_views": 49,
+      "total_views": 54,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -52,12 +52,12 @@
           "youtube_id": "gsQp78UWoZw",
           "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
           "tiktok_views": 2000000,
-          "youtube_views": 0,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-06T00:03:46Z"
+          "uploaded_at": "2026-09-06T00:04:07Z"
         },
         {
           "channel_id": "channel_1",
@@ -122,7 +122,7 @@
           "youtube_id": "7y42u0-PBQM",
           "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
           "tiktok_views": 11200,
-          "youtube_views": 2,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
@@ -292,8 +292,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 1,
-      "total_uploads": 8,
-      "total_views": 62,
+      "total_uploads": 9,
+      "total_views": 65,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -316,6 +316,20 @@
         }
       },
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7682120111880195341",
+          "youtube_id": "iyEKr8X5GEE",
+          "title": "Dark Beer Beef with Creamy Pickle Potato Salad #BeefRecipe #EasyDinne...",
+          "tiktok_views": 336500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/iyEKr8X5GEE/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-06T15:15:34Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -365,7 +379,7 @@
           "youtube_id": "b4-QdrGc2-g",
           "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
           "tiktok_views": 5309,
-          "youtube_views": 8,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
@@ -379,7 +393,7 @@
           "youtube_id": "KHZ15IsYo14",
           "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
           "tiktok_views": 4000000,
-          "youtube_views": 18,
+          "youtube_views": 23,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
@@ -430,6 +444,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 10,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-06",
+          "status": "success",
+          "video_id": "iyEKr8X5GEE",
+          "error_message": null,
+          "created_at": "2026-09-06T15:15:41.501030+00:00"
+        },
         {
           "id": 9,
           "channel_id": "channel_2",
@@ -515,18 +539,32 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7682120111880195341",
+      "youtube_id": "iyEKr8X5GEE",
+      "title": "Dark Beer Beef with Creamy Pickle Potato Salad #BeefRecipe #EasyDinne...",
+      "tiktok_views": 336500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/iyEKr8X5GEE/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-06T15:15:34Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7663464745680276749",
       "youtube_id": "gsQp78UWoZw",
       "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
       "tiktok_views": 2000000,
-      "youtube_views": 0,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-06T00:03:46Z"
+      "uploaded_at": "2026-09-06T00:04:07Z"
     },
     {
       "channel_id": "channel_1",
@@ -619,7 +657,7 @@
       "youtube_id": "b4-QdrGc2-g",
       "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
       "tiktok_views": 5309,
-      "youtube_views": 8,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
@@ -647,7 +685,7 @@
       "youtube_id": "7y42u0-PBQM",
       "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
       "tiktok_views": 11200,
-      "youtube_views": 2,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
@@ -661,7 +699,7 @@
       "youtube_id": "KHZ15IsYo14",
       "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
       "tiktok_views": 4000000,
-      "youtube_views": 18,
+      "youtube_views": 23,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
@@ -781,7 +819,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 10,
-    "total_views": 49,
+    "total_views": 54,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -811,12 +849,12 @@
         "youtube_id": "gsQp78UWoZw",
         "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
         "tiktok_views": 2000000,
-        "youtube_views": 0,
+        "youtube_views": 6,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-06T00:03:46Z"
+        "uploaded_at": "2026-09-06T00:04:07Z"
       },
       {
         "channel_id": "channel_1",
@@ -881,7 +919,7 @@
         "youtube_id": "7y42u0-PBQM",
         "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
         "tiktok_views": 11200,
-        "youtube_views": 2,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
@@ -1039,8 +1077,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 18,
-    "total_views": 111,
+    "total_uploads": 19,
+    "total_views": 119,
     "total_likes": 4,
     "videos_per_day": 4
   },
@@ -1156,5 +1194,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-06T00:03:50.614231+00:00"
+  "last_updated": "2026-09-06T15:15:44.319243+00:00"
 }
