@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 23,
-    "total_views": 137,
+    "total_uploads": 24,
+    "total_views": 140,
     "total_likes": 5,
     "total_subscribers": 2,
     "channels_count": 2,
@@ -340,8 +340,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 2,
-      "total_uploads": 11,
-      "total_views": 79,
+      "total_uploads": 12,
+      "total_views": 82,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -367,16 +367,30 @@
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
+          "tiktok_id": "7672466132040764686",
+          "youtube_id": "_nPHaeujxv0",
+          "title": "cheesy Broccoli Tart with Crispy bacon \ud83e\udd53 | Easy one pan recipe",
+          "tiktok_views": 1500000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/_nPHaeujxv0/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-07T19:13:15Z"
+        },
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
           "tiktok_id": "7680253891153235214",
           "youtube_id": "ZZUBRcApta8",
           "title": "Cheesy Stuffed Meat Patties with Potatoes \ud83e\uddc0\ud83e\udd54 #StuffedMeatPatties #Eas...",
           "tiktok_views": 881800,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-07T15:16:10Z"
+          "uploaded_at": "2026-09-07T15:16:52Z"
         },
         {
           "channel_id": "channel_2",
@@ -521,6 +535,16 @@
       ],
       "runs": [
         {
+          "id": 13,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-09-07",
+          "status": "success",
+          "video_id": "_nPHaeujxv0",
+          "error_message": null,
+          "created_at": "2026-09-07T19:13:20.273972+00:00"
+        },
+        {
           "id": 12,
           "channel_id": "channel_2",
           "slot": 1,
@@ -637,16 +661,30 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7672466132040764686",
+      "youtube_id": "_nPHaeujxv0",
+      "title": "cheesy Broccoli Tart with Crispy bacon \ud83e\udd53 | Easy one pan recipe",
+      "tiktok_views": 1500000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/_nPHaeujxv0/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-07T19:13:15Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7680253891153235214",
       "youtube_id": "ZZUBRcApta8",
       "title": "Cheesy Stuffed Meat Patties with Potatoes \ud83e\uddc0\ud83e\udd54 #StuffedMeatPatties #Eas...",
       "tiktok_views": 881800,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-07T15:16:10Z"
+      "uploaded_at": "2026-09-07T15:16:52Z"
     },
     {
       "channel_id": "channel_1",
@@ -1277,8 +1315,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 23,
-    "total_views": 137,
+    "total_uploads": 24,
+    "total_views": 140,
     "total_likes": 5,
     "videos_per_day": 4
   },
@@ -1414,5 +1452,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-07T15:16:19.539788+00:00"
+  "last_updated": "2026-09-07T19:13:23.153660+00:00"
 }
