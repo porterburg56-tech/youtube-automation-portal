@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 24,
-    "total_views": 140,
+    "total_uploads": 25,
+    "total_views": 141,
     "total_likes": 5,
     "total_subscribers": 2,
     "channels_count": 2,
@@ -21,7 +21,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 12,
+      "total_uploads": 13,
       "total_views": 58,
       "total_likes": 2,
       "upcoming": {
@@ -45,6 +45,20 @@
         }
       },
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7682844448484560158",
+          "youtube_id": "ZFnEdIdb2ko",
+          "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f #...",
+          "tiktok_views": 1994,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/ZFnEdIdb2ko/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-07T22:17:41Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -216,6 +230,16 @@
       ],
       "runs": [
         {
+          "id": 14,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-07",
+          "status": "success",
+          "video_id": "ZFnEdIdb2ko",
+          "error_message": null,
+          "created_at": "2026-09-07T22:17:42.965115+00:00"
+        },
+        {
           "id": 13,
           "channel_id": "channel_1",
           "slot": 2,
@@ -341,7 +365,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 2,
       "total_uploads": 12,
-      "total_views": 82,
+      "total_views": 83,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -376,7 +400,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_nPHaeujxv0/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-07T19:13:15Z"
+          "uploaded_at": "2026-09-07T19:14:26Z"
         },
         {
           "channel_id": "channel_2",
@@ -469,7 +493,7 @@
           "youtube_id": "b4-QdrGc2-g",
           "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
           "tiktok_views": 5309,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
@@ -659,6 +683,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7682844448484560158",
+      "youtube_id": "ZFnEdIdb2ko",
+      "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f #...",
+      "tiktok_views": 1994,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/ZFnEdIdb2ko/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-07T22:17:41Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7672466132040764686",
@@ -670,7 +708,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_nPHaeujxv0/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-07T19:13:15Z"
+      "uploaded_at": "2026-09-07T19:14:26Z"
     },
     {
       "channel_id": "channel_2",
@@ -847,7 +885,7 @@
       "youtube_id": "b4-QdrGc2-g",
       "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
       "tiktok_views": 5309,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
@@ -1008,7 +1046,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 12,
+    "total_uploads": 13,
     "total_views": 58,
     "total_likes": 2,
     "upcoming": {
@@ -1032,6 +1070,20 @@
       }
     },
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7682844448484560158",
+        "youtube_id": "ZFnEdIdb2ko",
+        "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f #...",
+        "tiktok_views": 1994,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/ZFnEdIdb2ko/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-07T22:17:41Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -1203,6 +1255,16 @@
     ],
     "runs": [
       {
+        "id": 14,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-07",
+        "status": "success",
+        "video_id": "ZFnEdIdb2ko",
+        "error_message": null,
+        "created_at": "2026-09-07T22:17:42.965115+00:00"
+      },
+      {
         "id": 13,
         "channel_id": "channel_1",
         "slot": 2,
@@ -1315,8 +1377,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 24,
-    "total_views": 140,
+    "total_uploads": 25,
+    "total_views": 141,
     "total_likes": 5,
     "videos_per_day": 4
   },
@@ -1341,6 +1403,16 @@
     }
   },
   "runs": [
+    {
+      "id": 14,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-07",
+      "status": "success",
+      "video_id": "ZFnEdIdb2ko",
+      "error_message": null,
+      "created_at": "2026-09-07T22:17:42.965115+00:00"
+    },
     {
       "id": 13,
       "channel_id": "channel_1",
@@ -1452,5 +1524,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-07T19:13:23.153660+00:00"
+  "last_updated": "2026-09-07T22:17:45.512621+00:00"
 }
