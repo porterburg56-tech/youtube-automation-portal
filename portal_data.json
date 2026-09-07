@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 22,
-    "total_views": 127,
+    "total_uploads": 23,
+    "total_views": 137,
     "total_likes": 5,
     "total_subscribers": 2,
     "channels_count": 2,
@@ -22,7 +22,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 12,
-      "total_views": 54,
+      "total_views": 58,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -57,7 +57,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TfSQslAQSEY/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-07T00:03:35Z"
+          "uploaded_at": "2026-09-07T00:03:57Z"
         },
         {
           "channel_id": "channel_1",
@@ -80,7 +80,7 @@
           "youtube_id": "gsQp78UWoZw",
           "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
           "tiktok_views": 2000000,
-          "youtube_views": 6,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
@@ -340,8 +340,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 2,
-      "total_uploads": 10,
-      "total_views": 73,
+      "total_uploads": 11,
+      "total_views": 79,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -367,6 +367,20 @@
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
+          "tiktok_id": "7680253891153235214",
+          "youtube_id": "ZZUBRcApta8",
+          "title": "Cheesy Stuffed Meat Patties with Potatoes \ud83e\uddc0\ud83e\udd54 #StuffedMeatPatties #Eas...",
+          "tiktok_views": 881800,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-07T15:16:10Z"
+        },
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
           "tiktok_id": "7667268605846752526",
           "youtube_id": "V5annwPH0Is",
           "title": "Fun Short",
@@ -385,7 +399,7 @@
           "youtube_id": "iyEKr8X5GEE",
           "title": "Dark Beer Beef with Creamy Pickle Potato Salad #BeefRecipe #EasyDinne...",
           "tiktok_views": 336500,
-          "youtube_views": 2,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/iyEKr8X5GEE/hqdefault.jpg",
@@ -399,7 +413,7 @@
           "youtube_id": "o5SexqEBXFw",
           "title": "Crispy Chicken Petals with Creamy Cheddar Sauce #Chicken #Dinner #Coo...",
           "tiktok_views": 3600000,
-          "youtube_views": 10,
+          "youtube_views": 11,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/o5SexqEBXFw/hqdefault.jpg",
@@ -413,7 +427,7 @@
           "youtube_id": "H5ph_RXAj5Y",
           "title": "Strawberry Puff Pastry Cake \ud83c\udf53\u2728 The Layered Dessert You Need to Try! \ud83d\udd25...",
           "tiktok_views": 89400,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/H5ph_RXAj5Y/hqdefault.jpg",
@@ -441,7 +455,7 @@
           "youtube_id": "b4-QdrGc2-g",
           "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
           "tiktok_views": 5309,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
@@ -506,6 +520,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 12,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-07",
+          "status": "success",
+          "video_id": "ZZUBRcApta8",
+          "error_message": null,
+          "created_at": "2026-09-07T15:16:16.831170+00:00"
+        },
         {
           "id": 11,
           "channel_id": "channel_2",
@@ -611,6 +635,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7680253891153235214",
+      "youtube_id": "ZZUBRcApta8",
+      "title": "Cheesy Stuffed Meat Patties with Potatoes \ud83e\uddc0\ud83e\udd54 #StuffedMeatPatties #Eas...",
+      "tiktok_views": 881800,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-07T15:16:10Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7656483424743492878",
@@ -622,7 +660,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TfSQslAQSEY/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-07T00:03:35Z"
+      "uploaded_at": "2026-09-07T00:03:57Z"
     },
     {
       "channel_id": "channel_1",
@@ -659,7 +697,7 @@
       "youtube_id": "iyEKr8X5GEE",
       "title": "Dark Beer Beef with Creamy Pickle Potato Salad #BeefRecipe #EasyDinne...",
       "tiktok_views": 336500,
-      "youtube_views": 2,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/iyEKr8X5GEE/hqdefault.jpg",
@@ -673,7 +711,7 @@
       "youtube_id": "gsQp78UWoZw",
       "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
       "tiktok_views": 2000000,
-      "youtube_views": 6,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
@@ -701,7 +739,7 @@
       "youtube_id": "o5SexqEBXFw",
       "title": "Crispy Chicken Petals with Creamy Cheddar Sauce #Chicken #Dinner #Coo...",
       "tiktok_views": 3600000,
-      "youtube_views": 10,
+      "youtube_views": 11,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/o5SexqEBXFw/hqdefault.jpg",
@@ -715,7 +753,7 @@
       "youtube_id": "H5ph_RXAj5Y",
       "title": "Strawberry Puff Pastry Cake \ud83c\udf53\u2728 The Layered Dessert You Need to Try! \ud83d\udd25...",
       "tiktok_views": 89400,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/H5ph_RXAj5Y/hqdefault.jpg",
@@ -771,7 +809,7 @@
       "youtube_id": "b4-QdrGc2-g",
       "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
       "tiktok_views": 5309,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
@@ -933,7 +971,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 12,
-    "total_views": 54,
+    "total_views": 58,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -968,7 +1006,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/TfSQslAQSEY/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-07T00:03:35Z"
+        "uploaded_at": "2026-09-07T00:03:57Z"
       },
       {
         "channel_id": "channel_1",
@@ -991,7 +1029,7 @@
         "youtube_id": "gsQp78UWoZw",
         "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
         "tiktok_views": 2000000,
-        "youtube_views": 6,
+        "youtube_views": 10,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
@@ -1239,8 +1277,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 22,
-    "total_views": 127,
+    "total_uploads": 23,
+    "total_views": 137,
     "total_likes": 5,
     "videos_per_day": 4
   },
@@ -1376,5 +1414,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-07T00:03:39.288140+00:00"
+  "last_updated": "2026-09-07T15:16:19.539788+00:00"
 }
