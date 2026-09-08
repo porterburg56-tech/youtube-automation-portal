@@ -1,9 +1,9 @@
 {
   "cumulative": {
-    "total_uploads": 27,
-    "total_views": 157,
+    "total_uploads": 28,
+    "total_views": 160,
     "total_likes": 5,
-    "total_subscribers": 2,
+    "total_subscribers": 3,
     "channels_count": 2,
     "videos_per_day": 4
   },
@@ -387,9 +387,9 @@
       "avatar": "https://yt3.ggpht.com/BzfrtPYNdc_HaeUp-BzMgQYBKQzMy8kzHQwtG7rtTR2XGjy4qb_K_Q2gI9A4HwplzX5C5ZrCzQ=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
-      "subscribers": 2,
-      "total_uploads": 13,
-      "total_views": 91,
+      "subscribers": 3,
+      "total_uploads": 14,
+      "total_views": 94,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -415,16 +415,30 @@
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
+          "tiktok_id": "7668385467972291854",
+          "youtube_id": "af5ueoolFiE",
+          "title": "Fun Short",
+          "tiktok_views": 1300000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/af5ueoolFiE/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-08T19:14:59Z"
+        },
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
           "tiktok_id": "7682853233416785166",
           "youtube_id": "QVcjQmHpXP8",
           "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
           "tiktok_views": 774200,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-08T15:19:52Z"
+          "uploaded_at": "2026-09-08T15:20:41Z"
         },
         {
           "channel_id": "channel_2",
@@ -597,6 +611,16 @@
       ],
       "runs": [
         {
+          "id": 15,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-09-08",
+          "status": "success",
+          "video_id": "af5ueoolFiE",
+          "error_message": null,
+          "created_at": "2026-09-08T19:15:07.613269+00:00"
+        },
+        {
           "id": 14,
           "channel_id": "channel_2",
           "slot": 1,
@@ -733,16 +757,30 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7668385467972291854",
+      "youtube_id": "af5ueoolFiE",
+      "title": "Fun Short",
+      "tiktok_views": 1300000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/af5ueoolFiE/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-08T19:14:59Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7682853233416785166",
       "youtube_id": "QVcjQmHpXP8",
       "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
       "tiktok_views": 774200,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-08T15:19:52Z"
+      "uploaded_at": "2026-09-08T15:20:41Z"
     },
     {
       "channel_id": "channel_1",
@@ -1477,8 +1515,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 27,
-    "total_views": 157,
+    "total_uploads": 28,
+    "total_views": 160,
     "total_likes": 5,
     "videos_per_day": 4
   },
@@ -1634,5 +1672,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-08T15:20:03.171795+00:00"
+  "last_updated": "2026-09-08T19:15:11.529253+00:00"
 }
