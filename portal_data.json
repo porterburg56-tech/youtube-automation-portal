@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 26,
-    "total_views": 144,
+    "total_uploads": 27,
+    "total_views": 157,
     "total_likes": 5,
     "total_subscribers": 2,
     "channels_count": 2,
@@ -22,7 +22,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 14,
-      "total_views": 59,
+      "total_views": 66,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -57,7 +57,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MTdV6Hav-Rs/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-08T00:03:45Z"
+          "uploaded_at": "2026-09-08T00:04:09Z"
         },
         {
           "channel_id": "channel_1",
@@ -66,7 +66,7 @@
           "youtube_id": "ZFnEdIdb2ko",
           "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f #...",
           "tiktok_views": 1994,
-          "youtube_views": 1,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ZFnEdIdb2ko/hqdefault.jpg",
@@ -388,8 +388,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 2,
-      "total_uploads": 12,
-      "total_views": 85,
+      "total_uploads": 13,
+      "total_views": 91,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -415,11 +415,25 @@
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
+          "tiktok_id": "7682853233416785166",
+          "youtube_id": "QVcjQmHpXP8",
+          "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
+          "tiktok_views": 774200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-08T15:19:52Z"
+        },
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
           "tiktok_id": "7672466132040764686",
           "youtube_id": "_nPHaeujxv0",
           "title": "cheesy Broccoli Tart with Crispy bacon \ud83e\udd53 | Easy one pan recipe",
           "tiktok_views": 1500000,
-          "youtube_views": 1,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_nPHaeujxv0/hqdefault.jpg",
@@ -475,7 +489,7 @@
           "youtube_id": "o5SexqEBXFw",
           "title": "Crispy Chicken Petals with Creamy Cheddar Sauce #Chicken #Dinner #Coo...",
           "tiktok_views": 3600000,
-          "youtube_views": 11,
+          "youtube_views": 14,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/o5SexqEBXFw/hqdefault.jpg",
@@ -582,6 +596,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 14,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-08",
+          "status": "success",
+          "video_id": "QVcjQmHpXP8",
+          "error_message": null,
+          "created_at": "2026-09-08T15:19:59.842977+00:00"
+        },
         {
           "id": 13,
           "channel_id": "channel_2",
@@ -707,6 +731,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7682853233416785166",
+      "youtube_id": "QVcjQmHpXP8",
+      "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
+      "tiktok_views": 774200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-08T15:19:52Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7678008422230494477",
@@ -718,7 +756,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MTdV6Hav-Rs/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-08T00:03:45Z"
+      "uploaded_at": "2026-09-08T00:04:09Z"
     },
     {
       "channel_id": "channel_1",
@@ -727,7 +765,7 @@
       "youtube_id": "ZFnEdIdb2ko",
       "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f #...",
       "tiktok_views": 1994,
-      "youtube_views": 1,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ZFnEdIdb2ko/hqdefault.jpg",
@@ -741,7 +779,7 @@
       "youtube_id": "_nPHaeujxv0",
       "title": "cheesy Broccoli Tart with Crispy bacon \ud83e\udd53 | Easy one pan recipe",
       "tiktok_views": 1500000,
-      "youtube_views": 1,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_nPHaeujxv0/hqdefault.jpg",
@@ -853,7 +891,7 @@
       "youtube_id": "o5SexqEBXFw",
       "title": "Crispy Chicken Petals with Creamy Cheddar Sauce #Chicken #Dinner #Coo...",
       "tiktok_views": 3600000,
-      "youtube_views": 11,
+      "youtube_views": 14,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/o5SexqEBXFw/hqdefault.jpg",
@@ -1085,7 +1123,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 14,
-    "total_views": 59,
+    "total_views": 66,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -1120,7 +1158,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/MTdV6Hav-Rs/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-08T00:03:45Z"
+        "uploaded_at": "2026-09-08T00:04:09Z"
       },
       {
         "channel_id": "channel_1",
@@ -1129,7 +1167,7 @@
         "youtube_id": "ZFnEdIdb2ko",
         "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f #...",
         "tiktok_views": 1994,
-        "youtube_views": 1,
+        "youtube_views": 8,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/ZFnEdIdb2ko/hqdefault.jpg",
@@ -1439,8 +1477,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 26,
-    "total_views": 144,
+    "total_uploads": 27,
+    "total_views": 157,
     "total_likes": 5,
     "videos_per_day": 4
   },
@@ -1596,5 +1634,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-08T00:03:53.774696+00:00"
+  "last_updated": "2026-09-08T15:20:03.171795+00:00"
 }
