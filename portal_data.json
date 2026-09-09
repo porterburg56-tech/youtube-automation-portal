@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 28,
-    "total_views": 209,
+    "total_views": 213,
     "total_likes": 5,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -244,6 +244,16 @@
       ],
       "runs": [
         {
+          "id": 18,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-09",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-09T22:16:55.074438+00:00"
+        },
+        {
           "id": 17,
           "channel_id": "channel_1",
           "slot": 2,
@@ -409,7 +419,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 14,
-      "total_views": 142,
+      "total_views": 146,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -453,7 +463,7 @@
           "youtube_id": "QVcjQmHpXP8",
           "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
           "tiktok_views": 774200,
-          "youtube_views": 42,
+          "youtube_views": 43,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
@@ -467,7 +477,7 @@
           "youtube_id": "_nPHaeujxv0",
           "title": "cheesy Broccoli Tart with Crispy bacon \ud83e\udd53 | Easy one pan recipe",
           "tiktok_views": 1500000,
-          "youtube_views": 11,
+          "youtube_views": 13,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_nPHaeujxv0/hqdefault.jpg",
@@ -579,7 +589,7 @@
           "youtube_id": "KHZ15IsYo14",
           "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
           "tiktok_views": 4000000,
-          "youtube_views": 23,
+          "youtube_views": 24,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
@@ -815,7 +825,7 @@
       "youtube_id": "QVcjQmHpXP8",
       "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
       "tiktok_views": 774200,
-      "youtube_views": 42,
+      "youtube_views": 43,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
@@ -857,7 +867,7 @@
       "youtube_id": "_nPHaeujxv0",
       "title": "cheesy Broccoli Tart with Crispy bacon \ud83e\udd53 | Easy one pan recipe",
       "tiktok_views": 1500000,
-      "youtube_views": 11,
+      "youtube_views": 13,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_nPHaeujxv0/hqdefault.jpg",
@@ -1081,7 +1091,7 @@
       "youtube_id": "KHZ15IsYo14",
       "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
       "tiktok_views": 4000000,
-      "youtube_views": 23,
+      "youtube_views": 24,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
@@ -1423,6 +1433,16 @@
     ],
     "runs": [
       {
+        "id": 18,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-09",
+        "status": "failed",
+        "video_id": null,
+        "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+        "created_at": "2026-09-09T22:16:55.074438+00:00"
+      },
+      {
         "id": 17,
         "channel_id": "channel_1",
         "slot": 2,
@@ -1576,7 +1596,7 @@
   },
   "kpis": {
     "total_uploads": 28,
-    "total_views": 209,
+    "total_views": 213,
     "total_likes": 5,
     "videos_per_day": 4
   },
@@ -1601,6 +1621,16 @@
     }
   },
   "runs": [
+    {
+      "id": 18,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-09",
+      "status": "failed",
+      "video_id": null,
+      "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "created_at": "2026-09-09T22:16:55.074438+00:00"
+    },
     {
       "id": 17,
       "channel_id": "channel_1",
@@ -1752,5 +1782,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-09T19:14:32.663964+00:00"
+  "last_updated": "2026-09-09T22:16:57.875120+00:00"
 }
