@@ -5,8 +5,64 @@
     "total_likes": 5,
     "total_subscribers": 3,
     "channels_count": 2,
-    "videos_per_day": 4
+    "videos_per_day": 6
   },
+  "master_view_history": [
+    {
+      "date": "2026-09-01",
+      "ch1_views": 23,
+      "ch2_views": 0,
+      "total_views": 23
+    },
+    {
+      "date": "2026-09-02",
+      "ch1_views": 41,
+      "ch2_views": 30,
+      "total_views": 71
+    },
+    {
+      "date": "2026-09-03",
+      "ch1_views": 44,
+      "ch2_views": 56,
+      "total_views": 100
+    },
+    {
+      "date": "2026-09-04",
+      "ch1_views": 48,
+      "ch2_views": 64,
+      "total_views": 112
+    },
+    {
+      "date": "2026-09-05",
+      "ch1_views": 48,
+      "ch2_views": 79,
+      "total_views": 127
+    },
+    {
+      "date": "2026-09-06",
+      "ch1_views": 58,
+      "ch2_views": 86,
+      "total_views": 144
+    },
+    {
+      "date": "2026-09-07",
+      "ch1_views": 67,
+      "ch2_views": 106,
+      "total_views": 173
+    },
+    {
+      "date": "2026-09-08",
+      "ch1_views": 67,
+      "ch2_views": 157,
+      "total_views": 224
+    },
+    {
+      "date": "2026-09-10",
+      "ch1_views": 67,
+      "ch2_views": 157,
+      "total_views": 224
+    }
+  ],
   "channels": {
     "channel_1": {
       "id": "channel_1",
@@ -27,23 +83,85 @@
       "upcoming": {
         "slot1": {
           "slot": 1,
-          "time_utc": "22:00",
-          "time_et": "6:00 PM ET",
-          "time_local": "3:30 AM IST",
+          "time_utc": "17:00",
+          "time_et": "12:00 PM ET",
           "strategy": "Newest Video",
           "creator": "@funnytoddle_r",
           "status": "Queued (Slot 1)"
         },
         "slot2": {
           "slot": 2,
-          "time_utc": "00:00",
-          "time_et": "8:00 PM ET",
-          "time_local": "5:30 AM IST",
+          "time_utc": "23:30",
+          "time_et": "6:30 PM ET",
           "strategy": "Most-Viewed Video",
           "creator": "@funnytoddle_r",
           "status": "Queued (Slot 2)"
+        },
+        "slot3": {
+          "slot": 3,
+          "time_utc": "02:00",
+          "time_et": "9:00 PM ET",
+          "strategy": "Popular Split Pick",
+          "creator": "@funnytoddle_r",
+          "status": "Queued (Slot 3)"
         }
       },
+      "view_history": [
+        {
+          "date": "2026-09-01",
+          "views": 23,
+          "uploads": 1,
+          "cumulative_views": 23
+        },
+        {
+          "date": "2026-09-02",
+          "views": 18,
+          "uploads": 2,
+          "cumulative_views": 41
+        },
+        {
+          "date": "2026-09-03",
+          "views": 3,
+          "uploads": 2,
+          "cumulative_views": 44
+        },
+        {
+          "date": "2026-09-04",
+          "views": 4,
+          "uploads": 2,
+          "cumulative_views": 48
+        },
+        {
+          "date": "2026-09-05",
+          "views": 0,
+          "uploads": 2,
+          "cumulative_views": 48
+        },
+        {
+          "date": "2026-09-06",
+          "views": 10,
+          "uploads": 2,
+          "cumulative_views": 58
+        },
+        {
+          "date": "2026-09-07",
+          "views": 9,
+          "uploads": 2,
+          "cumulative_views": 67
+        },
+        {
+          "date": "2026-09-08",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 67
+        },
+        {
+          "date": "2026-09-10",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 67
+        }
+      ],
       "videos": [
         {
           "channel_id": "channel_1",
@@ -458,23 +576,79 @@
       "upcoming": {
         "slot1": {
           "slot": 1,
-          "time_utc": "15:00",
+          "time_utc": "16:00",
           "time_et": "11:00 AM ET",
-          "time_local": "8:30 PM IST",
-          "strategy": "Lunchtime Recipe (Auto-Subtitles)",
+          "strategy": "Brunch Recipe (Auto-Subtitles)",
           "creator": "@dailychefstories",
           "status": "Queued (Slot 1)"
         },
         "slot2": {
           "slot": 2,
-          "time_utc": "19:00",
-          "time_et": "3:00 PM ET",
-          "time_local": "12:30 AM IST",
-          "strategy": "Evening Feast (Auto-Subtitles)",
+          "time_utc": "22:00",
+          "time_et": "5:00 PM ET",
+          "strategy": "Dinner Prep (Auto-Subtitles)",
           "creator": "@dailychefstories",
           "status": "Queued (Slot 2)"
+        },
+        "slot3": {
+          "slot": 3,
+          "time_utc": "01:00",
+          "time_et": "8:00 PM ET",
+          "strategy": "Prime-Time Pick (Auto-Subtitles)",
+          "creator": "@dailychefstories",
+          "status": "Queued (Slot 3)"
         }
       },
+      "view_history": [
+        {
+          "date": "2026-09-02",
+          "views": 30,
+          "uploads": 2,
+          "cumulative_views": 30
+        },
+        {
+          "date": "2026-09-03",
+          "views": 26,
+          "uploads": 2,
+          "cumulative_views": 56
+        },
+        {
+          "date": "2026-09-04",
+          "views": 8,
+          "uploads": 2,
+          "cumulative_views": 64
+        },
+        {
+          "date": "2026-09-05",
+          "views": 15,
+          "uploads": 2,
+          "cumulative_views": 79
+        },
+        {
+          "date": "2026-09-06",
+          "views": 7,
+          "uploads": 2,
+          "cumulative_views": 86
+        },
+        {
+          "date": "2026-09-07",
+          "views": 20,
+          "uploads": 2,
+          "cumulative_views": 106
+        },
+        {
+          "date": "2026-09-08",
+          "views": 51,
+          "uploads": 2,
+          "cumulative_views": 157
+        },
+        {
+          "date": "2026-09-10",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 157
+        }
+      ],
       "videos": [
         {
           "channel_id": "channel_2",
@@ -488,7 +662,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ZN83SQT-bYI/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-10T07:08:54Z"
+          "uploaded_at": "2026-09-10T07:10:11Z"
         },
         {
           "channel_id": "channel_2",
@@ -874,7 +1048,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ZN83SQT-bYI/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-10T07:08:54Z"
+      "uploaded_at": "2026-09-10T07:10:11Z"
     },
     {
       "channel_id": "channel_1",
@@ -1302,23 +1476,85 @@
     "upcoming": {
       "slot1": {
         "slot": 1,
-        "time_utc": "22:00",
-        "time_et": "6:00 PM ET",
-        "time_local": "3:30 AM IST",
+        "time_utc": "17:00",
+        "time_et": "12:00 PM ET",
         "strategy": "Newest Video",
         "creator": "@funnytoddle_r",
         "status": "Queued (Slot 1)"
       },
       "slot2": {
         "slot": 2,
-        "time_utc": "00:00",
-        "time_et": "8:00 PM ET",
-        "time_local": "5:30 AM IST",
+        "time_utc": "23:30",
+        "time_et": "6:30 PM ET",
         "strategy": "Most-Viewed Video",
         "creator": "@funnytoddle_r",
         "status": "Queued (Slot 2)"
+      },
+      "slot3": {
+        "slot": 3,
+        "time_utc": "02:00",
+        "time_et": "9:00 PM ET",
+        "strategy": "Popular Split Pick",
+        "creator": "@funnytoddle_r",
+        "status": "Queued (Slot 3)"
       }
     },
+    "view_history": [
+      {
+        "date": "2026-09-01",
+        "views": 23,
+        "uploads": 1,
+        "cumulative_views": 23
+      },
+      {
+        "date": "2026-09-02",
+        "views": 18,
+        "uploads": 2,
+        "cumulative_views": 41
+      },
+      {
+        "date": "2026-09-03",
+        "views": 3,
+        "uploads": 2,
+        "cumulative_views": 44
+      },
+      {
+        "date": "2026-09-04",
+        "views": 4,
+        "uploads": 2,
+        "cumulative_views": 48
+      },
+      {
+        "date": "2026-09-05",
+        "views": 0,
+        "uploads": 2,
+        "cumulative_views": 48
+      },
+      {
+        "date": "2026-09-06",
+        "views": 10,
+        "uploads": 2,
+        "cumulative_views": 58
+      },
+      {
+        "date": "2026-09-07",
+        "views": 9,
+        "uploads": 2,
+        "cumulative_views": 67
+      },
+      {
+        "date": "2026-09-08",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 67
+      },
+      {
+        "date": "2026-09-10",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 67
+      }
+    ],
     "videos": [
       {
         "channel_id": "channel_1",
@@ -1718,26 +1954,32 @@
     "total_uploads": 30,
     "total_views": 224,
     "total_likes": 5,
-    "videos_per_day": 4
+    "videos_per_day": 6
   },
   "upcoming": {
     "slot1": {
       "slot": 1,
-      "time_utc": "22:00",
-      "time_et": "6:00 PM ET",
-      "time_local": "3:30 AM IST",
+      "time_utc": "17:00",
+      "time_et": "12:00 PM ET",
       "strategy": "Newest Video",
       "creator": "@funnytoddle_r",
       "status": "Queued (Slot 1)"
     },
     "slot2": {
       "slot": 2,
-      "time_utc": "00:00",
-      "time_et": "8:00 PM ET",
-      "time_local": "5:30 AM IST",
+      "time_utc": "23:30",
+      "time_et": "6:30 PM ET",
       "strategy": "Most-Viewed Video",
       "creator": "@funnytoddle_r",
       "status": "Queued (Slot 2)"
+    },
+    "slot3": {
+      "slot": 3,
+      "time_utc": "02:00",
+      "time_et": "9:00 PM ET",
+      "strategy": "Popular Split Pick",
+      "creator": "@funnytoddle_r",
+      "status": "Queued (Slot 3)"
     }
   },
   "runs": [
@@ -1922,5 +2164,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-10T07:09:01.210386+00:00"
+  "last_updated": "2026-09-10T08:39:37.432719+00:00"
 }
