@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 28,
-    "total_views": 224,
+    "total_uploads": 29,
+    "total_views": 222,
     "total_likes": 5,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -21,7 +21,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 14,
+      "total_uploads": 15,
       "total_views": 67,
       "total_likes": 2,
       "upcoming": {
@@ -45,6 +45,20 @@
         }
       },
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7683521229898157342",
+          "youtube_id": "Ml1HFT47PEU",
+          "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #toddler #tik...",
+          "tiktok_views": 19200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/Ml1HFT47PEU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-10T07:05:24Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -244,6 +258,36 @@
       ],
       "runs": [
         {
+          "id": 20,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-10",
+          "status": "success",
+          "video_id": "Ml1HFT47PEU",
+          "error_message": null,
+          "created_at": "2026-09-10T07:05:28.517675+00:00"
+        },
+        {
+          "id": 19,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-10",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-10T00:04:02.871405+00:00"
+        },
+        {
+          "id": 18,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-09",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-09T22:16:55.074438+00:00"
+        },
+        {
           "id": 17,
           "channel_id": "channel_1",
           "slot": 2,
@@ -409,7 +453,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 14,
-      "total_views": 157,
+      "total_views": 155,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -453,7 +497,7 @@
           "youtube_id": "QVcjQmHpXP8",
           "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
           "tiktok_views": 774200,
-          "youtube_views": 49,
+          "youtube_views": 47,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
@@ -795,6 +839,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7683521229898157342",
+      "youtube_id": "Ml1HFT47PEU",
+      "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #toddler #tik...",
+      "tiktok_views": 19200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/Ml1HFT47PEU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-10T07:05:24Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7668385467972291854",
@@ -815,7 +873,7 @@
       "youtube_id": "QVcjQmHpXP8",
       "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
       "tiktok_views": 774200,
-      "youtube_views": 49,
+      "youtube_views": 47,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
@@ -1200,7 +1258,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 14,
+    "total_uploads": 15,
     "total_views": 67,
     "total_likes": 2,
     "upcoming": {
@@ -1224,6 +1282,20 @@
       }
     },
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7683521229898157342",
+        "youtube_id": "Ml1HFT47PEU",
+        "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #toddler #tik...",
+        "tiktok_views": 19200,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/Ml1HFT47PEU/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-10T07:05:24Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -1423,6 +1495,36 @@
     ],
     "runs": [
       {
+        "id": 20,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-10",
+        "status": "success",
+        "video_id": "Ml1HFT47PEU",
+        "error_message": null,
+        "created_at": "2026-09-10T07:05:28.517675+00:00"
+      },
+      {
+        "id": 19,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-10",
+        "status": "failed",
+        "video_id": null,
+        "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+        "created_at": "2026-09-10T00:04:02.871405+00:00"
+      },
+      {
+        "id": 18,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-09",
+        "status": "failed",
+        "video_id": null,
+        "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+        "created_at": "2026-09-09T22:16:55.074438+00:00"
+      },
+      {
         "id": 17,
         "channel_id": "channel_1",
         "slot": 2,
@@ -1575,8 +1677,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 28,
-    "total_views": 224,
+    "total_uploads": 29,
+    "total_views": 222,
     "total_likes": 5,
     "videos_per_day": 4
   },
@@ -1601,6 +1703,36 @@
     }
   },
   "runs": [
+    {
+      "id": 20,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-10",
+      "status": "success",
+      "video_id": "Ml1HFT47PEU",
+      "error_message": null,
+      "created_at": "2026-09-10T07:05:28.517675+00:00"
+    },
+    {
+      "id": 19,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-10",
+      "status": "failed",
+      "video_id": null,
+      "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "created_at": "2026-09-10T00:04:02.871405+00:00"
+    },
+    {
+      "id": 18,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-09",
+      "status": "failed",
+      "video_id": null,
+      "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "created_at": "2026-09-09T22:16:55.074438+00:00"
+    },
     {
       "id": 17,
       "channel_id": "channel_1",
@@ -1752,5 +1884,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-10T06:51:33.081459+00:00"
+  "last_updated": "2026-09-10T07:05:31.378705+00:00"
 }
