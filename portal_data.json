@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 28,
-    "total_views": 213,
+    "total_views": 214,
     "total_likes": 5,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -244,6 +244,16 @@
       ],
       "runs": [
         {
+          "id": 19,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-10",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-10T00:04:02.871405+00:00"
+        },
+        {
           "id": 18,
           "channel_id": "channel_1",
           "slot": 1,
@@ -419,7 +429,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 14,
-      "total_views": 146,
+      "total_views": 147,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -463,7 +473,7 @@
           "youtube_id": "QVcjQmHpXP8",
           "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
           "tiktok_views": 774200,
-          "youtube_views": 43,
+          "youtube_views": 44,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
@@ -825,7 +835,7 @@
       "youtube_id": "QVcjQmHpXP8",
       "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
       "tiktok_views": 774200,
-      "youtube_views": 43,
+      "youtube_views": 44,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
@@ -1433,6 +1443,16 @@
     ],
     "runs": [
       {
+        "id": 19,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-10",
+        "status": "failed",
+        "video_id": null,
+        "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+        "created_at": "2026-09-10T00:04:02.871405+00:00"
+      },
+      {
         "id": 18,
         "channel_id": "channel_1",
         "slot": 1,
@@ -1596,7 +1616,7 @@
   },
   "kpis": {
     "total_uploads": 28,
-    "total_views": 213,
+    "total_views": 214,
     "total_likes": 5,
     "videos_per_day": 4
   },
@@ -1621,6 +1641,16 @@
     }
   },
   "runs": [
+    {
+      "id": 19,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-10",
+      "status": "failed",
+      "video_id": null,
+      "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "created_at": "2026-09-10T00:04:02.871405+00:00"
+    },
     {
       "id": 18,
       "channel_id": "channel_1",
@@ -1782,5 +1812,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-09T22:16:57.875120+00:00"
+  "last_updated": "2026-09-10T00:04:05.449197+00:00"
 }
