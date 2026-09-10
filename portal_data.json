@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 30,
-    "total_views": 224,
+    "total_views": 225,
     "total_likes": 5,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -53,14 +53,14 @@
     {
       "date": "2026-09-08",
       "ch1_views": 67,
-      "ch2_views": 157,
-      "total_views": 224
+      "ch2_views": 158,
+      "total_views": 225
     },
     {
       "date": "2026-09-10",
       "ch1_views": 67,
-      "ch2_views": 157,
-      "total_views": 224
+      "ch2_views": 158,
+      "total_views": 225
     }
   ],
   "channels": {
@@ -571,7 +571,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 15,
-      "total_views": 157,
+      "total_views": 158,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -638,15 +638,15 @@
         },
         {
           "date": "2026-09-08",
-          "views": 51,
+          "views": 52,
           "uploads": 2,
-          "cumulative_views": 157
+          "cumulative_views": 158
         },
         {
           "date": "2026-09-10",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 157
+          "cumulative_views": 158
         }
       ],
       "videos": [
@@ -685,7 +685,7 @@
           "youtube_id": "QVcjQmHpXP8",
           "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
           "tiktok_views": 774200,
-          "youtube_views": 49,
+          "youtube_views": 50,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
@@ -1085,7 +1085,7 @@
       "youtube_id": "QVcjQmHpXP8",
       "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
       "tiktok_views": 774200,
-      "youtube_views": 49,
+      "youtube_views": 50,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
@@ -1952,7 +1952,7 @@
   },
   "kpis": {
     "total_uploads": 30,
-    "total_views": 224,
+    "total_views": 225,
     "total_likes": 5,
     "videos_per_day": 6
   },
@@ -2164,5 +2164,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-10T08:39:37.432719+00:00"
+  "last_updated": "2026-09-10T16:16:14.546868+00:00"
 }
