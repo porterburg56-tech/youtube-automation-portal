@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 29,
-    "total_views": 222,
+    "total_uploads": 30,
+    "total_views": 224,
     "total_likes": 5,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -57,7 +57,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Ml1HFT47PEU/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-10T07:05:24Z"
+          "uploaded_at": "2026-09-10T07:05:47Z"
         },
         {
           "channel_id": "channel_1",
@@ -452,8 +452,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 14,
-      "total_views": 155,
+      "total_uploads": 15,
+      "total_views": 157,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -479,6 +479,20 @@
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
+          "tiktok_id": "7683235333076421902",
+          "youtube_id": "ZN83SQT-bYI",
+          "title": "\ud83c\udf7a Beer-Braised Beef with Creamy Parmesan Mashed Potatoes #BeerBraised...",
+          "tiktok_views": 39100,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/ZN83SQT-bYI/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-10T07:08:54Z"
+        },
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
           "tiktok_id": "7668385467972291854",
           "youtube_id": "af5ueoolFiE",
           "title": "Fun Short",
@@ -497,7 +511,7 @@
           "youtube_id": "QVcjQmHpXP8",
           "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
           "tiktok_views": 774200,
-          "youtube_views": 47,
+          "youtube_views": 49,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
@@ -675,6 +689,16 @@
       ],
       "runs": [
         {
+          "id": 18,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-10",
+          "status": "success",
+          "video_id": "ZN83SQT-bYI",
+          "error_message": null,
+          "created_at": "2026-09-10T07:08:58.709983+00:00"
+        },
+        {
           "id": 17,
           "channel_id": "channel_2",
           "slot": 2,
@@ -839,6 +863,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7683235333076421902",
+      "youtube_id": "ZN83SQT-bYI",
+      "title": "\ud83c\udf7a Beer-Braised Beef with Creamy Parmesan Mashed Potatoes #BeerBraised...",
+      "tiktok_views": 39100,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/ZN83SQT-bYI/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-10T07:08:54Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7683521229898157342",
@@ -850,7 +888,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Ml1HFT47PEU/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-10T07:05:24Z"
+      "uploaded_at": "2026-09-10T07:05:47Z"
     },
     {
       "channel_id": "channel_2",
@@ -873,7 +911,7 @@
       "youtube_id": "QVcjQmHpXP8",
       "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
       "tiktok_views": 774200,
-      "youtube_views": 47,
+      "youtube_views": 49,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
@@ -1294,7 +1332,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/Ml1HFT47PEU/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-10T07:05:24Z"
+        "uploaded_at": "2026-09-10T07:05:47Z"
       },
       {
         "channel_id": "channel_1",
@@ -1677,8 +1715,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 29,
-    "total_views": 222,
+    "total_uploads": 30,
+    "total_views": 224,
     "total_likes": 5,
     "videos_per_day": 4
   },
@@ -1884,5 +1922,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-10T07:05:31.378705+00:00"
+  "last_updated": "2026-09-10T07:09:01.210386+00:00"
 }
