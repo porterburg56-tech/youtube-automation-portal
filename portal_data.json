@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 33,
+    "total_uploads": 34,
     "total_views": 230,
     "total_likes": 5,
     "total_subscribers": 3,
@@ -64,9 +64,9 @@
     },
     {
       "date": "2026-09-11",
-      "ch1_views": 0,
+      "ch1_views": 68,
       "ch2_views": 162,
-      "total_views": 162
+      "total_views": 230
     }
   ],
   "channels": {
@@ -83,7 +83,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 16,
+      "total_uploads": 17,
       "total_views": 68,
       "total_likes": 2,
       "upcoming": {
@@ -166,9 +166,29 @@
           "views": 0,
           "uploads": 2,
           "cumulative_views": 68
+        },
+        {
+          "date": "2026-09-11",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 68
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7659745867984833805",
+          "youtube_id": "l0LMb2QAPUs",
+          "title": "She Did NOT Have To Expose Dad Like This \ud83d\ude02 tiktokgrowthchallenge ti",
+          "tiktok_views": 581600,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/l0LMb2QAPUs/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-11T02:08:55Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -395,6 +415,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 22,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-09-11",
+          "status": "success",
+          "video_id": "l0LMb2QAPUs",
+          "error_message": null,
+          "created_at": "2026-09-11T02:08:57.026830+00:00"
+        },
         {
           "id": 21,
           "channel_id": "channel_1",
@@ -698,7 +728,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/eMsOP8u_G70/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-11T01:08:16Z"
+          "uploaded_at": "2026-09-11T01:09:04Z"
         },
         {
           "channel_id": "channel_2",
@@ -1121,6 +1151,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7659745867984833805",
+      "youtube_id": "l0LMb2QAPUs",
+      "title": "She Did NOT Have To Expose Dad Like This \ud83d\ude02 tiktokgrowthchallenge ti",
+      "tiktok_views": 581600,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/l0LMb2QAPUs/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-11T02:08:55Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7672845202532371725",
@@ -1132,7 +1176,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/eMsOP8u_G70/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-11T01:08:16Z"
+      "uploaded_at": "2026-09-11T01:09:04Z"
     },
     {
       "channel_id": "channel_1",
@@ -1596,7 +1640,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 16,
+    "total_uploads": 17,
     "total_views": 68,
     "total_likes": 2,
     "upcoming": {
@@ -1679,9 +1723,29 @@
         "views": 0,
         "uploads": 2,
         "cumulative_views": 68
+      },
+      {
+        "date": "2026-09-11",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 68
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7659745867984833805",
+        "youtube_id": "l0LMb2QAPUs",
+        "title": "She Did NOT Have To Expose Dad Like This \ud83d\ude02 tiktokgrowthchallenge ti",
+        "tiktok_views": 581600,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/l0LMb2QAPUs/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-11T02:08:55Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -1909,6 +1973,16 @@
     ],
     "runs": [
       {
+        "id": 22,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-09-11",
+        "status": "success",
+        "video_id": "l0LMb2QAPUs",
+        "error_message": null,
+        "created_at": "2026-09-11T02:08:57.026830+00:00"
+      },
+      {
         "id": 21,
         "channel_id": "channel_1",
         "slot": 2,
@@ -2101,7 +2175,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 33,
+    "total_uploads": 34,
     "total_views": 230,
     "total_likes": 5,
     "videos_per_day": 6
@@ -2133,6 +2207,16 @@
     }
   },
   "runs": [
+    {
+      "id": 22,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-09-11",
+      "status": "success",
+      "video_id": "l0LMb2QAPUs",
+      "error_message": null,
+      "created_at": "2026-09-11T02:08:57.026830+00:00"
+    },
     {
       "id": 21,
       "channel_id": "channel_1",
@@ -2324,5 +2408,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-11T01:08:23.979378+00:00"
+  "last_updated": "2026-09-11T02:09:00.064051+00:00"
 }
