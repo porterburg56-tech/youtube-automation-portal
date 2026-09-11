@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 34,
-    "total_views": 230,
+    "total_uploads": 35,
+    "total_views": 231,
     "total_likes": 5,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -47,26 +47,26 @@
     {
       "date": "2026-09-07",
       "ch1_views": 68,
-      "ch2_views": 106,
-      "total_views": 174
+      "ch2_views": 107,
+      "total_views": 175
     },
     {
       "date": "2026-09-08",
       "ch1_views": 68,
-      "ch2_views": 159,
-      "total_views": 227
+      "ch2_views": 160,
+      "total_views": 228
     },
     {
       "date": "2026-09-10",
       "ch1_views": 68,
-      "ch2_views": 162,
-      "total_views": 230
+      "ch2_views": 163,
+      "total_views": 231
     },
     {
       "date": "2026-09-11",
       "ch1_views": 68,
-      "ch2_views": 162,
-      "total_views": 230
+      "ch2_views": 163,
+      "total_views": 231
     }
   ],
   "channels": {
@@ -187,7 +187,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/l0LMb2QAPUs/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-11T02:08:55Z"
+          "uploaded_at": "2026-09-11T02:09:18Z"
         },
         {
           "channel_id": "channel_1",
@@ -630,8 +630,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 17,
-      "total_views": 162,
+      "total_uploads": 18,
+      "total_views": 163,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -692,30 +692,44 @@
         },
         {
           "date": "2026-09-07",
-          "views": 20,
+          "views": 21,
           "uploads": 2,
-          "cumulative_views": 106
+          "cumulative_views": 107
         },
         {
           "date": "2026-09-08",
           "views": 53,
           "uploads": 2,
-          "cumulative_views": 159
+          "cumulative_views": 160
         },
         {
           "date": "2026-09-10",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 162
+          "cumulative_views": 163
         },
         {
           "date": "2026-09-11",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 162
+          "uploads": 2,
+          "cumulative_views": 163
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7683965585339813134",
+          "youtube_id": "lZw2Y3LiD-M",
+          "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
+          "tiktok_views": 292200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-11T16:20:33Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -807,7 +821,7 @@
           "youtube_id": "ZZUBRcApta8",
           "title": "Cheesy Stuffed Meat Patties with Potatoes \ud83e\uddc0\ud83e\udd54 #StuffedMeatPatties #Eas...",
           "tiktok_views": 881800,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
@@ -956,6 +970,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 21,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-11",
+          "status": "success",
+          "video_id": "lZw2Y3LiD-M",
+          "error_message": null,
+          "created_at": "2026-09-11T16:20:46.112805+00:00"
+        },
         {
           "id": 20,
           "channel_id": "channel_2",
@@ -1151,6 +1175,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7683965585339813134",
+      "youtube_id": "lZw2Y3LiD-M",
+      "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
+      "tiktok_views": 292200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-11T16:20:33Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7659745867984833805",
@@ -1162,7 +1200,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/l0LMb2QAPUs/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-11T02:08:55Z"
+      "uploaded_at": "2026-09-11T02:09:18Z"
     },
     {
       "channel_id": "channel_2",
@@ -1311,7 +1349,7 @@
       "youtube_id": "ZZUBRcApta8",
       "title": "Cheesy Stuffed Meat Patties with Potatoes \ud83e\uddc0\ud83e\udd54 #StuffedMeatPatties #Eas...",
       "tiktok_views": 881800,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
@@ -1744,7 +1782,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/l0LMb2QAPUs/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-11T02:08:55Z"
+        "uploaded_at": "2026-09-11T02:09:18Z"
       },
       {
         "channel_id": "channel_1",
@@ -2175,8 +2213,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 34,
-    "total_views": 230,
+    "total_uploads": 35,
+    "total_views": 231,
     "total_likes": 5,
     "videos_per_day": 6
   },
@@ -2408,5 +2446,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-11T02:09:00.064051+00:00"
+  "last_updated": "2026-09-11T16:20:49.219869+00:00"
 }
