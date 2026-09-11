@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 37,
+    "total_uploads": 38,
     "total_views": 236,
     "total_likes": 5,
     "total_subscribers": 3,
@@ -83,7 +83,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 18,
+      "total_uploads": 19,
       "total_views": 68,
       "total_likes": 2,
       "upcoming": {
@@ -170,11 +170,25 @@
         {
           "date": "2026-09-11",
           "views": 0,
-          "uploads": 2,
+          "uploads": 3,
           "cumulative_views": 68
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7679483110710463758",
+          "youtube_id": "8__A-X6lNDk",
+          "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19 tiktokgrowthc",
+          "tiktok_views": 490700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-11T23:39:23Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -430,6 +444,16 @@
       ],
       "runs": [
         {
+          "id": 24,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-11",
+          "status": "success",
+          "video_id": "8__A-X6lNDk",
+          "error_message": null,
+          "created_at": "2026-09-11T23:39:25.149895+00:00"
+        },
+        {
           "id": 23,
           "channel_id": "channel_1",
           "slot": 1,
@@ -618,16 +642,6 @@
           "video_id": "yyHs2FbbwXM",
           "error_message": null,
           "created_at": "2026-09-03T00:04:14.649922+00:00"
-        },
-        {
-          "id": 4,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-02",
-          "status": "success",
-          "video_id": "AFqVQt-mHZg",
-          "error_message": null,
-          "created_at": "2026-09-02T22:17:18.267336+00:00"
         }
       ]
     },
@@ -742,7 +756,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Oa87vgbUaSU/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-11T22:20:15Z"
+          "uploaded_at": "2026-09-11T22:20:45Z"
         },
         {
           "channel_id": "channel_2",
@@ -1203,6 +1217,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7679483110710463758",
+      "youtube_id": "8__A-X6lNDk",
+      "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19 tiktokgrowthc",
+      "tiktok_views": 490700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-11T23:39:23Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7670241146085444877",
@@ -1214,7 +1242,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Oa87vgbUaSU/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-11T22:20:15Z"
+      "uploaded_at": "2026-09-11T22:20:45Z"
     },
     {
       "channel_id": "channel_1",
@@ -1734,7 +1762,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 18,
+    "total_uploads": 19,
     "total_views": 68,
     "total_likes": 2,
     "upcoming": {
@@ -1821,11 +1849,25 @@
       {
         "date": "2026-09-11",
         "views": 0,
-        "uploads": 2,
+        "uploads": 3,
         "cumulative_views": 68
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7679483110710463758",
+        "youtube_id": "8__A-X6lNDk",
+        "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19 tiktokgrowthc",
+        "tiktok_views": 490700,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-11T23:39:23Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -2081,6 +2123,16 @@
     ],
     "runs": [
       {
+        "id": 24,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-11",
+        "status": "success",
+        "video_id": "8__A-X6lNDk",
+        "error_message": null,
+        "created_at": "2026-09-11T23:39:25.149895+00:00"
+      },
+      {
         "id": 23,
         "channel_id": "channel_1",
         "slot": 1,
@@ -2269,21 +2321,11 @@
         "video_id": "yyHs2FbbwXM",
         "error_message": null,
         "created_at": "2026-09-03T00:04:14.649922+00:00"
-      },
-      {
-        "id": 4,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-02",
-        "status": "success",
-        "video_id": "AFqVQt-mHZg",
-        "error_message": null,
-        "created_at": "2026-09-02T22:17:18.267336+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 37,
+    "total_uploads": 38,
     "total_views": 236,
     "total_likes": 5,
     "videos_per_day": 6
@@ -2315,6 +2357,16 @@
     }
   },
   "runs": [
+    {
+      "id": 24,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-11",
+      "status": "success",
+      "video_id": "8__A-X6lNDk",
+      "error_message": null,
+      "created_at": "2026-09-11T23:39:25.149895+00:00"
+    },
     {
       "id": 23,
       "channel_id": "channel_1",
@@ -2504,17 +2556,7 @@
       "video_id": "yyHs2FbbwXM",
       "error_message": null,
       "created_at": "2026-09-03T00:04:14.649922+00:00"
-    },
-    {
-      "id": 4,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-02",
-      "status": "success",
-      "video_id": "AFqVQt-mHZg",
-      "error_message": null,
-      "created_at": "2026-09-02T22:17:18.267336+00:00"
     }
   ],
-  "last_updated": "2026-09-11T22:20:22.852001+00:00"
+  "last_updated": "2026-09-11T23:39:28.281681+00:00"
 }
