@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 38,
-    "total_views": 236,
+    "total_uploads": 39,
+    "total_views": 239,
     "total_likes": 5,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -47,26 +47,32 @@
     {
       "date": "2026-09-07",
       "ch1_views": 68,
-      "ch2_views": 109,
-      "total_views": 177
+      "ch2_views": 112,
+      "total_views": 180
     },
     {
       "date": "2026-09-08",
-      "ch1_views": 68,
-      "ch2_views": 163,
-      "total_views": 231
-    },
-    {
-      "date": "2026-09-10",
       "ch1_views": 68,
       "ch2_views": 166,
       "total_views": 234
     },
     {
+      "date": "2026-09-10",
+      "ch1_views": 68,
+      "ch2_views": 169,
+      "total_views": 237
+    },
+    {
       "date": "2026-09-11",
       "ch1_views": 68,
-      "ch2_views": 168,
-      "total_views": 236
+      "ch2_views": 171,
+      "total_views": 239
+    },
+    {
+      "date": "2026-09-12",
+      "ch1_views": 0,
+      "ch2_views": 171,
+      "total_views": 171
     }
   ],
   "channels": {
@@ -187,7 +193,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-11T23:39:23Z"
+          "uploaded_at": "2026-09-11T23:39:52Z"
         },
         {
           "channel_id": "channel_1",
@@ -658,8 +664,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 19,
-      "total_views": 168,
+      "total_uploads": 20,
+      "total_views": 171,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -720,30 +726,50 @@
         },
         {
           "date": "2026-09-07",
-          "views": 23,
+          "views": 26,
           "uploads": 2,
-          "cumulative_views": 109
+          "cumulative_views": 112
         },
         {
           "date": "2026-09-08",
           "views": 54,
           "uploads": 2,
-          "cumulative_views": 163
+          "cumulative_views": 166
         },
         {
           "date": "2026-09-10",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 166
+          "cumulative_views": 169
         },
         {
           "date": "2026-09-11",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 168
+          "cumulative_views": 171
+        },
+        {
+          "date": "2026-09-12",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 171
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7663190414253378829",
+          "youtube_id": "kjK0O81Zne4",
+          "title": "Buttery Boiled Omelet Toast You Need to Try \ud83c\udf73\ud83e\udd56 BreakfastRecipe EggR",
+          "tiktok_views": 1000000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/kjK0O81Zne4/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-12T01:07:15Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -863,7 +889,7 @@
           "youtube_id": "ZZUBRcApta8",
           "title": "Cheesy Stuffed Meat Patties with Potatoes \ud83e\uddc0\ud83e\udd54 #StuffedMeatPatties #Eas...",
           "tiktok_views": 881800,
-          "youtube_views": 7,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
@@ -1012,6 +1038,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 23,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-09-12",
+          "status": "success",
+          "video_id": "kjK0O81Zne4",
+          "error_message": null,
+          "created_at": "2026-09-12T01:07:19.472346+00:00"
+        },
         {
           "id": 22,
           "channel_id": "channel_2",
@@ -1201,21 +1237,25 @@
           "video_id": "78EkdGFRBp4",
           "error_message": null,
           "created_at": "2026-09-03T15:16:48.240041+00:00"
-        },
-        {
-          "id": 3,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-09-02",
-          "status": "success",
-          "video_id": "3RMF7dypOD4",
-          "error_message": null,
-          "created_at": "2026-09-02T19:13:24.917664+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7663190414253378829",
+      "youtube_id": "kjK0O81Zne4",
+      "title": "Buttery Boiled Omelet Toast You Need to Try \ud83c\udf73\ud83e\udd56 BreakfastRecipe EggR",
+      "tiktok_views": 1000000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/kjK0O81Zne4/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-12T01:07:15Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -1228,7 +1268,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-11T23:39:23Z"
+      "uploaded_at": "2026-09-11T23:39:52Z"
     },
     {
       "channel_id": "channel_2",
@@ -1433,7 +1473,7 @@
       "youtube_id": "ZZUBRcApta8",
       "title": "Cheesy Stuffed Meat Patties with Potatoes \ud83e\uddc0\ud83e\udd54 #StuffedMeatPatties #Eas...",
       "tiktok_views": 881800,
-      "youtube_views": 7,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
@@ -1866,7 +1906,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-11T23:39:23Z"
+        "uploaded_at": "2026-09-11T23:39:52Z"
       },
       {
         "channel_id": "channel_1",
@@ -2325,8 +2365,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 38,
-    "total_views": 236,
+    "total_uploads": 39,
+    "total_views": 239,
     "total_likes": 5,
     "videos_per_day": 6
   },
@@ -2558,5 +2598,5 @@
       "created_at": "2026-09-03T00:04:14.649922+00:00"
     }
   ],
-  "last_updated": "2026-09-11T23:39:28.281681+00:00"
+  "last_updated": "2026-09-12T01:07:22.386309+00:00"
 }
