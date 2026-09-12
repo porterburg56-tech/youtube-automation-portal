@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 40,
-    "total_views": 239,
+    "total_uploads": 41,
+    "total_views": 248,
     "total_likes": 5,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -22,57 +22,57 @@
     },
     {
       "date": "2026-09-03",
-      "ch1_views": 44,
+      "ch1_views": 45,
       "ch2_views": 56,
-      "total_views": 100
+      "total_views": 101
     },
     {
       "date": "2026-09-04",
-      "ch1_views": 48,
+      "ch1_views": 49,
       "ch2_views": 64,
-      "total_views": 112
+      "total_views": 113
     },
     {
       "date": "2026-09-05",
-      "ch1_views": 48,
+      "ch1_views": 49,
       "ch2_views": 79,
-      "total_views": 127
+      "total_views": 128
     },
     {
       "date": "2026-09-06",
-      "ch1_views": 58,
+      "ch1_views": 59,
       "ch2_views": 86,
-      "total_views": 144
+      "total_views": 145
     },
     {
       "date": "2026-09-07",
-      "ch1_views": 68,
+      "ch1_views": 69,
       "ch2_views": 112,
-      "total_views": 180
+      "total_views": 181
     },
     {
       "date": "2026-09-08",
-      "ch1_views": 68,
+      "ch1_views": 69,
       "ch2_views": 166,
-      "total_views": 234
+      "total_views": 235
     },
     {
       "date": "2026-09-10",
-      "ch1_views": 68,
+      "ch1_views": 69,
       "ch2_views": 169,
-      "total_views": 237
+      "total_views": 238
     },
     {
       "date": "2026-09-11",
-      "ch1_views": 68,
-      "ch2_views": 171,
-      "total_views": 239
+      "ch1_views": 72,
+      "ch2_views": 173,
+      "total_views": 245
     },
     {
       "date": "2026-09-12",
-      "ch1_views": 68,
-      "ch2_views": 171,
-      "total_views": 239
+      "ch1_views": 72,
+      "ch2_views": 176,
+      "total_views": 248
     }
   ],
   "channels": {
@@ -90,7 +90,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 20,
-      "total_views": 68,
+      "total_views": 72,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -133,57 +133,57 @@
         },
         {
           "date": "2026-09-03",
-          "views": 3,
+          "views": 4,
           "uploads": 2,
-          "cumulative_views": 44
+          "cumulative_views": 45
         },
         {
           "date": "2026-09-04",
           "views": 4,
           "uploads": 2,
-          "cumulative_views": 48
+          "cumulative_views": 49
         },
         {
           "date": "2026-09-05",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 48
+          "cumulative_views": 49
         },
         {
           "date": "2026-09-06",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 58
+          "cumulative_views": 59
         },
         {
           "date": "2026-09-07",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 68
+          "cumulative_views": 69
         },
         {
           "date": "2026-09-08",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 68
+          "cumulative_views": 69
         },
         {
           "date": "2026-09-10",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 68
+          "cumulative_views": 69
         },
         {
           "date": "2026-09-11",
-          "views": 0,
+          "views": 3,
           "uploads": 3,
-          "cumulative_views": 68
+          "cumulative_views": 72
         },
         {
           "date": "2026-09-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 68
+          "cumulative_views": 72
         }
       ],
       "videos": [
@@ -199,7 +199,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/y15slAQPe6w/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-12T02:09:12Z"
+          "uploaded_at": "2026-09-12T02:09:30Z"
         },
         {
           "channel_id": "channel_1",
@@ -222,7 +222,7 @@
           "youtube_id": "Okan6xJnNWE",
           "title": "The Carrot Became a Walking Cane at the Farmers Market \ud83d\ude2d\ud83e\udd55 tiktokgrow",
           "tiktok_views": 4753,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Okan6xJnNWE/hqdefault.jpg",
@@ -404,7 +404,7 @@
           "youtube_id": "7y42u0-PBQM",
           "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
           "tiktok_views": 11200,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
@@ -684,8 +684,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 20,
-      "total_views": 171,
+      "total_uploads": 21,
+      "total_views": 176,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -764,18 +764,32 @@
         },
         {
           "date": "2026-09-11",
-          "views": 2,
+          "views": 4,
           "uploads": 3,
-          "cumulative_views": 171
+          "cumulative_views": 173
         },
         {
           "date": "2026-09-12",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 171
+          "views": 3,
+          "uploads": 2,
+          "cumulative_views": 176
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7684345064893500686",
+          "youtube_id": "-66iQZlh8Lk",
+          "title": "Cheesy Baked Chicken That\u2019s Seriously Delicious BakedChicken Chicke",
+          "tiktok_views": 15200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/-66iQZlh8Lk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-12T16:18:22Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -783,7 +797,7 @@
           "youtube_id": "kjK0O81Zne4",
           "title": "Buttery Boiled Omelet Toast You Need to Try \ud83c\udf73\ud83e\udd56 BreakfastRecipe EggR",
           "tiktok_views": 1000000,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/kjK0O81Zne4/hqdefault.jpg",
@@ -811,7 +825,7 @@
           "youtube_id": "lZw2Y3LiD-M",
           "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
           "tiktok_views": 292200,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
@@ -825,7 +839,7 @@
           "youtube_id": "eMsOP8u_G70",
           "title": "Fun Short",
           "tiktok_views": 1000000,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/eMsOP8u_G70/hqdefault.jpg",
@@ -1059,6 +1073,16 @@
       ],
       "runs": [
         {
+          "id": 24,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-12",
+          "status": "success",
+          "video_id": "-66iQZlh8Lk",
+          "error_message": null,
+          "created_at": "2026-09-12T16:18:30.939520+00:00"
+        },
+        {
           "id": 23,
           "channel_id": "channel_2",
           "slot": 3,
@@ -1247,21 +1271,25 @@
           "video_id": "KHZ15IsYo14",
           "error_message": null,
           "created_at": "2026-09-03T19:13:52.065578+00:00"
-        },
-        {
-          "id": 4,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-03",
-          "status": "success",
-          "video_id": "78EkdGFRBp4",
-          "error_message": null,
-          "created_at": "2026-09-03T15:16:48.240041+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7684345064893500686",
+      "youtube_id": "-66iQZlh8Lk",
+      "title": "Cheesy Baked Chicken That\u2019s Seriously Delicious BakedChicken Chicke",
+      "tiktok_views": 15200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/-66iQZlh8Lk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-12T16:18:22Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -1274,7 +1302,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/y15slAQPe6w/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-12T02:09:12Z"
+      "uploaded_at": "2026-09-12T02:09:30Z"
     },
     {
       "channel_id": "channel_2",
@@ -1283,7 +1311,7 @@
       "youtube_id": "kjK0O81Zne4",
       "title": "Buttery Boiled Omelet Toast You Need to Try \ud83c\udf73\ud83e\udd56 BreakfastRecipe EggR",
       "tiktok_views": 1000000,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/kjK0O81Zne4/hqdefault.jpg",
@@ -1325,7 +1353,7 @@
       "youtube_id": "Okan6xJnNWE",
       "title": "The Carrot Became a Walking Cane at the Farmers Market \ud83d\ude2d\ud83e\udd55 tiktokgrow",
       "tiktok_views": 4753,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Okan6xJnNWE/hqdefault.jpg",
@@ -1339,7 +1367,7 @@
       "youtube_id": "lZw2Y3LiD-M",
       "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
       "tiktok_views": 292200,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
@@ -1367,7 +1395,7 @@
       "youtube_id": "eMsOP8u_G70",
       "title": "Fun Short",
       "tiktok_views": 1000000,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/eMsOP8u_G70/hqdefault.jpg",
@@ -1703,7 +1731,7 @@
       "youtube_id": "7y42u0-PBQM",
       "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
       "tiktok_views": 11200,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
@@ -1837,7 +1865,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 20,
-    "total_views": 68,
+    "total_views": 72,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -1880,57 +1908,57 @@
       },
       {
         "date": "2026-09-03",
-        "views": 3,
+        "views": 4,
         "uploads": 2,
-        "cumulative_views": 44
+        "cumulative_views": 45
       },
       {
         "date": "2026-09-04",
         "views": 4,
         "uploads": 2,
-        "cumulative_views": 48
+        "cumulative_views": 49
       },
       {
         "date": "2026-09-05",
         "views": 0,
         "uploads": 2,
-        "cumulative_views": 48
+        "cumulative_views": 49
       },
       {
         "date": "2026-09-06",
         "views": 10,
         "uploads": 2,
-        "cumulative_views": 58
+        "cumulative_views": 59
       },
       {
         "date": "2026-09-07",
         "views": 10,
         "uploads": 2,
-        "cumulative_views": 68
+        "cumulative_views": 69
       },
       {
         "date": "2026-09-08",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 68
+        "cumulative_views": 69
       },
       {
         "date": "2026-09-10",
         "views": 0,
         "uploads": 2,
-        "cumulative_views": 68
+        "cumulative_views": 69
       },
       {
         "date": "2026-09-11",
-        "views": 0,
+        "views": 3,
         "uploads": 3,
-        "cumulative_views": 68
+        "cumulative_views": 72
       },
       {
         "date": "2026-09-12",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 68
+        "cumulative_views": 72
       }
     ],
     "videos": [
@@ -1946,7 +1974,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/y15slAQPe6w/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-12T02:09:12Z"
+        "uploaded_at": "2026-09-12T02:09:30Z"
       },
       {
         "channel_id": "channel_1",
@@ -1969,7 +1997,7 @@
         "youtube_id": "Okan6xJnNWE",
         "title": "The Carrot Became a Walking Cane at the Farmers Market \ud83d\ude2d\ud83e\udd55 tiktokgrow",
         "tiktok_views": 4753,
-        "youtube_views": 0,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/Okan6xJnNWE/hqdefault.jpg",
@@ -2151,7 +2179,7 @@
         "youtube_id": "7y42u0-PBQM",
         "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
         "tiktok_views": 11200,
-        "youtube_views": 1,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
@@ -2419,8 +2447,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 40,
-    "total_views": 239,
+    "total_uploads": 41,
+    "total_views": 248,
     "total_likes": 5,
     "videos_per_day": 6
   },
@@ -2652,5 +2680,5 @@
       "created_at": "2026-09-03T22:16:57.237804+00:00"
     }
   ],
-  "last_updated": "2026-09-12T02:09:16.300251+00:00"
+  "last_updated": "2026-09-12T16:18:33.951983+00:00"
 }
