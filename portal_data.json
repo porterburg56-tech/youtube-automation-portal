@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 43,
+    "total_uploads": 44,
     "total_views": 256,
     "total_likes": 5,
     "total_subscribers": 3,
@@ -58,9 +58,9 @@
     },
     {
       "date": "2026-09-10",
-      "ch1_views": 74,
+      "ch1_views": 75,
       "ch2_views": 169,
-      "total_views": 243
+      "total_views": 244
     },
     {
       "date": "2026-09-11",
@@ -89,7 +89,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 21,
+      "total_uploads": 22,
       "total_views": 79,
       "total_likes": 2,
       "upcoming": {
@@ -169,24 +169,38 @@
         },
         {
           "date": "2026-09-10",
-          "views": 2,
+          "views": 3,
           "uploads": 2,
-          "cumulative_views": 74
+          "cumulative_views": 75
         },
         {
           "date": "2026-09-11",
-          "views": 4,
+          "views": 3,
           "uploads": 3,
           "cumulative_views": 78
         },
         {
           "date": "2026-09-12",
           "views": 1,
-          "uploads": 2,
+          "uploads": 3,
           "cumulative_views": 79
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7659455287425764622",
+          "youtube_id": "_VMXeCFsF6E",
+          "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
+          "tiktok_views": 371800,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-12T23:38:33Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -236,7 +250,7 @@
           "youtube_id": "Okan6xJnNWE",
           "title": "The Carrot Became a Walking Cane at the Farmers Market \ud83d\ude2d\ud83e\udd55 tiktokgrow",
           "tiktok_views": 4753,
-          "youtube_views": 4,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Okan6xJnNWE/hqdefault.jpg",
@@ -264,7 +278,7 @@
           "youtube_id": "w4ZtImhPVG0",
           "title": "Dad After Work\u2026 According to My Toddler \ud83d\ude2d tiktokgrowthchallenge tik",
           "tiktok_views": 701800,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/w4ZtImhPVG0/hqdefault.jpg",
@@ -484,6 +498,16 @@
       ],
       "runs": [
         {
+          "id": 27,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-12",
+          "status": "success",
+          "video_id": "_VMXeCFsF6E",
+          "error_message": null,
+          "created_at": "2026-09-12T23:38:34.334720+00:00"
+        },
+        {
           "id": 26,
           "channel_id": "channel_1",
           "slot": 1,
@@ -672,16 +696,6 @@
           "video_id": "PaLcQYv70cc",
           "error_message": null,
           "created_at": "2026-09-04T22:16:44.405938+00:00"
-        },
-        {
-          "id": 7,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-09-04",
-          "status": "success",
-          "video_id": "yYZcQkQHknU",
-          "error_message": null,
-          "created_at": "2026-09-04T00:03:48.971251+00:00"
         }
       ]
     },
@@ -802,7 +816,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/0iNyvoUwVu0/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-12T22:19:49Z"
+          "uploaded_at": "2026-09-12T22:20:57Z"
         },
         {
           "channel_id": "channel_2",
@@ -1305,6 +1319,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7659455287425764622",
+      "youtube_id": "_VMXeCFsF6E",
+      "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
+      "tiktok_views": 371800,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-12T23:38:33Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7657340886476492045",
@@ -1316,7 +1344,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/0iNyvoUwVu0/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-12T22:19:49Z"
+      "uploaded_at": "2026-09-12T22:20:57Z"
     },
     {
       "channel_id": "channel_1",
@@ -1409,7 +1437,7 @@
       "youtube_id": "Okan6xJnNWE",
       "title": "The Carrot Became a Walking Cane at the Farmers Market \ud83d\ude2d\ud83e\udd55 tiktokgrow",
       "tiktok_views": 4753,
-      "youtube_views": 4,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Okan6xJnNWE/hqdefault.jpg",
@@ -1465,7 +1493,7 @@
       "youtube_id": "w4ZtImhPVG0",
       "title": "Dad After Work\u2026 According to My Toddler \ud83d\ude2d tiktokgrowthchallenge tik",
       "tiktok_views": 701800,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/w4ZtImhPVG0/hqdefault.jpg",
@@ -1920,7 +1948,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 21,
+    "total_uploads": 22,
     "total_views": 79,
     "total_likes": 2,
     "upcoming": {
@@ -2000,24 +2028,38 @@
       },
       {
         "date": "2026-09-10",
-        "views": 2,
+        "views": 3,
         "uploads": 2,
-        "cumulative_views": 74
+        "cumulative_views": 75
       },
       {
         "date": "2026-09-11",
-        "views": 4,
+        "views": 3,
         "uploads": 3,
         "cumulative_views": 78
       },
       {
         "date": "2026-09-12",
         "views": 1,
-        "uploads": 2,
+        "uploads": 3,
         "cumulative_views": 79
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7659455287425764622",
+        "youtube_id": "_VMXeCFsF6E",
+        "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
+        "tiktok_views": 371800,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-12T23:38:33Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -2067,7 +2109,7 @@
         "youtube_id": "Okan6xJnNWE",
         "title": "The Carrot Became a Walking Cane at the Farmers Market \ud83d\ude2d\ud83e\udd55 tiktokgrow",
         "tiktok_views": 4753,
-        "youtube_views": 4,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/Okan6xJnNWE/hqdefault.jpg",
@@ -2095,7 +2137,7 @@
         "youtube_id": "w4ZtImhPVG0",
         "title": "Dad After Work\u2026 According to My Toddler \ud83d\ude2d tiktokgrowthchallenge tik",
         "tiktok_views": 701800,
-        "youtube_views": 2,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/w4ZtImhPVG0/hqdefault.jpg",
@@ -2315,6 +2357,16 @@
     ],
     "runs": [
       {
+        "id": 27,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-12",
+        "status": "success",
+        "video_id": "_VMXeCFsF6E",
+        "error_message": null,
+        "created_at": "2026-09-12T23:38:34.334720+00:00"
+      },
+      {
         "id": 26,
         "channel_id": "channel_1",
         "slot": 1,
@@ -2503,21 +2555,11 @@
         "video_id": "PaLcQYv70cc",
         "error_message": null,
         "created_at": "2026-09-04T22:16:44.405938+00:00"
-      },
-      {
-        "id": 7,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-09-04",
-        "status": "success",
-        "video_id": "yYZcQkQHknU",
-        "error_message": null,
-        "created_at": "2026-09-04T00:03:48.971251+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 43,
+    "total_uploads": 44,
     "total_views": 256,
     "total_likes": 5,
     "videos_per_day": 6
@@ -2549,6 +2591,16 @@
     }
   },
   "runs": [
+    {
+      "id": 27,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-12",
+      "status": "success",
+      "video_id": "_VMXeCFsF6E",
+      "error_message": null,
+      "created_at": "2026-09-12T23:38:34.334720+00:00"
+    },
     {
       "id": 26,
       "channel_id": "channel_1",
@@ -2738,17 +2790,7 @@
       "video_id": "PaLcQYv70cc",
       "error_message": null,
       "created_at": "2026-09-04T22:16:44.405938+00:00"
-    },
-    {
-      "id": 7,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-09-04",
-      "status": "success",
-      "video_id": "yYZcQkQHknU",
-      "error_message": null,
-      "created_at": "2026-09-04T00:03:48.971251+00:00"
     }
   ],
-  "last_updated": "2026-09-12T22:19:56.438962+00:00"
+  "last_updated": "2026-09-12T23:38:36.936201+00:00"
 }
