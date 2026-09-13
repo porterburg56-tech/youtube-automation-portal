@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 48,
-    "total_views": 413,
+    "total_uploads": 49,
+    "total_views": 506,
     "total_likes": 7,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -40,45 +40,45 @@
     },
     {
       "date": "2026-09-06",
-      "ch1_views": 64,
+      "ch1_views": 66,
       "ch2_views": 86,
-      "total_views": 150
+      "total_views": 152
     },
     {
       "date": "2026-09-07",
-      "ch1_views": 74,
+      "ch1_views": 76,
       "ch2_views": 112,
-      "total_views": 186
+      "total_views": 188
     },
     {
       "date": "2026-09-08",
-      "ch1_views": 75,
+      "ch1_views": 77,
       "ch2_views": 165,
-      "total_views": 240
+      "total_views": 242
     },
     {
       "date": "2026-09-10",
-      "ch1_views": 78,
+      "ch1_views": 80,
       "ch2_views": 170,
-      "total_views": 248
+      "total_views": 250
     },
     {
       "date": "2026-09-11",
-      "ch1_views": 84,
+      "ch1_views": 87,
       "ch2_views": 176,
-      "total_views": 260
+      "total_views": 263
     },
     {
       "date": "2026-09-12",
-      "ch1_views": 229,
+      "ch1_views": 315,
       "ch2_views": 181,
-      "total_views": 410
+      "total_views": 496
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 231,
-      "ch2_views": 182,
-      "total_views": 413
+      "ch1_views": 317,
+      "ch2_views": 189,
+      "total_views": 506
     }
   ],
   "channels": {
@@ -96,7 +96,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 24,
-      "total_views": 231,
+      "total_views": 317,
       "total_likes": 4,
       "upcoming": {
         "slot1": {
@@ -157,45 +157,45 @@
         },
         {
           "date": "2026-09-06",
-          "views": 12,
+          "views": 14,
           "uploads": 2,
-          "cumulative_views": 64
+          "cumulative_views": 66
         },
         {
           "date": "2026-09-07",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 74
+          "cumulative_views": 76
         },
         {
           "date": "2026-09-08",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 75
+          "cumulative_views": 77
         },
         {
           "date": "2026-09-10",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 78
+          "cumulative_views": 80
         },
         {
           "date": "2026-09-11",
-          "views": 6,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 84
+          "cumulative_views": 87
         },
         {
           "date": "2026-09-12",
-          "views": 145,
+          "views": 228,
           "uploads": 3,
-          "cumulative_views": 229
+          "cumulative_views": 315
         },
         {
           "date": "2026-09-13",
           "views": 2,
           "uploads": 2,
-          "cumulative_views": 231
+          "cumulative_views": 317
         }
       ],
       "videos": [
@@ -211,7 +211,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BMUlZhV1Br0/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-13T17:15:39Z"
+          "uploaded_at": "2026-09-13T17:16:00Z"
         },
         {
           "channel_id": "channel_1",
@@ -234,7 +234,7 @@
           "youtube_id": "_VMXeCFsF6E",
           "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
           "tiktok_views": 371800,
-          "youtube_views": 144,
+          "youtube_views": 227,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
@@ -276,7 +276,7 @@
           "youtube_id": "8__A-X6lNDk",
           "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19 tiktokgrowthc",
           "tiktok_views": 490700,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
@@ -402,7 +402,7 @@
           "youtube_id": "gsQp78UWoZw",
           "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
           "tiktok_views": 2000000,
-          "youtube_views": 12,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
@@ -752,8 +752,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 24,
-      "total_views": 182,
+      "total_uploads": 25,
+      "total_views": 189,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -844,12 +844,26 @@
         },
         {
           "date": "2026-09-13",
-          "views": 1,
-          "uploads": 2,
-          "cumulative_views": 182
+          "views": 8,
+          "uploads": 3,
+          "cumulative_views": 189
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7668025748271205645",
+          "youtube_id": "a7u_O65DeEk",
+          "title": "The Secret to the Juiciest Stuffed Cabbage with Bacon StuffedCabbag",
+          "tiktok_views": 767700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-13T22:18:57Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -857,7 +871,7 @@
           "youtube_id": "tOagl_ZG9xk",
           "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
           "tiktok_views": 4086,
-          "youtube_views": 1,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -1189,6 +1203,16 @@
       ],
       "runs": [
         {
+          "id": 28,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-09-13",
+          "status": "success",
+          "video_id": "a7u_O65DeEk",
+          "error_message": null,
+          "created_at": "2026-09-13T22:19:00.356841+00:00"
+        },
+        {
           "id": 27,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1377,21 +1401,25 @@
           "video_id": "o5SexqEBXFw",
           "error_message": null,
           "created_at": "2026-09-05T19:13:01.061098+00:00"
-        },
-        {
-          "id": 8,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-05",
-          "status": "success",
-          "video_id": "H5ph_RXAj5Y",
-          "error_message": null,
-          "created_at": "2026-09-05T15:15:56.669600+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7668025748271205645",
+      "youtube_id": "a7u_O65DeEk",
+      "title": "The Secret to the Juiciest Stuffed Cabbage with Bacon StuffedCabbag",
+      "tiktok_views": 767700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-13T22:18:57Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -1404,7 +1432,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BMUlZhV1Br0/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-13T17:15:39Z"
+      "uploaded_at": "2026-09-13T17:16:00Z"
     },
     {
       "channel_id": "channel_2",
@@ -1413,7 +1441,7 @@
       "youtube_id": "tOagl_ZG9xk",
       "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
       "tiktok_views": 4086,
-      "youtube_views": 1,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -1455,7 +1483,7 @@
       "youtube_id": "_VMXeCFsF6E",
       "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
       "tiktok_views": 371800,
-      "youtube_views": 144,
+      "youtube_views": 227,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
@@ -1539,7 +1567,7 @@
       "youtube_id": "8__A-X6lNDk",
       "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19 tiktokgrowthc",
       "tiktok_views": 490700,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
@@ -1819,7 +1847,7 @@
       "youtube_id": "gsQp78UWoZw",
       "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
       "tiktok_views": 2000000,
-      "youtube_views": 12,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
@@ -2079,7 +2107,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 24,
-    "total_views": 231,
+    "total_views": 317,
     "total_likes": 4,
     "upcoming": {
       "slot1": {
@@ -2140,45 +2168,45 @@
       },
       {
         "date": "2026-09-06",
-        "views": 12,
+        "views": 14,
         "uploads": 2,
-        "cumulative_views": 64
+        "cumulative_views": 66
       },
       {
         "date": "2026-09-07",
         "views": 10,
         "uploads": 2,
-        "cumulative_views": 74
+        "cumulative_views": 76
       },
       {
         "date": "2026-09-08",
         "views": 1,
         "uploads": 1,
-        "cumulative_views": 75
+        "cumulative_views": 77
       },
       {
         "date": "2026-09-10",
         "views": 3,
         "uploads": 2,
-        "cumulative_views": 78
+        "cumulative_views": 80
       },
       {
         "date": "2026-09-11",
-        "views": 6,
+        "views": 7,
         "uploads": 3,
-        "cumulative_views": 84
+        "cumulative_views": 87
       },
       {
         "date": "2026-09-12",
-        "views": 145,
+        "views": 228,
         "uploads": 3,
-        "cumulative_views": 229
+        "cumulative_views": 315
       },
       {
         "date": "2026-09-13",
         "views": 2,
         "uploads": 2,
-        "cumulative_views": 231
+        "cumulative_views": 317
       }
     ],
     "videos": [
@@ -2194,7 +2222,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/BMUlZhV1Br0/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-13T17:15:39Z"
+        "uploaded_at": "2026-09-13T17:16:00Z"
       },
       {
         "channel_id": "channel_1",
@@ -2217,7 +2245,7 @@
         "youtube_id": "_VMXeCFsF6E",
         "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
         "tiktok_views": 371800,
-        "youtube_views": 144,
+        "youtube_views": 227,
         "youtube_likes": 2,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
@@ -2259,7 +2287,7 @@
         "youtube_id": "8__A-X6lNDk",
         "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19 tiktokgrowthc",
         "tiktok_views": 490700,
-        "youtube_views": 2,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
@@ -2385,7 +2413,7 @@
         "youtube_id": "gsQp78UWoZw",
         "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
         "tiktok_views": 2000000,
-        "youtube_views": 12,
+        "youtube_views": 14,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
@@ -2723,8 +2751,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 48,
-    "total_views": 413,
+    "total_uploads": 49,
+    "total_views": 506,
     "total_likes": 7,
     "videos_per_day": 6
   },
@@ -2956,5 +2984,5 @@
       "created_at": "2026-09-05T22:16:30.491358+00:00"
     }
   ],
-  "last_updated": "2026-09-13T17:15:43.936252+00:00"
+  "last_updated": "2026-09-13T22:19:03.066527+00:00"
 }
