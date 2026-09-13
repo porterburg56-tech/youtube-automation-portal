@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 49,
-    "total_views": 506,
+    "total_uploads": 50,
+    "total_views": 551,
     "total_likes": 7,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -70,15 +70,15 @@
     },
     {
       "date": "2026-09-12",
-      "ch1_views": 315,
+      "ch1_views": 354,
       "ch2_views": 181,
-      "total_views": 496
+      "total_views": 535
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 317,
-      "ch2_views": 189,
-      "total_views": 506
+      "ch1_views": 360,
+      "ch2_views": 191,
+      "total_views": 551
     }
   ],
   "channels": {
@@ -95,8 +95,8 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 24,
-      "total_views": 317,
+      "total_uploads": 25,
+      "total_views": 360,
       "total_likes": 4,
       "upcoming": {
         "slot1": {
@@ -187,18 +187,32 @@
         },
         {
           "date": "2026-09-12",
-          "views": 228,
+          "views": 267,
           "uploads": 3,
-          "cumulative_views": 315
+          "cumulative_views": 354
         },
         {
           "date": "2026-09-13",
-          "views": 2,
-          "uploads": 2,
-          "cumulative_views": 317
+          "views": 6,
+          "uploads": 3,
+          "cumulative_views": 360
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7665317993131314446",
+          "youtube_id": "KDPtkxSf2LE",
+          "title": "This Tiny Dad Impression Is Way Too Accurate \ud83d\ude02 tiktokgrowthchallenge",
+          "tiktok_views": 311900,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/KDPtkxSf2LE/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-13T23:39:30Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -220,7 +234,7 @@
           "youtube_id": "qw0io39Ys4A",
           "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
           "tiktok_views": 338800,
-          "youtube_views": 2,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
@@ -234,7 +248,7 @@
           "youtube_id": "_VMXeCFsF6E",
           "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
           "tiktok_views": 371800,
-          "youtube_views": 227,
+          "youtube_views": 266,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
@@ -538,6 +552,16 @@
       ],
       "runs": [
         {
+          "id": 30,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-13",
+          "status": "success",
+          "video_id": "KDPtkxSf2LE",
+          "error_message": null,
+          "created_at": "2026-09-13T23:39:32.154240+00:00"
+        },
+        {
           "id": 29,
           "channel_id": "channel_1",
           "slot": 1,
@@ -726,16 +750,6 @@
           "video_id": "gsQp78UWoZw",
           "error_message": null,
           "created_at": "2026-09-06T00:03:48.273600+00:00"
-        },
-        {
-          "id": 10,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-05",
-          "status": "success",
-          "video_id": "7tG5erFwaZQ",
-          "error_message": null,
-          "created_at": "2026-09-05T22:16:30.491358+00:00"
         }
       ]
     },
@@ -753,7 +767,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 25,
-      "total_views": 189,
+      "total_views": 191,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -844,9 +858,9 @@
         },
         {
           "date": "2026-09-13",
-          "views": 8,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 189
+          "cumulative_views": 191
         }
       ],
       "videos": [
@@ -862,7 +876,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-13T22:18:57Z"
+          "uploaded_at": "2026-09-13T22:19:43Z"
         },
         {
           "channel_id": "channel_2",
@@ -871,7 +885,7 @@
           "youtube_id": "tOagl_ZG9xk",
           "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
           "tiktok_views": 4086,
-          "youtube_views": 8,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -1407,6 +1421,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7665317993131314446",
+      "youtube_id": "KDPtkxSf2LE",
+      "title": "This Tiny Dad Impression Is Way Too Accurate \ud83d\ude02 tiktokgrowthchallenge",
+      "tiktok_views": 311900,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/KDPtkxSf2LE/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-13T23:39:30Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7668025748271205645",
@@ -1418,7 +1446,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-13T22:18:57Z"
+      "uploaded_at": "2026-09-13T22:19:43Z"
     },
     {
       "channel_id": "channel_1",
@@ -1441,7 +1469,7 @@
       "youtube_id": "tOagl_ZG9xk",
       "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
       "tiktok_views": 4086,
-      "youtube_views": 8,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -1455,7 +1483,7 @@
       "youtube_id": "qw0io39Ys4A",
       "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
       "tiktok_views": 338800,
-      "youtube_views": 2,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
@@ -1483,7 +1511,7 @@
       "youtube_id": "_VMXeCFsF6E",
       "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
       "tiktok_views": 371800,
-      "youtube_views": 227,
+      "youtube_views": 266,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
@@ -2106,8 +2134,8 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 24,
-    "total_views": 317,
+    "total_uploads": 25,
+    "total_views": 360,
     "total_likes": 4,
     "upcoming": {
       "slot1": {
@@ -2198,18 +2226,32 @@
       },
       {
         "date": "2026-09-12",
-        "views": 228,
+        "views": 267,
         "uploads": 3,
-        "cumulative_views": 315
+        "cumulative_views": 354
       },
       {
         "date": "2026-09-13",
-        "views": 2,
-        "uploads": 2,
-        "cumulative_views": 317
+        "views": 6,
+        "uploads": 3,
+        "cumulative_views": 360
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7665317993131314446",
+        "youtube_id": "KDPtkxSf2LE",
+        "title": "This Tiny Dad Impression Is Way Too Accurate \ud83d\ude02 tiktokgrowthchallenge",
+        "tiktok_views": 311900,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/KDPtkxSf2LE/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-13T23:39:30Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -2231,7 +2273,7 @@
         "youtube_id": "qw0io39Ys4A",
         "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
         "tiktok_views": 338800,
-        "youtube_views": 2,
+        "youtube_views": 6,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
@@ -2245,7 +2287,7 @@
         "youtube_id": "_VMXeCFsF6E",
         "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
         "tiktok_views": 371800,
-        "youtube_views": 227,
+        "youtube_views": 266,
         "youtube_likes": 2,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
@@ -2549,6 +2591,16 @@
     ],
     "runs": [
       {
+        "id": 30,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-13",
+        "status": "success",
+        "video_id": "KDPtkxSf2LE",
+        "error_message": null,
+        "created_at": "2026-09-13T23:39:32.154240+00:00"
+      },
+      {
         "id": 29,
         "channel_id": "channel_1",
         "slot": 1,
@@ -2737,22 +2789,12 @@
         "video_id": "gsQp78UWoZw",
         "error_message": null,
         "created_at": "2026-09-06T00:03:48.273600+00:00"
-      },
-      {
-        "id": 10,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-05",
-        "status": "success",
-        "video_id": "7tG5erFwaZQ",
-        "error_message": null,
-        "created_at": "2026-09-05T22:16:30.491358+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 49,
-    "total_views": 506,
+    "total_uploads": 50,
+    "total_views": 551,
     "total_likes": 7,
     "videos_per_day": 6
   },
@@ -2783,6 +2825,16 @@
     }
   },
   "runs": [
+    {
+      "id": 30,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-13",
+      "status": "success",
+      "video_id": "KDPtkxSf2LE",
+      "error_message": null,
+      "created_at": "2026-09-13T23:39:32.154240+00:00"
+    },
     {
       "id": 29,
       "channel_id": "channel_1",
@@ -2972,17 +3024,7 @@
       "video_id": "gsQp78UWoZw",
       "error_message": null,
       "created_at": "2026-09-06T00:03:48.273600+00:00"
-    },
-    {
-      "id": 10,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-05",
-      "status": "success",
-      "video_id": "7tG5erFwaZQ",
-      "error_message": null,
-      "created_at": "2026-09-05T22:16:30.491358+00:00"
     }
   ],
-  "last_updated": "2026-09-13T22:19:03.066527+00:00"
+  "last_updated": "2026-09-13T23:39:34.972374+00:00"
 }
