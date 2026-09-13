@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 45,
+    "total_uploads": 46,
     "total_views": 257,
     "total_likes": 5,
     "total_subscribers": 3,
@@ -76,9 +76,9 @@
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 0,
+      "ch1_views": 80,
       "ch2_views": 177,
-      "total_views": 177
+      "total_views": 257
     }
   ],
   "channels": {
@@ -95,7 +95,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 22,
+      "total_uploads": 23,
       "total_views": 80,
       "total_likes": 2,
       "upcoming": {
@@ -190,9 +190,29 @@
           "views": 1,
           "uploads": 3,
           "cumulative_views": 80
+        },
+        {
+          "date": "2026-09-13",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 80
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7675735511994010893",
+          "youtube_id": "qw0io39Ys4A",
+          "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
+          "tiktok_views": 338800,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-13T02:08:57Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -504,6 +524,16 @@
       ],
       "runs": [
         {
+          "id": 28,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-09-13",
+          "status": "success",
+          "video_id": "qw0io39Ys4A",
+          "error_message": null,
+          "created_at": "2026-09-13T02:08:59.164685+00:00"
+        },
+        {
           "id": 27,
           "channel_id": "channel_1",
           "slot": 2,
@@ -692,16 +722,6 @@
           "video_id": "dqDNDVuIibA",
           "error_message": null,
           "created_at": "2026-09-05T00:03:56.580468+00:00"
-        },
-        {
-          "id": 8,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-04",
-          "status": "success",
-          "video_id": "PaLcQYv70cc",
-          "error_message": null,
-          "created_at": "2026-09-04T22:16:44.405938+00:00"
         }
       ]
     },
@@ -828,7 +848,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/JwtdOq7sl4I/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-13T01:07:06Z"
+          "uploaded_at": "2026-09-13T01:08:02Z"
         },
         {
           "channel_id": "channel_2",
@@ -1345,6 +1365,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7675735511994010893",
+      "youtube_id": "qw0io39Ys4A",
+      "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
+      "tiktok_views": 338800,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-13T02:08:57Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7669866547057315085",
@@ -1356,7 +1390,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/JwtdOq7sl4I/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-13T01:07:06Z"
+      "uploaded_at": "2026-09-13T01:08:02Z"
     },
     {
       "channel_id": "channel_1",
@@ -1988,7 +2022,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 22,
+    "total_uploads": 23,
     "total_views": 80,
     "total_likes": 2,
     "upcoming": {
@@ -2083,9 +2117,29 @@
         "views": 1,
         "uploads": 3,
         "cumulative_views": 80
+      },
+      {
+        "date": "2026-09-13",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 80
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7675735511994010893",
+        "youtube_id": "qw0io39Ys4A",
+        "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
+        "tiktok_views": 338800,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-13T02:08:57Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -2397,6 +2451,16 @@
     ],
     "runs": [
       {
+        "id": 28,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-09-13",
+        "status": "success",
+        "video_id": "qw0io39Ys4A",
+        "error_message": null,
+        "created_at": "2026-09-13T02:08:59.164685+00:00"
+      },
+      {
         "id": 27,
         "channel_id": "channel_1",
         "slot": 2,
@@ -2585,21 +2649,11 @@
         "video_id": "dqDNDVuIibA",
         "error_message": null,
         "created_at": "2026-09-05T00:03:56.580468+00:00"
-      },
-      {
-        "id": 8,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-04",
-        "status": "success",
-        "video_id": "PaLcQYv70cc",
-        "error_message": null,
-        "created_at": "2026-09-04T22:16:44.405938+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 45,
+    "total_uploads": 46,
     "total_views": 257,
     "total_likes": 5,
     "videos_per_day": 6
@@ -2631,6 +2685,16 @@
     }
   },
   "runs": [
+    {
+      "id": 28,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-09-13",
+      "status": "success",
+      "video_id": "qw0io39Ys4A",
+      "error_message": null,
+      "created_at": "2026-09-13T02:08:59.164685+00:00"
+    },
     {
       "id": 27,
       "channel_id": "channel_1",
@@ -2820,17 +2884,7 @@
       "video_id": "dqDNDVuIibA",
       "error_message": null,
       "created_at": "2026-09-05T00:03:56.580468+00:00"
-    },
-    {
-      "id": 8,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-04",
-      "status": "success",
-      "video_id": "PaLcQYv70cc",
-      "error_message": null,
-      "created_at": "2026-09-04T22:16:44.405938+00:00"
     }
   ],
-  "last_updated": "2026-09-13T01:07:15.217758+00:00"
+  "last_updated": "2026-09-13T02:09:02.040840+00:00"
 }
