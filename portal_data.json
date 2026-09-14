@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 54,
-    "total_views": 673,
+    "total_uploads": 55,
+    "total_views": 693,
     "total_likes": 7,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -65,26 +65,26 @@
     {
       "date": "2026-09-11",
       "ch1_views": 87,
-      "ch2_views": 179,
-      "total_views": 266
+      "ch2_views": 180,
+      "total_views": 267
     },
     {
       "date": "2026-09-12",
-      "ch1_views": 447,
-      "ch2_views": 184,
-      "total_views": 631
+      "ch1_views": 452,
+      "ch2_views": 185,
+      "total_views": 637
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 453,
-      "ch2_views": 205,
-      "total_views": 658
+      "ch1_views": 458,
+      "ch2_views": 212,
+      "total_views": 670
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 453,
-      "ch2_views": 220,
-      "total_views": 673
+      "ch1_views": 458,
+      "ch2_views": 235,
+      "total_views": 693
     }
   ],
   "channels": {
@@ -102,7 +102,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 27,
-      "total_views": 453,
+      "total_views": 458,
       "total_likes": 4,
       "upcoming": {
         "slot1": {
@@ -193,21 +193,21 @@
         },
         {
           "date": "2026-09-12",
-          "views": 360,
+          "views": 365,
           "uploads": 3,
-          "cumulative_views": 447
+          "cumulative_views": 452
         },
         {
           "date": "2026-09-13",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 453
+          "cumulative_views": 458
         },
         {
           "date": "2026-09-14",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 453
+          "cumulative_views": 458
         }
       ],
       "videos": [
@@ -223,7 +223,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/vh5Gc6wDa-U/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-14T17:16:12Z"
+          "uploaded_at": "2026-09-14T17:16:28Z"
         },
         {
           "channel_id": "channel_1",
@@ -288,7 +288,7 @@
           "youtube_id": "_VMXeCFsF6E",
           "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
           "tiktok_views": 371800,
-          "youtube_views": 359,
+          "youtube_views": 361,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
@@ -316,7 +316,7 @@
           "youtube_id": "y15slAQPe6w",
           "title": "Baby Saw Grandpa Walk and Immediately Said I Got This \ud83d\ude02 tiktokgrowth",
           "tiktok_views": 485500,
-          "youtube_views": 1,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/y15slAQPe6w/hqdefault.jpg",
@@ -806,8 +806,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 27,
-      "total_views": 220,
+      "total_uploads": 28,
+      "total_views": 235,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -886,30 +886,44 @@
         },
         {
           "date": "2026-09-11",
-          "views": 8,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 179
+          "cumulative_views": 180
         },
         {
           "date": "2026-09-12",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 184
+          "cumulative_views": 185
         },
         {
           "date": "2026-09-13",
-          "views": 21,
+          "views": 27,
           "uploads": 3,
-          "cumulative_views": 205
+          "cumulative_views": 212
         },
         {
           "date": "2026-09-14",
-          "views": 15,
-          "uploads": 2,
-          "cumulative_views": 220
+          "views": 23,
+          "uploads": 3,
+          "cumulative_views": 235
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7676177752608771341",
+          "youtube_id": "cTLcefQUb7k",
+          "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
+          "tiktok_views": 633700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-14T22:21:16Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -917,7 +931,7 @@
           "youtube_id": "IwaBIQwrlus",
           "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
           "tiktok_views": 13800,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -931,7 +945,7 @@
           "youtube_id": "45A8pjcvAQg",
           "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
           "tiktok_views": 765900,
-          "youtube_views": 15,
+          "youtube_views": 19,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -945,7 +959,7 @@
           "youtube_id": "a7u_O65DeEk",
           "title": "The Secret to the Juiciest Stuffed Cabbage with Bacon StuffedCabbag",
           "tiktok_views": 767700,
-          "youtube_views": 4,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
@@ -959,7 +973,7 @@
           "youtube_id": "tOagl_ZG9xk",
           "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
           "tiktok_views": 4086,
-          "youtube_views": 17,
+          "youtube_views": 21,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -1043,7 +1057,7 @@
           "youtube_id": "lZw2Y3LiD-M",
           "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
           "tiktok_views": 292200,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
@@ -1291,6 +1305,16 @@
       ],
       "runs": [
         {
+          "id": 31,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-09-14",
+          "status": "success",
+          "video_id": "cTLcefQUb7k",
+          "error_message": null,
+          "created_at": "2026-09-14T22:21:20.026888+00:00"
+        },
+        {
           "id": 30,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1479,21 +1503,25 @@
           "video_id": "ZZUBRcApta8",
           "error_message": null,
           "created_at": "2026-09-07T15:16:16.831170+00:00"
-        },
-        {
-          "id": 11,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-09-06",
-          "status": "success",
-          "video_id": "V5annwPH0Is",
-          "error_message": null,
-          "created_at": "2026-09-06T19:13:28.857954+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7676177752608771341",
+      "youtube_id": "cTLcefQUb7k",
+      "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
+      "tiktok_views": 633700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-14T22:21:16Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -1506,7 +1534,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/vh5Gc6wDa-U/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-14T17:16:12Z"
+      "uploaded_at": "2026-09-14T17:16:28Z"
     },
     {
       "channel_id": "channel_2",
@@ -1515,7 +1543,7 @@
       "youtube_id": "IwaBIQwrlus",
       "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
       "tiktok_views": 13800,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -1543,7 +1571,7 @@
       "youtube_id": "45A8pjcvAQg",
       "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
       "tiktok_views": 765900,
-      "youtube_views": 15,
+      "youtube_views": 19,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -1571,7 +1599,7 @@
       "youtube_id": "a7u_O65DeEk",
       "title": "The Secret to the Juiciest Stuffed Cabbage with Bacon StuffedCabbag",
       "tiktok_views": 767700,
-      "youtube_views": 4,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
@@ -1599,7 +1627,7 @@
       "youtube_id": "tOagl_ZG9xk",
       "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
       "tiktok_views": 4086,
-      "youtube_views": 17,
+      "youtube_views": 21,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -1641,7 +1669,7 @@
       "youtube_id": "_VMXeCFsF6E",
       "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
       "tiktok_views": 371800,
-      "youtube_views": 359,
+      "youtube_views": 361,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
@@ -1697,7 +1725,7 @@
       "youtube_id": "y15slAQPe6w",
       "title": "Baby Saw Grandpa Walk and Immediately Said I Got This \ud83d\ude02 tiktokgrowth",
       "tiktok_views": 485500,
-      "youtube_views": 1,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/y15slAQPe6w/hqdefault.jpg",
@@ -1767,7 +1795,7 @@
       "youtube_id": "lZw2Y3LiD-M",
       "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
       "tiktok_views": 292200,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
@@ -2265,7 +2293,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 27,
-    "total_views": 453,
+    "total_views": 458,
     "total_likes": 4,
     "upcoming": {
       "slot1": {
@@ -2356,21 +2384,21 @@
       },
       {
         "date": "2026-09-12",
-        "views": 360,
+        "views": 365,
         "uploads": 3,
-        "cumulative_views": 447
+        "cumulative_views": 452
       },
       {
         "date": "2026-09-13",
         "views": 6,
         "uploads": 3,
-        "cumulative_views": 453
+        "cumulative_views": 458
       },
       {
         "date": "2026-09-14",
         "views": 0,
         "uploads": 2,
-        "cumulative_views": 453
+        "cumulative_views": 458
       }
     ],
     "videos": [
@@ -2386,7 +2414,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/vh5Gc6wDa-U/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-14T17:16:12Z"
+        "uploaded_at": "2026-09-14T17:16:28Z"
       },
       {
         "channel_id": "channel_1",
@@ -2451,7 +2479,7 @@
         "youtube_id": "_VMXeCFsF6E",
         "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
         "tiktok_views": 371800,
-        "youtube_views": 359,
+        "youtube_views": 361,
         "youtube_likes": 2,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
@@ -2479,7 +2507,7 @@
         "youtube_id": "y15slAQPe6w",
         "title": "Baby Saw Grandpa Walk and Immediately Said I Got This \ud83d\ude02 tiktokgrowth",
         "tiktok_views": 485500,
-        "youtube_views": 1,
+        "youtube_views": 4,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/y15slAQPe6w/hqdefault.jpg",
@@ -2957,8 +2985,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 54,
-    "total_views": 673,
+    "total_uploads": 55,
+    "total_views": 693,
     "total_likes": 7,
     "videos_per_day": 6
   },
@@ -3190,5 +3218,5 @@
       "created_at": "2026-09-07T00:03:36.856986+00:00"
     }
   ],
-  "last_updated": "2026-09-14T17:16:16.447536+00:00"
+  "last_updated": "2026-09-14T22:21:22.860122+00:00"
 }
