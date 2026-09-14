@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 55,
-    "total_views": 693,
+    "total_uploads": 56,
+    "total_views": 694,
     "total_likes": 7,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -76,15 +76,15 @@
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 458,
+      "ch1_views": 459,
       "ch2_views": 212,
-      "total_views": 670
+      "total_views": 671
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 458,
+      "ch1_views": 459,
       "ch2_views": 235,
-      "total_views": 693
+      "total_views": 694
     }
   ],
   "channels": {
@@ -101,8 +101,8 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 27,
-      "total_views": 458,
+      "total_uploads": 28,
+      "total_views": 459,
       "total_likes": 4,
       "upcoming": {
         "slot1": {
@@ -199,18 +199,32 @@
         },
         {
           "date": "2026-09-13",
-          "views": 6,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 458
+          "cumulative_views": 459
         },
         {
           "date": "2026-09-14",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 458
+          "uploads": 3,
+          "cumulative_views": 459
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7660870675606867213",
+          "youtube_id": "1ImJ5srNp3o",
+          "title": "This Is the Most Relatable Dad Video Ever \ud83d\ude2d tiktokgrowthchallenge v",
+          "tiktok_views": 261400,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/1ImJ5srNp3o/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-14T23:39:36Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -274,7 +288,7 @@
           "youtube_id": "qw0io39Ys4A",
           "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
           "tiktok_views": 338800,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
@@ -592,6 +606,16 @@
       ],
       "runs": [
         {
+          "id": 33,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-14",
+          "status": "success",
+          "video_id": "1ImJ5srNp3o",
+          "error_message": null,
+          "created_at": "2026-09-14T23:39:37.458471+00:00"
+        },
+        {
           "id": 32,
           "channel_id": "channel_1",
           "slot": 1,
@@ -780,16 +804,6 @@
           "video_id": "ZFnEdIdb2ko",
           "error_message": null,
           "created_at": "2026-09-07T22:17:42.965115+00:00"
-        },
-        {
-          "id": 13,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-09-07",
-          "status": "success",
-          "video_id": "TfSQslAQSEY",
-          "error_message": null,
-          "created_at": "2026-09-07T00:03:36.856986+00:00"
         }
       ]
     },
@@ -922,7 +936,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-14T22:21:16Z"
+          "uploaded_at": "2026-09-14T22:21:41Z"
         },
         {
           "channel_id": "channel_2",
@@ -1509,6 +1523,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7660870675606867213",
+      "youtube_id": "1ImJ5srNp3o",
+      "title": "This Is the Most Relatable Dad Video Ever \ud83d\ude2d tiktokgrowthchallenge v",
+      "tiktok_views": 261400,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/1ImJ5srNp3o/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-14T23:39:36Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7676177752608771341",
@@ -1520,7 +1548,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-14T22:21:16Z"
+      "uploaded_at": "2026-09-14T22:21:41Z"
     },
     {
       "channel_id": "channel_1",
@@ -1641,7 +1669,7 @@
       "youtube_id": "qw0io39Ys4A",
       "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
       "tiktok_views": 338800,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
@@ -2292,8 +2320,8 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 27,
-    "total_views": 458,
+    "total_uploads": 28,
+    "total_views": 459,
     "total_likes": 4,
     "upcoming": {
       "slot1": {
@@ -2390,18 +2418,32 @@
       },
       {
         "date": "2026-09-13",
-        "views": 6,
+        "views": 7,
         "uploads": 3,
-        "cumulative_views": 458
+        "cumulative_views": 459
       },
       {
         "date": "2026-09-14",
         "views": 0,
-        "uploads": 2,
-        "cumulative_views": 458
+        "uploads": 3,
+        "cumulative_views": 459
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7660870675606867213",
+        "youtube_id": "1ImJ5srNp3o",
+        "title": "This Is the Most Relatable Dad Video Ever \ud83d\ude2d tiktokgrowthchallenge v",
+        "tiktok_views": 261400,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/1ImJ5srNp3o/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-14T23:39:36Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -2465,7 +2507,7 @@
         "youtube_id": "qw0io39Ys4A",
         "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
         "tiktok_views": 338800,
-        "youtube_views": 6,
+        "youtube_views": 7,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
@@ -2783,6 +2825,16 @@
     ],
     "runs": [
       {
+        "id": 33,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-14",
+        "status": "success",
+        "video_id": "1ImJ5srNp3o",
+        "error_message": null,
+        "created_at": "2026-09-14T23:39:37.458471+00:00"
+      },
+      {
         "id": 32,
         "channel_id": "channel_1",
         "slot": 1,
@@ -2971,22 +3023,12 @@
         "video_id": "ZFnEdIdb2ko",
         "error_message": null,
         "created_at": "2026-09-07T22:17:42.965115+00:00"
-      },
-      {
-        "id": 13,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-09-07",
-        "status": "success",
-        "video_id": "TfSQslAQSEY",
-        "error_message": null,
-        "created_at": "2026-09-07T00:03:36.856986+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 55,
-    "total_views": 693,
+    "total_uploads": 56,
+    "total_views": 694,
     "total_likes": 7,
     "videos_per_day": 6
   },
@@ -3017,6 +3059,16 @@
     }
   },
   "runs": [
+    {
+      "id": 33,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-14",
+      "status": "success",
+      "video_id": "1ImJ5srNp3o",
+      "error_message": null,
+      "created_at": "2026-09-14T23:39:37.458471+00:00"
+    },
     {
       "id": 32,
       "channel_id": "channel_1",
@@ -3206,17 +3258,7 @@
       "video_id": "ZFnEdIdb2ko",
       "error_message": null,
       "created_at": "2026-09-07T22:17:42.965115+00:00"
-    },
-    {
-      "id": 13,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-09-07",
-      "status": "success",
-      "video_id": "TfSQslAQSEY",
-      "error_message": null,
-      "created_at": "2026-09-07T00:03:36.856986+00:00"
     }
   ],
-  "last_updated": "2026-09-14T22:21:22.860122+00:00"
+  "last_updated": "2026-09-14T23:39:40.472060+00:00"
 }
