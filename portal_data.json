@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 53,
-    "total_views": 670,
+    "total_uploads": 54,
+    "total_views": 673,
     "total_likes": 7,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -83,8 +83,8 @@
     {
       "date": "2026-09-14",
       "ch1_views": 453,
-      "ch2_views": 217,
-      "total_views": 670
+      "ch2_views": 220,
+      "total_views": 673
     }
   ],
   "channels": {
@@ -101,7 +101,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 26,
+      "total_uploads": 27,
       "total_views": 453,
       "total_likes": 4,
       "upcoming": {
@@ -206,11 +206,25 @@
         {
           "date": "2026-09-14",
           "views": 0,
-          "uploads": 1,
+          "uploads": 2,
           "cumulative_views": 453
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7685382997444480270",
+          "youtube_id": "vh5Gc6wDa-U",
+          "title": "He Copied Every Single Step and Nobody Was Ready \ud83d\udc80\ud83d\ude2d vira",
+          "tiktok_views": 5369,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/vh5Gc6wDa-U/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-14T17:16:12Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -578,6 +592,16 @@
       ],
       "runs": [
         {
+          "id": 32,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-14",
+          "status": "success",
+          "video_id": "vh5Gc6wDa-U",
+          "error_message": null,
+          "created_at": "2026-09-14T17:16:13.562570+00:00"
+        },
+        {
           "id": 31,
           "channel_id": "channel_1",
           "slot": 3,
@@ -766,16 +790,6 @@
           "video_id": "TfSQslAQSEY",
           "error_message": null,
           "created_at": "2026-09-07T00:03:36.856986+00:00"
-        },
-        {
-          "id": 12,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-06",
-          "status": "success",
-          "video_id": "H3uE6swbEHY",
-          "error_message": null,
-          "created_at": "2026-09-06T22:17:35.947249+00:00"
         }
       ]
     },
@@ -793,7 +807,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 27,
-      "total_views": 217,
+      "total_views": 220,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -890,9 +904,9 @@
         },
         {
           "date": "2026-09-14",
-          "views": 12,
+          "views": 15,
           "uploads": 2,
-          "cumulative_views": 217
+          "cumulative_views": 220
         }
       ],
       "videos": [
@@ -908,7 +922,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-14T16:20:56Z"
+          "uploaded_at": "2026-09-14T16:21:51Z"
         },
         {
           "channel_id": "channel_2",
@@ -917,7 +931,7 @@
           "youtube_id": "45A8pjcvAQg",
           "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
           "tiktok_views": 765900,
-          "youtube_views": 12,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -1481,6 +1495,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7685382997444480270",
+      "youtube_id": "vh5Gc6wDa-U",
+      "title": "He Copied Every Single Step and Nobody Was Ready \ud83d\udc80\ud83d\ude2d vira",
+      "tiktok_views": 5369,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/vh5Gc6wDa-U/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-14T17:16:12Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7685099963402964238",
@@ -1492,7 +1520,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-14T16:20:56Z"
+      "uploaded_at": "2026-09-14T16:21:51Z"
     },
     {
       "channel_id": "channel_1",
@@ -1515,7 +1543,7 @@
       "youtube_id": "45A8pjcvAQg",
       "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
       "tiktok_views": 765900,
-      "youtube_views": 12,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -2236,7 +2264,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 26,
+    "total_uploads": 27,
     "total_views": 453,
     "total_likes": 4,
     "upcoming": {
@@ -2341,11 +2369,25 @@
       {
         "date": "2026-09-14",
         "views": 0,
-        "uploads": 1,
+        "uploads": 2,
         "cumulative_views": 453
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7685382997444480270",
+        "youtube_id": "vh5Gc6wDa-U",
+        "title": "He Copied Every Single Step and Nobody Was Ready \ud83d\udc80\ud83d\ude2d vira",
+        "tiktok_views": 5369,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/vh5Gc6wDa-U/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-14T17:16:12Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -2713,6 +2755,16 @@
     ],
     "runs": [
       {
+        "id": 32,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-14",
+        "status": "success",
+        "video_id": "vh5Gc6wDa-U",
+        "error_message": null,
+        "created_at": "2026-09-14T17:16:13.562570+00:00"
+      },
+      {
         "id": 31,
         "channel_id": "channel_1",
         "slot": 3,
@@ -2901,22 +2953,12 @@
         "video_id": "TfSQslAQSEY",
         "error_message": null,
         "created_at": "2026-09-07T00:03:36.856986+00:00"
-      },
-      {
-        "id": 12,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-06",
-        "status": "success",
-        "video_id": "H3uE6swbEHY",
-        "error_message": null,
-        "created_at": "2026-09-06T22:17:35.947249+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 53,
-    "total_views": 670,
+    "total_uploads": 54,
+    "total_views": 673,
     "total_likes": 7,
     "videos_per_day": 6
   },
@@ -2947,6 +2989,16 @@
     }
   },
   "runs": [
+    {
+      "id": 32,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-14",
+      "status": "success",
+      "video_id": "vh5Gc6wDa-U",
+      "error_message": null,
+      "created_at": "2026-09-14T17:16:13.562570+00:00"
+    },
     {
       "id": 31,
       "channel_id": "channel_1",
@@ -3136,17 +3188,7 @@
       "video_id": "TfSQslAQSEY",
       "error_message": null,
       "created_at": "2026-09-07T00:03:36.856986+00:00"
-    },
-    {
-      "id": 12,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-06",
-      "status": "success",
-      "video_id": "H3uE6swbEHY",
-      "error_message": null,
-      "created_at": "2026-09-06T22:17:35.947249+00:00"
     }
   ],
-  "last_updated": "2026-09-14T16:21:05.248291+00:00"
+  "last_updated": "2026-09-14T17:16:16.447536+00:00"
 }
