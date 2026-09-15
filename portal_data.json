@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 61,
-    "total_views": 731,
+    "total_uploads": 62,
+    "total_views": 735,
     "total_likes": 7,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -82,15 +82,15 @@
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 465,
-      "ch2_views": 256,
-      "total_views": 721
+      "ch1_views": 466,
+      "ch2_views": 259,
+      "total_views": 725
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 465,
-      "ch2_views": 266,
-      "total_views": 731
+      "ch1_views": 466,
+      "ch2_views": 269,
+      "total_views": 735
     }
   ],
   "channels": {
@@ -107,8 +107,8 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 30,
-      "total_views": 465,
+      "total_uploads": 31,
+      "total_views": 466,
       "total_likes": 4,
       "upcoming": {
         "slot1": {
@@ -211,18 +211,32 @@
         },
         {
           "date": "2026-09-14",
-          "views": 0,
+          "views": 1,
           "uploads": 3,
-          "cumulative_views": 465
+          "cumulative_views": 466
         },
         {
           "date": "2026-09-15",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 465
+          "uploads": 3,
+          "cumulative_views": 466
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7670193768070401294",
+          "youtube_id": "Th3YRJwrTeo",
+          "title": "Nobody expected him to copy EVERY little thing Dad does... and we cou",
+          "tiktok_views": 185400,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/Th3YRJwrTeo/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-15T23:40:03Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -286,7 +300,7 @@
           "youtube_id": "j72EKlx6t-I",
           "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
           "tiktok_views": 288400,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
@@ -646,6 +660,16 @@
       ],
       "runs": [
         {
+          "id": 36,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-15",
+          "status": "success",
+          "video_id": "Th3YRJwrTeo",
+          "error_message": null,
+          "created_at": "2026-09-15T23:40:05.284389+00:00"
+        },
+        {
           "id": 35,
           "channel_id": "channel_1",
           "slot": 1,
@@ -834,16 +858,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-09T00:03:54.524803+00:00"
-        },
-        {
-          "id": 16,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-08",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-08T22:17:26.023276+00:00"
         }
       ]
     },
@@ -861,7 +875,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 31,
-      "total_views": 266,
+      "total_views": 269,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -958,15 +972,15 @@
         },
         {
           "date": "2026-09-14",
-          "views": 33,
+          "views": 36,
           "uploads": 3,
-          "cumulative_views": 256
+          "cumulative_views": 259
         },
         {
           "date": "2026-09-15",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 266
+          "cumulative_views": 269
         }
       ],
       "videos": [
@@ -982,7 +996,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-15T22:20:02Z"
+          "uploaded_at": "2026-09-15T22:21:01Z"
         },
         {
           "channel_id": "channel_2",
@@ -1019,7 +1033,7 @@
           "youtube_id": "cTLcefQUb7k",
           "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
           "tiktok_views": 633700,
-          "youtube_views": 6,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1047,7 +1061,7 @@
           "youtube_id": "45A8pjcvAQg",
           "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
           "tiktok_views": 765900,
-          "youtube_views": 21,
+          "youtube_views": 22,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -1611,6 +1625,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7670193768070401294",
+      "youtube_id": "Th3YRJwrTeo",
+      "title": "Nobody expected him to copy EVERY little thing Dad does... and we cou",
+      "tiktok_views": 185400,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/Th3YRJwrTeo/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-15T23:40:03Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7673576908474420493",
@@ -1622,7 +1650,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-15T22:20:02Z"
+      "uploaded_at": "2026-09-15T22:21:01Z"
     },
     {
       "channel_id": "channel_1",
@@ -1701,7 +1729,7 @@
       "youtube_id": "cTLcefQUb7k",
       "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
       "tiktok_views": 633700,
-      "youtube_views": 6,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1743,7 +1771,7 @@
       "youtube_id": "j72EKlx6t-I",
       "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
       "tiktok_views": 288400,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
@@ -1757,7 +1785,7 @@
       "youtube_id": "45A8pjcvAQg",
       "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
       "tiktok_views": 765900,
-      "youtube_views": 21,
+      "youtube_views": 22,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -2478,8 +2506,8 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 30,
-    "total_views": 465,
+    "total_uploads": 31,
+    "total_views": 466,
     "total_likes": 4,
     "upcoming": {
       "slot1": {
@@ -2582,18 +2610,32 @@
       },
       {
         "date": "2026-09-14",
-        "views": 0,
+        "views": 1,
         "uploads": 3,
-        "cumulative_views": 465
+        "cumulative_views": 466
       },
       {
         "date": "2026-09-15",
         "views": 0,
-        "uploads": 2,
-        "cumulative_views": 465
+        "uploads": 3,
+        "cumulative_views": 466
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7670193768070401294",
+        "youtube_id": "Th3YRJwrTeo",
+        "title": "Nobody expected him to copy EVERY little thing Dad does... and we cou",
+        "tiktok_views": 185400,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/Th3YRJwrTeo/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-15T23:40:03Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -2657,7 +2699,7 @@
         "youtube_id": "j72EKlx6t-I",
         "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
         "tiktok_views": 288400,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
@@ -3017,6 +3059,16 @@
     ],
     "runs": [
       {
+        "id": 36,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-15",
+        "status": "success",
+        "video_id": "Th3YRJwrTeo",
+        "error_message": null,
+        "created_at": "2026-09-15T23:40:05.284389+00:00"
+      },
+      {
         "id": 35,
         "channel_id": "channel_1",
         "slot": 1,
@@ -3205,22 +3257,12 @@
         "video_id": null,
         "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "created_at": "2026-09-09T00:03:54.524803+00:00"
-      },
-      {
-        "id": 16,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-08",
-        "status": "failed",
-        "video_id": null,
-        "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "created_at": "2026-09-08T22:17:26.023276+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 61,
-    "total_views": 731,
+    "total_uploads": 62,
+    "total_views": 735,
     "total_likes": 7,
     "videos_per_day": 6
   },
@@ -3251,6 +3293,16 @@
     }
   },
   "runs": [
+    {
+      "id": 36,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-15",
+      "status": "success",
+      "video_id": "Th3YRJwrTeo",
+      "error_message": null,
+      "created_at": "2026-09-15T23:40:05.284389+00:00"
+    },
     {
       "id": 35,
       "channel_id": "channel_1",
@@ -3440,17 +3492,7 @@
       "video_id": null,
       "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
       "created_at": "2026-09-09T00:03:54.524803+00:00"
-    },
-    {
-      "id": 16,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-08",
-      "status": "failed",
-      "video_id": null,
-      "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-      "created_at": "2026-09-08T22:17:26.023276+00:00"
     }
   ],
-  "last_updated": "2026-09-15T22:20:14.884919+00:00"
+  "last_updated": "2026-09-15T23:40:08.158496+00:00"
 }
