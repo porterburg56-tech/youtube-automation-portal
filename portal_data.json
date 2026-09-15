@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 60,
-    "total_views": 717,
+    "total_uploads": 61,
+    "total_views": 731,
     "total_likes": 7,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -40,57 +40,57 @@
     },
     {
       "date": "2026-09-06",
-      "ch1_views": 66,
+      "ch1_views": 68,
       "ch2_views": 88,
-      "total_views": 154
+      "total_views": 156
     },
     {
       "date": "2026-09-07",
-      "ch1_views": 76,
+      "ch1_views": 78,
       "ch2_views": 115,
-      "total_views": 191
+      "total_views": 193
     },
     {
       "date": "2026-09-08",
-      "ch1_views": 77,
+      "ch1_views": 79,
       "ch2_views": 170,
-      "total_views": 247
+      "total_views": 249
     },
     {
       "date": "2026-09-10",
-      "ch1_views": 80,
+      "ch1_views": 82,
       "ch2_views": 175,
-      "total_views": 255
+      "total_views": 257
     },
     {
       "date": "2026-09-11",
-      "ch1_views": 87,
+      "ch1_views": 89,
       "ch2_views": 184,
-      "total_views": 271
+      "total_views": 273
     },
     {
       "date": "2026-09-12",
-      "ch1_views": 454,
+      "ch1_views": 456,
       "ch2_views": 189,
-      "total_views": 643
+      "total_views": 645
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 463,
-      "ch2_views": 220,
-      "total_views": 683
+      "ch1_views": 465,
+      "ch2_views": 223,
+      "total_views": 688
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 463,
-      "ch2_views": 250,
-      "total_views": 713
+      "ch1_views": 465,
+      "ch2_views": 256,
+      "total_views": 721
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 463,
-      "ch2_views": 254,
-      "total_views": 717
+      "ch1_views": 465,
+      "ch2_views": 266,
+      "total_views": 731
     }
   ],
   "channels": {
@@ -108,7 +108,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 30,
-      "total_views": 463,
+      "total_views": 465,
       "total_likes": 4,
       "upcoming": {
         "slot1": {
@@ -169,57 +169,57 @@
         },
         {
           "date": "2026-09-06",
-          "views": 14,
+          "views": 16,
           "uploads": 2,
-          "cumulative_views": 66
+          "cumulative_views": 68
         },
         {
           "date": "2026-09-07",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 76
+          "cumulative_views": 78
         },
         {
           "date": "2026-09-08",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 77
+          "cumulative_views": 79
         },
         {
           "date": "2026-09-10",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 80
+          "cumulative_views": 82
         },
         {
           "date": "2026-09-11",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 87
+          "cumulative_views": 89
         },
         {
           "date": "2026-09-12",
           "views": 367,
           "uploads": 3,
-          "cumulative_views": 454
+          "cumulative_views": 456
         },
         {
           "date": "2026-09-13",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 463
+          "cumulative_views": 465
         },
         {
           "date": "2026-09-14",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 463
+          "cumulative_views": 465
         },
         {
           "date": "2026-09-15",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 463
+          "cumulative_views": 465
         }
       ],
       "videos": [
@@ -235,7 +235,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/gt7-Mlw4bt8/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-15T17:16:09Z"
+          "uploaded_at": "2026-09-15T17:16:34Z"
         },
         {
           "channel_id": "channel_1",
@@ -510,7 +510,7 @@
           "youtube_id": "gsQp78UWoZw",
           "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
           "tiktok_views": 2000000,
-          "youtube_views": 14,
+          "youtube_views": 16,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
@@ -860,8 +860,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 30,
-      "total_views": 254,
+      "total_uploads": 31,
+      "total_views": 266,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -952,24 +952,38 @@
         },
         {
           "date": "2026-09-13",
-          "views": 31,
+          "views": 34,
           "uploads": 3,
-          "cumulative_views": 220
+          "cumulative_views": 223
         },
         {
           "date": "2026-09-14",
-          "views": 30,
+          "views": 33,
           "uploads": 3,
-          "cumulative_views": 250
+          "cumulative_views": 256
         },
         {
           "date": "2026-09-15",
-          "views": 4,
-          "uploads": 2,
-          "cumulative_views": 254
+          "views": 10,
+          "uploads": 3,
+          "cumulative_views": 266
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7673576908474420493",
+          "youtube_id": "KBGlJd1_GB0",
+          "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
+          "tiktok_views": 476800,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-15T22:20:02Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -977,7 +991,7 @@
           "youtube_id": "0yLRz-J0Xf8",
           "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
           "tiktok_views": 207400,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
@@ -991,7 +1005,7 @@
           "youtube_id": "2IV8GtDAWgE",
           "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
           "tiktok_views": 598400,
-          "youtube_views": 4,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
@@ -1005,7 +1019,7 @@
           "youtube_id": "cTLcefQUb7k",
           "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
           "tiktok_views": 633700,
-          "youtube_views": 3,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1047,7 +1061,7 @@
           "youtube_id": "a7u_O65DeEk",
           "title": "The Secret to the Juiciest Stuffed Cabbage with Bacon StuffedCabbag",
           "tiktok_views": 767700,
-          "youtube_views": 9,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
@@ -1061,7 +1075,7 @@
           "youtube_id": "tOagl_ZG9xk",
           "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
           "tiktok_views": 4086,
-          "youtube_views": 22,
+          "youtube_views": 23,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -1393,6 +1407,16 @@
       ],
       "runs": [
         {
+          "id": 34,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-09-15",
+          "status": "success",
+          "video_id": "KBGlJd1_GB0",
+          "error_message": null,
+          "created_at": "2026-09-15T22:20:11.733228+00:00"
+        },
+        {
           "id": 33,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1581,21 +1605,25 @@
           "video_id": "af5ueoolFiE",
           "error_message": null,
           "created_at": "2026-09-08T19:15:07.613269+00:00"
-        },
-        {
-          "id": 14,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-08",
-          "status": "success",
-          "video_id": "QVcjQmHpXP8",
-          "error_message": null,
-          "created_at": "2026-09-08T15:19:59.842977+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7673576908474420493",
+      "youtube_id": "KBGlJd1_GB0",
+      "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
+      "tiktok_views": 476800,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-15T22:20:02Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -1608,7 +1636,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/gt7-Mlw4bt8/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-15T17:16:09Z"
+      "uploaded_at": "2026-09-15T17:16:34Z"
     },
     {
       "channel_id": "channel_2",
@@ -1617,7 +1645,7 @@
       "youtube_id": "0yLRz-J0Xf8",
       "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
       "tiktok_views": 207400,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
@@ -1645,7 +1673,7 @@
       "youtube_id": "2IV8GtDAWgE",
       "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
       "tiktok_views": 598400,
-      "youtube_views": 4,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
@@ -1673,7 +1701,7 @@
       "youtube_id": "cTLcefQUb7k",
       "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
       "tiktok_views": 633700,
-      "youtube_views": 3,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1757,7 +1785,7 @@
       "youtube_id": "a7u_O65DeEk",
       "title": "The Secret to the Juiciest Stuffed Cabbage with Bacon StuffedCabbag",
       "tiktok_views": 767700,
-      "youtube_views": 9,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
@@ -1785,7 +1813,7 @@
       "youtube_id": "tOagl_ZG9xk",
       "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
       "tiktok_views": 4086,
-      "youtube_views": 22,
+      "youtube_views": 23,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -2191,7 +2219,7 @@
       "youtube_id": "gsQp78UWoZw",
       "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
       "tiktok_views": 2000000,
-      "youtube_views": 14,
+      "youtube_views": 16,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
@@ -2451,7 +2479,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 30,
-    "total_views": 463,
+    "total_views": 465,
     "total_likes": 4,
     "upcoming": {
       "slot1": {
@@ -2512,57 +2540,57 @@
       },
       {
         "date": "2026-09-06",
-        "views": 14,
+        "views": 16,
         "uploads": 2,
-        "cumulative_views": 66
+        "cumulative_views": 68
       },
       {
         "date": "2026-09-07",
         "views": 10,
         "uploads": 2,
-        "cumulative_views": 76
+        "cumulative_views": 78
       },
       {
         "date": "2026-09-08",
         "views": 1,
         "uploads": 1,
-        "cumulative_views": 77
+        "cumulative_views": 79
       },
       {
         "date": "2026-09-10",
         "views": 3,
         "uploads": 2,
-        "cumulative_views": 80
+        "cumulative_views": 82
       },
       {
         "date": "2026-09-11",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 87
+        "cumulative_views": 89
       },
       {
         "date": "2026-09-12",
         "views": 367,
         "uploads": 3,
-        "cumulative_views": 454
+        "cumulative_views": 456
       },
       {
         "date": "2026-09-13",
         "views": 9,
         "uploads": 3,
-        "cumulative_views": 463
+        "cumulative_views": 465
       },
       {
         "date": "2026-09-14",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 463
+        "cumulative_views": 465
       },
       {
         "date": "2026-09-15",
         "views": 0,
         "uploads": 2,
-        "cumulative_views": 463
+        "cumulative_views": 465
       }
     ],
     "videos": [
@@ -2578,7 +2606,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/gt7-Mlw4bt8/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-15T17:16:09Z"
+        "uploaded_at": "2026-09-15T17:16:34Z"
       },
       {
         "channel_id": "channel_1",
@@ -2853,7 +2881,7 @@
         "youtube_id": "gsQp78UWoZw",
         "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
         "tiktok_views": 2000000,
-        "youtube_views": 14,
+        "youtube_views": 16,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
@@ -3191,8 +3219,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 60,
-    "total_views": 717,
+    "total_uploads": 61,
+    "total_views": 731,
     "total_likes": 7,
     "videos_per_day": 6
   },
@@ -3424,5 +3452,5 @@
       "created_at": "2026-09-08T22:17:26.023276+00:00"
     }
   ],
-  "last_updated": "2026-09-15T17:16:15.752147+00:00"
+  "last_updated": "2026-09-15T22:20:14.884919+00:00"
 }
