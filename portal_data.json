@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 59,
+    "total_uploads": 60,
     "total_views": 717,
     "total_likes": 7,
     "total_subscribers": 3,
@@ -107,7 +107,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 29,
+      "total_uploads": 30,
       "total_views": 463,
       "total_likes": 4,
       "upcoming": {
@@ -218,11 +218,25 @@
         {
           "date": "2026-09-15",
           "views": 0,
-          "uploads": 1,
+          "uploads": 2,
           "cumulative_views": 463
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7685770764494195998",
+          "youtube_id": "gt7-Mlw4bt8",
+          "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 ti",
+          "tiktok_views": 1800,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/gt7-Mlw4bt8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-15T17:16:09Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -632,6 +646,16 @@
       ],
       "runs": [
         {
+          "id": 35,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-15",
+          "status": "success",
+          "video_id": "gt7-Mlw4bt8",
+          "error_message": null,
+          "created_at": "2026-09-15T17:16:11.973677+00:00"
+        },
+        {
           "id": 34,
           "channel_id": "channel_1",
           "slot": 3,
@@ -820,16 +844,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-08T22:17:26.023276+00:00"
-        },
-        {
-          "id": 15,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-09-08",
-          "status": "success",
-          "video_id": "MTdV6Hav-Rs",
-          "error_message": null,
-          "created_at": "2026-09-08T00:03:51.001058+00:00"
         }
       ]
     },
@@ -968,7 +982,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-15T16:19:22Z"
+          "uploaded_at": "2026-09-15T16:19:52Z"
         },
         {
           "channel_id": "channel_2",
@@ -1583,6 +1597,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7685770764494195998",
+      "youtube_id": "gt7-Mlw4bt8",
+      "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 ti",
+      "tiktok_views": 1800,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/gt7-Mlw4bt8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-15T17:16:09Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7685458628588997901",
@@ -1594,7 +1622,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-15T16:19:22Z"
+      "uploaded_at": "2026-09-15T16:19:52Z"
     },
     {
       "channel_id": "channel_1",
@@ -2422,7 +2450,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 29,
+    "total_uploads": 30,
     "total_views": 463,
     "total_likes": 4,
     "upcoming": {
@@ -2533,11 +2561,25 @@
       {
         "date": "2026-09-15",
         "views": 0,
-        "uploads": 1,
+        "uploads": 2,
         "cumulative_views": 463
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7685770764494195998",
+        "youtube_id": "gt7-Mlw4bt8",
+        "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 ti",
+        "tiktok_views": 1800,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/gt7-Mlw4bt8/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-15T17:16:09Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -2947,6 +2989,16 @@
     ],
     "runs": [
       {
+        "id": 35,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-15",
+        "status": "success",
+        "video_id": "gt7-Mlw4bt8",
+        "error_message": null,
+        "created_at": "2026-09-15T17:16:11.973677+00:00"
+      },
+      {
         "id": 34,
         "channel_id": "channel_1",
         "slot": 3,
@@ -3135,21 +3187,11 @@
         "video_id": null,
         "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "created_at": "2026-09-08T22:17:26.023276+00:00"
-      },
-      {
-        "id": 15,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-09-08",
-        "status": "success",
-        "video_id": "MTdV6Hav-Rs",
-        "error_message": null,
-        "created_at": "2026-09-08T00:03:51.001058+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 59,
+    "total_uploads": 60,
     "total_views": 717,
     "total_likes": 7,
     "videos_per_day": 6
@@ -3181,6 +3223,16 @@
     }
   },
   "runs": [
+    {
+      "id": 35,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-15",
+      "status": "success",
+      "video_id": "gt7-Mlw4bt8",
+      "error_message": null,
+      "created_at": "2026-09-15T17:16:11.973677+00:00"
+    },
     {
       "id": 34,
       "channel_id": "channel_1",
@@ -3370,17 +3422,7 @@
       "video_id": null,
       "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
       "created_at": "2026-09-08T22:17:26.023276+00:00"
-    },
-    {
-      "id": 15,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-09-08",
-      "status": "success",
-      "video_id": "MTdV6Hav-Rs",
-      "error_message": null,
-      "created_at": "2026-09-08T00:03:51.001058+00:00"
     }
   ],
-  "last_updated": "2026-09-15T16:19:34.483115+00:00"
+  "last_updated": "2026-09-15T17:16:15.752147+00:00"
 }
