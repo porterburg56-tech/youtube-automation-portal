@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 58,
-    "total_views": 698,
+    "total_uploads": 59,
+    "total_views": 717,
     "total_likes": 7,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -17,80 +17,80 @@
     {
       "date": "2026-09-02",
       "ch1_views": 41,
-      "ch2_views": 30,
-      "total_views": 71
+      "ch2_views": 32,
+      "total_views": 73
     },
     {
       "date": "2026-09-03",
       "ch1_views": 45,
-      "ch2_views": 56,
-      "total_views": 101
+      "ch2_views": 58,
+      "total_views": 103
     },
     {
       "date": "2026-09-04",
       "ch1_views": 49,
-      "ch2_views": 64,
-      "total_views": 113
+      "ch2_views": 66,
+      "total_views": 115
     },
     {
       "date": "2026-09-05",
       "ch1_views": 52,
-      "ch2_views": 79,
-      "total_views": 131
+      "ch2_views": 81,
+      "total_views": 133
     },
     {
       "date": "2026-09-06",
       "ch1_views": 66,
-      "ch2_views": 86,
-      "total_views": 152
+      "ch2_views": 88,
+      "total_views": 154
     },
     {
       "date": "2026-09-07",
       "ch1_views": 76,
-      "ch2_views": 113,
-      "total_views": 189
+      "ch2_views": 115,
+      "total_views": 191
     },
     {
       "date": "2026-09-08",
       "ch1_views": 77,
-      "ch2_views": 166,
-      "total_views": 243
+      "ch2_views": 170,
+      "total_views": 247
     },
     {
       "date": "2026-09-10",
       "ch1_views": 80,
-      "ch2_views": 171,
-      "total_views": 251
+      "ch2_views": 175,
+      "total_views": 255
     },
     {
       "date": "2026-09-11",
       "ch1_views": 87,
-      "ch2_views": 180,
-      "total_views": 267
+      "ch2_views": 184,
+      "total_views": 271
     },
     {
       "date": "2026-09-12",
       "ch1_views": 454,
-      "ch2_views": 185,
-      "total_views": 639
+      "ch2_views": 189,
+      "total_views": 643
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 462,
-      "ch2_views": 213,
-      "total_views": 675
+      "ch1_views": 463,
+      "ch2_views": 220,
+      "total_views": 683
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 462,
-      "ch2_views": 236,
-      "total_views": 698
+      "ch1_views": 463,
+      "ch2_views": 250,
+      "total_views": 713
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 462,
-      "ch2_views": 236,
-      "total_views": 698
+      "ch1_views": 463,
+      "ch2_views": 254,
+      "total_views": 717
     }
   ],
   "channels": {
@@ -108,7 +108,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 29,
-      "total_views": 462,
+      "total_views": 463,
       "total_likes": 4,
       "upcoming": {
         "slot1": {
@@ -205,21 +205,21 @@
         },
         {
           "date": "2026-09-13",
-          "views": 8,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 462
+          "cumulative_views": 463
         },
         {
           "date": "2026-09-14",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 462
+          "cumulative_views": 463
         },
         {
           "date": "2026-09-15",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 462
+          "cumulative_views": 463
         }
       ],
       "videos": [
@@ -235,7 +235,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6z3etZE553M/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-15T02:10:52Z"
+          "uploaded_at": "2026-09-15T02:11:15Z"
         },
         {
           "channel_id": "channel_1",
@@ -314,7 +314,7 @@
           "youtube_id": "qw0io39Ys4A",
           "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
           "tiktok_views": 338800,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
@@ -370,7 +370,7 @@
           "youtube_id": "8__A-X6lNDk",
           "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19 tiktokgrowthc",
           "tiktok_views": 490700,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
@@ -384,7 +384,7 @@
           "youtube_id": "Okan6xJnNWE",
           "title": "The Carrot Became a Walking Cane at the Farmers Market \ud83d\ude2d\ud83e\udd55 tiktokgrow",
           "tiktok_views": 4753,
-          "youtube_views": 4,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Okan6xJnNWE/hqdefault.jpg",
@@ -846,8 +846,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 29,
-      "total_views": 236,
+      "total_uploads": 30,
+      "total_views": 254,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -878,84 +878,98 @@
       "view_history": [
         {
           "date": "2026-09-02",
-          "views": 30,
+          "views": 32,
           "uploads": 2,
-          "cumulative_views": 30
+          "cumulative_views": 32
         },
         {
           "date": "2026-09-03",
           "views": 26,
           "uploads": 2,
-          "cumulative_views": 56
+          "cumulative_views": 58
         },
         {
           "date": "2026-09-04",
           "views": 8,
           "uploads": 2,
-          "cumulative_views": 64
+          "cumulative_views": 66
         },
         {
           "date": "2026-09-05",
           "views": 15,
           "uploads": 2,
-          "cumulative_views": 79
+          "cumulative_views": 81
         },
         {
           "date": "2026-09-06",
           "views": 7,
           "uploads": 2,
-          "cumulative_views": 86
+          "cumulative_views": 88
         },
         {
           "date": "2026-09-07",
           "views": 27,
           "uploads": 2,
-          "cumulative_views": 113
+          "cumulative_views": 115
         },
         {
           "date": "2026-09-08",
-          "views": 53,
+          "views": 55,
           "uploads": 2,
-          "cumulative_views": 166
+          "cumulative_views": 170
         },
         {
           "date": "2026-09-10",
           "views": 5,
           "uploads": 2,
-          "cumulative_views": 171
+          "cumulative_views": 175
         },
         {
           "date": "2026-09-11",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 180
+          "cumulative_views": 184
         },
         {
           "date": "2026-09-12",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 185
+          "cumulative_views": 189
         },
         {
           "date": "2026-09-13",
-          "views": 28,
+          "views": 31,
           "uploads": 3,
-          "cumulative_views": 213
+          "cumulative_views": 220
         },
         {
           "date": "2026-09-14",
-          "views": 23,
+          "views": 30,
           "uploads": 3,
-          "cumulative_views": 236
+          "cumulative_views": 250
         },
         {
           "date": "2026-09-15",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 236
+          "views": 4,
+          "uploads": 2,
+          "cumulative_views": 254
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7685458628588997901",
+          "youtube_id": "0yLRz-J0Xf8",
+          "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
+          "tiktok_views": 207400,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-15T16:19:22Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -963,7 +977,7 @@
           "youtube_id": "2IV8GtDAWgE",
           "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
           "tiktok_views": 598400,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
@@ -977,7 +991,7 @@
           "youtube_id": "cTLcefQUb7k",
           "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
           "tiktok_views": 633700,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -991,7 +1005,7 @@
           "youtube_id": "IwaBIQwrlus",
           "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
           "tiktok_views": 13800,
-          "youtube_views": 4,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -1005,7 +1019,7 @@
           "youtube_id": "45A8pjcvAQg",
           "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
           "tiktok_views": 765900,
-          "youtube_views": 19,
+          "youtube_views": 21,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -1019,7 +1033,7 @@
           "youtube_id": "a7u_O65DeEk",
           "title": "The Secret to the Juiciest Stuffed Cabbage with Bacon StuffedCabbag",
           "tiktok_views": 767700,
-          "youtube_views": 6,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
@@ -1187,7 +1201,7 @@
           "youtube_id": "QVcjQmHpXP8",
           "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
           "tiktok_views": 774200,
-          "youtube_views": 52,
+          "youtube_views": 54,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
@@ -1355,7 +1369,7 @@
           "youtube_id": "6pTM9H1eLnY",
           "title": "Puff Pastry Baked Apples with Nutella & Caramel \ud83c\udf4e  #BakedApples #Appl...",
           "tiktok_views": 7936,
-          "youtube_views": 22,
+          "youtube_views": 24,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6pTM9H1eLnY/hqdefault.jpg",
@@ -1364,6 +1378,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 33,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-15",
+          "status": "success",
+          "video_id": "0yLRz-J0Xf8",
+          "error_message": null,
+          "created_at": "2026-09-15T16:19:31.256257+00:00"
+        },
         {
           "id": 32,
           "channel_id": "channel_2",
@@ -1553,21 +1577,25 @@
           "video_id": "QVcjQmHpXP8",
           "error_message": null,
           "created_at": "2026-09-08T15:19:59.842977+00:00"
-        },
-        {
-          "id": 13,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-09-07",
-          "status": "success",
-          "video_id": "_nPHaeujxv0",
-          "error_message": null,
-          "created_at": "2026-09-07T19:13:20.273972+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7685458628588997901",
+      "youtube_id": "0yLRz-J0Xf8",
+      "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
+      "tiktok_views": 207400,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-15T16:19:22Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -1580,7 +1608,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6z3etZE553M/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-15T02:10:52Z"
+      "uploaded_at": "2026-09-15T02:11:15Z"
     },
     {
       "channel_id": "channel_2",
@@ -1589,7 +1617,7 @@
       "youtube_id": "2IV8GtDAWgE",
       "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
       "tiktok_views": 598400,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
@@ -1617,7 +1645,7 @@
       "youtube_id": "cTLcefQUb7k",
       "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
       "tiktok_views": 633700,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1645,7 +1673,7 @@
       "youtube_id": "IwaBIQwrlus",
       "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
       "tiktok_views": 13800,
-      "youtube_views": 4,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -1673,7 +1701,7 @@
       "youtube_id": "45A8pjcvAQg",
       "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
       "tiktok_views": 765900,
-      "youtube_views": 19,
+      "youtube_views": 21,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -1701,7 +1729,7 @@
       "youtube_id": "a7u_O65DeEk",
       "title": "The Secret to the Juiciest Stuffed Cabbage with Bacon StuffedCabbag",
       "tiktok_views": 767700,
-      "youtube_views": 6,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
@@ -1743,7 +1771,7 @@
       "youtube_id": "qw0io39Ys4A",
       "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
       "tiktok_views": 338800,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
@@ -1855,7 +1883,7 @@
       "youtube_id": "8__A-X6lNDk",
       "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19 tiktokgrowthc",
       "tiktok_views": 490700,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
@@ -1883,7 +1911,7 @@
       "youtube_id": "Okan6xJnNWE",
       "title": "The Carrot Became a Walking Cane at the Farmers Market \ud83d\ude2d\ud83e\udd55 tiktokgrow",
       "tiktok_views": 4753,
-      "youtube_views": 4,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Okan6xJnNWE/hqdefault.jpg",
@@ -2009,7 +2037,7 @@
       "youtube_id": "QVcjQmHpXP8",
       "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
       "tiktok_views": 774200,
-      "youtube_views": 52,
+      "youtube_views": 54,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
@@ -2345,7 +2373,7 @@
       "youtube_id": "6pTM9H1eLnY",
       "title": "Puff Pastry Baked Apples with Nutella & Caramel \ud83c\udf4e  #BakedApples #Appl...",
       "tiktok_views": 7936,
-      "youtube_views": 22,
+      "youtube_views": 24,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6pTM9H1eLnY/hqdefault.jpg",
@@ -2395,7 +2423,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 29,
-    "total_views": 462,
+    "total_views": 463,
     "total_likes": 4,
     "upcoming": {
       "slot1": {
@@ -2492,21 +2520,21 @@
       },
       {
         "date": "2026-09-13",
-        "views": 8,
+        "views": 9,
         "uploads": 3,
-        "cumulative_views": 462
+        "cumulative_views": 463
       },
       {
         "date": "2026-09-14",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 462
+        "cumulative_views": 463
       },
       {
         "date": "2026-09-15",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 462
+        "cumulative_views": 463
       }
     ],
     "videos": [
@@ -2522,7 +2550,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/6z3etZE553M/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-15T02:10:52Z"
+        "uploaded_at": "2026-09-15T02:11:15Z"
       },
       {
         "channel_id": "channel_1",
@@ -2601,7 +2629,7 @@
         "youtube_id": "qw0io39Ys4A",
         "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
         "tiktok_views": 338800,
-        "youtube_views": 8,
+        "youtube_views": 9,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
@@ -2657,7 +2685,7 @@
         "youtube_id": "8__A-X6lNDk",
         "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19 tiktokgrowthc",
         "tiktok_views": 490700,
-        "youtube_views": 3,
+        "youtube_views": 4,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
@@ -2671,7 +2699,7 @@
         "youtube_id": "Okan6xJnNWE",
         "title": "The Carrot Became a Walking Cane at the Farmers Market \ud83d\ude2d\ud83e\udd55 tiktokgrow",
         "tiktok_views": 4753,
-        "youtube_views": 4,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/Okan6xJnNWE/hqdefault.jpg",
@@ -3121,8 +3149,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 58,
-    "total_views": 698,
+    "total_uploads": 59,
+    "total_views": 717,
     "total_likes": 7,
     "videos_per_day": 6
   },
@@ -3354,5 +3382,5 @@
       "created_at": "2026-09-08T00:03:51.001058+00:00"
     }
   ],
-  "last_updated": "2026-09-15T02:10:57.513242+00:00"
+  "last_updated": "2026-09-15T16:19:34.483115+00:00"
 }
