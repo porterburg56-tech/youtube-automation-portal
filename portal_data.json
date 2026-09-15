@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 56,
-    "total_views": 694,
+    "total_uploads": 57,
+    "total_views": 696,
     "total_likes": 7,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -76,15 +76,21 @@
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 459,
-      "ch2_views": 212,
-      "total_views": 671
+      "ch1_views": 460,
+      "ch2_views": 213,
+      "total_views": 673
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 459,
-      "ch2_views": 235,
-      "total_views": 694
+      "ch1_views": 460,
+      "ch2_views": 236,
+      "total_views": 696
+    },
+    {
+      "date": "2026-09-15",
+      "ch1_views": 0,
+      "ch2_views": 236,
+      "total_views": 236
     }
   ],
   "channels": {
@@ -102,7 +108,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 28,
-      "total_views": 459,
+      "total_views": 460,
       "total_likes": 4,
       "upcoming": {
         "slot1": {
@@ -199,15 +205,15 @@
         },
         {
           "date": "2026-09-13",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 459
+          "cumulative_views": 460
         },
         {
           "date": "2026-09-14",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 459
+          "cumulative_views": 460
         }
       ],
       "videos": [
@@ -223,7 +229,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/1ImJ5srNp3o/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-14T23:39:36Z"
+          "uploaded_at": "2026-09-14T23:39:56Z"
         },
         {
           "channel_id": "channel_1",
@@ -288,7 +294,7 @@
           "youtube_id": "qw0io39Ys4A",
           "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
           "tiktok_views": 338800,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
@@ -820,8 +826,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 28,
-      "total_views": 235,
+      "total_uploads": 29,
+      "total_views": 236,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -912,18 +918,38 @@
         },
         {
           "date": "2026-09-13",
-          "views": 27,
+          "views": 28,
           "uploads": 3,
-          "cumulative_views": 212
+          "cumulative_views": 213
         },
         {
           "date": "2026-09-14",
           "views": 23,
           "uploads": 3,
-          "cumulative_views": 235
+          "cumulative_views": 236
+        },
+        {
+          "date": "2026-09-15",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 236
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7672099133922069774",
+          "youtube_id": "2IV8GtDAWgE",
+          "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
+          "tiktok_views": 598400,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-15T01:08:46Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -987,7 +1013,7 @@
           "youtube_id": "tOagl_ZG9xk",
           "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
           "tiktok_views": 4086,
-          "youtube_views": 21,
+          "youtube_views": 22,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -1319,6 +1345,16 @@
       ],
       "runs": [
         {
+          "id": 32,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-09-15",
+          "status": "success",
+          "video_id": "2IV8GtDAWgE",
+          "error_message": null,
+          "created_at": "2026-09-15T01:08:51.224072+00:00"
+        },
+        {
           "id": 31,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1507,21 +1543,25 @@
           "video_id": "_nPHaeujxv0",
           "error_message": null,
           "created_at": "2026-09-07T19:13:20.273972+00:00"
-        },
-        {
-          "id": 12,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-07",
-          "status": "success",
-          "video_id": "ZZUBRcApta8",
-          "error_message": null,
-          "created_at": "2026-09-07T15:16:16.831170+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7672099133922069774",
+      "youtube_id": "2IV8GtDAWgE",
+      "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
+      "tiktok_views": 598400,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-15T01:08:46Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -1534,7 +1574,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/1ImJ5srNp3o/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-14T23:39:36Z"
+      "uploaded_at": "2026-09-14T23:39:56Z"
     },
     {
       "channel_id": "channel_2",
@@ -1655,7 +1695,7 @@
       "youtube_id": "tOagl_ZG9xk",
       "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
       "tiktok_views": 4086,
-      "youtube_views": 21,
+      "youtube_views": 22,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -1669,7 +1709,7 @@
       "youtube_id": "qw0io39Ys4A",
       "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
       "tiktok_views": 338800,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
@@ -2321,7 +2361,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 28,
-    "total_views": 459,
+    "total_views": 460,
     "total_likes": 4,
     "upcoming": {
       "slot1": {
@@ -2418,15 +2458,15 @@
       },
       {
         "date": "2026-09-13",
-        "views": 7,
+        "views": 8,
         "uploads": 3,
-        "cumulative_views": 459
+        "cumulative_views": 460
       },
       {
         "date": "2026-09-14",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 459
+        "cumulative_views": 460
       }
     ],
     "videos": [
@@ -2442,7 +2482,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/1ImJ5srNp3o/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-14T23:39:36Z"
+        "uploaded_at": "2026-09-14T23:39:56Z"
       },
       {
         "channel_id": "channel_1",
@@ -2507,7 +2547,7 @@
         "youtube_id": "qw0io39Ys4A",
         "title": "Dad thought it was HIS money\u2026 then this tiny lawyer presented his cas",
         "tiktok_views": 338800,
-        "youtube_views": 7,
+        "youtube_views": 8,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
@@ -3027,8 +3067,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 56,
-    "total_views": 694,
+    "total_uploads": 57,
+    "total_views": 696,
     "total_likes": 7,
     "videos_per_day": 6
   },
@@ -3260,5 +3300,5 @@
       "created_at": "2026-09-07T22:17:42.965115+00:00"
     }
   ],
-  "last_updated": "2026-09-14T23:39:40.472060+00:00"
+  "last_updated": "2026-09-15T01:08:54.199911+00:00"
 }
