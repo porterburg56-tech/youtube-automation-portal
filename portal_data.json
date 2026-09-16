@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 69,
-    "total_views": 747,
+    "total_uploads": 70,
+    "total_views": 755,
     "total_likes": 6,
     "total_subscribers": 3,
     "channels_count": 3,
@@ -11,93 +11,93 @@
     {
       "date": "2026-09-03",
       "ch1_views": 4,
-      "ch2_views": 24,
+      "ch2_views": 0,
       "ch3_views": 0,
-      "total_views": 28
+      "total_views": 4
     },
     {
       "date": "2026-09-04",
       "ch1_views": 8,
-      "ch2_views": 32,
+      "ch2_views": 8,
       "ch3_views": 0,
-      "total_views": 40
+      "total_views": 16
     },
     {
       "date": "2026-09-05",
       "ch1_views": 11,
-      "ch2_views": 47,
+      "ch2_views": 23,
       "ch3_views": 0,
-      "total_views": 58
+      "total_views": 34
     },
     {
       "date": "2026-09-06",
       "ch1_views": 25,
-      "ch2_views": 54,
+      "ch2_views": 30,
       "ch3_views": 0,
-      "total_views": 79
+      "total_views": 55
     },
     {
       "date": "2026-09-07",
       "ch1_views": 35,
-      "ch2_views": 81,
+      "ch2_views": 58,
       "ch3_views": 0,
-      "total_views": 116
+      "total_views": 93
     },
     {
       "date": "2026-09-08",
       "ch1_views": 36,
-      "ch2_views": 136,
+      "ch2_views": 113,
       "ch3_views": 0,
-      "total_views": 172
+      "total_views": 149
     },
     {
       "date": "2026-09-10",
       "ch1_views": 39,
-      "ch2_views": 141,
+      "ch2_views": 118,
       "ch3_views": 0,
-      "total_views": 180
+      "total_views": 157
     },
     {
       "date": "2026-09-11",
       "ch1_views": 46,
-      "ch2_views": 151,
+      "ch2_views": 128,
       "ch3_views": 0,
-      "total_views": 197
+      "total_views": 174
     },
     {
       "date": "2026-09-12",
       "ch1_views": 413,
-      "ch2_views": 159,
+      "ch2_views": 136,
       "ch3_views": 0,
-      "total_views": 572
+      "total_views": 549
     },
     {
       "date": "2026-09-13",
       "ch1_views": 429,
-      "ch2_views": 198,
+      "ch2_views": 175,
       "ch3_views": 0,
-      "total_views": 627
+      "total_views": 604
     },
     {
       "date": "2026-09-14",
       "ch1_views": 430,
-      "ch2_views": 246,
+      "ch2_views": 223,
       "ch3_views": 0,
-      "total_views": 676
+      "total_views": 653
     },
     {
       "date": "2026-09-15",
       "ch1_views": 431,
-      "ch2_views": 289,
+      "ch2_views": 267,
       "ch3_views": 0,
-      "total_views": 720
+      "total_views": 698
     },
     {
       "date": "2026-09-16",
       "ch1_views": 431,
-      "ch2_views": 290,
+      "ch2_views": 268,
       "ch3_views": 83,
-      "total_views": 804
+      "total_views": 782
     }
   ],
   "channels": {
@@ -116,8 +116,8 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 33,
-      "total_views": 463,
+      "total_uploads": 34,
+      "total_views": 471,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -649,6 +649,16 @@
       ],
       "runs": [
         {
+          "id": 39,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-16",
+          "status": "success",
+          "video_id": "LTXCsx8kOcI",
+          "error_message": null,
+          "created_at": "2026-09-16T23:40:39.905527+00:00"
+        },
+        {
           "id": 38,
           "channel_id": "channel_1",
           "slot": 1,
@@ -837,16 +847,6 @@
           "video_id": "Ml1HFT47PEU",
           "error_message": null,
           "created_at": "2026-09-10T07:05:28.517675+00:00"
-        },
-        {
-          "id": 19,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-09-10",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-10T00:04:02.871405+00:00"
         }
       ]
     },
@@ -896,85 +896,93 @@
       },
       "view_history": [
         {
-          "date": "2026-09-03",
-          "views": 24,
-          "uploads": 1,
-          "cumulative_views": 24
-        },
-        {
           "date": "2026-09-04",
           "views": 8,
           "uploads": 2,
-          "cumulative_views": 32
+          "cumulative_views": 8
         },
         {
           "date": "2026-09-05",
           "views": 15,
           "uploads": 2,
-          "cumulative_views": 47
+          "cumulative_views": 23
         },
         {
           "date": "2026-09-06",
           "views": 7,
           "uploads": 2,
-          "cumulative_views": 54
+          "cumulative_views": 30
         },
         {
           "date": "2026-09-07",
-          "views": 27,
+          "views": 28,
           "uploads": 2,
-          "cumulative_views": 81
+          "cumulative_views": 58
         },
         {
           "date": "2026-09-08",
           "views": 55,
           "uploads": 2,
-          "cumulative_views": 136
+          "cumulative_views": 113
         },
         {
           "date": "2026-09-10",
           "views": 5,
           "uploads": 2,
-          "cumulative_views": 141
+          "cumulative_views": 118
         },
         {
           "date": "2026-09-11",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 151
+          "cumulative_views": 128
         },
         {
           "date": "2026-09-12",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 159
+          "cumulative_views": 136
         },
         {
           "date": "2026-09-13",
           "views": 39,
           "uploads": 3,
-          "cumulative_views": 198
+          "cumulative_views": 175
         },
         {
           "date": "2026-09-14",
           "views": 48,
           "uploads": 3,
-          "cumulative_views": 246
+          "cumulative_views": 223
         },
         {
           "date": "2026-09-15",
-          "views": 43,
+          "views": 44,
           "uploads": 3,
-          "cumulative_views": 289
+          "cumulative_views": 267
         },
         {
           "date": "2026-09-16",
           "views": 1,
-          "uploads": 2,
-          "cumulative_views": 290
+          "uploads": 3,
+          "cumulative_views": 268
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7665767680598838541",
+          "youtube_id": "9viy7TJKYLM",
+          "title": "Crispy Puff Pastry Cream Baskets with Chocolate & Hazelnuts \u2728 #shorts",
+          "tiktok_views": 582600,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/9viy7TJKYLM/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-16T22:21:42Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1038,7 +1046,7 @@
           "youtube_id": "2IV8GtDAWgE",
           "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
           "tiktok_views": 598400,
-          "youtube_views": 12,
+          "youtube_views": 13,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
@@ -1290,7 +1298,7 @@
           "youtube_id": "ZZUBRcApta8",
           "title": "Cheesy Stuffed Meat Patties with Potatoes \ud83e\uddc0\ud83e\udd54 #StuffedMeatPatties #Eas...",
           "tiktok_views": 881800,
-          "youtube_views": 11,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
@@ -1380,20 +1388,6 @@
           "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-04T15:16:12Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7676918235106757901",
-          "youtube_id": "KHZ15IsYo14",
-          "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
-          "tiktok_views": 4000000,
-          "youtube_views": 24,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-03T19:15:09Z"
         }
       ],
       "runs": [
@@ -1707,6 +1701,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7665767680598838541",
+      "youtube_id": "9viy7TJKYLM",
+      "title": "Crispy Puff Pastry Cream Baskets with Chocolate & Hazelnuts \u2728 #shorts",
+      "tiktok_views": 582600,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/9viy7TJKYLM/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-16T22:21:42Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7686124988411186446",
@@ -1867,7 +1875,7 @@
       "youtube_id": "2IV8GtDAWgE",
       "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
       "tiktok_views": 598400,
-      "youtube_views": 12,
+      "youtube_views": 13,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
@@ -2343,7 +2351,7 @@
       "youtube_id": "ZZUBRcApta8",
       "title": "Cheesy Stuffed Meat Patties with Potatoes \ud83e\uddc0\ud83e\udd54 #StuffedMeatPatties #Eas...",
       "tiktok_views": 881800,
-      "youtube_views": 11,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
@@ -2547,20 +2555,6 @@
       "uploaded_at": "2026-09-03T22:17:15Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7676918235106757901",
-      "youtube_id": "KHZ15IsYo14",
-      "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
-      "tiktok_views": 4000000,
-      "youtube_views": 24,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-03T19:15:09Z"
-    },
-    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7677190679428074765",
@@ -2590,8 +2584,8 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 33,
-    "total_views": 463,
+    "total_uploads": 34,
+    "total_views": 471,
     "total_likes": 3,
     "upcoming": {
       "slot1": {
@@ -3123,6 +3117,16 @@
     ],
     "runs": [
       {
+        "id": 39,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-16",
+        "status": "success",
+        "video_id": "LTXCsx8kOcI",
+        "error_message": null,
+        "created_at": "2026-09-16T23:40:39.905527+00:00"
+      },
+      {
         "id": 38,
         "channel_id": "channel_1",
         "slot": 1,
@@ -3311,22 +3315,12 @@
         "video_id": "Ml1HFT47PEU",
         "error_message": null,
         "created_at": "2026-09-10T07:05:28.517675+00:00"
-      },
-      {
-        "id": 19,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-09-10",
-        "status": "failed",
-        "video_id": null,
-        "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "created_at": "2026-09-10T00:04:02.871405+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 69,
-    "total_views": 747,
+    "total_uploads": 70,
+    "total_views": 755,
     "total_likes": 6,
     "videos_per_day": 9
   },
@@ -3357,6 +3351,16 @@
     }
   },
   "runs": [
+    {
+      "id": 39,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-16",
+      "status": "success",
+      "video_id": "LTXCsx8kOcI",
+      "error_message": null,
+      "created_at": "2026-09-16T23:40:39.905527+00:00"
+    },
     {
       "id": 38,
       "channel_id": "channel_1",
@@ -3546,17 +3550,7 @@
       "video_id": "Ml1HFT47PEU",
       "error_message": null,
       "created_at": "2026-09-10T07:05:28.517675+00:00"
-    },
-    {
-      "id": 19,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-09-10",
-      "status": "failed",
-      "video_id": null,
-      "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-      "created_at": "2026-09-10T00:04:02.871405+00:00"
     }
   ],
-  "last_updated": "2026-09-16T22:21:23.684799+00:00"
+  "last_updated": "2026-09-16T23:40:43.145840+00:00"
 }
