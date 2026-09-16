@@ -1,117 +1,40 @@
 {
   "cumulative": {
     "total_uploads": 66,
-    "total_views": 753,
-    "total_likes": 7,
+    "total_views": 723,
+    "total_likes": 0,
     "total_subscribers": 3,
     "channels_count": 3,
     "videos_per_day": 9
   },
   "master_view_history": [
     {
-      "date": "2026-09-01",
-      "ch1_views": 23,
-      "ch2_views": 0,
-      "ch3_views": 0,
-      "total_views": 23
-    },
-    {
-      "date": "2026-09-02",
-      "ch1_views": 41,
-      "ch2_views": 32,
-      "ch3_views": 0,
-      "total_views": 73
-    },
-    {
-      "date": "2026-09-03",
-      "ch1_views": 45,
-      "ch2_views": 58,
-      "ch3_views": 0,
-      "total_views": 103
-    },
-    {
-      "date": "2026-09-04",
-      "ch1_views": 49,
-      "ch2_views": 66,
-      "ch3_views": 0,
-      "total_views": 115
-    },
-    {
-      "date": "2026-09-05",
-      "ch1_views": 52,
-      "ch2_views": 81,
-      "ch3_views": 0,
-      "total_views": 133
-    },
-    {
-      "date": "2026-09-06",
-      "ch1_views": 66,
-      "ch2_views": 88,
-      "ch3_views": 0,
-      "total_views": 154
-    },
-    {
-      "date": "2026-09-07",
-      "ch1_views": 76,
-      "ch2_views": 115,
-      "ch3_views": 0,
-      "total_views": 191
-    },
-    {
-      "date": "2026-09-08",
-      "ch1_views": 77,
-      "ch2_views": 170,
-      "ch3_views": 0,
-      "total_views": 247
-    },
-    {
-      "date": "2026-09-10",
-      "ch1_views": 80,
-      "ch2_views": 175,
-      "ch3_views": 0,
-      "total_views": 255
-    },
-    {
-      "date": "2026-09-11",
-      "ch1_views": 87,
-      "ch2_views": 184,
-      "ch3_views": 0,
-      "total_views": 271
-    },
-    {
-      "date": "2026-09-12",
-      "ch1_views": 454,
-      "ch2_views": 189,
-      "ch3_views": 0,
-      "total_views": 643
-    },
-    {
       "date": "2026-09-13",
-      "ch1_views": 469,
-      "ch2_views": 224,
+      "ch1_views": 15,
+      "ch2_views": 35,
       "ch3_views": 0,
-      "total_views": 693
+      "total_views": 50
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 470,
-      "ch2_views": 261,
+      "ch1_views": 16,
+      "ch2_views": 72,
       "ch3_views": 0,
-      "total_views": 731
+      "total_views": 88
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 470,
-      "ch2_views": 281,
+      "ch1_views": 16,
+      "ch2_views": 93,
       "ch3_views": 0,
-      "total_views": 751
+      "total_views": 109
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 470,
-      "ch2_views": 281,
+      "ch1_views": 16,
+      "ch2_views": 93,
       "ch3_views": 2,
-      "total_views": 753
+      "total_views": 111
     }
   ],
   "channels": {
@@ -131,8 +54,8 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 32,
-      "total_views": 470,
-      "total_likes": 4,
+      "total_views": 463,
+      "total_likes": 0,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -161,94 +84,28 @@
       },
       "view_history": [
         {
-          "date": "2026-09-01",
-          "views": 23,
-          "uploads": 1,
-          "cumulative_views": 23
-        },
-        {
-          "date": "2026-09-02",
-          "views": 18,
-          "uploads": 2,
-          "cumulative_views": 41
-        },
-        {
-          "date": "2026-09-03",
-          "views": 4,
-          "uploads": 2,
-          "cumulative_views": 45
-        },
-        {
-          "date": "2026-09-04",
-          "views": 4,
-          "uploads": 2,
-          "cumulative_views": 49
-        },
-        {
-          "date": "2026-09-05",
-          "views": 3,
-          "uploads": 2,
-          "cumulative_views": 52
-        },
-        {
-          "date": "2026-09-06",
-          "views": 14,
-          "uploads": 2,
-          "cumulative_views": 66
-        },
-        {
-          "date": "2026-09-07",
-          "views": 10,
-          "uploads": 2,
-          "cumulative_views": 76
-        },
-        {
-          "date": "2026-09-08",
-          "views": 1,
-          "uploads": 1,
-          "cumulative_views": 77
-        },
-        {
-          "date": "2026-09-10",
-          "views": 3,
-          "uploads": 2,
-          "cumulative_views": 80
-        },
-        {
-          "date": "2026-09-11",
-          "views": 7,
-          "uploads": 3,
-          "cumulative_views": 87
-        },
-        {
-          "date": "2026-09-12",
-          "views": 367,
-          "uploads": 3,
-          "cumulative_views": 454
-        },
-        {
           "date": "2026-09-13",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 469
+          "cumulative_views": 15
         },
         {
           "date": "2026-09-14",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 470
+          "cumulative_views": 16
         },
         {
           "date": "2026-09-15",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 470
+          "cumulative_views": 16
         },
         {
           "date": "2026-09-16",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 470
+          "cumulative_views": 16
         }
       ],
       "videos": [
@@ -391,314 +248,6 @@
           "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-13T02:09:17Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7659455287425764622",
-          "youtube_id": "_VMXeCFsF6E",
-          "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
-          "tiktok_views": 371800,
-          "youtube_views": 363,
-          "youtube_likes": 2,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-12T23:38:58Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7684612468898860301",
-          "youtube_id": "wNqLCXRd67k",
-          "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet",
-          "tiktok_views": 2332,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/wNqLCXRd67k/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-12T17:15:58Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7678685919834066190",
-          "youtube_id": "y15slAQPe6w",
-          "title": "Baby Saw Grandpa Walk and Immediately Said I Got This \ud83d\ude02 tiktokgrowth",
-          "tiktok_views": 485500,
-          "youtube_views": 4,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/y15slAQPe6w/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-12T02:09:30Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7679483110710463758",
-          "youtube_id": "8__A-X6lNDk",
-          "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19 tiktokgrowthc",
-          "tiktok_views": 490700,
-          "youtube_views": 4,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-11T23:39:52Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7684295469756960013",
-          "youtube_id": "Okan6xJnNWE",
-          "title": "The Carrot Became a Walking Cane at the Farmers Market \ud83d\ude2d\ud83e\udd55 tiktokgrow",
-          "tiktok_views": 4753,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/Okan6xJnNWE/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-11T17:16:43Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7659745867984833805",
-          "youtube_id": "l0LMb2QAPUs",
-          "title": "She Did NOT Have To Expose Dad Like This \ud83d\ude02 tiktokgrowthchallenge ti",
-          "tiktok_views": 581600,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/l0LMb2QAPUs/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-11T02:09:18Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7660178410517318926",
-          "youtube_id": "w4ZtImhPVG0",
-          "title": "Dad After Work\u2026 According to My Toddler \ud83d\ude2d tiktokgrowthchallenge tik",
-          "tiktok_views": 701800,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/w4ZtImhPVG0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-10T23:40:19Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7683521229898157342",
-          "youtube_id": "Ml1HFT47PEU",
-          "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #toddler #tik...",
-          "tiktok_views": 19200,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/Ml1HFT47PEU/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-10T07:05:47Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7678008422230494477",
-          "youtube_id": "MTdV6Hav-Rs",
-          "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #tiktokgrowthchalle...",
-          "tiktok_views": 1300000,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/MTdV6Hav-Rs/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-08T00:04:09Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7682844448484560158",
-          "youtube_id": "ZFnEdIdb2ko",
-          "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f #...",
-          "tiktok_views": 1994,
-          "youtube_views": 10,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/ZFnEdIdb2ko/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-07T22:18:04Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7656483424743492878",
-          "youtube_id": "TfSQslAQSEY",
-          "title": "Toddler Show daddy after work #funny #tiktok #viralvideo #viral #tikt...",
-          "tiktok_views": 1400000,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/TfSQslAQSEY/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-07T00:03:57Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7682391955413749005",
-          "youtube_id": "H3uE6swbEHY",
-          "title": "Grandpa has a shadow now and the shadow is 15 months old \ud83e\udd23 #tiktokgro...",
-          "tiktok_views": 5316,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/H3uE6swbEHY/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-06T22:17:57Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7663464745680276749",
-          "youtube_id": "gsQp78UWoZw",
-          "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
-          "tiktok_views": 2000000,
-          "youtube_views": 14,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-06T00:04:07Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7682065782913682718",
-          "youtube_id": "7tG5erFwaZQ",
-          "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #tiktokgrowth...",
-          "tiktok_views": 6902,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/7tG5erFwaZQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-05T22:16:46Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7677261920088444174",
-          "youtube_id": "dqDNDVuIibA",
-          "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79 #foryo...",
-          "tiktok_views": 2800000,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/dqDNDVuIibA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-05T00:04:16Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7681648437833501966",
-          "youtube_id": "PaLcQYv70cc",
-          "title": "He Copied Every Single Step and Nobody Was Ready \ud83d\udc80\ud83d\ude2d #tiktokgrowthchal...",
-          "tiktok_views": 15500,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/PaLcQYv70cc/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-04T22:17:02Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7677235005495446797",
-          "youtube_id": "yYZcQkQHknU",
-          "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
-          "tiktok_views": 3600000,
-          "youtube_views": 4,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-04T00:04:05Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7681339924221562126",
-          "youtube_id": "7y42u0-PBQM",
-          "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
-          "tiktok_views": 11200,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-03T22:17:15Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7677190679428074765",
-          "youtube_id": "yyHs2FbbwXM",
-          "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
-          "tiktok_views": 4400000,
-          "youtube_views": 2,
-          "youtube_likes": 1,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-03T00:04:32Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7680972970247949581",
-          "youtube_id": "AFqVQt-mHZg",
-          "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet...",
-          "tiktok_views": 2803,
-          "youtube_views": 6,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/AFqVQt-mHZg/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-02T22:17:32Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7680593673784020237",
-          "youtube_id": "8eEz1ehaSeg",
-          "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19  #tiktokgrowth...",
-          "tiktok_views": 5110,
-          "youtube_views": 12,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/8eEz1ehaSeg/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-02T06:06:57Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7680230295441771790",
-          "youtube_id": "iuE3f2WfSlI",
-          "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
-          "tiktok_views": 9430,
-          "youtube_views": 23,
-          "youtube_likes": 1,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-01T07:42:33Z"
         }
       ],
       "runs": [
@@ -920,8 +469,8 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 32,
-      "total_views": 281,
-      "total_likes": 3,
+      "total_views": 260,
+      "total_likes": 0,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -950,88 +499,28 @@
       },
       "view_history": [
         {
-          "date": "2026-09-02",
-          "views": 32,
-          "uploads": 2,
-          "cumulative_views": 32
-        },
-        {
-          "date": "2026-09-03",
-          "views": 26,
-          "uploads": 2,
-          "cumulative_views": 58
-        },
-        {
-          "date": "2026-09-04",
-          "views": 8,
-          "uploads": 2,
-          "cumulative_views": 66
-        },
-        {
-          "date": "2026-09-05",
-          "views": 15,
-          "uploads": 2,
-          "cumulative_views": 81
-        },
-        {
-          "date": "2026-09-06",
-          "views": 7,
-          "uploads": 2,
-          "cumulative_views": 88
-        },
-        {
-          "date": "2026-09-07",
-          "views": 27,
-          "uploads": 2,
-          "cumulative_views": 115
-        },
-        {
-          "date": "2026-09-08",
-          "views": 55,
-          "uploads": 2,
-          "cumulative_views": 170
-        },
-        {
-          "date": "2026-09-10",
-          "views": 5,
-          "uploads": 2,
-          "cumulative_views": 175
-        },
-        {
-          "date": "2026-09-11",
-          "views": 9,
-          "uploads": 3,
-          "cumulative_views": 184
-        },
-        {
-          "date": "2026-09-12",
-          "views": 5,
-          "uploads": 3,
-          "cumulative_views": 189
-        },
-        {
           "date": "2026-09-13",
           "views": 35,
           "uploads": 3,
-          "cumulative_views": 224
+          "cumulative_views": 35
         },
         {
           "date": "2026-09-14",
           "views": 37,
           "uploads": 3,
-          "cumulative_views": 261
+          "cumulative_views": 72
         },
         {
           "date": "2026-09-15",
-          "views": 20,
+          "views": 21,
           "uploads": 3,
-          "cumulative_views": 281
+          "cumulative_views": 93
         },
         {
           "date": "2026-09-16",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 281
+          "cumulative_views": 93
         }
       ],
       "videos": [
@@ -1056,7 +545,7 @@
           "youtube_id": "KBGlJd1_GB0",
           "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
           "tiktok_views": 476800,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
@@ -1174,314 +663,6 @@
           "thumbnail": "https://i.ytimg.com/vi/JwtdOq7sl4I/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-13T01:08:02Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7657340886476492045",
-          "youtube_id": "0iNyvoUwVu0",
-          "title": "Fun Short",
-          "tiktok_views": 1000000,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/0iNyvoUwVu0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-12T22:20:57Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7684345064893500686",
-          "youtube_id": "-66iQZlh8Lk",
-          "title": "Cheesy Baked Chicken That\u2019s Seriously Delicious BakedChicken Chicke",
-          "tiktok_views": 15200,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/-66iQZlh8Lk/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-12T16:18:52Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7663190414253378829",
-          "youtube_id": "kjK0O81Zne4",
-          "title": "Buttery Boiled Omelet Toast You Need to Try \ud83c\udf73\ud83e\udd56 BreakfastRecipe EggR",
-          "tiktok_views": 1000000,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/kjK0O81Zne4/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-12T01:07:50Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7670241146085444877",
-          "youtube_id": "Oa87vgbUaSU",
-          "title": "Fun Short",
-          "tiktok_views": 1000000,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/Oa87vgbUaSU/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-11T22:20:45Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7683965585339813134",
-          "youtube_id": "lZw2Y3LiD-M",
-          "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
-          "tiktok_views": 292200,
-          "youtube_views": 8,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-11T16:21:45Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7672845202532371725",
-          "youtube_id": "eMsOP8u_G70",
-          "title": "Fun Short",
-          "tiktok_views": 1000000,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/eMsOP8u_G70/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-11T01:09:04Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7640181908097355021",
-          "youtube_id": "cql8Z24wBDw",
-          "title": "Fun Short",
-          "tiktok_views": 1300000,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/cql8Z24wBDw/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-10T22:20:07Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7683235333076421902",
-          "youtube_id": "ZN83SQT-bYI",
-          "title": "\ud83c\udf7a Beer-Braised Beef with Creamy Parmesan Mashed Potatoes #BeerBraised...",
-          "tiktok_views": 39100,
-          "youtube_views": 5,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/ZN83SQT-bYI/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-10T07:10:11Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7668385467972291854",
-          "youtube_id": "af5ueoolFiE",
-          "title": "Fun Short",
-          "tiktok_views": 1300000,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/af5ueoolFiE/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-08T19:15:42Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7682853233416785166",
-          "youtube_id": "QVcjQmHpXP8",
-          "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
-          "tiktok_views": 774200,
-          "youtube_views": 54,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-08T15:20:41Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7672466132040764686",
-          "youtube_id": "_nPHaeujxv0",
-          "title": "cheesy Broccoli Tart with Crispy bacon \ud83e\udd53 | Easy one pan recipe",
-          "tiktok_views": 1500000,
-          "youtube_views": 16,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/_nPHaeujxv0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-07T19:14:26Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7680253891153235214",
-          "youtube_id": "ZZUBRcApta8",
-          "title": "Cheesy Stuffed Meat Patties with Potatoes \ud83e\uddc0\ud83e\udd54 #StuffedMeatPatties #Eas...",
-          "tiktok_views": 881800,
-          "youtube_views": 11,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-07T15:16:52Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7667268605846752526",
-          "youtube_id": "V5annwPH0Is",
-          "title": "Fun Short",
-          "tiktok_views": 2500000,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/V5annwPH0Is/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-06T19:14:17Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7682120111880195341",
-          "youtube_id": "iyEKr8X5GEE",
-          "title": "Dark Beer Beef with Creamy Pickle Potato Salad #BeefRecipe #EasyDinne...",
-          "tiktok_views": 336500,
-          "youtube_views": 7,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/iyEKr8X5GEE/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-06T15:16:51Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7637584304318565646",
-          "youtube_id": "o5SexqEBXFw",
-          "title": "Crispy Chicken Petals with Creamy Cheddar Sauce #Chicken #Dinner #Coo...",
-          "tiktok_views": 3600000,
-          "youtube_views": 14,
-          "youtube_likes": 1,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/o5SexqEBXFw/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-05T19:13:33Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7681744516734274830",
-          "youtube_id": "H5ph_RXAj5Y",
-          "title": "Strawberry Puff Pastry Cake \ud83c\udf53\u2728 The Layered Dessert You Need to Try! \ud83d\udd25...",
-          "tiktok_views": 89400,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/H5ph_RXAj5Y/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-05T15:16:51Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7634984663592799502",
-          "youtube_id": "GibB4tdu1e0",
-          "title": "Fun Short",
-          "tiktok_views": 3800000,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/GibB4tdu1e0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-04T19:12:39Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7681371896209755405",
-          "youtube_id": "b4-QdrGc2-g",
-          "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
-          "tiktok_views": 5309,
-          "youtube_views": 8,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-04T15:16:12Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7676918235106757901",
-          "youtube_id": "KHZ15IsYo14",
-          "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
-          "tiktok_views": 4000000,
-          "youtube_views": 24,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-03T19:15:09Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7680998487130967309",
-          "youtube_id": "78EkdGFRBp4",
-          "title": "Crispy Garlic Fried Chicken Drumsticks \ud83c\udf57\ud83d\udd25 #FriedChicken #ChickenRecip...",
-          "tiktok_views": 9242,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/78EkdGFRBp4/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-03T15:17:23Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7639439855839218957",
-          "youtube_id": "3RMF7dypOD4",
-          "title": "Fun Short",
-          "tiktok_views": 4900000,
-          "youtube_views": 8,
-          "youtube_likes": 1,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/3RMF7dypOD4/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-02T19:14:09Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7680631623724928270",
-          "youtube_id": "6pTM9H1eLnY",
-          "title": "Puff Pastry Baked Apples with Nutella & Caramel \ud83c\udf4e  #BakedApples #Appl...",
-          "tiktok_views": 7936,
-          "youtube_views": 24,
-          "youtube_likes": 1,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/6pTM9H1eLnY/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-02T08:35:16Z"
         }
       ],
       "runs": [
@@ -1703,7 +884,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 0,
       "total_uploads": 2,
-      "total_views": 2,
+      "total_views": 0,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1752,7 +933,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-16T08:42:34Z"
+          "uploaded_at": "2026-09-16T08:43:02Z"
         },
         {
           "channel_id": "channel_3",
@@ -1796,7 +977,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-16T08:42:34Z"
+      "uploaded_at": "2026-09-16T08:43:02Z"
     },
     {
       "channel_id": "channel_3",
@@ -1861,7 +1042,7 @@
       "youtube_id": "KBGlJd1_GB0",
       "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
       "tiktok_views": 476800,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
@@ -2091,622 +1272,6 @@
       "thumbnail": "https://i.ytimg.com/vi/JwtdOq7sl4I/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-13T01:08:02Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7659455287425764622",
-      "youtube_id": "_VMXeCFsF6E",
-      "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
-      "tiktok_views": 371800,
-      "youtube_views": 363,
-      "youtube_likes": 2,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-12T23:38:58Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7657340886476492045",
-      "youtube_id": "0iNyvoUwVu0",
-      "title": "Fun Short",
-      "tiktok_views": 1000000,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/0iNyvoUwVu0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-12T22:20:57Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7684612468898860301",
-      "youtube_id": "wNqLCXRd67k",
-      "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet",
-      "tiktok_views": 2332,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/wNqLCXRd67k/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-12T17:15:58Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7684345064893500686",
-      "youtube_id": "-66iQZlh8Lk",
-      "title": "Cheesy Baked Chicken That\u2019s Seriously Delicious BakedChicken Chicke",
-      "tiktok_views": 15200,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/-66iQZlh8Lk/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-12T16:18:52Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7678685919834066190",
-      "youtube_id": "y15slAQPe6w",
-      "title": "Baby Saw Grandpa Walk and Immediately Said I Got This \ud83d\ude02 tiktokgrowth",
-      "tiktok_views": 485500,
-      "youtube_views": 4,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/y15slAQPe6w/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-12T02:09:30Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7663190414253378829",
-      "youtube_id": "kjK0O81Zne4",
-      "title": "Buttery Boiled Omelet Toast You Need to Try \ud83c\udf73\ud83e\udd56 BreakfastRecipe EggR",
-      "tiktok_views": 1000000,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/kjK0O81Zne4/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-12T01:07:50Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7679483110710463758",
-      "youtube_id": "8__A-X6lNDk",
-      "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19 tiktokgrowthc",
-      "tiktok_views": 490700,
-      "youtube_views": 4,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-11T23:39:52Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7670241146085444877",
-      "youtube_id": "Oa87vgbUaSU",
-      "title": "Fun Short",
-      "tiktok_views": 1000000,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/Oa87vgbUaSU/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-11T22:20:45Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7684295469756960013",
-      "youtube_id": "Okan6xJnNWE",
-      "title": "The Carrot Became a Walking Cane at the Farmers Market \ud83d\ude2d\ud83e\udd55 tiktokgrow",
-      "tiktok_views": 4753,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/Okan6xJnNWE/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-11T17:16:43Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7683965585339813134",
-      "youtube_id": "lZw2Y3LiD-M",
-      "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
-      "tiktok_views": 292200,
-      "youtube_views": 8,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-11T16:21:45Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7659745867984833805",
-      "youtube_id": "l0LMb2QAPUs",
-      "title": "She Did NOT Have To Expose Dad Like This \ud83d\ude02 tiktokgrowthchallenge ti",
-      "tiktok_views": 581600,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/l0LMb2QAPUs/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-11T02:09:18Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7672845202532371725",
-      "youtube_id": "eMsOP8u_G70",
-      "title": "Fun Short",
-      "tiktok_views": 1000000,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/eMsOP8u_G70/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-11T01:09:04Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7660178410517318926",
-      "youtube_id": "w4ZtImhPVG0",
-      "title": "Dad After Work\u2026 According to My Toddler \ud83d\ude2d tiktokgrowthchallenge tik",
-      "tiktok_views": 701800,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/w4ZtImhPVG0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-10T23:40:19Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7640181908097355021",
-      "youtube_id": "cql8Z24wBDw",
-      "title": "Fun Short",
-      "tiktok_views": 1300000,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/cql8Z24wBDw/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-10T22:20:07Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7683235333076421902",
-      "youtube_id": "ZN83SQT-bYI",
-      "title": "\ud83c\udf7a Beer-Braised Beef with Creamy Parmesan Mashed Potatoes #BeerBraised...",
-      "tiktok_views": 39100,
-      "youtube_views": 5,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/ZN83SQT-bYI/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-10T07:10:11Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7683521229898157342",
-      "youtube_id": "Ml1HFT47PEU",
-      "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #toddler #tik...",
-      "tiktok_views": 19200,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/Ml1HFT47PEU/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-10T07:05:47Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7668385467972291854",
-      "youtube_id": "af5ueoolFiE",
-      "title": "Fun Short",
-      "tiktok_views": 1300000,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/af5ueoolFiE/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-08T19:15:42Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7682853233416785166",
-      "youtube_id": "QVcjQmHpXP8",
-      "title": "Cheesy Ground Beef Potato Nests | Easy Comfort Food Recipe #GroundBee...",
-      "tiktok_views": 774200,
-      "youtube_views": 54,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-08T15:20:41Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7678008422230494477",
-      "youtube_id": "MTdV6Hav-Rs",
-      "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #tiktokgrowthchalle...",
-      "tiktok_views": 1300000,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/MTdV6Hav-Rs/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-08T00:04:09Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7682844448484560158",
-      "youtube_id": "ZFnEdIdb2ko",
-      "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f #...",
-      "tiktok_views": 1994,
-      "youtube_views": 10,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/ZFnEdIdb2ko/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-07T22:18:04Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7672466132040764686",
-      "youtube_id": "_nPHaeujxv0",
-      "title": "cheesy Broccoli Tart with Crispy bacon \ud83e\udd53 | Easy one pan recipe",
-      "tiktok_views": 1500000,
-      "youtube_views": 16,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/_nPHaeujxv0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-07T19:14:26Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7680253891153235214",
-      "youtube_id": "ZZUBRcApta8",
-      "title": "Cheesy Stuffed Meat Patties with Potatoes \ud83e\uddc0\ud83e\udd54 #StuffedMeatPatties #Eas...",
-      "tiktok_views": 881800,
-      "youtube_views": 11,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-07T15:16:52Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7656483424743492878",
-      "youtube_id": "TfSQslAQSEY",
-      "title": "Toddler Show daddy after work #funny #tiktok #viralvideo #viral #tikt...",
-      "tiktok_views": 1400000,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/TfSQslAQSEY/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-07T00:03:57Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7682391955413749005",
-      "youtube_id": "H3uE6swbEHY",
-      "title": "Grandpa has a shadow now and the shadow is 15 months old \ud83e\udd23 #tiktokgro...",
-      "tiktok_views": 5316,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/H3uE6swbEHY/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-06T22:17:57Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7667268605846752526",
-      "youtube_id": "V5annwPH0Is",
-      "title": "Fun Short",
-      "tiktok_views": 2500000,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/V5annwPH0Is/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-06T19:14:17Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7682120111880195341",
-      "youtube_id": "iyEKr8X5GEE",
-      "title": "Dark Beer Beef with Creamy Pickle Potato Salad #BeefRecipe #EasyDinne...",
-      "tiktok_views": 336500,
-      "youtube_views": 7,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/iyEKr8X5GEE/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-06T15:16:51Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7663464745680276749",
-      "youtube_id": "gsQp78UWoZw",
-      "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
-      "tiktok_views": 2000000,
-      "youtube_views": 14,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-06T00:04:07Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7682065782913682718",
-      "youtube_id": "7tG5erFwaZQ",
-      "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #tiktokgrowth...",
-      "tiktok_views": 6902,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/7tG5erFwaZQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-05T22:16:46Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7637584304318565646",
-      "youtube_id": "o5SexqEBXFw",
-      "title": "Crispy Chicken Petals with Creamy Cheddar Sauce #Chicken #Dinner #Coo...",
-      "tiktok_views": 3600000,
-      "youtube_views": 14,
-      "youtube_likes": 1,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/o5SexqEBXFw/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-05T19:13:33Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7681744516734274830",
-      "youtube_id": "H5ph_RXAj5Y",
-      "title": "Strawberry Puff Pastry Cake \ud83c\udf53\u2728 The Layered Dessert You Need to Try! \ud83d\udd25...",
-      "tiktok_views": 89400,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/H5ph_RXAj5Y/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-05T15:16:51Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7677261920088444174",
-      "youtube_id": "dqDNDVuIibA",
-      "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79 #foryo...",
-      "tiktok_views": 2800000,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/dqDNDVuIibA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-05T00:04:16Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7681648437833501966",
-      "youtube_id": "PaLcQYv70cc",
-      "title": "He Copied Every Single Step and Nobody Was Ready \ud83d\udc80\ud83d\ude2d #tiktokgrowthchal...",
-      "tiktok_views": 15500,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/PaLcQYv70cc/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-04T22:17:02Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7634984663592799502",
-      "youtube_id": "GibB4tdu1e0",
-      "title": "Fun Short",
-      "tiktok_views": 3800000,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/GibB4tdu1e0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-04T19:12:39Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7681371896209755405",
-      "youtube_id": "b4-QdrGc2-g",
-      "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
-      "tiktok_views": 5309,
-      "youtube_views": 8,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-04T15:16:12Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7677235005495446797",
-      "youtube_id": "yYZcQkQHknU",
-      "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
-      "tiktok_views": 3600000,
-      "youtube_views": 4,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-04T00:04:05Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7681339924221562126",
-      "youtube_id": "7y42u0-PBQM",
-      "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
-      "tiktok_views": 11200,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-03T22:17:15Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7676918235106757901",
-      "youtube_id": "KHZ15IsYo14",
-      "title": "Soft & Fluffy Homemade Sesame Buns \ud83e\udd6f\u2728 #HomemadeBread #SoftBuns #Bakin...",
-      "tiktok_views": 4000000,
-      "youtube_views": 24,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-03T19:15:09Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7680998487130967309",
-      "youtube_id": "78EkdGFRBp4",
-      "title": "Crispy Garlic Fried Chicken Drumsticks \ud83c\udf57\ud83d\udd25 #FriedChicken #ChickenRecip...",
-      "tiktok_views": 9242,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/78EkdGFRBp4/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-03T15:17:23Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7677190679428074765",
-      "youtube_id": "yyHs2FbbwXM",
-      "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
-      "tiktok_views": 4400000,
-      "youtube_views": 2,
-      "youtube_likes": 1,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-03T00:04:32Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7680972970247949581",
-      "youtube_id": "AFqVQt-mHZg",
-      "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet...",
-      "tiktok_views": 2803,
-      "youtube_views": 6,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/AFqVQt-mHZg/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-02T22:17:32Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7639439855839218957",
-      "youtube_id": "3RMF7dypOD4",
-      "title": "Fun Short",
-      "tiktok_views": 4900000,
-      "youtube_views": 8,
-      "youtube_likes": 1,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/3RMF7dypOD4/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-02T19:14:09Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7680631623724928270",
-      "youtube_id": "6pTM9H1eLnY",
-      "title": "Puff Pastry Baked Apples with Nutella & Caramel \ud83c\udf4e  #BakedApples #Appl...",
-      "tiktok_views": 7936,
-      "youtube_views": 24,
-      "youtube_likes": 1,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/6pTM9H1eLnY/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-02T08:35:16Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7680593673784020237",
-      "youtube_id": "8eEz1ehaSeg",
-      "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19  #tiktokgrowth...",
-      "tiktok_views": 5110,
-      "youtube_views": 12,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/8eEz1ehaSeg/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-02T06:06:57Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7680230295441771790",
-      "youtube_id": "iuE3f2WfSlI",
-      "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
-      "tiktok_views": 9430,
-      "youtube_views": 23,
-      "youtube_likes": 1,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-01T07:42:33Z"
     }
   ],
   "channel": {
@@ -2725,8 +1290,8 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 32,
-    "total_views": 470,
-    "total_likes": 4,
+    "total_views": 463,
+    "total_likes": 0,
     "upcoming": {
       "slot1": {
         "slot": 1,
@@ -2755,94 +1320,28 @@
     },
     "view_history": [
       {
-        "date": "2026-09-01",
-        "views": 23,
-        "uploads": 1,
-        "cumulative_views": 23
-      },
-      {
-        "date": "2026-09-02",
-        "views": 18,
-        "uploads": 2,
-        "cumulative_views": 41
-      },
-      {
-        "date": "2026-09-03",
-        "views": 4,
-        "uploads": 2,
-        "cumulative_views": 45
-      },
-      {
-        "date": "2026-09-04",
-        "views": 4,
-        "uploads": 2,
-        "cumulative_views": 49
-      },
-      {
-        "date": "2026-09-05",
-        "views": 3,
-        "uploads": 2,
-        "cumulative_views": 52
-      },
-      {
-        "date": "2026-09-06",
-        "views": 14,
-        "uploads": 2,
-        "cumulative_views": 66
-      },
-      {
-        "date": "2026-09-07",
-        "views": 10,
-        "uploads": 2,
-        "cumulative_views": 76
-      },
-      {
-        "date": "2026-09-08",
-        "views": 1,
-        "uploads": 1,
-        "cumulative_views": 77
-      },
-      {
-        "date": "2026-09-10",
-        "views": 3,
-        "uploads": 2,
-        "cumulative_views": 80
-      },
-      {
-        "date": "2026-09-11",
-        "views": 7,
-        "uploads": 3,
-        "cumulative_views": 87
-      },
-      {
-        "date": "2026-09-12",
-        "views": 367,
-        "uploads": 3,
-        "cumulative_views": 454
-      },
-      {
         "date": "2026-09-13",
         "views": 15,
         "uploads": 3,
-        "cumulative_views": 469
+        "cumulative_views": 15
       },
       {
         "date": "2026-09-14",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 470
+        "cumulative_views": 16
       },
       {
         "date": "2026-09-15",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 470
+        "cumulative_views": 16
       },
       {
         "date": "2026-09-16",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 470
+        "cumulative_views": 16
       }
     ],
     "videos": [
@@ -2985,314 +1484,6 @@
         "thumbnail": "https://i.ytimg.com/vi/qw0io39Ys4A/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-13T02:09:17Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7659455287425764622",
-        "youtube_id": "_VMXeCFsF6E",
-        "title": "She Copied Him a Little TOO Perfectly \ud83d\ude02 tiktokgrowthchallenge tikto",
-        "tiktok_views": 371800,
-        "youtube_views": 363,
-        "youtube_likes": 2,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-12T23:38:58Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7684612468898860301",
-        "youtube_id": "wNqLCXRd67k",
-        "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet",
-        "tiktok_views": 2332,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/wNqLCXRd67k/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-12T17:15:58Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7678685919834066190",
-        "youtube_id": "y15slAQPe6w",
-        "title": "Baby Saw Grandpa Walk and Immediately Said I Got This \ud83d\ude02 tiktokgrowth",
-        "tiktok_views": 485500,
-        "youtube_views": 4,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/y15slAQPe6w/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-12T02:09:30Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7679483110710463758",
-        "youtube_id": "8__A-X6lNDk",
-        "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19 tiktokgrowthc",
-        "tiktok_views": 490700,
-        "youtube_views": 4,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/8__A-X6lNDk/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-11T23:39:52Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7684295469756960013",
-        "youtube_id": "Okan6xJnNWE",
-        "title": "The Carrot Became a Walking Cane at the Farmers Market \ud83d\ude2d\ud83e\udd55 tiktokgrow",
-        "tiktok_views": 4753,
-        "youtube_views": 3,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/Okan6xJnNWE/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-11T17:16:43Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7659745867984833805",
-        "youtube_id": "l0LMb2QAPUs",
-        "title": "She Did NOT Have To Expose Dad Like This \ud83d\ude02 tiktokgrowthchallenge ti",
-        "tiktok_views": 581600,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/l0LMb2QAPUs/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-11T02:09:18Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7660178410517318926",
-        "youtube_id": "w4ZtImhPVG0",
-        "title": "Dad After Work\u2026 According to My Toddler \ud83d\ude2d tiktokgrowthchallenge tik",
-        "tiktok_views": 701800,
-        "youtube_views": 3,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/w4ZtImhPVG0/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-10T23:40:19Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7683521229898157342",
-        "youtube_id": "Ml1HFT47PEU",
-        "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #toddler #tik...",
-        "tiktok_views": 19200,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/Ml1HFT47PEU/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-10T07:05:47Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7678008422230494477",
-        "youtube_id": "MTdV6Hav-Rs",
-        "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #tiktokgrowthchalle...",
-        "tiktok_views": 1300000,
-        "youtube_views": 1,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/MTdV6Hav-Rs/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-08T00:04:09Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7682844448484560158",
-        "youtube_id": "ZFnEdIdb2ko",
-        "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f #...",
-        "tiktok_views": 1994,
-        "youtube_views": 10,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/ZFnEdIdb2ko/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-07T22:18:04Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7656483424743492878",
-        "youtube_id": "TfSQslAQSEY",
-        "title": "Toddler Show daddy after work #funny #tiktok #viralvideo #viral #tikt...",
-        "tiktok_views": 1400000,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/TfSQslAQSEY/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-07T00:03:57Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7682391955413749005",
-        "youtube_id": "H3uE6swbEHY",
-        "title": "Grandpa has a shadow now and the shadow is 15 months old \ud83e\udd23 #tiktokgro...",
-        "tiktok_views": 5316,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/H3uE6swbEHY/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-06T22:17:57Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7663464745680276749",
-        "youtube_id": "gsQp78UWoZw",
-        "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
-        "tiktok_views": 2000000,
-        "youtube_views": 14,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-06T00:04:07Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7682065782913682718",
-        "youtube_id": "7tG5erFwaZQ",
-        "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #tiktokgrowth...",
-        "tiktok_views": 6902,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/7tG5erFwaZQ/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-05T22:16:46Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7677261920088444174",
-        "youtube_id": "dqDNDVuIibA",
-        "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79 #foryo...",
-        "tiktok_views": 2800000,
-        "youtube_views": 3,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/dqDNDVuIibA/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-05T00:04:16Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7681648437833501966",
-        "youtube_id": "PaLcQYv70cc",
-        "title": "He Copied Every Single Step and Nobody Was Ready \ud83d\udc80\ud83d\ude2d #tiktokgrowthchal...",
-        "tiktok_views": 15500,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/PaLcQYv70cc/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-04T22:17:02Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7677235005495446797",
-        "youtube_id": "yYZcQkQHknU",
-        "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
-        "tiktok_views": 3600000,
-        "youtube_views": 4,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-04T00:04:05Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7681339924221562126",
-        "youtube_id": "7y42u0-PBQM",
-        "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
-        "tiktok_views": 11200,
-        "youtube_views": 2,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-03T22:17:15Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7677190679428074765",
-        "youtube_id": "yyHs2FbbwXM",
-        "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
-        "tiktok_views": 4400000,
-        "youtube_views": 2,
-        "youtube_likes": 1,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-03T00:04:32Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7680972970247949581",
-        "youtube_id": "AFqVQt-mHZg",
-        "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet...",
-        "tiktok_views": 2803,
-        "youtube_views": 6,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/AFqVQt-mHZg/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-02T22:17:32Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7680593673784020237",
-        "youtube_id": "8eEz1ehaSeg",
-        "title": "Baby Followed Grandpa All the Way Out the Back Door \ud83d\ude02\ud83c\udf19  #tiktokgrowth...",
-        "tiktok_views": 5110,
-        "youtube_views": 12,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/8eEz1ehaSeg/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-02T06:06:57Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7680230295441771790",
-        "youtube_id": "iuE3f2WfSlI",
-        "title": "Baby Did the Full Morning Zombie Shuffle Behind Grandpa \ud83d\ude02\u2615 #tiktokgro...",
-        "tiktok_views": 9430,
-        "youtube_views": 23,
-        "youtube_likes": 1,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/iuE3f2WfSlI/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-01T07:42:33Z"
       }
     ],
     "runs": [
@@ -3500,8 +1691,8 @@
   },
   "kpis": {
     "total_uploads": 66,
-    "total_views": 753,
-    "total_likes": 7,
+    "total_views": 723,
+    "total_likes": 0,
     "videos_per_day": 9
   },
   "upcoming": {
@@ -3732,5 +1923,5 @@
       "created_at": "2026-09-09T22:16:55.074438+00:00"
     }
   ],
-  "last_updated": "2026-09-16T08:42:48.837913+00:00"
+  "last_updated": "2026-09-16T08:55:58.948392+00:00"
 }
