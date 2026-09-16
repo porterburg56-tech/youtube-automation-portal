@@ -80,6 +80,7 @@
 
     .graph-card.ch1::before { background: linear-gradient(90deg, var(--accent-red), #ff6b8a); }
     .graph-card.ch2::before { background: linear-gradient(90deg, var(--accent-gold), #ffcc66); }
+    .graph-card.ch3::before { background: linear-gradient(90deg, #d63384, #ff85c0); }
     .graph-card.master::before { background: linear-gradient(90deg, var(--accent-purple), var(--accent-cyan)); }
 
     .graph-card-full {
@@ -548,6 +549,12 @@
       border: 1px solid rgba(255, 170, 0, 0.25);
     }
 
+    .slot-tag.tag-ch3 {
+      background: rgba(214, 51, 132, 0.12);
+      color: #ff85c0;
+      border: 1px solid rgba(214, 51, 132, 0.25);
+    }
+
     .upcoming-timer-box {
       background: rgba(0, 0, 0, 0.25);
       border: 1px solid var(--border-color);
@@ -694,6 +701,12 @@
       border: 1px solid rgba(255, 170, 0, 0.3);
     }
 
+    .channel-badge-ch3 {
+      background: rgba(214, 51, 132, 0.15);
+      color: #ff85c0;
+      border: 1px solid rgba(214, 51, 132, 0.3);
+    }
+
     .stat-pill {
       font-family: 'Outfit', sans-serif;
       font-size: 15px;
@@ -793,6 +806,10 @@
           <span>🍳</span> Taste & Tales
           <span class="tab-badge" id="badgeCh2">0</span>
         </button>
+        <button class="channel-tab" id="tab_channel_3" onclick="selectChannel('channel_3')">
+          <span>💅</span> Oddly Satisfying Nails
+          <span class="tab-badge" id="badgeCh3">0</span>
+        </button>
       </div>
       <div class="network-badge">
         <span>⚡ 0 Collision Guarantee Active</span>
@@ -850,6 +867,7 @@
           <div class="graph-legend">
             <div class="graph-legend-item"><div class="legend-dot" style="background:#ff0033"></div> Fun With Grandpaa</div>
             <div class="graph-legend-item"><div class="legend-dot" style="background:#ffaa00"></div> Taste &amp; Tales</div>
+            <div class="graph-legend-item"><div class="legend-dot" style="background:#d63384"></div> Oddly Satisfying Nails</div>
             <div class="graph-legend-item"><div class="legend-dot" style="background:#8a2be2"></div> Network Total</div>
           </div>
         </div>
@@ -885,6 +903,23 @@
           </div>
           <div class="graph-canvas-wrap">
             <canvas id="ch2Chart"></canvas>
+          </div>
+        </div>
+
+        <!-- Channel 3 Line Graph -->
+        <div class="graph-card ch3" id="ch3GraphCard">
+          <div class="graph-header">
+            <div>
+              <div class="graph-title">💅 Oddly Satisfying Nails</div>
+              <div class="graph-subtitle">Daily cumulative views</div>
+            </div>
+            <div class="graph-stat-pill">
+              <div class="graph-stat-value" id="ch3TotalViews">—</div>
+              <div class="graph-stat-label">Total Views</div>
+            </div>
+          </div>
+          <div class="graph-canvas-wrap">
+            <canvas id="ch3Chart"></canvas>
           </div>
         </div>
 
@@ -1057,14 +1092,17 @@
       const allVideos = portalData.videos || [];
       const ch1 = channels.channel_1 || {};
       const ch2 = channels.channel_2 || {};
+      const ch3 = channels.channel_3 || {};
 
       // 1. Update Channel Badges
       const badgeAll = document.getElementById('badgeAll');
       const badgeCh1 = document.getElementById('badgeCh1');
       const badgeCh2 = document.getElementById('badgeCh2');
+      const badgeCh3 = document.getElementById('badgeCh3');
       if (badgeAll) badgeAll.textContent = allVideos.length;
       if (badgeCh1) badgeCh1.textContent = (ch1.videos || []).length;
       if (badgeCh2) badgeCh2.textContent = (ch2.videos || []).length;
+      if (badgeCh3) badgeCh3.textContent = (ch3.videos || []).length;
 
       // 2. Header & Branding
       const avatarEl = document.getElementById('headerAvatar');
@@ -1077,7 +1115,7 @@
         avatarEl.innerHTML = '🌐';
         avatarEl.style.background = 'linear-gradient(135deg, var(--accent-purple), var(--accent-cyan))';
         titleEl.innerHTML = `Multi-Channel Automation Network <span class="badge-live"><span class="pulse-dot"></span> 24/7 Automation Live</span>`;
-        subEl.innerHTML = `<span>Active Channels: <strong>2 Channels Online</strong></span> <span>•</span> <span>Combined Schedule: <strong>6 Uploads / Day</strong></span>`;
+        subEl.innerHTML = `<span>Active Channels: <strong>3 Channels Online</strong></span> <span>•</span> <span>Combined Schedule: <strong>9 Uploads / Day</strong></span>`;
         visitBtn.href = "https://www.youtube.com/@FunWithGrandpaa";
         visitText.textContent = "Visit Channels";
       } else if (activeChannelFilter === 'channel_1') {
@@ -1102,6 +1140,17 @@
         subEl.innerHTML = `<span>YouTube: <strong>${ch2.handle || '@tastetales-b2z'}</strong></span> <span>•</span> <span>TikTok Source: <strong>@${ch2.tiktok_source || 'dailychefstories'}</strong></span>`;
         visitBtn.href = ch2.url || "https://www.youtube.com/channel/UCm_Kob5IQbOT33pqMc1GcUw";
         visitText.textContent = "Visit Channel";
+      } else if (activeChannelFilter === 'channel_3') {
+        if (ch3.avatar) {
+          avatarEl.innerHTML = `<img src="${ch3.avatar}" alt="Avatar">`;
+        } else {
+          avatarEl.textContent = ch3.avatar_letter || 'N';
+        }
+        avatarEl.style.background = 'linear-gradient(135deg, #d63384, #ff85c0)';
+        titleEl.innerHTML = `${ch3.name || 'Oddly Satisfying Nails'} <span class="badge-live"><span class="pulse-dot"></span> 24/7 Automation Live</span>`;
+        subEl.innerHTML = `<span>YouTube: <strong>${ch3.handle || '@OddlySatisfyingNails'}</strong></span> <span>•</span> <span>Source: <strong>Google Drive Sequential Queue</strong></span>`;
+        visitBtn.href = ch3.url || "https://www.youtube.com/channel/UCt8Ub_XMtHVe5ETg_DaLwaw";
+        visitText.textContent = "Visit Channel";
       }
 
       // 3. KPI Cards
@@ -1114,11 +1163,11 @@
 
       if (activeChannelFilter === 'all') {
         kpiUploads.textContent = cumulative.total_uploads !== undefined ? cumulative.total_uploads : allVideos.length;
-        kpiUploadsSub.textContent = "Across 2 active channels";
+        kpiUploadsSub.textContent = "Across 3 active channels";
         kpiViews.textContent = (cumulative.total_views || 0).toLocaleString();
         kpiViewsSub.textContent = "Cumulative network views";
-        kpiSchedule.textContent = cumulative.videos_per_day ? cumulative.videos_per_day + " / Day" : "6 / Day";
-        kpiScheduleSub.textContent = "6 Non-Colliding Daily Slots (USA ET)";
+        kpiSchedule.textContent = cumulative.videos_per_day ? cumulative.videos_per_day + " / Day" : "9 / Day";
+        kpiScheduleSub.textContent = "9 Non-Colliding Daily Slots (USA ET)";
       } else if (activeChannelFilter === 'channel_1') {
         kpiUploads.textContent = ch1.total_uploads !== undefined ? ch1.total_uploads : (ch1.videos || []).length;
         kpiUploadsSub.textContent = "Published by Fun With Grandpaa";
@@ -1133,10 +1182,17 @@
         kpiViewsSub.textContent = "Channel total views";
         kpiSchedule.textContent = "3 / Day";
         kpiScheduleSub.textContent = "11 AM · 5 PM · 8 PM ET";
+      } else if (activeChannelFilter === 'channel_3') {
+        kpiUploads.textContent = ch3.total_uploads !== undefined ? ch3.total_uploads : (ch3.videos || []).length;
+        kpiUploadsSub.textContent = "Published by Oddly Satisfying Nails";
+        kpiViews.textContent = (ch3.total_views || 0).toLocaleString();
+        kpiViewsSub.textContent = "Channel total views";
+        kpiSchedule.textContent = "3 / Day";
+        kpiScheduleSub.textContent = "1 PM · 6 PM · 9 PM ET";
       }
 
       // 4. Upcoming Queue Cards
-      renderUpcomingCards(ch1, ch2);
+      renderUpcomingCards(ch1, ch2, ch3);
 
       // 5. Video Table Rows
       renderVideoTable(allVideos);
@@ -1145,13 +1201,13 @@
       renderCharts();
     }
 
-    function renderUpcomingCards(ch1, ch2) {
+    function renderUpcomingCards(ch1, ch2, ch3) {
       const container = document.getElementById('upcomingGridContainer');
       if (!container) return;
 
       const todayUTC = new Date().toISOString().slice(0, 10);
 
-      // Build a flat list of all slots from both channels
+      // Build a flat list of all slots from channels
       const allSlots = [];
 
       const pushSlots = (chData, icon, tagClass, badgeStyle) => {
@@ -1179,6 +1235,10 @@
       if (activeChannelFilter === 'all' || activeChannelFilter === 'channel_1') {
         pushSlots(ch1, '👶', 'tag-ch1',
           'background: rgba(0,212,255,0.15); color: var(--accent-cyan); border-color: rgba(0,212,255,0.3);');
+      }
+      if (activeChannelFilter === 'all' || activeChannelFilter === 'channel_3') {
+        pushSlots(ch3, '💅', 'tag-ch3',
+          'background: rgba(214,51,132,0.15); color: #ff85c0; border-color: rgba(214,51,132,0.3);');
       }
 
       // Sort slots by their UTC fire time (ascending within the day)
@@ -1268,12 +1328,16 @@
       }
 
       if (filteredVideos.length === 0) {
+        const emptyIcon = activeChannelFilter === 'channel_3' ? '💅' : (activeChannelFilter === 'channel_2' ? '🍳' : '👶');
+        const nextInfo = activeChannelFilter === 'channel_3' 
+          ? 'Next automated upload scheduled at 1:00 PM US ET (17:00 UTC) directly from Google Drive queue!'
+          : (activeChannelFilter === 'channel_2' ? 'Next automated upload scheduled at 11:00 AM US ET (16:00 UTC) with auto-transcribed subtitles!' : 'Uploads running daily across scheduled slots.');
         tbody.innerHTML = `
           <tr>
             <td colspan="7" style="text-align: center; padding: 48px; color: var(--text-muted);">
-              <div style="font-size: 28px; margin-bottom: 8px;">🍳</div>
+              <div style="font-size: 28px; margin-bottom: 8px;">${emptyIcon}</div>
               <div style="font-size: 15px; font-weight: 600; color: var(--text-secondary);">No videos uploaded to this channel yet</div>
-              <div style="font-size: 12px; margin-top: 4px;">Next automated upload scheduled at 11:00 AM US ET (15:00 UTC) with auto-transcribed subtitles!</div>
+              <div style="font-size: 12px; margin-top: 4px;">${nextInfo}</div>
             </td>
           </tr>
         `;
@@ -1285,9 +1349,10 @@
         const row = document.createElement('tr');
         const dateStr = v.uploaded_at ? new Date(v.uploaded_at).toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' }) : 'Recent';
         const isCh1 = v.channel_id === 'channel_1';
-        const badgeClass = isCh1 ? 'channel-badge-ch1' : 'channel-badge-ch2';
-        const badgeIcon = isCh1 ? '👶' : '🍳';
-        const channelLabel = isCh1 ? 'Fun With Grandpaa' : 'Taste & Tales';
+        const isCh2 = v.channel_id === 'channel_2';
+        const badgeClass = isCh1 ? 'channel-badge-ch1' : (isCh2 ? 'channel-badge-ch2' : 'channel-badge-ch3');
+        const badgeIcon = isCh1 ? '👶' : (isCh2 ? '🍳' : '💅');
+        const channelLabel = isCh1 ? 'Fun With Grandpaa' : (isCh2 ? 'Taste & Tales' : 'Oddly Satisfying Nails');
 
         row.innerHTML = `
           <td>
@@ -1324,6 +1389,7 @@
     let masterChartInst = null;
     let ch1ChartInst    = null;
     let ch2ChartInst    = null;
+    let ch3ChartInst    = null;
 
     const CHART_DEFAULTS = {
       responsive: true,
@@ -1427,7 +1493,7 @@
       });
     }
 
-    function renderMasterChart(masterHistory, ch1History, ch2History) {
+    function renderMasterChart(masterHistory, ch1History, ch2History, ch3History) {
       const canvas = document.getElementById('masterChart');
       if (!canvas) return;
       const ctx = canvas.getContext('2d');
@@ -1436,17 +1502,20 @@
       const allDates = [...new Set([
         ...masterHistory.map(p => p.date),
         ...ch1History.map(p => p.date),
-        ...ch2History.map(p => p.date)
+        ...ch2History.map(p => p.date),
+        ...ch3History.map(p => p.date)
       ])].sort();
 
       const ch1Map = Object.fromEntries(ch1History.map(p => [p.date, p.cumulative_views]));
       const ch2Map = Object.fromEntries(ch2History.map(p => [p.date, p.cumulative_views]));
+      const ch3Map = Object.fromEntries(ch3History.map(p => [p.date, p.cumulative_views]));
       const totMap = Object.fromEntries(masterHistory.map(p => [p.date, p.total_views]));
 
       const labels   = allDates.map(d => labelDate(d));
       const ch1Data  = allDates.map(d => ch1Map[d] || 0);
       const ch2Data  = allDates.map(d => ch2Map[d] || 0);
-      const totData  = allDates.map(d => totMap[d] || ((ch1Map[d]||0) + (ch2Map[d]||0)));
+      const ch3Data  = allDates.map(d => ch3Map[d] || 0);
+      const totData  = allDates.map(d => totMap[d] || ((ch1Map[d]||0) + (ch2Map[d]||0) + (ch3Map[d]||0)));
 
       // Update header stat
       const masterTotalEl = document.getElementById('masterTotalViews');
@@ -1458,12 +1527,13 @@
       const ds = [
         buildLineDataset('Fun With Grandpaa', ch1Data, 'rgb(255, 0, 51)', ctx),
         buildLineDataset('Taste & Tales',     ch2Data, 'rgb(255, 170, 0)', ctx),
+        buildLineDataset('Oddly Satisfying Nails', ch3Data, 'rgb(214, 51, 132)', ctx),
         buildLineDataset('Network Total',     totData, 'rgb(138, 43, 226)', ctx),
       ];
       // Network total: no fill, bolder
-      ds[2].fill = false;
-      ds[2].borderWidth = 2.5;
-      ds[2].borderDash = [5, 3];
+      ds[3].fill = false;
+      ds[3].borderWidth = 2.5;
+      ds[3].borderDash = [5, 3];
 
       if (masterChartInst) {
         masterChartInst.data.labels = labels;
@@ -1499,13 +1569,15 @@
       if (!portalData) return;
       const ch1 = (portalData.channels || {}).channel_1 || {};
       const ch2 = (portalData.channels || {}).channel_2 || {};
+      const ch3 = (portalData.channels || {}).channel_3 || {};
       const ch1History = ch1.view_history || [];
       const ch2History = ch2.view_history || [];
+      const ch3History = ch3.view_history || [];
       const masterHistory = portalData.master_view_history || [];
 
       // Master chart — always visible
-      if (masterHistory.length || ch1History.length || ch2History.length) {
-        renderMasterChart(masterHistory, ch1History, ch2History);
+      if (masterHistory.length || ch1History.length || ch2History.length || ch3History.length) {
+        renderMasterChart(masterHistory, ch1History, ch2History, ch3History);
       } else {
         showEmptyChart('masterChart', 'Views data will appear once videos are published.');
       }
@@ -1526,6 +1598,15 @@
         const ch2El = document.getElementById('ch2TotalViews');
         if (ch2El) ch2El.textContent = '—';
         showEmptyChart('ch2Chart', 'No data yet — first video will appear here.');
+      }
+
+      // Channel 3 chart
+      if (ch3History.length) {
+        ch3ChartInst = renderChannelChart('ch3Chart', ch3ChartInst, ch3History, 'rgb(214, 51, 132)', 'Oddly Satisfying Nails', 'ch3TotalViews');
+      } else {
+        const ch3El = document.getElementById('ch3TotalViews');
+        if (ch3El) ch3El.textContent = '—';
+        showEmptyChart('ch3Chart', 'No data yet — first video will appear here.');
       }
     }
 
