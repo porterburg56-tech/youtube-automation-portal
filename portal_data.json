@@ -1744,15 +1744,15 @@
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
           "tiktok_id": "1dbdAHzFOicG0sTFTjGlGPt5h9x_0US1p",
-          "youtube_id": "I5jxCzZEah8",
-          "title": "02 Generated video \ud83d\udc85 #shorts",
+          "youtube_id": "POwv_169GCk",
+          "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
           "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/I5jxCzZEah8/hqdefault.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-16T08:39:26Z"
+          "uploaded_at": "2026-09-16T08:42:34Z"
         },
         {
           "channel_id": "channel_3",
@@ -1771,24 +1771,14 @@
       ],
       "runs": [
         {
-          "id": 2,
+          "id": 3,
           "channel_id": "channel_3",
           "slot": 1,
           "run_date": "2026-09-16",
           "status": "success",
-          "video_id": "I5jxCzZEah8",
+          "video_id": "POwv_169GCk",
           "error_message": null,
-          "created_at": "2026-09-16T08:39:32.097447+00:00"
-        },
-        {
-          "id": 1,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-09-16",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "'charmap' codec can't encode character '\\U0001f485' in position 52: character maps to <undefined>",
-          "created_at": "2026-09-16T08:38:44.893679+00:00"
+          "created_at": "2026-09-16T08:42:40.907628+00:00"
         }
       ]
     }
@@ -1798,15 +1788,15 @@
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1dbdAHzFOicG0sTFTjGlGPt5h9x_0US1p",
-      "youtube_id": "I5jxCzZEah8",
-      "title": "02 Generated video \ud83d\udc85 #shorts",
+      "youtube_id": "POwv_169GCk",
+      "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
       "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/I5jxCzZEah8/hqdefault.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-16T08:39:26Z"
+      "uploaded_at": "2026-09-16T08:42:34Z"
     },
     {
       "channel_id": "channel_3",
@@ -3742,5 +3732,5 @@
       "created_at": "2026-09-09T22:16:55.074438+00:00"
     }
   ],
-  "last_updated": "2026-09-16T08:39:40.616071+00:00"
+  "last_updated": "2026-09-16T08:42:48.837913+00:00"
 }
