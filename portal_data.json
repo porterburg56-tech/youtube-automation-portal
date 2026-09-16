@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 66,
+    "total_uploads": 67,
     "total_views": 723,
-    "total_likes": 4,
+    "total_likes": 6,
     "total_subscribers": 3,
     "channels_count": 3,
     "videos_per_day": 9
@@ -67,44 +67,44 @@
     {
       "date": "2026-09-11",
       "ch1_views": 52,
-      "ch2_views": 152,
+      "ch2_views": 153,
       "ch3_views": 0,
-      "total_views": 204
+      "total_views": 205
     },
     {
       "date": "2026-09-12",
       "ch1_views": 419,
-      "ch2_views": 157,
+      "ch2_views": 161,
       "ch3_views": 0,
-      "total_views": 576
+      "total_views": 580
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 434,
-      "ch2_views": 192,
+      "ch1_views": 435,
+      "ch2_views": 197,
       "ch3_views": 0,
-      "total_views": 626
+      "total_views": 632
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 435,
-      "ch2_views": 229,
+      "ch1_views": 436,
+      "ch2_views": 237,
       "ch3_views": 0,
-      "total_views": 664
+      "total_views": 673
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 435,
-      "ch2_views": 250,
+      "ch1_views": 437,
+      "ch2_views": 269,
       "ch3_views": 0,
-      "total_views": 685
+      "total_views": 706
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 435,
-      "ch2_views": 250,
-      "ch3_views": 2,
-      "total_views": 687
+      "ch1_views": 437,
+      "ch2_views": 269,
+      "ch3_views": 47,
+      "total_views": 753
     }
   ],
   "channels": {
@@ -215,27 +215,27 @@
         },
         {
           "date": "2026-09-13",
-          "views": 15,
+          "views": 16,
           "uploads": 3,
-          "cumulative_views": 434
+          "cumulative_views": 435
         },
         {
           "date": "2026-09-14",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 435
+          "cumulative_views": 436
         },
         {
           "date": "2026-09-15",
-          "views": 0,
+          "views": 1,
           "uploads": 3,
-          "cumulative_views": 435
+          "cumulative_views": 437
         },
         {
           "date": "2026-09-16",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 435
+          "cumulative_views": 437
         }
       ],
       "videos": [
@@ -274,7 +274,7 @@
           "youtube_id": "gt7-Mlw4bt8",
           "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 ti",
           "tiktok_views": 1800,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/gt7-Mlw4bt8/hqdefault.jpg",
@@ -344,7 +344,7 @@
           "youtube_id": "KDPtkxSf2LE",
           "title": "This Tiny Dad Impression Is Way Too Accurate \ud83d\ude02 tiktokgrowthchallenge",
           "tiktok_views": 311900,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KDPtkxSf2LE/hqdefault.jpg",
@@ -878,7 +878,7 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 32,
+      "total_uploads": 33,
       "total_views": 260,
       "total_likes": 1,
       "upcoming": {
@@ -952,39 +952,39 @@
         },
         {
           "date": "2026-09-11",
-          "views": 9,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 152
+          "cumulative_views": 153
         },
         {
           "date": "2026-09-12",
-          "views": 5,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 157
+          "cumulative_views": 161
         },
         {
           "date": "2026-09-13",
-          "views": 35,
+          "views": 36,
           "uploads": 3,
-          "cumulative_views": 192
+          "cumulative_views": 197
         },
         {
           "date": "2026-09-14",
-          "views": 37,
+          "views": 40,
           "uploads": 3,
-          "cumulative_views": 229
+          "cumulative_views": 237
         },
         {
           "date": "2026-09-15",
-          "views": 21,
+          "views": 32,
           "uploads": 3,
-          "cumulative_views": 250
+          "cumulative_views": 269
         },
         {
           "date": "2026-09-16",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 250
+          "cumulative_views": 269
         }
       ],
       "videos": [
@@ -1009,7 +1009,7 @@
           "youtube_id": "KBGlJd1_GB0",
           "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
           "tiktok_views": 476800,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
@@ -1023,7 +1023,7 @@
           "youtube_id": "0yLRz-J0Xf8",
           "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
           "tiktok_views": 207400,
-          "youtube_views": 8,
+          "youtube_views": 16,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
@@ -1037,7 +1037,7 @@
           "youtube_id": "2IV8GtDAWgE",
           "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
           "tiktok_views": 598400,
-          "youtube_views": 11,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
@@ -1051,7 +1051,7 @@
           "youtube_id": "cTLcefQUb7k",
           "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
           "tiktok_views": 633700,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1065,7 +1065,7 @@
           "youtube_id": "IwaBIQwrlus",
           "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
           "tiktok_views": 13800,
-          "youtube_views": 6,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -1121,7 +1121,7 @@
           "youtube_id": "JwtdOq7sl4I",
           "title": "frozen chocolate Banana Dessert with Creamy Caramel filling",
           "tiktok_views": 881700,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/JwtdOq7sl4I/hqdefault.jpg",
@@ -1135,7 +1135,7 @@
           "youtube_id": "0iNyvoUwVu0",
           "title": "Fun Short",
           "tiktok_views": 1000000,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/0iNyvoUwVu0/hqdefault.jpg",
@@ -1149,7 +1149,7 @@
           "youtube_id": "-66iQZlh8Lk",
           "title": "Cheesy Baked Chicken That\u2019s Seriously Delicious BakedChicken Chicke",
           "tiktok_views": 15200,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-66iQZlh8Lk/hqdefault.jpg",
@@ -1163,7 +1163,7 @@
           "youtube_id": "kjK0O81Zne4",
           "title": "Buttery Boiled Omelet Toast You Need to Try \ud83c\udf73\ud83e\udd56 BreakfastRecipe EggR",
           "tiktok_views": 1000000,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/kjK0O81Zne4/hqdefault.jpg",
@@ -1191,7 +1191,7 @@
           "youtube_id": "lZw2Y3LiD-M",
           "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
           "tiktok_views": 292200,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
@@ -1411,6 +1411,16 @@
       ],
       "runs": [
         {
+          "id": 36,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-16",
+          "status": "success",
+          "video_id": "TRaOzblj_aI",
+          "error_message": null,
+          "created_at": "2026-09-16T16:20:15.461544+00:00"
+        },
+        {
           "id": 35,
           "channel_id": "channel_2",
           "slot": 3,
@@ -1599,16 +1609,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-09T19:14:29.585620+00:00"
-        },
-        {
-          "id": 16,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-09",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-09T15:16:11.031608+00:00"
         }
       ]
     },
@@ -1629,7 +1629,7 @@
       "subscribers": 0,
       "total_uploads": 2,
       "total_views": 0,
-      "total_likes": 0,
+      "total_likes": 2,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1659,9 +1659,9 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 2,
+          "views": 47,
           "uploads": 2,
-          "cumulative_views": 2
+          "cumulative_views": 47
         }
       ],
       "videos": [
@@ -1672,8 +1672,8 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 0,
-          "youtube_likes": 0,
+          "youtube_views": 44,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
           "status": "uploaded",
@@ -1686,8 +1686,8 @@
           "youtube_id": "BOYWYj2Iix8",
           "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
           "tiktok_views": 0,
-          "youtube_views": 2,
-          "youtube_likes": 0,
+          "youtube_views": 3,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
           "status": "uploaded",
@@ -1716,8 +1716,8 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
+      "youtube_views": 44,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
       "status": "uploaded",
@@ -1730,8 +1730,8 @@
       "youtube_id": "BOYWYj2Iix8",
       "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
       "tiktok_views": 0,
-      "youtube_views": 2,
-      "youtube_likes": 0,
+      "youtube_views": 3,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
       "status": "uploaded",
@@ -1786,7 +1786,7 @@
       "youtube_id": "KBGlJd1_GB0",
       "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
       "tiktok_views": 476800,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
@@ -1800,7 +1800,7 @@
       "youtube_id": "gt7-Mlw4bt8",
       "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 ti",
       "tiktok_views": 1800,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/gt7-Mlw4bt8/hqdefault.jpg",
@@ -1814,7 +1814,7 @@
       "youtube_id": "0yLRz-J0Xf8",
       "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
       "tiktok_views": 207400,
-      "youtube_views": 8,
+      "youtube_views": 16,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
@@ -1842,7 +1842,7 @@
       "youtube_id": "2IV8GtDAWgE",
       "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
       "tiktok_views": 598400,
-      "youtube_views": 11,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
@@ -1870,7 +1870,7 @@
       "youtube_id": "cTLcefQUb7k",
       "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
       "tiktok_views": 633700,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1898,7 +1898,7 @@
       "youtube_id": "IwaBIQwrlus",
       "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
       "tiktok_views": 13800,
-      "youtube_views": 6,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -1940,7 +1940,7 @@
       "youtube_id": "KDPtkxSf2LE",
       "title": "This Tiny Dad Impression Is Way Too Accurate \ud83d\ude02 tiktokgrowthchallenge",
       "tiktok_views": 311900,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KDPtkxSf2LE/hqdefault.jpg",
@@ -2010,7 +2010,7 @@
       "youtube_id": "JwtdOq7sl4I",
       "title": "frozen chocolate Banana Dessert with Creamy Caramel filling",
       "tiktok_views": 881700,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/JwtdOq7sl4I/hqdefault.jpg",
@@ -2038,7 +2038,7 @@
       "youtube_id": "0iNyvoUwVu0",
       "title": "Fun Short",
       "tiktok_views": 1000000,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/0iNyvoUwVu0/hqdefault.jpg",
@@ -2066,7 +2066,7 @@
       "youtube_id": "-66iQZlh8Lk",
       "title": "Cheesy Baked Chicken That\u2019s Seriously Delicious BakedChicken Chicke",
       "tiktok_views": 15200,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-66iQZlh8Lk/hqdefault.jpg",
@@ -2094,7 +2094,7 @@
       "youtube_id": "kjK0O81Zne4",
       "title": "Buttery Boiled Omelet Toast You Need to Try \ud83c\udf73\ud83e\udd56 BreakfastRecipe EggR",
       "tiktok_views": 1000000,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/kjK0O81Zne4/hqdefault.jpg",
@@ -2150,7 +2150,7 @@
       "youtube_id": "lZw2Y3LiD-M",
       "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
       "tiktok_views": 292200,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
@@ -2685,27 +2685,27 @@
       },
       {
         "date": "2026-09-13",
-        "views": 15,
+        "views": 16,
         "uploads": 3,
-        "cumulative_views": 434
+        "cumulative_views": 435
       },
       {
         "date": "2026-09-14",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 435
+        "cumulative_views": 436
       },
       {
         "date": "2026-09-15",
-        "views": 0,
+        "views": 1,
         "uploads": 3,
-        "cumulative_views": 435
+        "cumulative_views": 437
       },
       {
         "date": "2026-09-16",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 435
+        "cumulative_views": 437
       }
     ],
     "videos": [
@@ -2744,7 +2744,7 @@
         "youtube_id": "gt7-Mlw4bt8",
         "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 ti",
         "tiktok_views": 1800,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/gt7-Mlw4bt8/hqdefault.jpg",
@@ -2814,7 +2814,7 @@
         "youtube_id": "KDPtkxSf2LE",
         "title": "This Tiny Dad Impression Is Way Too Accurate \ud83d\ude02 tiktokgrowthchallenge",
         "tiktok_views": 311900,
-        "youtube_views": 4,
+        "youtube_views": 5,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/KDPtkxSf2LE/hqdefault.jpg",
@@ -3334,9 +3334,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 66,
+    "total_uploads": 67,
     "total_views": 723,
-    "total_likes": 4,
+    "total_likes": 6,
     "videos_per_day": 9
   },
   "upcoming": {
@@ -3567,5 +3567,5 @@
       "created_at": "2026-09-09T22:16:55.074438+00:00"
     }
   ],
-  "last_updated": "2026-09-16T08:59:38.395289+00:00"
+  "last_updated": "2026-09-16T16:20:18.947318+00:00"
 }
