@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 62,
-    "total_views": 735,
+    "total_uploads": 63,
+    "total_views": 739,
     "total_likes": 7,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -76,21 +76,27 @@
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 465,
+      "ch1_views": 467,
       "ch2_views": 223,
-      "total_views": 688
+      "total_views": 690
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 466,
+      "ch1_views": 467,
       "ch2_views": 259,
-      "total_views": 725
+      "total_views": 726
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 466,
-      "ch2_views": 269,
-      "total_views": 735
+      "ch1_views": 467,
+      "ch2_views": 272,
+      "total_views": 739
+    },
+    {
+      "date": "2026-09-16",
+      "ch1_views": 0,
+      "ch2_views": 272,
+      "total_views": 272
     }
   ],
   "channels": {
@@ -108,7 +114,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 31,
-      "total_views": 466,
+      "total_views": 467,
       "total_likes": 4,
       "upcoming": {
         "slot1": {
@@ -205,21 +211,21 @@
         },
         {
           "date": "2026-09-13",
-          "views": 9,
+          "views": 11,
           "uploads": 3,
-          "cumulative_views": 465
+          "cumulative_views": 467
         },
         {
           "date": "2026-09-14",
-          "views": 1,
+          "views": 0,
           "uploads": 3,
-          "cumulative_views": 466
+          "cumulative_views": 467
         },
         {
           "date": "2026-09-15",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 466
+          "cumulative_views": 467
         }
       ],
       "videos": [
@@ -235,7 +241,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Th3YRJwrTeo/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-15T23:40:03Z"
+          "uploaded_at": "2026-09-15T23:40:22Z"
         },
         {
           "channel_id": "channel_1",
@@ -300,7 +306,7 @@
           "youtube_id": "j72EKlx6t-I",
           "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
           "tiktok_views": 288400,
-          "youtube_views": 1,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
@@ -314,7 +320,7 @@
           "youtube_id": "KDPtkxSf2LE",
           "title": "This Tiny Dad Impression Is Way Too Accurate \ud83d\ude02 tiktokgrowthchallenge",
           "tiktok_views": 311900,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KDPtkxSf2LE/hqdefault.jpg",
@@ -874,8 +880,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 31,
-      "total_views": 269,
+      "total_uploads": 32,
+      "total_views": 272,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -978,12 +984,32 @@
         },
         {
           "date": "2026-09-15",
-          "views": 10,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 269
+          "cumulative_views": 272
+        },
+        {
+          "date": "2026-09-16",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 272
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7663919232085789965",
+          "youtube_id": "ZzaI1EsoqHE",
+          "title": "Cheesy Stuffed Puff Pastry Buns That Melt in Every Bite \ud83e\uddc0\ud83e\udd50 CheesyBu",
+          "tiktok_views": 628600,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/ZzaI1EsoqHE/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-16T01:08:26Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1005,7 +1031,7 @@
           "youtube_id": "0yLRz-J0Xf8",
           "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
           "tiktok_views": 207400,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
@@ -1019,7 +1045,7 @@
           "youtube_id": "2IV8GtDAWgE",
           "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
           "tiktok_views": 598400,
-          "youtube_views": 6,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
@@ -1421,6 +1447,16 @@
       ],
       "runs": [
         {
+          "id": 35,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-09-16",
+          "status": "success",
+          "video_id": "ZzaI1EsoqHE",
+          "error_message": null,
+          "created_at": "2026-09-16T01:08:36.763735+00:00"
+        },
+        {
           "id": 34,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1609,21 +1645,25 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-09T15:16:11.031608+00:00"
-        },
-        {
-          "id": 15,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-09-08",
-          "status": "success",
-          "video_id": "af5ueoolFiE",
-          "error_message": null,
-          "created_at": "2026-09-08T19:15:07.613269+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7663919232085789965",
+      "youtube_id": "ZzaI1EsoqHE",
+      "title": "Cheesy Stuffed Puff Pastry Buns That Melt in Every Bite \ud83e\uddc0\ud83e\udd50 CheesyBu",
+      "tiktok_views": 628600,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/ZzaI1EsoqHE/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-16T01:08:26Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -1636,7 +1676,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Th3YRJwrTeo/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-15T23:40:03Z"
+      "uploaded_at": "2026-09-15T23:40:22Z"
     },
     {
       "channel_id": "channel_2",
@@ -1673,7 +1713,7 @@
       "youtube_id": "0yLRz-J0Xf8",
       "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
       "tiktok_views": 207400,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
@@ -1701,7 +1741,7 @@
       "youtube_id": "2IV8GtDAWgE",
       "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
       "tiktok_views": 598400,
-      "youtube_views": 6,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
@@ -1771,7 +1811,7 @@
       "youtube_id": "j72EKlx6t-I",
       "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
       "tiktok_views": 288400,
-      "youtube_views": 1,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
@@ -1799,7 +1839,7 @@
       "youtube_id": "KDPtkxSf2LE",
       "title": "This Tiny Dad Impression Is Way Too Accurate \ud83d\ude02 tiktokgrowthchallenge",
       "tiktok_views": 311900,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KDPtkxSf2LE/hqdefault.jpg",
@@ -2507,7 +2547,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 31,
-    "total_views": 466,
+    "total_views": 467,
     "total_likes": 4,
     "upcoming": {
       "slot1": {
@@ -2604,21 +2644,21 @@
       },
       {
         "date": "2026-09-13",
-        "views": 9,
+        "views": 11,
         "uploads": 3,
-        "cumulative_views": 465
+        "cumulative_views": 467
       },
       {
         "date": "2026-09-14",
-        "views": 1,
+        "views": 0,
         "uploads": 3,
-        "cumulative_views": 466
+        "cumulative_views": 467
       },
       {
         "date": "2026-09-15",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 466
+        "cumulative_views": 467
       }
     ],
     "videos": [
@@ -2634,7 +2674,7 @@
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/Th3YRJwrTeo/hqdefault.jpg",
         "status": "uploaded",
-        "uploaded_at": "2026-09-15T23:40:03Z"
+        "uploaded_at": "2026-09-15T23:40:22Z"
       },
       {
         "channel_id": "channel_1",
@@ -2699,7 +2739,7 @@
         "youtube_id": "j72EKlx6t-I",
         "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
         "tiktok_views": 288400,
-        "youtube_views": 1,
+        "youtube_views": 0,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
@@ -2713,7 +2753,7 @@
         "youtube_id": "KDPtkxSf2LE",
         "title": "This Tiny Dad Impression Is Way Too Accurate \ud83d\ude02 tiktokgrowthchallenge",
         "tiktok_views": 311900,
-        "youtube_views": 0,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/KDPtkxSf2LE/hqdefault.jpg",
@@ -3261,8 +3301,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 62,
-    "total_views": 735,
+    "total_uploads": 63,
+    "total_views": 739,
     "total_likes": 7,
     "videos_per_day": 6
   },
@@ -3494,5 +3534,5 @@
       "created_at": "2026-09-09T00:03:54.524803+00:00"
     }
   ],
-  "last_updated": "2026-09-15T23:40:08.158496+00:00"
+  "last_updated": "2026-09-16T01:08:39.384810+00:00"
 }
