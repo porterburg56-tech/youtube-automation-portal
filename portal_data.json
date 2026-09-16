@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 67,
+    "total_uploads": 68,
     "total_views": 747,
     "total_likes": 6,
     "total_subscribers": 3,
@@ -81,30 +81,30 @@
     {
       "date": "2026-09-13",
       "ch1_views": 435,
-      "ch2_views": 196,
+      "ch2_views": 195,
       "ch3_views": 0,
-      "total_views": 631
+      "total_views": 630
     },
     {
       "date": "2026-09-14",
       "ch1_views": 436,
-      "ch2_views": 236,
+      "ch2_views": 238,
       "ch3_views": 0,
-      "total_views": 672
+      "total_views": 674
     },
     {
       "date": "2026-09-15",
       "ch1_views": 437,
-      "ch2_views": 268,
+      "ch2_views": 270,
       "ch3_views": 0,
-      "total_views": 705
+      "total_views": 707
     },
     {
       "date": "2026-09-16",
       "ch1_views": 437,
-      "ch2_views": 268,
+      "ch2_views": 271,
       "ch3_views": 52,
-      "total_views": 757
+      "total_views": 760
     }
   ],
   "channels": {
@@ -123,7 +123,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 32,
+      "total_uploads": 33,
       "total_views": 463,
       "total_likes": 3,
       "upcoming": {
@@ -662,6 +662,16 @@
       ],
       "runs": [
         {
+          "id": 38,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-16",
+          "status": "success",
+          "video_id": "9zwfhL4WrrQ",
+          "error_message": null,
+          "created_at": "2026-09-16T17:16:05.368693+00:00"
+        },
+        {
           "id": 37,
           "channel_id": "channel_1",
           "slot": 3,
@@ -850,16 +860,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-10T00:04:02.871405+00:00"
-        },
-        {
-          "id": 18,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-09",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-09T22:16:55.074438+00:00"
         }
       ]
     },
@@ -964,27 +964,27 @@
         },
         {
           "date": "2026-09-13",
-          "views": 37,
+          "views": 36,
           "uploads": 3,
-          "cumulative_views": 196
+          "cumulative_views": 195
         },
         {
           "date": "2026-09-14",
-          "views": 40,
+          "views": 43,
           "uploads": 3,
-          "cumulative_views": 236
+          "cumulative_views": 238
         },
         {
           "date": "2026-09-15",
           "views": 32,
           "uploads": 3,
-          "cumulative_views": 268
+          "cumulative_views": 270
         },
         {
           "date": "2026-09-16",
-          "views": 0,
+          "views": 1,
           "uploads": 2,
-          "cumulative_views": 268
+          "cumulative_views": 271
         }
       ],
       "videos": [
@@ -995,7 +995,7 @@
           "youtube_id": "TRaOzblj_aI",
           "title": "Blueberry Cream & Strawberry Puff Pastry Dessert \ud83e\uded0\ud83c\udf53 #shorts",
           "tiktok_views": 65500,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TRaOzblj_aI/hqdefault.jpg",
@@ -1065,7 +1065,7 @@
           "youtube_id": "cTLcefQUb7k",
           "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
           "tiktok_views": 633700,
-          "youtube_views": 9,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1121,7 +1121,7 @@
           "youtube_id": "tOagl_ZG9xk",
           "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
           "tiktok_views": 4086,
-          "youtube_views": 24,
+          "youtube_views": 23,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -1716,7 +1716,7 @@
       "youtube_id": "TRaOzblj_aI",
       "title": "Blueberry Cream & Strawberry Puff Pastry Dessert \ud83e\uded0\ud83c\udf53 #shorts",
       "tiktok_views": 65500,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TRaOzblj_aI/hqdefault.jpg",
@@ -1884,7 +1884,7 @@
       "youtube_id": "cTLcefQUb7k",
       "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
       "tiktok_views": 633700,
-      "youtube_views": 9,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1996,7 +1996,7 @@
       "youtube_id": "tOagl_ZG9xk",
       "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
       "tiktok_views": 4086,
-      "youtube_views": 24,
+      "youtube_views": 23,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -2593,7 +2593,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 32,
+    "total_uploads": 33,
     "total_views": 463,
     "total_likes": 3,
     "upcoming": {
@@ -3132,6 +3132,16 @@
     ],
     "runs": [
       {
+        "id": 38,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-16",
+        "status": "success",
+        "video_id": "9zwfhL4WrrQ",
+        "error_message": null,
+        "created_at": "2026-09-16T17:16:05.368693+00:00"
+      },
+      {
         "id": 37,
         "channel_id": "channel_1",
         "slot": 3,
@@ -3320,21 +3330,11 @@
         "video_id": null,
         "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "created_at": "2026-09-10T00:04:02.871405+00:00"
-      },
-      {
-        "id": 18,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-09",
-        "status": "failed",
-        "video_id": null,
-        "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "created_at": "2026-09-09T22:16:55.074438+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 67,
+    "total_uploads": 68,
     "total_views": 747,
     "total_likes": 6,
     "videos_per_day": 9
@@ -3366,6 +3366,16 @@
     }
   },
   "runs": [
+    {
+      "id": 38,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-16",
+      "status": "success",
+      "video_id": "9zwfhL4WrrQ",
+      "error_message": null,
+      "created_at": "2026-09-16T17:16:05.368693+00:00"
+    },
     {
       "id": 37,
       "channel_id": "channel_1",
@@ -3555,17 +3565,7 @@
       "video_id": null,
       "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
       "created_at": "2026-09-10T00:04:02.871405+00:00"
-    },
-    {
-      "id": 18,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-09",
-      "status": "failed",
-      "video_id": null,
-      "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-      "created_at": "2026-09-09T22:16:55.074438+00:00"
     }
   ],
-  "last_updated": "2026-09-16T17:04:24.658311+00:00"
+  "last_updated": "2026-09-16T17:16:09.119590+00:00"
 }
