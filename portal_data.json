@@ -1,11 +1,11 @@
 {
   "cumulative": {
-    "total_uploads": 64,
-    "total_views": 749,
+    "total_uploads": 65,
+    "total_views": 753,
     "total_likes": 7,
     "total_subscribers": 3,
-    "channels_count": 2,
-    "videos_per_day": 6
+    "channels_count": 3,
+    "videos_per_day": 9
   },
   "master_view_history": [
     {
@@ -89,14 +89,14 @@
     {
       "date": "2026-09-15",
       "ch1_views": 470,
-      "ch2_views": 279,
-      "total_views": 749
+      "ch2_views": 281,
+      "total_views": 751
     },
     {
       "date": "2026-09-16",
       "ch1_views": 470,
-      "ch2_views": 279,
-      "total_views": 749
+      "ch2_views": 281,
+      "total_views": 751
     }
   ],
   "channels": {
@@ -107,8 +107,10 @@
       "youtube_id": "UCsPVNs8qEAdMi8JWf0eqajQ",
       "url": "https://www.youtube.com/@FunWithGrandpaa",
       "owner": "porterburg56@gmail.com",
+      "source_type": "tiktok",
       "tiktok_source": "funnytoddle_r",
       "tiktok_url": "https://www.tiktok.com/@funnytoddle_r",
+      "drive_url": "",
       "avatar": "https://yt3.ggpht.com/CSPMv6TmBZcFxxmdVzjlL6d19Kqg6kL6euhGn2QHXfUOa0FORtbteOr4U0y9_BXe8BAXj2rt2w=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
@@ -874,14 +876,16 @@
       "youtube_id": "UCm_Kob5IQbOT33pqMc1GcUw",
       "url": "https://www.youtube.com/channel/UCm_Kob5IQbOT33pqMc1GcUw",
       "owner": "porterburg56@gmail.com",
+      "source_type": "tiktok",
       "tiktok_source": "dailychefstories",
       "tiktok_url": "https://www.tiktok.com/@dailychefstories",
+      "drive_url": "",
       "avatar": "https://yt3.ggpht.com/BzfrtPYNdc_HaeUp-BzMgQYBKQzMy8kzHQwtG7rtTR2XGjy4qb_K_Q2gI9A4HwplzX5C5ZrCzQ=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 32,
-      "total_views": 279,
+      "total_views": 281,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -984,15 +988,15 @@
         },
         {
           "date": "2026-09-15",
-          "views": 18,
+          "views": 20,
           "uploads": 3,
-          "cumulative_views": 279
+          "cumulative_views": 281
         },
         {
           "date": "2026-09-16",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 279
+          "cumulative_views": 281
         }
       ],
       "videos": [
@@ -1031,7 +1035,7 @@
           "youtube_id": "0yLRz-J0Xf8",
           "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
@@ -1617,9 +1621,93 @@
           "created_at": "2026-09-02T08:34:33.905971+00:00"
         }
       ]
+    },
+    "channel_3": {
+      "id": "channel_3",
+      "name": "Oddly Satisfying Nails",
+      "handle": "@oddlysatisfyingnails",
+      "youtube_id": "UCt8Ub_XMtHVe5ETg_DaLwaw",
+      "url": "https://www.youtube.com/channel/UCt8Ub_XMtHVe5ETg_DaLwaw",
+      "owner": "porterburg56@gmail.com",
+      "source_type": "google_drive",
+      "tiktok_source": "",
+      "tiktok_url": "https://drive.google.com/drive/folders/1uqW_jslI0YiL2mB-lAhvAfK_hY6ACSMS",
+      "drive_url": "https://drive.google.com/drive/folders/1uqW_jslI0YiL2mB-lAhvAfK_hY6ACSMS",
+      "avatar": "https://yt3.ggpht.com/_ywAP0n0twSZRvZz7t_X5vS00F5NlWoAQXH-s9AjKEmY1Tb_Xnw3mSnojDjYZBXULnhq2FE7fA=s240-c-k-c0x00ffffff-no-rj",
+      "avatar_letter": "N",
+      "category": "Nail Art & ASMR Transformations",
+      "subscribers": 0,
+      "total_uploads": 1,
+      "total_views": 2,
+      "total_likes": 0,
+      "upcoming": {
+        "slot1": {
+          "slot": 1,
+          "time_utc": "17:00",
+          "time_et": "1:00 PM ET",
+          "strategy": "Sequential Drive Queue",
+          "creator": "Google Drive Queue",
+          "status": "Queued (Slot 1)"
+        },
+        "slot2": {
+          "slot": 2,
+          "time_utc": "22:00",
+          "time_et": "6:00 PM ET",
+          "strategy": "Sequential Drive Queue",
+          "creator": "Google Drive Queue",
+          "status": "Queued (Slot 2)"
+        },
+        "slot3": {
+          "slot": 3,
+          "time_utc": "01:00",
+          "time_et": "9:00 PM ET",
+          "strategy": "Sequential Drive Queue",
+          "creator": "Google Drive Queue",
+          "status": "Queued (Slot 3)"
+        }
+      },
+      "view_history": [
+        {
+          "date": "2026-09-16",
+          "views": 2,
+          "uploads": 1,
+          "cumulative_views": 2
+        }
+      ],
+      "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "BOYWYj2Iix8",
+          "youtube_id": "BOYWYj2Iix8",
+          "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
+          "tiktok_views": 0,
+          "youtube_views": 2,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-16T06:54:31Z"
+        }
+      ],
+      "runs": []
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "BOYWYj2Iix8",
+      "youtube_id": "BOYWYj2Iix8",
+      "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
+      "tiktok_views": 0,
+      "youtube_views": 2,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-16T06:54:31Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -1697,7 +1785,7 @@
       "youtube_id": "0yLRz-J0Xf8",
       "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
@@ -2524,8 +2612,10 @@
     "youtube_id": "UCsPVNs8qEAdMi8JWf0eqajQ",
     "url": "https://www.youtube.com/@FunWithGrandpaa",
     "owner": "porterburg56@gmail.com",
+    "source_type": "tiktok",
     "tiktok_source": "funnytoddle_r",
     "tiktok_url": "https://www.tiktok.com/@funnytoddle_r",
+    "drive_url": "",
     "avatar": "https://yt3.ggpht.com/CSPMv6TmBZcFxxmdVzjlL6d19Kqg6kL6euhGn2QHXfUOa0FORtbteOr4U0y9_BXe8BAXj2rt2w=s240-c-k-c0x00ffffff-no-rj",
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
@@ -3285,10 +3375,10 @@
     ]
   },
   "kpis": {
-    "total_uploads": 64,
-    "total_views": 749,
+    "total_uploads": 65,
+    "total_views": 753,
     "total_likes": 7,
-    "videos_per_day": 6
+    "videos_per_day": 9
   },
   "upcoming": {
     "slot1": {
@@ -3498,5 +3588,5 @@
       "created_at": "2026-09-01T07:42:18.620928+00:00"
     }
   ],
-  "last_updated": "2026-09-16T08:21:06.797245+00:00"
+  "last_updated": "2026-09-16T08:22:09.388434+00:00"
 }
