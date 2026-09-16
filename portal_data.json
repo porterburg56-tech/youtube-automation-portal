@@ -9,102 +9,95 @@
   },
   "master_view_history": [
     {
-      "date": "2026-09-02",
-      "ch1_views": 6,
-      "ch2_views": 0,
-      "ch3_views": 0,
-      "total_views": 6
-    },
-    {
       "date": "2026-09-03",
-      "ch1_views": 10,
+      "ch1_views": 4,
       "ch2_views": 24,
       "ch3_views": 0,
-      "total_views": 34
+      "total_views": 28
     },
     {
       "date": "2026-09-04",
-      "ch1_views": 14,
+      "ch1_views": 8,
       "ch2_views": 32,
       "ch3_views": 0,
-      "total_views": 46
+      "total_views": 40
     },
     {
       "date": "2026-09-05",
-      "ch1_views": 17,
+      "ch1_views": 11,
       "ch2_views": 47,
       "ch3_views": 0,
-      "total_views": 64
+      "total_views": 58
     },
     {
       "date": "2026-09-06",
-      "ch1_views": 31,
+      "ch1_views": 25,
       "ch2_views": 54,
       "ch3_views": 0,
-      "total_views": 85
+      "total_views": 79
     },
     {
       "date": "2026-09-07",
-      "ch1_views": 41,
+      "ch1_views": 35,
       "ch2_views": 81,
       "ch3_views": 0,
-      "total_views": 122
+      "total_views": 116
     },
     {
       "date": "2026-09-08",
-      "ch1_views": 42,
+      "ch1_views": 36,
       "ch2_views": 136,
       "ch3_views": 0,
-      "total_views": 178
+      "total_views": 172
     },
     {
       "date": "2026-09-10",
-      "ch1_views": 45,
+      "ch1_views": 39,
       "ch2_views": 141,
       "ch3_views": 0,
-      "total_views": 186
+      "total_views": 180
     },
     {
       "date": "2026-09-11",
-      "ch1_views": 52,
+      "ch1_views": 46,
       "ch2_views": 151,
       "ch3_views": 0,
-      "total_views": 203
+      "total_views": 197
     },
     {
       "date": "2026-09-12",
-      "ch1_views": 419,
+      "ch1_views": 413,
       "ch2_views": 159,
       "ch3_views": 0,
-      "total_views": 578
+      "total_views": 572
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 435,
-      "ch2_views": 195,
+      "ch1_views": 429,
+      "ch2_views": 198,
       "ch3_views": 0,
-      "total_views": 630
+      "total_views": 627
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 436,
-      "ch2_views": 238,
+      "ch1_views": 430,
+      "ch2_views": 246,
       "ch3_views": 0,
-      "total_views": 674
+      "total_views": 676
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 437,
-      "ch2_views": 270,
+      "ch1_views": 431,
+      "ch2_views": 289,
       "ch3_views": 0,
-      "total_views": 707
+      "total_views": 720
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 437,
-      "ch2_views": 271,
-      "ch3_views": 52,
-      "total_views": 760
+      "ch1_views": 431,
+      "ch2_views": 290,
+      "ch3_views": 83,
+      "total_views": 804
     }
   ],
   "channels": {
@@ -154,91 +147,99 @@
       },
       "view_history": [
         {
-          "date": "2026-09-02",
-          "views": 6,
-          "uploads": 1,
-          "cumulative_views": 6
-        },
-        {
           "date": "2026-09-03",
           "views": 4,
           "uploads": 2,
-          "cumulative_views": 10
+          "cumulative_views": 4
         },
         {
           "date": "2026-09-04",
           "views": 4,
           "uploads": 2,
-          "cumulative_views": 14
+          "cumulative_views": 8
         },
         {
           "date": "2026-09-05",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 17
+          "cumulative_views": 11
         },
         {
           "date": "2026-09-06",
           "views": 14,
           "uploads": 2,
-          "cumulative_views": 31
+          "cumulative_views": 25
         },
         {
           "date": "2026-09-07",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 41
+          "cumulative_views": 35
         },
         {
           "date": "2026-09-08",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 42
+          "cumulative_views": 36
         },
         {
           "date": "2026-09-10",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 45
+          "cumulative_views": 39
         },
         {
           "date": "2026-09-11",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 52
+          "cumulative_views": 46
         },
         {
           "date": "2026-09-12",
           "views": 367,
           "uploads": 3,
-          "cumulative_views": 419
+          "cumulative_views": 413
         },
         {
           "date": "2026-09-13",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 435
+          "cumulative_views": 429
         },
         {
           "date": "2026-09-14",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 436
+          "cumulative_views": 430
         },
         {
           "date": "2026-09-15",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 437
+          "cumulative_views": 431
         },
         {
           "date": "2026-09-16",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 437
+          "uploads": 2,
+          "cumulative_views": 431
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7686124988411186446",
+          "youtube_id": "9zwfhL4WrrQ",
+          "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 #shorts",
+          "tiktok_views": 3486,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/9zwfhL4WrrQ/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-16T17:16:29Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -644,20 +645,6 @@
           "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-03T00:04:32Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7680972970247949581",
-          "youtube_id": "AFqVQt-mHZg",
-          "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet...",
-          "tiktok_views": 2803,
-          "youtube_views": 6,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/AFqVQt-mHZg/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-02T22:17:32Z"
         }
       ],
       "runs": [
@@ -964,27 +951,27 @@
         },
         {
           "date": "2026-09-13",
-          "views": 36,
+          "views": 39,
           "uploads": 3,
-          "cumulative_views": 195
+          "cumulative_views": 198
         },
         {
           "date": "2026-09-14",
-          "views": 43,
+          "views": 48,
           "uploads": 3,
-          "cumulative_views": 238
+          "cumulative_views": 246
         },
         {
           "date": "2026-09-15",
-          "views": 32,
+          "views": 43,
           "uploads": 3,
-          "cumulative_views": 270
+          "cumulative_views": 289
         },
         {
           "date": "2026-09-16",
           "views": 1,
           "uploads": 2,
-          "cumulative_views": 271
+          "cumulative_views": 290
         }
       ],
       "videos": [
@@ -1023,7 +1010,7 @@
           "youtube_id": "KBGlJd1_GB0",
           "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
           "tiktok_views": 476800,
-          "youtube_views": 4,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
@@ -1037,7 +1024,7 @@
           "youtube_id": "0yLRz-J0Xf8",
           "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
           "tiktok_views": 207400,
-          "youtube_views": 16,
+          "youtube_views": 25,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
@@ -1065,7 +1052,7 @@
           "youtube_id": "cTLcefQUb7k",
           "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
           "tiktok_views": 633700,
-          "youtube_views": 12,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1079,7 +1066,7 @@
           "youtube_id": "IwaBIQwrlus",
           "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
           "tiktok_views": 13800,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -1093,7 +1080,7 @@
           "youtube_id": "45A8pjcvAQg",
           "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
           "tiktok_views": 765900,
-          "youtube_views": 23,
+          "youtube_views": 24,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -1107,7 +1094,7 @@
           "youtube_id": "a7u_O65DeEk",
           "title": "The Secret to the Juiciest Stuffed Cabbage with Bacon StuffedCabbag",
           "tiktok_views": 767700,
-          "youtube_views": 12,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
@@ -1121,7 +1108,7 @@
           "youtube_id": "tOagl_ZG9xk",
           "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
           "tiktok_views": 4086,
-          "youtube_views": 23,
+          "youtube_views": 24,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -1659,9 +1646,9 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 52,
+          "views": 83,
           "uploads": 2,
-          "cumulative_views": 52
+          "cumulative_views": 83
         }
       ],
       "videos": [
@@ -1672,7 +1659,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 49,
+          "youtube_views": 80,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1696,6 +1683,16 @@
       ],
       "runs": [
         {
+          "id": 4,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-09-16",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
+          "created_at": "2026-09-16T22:04:00.774410+00:00"
+        },
+        {
           "id": 3,
           "channel_id": "channel_3",
           "slot": 1,
@@ -1709,6 +1706,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7686124988411186446",
+      "youtube_id": "9zwfhL4WrrQ",
+      "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 #shorts",
+      "tiktok_views": 3486,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/9zwfhL4WrrQ/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-16T17:16:29Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -1730,7 +1741,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 49,
+      "youtube_views": 80,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1800,7 +1811,7 @@
       "youtube_id": "KBGlJd1_GB0",
       "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
       "tiktok_views": 476800,
-      "youtube_views": 4,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
@@ -1828,7 +1839,7 @@
       "youtube_id": "0yLRz-J0Xf8",
       "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
       "tiktok_views": 207400,
-      "youtube_views": 16,
+      "youtube_views": 25,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
@@ -1884,7 +1895,7 @@
       "youtube_id": "cTLcefQUb7k",
       "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
       "tiktok_views": 633700,
-      "youtube_views": 12,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1912,7 +1923,7 @@
       "youtube_id": "IwaBIQwrlus",
       "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
       "tiktok_views": 13800,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -1940,7 +1951,7 @@
       "youtube_id": "45A8pjcvAQg",
       "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
       "tiktok_views": 765900,
-      "youtube_views": 23,
+      "youtube_views": 24,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -1968,7 +1979,7 @@
       "youtube_id": "a7u_O65DeEk",
       "title": "The Secret to the Juiciest Stuffed Cabbage with Bacon StuffedCabbag",
       "tiktok_views": 767700,
-      "youtube_views": 12,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
@@ -1996,7 +2007,7 @@
       "youtube_id": "tOagl_ZG9xk",
       "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
       "tiktok_views": 4086,
-      "youtube_views": 23,
+      "youtube_views": 24,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -2562,20 +2573,6 @@
       "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-03T00:04:32Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7680972970247949581",
-      "youtube_id": "AFqVQt-mHZg",
-      "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet...",
-      "tiktok_views": 2803,
-      "youtube_views": 6,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/AFqVQt-mHZg/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-02T22:17:32Z"
     }
   ],
   "channel": {
@@ -2624,91 +2621,99 @@
     },
     "view_history": [
       {
-        "date": "2026-09-02",
-        "views": 6,
-        "uploads": 1,
-        "cumulative_views": 6
-      },
-      {
         "date": "2026-09-03",
         "views": 4,
         "uploads": 2,
-        "cumulative_views": 10
+        "cumulative_views": 4
       },
       {
         "date": "2026-09-04",
         "views": 4,
         "uploads": 2,
-        "cumulative_views": 14
+        "cumulative_views": 8
       },
       {
         "date": "2026-09-05",
         "views": 3,
         "uploads": 2,
-        "cumulative_views": 17
+        "cumulative_views": 11
       },
       {
         "date": "2026-09-06",
         "views": 14,
         "uploads": 2,
-        "cumulative_views": 31
+        "cumulative_views": 25
       },
       {
         "date": "2026-09-07",
         "views": 10,
         "uploads": 2,
-        "cumulative_views": 41
+        "cumulative_views": 35
       },
       {
         "date": "2026-09-08",
         "views": 1,
         "uploads": 1,
-        "cumulative_views": 42
+        "cumulative_views": 36
       },
       {
         "date": "2026-09-10",
         "views": 3,
         "uploads": 2,
-        "cumulative_views": 45
+        "cumulative_views": 39
       },
       {
         "date": "2026-09-11",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 52
+        "cumulative_views": 46
       },
       {
         "date": "2026-09-12",
         "views": 367,
         "uploads": 3,
-        "cumulative_views": 419
+        "cumulative_views": 413
       },
       {
         "date": "2026-09-13",
         "views": 16,
         "uploads": 3,
-        "cumulative_views": 435
+        "cumulative_views": 429
       },
       {
         "date": "2026-09-14",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 436
+        "cumulative_views": 430
       },
       {
         "date": "2026-09-15",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 437
+        "cumulative_views": 431
       },
       {
         "date": "2026-09-16",
         "views": 0,
-        "uploads": 1,
-        "cumulative_views": 437
+        "uploads": 2,
+        "cumulative_views": 431
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7686124988411186446",
+        "youtube_id": "9zwfhL4WrrQ",
+        "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 #shorts",
+        "tiktok_views": 3486,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/9zwfhL4WrrQ/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-16T17:16:29Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -3114,20 +3119,6 @@
         "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-03T00:04:32Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7680972970247949581",
-        "youtube_id": "AFqVQt-mHZg",
-        "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet...",
-        "tiktok_views": 2803,
-        "youtube_views": 6,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/AFqVQt-mHZg/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-02T22:17:32Z"
       }
     ],
     "runs": [
@@ -3567,5 +3558,5 @@
       "created_at": "2026-09-10T00:04:02.871405+00:00"
     }
   ],
-  "last_updated": "2026-09-16T17:16:09.119590+00:00"
+  "last_updated": "2026-09-16T22:04:05.438171+00:00"
 }
