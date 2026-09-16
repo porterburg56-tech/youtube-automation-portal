@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 63,
-    "total_views": 739,
+    "total_uploads": 64,
+    "total_views": 742,
     "total_likes": 7,
     "total_subscribers": 3,
     "channels_count": 2,
@@ -82,21 +82,21 @@
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 467,
-      "ch2_views": 259,
-      "total_views": 726
+      "ch1_views": 468,
+      "ch2_views": 260,
+      "total_views": 728
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 467,
-      "ch2_views": 272,
-      "total_views": 739
+      "ch1_views": 468,
+      "ch2_views": 274,
+      "total_views": 742
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 0,
-      "ch2_views": 272,
-      "total_views": 272
+      "ch1_views": 468,
+      "ch2_views": 274,
+      "total_views": 742
     }
   ],
   "channels": {
@@ -113,8 +113,8 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 31,
-      "total_views": 467,
+      "total_uploads": 32,
+      "total_views": 468,
       "total_likes": 4,
       "upcoming": {
         "slot1": {
@@ -217,18 +217,38 @@
         },
         {
           "date": "2026-09-14",
-          "views": 0,
+          "views": 1,
           "uploads": 3,
-          "cumulative_views": 467
+          "cumulative_views": 468
         },
         {
           "date": "2026-09-15",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 467
+          "cumulative_views": 468
+        },
+        {
+          "date": "2026-09-16",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 468
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7664966728757087502",
+          "youtube_id": "7yGcqB33_hc",
+          "title": "\ud83e\udd79 This 2-Year-Old Hadn\u2019t Seen His Army Father for a Year\u2026 The Moment",
+          "tiktok_views": 182200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/7yGcqB33_hc/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-16T02:09:12Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -306,7 +326,7 @@
           "youtube_id": "j72EKlx6t-I",
           "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
           "tiktok_views": 288400,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
@@ -666,6 +686,16 @@
       ],
       "runs": [
         {
+          "id": 37,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-09-16",
+          "status": "success",
+          "video_id": "7yGcqB33_hc",
+          "error_message": null,
+          "created_at": "2026-09-16T02:09:14.760990+00:00"
+        },
+        {
           "id": 36,
           "channel_id": "channel_1",
           "slot": 2,
@@ -854,16 +884,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-09T22:16:55.074438+00:00"
-        },
-        {
-          "id": 17,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-09-09",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-09T00:03:54.524803+00:00"
         }
       ]
     },
@@ -881,7 +901,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 32,
-      "total_views": 272,
+      "total_views": 274,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -978,21 +998,21 @@
         },
         {
           "date": "2026-09-14",
-          "views": 36,
+          "views": 37,
           "uploads": 3,
-          "cumulative_views": 259
+          "cumulative_views": 260
         },
         {
           "date": "2026-09-15",
-          "views": 13,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 272
+          "cumulative_views": 274
         },
         {
           "date": "2026-09-16",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 272
+          "cumulative_views": 274
         }
       ],
       "videos": [
@@ -1008,7 +1028,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ZzaI1EsoqHE/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-16T01:08:26Z"
+          "uploaded_at": "2026-09-16T01:09:33Z"
         },
         {
           "channel_id": "channel_2",
@@ -1045,7 +1065,7 @@
           "youtube_id": "2IV8GtDAWgE",
           "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
           "tiktok_views": 598400,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
@@ -1087,7 +1107,7 @@
           "youtube_id": "45A8pjcvAQg",
           "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
           "tiktok_views": 765900,
-          "youtube_views": 22,
+          "youtube_views": 23,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -1651,6 +1671,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7664966728757087502",
+      "youtube_id": "7yGcqB33_hc",
+      "title": "\ud83e\udd79 This 2-Year-Old Hadn\u2019t Seen His Army Father for a Year\u2026 The Moment",
+      "tiktok_views": 182200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/7yGcqB33_hc/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-16T02:09:12Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7663919232085789965",
@@ -1662,7 +1696,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ZzaI1EsoqHE/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-16T01:08:26Z"
+      "uploaded_at": "2026-09-16T01:09:33Z"
     },
     {
       "channel_id": "channel_1",
@@ -1741,7 +1775,7 @@
       "youtube_id": "2IV8GtDAWgE",
       "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
       "tiktok_views": 598400,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
@@ -1811,7 +1845,7 @@
       "youtube_id": "j72EKlx6t-I",
       "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
       "tiktok_views": 288400,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
@@ -1825,7 +1859,7 @@
       "youtube_id": "45A8pjcvAQg",
       "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
       "tiktok_views": 765900,
-      "youtube_views": 22,
+      "youtube_views": 23,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -2546,8 +2580,8 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 31,
-    "total_views": 467,
+    "total_uploads": 32,
+    "total_views": 468,
     "total_likes": 4,
     "upcoming": {
       "slot1": {
@@ -2650,18 +2684,38 @@
       },
       {
         "date": "2026-09-14",
-        "views": 0,
+        "views": 1,
         "uploads": 3,
-        "cumulative_views": 467
+        "cumulative_views": 468
       },
       {
         "date": "2026-09-15",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 467
+        "cumulative_views": 468
+      },
+      {
+        "date": "2026-09-16",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 468
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7664966728757087502",
+        "youtube_id": "7yGcqB33_hc",
+        "title": "\ud83e\udd79 This 2-Year-Old Hadn\u2019t Seen His Army Father for a Year\u2026 The Moment",
+        "tiktok_views": 182200,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/7yGcqB33_hc/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-16T02:09:12Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -2739,7 +2793,7 @@
         "youtube_id": "j72EKlx6t-I",
         "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
         "tiktok_views": 288400,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
@@ -3099,6 +3153,16 @@
     ],
     "runs": [
       {
+        "id": 37,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-09-16",
+        "status": "success",
+        "video_id": "7yGcqB33_hc",
+        "error_message": null,
+        "created_at": "2026-09-16T02:09:14.760990+00:00"
+      },
+      {
         "id": 36,
         "channel_id": "channel_1",
         "slot": 2,
@@ -3287,22 +3351,12 @@
         "video_id": null,
         "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "created_at": "2026-09-09T22:16:55.074438+00:00"
-      },
-      {
-        "id": 17,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-09-09",
-        "status": "failed",
-        "video_id": null,
-        "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "created_at": "2026-09-09T00:03:54.524803+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 63,
-    "total_views": 739,
+    "total_uploads": 64,
+    "total_views": 742,
     "total_likes": 7,
     "videos_per_day": 6
   },
@@ -3333,6 +3387,16 @@
     }
   },
   "runs": [
+    {
+      "id": 37,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-09-16",
+      "status": "success",
+      "video_id": "7yGcqB33_hc",
+      "error_message": null,
+      "created_at": "2026-09-16T02:09:14.760990+00:00"
+    },
     {
       "id": 36,
       "channel_id": "channel_1",
@@ -3522,17 +3586,7 @@
       "video_id": null,
       "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
       "created_at": "2026-09-09T22:16:55.074438+00:00"
-    },
-    {
-      "id": 17,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-09-09",
-      "status": "failed",
-      "video_id": null,
-      "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-      "created_at": "2026-09-09T00:03:54.524803+00:00"
     }
   ],
-  "last_updated": "2026-09-16T01:08:39.384810+00:00"
+  "last_updated": "2026-09-16T02:09:18.042111+00:00"
 }
