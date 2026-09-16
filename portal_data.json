@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 67,
-    "total_views": 723,
+    "total_views": 747,
     "total_likes": 6,
     "total_subscribers": 3,
     "channels_count": 3,
@@ -18,93 +18,93 @@
     {
       "date": "2026-09-03",
       "ch1_views": 10,
-      "ch2_views": 26,
+      "ch2_views": 24,
       "ch3_views": 0,
-      "total_views": 36
+      "total_views": 34
     },
     {
       "date": "2026-09-04",
       "ch1_views": 14,
-      "ch2_views": 34,
+      "ch2_views": 32,
       "ch3_views": 0,
-      "total_views": 48
+      "total_views": 46
     },
     {
       "date": "2026-09-05",
       "ch1_views": 17,
-      "ch2_views": 49,
+      "ch2_views": 47,
       "ch3_views": 0,
-      "total_views": 66
+      "total_views": 64
     },
     {
       "date": "2026-09-06",
       "ch1_views": 31,
-      "ch2_views": 56,
+      "ch2_views": 54,
       "ch3_views": 0,
-      "total_views": 87
+      "total_views": 85
     },
     {
       "date": "2026-09-07",
       "ch1_views": 41,
-      "ch2_views": 83,
+      "ch2_views": 81,
       "ch3_views": 0,
-      "total_views": 124
+      "total_views": 122
     },
     {
       "date": "2026-09-08",
       "ch1_views": 42,
-      "ch2_views": 138,
+      "ch2_views": 136,
       "ch3_views": 0,
-      "total_views": 180
+      "total_views": 178
     },
     {
       "date": "2026-09-10",
       "ch1_views": 45,
-      "ch2_views": 143,
+      "ch2_views": 141,
       "ch3_views": 0,
-      "total_views": 188
+      "total_views": 186
     },
     {
       "date": "2026-09-11",
       "ch1_views": 52,
-      "ch2_views": 153,
+      "ch2_views": 151,
       "ch3_views": 0,
-      "total_views": 205
+      "total_views": 203
     },
     {
       "date": "2026-09-12",
       "ch1_views": 419,
-      "ch2_views": 161,
+      "ch2_views": 159,
       "ch3_views": 0,
-      "total_views": 580
+      "total_views": 578
     },
     {
       "date": "2026-09-13",
       "ch1_views": 435,
-      "ch2_views": 197,
+      "ch2_views": 196,
       "ch3_views": 0,
-      "total_views": 632
+      "total_views": 631
     },
     {
       "date": "2026-09-14",
       "ch1_views": 436,
-      "ch2_views": 237,
+      "ch2_views": 236,
       "ch3_views": 0,
-      "total_views": 673
+      "total_views": 672
     },
     {
       "date": "2026-09-15",
       "ch1_views": 437,
-      "ch2_views": 269,
+      "ch2_views": 268,
       "ch3_views": 0,
-      "total_views": 706
+      "total_views": 705
     },
     {
       "date": "2026-09-16",
       "ch1_views": 437,
-      "ch2_views": 269,
-      "ch3_views": 47,
-      "total_views": 753
+      "ch2_views": 268,
+      "ch3_views": 52,
+      "total_views": 757
     }
   ],
   "channels": {
@@ -879,7 +879,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 33,
-      "total_views": 260,
+      "total_views": 284,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -910,84 +910,98 @@
       "view_history": [
         {
           "date": "2026-09-03",
-          "views": 26,
-          "uploads": 2,
-          "cumulative_views": 26
+          "views": 24,
+          "uploads": 1,
+          "cumulative_views": 24
         },
         {
           "date": "2026-09-04",
           "views": 8,
           "uploads": 2,
-          "cumulative_views": 34
+          "cumulative_views": 32
         },
         {
           "date": "2026-09-05",
           "views": 15,
           "uploads": 2,
-          "cumulative_views": 49
+          "cumulative_views": 47
         },
         {
           "date": "2026-09-06",
           "views": 7,
           "uploads": 2,
-          "cumulative_views": 56
+          "cumulative_views": 54
         },
         {
           "date": "2026-09-07",
           "views": 27,
           "uploads": 2,
-          "cumulative_views": 83
+          "cumulative_views": 81
         },
         {
           "date": "2026-09-08",
           "views": 55,
           "uploads": 2,
-          "cumulative_views": 138
+          "cumulative_views": 136
         },
         {
           "date": "2026-09-10",
           "views": 5,
           "uploads": 2,
-          "cumulative_views": 143
+          "cumulative_views": 141
         },
         {
           "date": "2026-09-11",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 153
+          "cumulative_views": 151
         },
         {
           "date": "2026-09-12",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 161
+          "cumulative_views": 159
         },
         {
           "date": "2026-09-13",
-          "views": 36,
+          "views": 37,
           "uploads": 3,
-          "cumulative_views": 197
+          "cumulative_views": 196
         },
         {
           "date": "2026-09-14",
           "views": 40,
           "uploads": 3,
-          "cumulative_views": 237
+          "cumulative_views": 236
         },
         {
           "date": "2026-09-15",
           "views": 32,
           "uploads": 3,
-          "cumulative_views": 269
+          "cumulative_views": 268
         },
         {
           "date": "2026-09-16",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 269
+          "uploads": 2,
+          "cumulative_views": 268
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7679520687354105101",
+          "youtube_id": "TRaOzblj_aI",
+          "title": "Blueberry Cream & Strawberry Puff Pastry Dessert \ud83e\uded0\ud83c\udf53 #shorts",
+          "tiktok_views": 65500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/TRaOzblj_aI/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-16T16:21:09Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1107,7 +1121,7 @@
           "youtube_id": "tOagl_ZG9xk",
           "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
           "tiktok_views": 4086,
-          "youtube_views": 23,
+          "youtube_views": 24,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -1393,20 +1407,6 @@
           "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-03T19:15:09Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7680998487130967309",
-          "youtube_id": "78EkdGFRBp4",
-          "title": "Crispy Garlic Fried Chicken Drumsticks \ud83c\udf57\ud83d\udd25 #FriedChicken #ChickenRecip...",
-          "tiktok_views": 9242,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/78EkdGFRBp4/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-03T15:17:23Z"
         }
       ],
       "runs": [
@@ -1659,9 +1659,9 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 47,
+          "views": 52,
           "uploads": 2,
-          "cumulative_views": 47
+          "cumulative_views": 52
         }
       ],
       "videos": [
@@ -1672,7 +1672,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 44,
+          "youtube_views": 49,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1710,13 +1710,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7679520687354105101",
+      "youtube_id": "TRaOzblj_aI",
+      "title": "Blueberry Cream & Strawberry Puff Pastry Dessert \ud83e\uded0\ud83c\udf53 #shorts",
+      "tiktok_views": 65500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/TRaOzblj_aI/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-16T16:21:09Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1dbdAHzFOicG0sTFTjGlGPt5h9x_0US1p",
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 44,
+      "youtube_views": 49,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1982,7 +1996,7 @@
       "youtube_id": "tOagl_ZG9xk",
       "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
       "tiktok_views": 4086,
-      "youtube_views": 23,
+      "youtube_views": 24,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -2534,20 +2548,6 @@
       "thumbnail": "https://i.ytimg.com/vi/KHZ15IsYo14/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-03T19:15:09Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7680998487130967309",
-      "youtube_id": "78EkdGFRBp4",
-      "title": "Crispy Garlic Fried Chicken Drumsticks \ud83c\udf57\ud83d\udd25 #FriedChicken #ChickenRecip...",
-      "tiktok_views": 9242,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/78EkdGFRBp4/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-03T15:17:23Z"
     },
     {
       "channel_id": "channel_1",
@@ -3335,7 +3335,7 @@
   },
   "kpis": {
     "total_uploads": 67,
-    "total_views": 723,
+    "total_views": 747,
     "total_likes": 6,
     "videos_per_day": 9
   },
@@ -3567,5 +3567,5 @@
       "created_at": "2026-09-09T22:16:55.074438+00:00"
     }
   ],
-  "last_updated": "2026-09-16T16:20:18.947318+00:00"
+  "last_updated": "2026-09-16T17:04:24.658311+00:00"
 }
