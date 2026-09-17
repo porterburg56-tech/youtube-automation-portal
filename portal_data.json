@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 71,
+    "total_uploads": 72,
     "total_views": 755,
     "total_likes": 6,
     "total_subscribers": 3,
@@ -95,16 +95,16 @@
     {
       "date": "2026-09-16",
       "ch1_views": 429,
-      "ch2_views": 264,
-      "ch3_views": 99,
-      "total_views": 792
+      "ch2_views": 265,
+      "ch3_views": 101,
+      "total_views": 795
     },
     {
       "date": "2026-09-17",
       "ch1_views": 0,
-      "ch2_views": 264,
+      "ch2_views": 265,
       "ch3_views": 0,
-      "total_views": 264
+      "total_views": 265
     }
   ],
   "channels": {
@@ -123,7 +123,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 34,
+      "total_uploads": 35,
       "total_views": 471,
       "total_likes": 2,
       "upcoming": {
@@ -656,6 +656,16 @@
       ],
       "runs": [
         {
+          "id": 40,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-09-17",
+          "status": "success",
+          "video_id": "pDRO1BpkUd8",
+          "error_message": null,
+          "created_at": "2026-09-17T02:09:01.352889+00:00"
+        },
+        {
           "id": 39,
           "channel_id": "channel_1",
           "slot": 2,
@@ -844,16 +854,6 @@
           "video_id": "w4ZtImhPVG0",
           "error_message": null,
           "created_at": "2026-09-10T23:39:56.967289+00:00"
-        },
-        {
-          "id": 20,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-10",
-          "status": "success",
-          "video_id": "Ml1HFT47PEU",
-          "error_message": null,
-          "created_at": "2026-09-10T07:05:28.517675+00:00"
         }
       ]
     },
@@ -970,15 +970,15 @@
         },
         {
           "date": "2026-09-16",
-          "views": 1,
+          "views": 2,
           "uploads": 3,
-          "cumulative_views": 264
+          "cumulative_views": 265
         },
         {
           "date": "2026-09-17",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 264
+          "cumulative_views": 265
         }
       ],
       "videos": [
@@ -1017,7 +1017,7 @@
           "youtube_id": "TRaOzblj_aI",
           "title": "Blueberry Cream & Strawberry Puff Pastry Dessert \ud83e\uded0\ud83c\udf53 #shorts",
           "tiktok_views": 65500,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TRaOzblj_aI/hqdefault.jpg",
@@ -1087,7 +1087,7 @@
           "youtube_id": "cTLcefQUb7k",
           "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
           "tiktok_views": 633700,
-          "youtube_views": 15,
+          "youtube_views": 16,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1101,7 +1101,7 @@
           "youtube_id": "IwaBIQwrlus",
           "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
           "tiktok_views": 13800,
-          "youtube_views": 11,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -1653,9 +1653,9 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 99,
+          "views": 101,
           "uploads": 2,
-          "cumulative_views": 99
+          "cumulative_views": 101
         }
       ],
       "videos": [
@@ -1666,7 +1666,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 95,
+          "youtube_views": 97,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1786,7 +1786,7 @@
       "youtube_id": "TRaOzblj_aI",
       "title": "Blueberry Cream & Strawberry Puff Pastry Dessert \ud83e\uded0\ud83c\udf53 #shorts",
       "tiktok_views": 65500,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TRaOzblj_aI/hqdefault.jpg",
@@ -1800,7 +1800,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 95,
+      "youtube_views": 97,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1954,7 +1954,7 @@
       "youtube_id": "cTLcefQUb7k",
       "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
       "tiktok_views": 633700,
-      "youtube_views": 15,
+      "youtube_views": 16,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1982,7 +1982,7 @@
       "youtube_id": "IwaBIQwrlus",
       "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
       "tiktok_views": 13800,
-      "youtube_views": 11,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -2607,7 +2607,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 34,
+    "total_uploads": 35,
     "total_views": 471,
     "total_likes": 2,
     "upcoming": {
@@ -3140,6 +3140,16 @@
     ],
     "runs": [
       {
+        "id": 40,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-09-17",
+        "status": "success",
+        "video_id": "pDRO1BpkUd8",
+        "error_message": null,
+        "created_at": "2026-09-17T02:09:01.352889+00:00"
+      },
+      {
         "id": 39,
         "channel_id": "channel_1",
         "slot": 2,
@@ -3328,21 +3338,11 @@
         "video_id": "w4ZtImhPVG0",
         "error_message": null,
         "created_at": "2026-09-10T23:39:56.967289+00:00"
-      },
-      {
-        "id": 20,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-10",
-        "status": "success",
-        "video_id": "Ml1HFT47PEU",
-        "error_message": null,
-        "created_at": "2026-09-10T07:05:28.517675+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 71,
+    "total_uploads": 72,
     "total_views": 755,
     "total_likes": 6,
     "videos_per_day": 9
@@ -3374,6 +3374,16 @@
     }
   },
   "runs": [
+    {
+      "id": 40,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-09-17",
+      "status": "success",
+      "video_id": "pDRO1BpkUd8",
+      "error_message": null,
+      "created_at": "2026-09-17T02:09:01.352889+00:00"
+    },
     {
       "id": 39,
       "channel_id": "channel_1",
@@ -3563,17 +3573,7 @@
       "video_id": "w4ZtImhPVG0",
       "error_message": null,
       "created_at": "2026-09-10T23:39:56.967289+00:00"
-    },
-    {
-      "id": 20,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-10",
-      "status": "success",
-      "video_id": "Ml1HFT47PEU",
-      "error_message": null,
-      "created_at": "2026-09-10T07:05:28.517675+00:00"
     }
   ],
-  "last_updated": "2026-09-17T01:16:29.724094+00:00"
+  "last_updated": "2026-09-17T02:09:04.905571+00:00"
 }
