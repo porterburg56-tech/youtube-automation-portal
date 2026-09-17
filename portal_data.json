@@ -18,86 +18,93 @@
     {
       "date": "2026-09-04",
       "ch1_views": 6,
-      "ch2_views": 8,
+      "ch2_views": 0,
       "ch3_views": 0,
-      "total_views": 14
+      "total_views": 6
     },
     {
       "date": "2026-09-05",
       "ch1_views": 9,
-      "ch2_views": 23,
+      "ch2_views": 15,
       "ch3_views": 0,
-      "total_views": 32
+      "total_views": 24
     },
     {
       "date": "2026-09-06",
       "ch1_views": 23,
-      "ch2_views": 30,
+      "ch2_views": 22,
       "ch3_views": 0,
-      "total_views": 53
+      "total_views": 45
     },
     {
       "date": "2026-09-07",
       "ch1_views": 33,
-      "ch2_views": 58,
+      "ch2_views": 50,
       "ch3_views": 0,
-      "total_views": 91
+      "total_views": 83
     },
     {
       "date": "2026-09-08",
       "ch1_views": 34,
-      "ch2_views": 113,
+      "ch2_views": 105,
       "ch3_views": 0,
-      "total_views": 147
+      "total_views": 139
     },
     {
       "date": "2026-09-10",
       "ch1_views": 37,
-      "ch2_views": 118,
+      "ch2_views": 110,
       "ch3_views": 0,
-      "total_views": 155
+      "total_views": 147
     },
     {
       "date": "2026-09-11",
       "ch1_views": 44,
-      "ch2_views": 129,
+      "ch2_views": 121,
       "ch3_views": 0,
-      "total_views": 173
+      "total_views": 165
     },
     {
       "date": "2026-09-12",
       "ch1_views": 411,
-      "ch2_views": 137,
+      "ch2_views": 129,
       "ch3_views": 0,
-      "total_views": 548
+      "total_views": 540
     },
     {
       "date": "2026-09-13",
       "ch1_views": 427,
-      "ch2_views": 176,
+      "ch2_views": 168,
       "ch3_views": 0,
-      "total_views": 603
+      "total_views": 595
     },
     {
       "date": "2026-09-14",
       "ch1_views": 428,
-      "ch2_views": 226,
+      "ch2_views": 218,
       "ch3_views": 0,
-      "total_views": 654
+      "total_views": 646
     },
     {
       "date": "2026-09-15",
       "ch1_views": 429,
-      "ch2_views": 271,
+      "ch2_views": 263,
       "ch3_views": 0,
-      "total_views": 700
+      "total_views": 692
     },
     {
       "date": "2026-09-16",
       "ch1_views": 429,
-      "ch2_views": 273,
-      "ch3_views": 98,
-      "total_views": 800
+      "ch2_views": 264,
+      "ch3_views": 99,
+      "total_views": 792
+    },
+    {
+      "date": "2026-09-17",
+      "ch1_views": 0,
+      "ch2_views": 264,
+      "ch3_views": 0,
+      "total_views": 264
     }
   ],
   "channels": {
@@ -897,78 +904,98 @@
       "view_history": [
         {
           "date": "2026-09-04",
-          "views": 8,
-          "uploads": 2,
-          "cumulative_views": 8
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 0
         },
         {
           "date": "2026-09-05",
           "views": 15,
           "uploads": 2,
-          "cumulative_views": 23
+          "cumulative_views": 15
         },
         {
           "date": "2026-09-06",
           "views": 7,
           "uploads": 2,
-          "cumulative_views": 30
+          "cumulative_views": 22
         },
         {
           "date": "2026-09-07",
           "views": 28,
           "uploads": 2,
-          "cumulative_views": 58
+          "cumulative_views": 50
         },
         {
           "date": "2026-09-08",
           "views": 55,
           "uploads": 2,
-          "cumulative_views": 113
+          "cumulative_views": 105
         },
         {
           "date": "2026-09-10",
           "views": 5,
           "uploads": 2,
-          "cumulative_views": 118
+          "cumulative_views": 110
         },
         {
           "date": "2026-09-11",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 129
+          "cumulative_views": 121
         },
         {
           "date": "2026-09-12",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 137
+          "cumulative_views": 129
         },
         {
           "date": "2026-09-13",
           "views": 39,
           "uploads": 3,
-          "cumulative_views": 176
+          "cumulative_views": 168
         },
         {
           "date": "2026-09-14",
           "views": 50,
           "uploads": 3,
-          "cumulative_views": 226
+          "cumulative_views": 218
         },
         {
           "date": "2026-09-15",
           "views": 45,
           "uploads": 3,
-          "cumulative_views": 271
+          "cumulative_views": 263
         },
         {
           "date": "2026-09-16",
-          "views": 2,
+          "views": 1,
           "uploads": 3,
-          "cumulative_views": 273
+          "cumulative_views": 264
+        },
+        {
+          "date": "2026-09-17",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 264
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7662096961461341453",
+          "youtube_id": "TNkm_AtcbWI",
+          "title": "Chocolate Banana Cake with 3 Simple Ingredients You'll Want Every Wee \u2728 #shorts",
+          "tiktok_views": 551800,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/TNkm_AtcbWI/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-17T01:09:57Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -990,7 +1017,7 @@
           "youtube_id": "TRaOzblj_aI",
           "title": "Blueberry Cream & Strawberry Puff Pastry Dessert \ud83e\uded0\ud83c\udf53 #shorts",
           "tiktok_views": 65500,
-          "youtube_views": 2,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TRaOzblj_aI/hqdefault.jpg",
@@ -1060,7 +1087,7 @@
           "youtube_id": "cTLcefQUb7k",
           "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
           "tiktok_views": 633700,
-          "youtube_views": 16,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1074,7 +1101,7 @@
           "youtube_id": "IwaBIQwrlus",
           "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
           "tiktok_views": 13800,
-          "youtube_views": 10,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -1374,20 +1401,6 @@
           "thumbnail": "https://i.ytimg.com/vi/GibB4tdu1e0/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-04T19:12:39Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7681371896209755405",
-          "youtube_id": "b4-QdrGc2-g",
-          "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
-          "tiktok_views": 5309,
-          "youtube_views": 8,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-04T15:16:12Z"
         }
       ],
       "runs": [
@@ -1640,9 +1653,9 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 98,
+          "views": 99,
           "uploads": 2,
-          "cumulative_views": 98
+          "cumulative_views": 99
         }
       ],
       "videos": [
@@ -1667,7 +1680,7 @@
           "youtube_id": "BOYWYj2Iix8",
           "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -1676,6 +1689,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 5,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-09-17",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
+          "created_at": "2026-09-17T01:16:26.266074+00:00"
+        },
         {
           "id": 4,
           "channel_id": "channel_3",
@@ -1700,6 +1723,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7662096961461341453",
+      "youtube_id": "TNkm_AtcbWI",
+      "title": "Chocolate Banana Cake with 3 Simple Ingredients You'll Want Every Wee \u2728 #shorts",
+      "tiktok_views": 551800,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/TNkm_AtcbWI/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-17T01:09:57Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -1749,7 +1786,7 @@
       "youtube_id": "TRaOzblj_aI",
       "title": "Blueberry Cream & Strawberry Puff Pastry Dessert \ud83e\uded0\ud83c\udf53 #shorts",
       "tiktok_views": 65500,
-      "youtube_views": 2,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TRaOzblj_aI/hqdefault.jpg",
@@ -1777,7 +1814,7 @@
       "youtube_id": "BOYWYj2Iix8",
       "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -1917,7 +1954,7 @@
       "youtube_id": "cTLcefQUb7k",
       "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
       "tiktok_views": 633700,
-      "youtube_views": 16,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1945,7 +1982,7 @@
       "youtube_id": "IwaBIQwrlus",
       "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
       "tiktok_views": 13800,
-      "youtube_views": 10,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -2525,20 +2562,6 @@
       "thumbnail": "https://i.ytimg.com/vi/GibB4tdu1e0/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-04T19:12:39Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7681371896209755405",
-      "youtube_id": "b4-QdrGc2-g",
-      "title": "Cheesy Ham & Egg Muffins | Easy Breakfast Omelette Cups \ud83e\uddc0\ud83e\udd5a \ud83d\udd25  #EggMuf...",
-      "tiktok_views": 5309,
-      "youtube_views": 8,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/b4-QdrGc2-g/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-04T15:16:12Z"
     },
     {
       "channel_id": "channel_1",
@@ -3552,5 +3575,5 @@
       "created_at": "2026-09-10T07:05:28.517675+00:00"
     }
   ],
-  "last_updated": "2026-09-17T01:08:58.723533+00:00"
+  "last_updated": "2026-09-17T01:16:29.724094+00:00"
 }
