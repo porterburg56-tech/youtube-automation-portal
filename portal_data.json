@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 70,
+    "total_uploads": 71,
     "total_views": 755,
     "total_likes": 6,
     "total_subscribers": 3,
@@ -10,94 +10,94 @@
   "master_view_history": [
     {
       "date": "2026-09-03",
-      "ch1_views": 4,
+      "ch1_views": 2,
       "ch2_views": 0,
       "ch3_views": 0,
-      "total_views": 4
+      "total_views": 2
     },
     {
       "date": "2026-09-04",
-      "ch1_views": 8,
+      "ch1_views": 6,
       "ch2_views": 8,
       "ch3_views": 0,
-      "total_views": 16
+      "total_views": 14
     },
     {
       "date": "2026-09-05",
-      "ch1_views": 11,
+      "ch1_views": 9,
       "ch2_views": 23,
       "ch3_views": 0,
-      "total_views": 34
+      "total_views": 32
     },
     {
       "date": "2026-09-06",
-      "ch1_views": 25,
+      "ch1_views": 23,
       "ch2_views": 30,
       "ch3_views": 0,
-      "total_views": 55
+      "total_views": 53
     },
     {
       "date": "2026-09-07",
-      "ch1_views": 35,
+      "ch1_views": 33,
       "ch2_views": 58,
       "ch3_views": 0,
-      "total_views": 93
+      "total_views": 91
     },
     {
       "date": "2026-09-08",
-      "ch1_views": 36,
+      "ch1_views": 34,
       "ch2_views": 113,
       "ch3_views": 0,
-      "total_views": 149
+      "total_views": 147
     },
     {
       "date": "2026-09-10",
-      "ch1_views": 39,
+      "ch1_views": 37,
       "ch2_views": 118,
       "ch3_views": 0,
-      "total_views": 157
+      "total_views": 155
     },
     {
       "date": "2026-09-11",
-      "ch1_views": 46,
-      "ch2_views": 128,
+      "ch1_views": 44,
+      "ch2_views": 129,
       "ch3_views": 0,
-      "total_views": 174
+      "total_views": 173
     },
     {
       "date": "2026-09-12",
-      "ch1_views": 413,
-      "ch2_views": 136,
+      "ch1_views": 411,
+      "ch2_views": 137,
       "ch3_views": 0,
-      "total_views": 549
+      "total_views": 548
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 429,
-      "ch2_views": 175,
+      "ch1_views": 427,
+      "ch2_views": 176,
       "ch3_views": 0,
-      "total_views": 604
+      "total_views": 603
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 430,
-      "ch2_views": 223,
+      "ch1_views": 428,
+      "ch2_views": 226,
       "ch3_views": 0,
-      "total_views": 653
+      "total_views": 654
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 431,
-      "ch2_views": 267,
+      "ch1_views": 429,
+      "ch2_views": 271,
       "ch3_views": 0,
-      "total_views": 698
+      "total_views": 700
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 431,
-      "ch2_views": 268,
-      "ch3_views": 83,
-      "total_views": 782
+      "ch1_views": 429,
+      "ch2_views": 273,
+      "ch3_views": 98,
+      "total_views": 800
     }
   ],
   "channels": {
@@ -118,7 +118,7 @@
       "subscribers": 0,
       "total_uploads": 34,
       "total_views": 471,
-      "total_likes": 3,
+      "total_likes": 2,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -148,84 +148,98 @@
       "view_history": [
         {
           "date": "2026-09-03",
-          "views": 4,
-          "uploads": 2,
-          "cumulative_views": 4
+          "views": 2,
+          "uploads": 1,
+          "cumulative_views": 2
         },
         {
           "date": "2026-09-04",
           "views": 4,
           "uploads": 2,
-          "cumulative_views": 8
+          "cumulative_views": 6
         },
         {
           "date": "2026-09-05",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 11
+          "cumulative_views": 9
         },
         {
           "date": "2026-09-06",
           "views": 14,
           "uploads": 2,
-          "cumulative_views": 25
+          "cumulative_views": 23
         },
         {
           "date": "2026-09-07",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 35
+          "cumulative_views": 33
         },
         {
           "date": "2026-09-08",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 36
+          "cumulative_views": 34
         },
         {
           "date": "2026-09-10",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 39
+          "cumulative_views": 37
         },
         {
           "date": "2026-09-11",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 46
+          "cumulative_views": 44
         },
         {
           "date": "2026-09-12",
           "views": 367,
           "uploads": 3,
-          "cumulative_views": 413
+          "cumulative_views": 411
         },
         {
           "date": "2026-09-13",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 429
+          "cumulative_views": 427
         },
         {
           "date": "2026-09-14",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 430
+          "cumulative_views": 428
         },
         {
           "date": "2026-09-15",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 431
+          "cumulative_views": 429
         },
         {
           "date": "2026-09-16",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 431
+          "uploads": 3,
+          "cumulative_views": 429
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7662762149856414989",
+          "youtube_id": "LTXCsx8kOcI",
+          "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
+          "tiktok_views": 119700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-16T23:40:59Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -631,20 +645,6 @@
           "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-03T22:17:15Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7677190679428074765",
-          "youtube_id": "yyHs2FbbwXM",
-          "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
-          "tiktok_views": 4400000,
-          "youtube_views": 2,
-          "youtube_likes": 1,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-03T00:04:32Z"
         }
       ],
       "runs": [
@@ -865,7 +865,7 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 34,
+      "total_uploads": 35,
       "total_views": 284,
       "total_likes": 1,
       "upcoming": {
@@ -933,39 +933,39 @@
         },
         {
           "date": "2026-09-11",
-          "views": 10,
+          "views": 11,
           "uploads": 3,
-          "cumulative_views": 128
+          "cumulative_views": 129
         },
         {
           "date": "2026-09-12",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 136
+          "cumulative_views": 137
         },
         {
           "date": "2026-09-13",
           "views": 39,
           "uploads": 3,
-          "cumulative_views": 175
+          "cumulative_views": 176
         },
         {
           "date": "2026-09-14",
-          "views": 48,
+          "views": 50,
           "uploads": 3,
-          "cumulative_views": 223
+          "cumulative_views": 226
         },
         {
           "date": "2026-09-15",
-          "views": 44,
+          "views": 45,
           "uploads": 3,
-          "cumulative_views": 267
+          "cumulative_views": 271
         },
         {
           "date": "2026-09-16",
-          "views": 1,
+          "views": 2,
           "uploads": 3,
-          "cumulative_views": 268
+          "cumulative_views": 273
         }
       ],
       "videos": [
@@ -990,7 +990,7 @@
           "youtube_id": "TRaOzblj_aI",
           "title": "Blueberry Cream & Strawberry Puff Pastry Dessert \ud83e\uded0\ud83c\udf53 #shorts",
           "tiktok_views": 65500,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TRaOzblj_aI/hqdefault.jpg",
@@ -1018,7 +1018,7 @@
           "youtube_id": "KBGlJd1_GB0",
           "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
           "tiktok_views": 476800,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
@@ -1060,7 +1060,7 @@
           "youtube_id": "cTLcefQUb7k",
           "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
           "tiktok_views": 633700,
-          "youtube_views": 15,
+          "youtube_views": 16,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1074,7 +1074,7 @@
           "youtube_id": "IwaBIQwrlus",
           "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
           "tiktok_views": 13800,
-          "youtube_views": 9,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -1200,7 +1200,7 @@
           "youtube_id": "lZw2Y3LiD-M",
           "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
           "tiktok_views": 292200,
-          "youtube_views": 9,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
@@ -1392,6 +1392,16 @@
       ],
       "runs": [
         {
+          "id": 38,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-09-17",
+          "status": "success",
+          "video_id": "TNkm_AtcbWI",
+          "error_message": null,
+          "created_at": "2026-09-17T01:08:55.720960+00:00"
+        },
+        {
           "id": 37,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1580,16 +1590,6 @@
           "video_id": "cql8Z24wBDw",
           "error_message": null,
           "created_at": "2026-09-10T22:19:26.169580+00:00"
-        },
-        {
-          "id": 18,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-10",
-          "status": "success",
-          "video_id": "ZN83SQT-bYI",
-          "error_message": null,
-          "created_at": "2026-09-10T07:08:58.709983+00:00"
         }
       ]
     },
@@ -1610,7 +1610,7 @@
       "subscribers": 0,
       "total_uploads": 2,
       "total_views": 0,
-      "total_likes": 2,
+      "total_likes": 3,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1640,9 +1640,9 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 83,
+          "views": 98,
           "uploads": 2,
-          "cumulative_views": 83
+          "cumulative_views": 98
         }
       ],
       "videos": [
@@ -1653,8 +1653,8 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 80,
-          "youtube_likes": 1,
+          "youtube_views": 95,
+          "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
           "status": "uploaded",
@@ -1701,6 +1701,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7662762149856414989",
+      "youtube_id": "LTXCsx8kOcI",
+      "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
+      "tiktok_views": 119700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-16T23:40:59Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7665767680598838541",
@@ -1735,7 +1749,7 @@
       "youtube_id": "TRaOzblj_aI",
       "title": "Blueberry Cream & Strawberry Puff Pastry Dessert \ud83e\uded0\ud83c\udf53 #shorts",
       "tiktok_views": 65500,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TRaOzblj_aI/hqdefault.jpg",
@@ -1749,8 +1763,8 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 80,
-      "youtube_likes": 1,
+      "youtube_views": 95,
+      "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
       "status": "uploaded",
@@ -1819,7 +1833,7 @@
       "youtube_id": "KBGlJd1_GB0",
       "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
       "tiktok_views": 476800,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
@@ -1903,7 +1917,7 @@
       "youtube_id": "cTLcefQUb7k",
       "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
       "tiktok_views": 633700,
-      "youtube_views": 15,
+      "youtube_views": 16,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1931,7 +1945,7 @@
       "youtube_id": "IwaBIQwrlus",
       "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
       "tiktok_views": 13800,
-      "youtube_views": 9,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -2183,7 +2197,7 @@
       "youtube_id": "lZw2Y3LiD-M",
       "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
       "tiktok_views": 292200,
-      "youtube_views": 9,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
@@ -2553,20 +2567,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-03T22:17:15Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7677190679428074765",
-      "youtube_id": "yyHs2FbbwXM",
-      "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
-      "tiktok_views": 4400000,
-      "youtube_views": 2,
-      "youtube_likes": 1,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-03T00:04:32Z"
     }
   ],
   "channel": {
@@ -2586,7 +2586,7 @@
     "subscribers": 0,
     "total_uploads": 34,
     "total_views": 471,
-    "total_likes": 3,
+    "total_likes": 2,
     "upcoming": {
       "slot1": {
         "slot": 1,
@@ -2616,84 +2616,98 @@
     "view_history": [
       {
         "date": "2026-09-03",
-        "views": 4,
-        "uploads": 2,
-        "cumulative_views": 4
+        "views": 2,
+        "uploads": 1,
+        "cumulative_views": 2
       },
       {
         "date": "2026-09-04",
         "views": 4,
         "uploads": 2,
-        "cumulative_views": 8
+        "cumulative_views": 6
       },
       {
         "date": "2026-09-05",
         "views": 3,
         "uploads": 2,
-        "cumulative_views": 11
+        "cumulative_views": 9
       },
       {
         "date": "2026-09-06",
         "views": 14,
         "uploads": 2,
-        "cumulative_views": 25
+        "cumulative_views": 23
       },
       {
         "date": "2026-09-07",
         "views": 10,
         "uploads": 2,
-        "cumulative_views": 35
+        "cumulative_views": 33
       },
       {
         "date": "2026-09-08",
         "views": 1,
         "uploads": 1,
-        "cumulative_views": 36
+        "cumulative_views": 34
       },
       {
         "date": "2026-09-10",
         "views": 3,
         "uploads": 2,
-        "cumulative_views": 39
+        "cumulative_views": 37
       },
       {
         "date": "2026-09-11",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 46
+        "cumulative_views": 44
       },
       {
         "date": "2026-09-12",
         "views": 367,
         "uploads": 3,
-        "cumulative_views": 413
+        "cumulative_views": 411
       },
       {
         "date": "2026-09-13",
         "views": 16,
         "uploads": 3,
-        "cumulative_views": 429
+        "cumulative_views": 427
       },
       {
         "date": "2026-09-14",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 430
+        "cumulative_views": 428
       },
       {
         "date": "2026-09-15",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 431
+        "cumulative_views": 429
       },
       {
         "date": "2026-09-16",
         "views": 0,
-        "uploads": 2,
-        "cumulative_views": 431
+        "uploads": 3,
+        "cumulative_views": 429
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7662762149856414989",
+        "youtube_id": "LTXCsx8kOcI",
+        "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
+        "tiktok_views": 119700,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-16T23:40:59Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -3099,20 +3113,6 @@
         "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-03T22:17:15Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7677190679428074765",
-        "youtube_id": "yyHs2FbbwXM",
-        "title": "Baby Saw Grandpa Walk and Said Hold On Let Me Try That \ud83d\ude02 #tiktokgrowt...",
-        "tiktok_views": 4400000,
-        "youtube_views": 2,
-        "youtube_likes": 1,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/yyHs2FbbwXM/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-03T00:04:32Z"
       }
     ],
     "runs": [
@@ -3319,7 +3319,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 70,
+    "total_uploads": 71,
     "total_views": 755,
     "total_likes": 6,
     "videos_per_day": 9
@@ -3552,5 +3552,5 @@
       "created_at": "2026-09-10T07:05:28.517675+00:00"
     }
   ],
-  "last_updated": "2026-09-16T23:40:43.145840+00:00"
+  "last_updated": "2026-09-17T01:08:58.723533+00:00"
 }
