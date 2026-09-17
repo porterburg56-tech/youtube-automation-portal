@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 72,
-    "total_views": 755,
+    "total_views": 884,
     "total_likes": 6,
     "total_subscribers": 3,
     "channels_count": 3,
@@ -9,102 +9,95 @@
   },
   "master_view_history": [
     {
-      "date": "2026-09-03",
-      "ch1_views": 2,
-      "ch2_views": 0,
-      "ch3_views": 0,
-      "total_views": 2
-    },
-    {
       "date": "2026-09-04",
-      "ch1_views": 6,
+      "ch1_views": 4,
       "ch2_views": 0,
       "ch3_views": 0,
-      "total_views": 6
+      "total_views": 4
     },
     {
       "date": "2026-09-05",
-      "ch1_views": 9,
+      "ch1_views": 7,
       "ch2_views": 15,
       "ch3_views": 0,
-      "total_views": 24
+      "total_views": 22
     },
     {
       "date": "2026-09-06",
-      "ch1_views": 23,
+      "ch1_views": 21,
       "ch2_views": 22,
       "ch3_views": 0,
-      "total_views": 45
+      "total_views": 43
     },
     {
       "date": "2026-09-07",
-      "ch1_views": 33,
+      "ch1_views": 31,
       "ch2_views": 50,
       "ch3_views": 0,
-      "total_views": 83
+      "total_views": 81
     },
     {
       "date": "2026-09-08",
-      "ch1_views": 34,
+      "ch1_views": 32,
       "ch2_views": 105,
       "ch3_views": 0,
-      "total_views": 139
+      "total_views": 137
     },
     {
       "date": "2026-09-10",
-      "ch1_views": 37,
+      "ch1_views": 35,
       "ch2_views": 110,
       "ch3_views": 0,
-      "total_views": 147
+      "total_views": 145
     },
     {
       "date": "2026-09-11",
-      "ch1_views": 44,
+      "ch1_views": 42,
       "ch2_views": 121,
       "ch3_views": 0,
-      "total_views": 165
+      "total_views": 163
     },
     {
       "date": "2026-09-12",
-      "ch1_views": 411,
+      "ch1_views": 409,
       "ch2_views": 129,
       "ch3_views": 0,
-      "total_views": 540
+      "total_views": 538
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 427,
+      "ch1_views": 425,
       "ch2_views": 168,
       "ch3_views": 0,
-      "total_views": 595
+      "total_views": 593
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 428,
-      "ch2_views": 218,
+      "ch1_views": 426,
+      "ch2_views": 226,
       "ch3_views": 0,
-      "total_views": 646
+      "total_views": 652
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 429,
-      "ch2_views": 263,
+      "ch1_views": 427,
+      "ch2_views": 275,
       "ch3_views": 0,
-      "total_views": 692
+      "total_views": 702
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 429,
-      "ch2_views": 265,
-      "ch3_views": 101,
-      "total_views": 795
+      "ch1_views": 427,
+      "ch2_views": 277,
+      "ch3_views": 167,
+      "total_views": 871
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 0,
-      "ch2_views": 265,
+      "ch1_views": 427,
+      "ch2_views": 284,
       "ch3_views": 0,
-      "total_views": 265
+      "total_views": 711
     }
   ],
   "channels": {
@@ -124,7 +117,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 35,
-      "total_views": 471,
+      "total_views": 472,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -154,85 +147,99 @@
       },
       "view_history": [
         {
-          "date": "2026-09-03",
-          "views": 2,
-          "uploads": 1,
-          "cumulative_views": 2
-        },
-        {
           "date": "2026-09-04",
           "views": 4,
           "uploads": 2,
-          "cumulative_views": 6
+          "cumulative_views": 4
         },
         {
           "date": "2026-09-05",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 9
+          "cumulative_views": 7
         },
         {
           "date": "2026-09-06",
           "views": 14,
           "uploads": 2,
-          "cumulative_views": 23
+          "cumulative_views": 21
         },
         {
           "date": "2026-09-07",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 33
+          "cumulative_views": 31
         },
         {
           "date": "2026-09-08",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 34
+          "cumulative_views": 32
         },
         {
           "date": "2026-09-10",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 37
+          "cumulative_views": 35
         },
         {
           "date": "2026-09-11",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 44
+          "cumulative_views": 42
         },
         {
           "date": "2026-09-12",
           "views": 367,
           "uploads": 3,
-          "cumulative_views": 411
+          "cumulative_views": 409
         },
         {
           "date": "2026-09-13",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 427
+          "cumulative_views": 425
         },
         {
           "date": "2026-09-14",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 428
+          "cumulative_views": 426
         },
         {
           "date": "2026-09-15",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 429
+          "cumulative_views": 427
         },
         {
           "date": "2026-09-16",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 429
+          "cumulative_views": 427
+        },
+        {
+          "date": "2026-09-17",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 427
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7677929356647206158",
+          "youtube_id": "pDRO1BpkUd8",
+          "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #shorts",
+          "tiktok_views": 97400,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/pDRO1BpkUd8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-17T02:09:23Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -638,20 +645,6 @@
           "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-04T00:04:05Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7681339924221562126",
-          "youtube_id": "7y42u0-PBQM",
-          "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
-          "tiktok_views": 11200,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-03T22:17:15Z"
         }
       ],
       "runs": [
@@ -873,7 +866,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 35,
-      "total_views": 284,
+      "total_views": 325,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -958,27 +951,27 @@
         },
         {
           "date": "2026-09-14",
-          "views": 50,
+          "views": 58,
           "uploads": 3,
-          "cumulative_views": 218
+          "cumulative_views": 226
         },
         {
           "date": "2026-09-15",
-          "views": 45,
+          "views": 49,
           "uploads": 3,
-          "cumulative_views": 263
+          "cumulative_views": 275
         },
         {
           "date": "2026-09-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 265
+          "cumulative_views": 277
         },
         {
           "date": "2026-09-17",
-          "views": 0,
+          "views": 7,
           "uploads": 1,
-          "cumulative_views": 265
+          "cumulative_views": 284
         }
       ],
       "videos": [
@@ -989,7 +982,7 @@
           "youtube_id": "TNkm_AtcbWI",
           "title": "Chocolate Banana Cake with 3 Simple Ingredients You'll Want Every Wee \u2728 #shorts",
           "tiktok_views": 551800,
-          "youtube_views": 0,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TNkm_AtcbWI/hqdefault.jpg",
@@ -1045,7 +1038,7 @@
           "youtube_id": "KBGlJd1_GB0",
           "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
           "tiktok_views": 476800,
-          "youtube_views": 7,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
@@ -1059,7 +1052,7 @@
           "youtube_id": "0yLRz-J0Xf8",
           "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
           "tiktok_views": 207400,
-          "youtube_views": 25,
+          "youtube_views": 27,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
@@ -1087,7 +1080,7 @@
           "youtube_id": "cTLcefQUb7k",
           "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
           "tiktok_views": 633700,
-          "youtube_views": 16,
+          "youtube_views": 17,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1101,7 +1094,7 @@
           "youtube_id": "IwaBIQwrlus",
           "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
           "tiktok_views": 13800,
-          "youtube_views": 10,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -1115,7 +1108,7 @@
           "youtube_id": "45A8pjcvAQg",
           "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
           "tiktok_views": 765900,
-          "youtube_views": 24,
+          "youtube_views": 29,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -1405,6 +1398,16 @@
       ],
       "runs": [
         {
+          "id": 39,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-17",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-17T16:21:20.531465+00:00"
+        },
+        {
           "id": 38,
           "channel_id": "channel_2",
           "slot": 3,
@@ -1593,16 +1596,6 @@
           "video_id": "eMsOP8u_G70",
           "error_message": null,
           "created_at": "2026-09-11T01:08:21.585132+00:00"
-        },
-        {
-          "id": 19,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-09-10",
-          "status": "success",
-          "video_id": "cql8Z24wBDw",
-          "error_message": null,
-          "created_at": "2026-09-10T22:19:26.169580+00:00"
         }
       ]
     },
@@ -1622,7 +1615,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 0,
       "total_uploads": 2,
-      "total_views": 0,
+      "total_views": 87,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -1653,9 +1646,9 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 101,
+          "views": 167,
           "uploads": 2,
-          "cumulative_views": 101
+          "cumulative_views": 167
         }
       ],
       "videos": [
@@ -1666,7 +1659,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 97,
+          "youtube_views": 163,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1724,13 +1717,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7677929356647206158",
+      "youtube_id": "pDRO1BpkUd8",
+      "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #shorts",
+      "tiktok_views": 97400,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/pDRO1BpkUd8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-17T02:09:23Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7662096961461341453",
       "youtube_id": "TNkm_AtcbWI",
       "title": "Chocolate Banana Cake with 3 Simple Ingredients You'll Want Every Wee \u2728 #shorts",
       "tiktok_views": 551800,
-      "youtube_views": 0,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TNkm_AtcbWI/hqdefault.jpg",
@@ -1800,7 +1807,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 97,
+      "youtube_views": 163,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1870,7 +1877,7 @@
       "youtube_id": "KBGlJd1_GB0",
       "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
       "tiktok_views": 476800,
-      "youtube_views": 7,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
@@ -1898,7 +1905,7 @@
       "youtube_id": "0yLRz-J0Xf8",
       "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
       "tiktok_views": 207400,
-      "youtube_views": 25,
+      "youtube_views": 27,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
@@ -1954,7 +1961,7 @@
       "youtube_id": "cTLcefQUb7k",
       "title": "Cheesy Stuffed Onions with Minced Meat & Potatoes \ud83e\uddc0\ud83d\udd25 StuffedOnions",
       "tiktok_views": 633700,
-      "youtube_views": 16,
+      "youtube_views": 17,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
@@ -1982,7 +1989,7 @@
       "youtube_id": "IwaBIQwrlus",
       "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
       "tiktok_views": 13800,
-      "youtube_views": 10,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
@@ -2010,7 +2017,7 @@
       "youtube_id": "45A8pjcvAQg",
       "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
       "tiktok_views": 765900,
-      "youtube_views": 24,
+      "youtube_views": 29,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -2576,20 +2583,6 @@
       "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-04T00:04:05Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7681339924221562126",
-      "youtube_id": "7y42u0-PBQM",
-      "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
-      "tiktok_views": 11200,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-03T22:17:15Z"
     }
   ],
   "channel": {
@@ -2608,7 +2601,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 35,
-    "total_views": 471,
+    "total_views": 472,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -2638,85 +2631,99 @@
     },
     "view_history": [
       {
-        "date": "2026-09-03",
-        "views": 2,
-        "uploads": 1,
-        "cumulative_views": 2
-      },
-      {
         "date": "2026-09-04",
         "views": 4,
         "uploads": 2,
-        "cumulative_views": 6
+        "cumulative_views": 4
       },
       {
         "date": "2026-09-05",
         "views": 3,
         "uploads": 2,
-        "cumulative_views": 9
+        "cumulative_views": 7
       },
       {
         "date": "2026-09-06",
         "views": 14,
         "uploads": 2,
-        "cumulative_views": 23
+        "cumulative_views": 21
       },
       {
         "date": "2026-09-07",
         "views": 10,
         "uploads": 2,
-        "cumulative_views": 33
+        "cumulative_views": 31
       },
       {
         "date": "2026-09-08",
         "views": 1,
         "uploads": 1,
-        "cumulative_views": 34
+        "cumulative_views": 32
       },
       {
         "date": "2026-09-10",
         "views": 3,
         "uploads": 2,
-        "cumulative_views": 37
+        "cumulative_views": 35
       },
       {
         "date": "2026-09-11",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 44
+        "cumulative_views": 42
       },
       {
         "date": "2026-09-12",
         "views": 367,
         "uploads": 3,
-        "cumulative_views": 411
+        "cumulative_views": 409
       },
       {
         "date": "2026-09-13",
         "views": 16,
         "uploads": 3,
-        "cumulative_views": 427
+        "cumulative_views": 425
       },
       {
         "date": "2026-09-14",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 428
+        "cumulative_views": 426
       },
       {
         "date": "2026-09-15",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 429
+        "cumulative_views": 427
       },
       {
         "date": "2026-09-16",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 429
+        "cumulative_views": 427
+      },
+      {
+        "date": "2026-09-17",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 427
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7677929356647206158",
+        "youtube_id": "pDRO1BpkUd8",
+        "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #shorts",
+        "tiktok_views": 97400,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/pDRO1BpkUd8/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-17T02:09:23Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -3122,20 +3129,6 @@
         "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-04T00:04:05Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7681339924221562126",
-        "youtube_id": "7y42u0-PBQM",
-        "title": "Grandma Walked to the Bathroom Baby Was Right Behind Her Waiting \ud83e\udd23 #t...",
-        "tiktok_views": 11200,
-        "youtube_views": 2,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/7y42u0-PBQM/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-03T22:17:15Z"
       }
     ],
     "runs": [
@@ -3343,7 +3336,7 @@
   },
   "kpis": {
     "total_uploads": 72,
-    "total_views": 755,
+    "total_views": 884,
     "total_likes": 6,
     "videos_per_day": 9
   },
@@ -3575,5 +3568,5 @@
       "created_at": "2026-09-10T23:39:56.967289+00:00"
     }
   ],
-  "last_updated": "2026-09-17T02:09:04.905571+00:00"
+  "last_updated": "2026-09-17T16:21:23.923454+00:00"
 }
