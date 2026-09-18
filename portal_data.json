@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 72,
-    "total_views": 956,
+    "total_views": 982,
     "total_likes": 6,
     "total_subscribers": 3,
     "channels_count": 3,
@@ -89,8 +89,8 @@
       "date": "2026-09-16",
       "ch1_views": 427,
       "ch2_views": 278,
-      "ch3_views": 175,
-      "total_views": 880
+      "ch3_views": 176,
+      "total_views": 881
     },
     {
       "date": "2026-09-17",
@@ -1615,7 +1615,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 0,
       "total_uploads": 2,
-      "total_views": 141,
+      "total_views": 167,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -1646,9 +1646,9 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 175,
+          "views": 176,
           "uploads": 2,
-          "cumulative_views": 175
+          "cumulative_views": 176
         }
       ],
       "videos": [
@@ -1659,7 +1659,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 171,
+          "youtube_views": 172,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1682,6 +1682,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 9,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-09-18",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
+          "created_at": "2026-09-18T05:03:28.920281+00:00"
+        },
         {
           "id": 8,
           "channel_id": "channel_3",
@@ -1837,7 +1847,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 171,
+      "youtube_views": 172,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -3366,7 +3376,7 @@
   },
   "kpis": {
     "total_uploads": 72,
-    "total_views": 956,
+    "total_views": 982,
     "total_likes": 6,
     "videos_per_day": 9
   },
@@ -3598,5 +3608,5 @@
       "created_at": "2026-09-11T23:39:25.149895+00:00"
     }
   ],
-  "last_updated": "2026-09-18T04:43:08.632860+00:00"
+  "last_updated": "2026-09-18T05:03:32.152856+00:00"
 }
