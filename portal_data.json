@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 73,
-    "total_views": 949,
+    "total_views": 982,
     "total_likes": 6,
     "total_subscribers": 3,
     "channels_count": 3,
@@ -89,8 +89,8 @@
       "date": "2026-09-16",
       "ch1_views": 427,
       "ch2_views": 278,
-      "ch3_views": 176,
-      "total_views": 881
+      "ch3_views": 175,
+      "total_views": 880
     },
     {
       "date": "2026-09-17",
@@ -103,8 +103,8 @@
       "date": "2026-09-18",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 176,
-      "total_views": 176
+      "ch3_views": 175,
+      "total_views": 175
     }
   ],
   "channels": {
@@ -873,7 +873,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 35,
-      "total_views": 336,
+      "total_views": 343,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -1622,7 +1622,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 0,
       "total_uploads": 3,
-      "total_views": 141,
+      "total_views": 167,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -1653,15 +1653,15 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 176,
+          "views": 175,
           "uploads": 2,
-          "cumulative_views": 176
+          "cumulative_views": 175
         },
         {
           "date": "2026-09-18",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 176
+          "cumulative_views": 175
         }
       ],
       "videos": [
@@ -1677,7 +1677,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/vbW91u-uZrM/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-18T05:16:29Z"
+          "uploaded_at": "2026-09-18T05:16:52Z"
         },
         {
           "channel_id": "channel_3",
@@ -1686,7 +1686,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 172,
+          "youtube_views": 171,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1805,7 +1805,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/vbW91u-uZrM/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-18T05:16:29Z"
+      "uploaded_at": "2026-09-18T05:16:52Z"
     },
     {
       "channel_id": "channel_1",
@@ -1898,7 +1898,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 172,
+      "youtube_views": 171,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -3427,7 +3427,7 @@
   },
   "kpis": {
     "total_uploads": 73,
-    "total_views": 949,
+    "total_views": 982,
     "total_likes": 6,
     "videos_per_day": 9
   },
@@ -3659,5 +3659,5 @@
       "created_at": "2026-09-11T23:39:25.149895+00:00"
     }
   ],
-  "last_updated": "2026-09-18T05:16:34.752126+00:00"
+  "last_updated": "2026-09-18T05:17:23.589323+00:00"
 }
