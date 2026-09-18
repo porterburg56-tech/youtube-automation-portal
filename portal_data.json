@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 77,
-    "total_views": 991,
+    "total_uploads": 78,
+    "total_views": 1003,
     "total_likes": 20,
     "total_subscribers": 4,
     "channels_count": 3,
@@ -80,24 +80,24 @@
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 425,
-      "ch2_views": 279,
+      "ch1_views": 428,
+      "ch2_views": 282,
       "ch3_views": 182,
-      "total_views": 886
+      "total_views": 892
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 425,
-      "ch2_views": 288,
+      "ch1_views": 428,
+      "ch2_views": 291,
       "ch3_views": 0,
-      "total_views": 713
+      "total_views": 719
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 430,
-      "ch2_views": 288,
-      "ch3_views": 2849,
-      "total_views": 3567
+      "ch1_views": 433,
+      "ch2_views": 291,
+      "ch3_views": 3425,
+      "total_views": 4149
     }
   ],
   "channels": {
@@ -208,21 +208,21 @@
         },
         {
           "date": "2026-09-16",
-          "views": 1,
+          "views": 4,
           "uploads": 3,
-          "cumulative_views": 425
+          "cumulative_views": 428
         },
         {
           "date": "2026-09-17",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 425
+          "cumulative_views": 428
         },
         {
           "date": "2026-09-18",
           "views": 5,
           "uploads": 2,
-          "cumulative_views": 430
+          "cumulative_views": 433
         }
       ],
       "videos": [
@@ -275,7 +275,7 @@
           "youtube_id": "LTXCsx8kOcI",
           "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
           "tiktok_views": 119700,
-          "youtube_views": 1,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
@@ -289,7 +289,7 @@
           "youtube_id": "9zwfhL4WrrQ",
           "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 #shorts",
           "tiktok_views": 3486,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9zwfhL4WrrQ/hqdefault.jpg",
@@ -866,7 +866,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 36,
-      "total_views": 343,
+      "total_views": 355,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -957,21 +957,21 @@
         },
         {
           "date": "2026-09-16",
-          "views": 2,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 279
+          "cumulative_views": 282
         },
         {
           "date": "2026-09-17",
           "views": 9,
           "uploads": 1,
-          "cumulative_views": 288
+          "cumulative_views": 291
         },
         {
           "date": "2026-09-18",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 288
+          "cumulative_views": 291
         }
       ],
       "videos": [
@@ -1010,7 +1010,7 @@
           "youtube_id": "9viy7TJKYLM",
           "title": "Crispy Puff Pastry Cream Baskets with Chocolate & Hazelnuts \u2728 #shorts",
           "tiktok_views": 582600,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9viy7TJKYLM/hqdefault.jpg",
@@ -1614,7 +1614,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 1,
-      "total_uploads": 4,
+      "total_uploads": 5,
       "total_views": 176,
       "total_likes": 17,
       "upcoming": {
@@ -1652,12 +1652,26 @@
         },
         {
           "date": "2026-09-18",
-          "views": 2667,
-          "uploads": 2,
-          "cumulative_views": 2849
+          "views": 3243,
+          "uploads": 3,
+          "cumulative_views": 3425
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1Z4c6oB1Di6apxrughujoWGBNv-yyEjfu",
+          "youtube_id": "um2nCzxcEAE",
+          "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-18T22:04:16Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1665,7 +1679,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1328,
+          "youtube_views": 1696,
           "youtube_likes": 7,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1679,7 +1693,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1339,
+          "youtube_views": 1547,
           "youtube_likes": 7,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -1716,6 +1730,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 13,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-09-18",
+          "status": "success",
+          "video_id": "um2nCzxcEAE",
+          "error_message": null,
+          "created_at": "2026-09-18T22:04:19.704782+00:00"
+        },
         {
           "id": 12,
           "channel_id": "channel_3",
@@ -1801,6 +1825,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1Z4c6oB1Di6apxrughujoWGBNv-yyEjfu",
+      "youtube_id": "um2nCzxcEAE",
+      "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-18T22:04:16Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7686196593879452942",
@@ -1835,7 +1873,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1328,
+      "youtube_views": 1696,
       "youtube_likes": 7,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1849,7 +1887,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1339,
+      "youtube_views": 1547,
       "youtube_likes": 7,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -1905,7 +1943,7 @@
       "youtube_id": "LTXCsx8kOcI",
       "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
       "tiktok_views": 119700,
-      "youtube_views": 1,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
@@ -1919,7 +1957,7 @@
       "youtube_id": "9viy7TJKYLM",
       "title": "Crispy Puff Pastry Cream Baskets with Chocolate & Hazelnuts \u2728 #shorts",
       "tiktok_views": 582600,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9viy7TJKYLM/hqdefault.jpg",
@@ -1933,7 +1971,7 @@
       "youtube_id": "9zwfhL4WrrQ",
       "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 #shorts",
       "tiktok_views": 3486,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9zwfhL4WrrQ/hqdefault.jpg",
@@ -2804,21 +2842,21 @@
       },
       {
         "date": "2026-09-16",
-        "views": 1,
+        "views": 4,
         "uploads": 3,
-        "cumulative_views": 425
+        "cumulative_views": 428
       },
       {
         "date": "2026-09-17",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 425
+        "cumulative_views": 428
       },
       {
         "date": "2026-09-18",
         "views": 5,
         "uploads": 2,
-        "cumulative_views": 430
+        "cumulative_views": 433
       }
     ],
     "videos": [
@@ -2871,7 +2909,7 @@
         "youtube_id": "LTXCsx8kOcI",
         "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
         "tiktok_views": 119700,
-        "youtube_views": 1,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
@@ -2885,7 +2923,7 @@
         "youtube_id": "9zwfhL4WrrQ",
         "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 #shorts",
         "tiktok_views": 3486,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/9zwfhL4WrrQ/hqdefault.jpg",
@@ -3447,8 +3485,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 77,
-    "total_views": 991,
+    "total_uploads": 78,
+    "total_views": 1003,
     "total_likes": 20,
     "videos_per_day": 9
   },
@@ -3680,5 +3718,5 @@
       "created_at": "2026-09-12T17:15:39.326339+00:00"
     }
   ],
-  "last_updated": "2026-09-18T17:14:29.029448+00:00"
+  "last_updated": "2026-09-18T22:04:23.284821+00:00"
 }
