@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 73,
+    "total_uploads": 74,
     "total_views": 982,
     "total_likes": 6,
     "total_subscribers": 3,
@@ -89,8 +89,8 @@
       "date": "2026-09-16",
       "ch1_views": 427,
       "ch2_views": 278,
-      "ch3_views": 175,
-      "total_views": 880
+      "ch3_views": 176,
+      "total_views": 881
     },
     {
       "date": "2026-09-17",
@@ -103,8 +103,8 @@
       "date": "2026-09-18",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 175,
-      "total_views": 175
+      "ch3_views": 176,
+      "total_views": 176
     }
   ],
   "channels": {
@@ -123,7 +123,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 35,
+      "total_uploads": 36,
       "total_views": 472,
       "total_likes": 2,
       "upcoming": {
@@ -656,6 +656,16 @@
       ],
       "runs": [
         {
+          "id": 44,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-18",
+          "status": "success",
+          "video_id": "1VlWwrdQ7JA",
+          "error_message": null,
+          "created_at": "2026-09-18T05:37:20.290325+00:00"
+        },
+        {
           "id": 43,
           "channel_id": "channel_1",
           "slot": 3,
@@ -844,16 +854,6 @@
           "video_id": "y15slAQPe6w",
           "error_message": null,
           "created_at": "2026-09-12T02:09:14.012569+00:00"
-        },
-        {
-          "id": 24,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-09-11",
-          "status": "success",
-          "video_id": "8__A-X6lNDk",
-          "error_message": null,
-          "created_at": "2026-09-11T23:39:25.149895+00:00"
         }
       ]
     },
@@ -1653,15 +1653,15 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 175,
+          "views": 176,
           "uploads": 2,
-          "cumulative_views": 175
+          "cumulative_views": 176
         },
         {
           "date": "2026-09-18",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 175
+          "cumulative_views": 176
         }
       ],
       "videos": [
@@ -1670,14 +1670,14 @@
           "channel_name": "Oddly Satisfying Nails",
           "tiktok_id": "1-7_9Rh-rriSLYDFCj9t0w1nj5YPpthVb",
           "youtube_id": "vbW91u-uZrM",
-          "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96 #shorts",
+          "title": "03 Generated video",
           "tiktok_views": 0,
           "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/vbW91u-uZrM/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-18T05:16:52Z"
+          "uploaded_at": "2026-09-18T05:16:31.833963+00:00"
         },
         {
           "channel_id": "channel_3",
@@ -1686,7 +1686,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 171,
+          "youtube_views": 172,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1798,14 +1798,14 @@
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1-7_9Rh-rriSLYDFCj9t0w1nj5YPpthVb",
       "youtube_id": "vbW91u-uZrM",
-      "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96 #shorts",
+      "title": "03 Generated video",
       "tiktok_views": 0,
       "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/vbW91u-uZrM/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-18T05:16:52Z"
+      "uploaded_at": "2026-09-18T05:16:31.833963+00:00"
     },
     {
       "channel_id": "channel_1",
@@ -1898,7 +1898,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 171,
+      "youtube_views": 172,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -2691,7 +2691,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 35,
+    "total_uploads": 36,
     "total_views": 472,
     "total_likes": 2,
     "upcoming": {
@@ -3224,6 +3224,16 @@
     ],
     "runs": [
       {
+        "id": 44,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-18",
+        "status": "success",
+        "video_id": "1VlWwrdQ7JA",
+        "error_message": null,
+        "created_at": "2026-09-18T05:37:20.290325+00:00"
+      },
+      {
         "id": 43,
         "channel_id": "channel_1",
         "slot": 3,
@@ -3412,21 +3422,11 @@
         "video_id": "y15slAQPe6w",
         "error_message": null,
         "created_at": "2026-09-12T02:09:14.012569+00:00"
-      },
-      {
-        "id": 24,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-09-11",
-        "status": "success",
-        "video_id": "8__A-X6lNDk",
-        "error_message": null,
-        "created_at": "2026-09-11T23:39:25.149895+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 73,
+    "total_uploads": 74,
     "total_views": 982,
     "total_likes": 6,
     "videos_per_day": 9
@@ -3458,6 +3458,16 @@
     }
   },
   "runs": [
+    {
+      "id": 44,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-18",
+      "status": "success",
+      "video_id": "1VlWwrdQ7JA",
+      "error_message": null,
+      "created_at": "2026-09-18T05:37:20.290325+00:00"
+    },
     {
       "id": 43,
       "channel_id": "channel_1",
@@ -3647,17 +3657,7 @@
       "video_id": "y15slAQPe6w",
       "error_message": null,
       "created_at": "2026-09-12T02:09:14.012569+00:00"
-    },
-    {
-      "id": 24,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-09-11",
-      "status": "success",
-      "video_id": "8__A-X6lNDk",
-      "error_message": null,
-      "created_at": "2026-09-11T23:39:25.149895+00:00"
     }
   ],
-  "last_updated": "2026-09-18T05:17:23.589323+00:00"
+  "last_updated": "2026-09-18T05:37:23.427237+00:00"
 }
