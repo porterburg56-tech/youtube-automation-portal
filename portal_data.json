@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 75,
+    "total_uploads": 72,
     "total_views": 982,
     "total_likes": 6,
     "total_subscribers": 3,
@@ -98,13 +98,6 @@
       "ch2_views": 286,
       "ch3_views": 0,
       "total_views": 713
-    },
-    {
-      "date": "2026-09-18",
-      "ch1_views": 0,
-      "ch2_views": 0,
-      "ch3_views": 176,
-      "total_views": 176
     }
   ],
   "channels": {
@@ -123,7 +116,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 36,
+      "total_uploads": 35,
       "total_views": 472,
       "total_likes": 2,
       "upcoming": {
@@ -656,16 +649,6 @@
       ],
       "runs": [
         {
-          "id": 44,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-18",
-          "status": "success",
-          "video_id": "1VlWwrdQ7JA",
-          "error_message": null,
-          "created_at": "2026-09-18T05:37:20.290325+00:00"
-        },
-        {
           "id": 43,
           "channel_id": "channel_1",
           "slot": 3,
@@ -854,6 +837,16 @@
           "video_id": "y15slAQPe6w",
           "error_message": null,
           "created_at": "2026-09-12T02:09:14.012569+00:00"
+        },
+        {
+          "id": 24,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-11",
+          "status": "success",
+          "video_id": "8__A-X6lNDk",
+          "error_message": null,
+          "created_at": "2026-09-11T23:39:25.149895+00:00"
         }
       ]
     },
@@ -872,7 +865,7 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 36,
+      "total_uploads": 35,
       "total_views": 343,
       "total_likes": 1,
       "upcoming": {
@@ -1405,36 +1398,6 @@
       ],
       "runs": [
         {
-          "id": 44,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-18",
-          "status": "success",
-          "video_id": "4fqxwJ0HkeI",
-          "error_message": null,
-          "created_at": "2026-09-18T07:36:32.219317+00:00"
-        },
-        {
-          "id": 43,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-18",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "'utf-8' codec can't decode byte 0xc8 in position 236: invalid continuation byte",
-          "created_at": "2026-09-18T07:23:31.493254+00:00"
-        },
-        {
-          "id": 42,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-18",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "Expecting value: line 1 column 1 (char 0)",
-          "created_at": "2026-09-18T07:01:27.757797+00:00"
-        },
-        {
           "id": 41,
           "channel_id": "channel_2",
           "slot": 3,
@@ -1603,6 +1566,36 @@
           "video_id": "0iNyvoUwVu0",
           "error_message": null,
           "created_at": "2026-09-12T22:19:53.809364+00:00"
+        },
+        {
+          "id": 24,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-12",
+          "status": "success",
+          "video_id": "-66iQZlh8Lk",
+          "error_message": null,
+          "created_at": "2026-09-12T16:18:30.939520+00:00"
+        },
+        {
+          "id": 23,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-09-12",
+          "status": "success",
+          "video_id": "kjK0O81Zne4",
+          "error_message": null,
+          "created_at": "2026-09-12T01:07:19.472346+00:00"
+        },
+        {
+          "id": 22,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-09-11",
+          "status": "success",
+          "video_id": "Oa87vgbUaSU",
+          "error_message": null,
+          "created_at": "2026-09-11T22:20:19.985611+00:00"
         }
       ]
     },
@@ -1621,7 +1614,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 0,
-      "total_uploads": 3,
+      "total_uploads": 2,
       "total_views": 167,
       "total_likes": 3,
       "upcoming": {
@@ -1656,29 +1649,9 @@
           "views": 176,
           "uploads": 2,
           "cumulative_views": 176
-        },
-        {
-          "date": "2026-09-18",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 176
         }
       ],
       "videos": [
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1-7_9Rh-rriSLYDFCj9t0w1nj5YPpthVb",
-          "youtube_id": "vbW91u-uZrM",
-          "title": "03 Generated video",
-          "tiktok_views": 0,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/vbW91u-uZrM/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-18T05:16:31.833963+00:00"
-        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1709,26 +1682,6 @@
         }
       ],
       "runs": [
-        {
-          "id": 10,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-09-18",
-          "status": "success",
-          "video_id": "vbW91u-uZrM",
-          "error_message": null,
-          "created_at": "2026-09-18T05:16:31.836371+00:00"
-        },
-        {
-          "id": 9,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-09-18",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
-          "created_at": "2026-09-18T05:03:28.920281+00:00"
-        },
         {
           "id": 8,
           "channel_id": "channel_3",
@@ -1793,20 +1746,6 @@
     }
   },
   "videos": [
-    {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1-7_9Rh-rriSLYDFCj9t0w1nj5YPpthVb",
-      "youtube_id": "vbW91u-uZrM",
-      "title": "03 Generated video",
-      "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/vbW91u-uZrM/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-18T05:16:31.833963+00:00"
-    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -2691,7 +2630,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 36,
+    "total_uploads": 35,
     "total_views": 472,
     "total_likes": 2,
     "upcoming": {
@@ -3224,16 +3163,6 @@
     ],
     "runs": [
       {
-        "id": 44,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-18",
-        "status": "success",
-        "video_id": "1VlWwrdQ7JA",
-        "error_message": null,
-        "created_at": "2026-09-18T05:37:20.290325+00:00"
-      },
-      {
         "id": 43,
         "channel_id": "channel_1",
         "slot": 3,
@@ -3422,11 +3351,21 @@
         "video_id": "y15slAQPe6w",
         "error_message": null,
         "created_at": "2026-09-12T02:09:14.012569+00:00"
+      },
+      {
+        "id": 24,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-11",
+        "status": "success",
+        "video_id": "8__A-X6lNDk",
+        "error_message": null,
+        "created_at": "2026-09-11T23:39:25.149895+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 75,
+    "total_uploads": 72,
     "total_views": 982,
     "total_likes": 6,
     "videos_per_day": 9
@@ -3458,16 +3397,6 @@
     }
   },
   "runs": [
-    {
-      "id": 44,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-18",
-      "status": "success",
-      "video_id": "1VlWwrdQ7JA",
-      "error_message": null,
-      "created_at": "2026-09-18T05:37:20.290325+00:00"
-    },
     {
       "id": 43,
       "channel_id": "channel_1",
@@ -3657,7 +3586,17 @@
       "video_id": "y15slAQPe6w",
       "error_message": null,
       "created_at": "2026-09-12T02:09:14.012569+00:00"
+    },
+    {
+      "id": 24,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-11",
+      "status": "success",
+      "video_id": "8__A-X6lNDk",
+      "error_message": null,
+      "created_at": "2026-09-11T23:39:25.149895+00:00"
     }
   ],
-  "last_updated": "2026-09-18T07:38:51.555210+00:00"
+  "last_updated": "2026-09-18T07:40:58.473601+00:00"
 }
