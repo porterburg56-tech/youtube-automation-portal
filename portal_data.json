@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 72,
-    "total_views": 982,
+    "total_uploads": 73,
+    "total_views": 949,
     "total_likes": 6,
     "total_subscribers": 3,
     "channels_count": 3,
@@ -98,6 +98,13 @@
       "ch2_views": 286,
       "ch3_views": 0,
       "total_views": 713
+    },
+    {
+      "date": "2026-09-18",
+      "ch1_views": 0,
+      "ch2_views": 0,
+      "ch3_views": 176,
+      "total_views": 176
     }
   ],
   "channels": {
@@ -866,7 +873,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 35,
-      "total_views": 343,
+      "total_views": 336,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -1614,8 +1621,8 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 0,
-      "total_uploads": 2,
-      "total_views": 167,
+      "total_uploads": 3,
+      "total_views": 141,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -1649,9 +1656,29 @@
           "views": 176,
           "uploads": 2,
           "cumulative_views": 176
+        },
+        {
+          "date": "2026-09-18",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 176
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1-7_9Rh-rriSLYDFCj9t0w1nj5YPpthVb",
+          "youtube_id": "vbW91u-uZrM",
+          "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96 #shorts",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/vbW91u-uZrM/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-18T05:16:29Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1682,6 +1709,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 10,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-09-18",
+          "status": "success",
+          "video_id": "vbW91u-uZrM",
+          "error_message": null,
+          "created_at": "2026-09-18T05:16:31.836371+00:00"
+        },
         {
           "id": 9,
           "channel_id": "channel_3",
@@ -1756,6 +1793,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1-7_9Rh-rriSLYDFCj9t0w1nj5YPpthVb",
+      "youtube_id": "vbW91u-uZrM",
+      "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96 #shorts",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/vbW91u-uZrM/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-18T05:16:29Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -3375,8 +3426,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 72,
-    "total_views": 982,
+    "total_uploads": 73,
+    "total_views": 949,
     "total_likes": 6,
     "videos_per_day": 9
   },
@@ -3608,5 +3659,5 @@
       "created_at": "2026-09-11T23:39:25.149895+00:00"
     }
   ],
-  "last_updated": "2026-09-18T05:03:32.152856+00:00"
+  "last_updated": "2026-09-18T05:16:34.752126+00:00"
 }
