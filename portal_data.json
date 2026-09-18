@@ -10,101 +10,101 @@
   "master_view_history": [
     {
       "date": "2026-09-04",
-      "ch1_views": 0,
+      "ch1_views": 4,
       "ch2_views": 0,
       "ch3_views": 0,
-      "total_views": 0
+      "total_views": 4
     },
     {
       "date": "2026-09-05",
-      "ch1_views": 3,
+      "ch1_views": 7,
       "ch2_views": 15,
       "ch3_views": 0,
-      "total_views": 18
+      "total_views": 22
     },
     {
       "date": "2026-09-06",
-      "ch1_views": 17,
+      "ch1_views": 21,
       "ch2_views": 22,
       "ch3_views": 0,
-      "total_views": 39
+      "total_views": 43
     },
     {
       "date": "2026-09-07",
-      "ch1_views": 27,
+      "ch1_views": 31,
       "ch2_views": 50,
       "ch3_views": 0,
-      "total_views": 77
+      "total_views": 81
     },
     {
       "date": "2026-09-08",
-      "ch1_views": 28,
+      "ch1_views": 32,
       "ch2_views": 105,
       "ch3_views": 0,
-      "total_views": 133
+      "total_views": 137
     },
     {
       "date": "2026-09-10",
-      "ch1_views": 31,
+      "ch1_views": 35,
       "ch2_views": 110,
       "ch3_views": 0,
-      "total_views": 141
+      "total_views": 145
     },
     {
       "date": "2026-09-11",
-      "ch1_views": 38,
+      "ch1_views": 42,
       "ch2_views": 120,
       "ch3_views": 0,
-      "total_views": 158
+      "total_views": 162
     },
     {
       "date": "2026-09-12",
-      "ch1_views": 405,
+      "ch1_views": 409,
       "ch2_views": 128,
       "ch3_views": 0,
-      "total_views": 533
+      "total_views": 537
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 421,
+      "ch1_views": 425,
       "ch2_views": 167,
       "ch3_views": 0,
-      "total_views": 588
+      "total_views": 592
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 422,
+      "ch1_views": 426,
       "ch2_views": 226,
       "ch3_views": 0,
-      "total_views": 648
+      "total_views": 652
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 423,
+      "ch1_views": 427,
       "ch2_views": 276,
       "ch3_views": 0,
-      "total_views": 699
+      "total_views": 703
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 423,
+      "ch1_views": 427,
       "ch2_views": 278,
-      "ch3_views": 178,
-      "total_views": 879
+      "ch3_views": 176,
+      "total_views": 881
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 423,
+      "ch1_views": 427,
       "ch2_views": 286,
       "ch3_views": 0,
-      "total_views": 709
+      "total_views": 713
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 423,
+      "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 178,
-      "total_views": 601
+      "ch3_views": 176,
+      "total_views": 176
     }
   ],
   "channels": {
@@ -155,104 +155,84 @@
       "view_history": [
         {
           "date": "2026-09-04",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
+          "views": 4,
+          "uploads": 2,
+          "cumulative_views": 4
         },
         {
           "date": "2026-09-05",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 3
+          "cumulative_views": 7
         },
         {
           "date": "2026-09-06",
           "views": 14,
           "uploads": 2,
-          "cumulative_views": 17
+          "cumulative_views": 21
         },
         {
           "date": "2026-09-07",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 27
+          "cumulative_views": 31
         },
         {
           "date": "2026-09-08",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 28
+          "cumulative_views": 32
         },
         {
           "date": "2026-09-10",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 31
+          "cumulative_views": 35
         },
         {
           "date": "2026-09-11",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 38
+          "cumulative_views": 42
         },
         {
           "date": "2026-09-12",
           "views": 367,
           "uploads": 3,
-          "cumulative_views": 405
+          "cumulative_views": 409
         },
         {
           "date": "2026-09-13",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 421
+          "cumulative_views": 425
         },
         {
           "date": "2026-09-14",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 422
+          "cumulative_views": 426
         },
         {
           "date": "2026-09-15",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 423
+          "cumulative_views": 427
         },
         {
           "date": "2026-09-16",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 423
+          "cumulative_views": 427
         },
         {
           "date": "2026-09-17",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 423
-        },
-        {
-          "date": "2026-09-18",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 423
+          "cumulative_views": 427
         }
       ],
       "videos": [
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7686508809631616269",
-          "youtube_id": "1VlWwrdQ7JA",
-          "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25 #shorts",
-          "tiktok_views": 13800,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/1VlWwrdQ7JA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-18T05:37:37Z"
-        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -658,6 +638,20 @@
           "thumbnail": "https://i.ytimg.com/vi/PaLcQYv70cc/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-04T22:17:02Z"
+        },
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7677235005495446797",
+          "youtube_id": "yYZcQkQHknU",
+          "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
+          "tiktok_views": 3600000,
+          "youtube_views": 4,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-04T00:04:05Z"
         }
       ],
       "runs": [
@@ -1659,15 +1653,15 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 178,
+          "views": 176,
           "uploads": 2,
-          "cumulative_views": 178
+          "cumulative_views": 176
         },
         {
           "date": "2026-09-18",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 178
+          "cumulative_views": 176
         }
       ],
       "videos": [
@@ -1692,7 +1686,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 174,
+          "youtube_views": 172,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1800,20 +1794,6 @@
   },
   "videos": [
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7686508809631616269",
-      "youtube_id": "1VlWwrdQ7JA",
-      "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25 #shorts",
-      "tiktok_views": 13800,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/1VlWwrdQ7JA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-18T05:37:37Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1-7_9Rh-rriSLYDFCj9t0w1nj5YPpthVb",
@@ -1918,7 +1898,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 174,
+      "youtube_views": 172,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -2680,6 +2660,20 @@
       "thumbnail": "https://i.ytimg.com/vi/GibB4tdu1e0/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-04T19:12:39Z"
+    },
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7677235005495446797",
+      "youtube_id": "yYZcQkQHknU",
+      "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
+      "tiktok_views": 3600000,
+      "youtube_views": 4,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-04T00:04:05Z"
     }
   ],
   "channel": {
@@ -2729,104 +2723,84 @@
     "view_history": [
       {
         "date": "2026-09-04",
-        "views": 0,
-        "uploads": 1,
-        "cumulative_views": 0
+        "views": 4,
+        "uploads": 2,
+        "cumulative_views": 4
       },
       {
         "date": "2026-09-05",
         "views": 3,
         "uploads": 2,
-        "cumulative_views": 3
+        "cumulative_views": 7
       },
       {
         "date": "2026-09-06",
         "views": 14,
         "uploads": 2,
-        "cumulative_views": 17
+        "cumulative_views": 21
       },
       {
         "date": "2026-09-07",
         "views": 10,
         "uploads": 2,
-        "cumulative_views": 27
+        "cumulative_views": 31
       },
       {
         "date": "2026-09-08",
         "views": 1,
         "uploads": 1,
-        "cumulative_views": 28
+        "cumulative_views": 32
       },
       {
         "date": "2026-09-10",
         "views": 3,
         "uploads": 2,
-        "cumulative_views": 31
+        "cumulative_views": 35
       },
       {
         "date": "2026-09-11",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 38
+        "cumulative_views": 42
       },
       {
         "date": "2026-09-12",
         "views": 367,
         "uploads": 3,
-        "cumulative_views": 405
+        "cumulative_views": 409
       },
       {
         "date": "2026-09-13",
         "views": 16,
         "uploads": 3,
-        "cumulative_views": 421
+        "cumulative_views": 425
       },
       {
         "date": "2026-09-14",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 422
+        "cumulative_views": 426
       },
       {
         "date": "2026-09-15",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 423
+        "cumulative_views": 427
       },
       {
         "date": "2026-09-16",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 423
+        "cumulative_views": 427
       },
       {
         "date": "2026-09-17",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 423
-      },
-      {
-        "date": "2026-09-18",
-        "views": 0,
-        "uploads": 1,
-        "cumulative_views": 423
+        "cumulative_views": 427
       }
     ],
     "videos": [
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7686508809631616269",
-        "youtube_id": "1VlWwrdQ7JA",
-        "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25 #shorts",
-        "tiktok_views": 13800,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/1VlWwrdQ7JA/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-18T05:37:37Z"
-      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -3232,6 +3206,20 @@
         "thumbnail": "https://i.ytimg.com/vi/PaLcQYv70cc/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-04T22:17:02Z"
+      },
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7677235005495446797",
+        "youtube_id": "yYZcQkQHknU",
+        "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d #tiktok #f...",
+        "tiktok_views": 3600000,
+        "youtube_views": 4,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/yYZcQkQHknU/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-04T00:04:05Z"
       }
     ],
     "runs": [
@@ -3671,5 +3659,5 @@
       "created_at": "2026-09-12T02:09:14.012569+00:00"
     }
   ],
-  "last_updated": "2026-09-18T07:36:35.231095+00:00"
+  "last_updated": "2026-09-18T07:38:51.555210+00:00"
 }
