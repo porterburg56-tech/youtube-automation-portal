@@ -1,20 +1,13 @@
 {
   "cumulative": {
     "total_uploads": 77,
-    "total_views": 982,
-    "total_likes": 6,
-    "total_subscribers": 3,
+    "total_views": 991,
+    "total_likes": 19,
+    "total_subscribers": 4,
     "channels_count": 3,
     "videos_per_day": 9
   },
   "master_view_history": [
-    {
-      "date": "2026-09-04",
-      "ch1_views": 0,
-      "ch2_views": 0,
-      "ch3_views": 0,
-      "total_views": 0
-    },
     {
       "date": "2026-09-05",
       "ch1_views": 3,
@@ -67,44 +60,44 @@
     {
       "date": "2026-09-13",
       "ch1_views": 421,
-      "ch2_views": 167,
+      "ch2_views": 168,
       "ch3_views": 0,
-      "total_views": 588
+      "total_views": 589
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 422,
-      "ch2_views": 226,
+      "ch1_views": 423,
+      "ch2_views": 227,
       "ch3_views": 0,
-      "total_views": 648
+      "total_views": 650
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 423,
-      "ch2_views": 276,
+      "ch1_views": 424,
+      "ch2_views": 277,
       "ch3_views": 0,
-      "total_views": 699
+      "total_views": 701
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 423,
-      "ch2_views": 278,
-      "ch3_views": 178,
-      "total_views": 879
+      "ch1_views": 427,
+      "ch2_views": 279,
+      "ch3_views": 182,
+      "total_views": 888
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 423,
-      "ch2_views": 286,
+      "ch1_views": 427,
+      "ch2_views": 288,
       "ch3_views": 0,
-      "total_views": 709
+      "total_views": 715
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 423,
-      "ch2_views": 0,
-      "ch3_views": 178,
-      "total_views": 601
+      "ch1_views": 432,
+      "ch2_views": 288,
+      "ch3_views": 2559,
+      "total_views": 3279
     }
   ],
   "channels": {
@@ -203,33 +196,33 @@
         },
         {
           "date": "2026-09-14",
-          "views": 1,
+          "views": 2,
           "uploads": 3,
-          "cumulative_views": 422
+          "cumulative_views": 423
         },
         {
           "date": "2026-09-15",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 423
+          "cumulative_views": 424
         },
         {
           "date": "2026-09-16",
-          "views": 0,
+          "views": 3,
           "uploads": 3,
-          "cumulative_views": 423
+          "cumulative_views": 427
         },
         {
           "date": "2026-09-17",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 423
+          "cumulative_views": 427
         },
         {
           "date": "2026-09-18",
-          "views": 0,
+          "views": 5,
           "uploads": 2,
-          "cumulative_views": 423
+          "cumulative_views": 432
         }
       ],
       "videos": [
@@ -240,7 +233,7 @@
           "youtube_id": "9UdGcElPd1U",
           "title": "Grandpa and Baby Walking Side by Side to the Mailbox Is Everything \ud83e\udd79",
           "tiktok_views": 93500,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9UdGcElPd1U/hqdefault.jpg",
@@ -254,7 +247,7 @@
           "youtube_id": "M3wuW1zH3rQ",
           "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25",
           "tiktok_views": 14700,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/M3wuW1zH3rQ/hqdefault.jpg",
@@ -282,7 +275,7 @@
           "youtube_id": "LTXCsx8kOcI",
           "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
           "tiktok_views": 119700,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
@@ -394,7 +387,7 @@
           "youtube_id": "j72EKlx6t-I",
           "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
           "tiktok_views": 288400,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
@@ -903,12 +896,6 @@
       },
       "view_history": [
         {
-          "date": "2026-09-04",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
-        {
           "date": "2026-09-05",
           "views": 15,
           "uploads": 2,
@@ -952,36 +939,56 @@
         },
         {
           "date": "2026-09-13",
-          "views": 39,
+          "views": 40,
           "uploads": 3,
-          "cumulative_views": 167
+          "cumulative_views": 168
         },
         {
           "date": "2026-09-14",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 226
+          "cumulative_views": 227
         },
         {
           "date": "2026-09-15",
           "views": 50,
           "uploads": 3,
-          "cumulative_views": 276
+          "cumulative_views": 277
         },
         {
           "date": "2026-09-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 278
+          "cumulative_views": 279
         },
         {
           "date": "2026-09-17",
-          "views": 8,
+          "views": 9,
           "uploads": 1,
-          "cumulative_views": 286
+          "cumulative_views": 288
+        },
+        {
+          "date": "2026-09-18",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 288
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7686196593879452942",
+          "youtube_id": "Et2FVj_Gj2M",
+          "title": "Chocolate Caramel Apple Puff Pastry \u2728",
+          "tiktok_views": 277500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/Et2FVj_Gj2M/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-18T07:55:45Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -989,7 +996,7 @@
           "youtube_id": "TNkm_AtcbWI",
           "title": "Chocolate Banana Cake with 3 Simple Ingredients You'll Want Every Wee \u2728 #shorts",
           "tiktok_views": 551800,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TNkm_AtcbWI/hqdefault.jpg",
@@ -1143,7 +1150,7 @@
           "youtube_id": "tOagl_ZG9xk",
           "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
           "tiktok_views": 4086,
-          "youtube_views": 24,
+          "youtube_views": 25,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -1387,20 +1394,6 @@
           "thumbnail": "https://i.ytimg.com/vi/H5ph_RXAj5Y/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-05T15:16:51Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7634984663592799502",
-          "youtube_id": "GibB4tdu1e0",
-          "title": "Fun Short",
-          "tiktok_views": 3800000,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/GibB4tdu1e0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-04T19:12:39Z"
         }
       ],
       "runs": [
@@ -1620,10 +1613,10 @@
       "avatar": "https://yt3.ggpht.com/_ywAP0n0twSZRvZz7t_X5vS00F5NlWoAQXH-s9AjKEmY1Tb_Xnw3mSnojDjYZBXULnhq2FE7fA=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
-      "subscribers": 0,
+      "subscribers": 1,
       "total_uploads": 4,
-      "total_views": 167,
-      "total_likes": 3,
+      "total_views": 176,
+      "total_likes": 16,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1653,15 +1646,15 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 178,
+          "views": 182,
           "uploads": 2,
-          "cumulative_views": 178
+          "cumulative_views": 182
         },
         {
           "date": "2026-09-18",
-          "views": 0,
+          "views": 2377,
           "uploads": 2,
-          "cumulative_views": 178
+          "cumulative_views": 2559
         }
       ],
       "videos": [
@@ -1672,8 +1665,8 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 0,
-          "youtube_likes": 0,
+          "youtube_views": 1193,
+          "youtube_likes": 6,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
           "status": "uploaded",
@@ -1686,8 +1679,8 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 0,
-          "youtube_likes": 0,
+          "youtube_views": 1184,
+          "youtube_likes": 7,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
           "status": "uploaded",
@@ -1700,7 +1693,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 174,
+          "youtube_views": 178,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1808,13 +1801,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7686196593879452942",
+      "youtube_id": "Et2FVj_Gj2M",
+      "title": "Chocolate Caramel Apple Puff Pastry \u2728",
+      "tiktok_views": 277500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/Et2FVj_Gj2M/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-18T07:55:45Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7680940471744580878",
       "youtube_id": "9UdGcElPd1U",
       "title": "Grandpa and Baby Walking Side by Side to the Mailbox Is Everything \ud83e\udd79",
       "tiktok_views": 93500,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9UdGcElPd1U/hqdefault.jpg",
@@ -1828,8 +1835,8 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
+      "youtube_views": 1193,
+      "youtube_likes": 6,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
       "status": "uploaded",
@@ -1842,8 +1849,8 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
+      "youtube_views": 1184,
+      "youtube_likes": 7,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
       "status": "uploaded",
@@ -1856,7 +1863,7 @@
       "youtube_id": "M3wuW1zH3rQ",
       "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25",
       "tiktok_views": 14700,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/M3wuW1zH3rQ/hqdefault.jpg",
@@ -1884,7 +1891,7 @@
       "youtube_id": "TNkm_AtcbWI",
       "title": "Chocolate Banana Cake with 3 Simple Ingredients You'll Want Every Wee \u2728 #shorts",
       "tiktok_views": 551800,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TNkm_AtcbWI/hqdefault.jpg",
@@ -1898,7 +1905,7 @@
       "youtube_id": "LTXCsx8kOcI",
       "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
       "tiktok_views": 119700,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
@@ -1954,7 +1961,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 174,
+      "youtube_views": 178,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -2150,7 +2157,7 @@
       "youtube_id": "j72EKlx6t-I",
       "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
       "tiktok_views": 288400,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
@@ -2220,7 +2227,7 @@
       "youtube_id": "tOagl_ZG9xk",
       "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
       "tiktok_views": 4086,
-      "youtube_views": 24,
+      "youtube_views": 25,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
@@ -2688,20 +2695,6 @@
       "thumbnail": "https://i.ytimg.com/vi/dqDNDVuIibA/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-05T00:04:16Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7634984663592799502",
-      "youtube_id": "GibB4tdu1e0",
-      "title": "Fun Short",
-      "tiktok_views": 3800000,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/GibB4tdu1e0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-04T19:12:39Z"
     }
   ],
   "channel": {
@@ -2799,33 +2792,33 @@
       },
       {
         "date": "2026-09-14",
-        "views": 1,
+        "views": 2,
         "uploads": 3,
-        "cumulative_views": 422
+        "cumulative_views": 423
       },
       {
         "date": "2026-09-15",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 423
+        "cumulative_views": 424
       },
       {
         "date": "2026-09-16",
-        "views": 0,
+        "views": 3,
         "uploads": 3,
-        "cumulative_views": 423
+        "cumulative_views": 427
       },
       {
         "date": "2026-09-17",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 423
+        "cumulative_views": 427
       },
       {
         "date": "2026-09-18",
-        "views": 0,
+        "views": 5,
         "uploads": 2,
-        "cumulative_views": 423
+        "cumulative_views": 432
       }
     ],
     "videos": [
@@ -2836,7 +2829,7 @@
         "youtube_id": "9UdGcElPd1U",
         "title": "Grandpa and Baby Walking Side by Side to the Mailbox Is Everything \ud83e\udd79",
         "tiktok_views": 93500,
-        "youtube_views": 0,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/9UdGcElPd1U/hqdefault.jpg",
@@ -2850,7 +2843,7 @@
         "youtube_id": "M3wuW1zH3rQ",
         "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25",
         "tiktok_views": 14700,
-        "youtube_views": 0,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/M3wuW1zH3rQ/hqdefault.jpg",
@@ -2878,7 +2871,7 @@
         "youtube_id": "LTXCsx8kOcI",
         "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
         "tiktok_views": 119700,
-        "youtube_views": 0,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
@@ -2990,7 +2983,7 @@
         "youtube_id": "j72EKlx6t-I",
         "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
         "tiktok_views": 288400,
-        "youtube_views": 1,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
@@ -3455,8 +3448,8 @@
   },
   "kpis": {
     "total_uploads": 77,
-    "total_views": 982,
-    "total_likes": 6,
+    "total_views": 991,
+    "total_likes": 19,
     "videos_per_day": 9
   },
   "upcoming": {
@@ -3687,5 +3680,5 @@
       "created_at": "2026-09-12T17:15:39.326339+00:00"
     }
   ],
-  "last_updated": "2026-09-18T07:55:07.251199+00:00"
+  "last_updated": "2026-09-18T16:06:19.150537+00:00"
 }
