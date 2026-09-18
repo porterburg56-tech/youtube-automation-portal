@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 72,
-    "total_views": 949,
+    "total_views": 956,
     "total_likes": 6,
     "total_subscribers": 3,
     "channels_count": 3,
@@ -81,23 +81,23 @@
     {
       "date": "2026-09-15",
       "ch1_views": 427,
-      "ch2_views": 275,
+      "ch2_views": 276,
       "ch3_views": 0,
-      "total_views": 702
+      "total_views": 703
     },
     {
       "date": "2026-09-16",
       "ch1_views": 427,
-      "ch2_views": 277,
-      "ch3_views": 172,
-      "total_views": 876
+      "ch2_views": 278,
+      "ch3_views": 175,
+      "total_views": 880
     },
     {
       "date": "2026-09-17",
       "ch1_views": 427,
-      "ch2_views": 285,
+      "ch2_views": 286,
       "ch3_views": 0,
-      "total_views": 712
+      "total_views": 713
     }
   ],
   "channels": {
@@ -866,7 +866,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 35,
-      "total_views": 336,
+      "total_views": 343,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -957,21 +957,21 @@
         },
         {
           "date": "2026-09-15",
-          "views": 49,
+          "views": 50,
           "uploads": 3,
-          "cumulative_views": 275
+          "cumulative_views": 276
         },
         {
           "date": "2026-09-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 277
+          "cumulative_views": 278
         },
         {
           "date": "2026-09-17",
           "views": 8,
           "uploads": 1,
-          "cumulative_views": 285
+          "cumulative_views": 286
         }
       ],
       "videos": [
@@ -1038,7 +1038,7 @@
           "youtube_id": "KBGlJd1_GB0",
           "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
           "tiktok_views": 476800,
-          "youtube_views": 9,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
@@ -1646,9 +1646,9 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 172,
+          "views": 175,
           "uploads": 2,
-          "cumulative_views": 172
+          "cumulative_views": 175
         }
       ],
       "videos": [
@@ -1659,7 +1659,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 168,
+          "youtube_views": 171,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1837,7 +1837,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 168,
+      "youtube_views": 171,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1907,7 +1907,7 @@
       "youtube_id": "KBGlJd1_GB0",
       "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
       "tiktok_views": 476800,
-      "youtube_views": 9,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
@@ -3366,7 +3366,7 @@
   },
   "kpis": {
     "total_uploads": 72,
-    "total_views": 949,
+    "total_views": 956,
     "total_likes": 6,
     "videos_per_day": 9
   },
@@ -3598,5 +3598,5 @@
       "created_at": "2026-09-11T23:39:25.149895+00:00"
     }
   ],
-  "last_updated": "2026-09-18T02:09:06.522281+00:00"
+  "last_updated": "2026-09-18T04:43:08.632860+00:00"
 }
