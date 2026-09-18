@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 74,
-    "total_views": 975,
+    "total_views": 982,
     "total_likes": 6,
     "total_subscribers": 3,
     "channels_count": 3,
@@ -879,7 +879,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 35,
-      "total_views": 336,
+      "total_views": 343,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -3439,7 +3439,7 @@
   },
   "kpis": {
     "total_uploads": 74,
-    "total_views": 975,
+    "total_views": 982,
     "total_likes": 6,
     "videos_per_day": 9
   },
@@ -3671,5 +3671,5 @@
       "created_at": "2026-09-12T02:09:14.012569+00:00"
     }
   ],
-  "last_updated": "2026-09-18T06:01:25.229753+00:00"
+  "last_updated": "2026-09-18T06:32:05.489976+00:00"
 }
