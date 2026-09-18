@@ -53,30 +53,30 @@
     {
       "date": "2026-09-11",
       "ch1_views": 42,
-      "ch2_views": 121,
+      "ch2_views": 120,
       "ch3_views": 0,
-      "total_views": 163
+      "total_views": 162
     },
     {
       "date": "2026-09-12",
       "ch1_views": 409,
-      "ch2_views": 129,
+      "ch2_views": 128,
       "ch3_views": 0,
-      "total_views": 538
+      "total_views": 537
     },
     {
       "date": "2026-09-13",
       "ch1_views": 425,
-      "ch2_views": 168,
+      "ch2_views": 167,
       "ch3_views": 0,
-      "total_views": 593
+      "total_views": 592
     },
     {
       "date": "2026-09-14",
       "ch1_views": 426,
-      "ch2_views": 227,
+      "ch2_views": 226,
       "ch3_views": 0,
-      "total_views": 653
+      "total_views": 652
     },
     {
       "date": "2026-09-15",
@@ -89,8 +89,8 @@
       "date": "2026-09-16",
       "ch1_views": 427,
       "ch2_views": 278,
-      "ch3_views": 172,
-      "total_views": 877
+      "ch3_views": 170,
+      "total_views": 875
     },
     {
       "date": "2026-09-17",
@@ -933,31 +933,31 @@
         },
         {
           "date": "2026-09-11",
-          "views": 11,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 121
+          "cumulative_views": 120
         },
         {
           "date": "2026-09-12",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 129
+          "cumulative_views": 128
         },
         {
           "date": "2026-09-13",
           "views": 39,
           "uploads": 3,
-          "cumulative_views": 168
+          "cumulative_views": 167
         },
         {
           "date": "2026-09-14",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 227
+          "cumulative_views": 226
         },
         {
           "date": "2026-09-15",
-          "views": 49,
+          "views": 50,
           "uploads": 3,
           "cumulative_views": 276
         },
@@ -1038,7 +1038,7 @@
           "youtube_id": "KBGlJd1_GB0",
           "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
           "tiktok_views": 476800,
-          "youtube_views": 9,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
@@ -1220,7 +1220,7 @@
           "youtube_id": "lZw2Y3LiD-M",
           "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
           "tiktok_views": 292200,
-          "youtube_views": 10,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
@@ -1397,6 +1397,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 41,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-09-18",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-18T01:07:09.580742+00:00"
+        },
         {
           "id": 40,
           "channel_id": "channel_2",
@@ -1586,16 +1596,6 @@
           "video_id": "Oa87vgbUaSU",
           "error_message": null,
           "created_at": "2026-09-11T22:20:19.985611+00:00"
-        },
-        {
-          "id": 21,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-11",
-          "status": "success",
-          "video_id": "lZw2Y3LiD-M",
-          "error_message": null,
-          "created_at": "2026-09-11T16:20:46.112805+00:00"
         }
       ]
     },
@@ -1646,9 +1646,9 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 172,
+          "views": 170,
           "uploads": 2,
-          "cumulative_views": 172
+          "cumulative_views": 170
         }
       ],
       "videos": [
@@ -1659,7 +1659,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 168,
+          "youtube_views": 166,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1827,7 +1827,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 168,
+      "youtube_views": 166,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1897,7 +1897,7 @@
       "youtube_id": "KBGlJd1_GB0",
       "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
       "tiktok_views": 476800,
-      "youtube_views": 9,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
@@ -2261,7 +2261,7 @@
       "youtube_id": "lZw2Y3LiD-M",
       "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
       "tiktok_views": 292200,
-      "youtube_views": 10,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
@@ -3588,5 +3588,5 @@
       "created_at": "2026-09-11T17:16:28.276318+00:00"
     }
   ],
-  "last_updated": "2026-09-17T23:38:57.103128+00:00"
+  "last_updated": "2026-09-18T01:07:13.216057+00:00"
 }
