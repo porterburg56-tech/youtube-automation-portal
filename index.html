@@ -81,6 +81,7 @@
     .graph-card.ch1::before { background: linear-gradient(90deg, var(--accent-red), #ff6b8a); }
     .graph-card.ch2::before { background: linear-gradient(90deg, var(--accent-gold), #ffcc66); }
     .graph-card.ch3::before { background: linear-gradient(90deg, #d63384, #ff85c0); }
+    .graph-card.ch4::before { background: linear-gradient(90deg, #00d4ff, #00f298); }
     .graph-card.master::before { background: linear-gradient(90deg, var(--accent-purple), var(--accent-cyan)); }
 
     .graph-card-full {
@@ -810,6 +811,10 @@
           <span>💅</span> Oddly Satisfying Nails
           <span class="tab-badge" id="badgeCh3">0</span>
         </button>
+        <button class="channel-tab" id="tab_channel_4" onclick="selectChannel('channel_4')">
+          <span>💼</span> Remote Jobs WFH
+          <span class="tab-badge" id="badgeCh4">0</span>
+        </button>
       </div>
       <div class="network-badge">
         <span>⚡ 0 Collision Guarantee Active</span>
@@ -820,17 +825,17 @@
     <div class="kpi-grid">
       <div class="kpi-card accent-emerald">
         <div class="kpi-label">Published Shorts</div>
-        <div class="kpi-value" id="kpiTotalUploads">2</div>
+        <div class="kpi-value" id="kpiTotalUploads">0</div>
         <div class="kpi-sub" id="kpiUploadsSub">Live across active channels</div>
       </div>
       <div class="kpi-card accent-red">
         <div class="kpi-label">Total YouTube Views</div>
-        <div class="kpi-value" id="kpiTotalViews">18</div>
+        <div class="kpi-value" id="kpiTotalViews">0</div>
         <div class="kpi-sub" id="kpiViewsSub">Across published Shorts</div>
       </div>
       <div class="kpi-card accent-cyan">
         <div class="kpi-label">Daily Schedule</div>
-        <div class="kpi-value" id="kpiSchedule">4 / Day</div>
+        <div class="kpi-value" id="kpiSchedule">12 / Day</div>
         <div class="kpi-sub" id="kpiScheduleSub">Staggered Non-Colliding Slots</div>
       </div>
       <div class="kpi-card accent-gold">
@@ -853,7 +858,7 @@
         <div class="graph-card graph-card-full master" id="masterGraphCard">
           <div class="graph-header">
             <div>
-              <div class="graph-title">🌐 Network Master — Both Channels Combined</div>
+              <div class="graph-title">🌐 Network Master — All 4 Channels Combined</div>
               <div class="graph-subtitle">Cumulative views over time across all channels</div>
             </div>
             <div class="graph-stat-pill">
@@ -868,6 +873,7 @@
             <div class="graph-legend-item"><div class="legend-dot" style="background:#ff0033"></div> Fun With Grandpaa</div>
             <div class="graph-legend-item"><div class="legend-dot" style="background:#ffaa00"></div> Taste &amp; Tales</div>
             <div class="graph-legend-item"><div class="legend-dot" style="background:#d63384"></div> Oddly Satisfying Nails</div>
+            <div class="graph-legend-item"><div class="legend-dot" style="background:#00d4ff"></div> Remote Jobs WFH</div>
             <div class="graph-legend-item"><div class="legend-dot" style="background:#8a2be2"></div> Network Total</div>
           </div>
         </div>
@@ -920,6 +926,23 @@
           </div>
           <div class="graph-canvas-wrap">
             <canvas id="ch3Chart"></canvas>
+          </div>
+        </div>
+
+        <!-- Channel 4 Line Graph -->
+        <div class="graph-card ch4" id="ch4GraphCard">
+          <div class="graph-header">
+            <div>
+              <div class="graph-title">💼 Remote Jobs WFH</div>
+              <div class="graph-subtitle">Daily cumulative views</div>
+            </div>
+            <div class="graph-stat-pill">
+              <div class="graph-stat-value" id="ch4TotalViews">—</div>
+              <div class="graph-stat-label">Total Views</div>
+            </div>
+          </div>
+          <div class="graph-canvas-wrap">
+            <canvas id="ch4Chart"></canvas>
           </div>
         </div>
 
@@ -1093,16 +1116,19 @@
       const ch1 = channels.channel_1 || {};
       const ch2 = channels.channel_2 || {};
       const ch3 = channels.channel_3 || {};
+      const ch4 = channels.channel_4 || {};
 
       // 1. Update Channel Badges
       const badgeAll = document.getElementById('badgeAll');
       const badgeCh1 = document.getElementById('badgeCh1');
       const badgeCh2 = document.getElementById('badgeCh2');
       const badgeCh3 = document.getElementById('badgeCh3');
+      const badgeCh4 = document.getElementById('badgeCh4');
       if (badgeAll) badgeAll.textContent = allVideos.length;
       if (badgeCh1) badgeCh1.textContent = (ch1.videos || []).length;
       if (badgeCh2) badgeCh2.textContent = (ch2.videos || []).length;
       if (badgeCh3) badgeCh3.textContent = (ch3.videos || []).length;
+      if (badgeCh4) badgeCh4.textContent = (ch4.videos || []).length;
 
       // 2. Header & Branding
       const avatarEl = document.getElementById('headerAvatar');
@@ -1115,7 +1141,7 @@
         avatarEl.innerHTML = '🌐';
         avatarEl.style.background = 'linear-gradient(135deg, var(--accent-purple), var(--accent-cyan))';
         titleEl.innerHTML = `Multi-Channel Automation Network <span class="badge-live"><span class="pulse-dot"></span> 24/7 Automation Live</span>`;
-        subEl.innerHTML = `<span>Active Channels: <strong>3 Channels Online</strong></span> <span>•</span> <span>Combined Schedule: <strong>9 Uploads / Day</strong></span>`;
+        subEl.innerHTML = `<span>Active Channels: <strong>4 Channels Online</strong></span> <span>•</span> <span>Combined Schedule: <strong>12 Uploads / Day</strong></span>`;
         visitBtn.href = "https://www.youtube.com/@FunWithGrandpaa";
         visitText.textContent = "Visit Channels";
       } else if (activeChannelFilter === 'channel_1') {
@@ -1151,6 +1177,17 @@
         subEl.innerHTML = `<span>YouTube: <strong>${ch3.handle || '@OddlySatisfyingNails'}</strong></span> <span>•</span> <span>Source: <strong>Google Drive Sequential Queue</strong></span>`;
         visitBtn.href = ch3.url || "https://www.youtube.com/channel/UCt8Ub_XMtHVe5ETg_DaLwaw";
         visitText.textContent = "Visit Channel";
+      } else if (activeChannelFilter === 'channel_4') {
+        if (ch4.avatar) {
+          avatarEl.innerHTML = `<img src="${ch4.avatar}" alt="Avatar">`;
+        } else {
+          avatarEl.textContent = ch4.avatar_letter || 'R';
+        }
+        avatarEl.style.background = 'linear-gradient(135deg, #00d4ff, #00f298)';
+        titleEl.innerHTML = `${ch4.name || 'Remote Jobs WFH'} <span class="badge-live"><span class="pulse-dot"></span> 24/7 Automation Live</span>`;
+        subEl.innerHTML = `<span>YouTube: <strong>${ch4.handle || '@RemoteJobsWFH'}</strong></span> <span>•</span> <span>Source: <strong>Google Drive Sequential Queue</strong></span>`;
+        visitBtn.href = ch4.url || "https://www.youtube.com/channel/UChsujpdzQ3VhZqrozV4Soiw";
+        visitText.textContent = "Visit Channel";
       }
 
       // 3. KPI Cards
@@ -1163,11 +1200,11 @@
 
       if (activeChannelFilter === 'all') {
         kpiUploads.textContent = cumulative.total_uploads !== undefined ? cumulative.total_uploads : allVideos.length;
-        kpiUploadsSub.textContent = "Across 3 active channels";
+        kpiUploadsSub.textContent = "Across 4 active channels";
         kpiViews.textContent = (cumulative.total_views || 0).toLocaleString();
         kpiViewsSub.textContent = "Cumulative network views";
-        kpiSchedule.textContent = cumulative.videos_per_day ? cumulative.videos_per_day + " / Day" : "9 / Day";
-        kpiScheduleSub.textContent = "9 Non-Colliding Daily Slots (USA ET)";
+        kpiSchedule.textContent = cumulative.videos_per_day ? cumulative.videos_per_day + " / Day" : "12 / Day";
+        kpiScheduleSub.textContent = "12 Non-Colliding Daily Slots (USA ET)";
       } else if (activeChannelFilter === 'channel_1') {
         kpiUploads.textContent = ch1.total_uploads !== undefined ? ch1.total_uploads : (ch1.videos || []).length;
         kpiUploadsSub.textContent = "Published by Fun With Grandpaa";
@@ -1189,10 +1226,17 @@
         kpiViewsSub.textContent = "Channel total views";
         kpiSchedule.textContent = "3 / Day";
         kpiScheduleSub.textContent = "1 PM · 6 PM · 9 PM ET";
+      } else if (activeChannelFilter === 'channel_4') {
+        kpiUploads.textContent = ch4.total_uploads !== undefined ? ch4.total_uploads : (ch4.videos || []).length;
+        kpiUploadsSub.textContent = "Published by Remote Jobs WFH";
+        kpiViews.textContent = (ch4.total_views || 0).toLocaleString();
+        kpiViewsSub.textContent = "Channel total views";
+        kpiSchedule.textContent = "3 / Day";
+        kpiScheduleSub.textContent = "1:20 PM · 6:20 PM · 9:20 PM ET";
       }
 
       // 4. Upcoming Queue Cards
-      renderUpcomingCards(ch1, ch2, ch3);
+      renderUpcomingCards(ch1, ch2, ch3, ch4);
 
       // 5. Video Table Rows
       renderVideoTable(allVideos);
@@ -1201,7 +1245,7 @@
       renderCharts();
     }
 
-    function renderUpcomingCards(ch1, ch2, ch3) {
+    function renderUpcomingCards(ch1, ch2, ch3, ch4) {
       const container = document.getElementById('upcomingGridContainer');
       if (!container) return;
 
@@ -1239,6 +1283,10 @@
       if (activeChannelFilter === 'all' || activeChannelFilter === 'channel_3') {
         pushSlots(ch3, '💅', 'tag-ch3',
           'background: rgba(214,51,132,0.15); color: #ff85c0; border-color: rgba(214,51,132,0.3);');
+      }
+      if (activeChannelFilter === 'all' || activeChannelFilter === 'channel_4') {
+        pushSlots(ch4, '💼', 'tag-ch4',
+          'background: rgba(0,212,255,0.15); color: #00d4ff; border-color: rgba(0,212,255,0.3);');
       }
 
       // Sort slots by their UTC fire time (ascending within the day)
@@ -1290,7 +1338,7 @@
                 <span class="slot-tag ${tagClass}">${icon} ${chName} • ${slotEmoji(slotNum)} Slot ${slotNum} — ${timeLabel}</span>
                 <h3 style="font-size:17px;margin-bottom:6px;">${s.title || 'Next Video in Queue'}</h3>
                 <p style="font-size:13px;color:var(--text-secondary);">
-                  Strategy: <strong>${strategy}</strong> from @${tiktokSrc}
+                  Strategy: <strong>${strategy}</strong> from ${chData.source_type === 'google_drive' ? 'Google Drive Queue' : '@' + tiktokSrc}
                 </p>
               </div>
               <div class="upcoming-timer-box">
@@ -1304,7 +1352,7 @@
               </div>
               <div class="upcoming-meta">
                 <div>📍 USA Peak Audience</div><div>•</div>
-                <div>✨ Full Pipeline + Auto-Subtitles</div>
+                <div>✨ Full Pipeline Active</div>
               </div>
             </div>`;
         }
@@ -1328,10 +1376,12 @@
       }
 
       if (filteredVideos.length === 0) {
-        const emptyIcon = activeChannelFilter === 'channel_3' ? '💅' : (activeChannelFilter === 'channel_2' ? '🍳' : '👶');
-        const nextInfo = activeChannelFilter === 'channel_3' 
-          ? 'Next automated upload scheduled at 1:00 PM US ET (17:00 UTC) directly from Google Drive queue!'
-          : (activeChannelFilter === 'channel_2' ? 'Next automated upload scheduled at 11:00 AM US ET (16:00 UTC) with auto-transcribed subtitles!' : 'Uploads running daily across scheduled slots.');
+        const emptyIcon = activeChannelFilter === 'channel_4' ? '💼' : (activeChannelFilter === 'channel_3' ? '💅' : (activeChannelFilter === 'channel_2' ? '🍳' : '👶'));
+        const nextInfo = activeChannelFilter === 'channel_4'
+          ? 'Next automated upload scheduled at 1:20 PM US ET (17:20 UTC) directly from Google Drive queue!'
+          : (activeChannelFilter === 'channel_3' 
+            ? 'Next automated upload scheduled at 1:10 PM US ET (17:10 UTC) directly from Google Drive queue!'
+            : (activeChannelFilter === 'channel_2' ? 'Next automated upload scheduled at 11:00 AM US ET (16:00 UTC) with auto-transcribed subtitles!' : 'Uploads running daily across scheduled slots.'));
         tbody.innerHTML = `
           <tr>
             <td colspan="7" style="text-align: center; padding: 48px; color: var(--text-muted);">
@@ -1350,9 +1400,11 @@
         const dateStr = v.uploaded_at ? new Date(v.uploaded_at).toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' }) : 'Recent';
         const isCh1 = v.channel_id === 'channel_1';
         const isCh2 = v.channel_id === 'channel_2';
-        const badgeClass = isCh1 ? 'channel-badge-ch1' : (isCh2 ? 'channel-badge-ch2' : 'channel-badge-ch3');
-        const badgeIcon = isCh1 ? '👶' : (isCh2 ? '🍳' : '💅');
-        const channelLabel = isCh1 ? 'Fun With Grandpaa' : (isCh2 ? 'Taste & Tales' : 'Oddly Satisfying Nails');
+        const isCh3 = v.channel_id === 'channel_3';
+        const isCh4 = v.channel_id === 'channel_4';
+        const badgeClass = isCh1 ? 'channel-badge-ch1' : (isCh2 ? 'channel-badge-ch2' : (isCh3 ? 'channel-badge-ch3' : 'channel-badge-ch4'));
+        const badgeIcon = isCh1 ? '👶' : (isCh2 ? '🍳' : (isCh3 ? '💅' : '💼'));
+        const channelLabel = isCh1 ? 'Fun With Grandpaa' : (isCh2 ? 'Taste & Tales' : (isCh3 ? 'Oddly Satisfying Nails' : 'Remote Jobs WFH'));
 
         row.innerHTML = `
           <td>
@@ -1390,6 +1442,7 @@
     let ch1ChartInst    = null;
     let ch2ChartInst    = null;
     let ch3ChartInst    = null;
+    let ch4ChartInst    = null;
 
     const CHART_DEFAULTS = {
       responsive: true,
@@ -1493,7 +1546,7 @@
       });
     }
 
-    function renderMasterChart(masterHistory, ch1History, ch2History, ch3History) {
+    function renderMasterChart(masterHistory, ch1History, ch2History, ch3History, ch4History) {
       const canvas = document.getElementById('masterChart');
       if (!canvas) return;
       const ctx = canvas.getContext('2d');
@@ -1503,19 +1556,22 @@
         ...masterHistory.map(p => p.date),
         ...ch1History.map(p => p.date),
         ...ch2History.map(p => p.date),
-        ...ch3History.map(p => p.date)
+        ...ch3History.map(p => p.date),
+        ...ch4History.map(p => p.date)
       ])].sort();
 
       const ch1Map = Object.fromEntries(ch1History.map(p => [p.date, p.cumulative_views]));
       const ch2Map = Object.fromEntries(ch2History.map(p => [p.date, p.cumulative_views]));
       const ch3Map = Object.fromEntries(ch3History.map(p => [p.date, p.cumulative_views]));
+      const ch4Map = Object.fromEntries(ch4History.map(p => [p.date, p.cumulative_views]));
       const totMap = Object.fromEntries(masterHistory.map(p => [p.date, p.total_views]));
 
       const labels   = allDates.map(d => labelDate(d));
       const ch1Data  = allDates.map(d => ch1Map[d] || 0);
       const ch2Data  = allDates.map(d => ch2Map[d] || 0);
       const ch3Data  = allDates.map(d => ch3Map[d] || 0);
-      const totData  = allDates.map(d => totMap[d] || ((ch1Map[d]||0) + (ch2Map[d]||0) + (ch3Map[d]||0)));
+      const ch4Data  = allDates.map(d => ch4Map[d] || 0);
+      const totData  = allDates.map(d => totMap[d] || ((ch1Map[d]||0) + (ch2Map[d]||0) + (ch3Map[d]||0) + (ch4Map[d]||0)));
 
       // Update header stat
       const masterTotalEl = document.getElementById('masterTotalViews');
@@ -1528,12 +1584,13 @@
         buildLineDataset('Fun With Grandpaa', ch1Data, 'rgb(255, 0, 51)', ctx),
         buildLineDataset('Taste & Tales',     ch2Data, 'rgb(255, 170, 0)', ctx),
         buildLineDataset('Oddly Satisfying Nails', ch3Data, 'rgb(214, 51, 132)', ctx),
+        buildLineDataset('Remote Jobs WFH', ch4Data, 'rgb(0, 212, 255)', ctx),
         buildLineDataset('Network Total',     totData, 'rgb(138, 43, 226)', ctx),
       ];
       // Network total: no fill, bolder
-      ds[3].fill = false;
-      ds[3].borderWidth = 2.5;
-      ds[3].borderDash = [5, 3];
+      ds[4].fill = false;
+      ds[4].borderWidth = 2.5;
+      ds[4].borderDash = [5, 3];
 
       if (masterChartInst) {
         masterChartInst.data.labels = labels;
@@ -1570,14 +1627,16 @@
       const ch1 = (portalData.channels || {}).channel_1 || {};
       const ch2 = (portalData.channels || {}).channel_2 || {};
       const ch3 = (portalData.channels || {}).channel_3 || {};
+      const ch4 = (portalData.channels || {}).channel_4 || {};
       const ch1History = ch1.view_history || [];
       const ch2History = ch2.view_history || [];
       const ch3History = ch3.view_history || [];
+      const ch4History = ch4.view_history || [];
       const masterHistory = portalData.master_view_history || [];
 
       // Master chart — always visible
-      if (masterHistory.length || ch1History.length || ch2History.length || ch3History.length) {
-        renderMasterChart(masterHistory, ch1History, ch2History, ch3History);
+      if (masterHistory.length || ch1History.length || ch2History.length || ch3History.length || ch4History.length) {
+        renderMasterChart(masterHistory, ch1History, ch2History, ch3History, ch4History);
       } else {
         showEmptyChart('masterChart', 'Views data will appear once videos are published.');
       }
@@ -1607,6 +1666,15 @@
         const ch3El = document.getElementById('ch3TotalViews');
         if (ch3El) ch3El.textContent = '—';
         showEmptyChart('ch3Chart', 'No data yet — first video will appear here.');
+      }
+
+      // Channel 4 chart
+      if (ch4History.length) {
+        ch4ChartInst = renderChannelChart('ch4Chart', ch4ChartInst, ch4History, 'rgb(0, 212, 255)', 'Remote Jobs WFH', 'ch4TotalViews');
+      } else {
+        const ch4El = document.getElementById('ch4TotalViews');
+        if (ch4El) ch4El.textContent = '—';
+        showEmptyChart('ch4Chart', 'No data yet — first video will appear here.');
       }
     }
 
