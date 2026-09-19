@@ -107,18 +107,18 @@
     {
       "date": "2026-09-18",
       "ch1_views": 434,
-      "ch2_views": 301,
-      "ch3_views": 6885,
+      "ch2_views": 298,
+      "ch3_views": 6920,
       "ch4_views": 0,
-      "total_views": 7620
+      "total_views": 7652
     },
     {
       "date": "2026-09-19",
       "ch1_views": 434,
       "ch2_views": 0,
-      "ch3_views": 8851,
+      "ch3_views": 8893,
       "ch4_views": 7,
-      "total_views": 9292
+      "total_views": 9334
     }
   ],
   "channels": {
@@ -990,9 +990,9 @@
         },
         {
           "date": "2026-09-18",
-          "views": 12,
+          "views": 9,
           "uploads": 2,
-          "cumulative_views": 301
+          "cumulative_views": 298
         }
       ],
       "videos": [
@@ -1003,7 +1003,7 @@
           "youtube_id": "HBPnQVJ8tj8",
           "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
           "tiktok_views": 521300,
-          "youtube_views": 11,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -1673,15 +1673,15 @@
         },
         {
           "date": "2026-09-18",
-          "views": 6695,
+          "views": 6730,
           "uploads": 3,
-          "cumulative_views": 6885
+          "cumulative_views": 6920
         },
         {
           "date": "2026-09-19",
-          "views": 1966,
+          "views": 1973,
           "uploads": 1,
-          "cumulative_views": 8851
+          "cumulative_views": 8893
         }
       ],
       "videos": [
@@ -1692,7 +1692,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1966,
+          "youtube_views": 1973,
           "youtube_likes": 12,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1706,7 +1706,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1720,7 +1720,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 4935,
+          "youtube_views": 4969,
           "youtube_likes": 24,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1980,7 +1980,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1966,
+      "youtube_views": 1973,
       "youtube_likes": 12,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -2008,7 +2008,7 @@
       "youtube_id": "HBPnQVJ8tj8",
       "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
       "tiktok_views": 521300,
-      "youtube_views": 11,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -2022,7 +2022,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -2064,7 +2064,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 4935,
+      "youtube_views": 4969,
       "youtube_likes": 24,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -3867,5 +3867,5 @@
       "created_at": "2026-09-13T02:08:59.164685+00:00"
     }
   ],
-  "last_updated": "2026-09-19T13:48:56.281894+00:00"
+  "last_updated": "2026-09-19T13:57:34.194042+00:00"
 }
