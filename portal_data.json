@@ -1,9 +1,9 @@
 {
   "cumulative": {
-    "total_uploads": 83,
+    "total_uploads": 84,
     "total_views": 4383,
-    "total_likes": 50,
-    "total_subscribers": 8,
+    "total_likes": 59,
+    "total_subscribers": 10,
     "channels_count": 4,
     "videos_per_day": 12
   },
@@ -99,26 +99,26 @@
     {
       "date": "2026-09-17",
       "ch1_views": 429,
-      "ch2_views": 289,
+      "ch2_views": 290,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 718
+      "total_views": 719
     },
     {
       "date": "2026-09-18",
       "ch1_views": 434,
-      "ch2_views": 298,
-      "ch3_views": 6920,
+      "ch2_views": 305,
+      "ch3_views": 7825,
       "ch4_views": 0,
-      "total_views": 7652
+      "total_views": 8564
     },
     {
       "date": "2026-09-19",
       "ch1_views": 434,
       "ch2_views": 0,
-      "ch3_views": 8893,
+      "ch3_views": 10265,
       "ch4_views": 7,
-      "total_views": 9334
+      "total_views": 10706
     }
   ],
   "channels": {
@@ -886,7 +886,7 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 37,
+      "total_uploads": 38,
       "total_views": 361,
       "total_likes": 1,
       "upcoming": {
@@ -984,15 +984,15 @@
         },
         {
           "date": "2026-09-17",
-          "views": 9,
+          "views": 10,
           "uploads": 1,
-          "cumulative_views": 289
+          "cumulative_views": 290
         },
         {
           "date": "2026-09-18",
-          "views": 9,
+          "views": 15,
           "uploads": 2,
-          "cumulative_views": 298
+          "cumulative_views": 305
         }
       ],
       "videos": [
@@ -1003,7 +1003,7 @@
           "youtube_id": "HBPnQVJ8tj8",
           "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
           "tiktok_views": 521300,
-          "youtube_views": 8,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -1031,7 +1031,7 @@
           "youtube_id": "TNkm_AtcbWI",
           "title": "Chocolate Banana Cake with 3 Simple Ingredients You'll Want Every Wee \u2728 #shorts",
           "tiktok_views": 551800,
-          "youtube_views": 9,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TNkm_AtcbWI/hqdefault.jpg",
@@ -1419,6 +1419,16 @@
       ],
       "runs": [
         {
+          "id": 47,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-19",
+          "status": "success",
+          "video_id": "mOAAawjGD20",
+          "error_message": null,
+          "created_at": "2026-09-19T16:11:25.682190+00:00"
+        },
+        {
           "id": 46,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1607,16 +1617,6 @@
           "video_id": "0iNyvoUwVu0",
           "error_message": null,
           "created_at": "2026-09-12T22:19:53.809364+00:00"
-        },
-        {
-          "id": 24,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-12",
-          "status": "success",
-          "video_id": "-66iQZlh8Lk",
-          "error_message": null,
-          "created_at": "2026-09-12T16:18:30.939520+00:00"
         }
       ]
     },
@@ -1634,10 +1634,10 @@
       "avatar": "https://yt3.ggpht.com/_ywAP0n0twSZRvZz7t_X5vS00F5NlWoAQXH-s9AjKEmY1Tb_Xnw3mSnojDjYZBXULnhq2FE7fA=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
-      "subscribers": 5,
+      "subscribers": 6,
       "total_uploads": 6,
       "total_views": 3540,
-      "total_likes": 46,
+      "total_likes": 55,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1673,15 +1673,15 @@
         },
         {
           "date": "2026-09-18",
-          "views": 6730,
+          "views": 7635,
           "uploads": 3,
-          "cumulative_views": 6920
+          "cumulative_views": 7825
         },
         {
           "date": "2026-09-19",
-          "views": 1973,
+          "views": 2440,
           "uploads": 1,
-          "cumulative_views": 8893
+          "cumulative_views": 10265
         }
       ],
       "videos": [
@@ -1692,8 +1692,8 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1973,
-          "youtube_likes": 12,
+          "youtube_views": 2440,
+          "youtube_likes": 13,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
           "status": "uploaded",
@@ -1720,8 +1720,8 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 4969,
-          "youtube_likes": 24,
+          "youtube_views": 5874,
+          "youtube_likes": 32,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
           "status": "uploaded",
@@ -1887,7 +1887,7 @@
       "avatar": "https://yt3.ggpht.com/zYHct36vdSNYI8-iosR9PhmCS2Zrb9RD_MLTZUpBsL2Ejo1InLcVSkKzbBRcImic2U7tUFI_dw=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "R",
       "category": "Remote Work & Side Hustles",
-      "subscribers": 0,
+      "subscribers": 1,
       "total_uploads": 1,
       "total_views": 0,
       "total_likes": 1,
@@ -1980,8 +1980,8 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1973,
-      "youtube_likes": 12,
+      "youtube_views": 2440,
+      "youtube_likes": 13,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
       "status": "uploaded",
@@ -2008,7 +2008,7 @@
       "youtube_id": "HBPnQVJ8tj8",
       "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
       "tiktok_views": 521300,
-      "youtube_views": 8,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -2064,8 +2064,8 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 4969,
-      "youtube_likes": 24,
+      "youtube_views": 5874,
+      "youtube_likes": 32,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
       "status": "uploaded",
@@ -2120,7 +2120,7 @@
       "youtube_id": "TNkm_AtcbWI",
       "title": "Chocolate Banana Cake with 3 Simple Ingredients You'll Want Every Wee \u2728 #shorts",
       "tiktok_views": 551800,
-      "youtube_views": 9,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TNkm_AtcbWI/hqdefault.jpg",
@@ -3634,9 +3634,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 83,
+    "total_uploads": 84,
     "total_views": 4383,
-    "total_likes": 50,
+    "total_likes": 59,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -3867,5 +3867,5 @@
       "created_at": "2026-09-13T02:08:59.164685+00:00"
     }
   ],
-  "last_updated": "2026-09-19T13:57:34.194042+00:00"
+  "last_updated": "2026-09-19T16:11:29.734095+00:00"
 }
