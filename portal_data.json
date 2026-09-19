@@ -3,7 +3,7 @@
     "total_uploads": 83,
     "total_views": 4383,
     "total_likes": 50,
-    "total_subscribers": 7,
+    "total_subscribers": 8,
     "channels_count": 4,
     "videos_per_day": 12
   },
@@ -13,98 +13,112 @@
       "ch1_views": 0,
       "ch2_views": 14,
       "ch3_views": 0,
+      "ch4_views": 0,
       "total_views": 14
     },
     {
       "date": "2026-09-06",
       "ch1_views": 14,
-      "ch2_views": 22,
+      "ch2_views": 23,
       "ch3_views": 0,
-      "total_views": 36
+      "ch4_views": 0,
+      "total_views": 37
     },
     {
       "date": "2026-09-07",
       "ch1_views": 24,
-      "ch2_views": 50,
+      "ch2_views": 51,
       "ch3_views": 0,
-      "total_views": 74
+      "ch4_views": 0,
+      "total_views": 75
     },
     {
       "date": "2026-09-08",
       "ch1_views": 25,
-      "ch2_views": 105,
+      "ch2_views": 106,
       "ch3_views": 0,
-      "total_views": 130
+      "ch4_views": 0,
+      "total_views": 131
     },
     {
       "date": "2026-09-10",
       "ch1_views": 28,
-      "ch2_views": 110,
+      "ch2_views": 111,
       "ch3_views": 0,
-      "total_views": 138
+      "ch4_views": 0,
+      "total_views": 139
     },
     {
       "date": "2026-09-11",
       "ch1_views": 35,
-      "ch2_views": 120,
+      "ch2_views": 121,
       "ch3_views": 0,
-      "total_views": 155
+      "ch4_views": 0,
+      "total_views": 156
     },
     {
       "date": "2026-09-12",
       "ch1_views": 402,
-      "ch2_views": 128,
+      "ch2_views": 129,
       "ch3_views": 0,
-      "total_views": 530
+      "ch4_views": 0,
+      "total_views": 531
     },
     {
       "date": "2026-09-13",
       "ch1_views": 418,
-      "ch2_views": 168,
+      "ch2_views": 169,
       "ch3_views": 0,
-      "total_views": 586
+      "ch4_views": 0,
+      "total_views": 587
     },
     {
       "date": "2026-09-14",
       "ch1_views": 420,
-      "ch2_views": 227,
+      "ch2_views": 229,
       "ch3_views": 0,
-      "total_views": 647
+      "ch4_views": 0,
+      "total_views": 649
     },
     {
       "date": "2026-09-15",
       "ch1_views": 421,
-      "ch2_views": 277,
+      "ch2_views": 275,
       "ch3_views": 0,
-      "total_views": 698
+      "ch4_views": 0,
+      "total_views": 696
     },
     {
       "date": "2026-09-16",
       "ch1_views": 428,
-      "ch2_views": 282,
+      "ch2_views": 280,
       "ch3_views": 190,
-      "total_views": 900
+      "ch4_views": 0,
+      "total_views": 898
     },
     {
       "date": "2026-09-17",
       "ch1_views": 429,
-      "ch2_views": 291,
+      "ch2_views": 289,
       "ch3_views": 0,
-      "total_views": 720
+      "ch4_views": 0,
+      "total_views": 718
     },
     {
       "date": "2026-09-18",
       "ch1_views": 434,
-      "ch2_views": 303,
-      "ch3_views": 6873,
-      "total_views": 7610
+      "ch2_views": 301,
+      "ch3_views": 6885,
+      "ch4_views": 0,
+      "total_views": 7620
     },
     {
       "date": "2026-09-19",
       "ch1_views": 434,
       "ch2_views": 0,
-      "ch3_views": 8836,
-      "total_views": 9276
+      "ch3_views": 8851,
+      "ch4_views": 7,
+      "total_views": 9292
     }
   ],
   "channels": {
@@ -910,75 +924,75 @@
         },
         {
           "date": "2026-09-06",
-          "views": 8,
+          "views": 9,
           "uploads": 2,
-          "cumulative_views": 22
+          "cumulative_views": 23
         },
         {
           "date": "2026-09-07",
           "views": 28,
           "uploads": 2,
-          "cumulative_views": 50
+          "cumulative_views": 51
         },
         {
           "date": "2026-09-08",
           "views": 55,
           "uploads": 2,
-          "cumulative_views": 105
+          "cumulative_views": 106
         },
         {
           "date": "2026-09-10",
           "views": 5,
           "uploads": 2,
-          "cumulative_views": 110
+          "cumulative_views": 111
         },
         {
           "date": "2026-09-11",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 120
+          "cumulative_views": 121
         },
         {
           "date": "2026-09-12",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 128
+          "cumulative_views": 129
         },
         {
           "date": "2026-09-13",
           "views": 40,
           "uploads": 3,
-          "cumulative_views": 168
+          "cumulative_views": 169
         },
         {
           "date": "2026-09-14",
-          "views": 59,
+          "views": 60,
           "uploads": 3,
-          "cumulative_views": 227
+          "cumulative_views": 229
         },
         {
           "date": "2026-09-15",
-          "views": 50,
+          "views": 46,
           "uploads": 3,
-          "cumulative_views": 277
+          "cumulative_views": 275
         },
         {
           "date": "2026-09-16",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 282
+          "cumulative_views": 280
         },
         {
           "date": "2026-09-17",
           "views": 9,
           "uploads": 1,
-          "cumulative_views": 291
+          "cumulative_views": 289
         },
         {
           "date": "2026-09-18",
           "views": 12,
           "uploads": 2,
-          "cumulative_views": 303
+          "cumulative_views": 301
         }
       ],
       "videos": [
@@ -1087,7 +1101,7 @@
           "youtube_id": "0yLRz-J0Xf8",
           "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
           "tiktok_views": 207400,
-          "youtube_views": 27,
+          "youtube_views": 25,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
@@ -1101,7 +1115,7 @@
           "youtube_id": "2IV8GtDAWgE",
           "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
           "tiktok_views": 598400,
-          "youtube_views": 13,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
@@ -1143,7 +1157,7 @@
           "youtube_id": "45A8pjcvAQg",
           "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
           "tiktok_views": 765900,
-          "youtube_views": 29,
+          "youtube_views": 30,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -1381,7 +1395,7 @@
           "youtube_id": "iyEKr8X5GEE",
           "title": "Dark Beer Beef with Creamy Pickle Potato Salad #BeefRecipe #EasyDinne...",
           "tiktok_views": 336500,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/iyEKr8X5GEE/hqdefault.jpg",
@@ -1620,7 +1634,7 @@
       "avatar": "https://yt3.ggpht.com/_ywAP0n0twSZRvZz7t_X5vS00F5NlWoAQXH-s9AjKEmY1Tb_Xnw3mSnojDjYZBXULnhq2FE7fA=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
-      "subscribers": 4,
+      "subscribers": 5,
       "total_uploads": 6,
       "total_views": 3540,
       "total_likes": 46,
@@ -1659,15 +1673,15 @@
         },
         {
           "date": "2026-09-18",
-          "views": 6683,
+          "views": 6695,
           "uploads": 3,
-          "cumulative_views": 6873
+          "cumulative_views": 6885
         },
         {
           "date": "2026-09-19",
-          "views": 1963,
+          "views": 1966,
           "uploads": 1,
-          "cumulative_views": 8836
+          "cumulative_views": 8851
         }
       ],
       "videos": [
@@ -1678,7 +1692,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1963,
+          "youtube_views": 1966,
           "youtube_likes": 12,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1706,7 +1720,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 4923,
+          "youtube_views": 4935,
           "youtube_likes": 24,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1906,9 +1920,9 @@
       "view_history": [
         {
           "date": "2026-09-19",
-          "views": 6,
+          "views": 7,
           "uploads": 1,
-          "cumulative_views": 6
+          "cumulative_views": 7
         }
       ],
       "videos": [
@@ -1919,7 +1933,7 @@
           "youtube_id": "oK9BYnEj4Ew",
           "title": "Work From Anywhere $22/HR",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/oK9BYnEj4Ew/hqdefault.jpg",
@@ -1938,7 +1952,7 @@
       "youtube_id": "oK9BYnEj4Ew",
       "title": "Work From Anywhere $22/HR",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/oK9BYnEj4Ew/hqdefault.jpg",
@@ -1966,7 +1980,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1963,
+      "youtube_views": 1966,
       "youtube_likes": 12,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -2050,7 +2064,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 4923,
+      "youtube_views": 4935,
       "youtube_likes": 24,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2274,7 +2288,7 @@
       "youtube_id": "0yLRz-J0Xf8",
       "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
       "tiktok_views": 207400,
-      "youtube_views": 27,
+      "youtube_views": 25,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
@@ -2302,7 +2316,7 @@
       "youtube_id": "2IV8GtDAWgE",
       "title": "strawberry Puff Pastry Dessert That looks Bakery-Made easydessert",
       "tiktok_views": 598400,
-      "youtube_views": 13,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2IV8GtDAWgE/hqdefault.jpg",
@@ -2386,7 +2400,7 @@
       "youtube_id": "45A8pjcvAQg",
       "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
       "tiktok_views": 765900,
-      "youtube_views": 29,
+      "youtube_views": 30,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -2834,7 +2848,7 @@
       "youtube_id": "iyEKr8X5GEE",
       "title": "Dark Beer Beef with Creamy Pickle Potato Salad #BeefRecipe #EasyDinne...",
       "tiktok_views": 336500,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/iyEKr8X5GEE/hqdefault.jpg",
@@ -3853,5 +3867,5 @@
       "created_at": "2026-09-13T02:08:59.164685+00:00"
     }
   ],
-  "last_updated": "2026-09-19T13:44:26.329790+00:00"
+  "last_updated": "2026-09-19T13:48:56.281894+00:00"
 }
