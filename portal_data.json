@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 80,
     "total_views": 1003,
-    "total_likes": 21,
+    "total_likes": 22,
     "total_subscribers": 5,
     "channels_count": 3,
     "videos_per_day": 9
@@ -10,94 +10,94 @@
   "master_view_history": [
     {
       "date": "2026-09-05",
-      "ch1_views": 3,
+      "ch1_views": 0,
       "ch2_views": 14,
       "ch3_views": 0,
-      "total_views": 17
+      "total_views": 14
     },
     {
       "date": "2026-09-06",
-      "ch1_views": 17,
+      "ch1_views": 14,
       "ch2_views": 21,
       "ch3_views": 0,
-      "total_views": 38
+      "total_views": 35
     },
     {
       "date": "2026-09-07",
-      "ch1_views": 27,
+      "ch1_views": 24,
       "ch2_views": 49,
       "ch3_views": 0,
-      "total_views": 76
+      "total_views": 73
     },
     {
       "date": "2026-09-08",
-      "ch1_views": 28,
+      "ch1_views": 25,
       "ch2_views": 104,
       "ch3_views": 0,
-      "total_views": 132
+      "total_views": 129
     },
     {
       "date": "2026-09-10",
-      "ch1_views": 31,
+      "ch1_views": 28,
       "ch2_views": 109,
       "ch3_views": 0,
-      "total_views": 140
+      "total_views": 137
     },
     {
       "date": "2026-09-11",
-      "ch1_views": 38,
+      "ch1_views": 35,
       "ch2_views": 119,
       "ch3_views": 0,
-      "total_views": 157
+      "total_views": 154
     },
     {
       "date": "2026-09-12",
-      "ch1_views": 405,
+      "ch1_views": 402,
       "ch2_views": 127,
       "ch3_views": 0,
-      "total_views": 532
+      "total_views": 529
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 421,
+      "ch1_views": 418,
       "ch2_views": 167,
       "ch3_views": 0,
-      "total_views": 588
+      "total_views": 585
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 423,
+      "ch1_views": 420,
       "ch2_views": 226,
       "ch3_views": 0,
-      "total_views": 649
+      "total_views": 646
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 424,
+      "ch1_views": 421,
       "ch2_views": 276,
       "ch3_views": 0,
-      "total_views": 700
+      "total_views": 697
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 428,
+      "ch1_views": 425,
       "ch2_views": 281,
-      "ch3_views": 182,
-      "total_views": 891
+      "ch3_views": 184,
+      "total_views": 890
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 428,
+      "ch1_views": 425,
       "ch2_views": 290,
       "ch3_views": 0,
-      "total_views": 718
+      "total_views": 715
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 433,
-      "ch2_views": 290,
-      "ch3_views": 3508,
-      "total_views": 4231
+      "ch1_views": 430,
+      "ch2_views": 291,
+      "ch3_views": 3649,
+      "total_views": 4370
     }
   ],
   "channels": {
@@ -148,84 +148,98 @@
       "view_history": [
         {
           "date": "2026-09-05",
-          "views": 3,
-          "uploads": 2,
-          "cumulative_views": 3
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 0
         },
         {
           "date": "2026-09-06",
           "views": 14,
           "uploads": 2,
-          "cumulative_views": 17
+          "cumulative_views": 14
         },
         {
           "date": "2026-09-07",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 27
+          "cumulative_views": 24
         },
         {
           "date": "2026-09-08",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 28
+          "cumulative_views": 25
         },
         {
           "date": "2026-09-10",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 31
+          "cumulative_views": 28
         },
         {
           "date": "2026-09-11",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 38
+          "cumulative_views": 35
         },
         {
           "date": "2026-09-12",
           "views": 367,
           "uploads": 3,
-          "cumulative_views": 405
+          "cumulative_views": 402
         },
         {
           "date": "2026-09-13",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 421
+          "cumulative_views": 418
         },
         {
           "date": "2026-09-14",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 423
+          "cumulative_views": 420
         },
         {
           "date": "2026-09-15",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 424
+          "cumulative_views": 421
         },
         {
           "date": "2026-09-16",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 428
+          "cumulative_views": 425
         },
         {
           "date": "2026-09-17",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 428
+          "cumulative_views": 425
         },
         {
           "date": "2026-09-18",
           "views": 5,
-          "uploads": 2,
-          "cumulative_views": 433
+          "uploads": 3,
+          "cumulative_views": 430
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7665700118330363150",
+          "youtube_id": "rh2Dqc6y-WY",
+          "title": "She Knows Dad\u2019s After-Work Routine Too Well \ud83d\ude2d",
+          "tiktok_views": 88600,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/rh2Dqc6y-WY/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-18T23:40:04Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -631,20 +645,6 @@
           "thumbnail": "https://i.ytimg.com/vi/7tG5erFwaZQ/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-05T22:16:46Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7677261920088444174",
-          "youtube_id": "dqDNDVuIibA",
-          "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79 #foryo...",
-          "tiktok_views": 2800000,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/dqDNDVuIibA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-05T00:04:16Z"
         }
       ],
       "runs": [
@@ -969,9 +969,9 @@
         },
         {
           "date": "2026-09-18",
-          "views": 0,
+          "views": 1,
           "uploads": 2,
-          "cumulative_views": 290
+          "cumulative_views": 291
         }
       ],
       "videos": [
@@ -996,7 +996,7 @@
           "youtube_id": "Et2FVj_Gj2M",
           "title": "Chocolate Caramel Apple Puff Pastry \u2728",
           "tiktok_views": 277500,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Et2FVj_Gj2M/hqdefault.jpg",
@@ -1616,7 +1616,7 @@
       "subscribers": 2,
       "total_uploads": 5,
       "total_views": 176,
-      "total_likes": 18,
+      "total_likes": 19,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1646,15 +1646,15 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 182,
+          "views": 184,
           "uploads": 2,
-          "cumulative_views": 182
+          "cumulative_views": 184
         },
         {
           "date": "2026-09-18",
-          "views": 3326,
+          "views": 3465,
           "uploads": 3,
-          "cumulative_views": 3508
+          "cumulative_views": 3649
         }
       ],
       "videos": [
@@ -1679,8 +1679,8 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1779,
-          "youtube_likes": 8,
+          "youtube_views": 1898,
+          "youtube_likes": 9,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
           "status": "uploaded",
@@ -1693,7 +1693,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1547,
+          "youtube_views": 1567,
           "youtube_likes": 7,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -1707,7 +1707,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 178,
+          "youtube_views": 180,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1825,6 +1825,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7665700118330363150",
+      "youtube_id": "rh2Dqc6y-WY",
+      "title": "She Knows Dad\u2019s After-Work Routine Too Well \ud83d\ude2d",
+      "tiktok_views": 88600,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/rh2Dqc6y-WY/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-18T23:40:04Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7652793910229617934",
@@ -1859,7 +1873,7 @@
       "youtube_id": "Et2FVj_Gj2M",
       "title": "Chocolate Caramel Apple Puff Pastry \u2728",
       "tiktok_views": 277500,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Et2FVj_Gj2M/hqdefault.jpg",
@@ -1887,8 +1901,8 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1779,
-      "youtube_likes": 8,
+      "youtube_views": 1898,
+      "youtube_likes": 9,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
       "status": "uploaded",
@@ -1901,7 +1915,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1547,
+      "youtube_views": 1567,
       "youtube_likes": 7,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -2013,7 +2027,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 178,
+      "youtube_views": 180,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -2719,20 +2733,6 @@
       "thumbnail": "https://i.ytimg.com/vi/o5SexqEBXFw/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-05T19:13:33Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7677261920088444174",
-      "youtube_id": "dqDNDVuIibA",
-      "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79 #foryo...",
-      "tiktok_views": 2800000,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/dqDNDVuIibA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-05T00:04:16Z"
     }
   ],
   "channel": {
@@ -2782,84 +2782,98 @@
     "view_history": [
       {
         "date": "2026-09-05",
-        "views": 3,
-        "uploads": 2,
-        "cumulative_views": 3
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 0
       },
       {
         "date": "2026-09-06",
         "views": 14,
         "uploads": 2,
-        "cumulative_views": 17
+        "cumulative_views": 14
       },
       {
         "date": "2026-09-07",
         "views": 10,
         "uploads": 2,
-        "cumulative_views": 27
+        "cumulative_views": 24
       },
       {
         "date": "2026-09-08",
         "views": 1,
         "uploads": 1,
-        "cumulative_views": 28
+        "cumulative_views": 25
       },
       {
         "date": "2026-09-10",
         "views": 3,
         "uploads": 2,
-        "cumulative_views": 31
+        "cumulative_views": 28
       },
       {
         "date": "2026-09-11",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 38
+        "cumulative_views": 35
       },
       {
         "date": "2026-09-12",
         "views": 367,
         "uploads": 3,
-        "cumulative_views": 405
+        "cumulative_views": 402
       },
       {
         "date": "2026-09-13",
         "views": 16,
         "uploads": 3,
-        "cumulative_views": 421
+        "cumulative_views": 418
       },
       {
         "date": "2026-09-14",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 423
+        "cumulative_views": 420
       },
       {
         "date": "2026-09-15",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 424
+        "cumulative_views": 421
       },
       {
         "date": "2026-09-16",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 428
+        "cumulative_views": 425
       },
       {
         "date": "2026-09-17",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 428
+        "cumulative_views": 425
       },
       {
         "date": "2026-09-18",
         "views": 5,
-        "uploads": 2,
-        "cumulative_views": 433
+        "uploads": 3,
+        "cumulative_views": 430
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7665700118330363150",
+        "youtube_id": "rh2Dqc6y-WY",
+        "title": "She Knows Dad\u2019s After-Work Routine Too Well \ud83d\ude2d",
+        "tiktok_views": 88600,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/rh2Dqc6y-WY/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-18T23:40:04Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -3265,20 +3279,6 @@
         "thumbnail": "https://i.ytimg.com/vi/7tG5erFwaZQ/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-05T22:16:46Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7677261920088444174",
-        "youtube_id": "dqDNDVuIibA",
-        "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79 #foryo...",
-        "tiktok_views": 2800000,
-        "youtube_views": 3,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/dqDNDVuIibA/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-05T00:04:16Z"
       }
     ],
     "runs": [
@@ -3487,7 +3487,7 @@
   "kpis": {
     "total_uploads": 80,
     "total_views": 1003,
-    "total_likes": 21,
+    "total_likes": 22,
     "videos_per_day": 9
   },
   "upcoming": {
@@ -3718,5 +3718,5 @@
       "created_at": "2026-09-12T23:38:34.334720+00:00"
     }
   ],
-  "last_updated": "2026-09-18T23:39:52.146417+00:00"
+  "last_updated": "2026-09-19T01:08:13.778649+00:00"
 }
