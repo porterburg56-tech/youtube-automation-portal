@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 85,
-    "total_views": 4383,
+    "total_uploads": 86,
+    "total_views": 4387,
     "total_likes": 62,
     "total_subscribers": 11,
     "channels_count": 4,
@@ -10,107 +10,107 @@
   "master_view_history": [
     {
       "date": "2026-09-06",
-      "ch1_views": 14,
+      "ch1_views": 0,
       "ch2_views": 9,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 23
+      "total_views": 9
     },
     {
       "date": "2026-09-07",
-      "ch1_views": 24,
+      "ch1_views": 10,
       "ch2_views": 37,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 61
+      "total_views": 47
     },
     {
       "date": "2026-09-08",
-      "ch1_views": 25,
+      "ch1_views": 11,
       "ch2_views": 92,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 117
+      "total_views": 103
     },
     {
       "date": "2026-09-10",
-      "ch1_views": 28,
+      "ch1_views": 14,
       "ch2_views": 97,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 125
+      "total_views": 111
     },
     {
       "date": "2026-09-11",
-      "ch1_views": 35,
+      "ch1_views": 21,
       "ch2_views": 107,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 142
+      "total_views": 128
     },
     {
       "date": "2026-09-12",
-      "ch1_views": 402,
+      "ch1_views": 388,
       "ch2_views": 115,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 517
+      "total_views": 503
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 418,
+      "ch1_views": 404,
       "ch2_views": 155,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 573
+      "total_views": 559
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 420,
+      "ch1_views": 406,
       "ch2_views": 215,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 635
+      "total_views": 621
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 421,
+      "ch1_views": 407,
       "ch2_views": 261,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 682
+      "total_views": 668
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 428,
+      "ch1_views": 414,
       "ch2_views": 266,
       "ch3_views": 190,
       "ch4_views": 0,
-      "total_views": 884
+      "total_views": 870
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 429,
+      "ch1_views": 415,
       "ch2_views": 276,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 705
+      "total_views": 691
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 434,
-      "ch2_views": 293,
-      "ch3_views": 8679,
+      "ch1_views": 420,
+      "ch2_views": 292,
+      "ch3_views": 8711,
       "ch4_views": 0,
-      "total_views": 9406
+      "total_views": 9423
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 434,
+      "ch1_views": 420,
       "ch2_views": 294,
-      "ch3_views": 11403,
+      "ch3_views": 11435,
       "ch4_views": 16,
-      "total_views": 12147
+      "total_views": 12165
     }
   ],
   "channels": {
@@ -130,7 +130,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 40,
-      "total_views": 482,
+      "total_views": 486,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -161,84 +161,98 @@
       "view_history": [
         {
           "date": "2026-09-06",
-          "views": 14,
-          "uploads": 2,
-          "cumulative_views": 14
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 0
         },
         {
           "date": "2026-09-07",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 24
+          "cumulative_views": 10
         },
         {
           "date": "2026-09-08",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 25
+          "cumulative_views": 11
         },
         {
           "date": "2026-09-10",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 28
+          "cumulative_views": 14
         },
         {
           "date": "2026-09-11",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 35
+          "cumulative_views": 21
         },
         {
           "date": "2026-09-12",
           "views": 367,
           "uploads": 3,
-          "cumulative_views": 402
+          "cumulative_views": 388
         },
         {
           "date": "2026-09-13",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 418
+          "cumulative_views": 404
         },
         {
           "date": "2026-09-14",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 420
+          "cumulative_views": 406
         },
         {
           "date": "2026-09-15",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 421
+          "cumulative_views": 407
         },
         {
           "date": "2026-09-16",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 428
+          "cumulative_views": 414
         },
         {
           "date": "2026-09-17",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 429
+          "cumulative_views": 415
         },
         {
           "date": "2026-09-18",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 434
+          "cumulative_views": 420
         },
         {
           "date": "2026-09-19",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 434
+          "uploads": 2,
+          "cumulative_views": 420
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7687265030735154462",
+          "youtube_id": "5EKYNa1GBmU",
+          "title": "Grandma Got Up From the Recliner and So Did the Baby \ud83d\ude02",
+          "tiktok_views": 1582,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/5EKYNa1GBmU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-19T17:15:37Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -644,20 +658,6 @@
           "thumbnail": "https://i.ytimg.com/vi/H3uE6swbEHY/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-06T22:17:57Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7663464745680276749",
-          "youtube_id": "gsQp78UWoZw",
-          "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
-          "tiktok_views": 2000000,
-          "youtube_views": 14,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-06T00:04:07Z"
         }
       ],
       "runs": [
@@ -976,13 +976,13 @@
         },
         {
           "date": "2026-09-18",
-          "views": 17,
+          "views": 16,
           "uploads": 2,
-          "cumulative_views": 293
+          "cumulative_views": 292
         },
         {
           "date": "2026-09-19",
-          "views": 1,
+          "views": 2,
           "uploads": 1,
           "cumulative_views": 294
         }
@@ -995,7 +995,7 @@
           "youtube_id": "mOAAawjGD20",
           "title": "Cheesy Ground Beef & Potato Bake \u2728",
           "tiktok_views": 52800,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/mOAAawjGD20/hqdefault.jpg",
@@ -1009,7 +1009,7 @@
           "youtube_id": "HBPnQVJ8tj8",
           "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
           "tiktok_views": 521300,
-          "youtube_views": 16,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -1627,7 +1627,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 7,
-      "total_uploads": 6,
+      "total_uploads": 7,
       "total_views": 3540,
       "total_likes": 59,
       "upcoming": {
@@ -1665,18 +1665,32 @@
         },
         {
           "date": "2026-09-18",
-          "views": 8489,
+          "views": 8521,
           "uploads": 3,
-          "cumulative_views": 8679
+          "cumulative_views": 8711
         },
         {
           "date": "2026-09-19",
           "views": 2724,
-          "uploads": 1,
-          "cumulative_views": 11403
+          "uploads": 2,
+          "cumulative_views": 11435
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1jUYN0EsBbCtyWKSDMAobL2a24LtplDBD",
+          "youtube_id": "6QW2ZqZJcXQ",
+          "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-19T17:18:33Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1712,7 +1726,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 6688,
+          "youtube_views": 6720,
           "youtube_likes": 35,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1763,6 +1777,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 15,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-09-19",
+          "status": "success",
+          "video_id": "6QW2ZqZJcXQ",
+          "error_message": null,
+          "created_at": "2026-09-19T17:18:35.967336+00:00"
+        },
         {
           "id": 14,
           "channel_id": "channel_3",
@@ -1938,13 +1962,41 @@
   },
   "videos": [
     {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1jUYN0EsBbCtyWKSDMAobL2a24LtplDBD",
+      "youtube_id": "6QW2ZqZJcXQ",
+      "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-19T17:18:33Z"
+    },
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7687265030735154462",
+      "youtube_id": "5EKYNa1GBmU",
+      "title": "Grandma Got Up From the Recliner and So Did the Baby \ud83d\ude02",
+      "tiktok_views": 1582,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/5EKYNa1GBmU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-19T17:15:37Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7686940377277877518",
       "youtube_id": "mOAAawjGD20",
       "title": "Cheesy Ground Beef & Potato Bake \u2728",
       "tiktok_views": 52800,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/mOAAawjGD20/hqdefault.jpg",
@@ -2014,7 +2066,7 @@
       "youtube_id": "HBPnQVJ8tj8",
       "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
       "tiktok_views": 521300,
-      "youtube_views": 16,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -2070,7 +2122,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 6688,
+      "youtube_views": 6720,
       "youtube_likes": 35,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2860,20 +2912,6 @@
       "thumbnail": "https://i.ytimg.com/vi/iyEKr8X5GEE/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-06T15:16:51Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7663464745680276749",
-      "youtube_id": "gsQp78UWoZw",
-      "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
-      "tiktok_views": 2000000,
-      "youtube_views": 14,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-06T00:04:07Z"
     }
   ],
   "channel": {
@@ -2892,7 +2930,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 40,
-    "total_views": 482,
+    "total_views": 486,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -2923,84 +2961,98 @@
     "view_history": [
       {
         "date": "2026-09-06",
-        "views": 14,
-        "uploads": 2,
-        "cumulative_views": 14
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 0
       },
       {
         "date": "2026-09-07",
         "views": 10,
         "uploads": 2,
-        "cumulative_views": 24
+        "cumulative_views": 10
       },
       {
         "date": "2026-09-08",
         "views": 1,
         "uploads": 1,
-        "cumulative_views": 25
+        "cumulative_views": 11
       },
       {
         "date": "2026-09-10",
         "views": 3,
         "uploads": 2,
-        "cumulative_views": 28
+        "cumulative_views": 14
       },
       {
         "date": "2026-09-11",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 35
+        "cumulative_views": 21
       },
       {
         "date": "2026-09-12",
         "views": 367,
         "uploads": 3,
-        "cumulative_views": 402
+        "cumulative_views": 388
       },
       {
         "date": "2026-09-13",
         "views": 16,
         "uploads": 3,
-        "cumulative_views": 418
+        "cumulative_views": 404
       },
       {
         "date": "2026-09-14",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 420
+        "cumulative_views": 406
       },
       {
         "date": "2026-09-15",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 421
+        "cumulative_views": 407
       },
       {
         "date": "2026-09-16",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 428
+        "cumulative_views": 414
       },
       {
         "date": "2026-09-17",
         "views": 1,
         "uploads": 1,
-        "cumulative_views": 429
+        "cumulative_views": 415
       },
       {
         "date": "2026-09-18",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 434
+        "cumulative_views": 420
       },
       {
         "date": "2026-09-19",
         "views": 0,
-        "uploads": 1,
-        "cumulative_views": 434
+        "uploads": 2,
+        "cumulative_views": 420
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7687265030735154462",
+        "youtube_id": "5EKYNa1GBmU",
+        "title": "Grandma Got Up From the Recliner and So Did the Baby \ud83d\ude02",
+        "tiktok_views": 1582,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/5EKYNa1GBmU/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-19T17:15:37Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -3406,20 +3458,6 @@
         "thumbnail": "https://i.ytimg.com/vi/H3uE6swbEHY/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-06T22:17:57Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7663464745680276749",
-        "youtube_id": "gsQp78UWoZw",
-        "title": "\ud83d\ude02 When Dad Comes Home From Work\u2026 Every Parent Will Relate! \u2764\ufe0f #tiktok...",
-        "tiktok_views": 2000000,
-        "youtube_views": 14,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-06T00:04:07Z"
       }
     ],
     "runs": [
@@ -3626,8 +3664,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 85,
-    "total_views": 4383,
+    "total_uploads": 86,
+    "total_views": 4387,
     "total_likes": 62,
     "videos_per_day": 12
   },
@@ -3859,5 +3897,5 @@
       "created_at": "2026-09-13T17:15:41.109293+00:00"
     }
   ],
-  "last_updated": "2026-09-19T17:15:26.381952+00:00"
+  "last_updated": "2026-09-19T17:18:40.738481+00:00"
 }
