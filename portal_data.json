@@ -1,9 +1,9 @@
 {
   "cumulative": {
-    "total_uploads": 86,
-    "total_views": 4387,
-    "total_likes": 62,
-    "total_subscribers": 11,
+    "total_uploads": 87,
+    "total_views": 5077,
+    "total_likes": 93,
+    "total_subscribers": 23,
     "channels_count": 4,
     "videos_per_day": 12
   },
@@ -82,35 +82,35 @@
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 414,
+      "ch1_views": 415,
       "ch2_views": 266,
-      "ch3_views": 190,
+      "ch3_views": 211,
       "ch4_views": 0,
-      "total_views": 870
+      "total_views": 892
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 415,
+      "ch1_views": 418,
       "ch2_views": 276,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 691
+      "total_views": 694
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 420,
-      "ch2_views": 295,
-      "ch3_views": 8899,
+      "ch1_views": 425,
+      "ch2_views": 306,
+      "ch3_views": 13116,
       "ch4_views": 0,
-      "total_views": 9614
+      "total_views": 13847
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 420,
-      "ch2_views": 296,
-      "ch3_views": 11745,
-      "ch4_views": 20,
-      "total_views": 12481
+      "ch1_views": 425,
+      "ch2_views": 313,
+      "ch3_views": 18320,
+      "ch4_views": 37,
+      "total_views": 19095
     }
   ],
   "channels": {
@@ -215,27 +215,27 @@
         },
         {
           "date": "2026-09-16",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 414
-        },
-        {
-          "date": "2026-09-17",
-          "views": 1,
-          "uploads": 1,
           "cumulative_views": 415
         },
         {
+          "date": "2026-09-17",
+          "views": 3,
+          "uploads": 1,
+          "cumulative_views": 418
+        },
+        {
           "date": "2026-09-18",
-          "views": 5,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 420
+          "cumulative_views": 425
         },
         {
           "date": "2026-09-19",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 420
+          "cumulative_views": 425
         }
       ],
       "videos": [
@@ -274,7 +274,7 @@
           "youtube_id": "rh2Dqc6y-WY",
           "title": "She Knows Dad\u2019s After-Work Routine Too Well \ud83d\ude2d",
           "tiktok_views": 88600,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/rh2Dqc6y-WY/hqdefault.jpg",
@@ -288,7 +288,7 @@
           "youtube_id": "9UdGcElPd1U",
           "title": "Grandpa and Baby Walking Side by Side to the Mailbox Is Everything \ud83e\udd79",
           "tiktok_views": 93500,
-          "youtube_views": 3,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9UdGcElPd1U/hqdefault.jpg",
@@ -316,7 +316,7 @@
           "youtube_id": "pDRO1BpkUd8",
           "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #shorts",
           "tiktok_views": 97400,
-          "youtube_views": 1,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/pDRO1BpkUd8/hqdefault.jpg",
@@ -330,7 +330,7 @@
           "youtube_id": "LTXCsx8kOcI",
           "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
           "tiktok_views": 119700,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
@@ -878,7 +878,7 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 38,
+      "total_uploads": 39,
       "total_views": 361,
       "total_likes": 0,
       "upcoming": {
@@ -976,15 +976,15 @@
         },
         {
           "date": "2026-09-18",
-          "views": 19,
+          "views": 30,
           "uploads": 2,
-          "cumulative_views": 295
+          "cumulative_views": 306
         },
         {
           "date": "2026-09-19",
-          "views": 1,
+          "views": 7,
           "uploads": 1,
-          "cumulative_views": 296
+          "cumulative_views": 313
         }
       ],
       "videos": [
@@ -995,7 +995,7 @@
           "youtube_id": "mOAAawjGD20",
           "title": "Cheesy Ground Beef & Potato Bake \u2728",
           "tiktok_views": 52800,
-          "youtube_views": 1,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/mOAAawjGD20/hqdefault.jpg",
@@ -1009,7 +1009,7 @@
           "youtube_id": "HBPnQVJ8tj8",
           "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
           "tiktok_views": 521300,
-          "youtube_views": 18,
+          "youtube_views": 29,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -1411,6 +1411,16 @@
       ],
       "runs": [
         {
+          "id": 48,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-09-19",
+          "status": "success",
+          "video_id": "BdViWCLU3D4",
+          "error_message": null,
+          "created_at": "2026-09-19T22:16:18.770248+00:00"
+        },
+        {
           "id": 47,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1599,16 +1609,6 @@
           "video_id": "JwtdOq7sl4I",
           "error_message": null,
           "created_at": "2026-09-13T01:07:12.303711+00:00"
-        },
-        {
-          "id": 25,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-09-12",
-          "status": "success",
-          "video_id": "0iNyvoUwVu0",
-          "error_message": null,
-          "created_at": "2026-09-12T22:19:53.809364+00:00"
         }
       ]
     },
@@ -1626,10 +1626,10 @@
       "avatar": "https://yt3.ggpht.com/_ywAP0n0twSZRvZz7t_X5vS00F5NlWoAQXH-s9AjKEmY1Tb_Xnw3mSnojDjYZBXULnhq2FE7fA=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
-      "subscribers": 7,
+      "subscribers": 19,
       "total_uploads": 7,
-      "total_views": 3540,
-      "total_likes": 59,
+      "total_views": 4230,
+      "total_likes": 88,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1659,21 +1659,21 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 190,
+          "views": 211,
           "uploads": 2,
-          "cumulative_views": 190
+          "cumulative_views": 211
         },
         {
           "date": "2026-09-18",
-          "views": 8709,
+          "views": 12905,
           "uploads": 3,
-          "cumulative_views": 8899
+          "cumulative_views": 13116
         },
         {
           "date": "2026-09-19",
-          "views": 2846,
+          "views": 5204,
           "uploads": 2,
-          "cumulative_views": 11745
+          "cumulative_views": 18320
         }
       ],
       "videos": [
@@ -1684,8 +1684,8 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 96,
-          "youtube_likes": 0,
+          "youtube_views": 1194,
+          "youtube_likes": 5,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
           "status": "uploaded",
@@ -1698,8 +1698,8 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 2750,
-          "youtube_likes": 14,
+          "youtube_views": 4010,
+          "youtube_likes": 18,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
           "status": "uploaded",
@@ -1712,7 +1712,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 11,
+          "youtube_views": 29,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1726,8 +1726,8 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 6920,
-          "youtube_likes": 35,
+          "youtube_views": 11031,
+          "youtube_likes": 54,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
           "status": "uploaded",
@@ -1740,8 +1740,8 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1778,
-          "youtube_likes": 7,
+          "youtube_views": 1845,
+          "youtube_likes": 8,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
           "status": "uploaded",
@@ -1754,7 +1754,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 185,
+          "youtube_views": 194,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1768,7 +1768,7 @@
           "youtube_id": "BOYWYj2Iix8",
           "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 17,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -1906,7 +1906,7 @@
       "subscribers": 1,
       "total_uploads": 1,
       "total_views": 0,
-      "total_likes": 1,
+      "total_likes": 3,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1936,9 +1936,9 @@
       "view_history": [
         {
           "date": "2026-09-19",
-          "views": 20,
+          "views": 37,
           "uploads": 1,
-          "cumulative_views": 20
+          "cumulative_views": 37
         }
       ],
       "videos": [
@@ -1949,8 +1949,8 @@
           "youtube_id": "oK9BYnEj4Ew",
           "title": "Work From Anywhere $22/HR",
           "tiktok_views": 0,
-          "youtube_views": 20,
-          "youtube_likes": 1,
+          "youtube_views": 37,
+          "youtube_likes": 3,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/oK9BYnEj4Ew/hqdefault.jpg",
           "status": "uploaded",
@@ -1979,8 +1979,8 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 96,
-      "youtube_likes": 0,
+      "youtube_views": 1194,
+      "youtube_likes": 5,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
       "status": "uploaded",
@@ -2007,7 +2007,7 @@
       "youtube_id": "mOAAawjGD20",
       "title": "Cheesy Ground Beef & Potato Bake \u2728",
       "tiktok_views": 52800,
-      "youtube_views": 1,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/mOAAawjGD20/hqdefault.jpg",
@@ -2021,8 +2021,8 @@
       "youtube_id": "oK9BYnEj4Ew",
       "title": "Work From Anywhere $22/HR",
       "tiktok_views": 0,
-      "youtube_views": 20,
-      "youtube_likes": 1,
+      "youtube_views": 37,
+      "youtube_likes": 3,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/oK9BYnEj4Ew/hqdefault.jpg",
       "status": "uploaded",
@@ -2049,8 +2049,8 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 2750,
-      "youtube_likes": 14,
+      "youtube_views": 4010,
+      "youtube_likes": 18,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
       "status": "uploaded",
@@ -2063,7 +2063,7 @@
       "youtube_id": "rh2Dqc6y-WY",
       "title": "She Knows Dad\u2019s After-Work Routine Too Well \ud83d\ude2d",
       "tiktok_views": 88600,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/rh2Dqc6y-WY/hqdefault.jpg",
@@ -2077,7 +2077,7 @@
       "youtube_id": "HBPnQVJ8tj8",
       "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
       "tiktok_views": 521300,
-      "youtube_views": 18,
+      "youtube_views": 29,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -2091,7 +2091,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 11,
+      "youtube_views": 29,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -2119,7 +2119,7 @@
       "youtube_id": "9UdGcElPd1U",
       "title": "Grandpa and Baby Walking Side by Side to the Mailbox Is Everything \ud83e\udd79",
       "tiktok_views": 93500,
-      "youtube_views": 3,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9UdGcElPd1U/hqdefault.jpg",
@@ -2133,8 +2133,8 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 6920,
-      "youtube_likes": 35,
+      "youtube_views": 11031,
+      "youtube_likes": 54,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
       "status": "uploaded",
@@ -2147,8 +2147,8 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1778,
-      "youtube_likes": 7,
+      "youtube_views": 1845,
+      "youtube_likes": 8,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
       "status": "uploaded",
@@ -2175,7 +2175,7 @@
       "youtube_id": "pDRO1BpkUd8",
       "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #shorts",
       "tiktok_views": 97400,
-      "youtube_views": 1,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/pDRO1BpkUd8/hqdefault.jpg",
@@ -2203,7 +2203,7 @@
       "youtube_id": "LTXCsx8kOcI",
       "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
       "tiktok_views": 119700,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
@@ -2259,7 +2259,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 185,
+      "youtube_views": 194,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -2273,7 +2273,7 @@
       "youtube_id": "BOYWYj2Iix8",
       "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 17,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -3026,27 +3026,27 @@
       },
       {
         "date": "2026-09-16",
-        "views": 7,
+        "views": 8,
         "uploads": 3,
-        "cumulative_views": 414
-      },
-      {
-        "date": "2026-09-17",
-        "views": 1,
-        "uploads": 1,
         "cumulative_views": 415
       },
       {
+        "date": "2026-09-17",
+        "views": 3,
+        "uploads": 1,
+        "cumulative_views": 418
+      },
+      {
         "date": "2026-09-18",
-        "views": 5,
+        "views": 7,
         "uploads": 3,
-        "cumulative_views": 420
+        "cumulative_views": 425
       },
       {
         "date": "2026-09-19",
         "views": 0,
         "uploads": 2,
-        "cumulative_views": 420
+        "cumulative_views": 425
       }
     ],
     "videos": [
@@ -3085,7 +3085,7 @@
         "youtube_id": "rh2Dqc6y-WY",
         "title": "She Knows Dad\u2019s After-Work Routine Too Well \ud83d\ude2d",
         "tiktok_views": 88600,
-        "youtube_views": 0,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/rh2Dqc6y-WY/hqdefault.jpg",
@@ -3099,7 +3099,7 @@
         "youtube_id": "9UdGcElPd1U",
         "title": "Grandpa and Baby Walking Side by Side to the Mailbox Is Everything \ud83e\udd79",
         "tiktok_views": 93500,
-        "youtube_views": 3,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/9UdGcElPd1U/hqdefault.jpg",
@@ -3127,7 +3127,7 @@
         "youtube_id": "pDRO1BpkUd8",
         "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #shorts",
         "tiktok_views": 97400,
-        "youtube_views": 1,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/pDRO1BpkUd8/hqdefault.jpg",
@@ -3141,7 +3141,7 @@
         "youtube_id": "LTXCsx8kOcI",
         "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
         "tiktok_views": 119700,
-        "youtube_views": 3,
+        "youtube_views": 4,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
@@ -3675,9 +3675,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 86,
-    "total_views": 4387,
-    "total_likes": 62,
+    "total_uploads": 87,
+    "total_views": 5077,
+    "total_likes": 93,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -3908,5 +3908,5 @@
       "created_at": "2026-09-13T17:15:41.109293+00:00"
     }
   ],
-  "last_updated": "2026-09-19T17:29:39.495828+00:00"
+  "last_updated": "2026-09-19T22:16:23.453552+00:00"
 }
