@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 81,
+    "total_uploads": 82,
     "total_views": 1003,
-    "total_likes": 22,
+    "total_likes": 25,
     "total_subscribers": 5,
     "channels_count": 3,
     "videos_per_day": 9
@@ -96,15 +96,15 @@
       "date": "2026-09-18",
       "ch1_views": 433,
       "ch2_views": 291,
-      "ch3_views": 3674,
-      "total_views": 4398
+      "ch3_views": 3760,
+      "total_views": 4484
     },
     {
       "date": "2026-09-19",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 3674,
-      "total_views": 3674
+      "ch3_views": 4016,
+      "total_views": 4016
     }
   ],
   "channels": {
@@ -123,7 +123,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 38,
+      "total_uploads": 39,
       "total_views": 472,
       "total_likes": 2,
       "upcoming": {
@@ -656,6 +656,16 @@
       ],
       "runs": [
         {
+          "id": 48,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-09-19",
+          "status": "success",
+          "video_id": "wH2v2ULujxg",
+          "error_message": null,
+          "created_at": "2026-09-19T02:08:51.510754+00:00"
+        },
+        {
           "id": 47,
           "channel_id": "channel_1",
           "slot": 2,
@@ -844,16 +854,6 @@
           "video_id": "qw0io39Ys4A",
           "error_message": null,
           "created_at": "2026-09-13T02:08:59.164685+00:00"
-        },
-        {
-          "id": 27,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-09-12",
-          "status": "success",
-          "video_id": "_VMXeCFsF6E",
-          "error_message": null,
-          "created_at": "2026-09-12T23:38:34.334720+00:00"
         }
       ]
     },
@@ -1623,7 +1623,7 @@
       "subscribers": 2,
       "total_uploads": 6,
       "total_views": 176,
-      "total_likes": 19,
+      "total_likes": 22,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1659,15 +1659,15 @@
         },
         {
           "date": "2026-09-18",
-          "views": 3490,
+          "views": 3576,
           "uploads": 3,
-          "cumulative_views": 3674
+          "cumulative_views": 3760
         },
         {
           "date": "2026-09-19",
-          "views": 0,
+          "views": 256,
           "uploads": 1,
-          "cumulative_views": 3674
+          "cumulative_views": 4016
         }
       ],
       "videos": [
@@ -1678,12 +1678,12 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
-          "youtube_likes": 0,
+          "youtube_views": 256,
+          "youtube_likes": 3,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-19T01:13:50Z"
+          "uploaded_at": "2026-09-19T01:14:07Z"
         },
         {
           "channel_id": "channel_3",
@@ -1706,7 +1706,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1908,
+          "youtube_views": 2001,
           "youtube_likes": 9,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1720,7 +1720,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1582,
+          "youtube_views": 1575,
           "youtube_likes": 7,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -1868,12 +1868,12 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
+      "youtube_views": 256,
+      "youtube_likes": 3,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-19T01:13:50Z"
+      "uploaded_at": "2026-09-19T01:14:07Z"
     },
     {
       "channel_id": "channel_1",
@@ -1952,7 +1952,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1908,
+      "youtube_views": 2001,
       "youtube_likes": 9,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1966,7 +1966,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1582,
+      "youtube_views": 1575,
       "youtube_likes": 7,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -2801,7 +2801,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 38,
+    "total_uploads": 39,
     "total_views": 472,
     "total_likes": 2,
     "upcoming": {
@@ -3334,6 +3334,16 @@
     ],
     "runs": [
       {
+        "id": 48,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-09-19",
+        "status": "success",
+        "video_id": "wH2v2ULujxg",
+        "error_message": null,
+        "created_at": "2026-09-19T02:08:51.510754+00:00"
+      },
+      {
         "id": 47,
         "channel_id": "channel_1",
         "slot": 2,
@@ -3522,23 +3532,13 @@
         "video_id": "qw0io39Ys4A",
         "error_message": null,
         "created_at": "2026-09-13T02:08:59.164685+00:00"
-      },
-      {
-        "id": 27,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-09-12",
-        "status": "success",
-        "video_id": "_VMXeCFsF6E",
-        "error_message": null,
-        "created_at": "2026-09-12T23:38:34.334720+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 81,
+    "total_uploads": 82,
     "total_views": 1003,
-    "total_likes": 22,
+    "total_likes": 25,
     "videos_per_day": 9
   },
   "upcoming": {
@@ -3568,6 +3568,16 @@
     }
   },
   "runs": [
+    {
+      "id": 48,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-09-19",
+      "status": "success",
+      "video_id": "wH2v2ULujxg",
+      "error_message": null,
+      "created_at": "2026-09-19T02:08:51.510754+00:00"
+    },
     {
       "id": 47,
       "channel_id": "channel_1",
@@ -3757,17 +3767,7 @@
       "video_id": "qw0io39Ys4A",
       "error_message": null,
       "created_at": "2026-09-13T02:08:59.164685+00:00"
-    },
-    {
-      "id": 27,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-09-12",
-      "status": "success",
-      "video_id": "_VMXeCFsF6E",
-      "error_message": null,
-      "created_at": "2026-09-12T23:38:34.334720+00:00"
     }
   ],
-  "last_updated": "2026-09-19T01:13:57.696128+00:00"
+  "last_updated": "2026-09-19T02:08:54.995191+00:00"
 }
