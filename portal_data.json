@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 83,
     "total_views": 4383,
-    "total_likes": 48,
+    "total_likes": 50,
     "total_subscribers": 7,
     "channels_count": 4,
     "videos_per_day": 12
@@ -96,15 +96,15 @@
       "date": "2026-09-18",
       "ch1_views": 434,
       "ch2_views": 303,
-      "ch3_views": 6830,
-      "total_views": 7567
+      "ch3_views": 6873,
+      "total_views": 7610
     },
     {
       "date": "2026-09-19",
       "ch1_views": 434,
       "ch2_views": 0,
-      "ch3_views": 8786,
-      "total_views": 9224
+      "ch3_views": 8836,
+      "total_views": 9276
     }
   ],
   "channels": {
@@ -1623,7 +1623,7 @@
       "subscribers": 4,
       "total_uploads": 6,
       "total_views": 3540,
-      "total_likes": 45,
+      "total_likes": 46,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1659,15 +1659,15 @@
         },
         {
           "date": "2026-09-18",
-          "views": 6640,
+          "views": 6683,
           "uploads": 3,
-          "cumulative_views": 6830
+          "cumulative_views": 6873
         },
         {
           "date": "2026-09-19",
-          "views": 1956,
+          "views": 1963,
           "uploads": 1,
-          "cumulative_views": 8786
+          "cumulative_views": 8836
         }
       ],
       "videos": [
@@ -1678,8 +1678,8 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1956,
-          "youtube_likes": 11,
+          "youtube_views": 1963,
+          "youtube_likes": 12,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
           "status": "uploaded",
@@ -1706,7 +1706,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 4880,
+          "youtube_views": 4923,
           "youtube_likes": 24,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1876,7 +1876,7 @@
       "subscribers": 0,
       "total_uploads": 1,
       "total_views": 0,
-      "total_likes": 0,
+      "total_likes": 1,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1906,9 +1906,9 @@
       "view_history": [
         {
           "date": "2026-09-19",
-          "views": 4,
+          "views": 6,
           "uploads": 1,
-          "cumulative_views": 4
+          "cumulative_views": 6
         }
       ],
       "videos": [
@@ -1919,8 +1919,8 @@
           "youtube_id": "oK9BYnEj4Ew",
           "title": "Work From Anywhere $22/HR",
           "tiktok_views": 0,
-          "youtube_views": 4,
-          "youtube_likes": 0,
+          "youtube_views": 6,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/oK9BYnEj4Ew/hqdefault.jpg",
           "status": "uploaded",
@@ -1938,8 +1938,8 @@
       "youtube_id": "oK9BYnEj4Ew",
       "title": "Work From Anywhere $22/HR",
       "tiktok_views": 0,
-      "youtube_views": 4,
-      "youtube_likes": 0,
+      "youtube_views": 6,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/oK9BYnEj4Ew/hqdefault.jpg",
       "status": "uploaded",
@@ -1966,8 +1966,8 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1956,
-      "youtube_likes": 11,
+      "youtube_views": 1963,
+      "youtube_likes": 12,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
       "status": "uploaded",
@@ -2050,7 +2050,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 4880,
+      "youtube_views": 4923,
       "youtube_likes": 24,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -3622,7 +3622,7 @@
   "kpis": {
     "total_uploads": 83,
     "total_views": 4383,
-    "total_likes": 48,
+    "total_likes": 50,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -3853,5 +3853,5 @@
       "created_at": "2026-09-13T02:08:59.164685+00:00"
     }
   ],
-  "last_updated": "2026-09-19T13:32:05.837864+00:00"
+  "last_updated": "2026-09-19T13:44:26.329790+00:00"
 }
