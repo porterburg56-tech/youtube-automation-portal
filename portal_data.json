@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 88,
     "total_views": 5077,
-    "total_likes": 94,
+    "total_likes": 95,
     "total_subscribers": 23,
     "channels_count": 4,
     "videos_per_day": 12
@@ -84,9 +84,9 @@
       "date": "2026-09-16",
       "ch1_views": 415,
       "ch2_views": 257,
-      "ch3_views": 206,
+      "ch3_views": 211,
       "ch4_views": 0,
-      "total_views": 878
+      "total_views": 883
     },
     {
       "date": "2026-09-17",
@@ -98,19 +98,19 @@
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 424,
+      "ch1_views": 425,
       "ch2_views": 297,
-      "ch3_views": 13166,
+      "ch3_views": 13437,
       "ch4_views": 0,
-      "total_views": 13887
+      "total_views": 14159
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 424,
+      "ch1_views": 425,
       "ch2_views": 304,
-      "ch3_views": 18416,
+      "ch3_views": 18761,
       "ch4_views": 28,
-      "total_views": 19172
+      "total_views": 19518
     }
   ],
   "channels": {
@@ -227,15 +227,15 @@
         },
         {
           "date": "2026-09-18",
-          "views": 6,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 424
+          "cumulative_views": 425
         },
         {
           "date": "2026-09-19",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 424
+          "cumulative_views": 425
         }
       ],
       "videos": [
@@ -274,7 +274,7 @@
           "youtube_id": "rh2Dqc6y-WY",
           "title": "She Knows Dad\u2019s After-Work Routine Too Well \ud83d\ude2d",
           "tiktok_views": 88600,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/rh2Dqc6y-WY/hqdefault.jpg",
@@ -1629,7 +1629,7 @@
       "subscribers": 19,
       "total_uploads": 8,
       "total_views": 4230,
-      "total_likes": 89,
+      "total_likes": 90,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1659,21 +1659,21 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 206,
+          "views": 211,
           "uploads": 2,
-          "cumulative_views": 206
+          "cumulative_views": 211
         },
         {
           "date": "2026-09-18",
-          "views": 12960,
+          "views": 13226,
           "uploads": 3,
-          "cumulative_views": 13166
+          "cumulative_views": 13437
         },
         {
           "date": "2026-09-19",
-          "views": 5250,
+          "views": 5324,
           "uploads": 3,
-          "cumulative_views": 18416
+          "cumulative_views": 18761
         }
       ],
       "videos": [
@@ -1684,12 +1684,12 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-19T22:20:02Z"
+          "uploaded_at": "2026-09-19T22:20:20Z"
         },
         {
           "channel_id": "channel_3",
@@ -1698,7 +1698,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 1240,
+          "youtube_views": 1266,
           "youtube_likes": 5,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1712,7 +1712,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4010,
+          "youtube_views": 4054,
           "youtube_likes": 18,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1740,8 +1740,8 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 11031,
-          "youtube_likes": 55,
+          "youtube_views": 11297,
+          "youtube_likes": 56,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
           "status": "uploaded",
@@ -1768,7 +1768,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 189,
+          "youtube_views": 194,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1983,6 +1983,16 @@
       ],
       "runs": [
         {
+          "id": 2,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-09-19",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "'utf-8' codec can't decode byte 0xc8 in position 236: invalid continuation byte",
+          "created_at": "2026-09-19T22:25:19.422242+00:00"
+        },
+        {
           "id": 1,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2003,12 +2013,12 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-19T22:20:02Z"
+      "uploaded_at": "2026-09-19T22:20:20Z"
     },
     {
       "channel_id": "channel_2",
@@ -2031,7 +2041,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 1240,
+      "youtube_views": 1266,
       "youtube_likes": 5,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -2101,7 +2111,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4010,
+      "youtube_views": 4054,
       "youtube_likes": 18,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -2115,7 +2125,7 @@
       "youtube_id": "rh2Dqc6y-WY",
       "title": "She Knows Dad\u2019s After-Work Routine Too Well \ud83d\ude2d",
       "tiktok_views": 88600,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/rh2Dqc6y-WY/hqdefault.jpg",
@@ -2185,8 +2195,8 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 11031,
-      "youtube_likes": 55,
+      "youtube_views": 11297,
+      "youtube_likes": 56,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
       "status": "uploaded",
@@ -2311,7 +2321,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 189,
+      "youtube_views": 194,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -3076,15 +3086,15 @@
       },
       {
         "date": "2026-09-18",
-        "views": 6,
+        "views": 7,
         "uploads": 3,
-        "cumulative_views": 424
+        "cumulative_views": 425
       },
       {
         "date": "2026-09-19",
         "views": 0,
         "uploads": 2,
-        "cumulative_views": 424
+        "cumulative_views": 425
       }
     ],
     "videos": [
@@ -3123,7 +3133,7 @@
         "youtube_id": "rh2Dqc6y-WY",
         "title": "She Knows Dad\u2019s After-Work Routine Too Well \ud83d\ude2d",
         "tiktok_views": 88600,
-        "youtube_views": 2,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/rh2Dqc6y-WY/hqdefault.jpg",
@@ -3715,7 +3725,7 @@
   "kpis": {
     "total_uploads": 88,
     "total_views": 5077,
-    "total_likes": 94,
+    "total_likes": 95,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -3946,5 +3956,5 @@
       "created_at": "2026-09-13T17:15:41.109293+00:00"
     }
   ],
-  "last_updated": "2026-09-19T22:20:08.725251+00:00"
+  "last_updated": "2026-09-19T22:25:23.078869+00:00"
 }
