@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 80,
+    "total_uploads": 81,
     "total_views": 1003,
     "total_likes": 22,
     "total_subscribers": 5,
@@ -80,24 +80,31 @@
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 425,
+      "ch1_views": 427,
       "ch2_views": 281,
       "ch3_views": 184,
-      "total_views": 890
+      "total_views": 892
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 425,
+      "ch1_views": 428,
       "ch2_views": 290,
       "ch3_views": 0,
-      "total_views": 715
+      "total_views": 718
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 430,
+      "ch1_views": 433,
       "ch2_views": 291,
-      "ch3_views": 3649,
-      "total_views": 4370
+      "ch3_views": 3674,
+      "total_views": 4398
+    },
+    {
+      "date": "2026-09-19",
+      "ch1_views": 0,
+      "ch2_views": 0,
+      "ch3_views": 3674,
+      "total_views": 3674
     }
   ],
   "channels": {
@@ -208,21 +215,21 @@
         },
         {
           "date": "2026-09-16",
-          "views": 4,
+          "views": 6,
           "uploads": 3,
-          "cumulative_views": 425
+          "cumulative_views": 427
         },
         {
           "date": "2026-09-17",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 425
+          "cumulative_views": 428
         },
         {
           "date": "2026-09-18",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 430
+          "cumulative_views": 433
         }
       ],
       "videos": [
@@ -275,7 +282,7 @@
           "youtube_id": "pDRO1BpkUd8",
           "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #shorts",
           "tiktok_views": 97400,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/pDRO1BpkUd8/hqdefault.jpg",
@@ -303,7 +310,7 @@
           "youtube_id": "9zwfhL4WrrQ",
           "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 #shorts",
           "tiktok_views": 3486,
-          "youtube_views": 1,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9zwfhL4WrrQ/hqdefault.jpg",
@@ -1614,7 +1621,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 2,
-      "total_uploads": 5,
+      "total_uploads": 6,
       "total_views": 176,
       "total_likes": 19,
       "upcoming": {
@@ -1652,12 +1659,32 @@
         },
         {
           "date": "2026-09-18",
-          "views": 3465,
+          "views": 3490,
           "uploads": 3,
-          "cumulative_views": 3649
+          "cumulative_views": 3674
+        },
+        {
+          "date": "2026-09-19",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 3674
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1PYXm5cniKBWBnt0MbWooqNhNWz9tHfSt",
+          "youtube_id": "3M0IC4AWJa4",
+          "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-19T01:13:50Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1679,7 +1706,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1898,
+          "youtube_views": 1908,
           "youtube_likes": 9,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1693,7 +1720,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1567,
+          "youtube_views": 1582,
           "youtube_likes": 7,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -1730,6 +1757,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 14,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-09-19",
+          "status": "success",
+          "video_id": "3M0IC4AWJa4",
+          "error_message": null,
+          "created_at": "2026-09-19T01:13:54.688778+00:00"
+        },
         {
           "id": 13,
           "channel_id": "channel_3",
@@ -1825,6 +1862,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1PYXm5cniKBWBnt0MbWooqNhNWz9tHfSt",
+      "youtube_id": "3M0IC4AWJa4",
+      "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-19T01:13:50Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7665700118330363150",
@@ -1901,7 +1952,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1898,
+      "youtube_views": 1908,
       "youtube_likes": 9,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1915,7 +1966,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1567,
+      "youtube_views": 1582,
       "youtube_likes": 7,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -1943,7 +1994,7 @@
       "youtube_id": "pDRO1BpkUd8",
       "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #shorts",
       "tiktok_views": 97400,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/pDRO1BpkUd8/hqdefault.jpg",
@@ -1999,7 +2050,7 @@
       "youtube_id": "9zwfhL4WrrQ",
       "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 #shorts",
       "tiktok_views": 3486,
-      "youtube_views": 1,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9zwfhL4WrrQ/hqdefault.jpg",
@@ -2842,21 +2893,21 @@
       },
       {
         "date": "2026-09-16",
-        "views": 4,
+        "views": 6,
         "uploads": 3,
-        "cumulative_views": 425
+        "cumulative_views": 427
       },
       {
         "date": "2026-09-17",
-        "views": 0,
+        "views": 1,
         "uploads": 1,
-        "cumulative_views": 425
+        "cumulative_views": 428
       },
       {
         "date": "2026-09-18",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 430
+        "cumulative_views": 433
       }
     ],
     "videos": [
@@ -2909,7 +2960,7 @@
         "youtube_id": "pDRO1BpkUd8",
         "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #shorts",
         "tiktok_views": 97400,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/pDRO1BpkUd8/hqdefault.jpg",
@@ -2937,7 +2988,7 @@
         "youtube_id": "9zwfhL4WrrQ",
         "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 #shorts",
         "tiktok_views": 3486,
-        "youtube_views": 1,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/9zwfhL4WrrQ/hqdefault.jpg",
@@ -3485,7 +3536,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 80,
+    "total_uploads": 81,
     "total_views": 1003,
     "total_likes": 22,
     "videos_per_day": 9
@@ -3718,5 +3769,5 @@
       "created_at": "2026-09-12T23:38:34.334720+00:00"
     }
   ],
-  "last_updated": "2026-09-19T01:08:13.778649+00:00"
+  "last_updated": "2026-09-19T01:13:57.696128+00:00"
 }
