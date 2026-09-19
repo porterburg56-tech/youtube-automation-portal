@@ -1,11 +1,11 @@
 {
   "cumulative": {
-    "total_uploads": 82,
-    "total_views": 1003,
-    "total_likes": 25,
-    "total_subscribers": 5,
-    "channels_count": 3,
-    "videos_per_day": 9
+    "total_uploads": 83,
+    "total_views": 4383,
+    "total_likes": 48,
+    "total_subscribers": 7,
+    "channels_count": 4,
+    "videos_per_day": 12
   },
   "master_view_history": [
     {
@@ -18,93 +18,93 @@
     {
       "date": "2026-09-06",
       "ch1_views": 14,
-      "ch2_views": 21,
+      "ch2_views": 22,
       "ch3_views": 0,
-      "total_views": 35
+      "total_views": 36
     },
     {
       "date": "2026-09-07",
       "ch1_views": 24,
-      "ch2_views": 49,
+      "ch2_views": 50,
       "ch3_views": 0,
-      "total_views": 73
+      "total_views": 74
     },
     {
       "date": "2026-09-08",
       "ch1_views": 25,
-      "ch2_views": 104,
+      "ch2_views": 105,
       "ch3_views": 0,
-      "total_views": 129
+      "total_views": 130
     },
     {
       "date": "2026-09-10",
       "ch1_views": 28,
-      "ch2_views": 109,
+      "ch2_views": 110,
       "ch3_views": 0,
-      "total_views": 137
+      "total_views": 138
     },
     {
       "date": "2026-09-11",
       "ch1_views": 35,
-      "ch2_views": 119,
+      "ch2_views": 120,
       "ch3_views": 0,
-      "total_views": 154
+      "total_views": 155
     },
     {
       "date": "2026-09-12",
       "ch1_views": 402,
-      "ch2_views": 127,
+      "ch2_views": 128,
       "ch3_views": 0,
-      "total_views": 529
+      "total_views": 530
     },
     {
       "date": "2026-09-13",
       "ch1_views": 418,
-      "ch2_views": 167,
+      "ch2_views": 168,
       "ch3_views": 0,
-      "total_views": 585
+      "total_views": 586
     },
     {
       "date": "2026-09-14",
       "ch1_views": 420,
-      "ch2_views": 226,
+      "ch2_views": 227,
       "ch3_views": 0,
-      "total_views": 646
+      "total_views": 647
     },
     {
       "date": "2026-09-15",
       "ch1_views": 421,
-      "ch2_views": 276,
+      "ch2_views": 277,
       "ch3_views": 0,
-      "total_views": 697
+      "total_views": 698
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 427,
-      "ch2_views": 281,
-      "ch3_views": 184,
-      "total_views": 892
+      "ch1_views": 428,
+      "ch2_views": 282,
+      "ch3_views": 190,
+      "total_views": 900
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 428,
-      "ch2_views": 290,
+      "ch1_views": 429,
+      "ch2_views": 291,
       "ch3_views": 0,
-      "total_views": 718
+      "total_views": 720
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 433,
-      "ch2_views": 291,
-      "ch3_views": 3760,
-      "total_views": 4484
+      "ch1_views": 434,
+      "ch2_views": 303,
+      "ch3_views": 6830,
+      "total_views": 7567
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 0,
+      "ch1_views": 434,
       "ch2_views": 0,
-      "ch3_views": 4016,
-      "total_views": 4016
+      "ch3_views": 8786,
+      "total_views": 9224
     }
   ],
   "channels": {
@@ -124,7 +124,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 39,
-      "total_views": 472,
+      "total_views": 482,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -153,12 +153,6 @@
         }
       },
       "view_history": [
-        {
-          "date": "2026-09-05",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
         {
           "date": "2026-09-06",
           "views": 14,
@@ -215,24 +209,44 @@
         },
         {
           "date": "2026-09-16",
-          "views": 6,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 427
+          "cumulative_views": 428
         },
         {
           "date": "2026-09-17",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 428
+          "cumulative_views": 429
         },
         {
           "date": "2026-09-18",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 433
+          "cumulative_views": 434
+        },
+        {
+          "date": "2026-09-19",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 434
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7677612494659128590",
+          "youtube_id": "wH2v2ULujxg",
+          "title": "The Whole Family Lost It When They Saw This Baby \ud83e\udd23",
+          "tiktok_views": 81900,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/wH2v2ULujxg/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-19T02:09:12Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -310,7 +324,7 @@
           "youtube_id": "9zwfhL4WrrQ",
           "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 #shorts",
           "tiktok_views": 3486,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9zwfhL4WrrQ/hqdefault.jpg",
@@ -638,20 +652,6 @@
           "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-06T00:04:07Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7682065782913682718",
-          "youtube_id": "7tG5erFwaZQ",
-          "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #tiktokgrowth...",
-          "tiktok_views": 6902,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/7tG5erFwaZQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-05T22:16:46Z"
         }
       ],
       "runs": [
@@ -873,7 +873,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 37,
-      "total_views": 355,
+      "total_views": 361,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -910,75 +910,75 @@
         },
         {
           "date": "2026-09-06",
-          "views": 7,
+          "views": 8,
           "uploads": 2,
-          "cumulative_views": 21
+          "cumulative_views": 22
         },
         {
           "date": "2026-09-07",
           "views": 28,
           "uploads": 2,
-          "cumulative_views": 49
+          "cumulative_views": 50
         },
         {
           "date": "2026-09-08",
           "views": 55,
           "uploads": 2,
-          "cumulative_views": 104
+          "cumulative_views": 105
         },
         {
           "date": "2026-09-10",
           "views": 5,
           "uploads": 2,
-          "cumulative_views": 109
+          "cumulative_views": 110
         },
         {
           "date": "2026-09-11",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 119
+          "cumulative_views": 120
         },
         {
           "date": "2026-09-12",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 127
+          "cumulative_views": 128
         },
         {
           "date": "2026-09-13",
           "views": 40,
           "uploads": 3,
-          "cumulative_views": 167
+          "cumulative_views": 168
         },
         {
           "date": "2026-09-14",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 226
+          "cumulative_views": 227
         },
         {
           "date": "2026-09-15",
           "views": 50,
           "uploads": 3,
-          "cumulative_views": 276
+          "cumulative_views": 277
         },
         {
           "date": "2026-09-16",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 281
+          "cumulative_views": 282
         },
         {
           "date": "2026-09-17",
           "views": 9,
           "uploads": 1,
-          "cumulative_views": 290
+          "cumulative_views": 291
         },
         {
           "date": "2026-09-18",
-          "views": 1,
+          "views": 12,
           "uploads": 2,
-          "cumulative_views": 291
+          "cumulative_views": 303
         }
       ],
       "videos": [
@@ -989,7 +989,7 @@
           "youtube_id": "HBPnQVJ8tj8",
           "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
           "tiktok_views": 521300,
-          "youtube_views": 0,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -1381,7 +1381,7 @@
           "youtube_id": "iyEKr8X5GEE",
           "title": "Dark Beer Beef with Creamy Pickle Potato Salad #BeefRecipe #EasyDinne...",
           "tiktok_views": 336500,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/iyEKr8X5GEE/hqdefault.jpg",
@@ -1620,31 +1620,31 @@
       "avatar": "https://yt3.ggpht.com/_ywAP0n0twSZRvZz7t_X5vS00F5NlWoAQXH-s9AjKEmY1Tb_Xnw3mSnojDjYZBXULnhq2FE7fA=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
-      "subscribers": 2,
+      "subscribers": 4,
       "total_uploads": 6,
-      "total_views": 176,
-      "total_likes": 22,
+      "total_views": 3540,
+      "total_likes": 45,
       "upcoming": {
         "slot1": {
           "slot": 1,
-          "time_utc": "17:00",
-          "time_et": "1:00 PM ET",
+          "time_utc": "17:10",
+          "time_et": "1:10 PM ET",
           "strategy": "Sequential Drive Queue",
           "creator": "Google Drive Queue",
           "status": "Queued (Slot 1)"
         },
         "slot2": {
           "slot": 2,
-          "time_utc": "22:00",
-          "time_et": "6:00 PM ET",
+          "time_utc": "22:10",
+          "time_et": "6:10 PM ET",
           "strategy": "Sequential Drive Queue",
           "creator": "Google Drive Queue",
           "status": "Queued (Slot 2)"
         },
         "slot3": {
           "slot": 3,
-          "time_utc": "01:00",
-          "time_et": "9:00 PM ET",
+          "time_utc": "01:10",
+          "time_et": "9:10 PM ET",
           "strategy": "Sequential Drive Queue",
           "creator": "Google Drive Queue",
           "status": "Queued (Slot 3)"
@@ -1653,21 +1653,21 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 184,
+          "views": 190,
           "uploads": 2,
-          "cumulative_views": 184
+          "cumulative_views": 190
         },
         {
           "date": "2026-09-18",
-          "views": 3576,
+          "views": 6640,
           "uploads": 3,
-          "cumulative_views": 3760
+          "cumulative_views": 6830
         },
         {
           "date": "2026-09-19",
-          "views": 256,
+          "views": 1956,
           "uploads": 1,
-          "cumulative_views": 4016
+          "cumulative_views": 8786
         }
       ],
       "videos": [
@@ -1678,8 +1678,8 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 256,
-          "youtube_likes": 3,
+          "youtube_views": 1956,
+          "youtube_likes": 11,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
           "status": "uploaded",
@@ -1692,7 +1692,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1706,8 +1706,8 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 2001,
-          "youtube_likes": 9,
+          "youtube_views": 4880,
+          "youtube_likes": 24,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
           "status": "uploaded",
@@ -1720,7 +1720,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1575,
+          "youtube_views": 1755,
           "youtube_likes": 7,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -1734,7 +1734,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 180,
+          "youtube_views": 185,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1748,7 +1748,7 @@
           "youtube_id": "BOYWYj2Iix8",
           "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -1858,9 +1858,107 @@
           "created_at": "2026-09-16T08:42:40.907628+00:00"
         }
       ]
+    },
+    "channel_4": {
+      "id": "channel_4",
+      "name": "Remote Jobs WFH",
+      "handle": "@remotejobswfh",
+      "youtube_id": "UChsujpdzQ3VhZqrozV4Soiw",
+      "url": "https://www.youtube.com/channel/UChsujpdzQ3VhZqrozV4Soiw",
+      "owner": "daianaonly136@gmail.com",
+      "source_type": "google_drive",
+      "tiktok_source": "",
+      "tiktok_url": "https://drive.google.com/drive/folders/1MqehRvKoQEh-PPnBXvv1b8oO2D5bJVL0",
+      "drive_url": "https://drive.google.com/drive/folders/1MqehRvKoQEh-PPnBXvv1b8oO2D5bJVL0",
+      "avatar": "https://yt3.ggpht.com/zYHct36vdSNYI8-iosR9PhmCS2Zrb9RD_MLTZUpBsL2Ejo1InLcVSkKzbBRcImic2U7tUFI_dw=s240-c-k-c0x00ffffff-no-rj",
+      "avatar_letter": "R",
+      "category": "Remote Work & Side Hustles",
+      "subscribers": 0,
+      "total_uploads": 1,
+      "total_views": 0,
+      "total_likes": 0,
+      "upcoming": {
+        "slot1": {
+          "slot": 1,
+          "time_utc": "17:20",
+          "time_et": "1:20 PM ET",
+          "strategy": "Sequential Drive Queue",
+          "creator": "Google Drive Queue",
+          "status": "Queued (Slot 1)"
+        },
+        "slot2": {
+          "slot": 2,
+          "time_utc": "22:20",
+          "time_et": "6:20 PM ET",
+          "strategy": "Sequential Drive Queue",
+          "creator": "Google Drive Queue",
+          "status": "Queued (Slot 2)"
+        },
+        "slot3": {
+          "slot": 3,
+          "time_utc": "01:20",
+          "time_et": "9:20 PM ET",
+          "strategy": "Sequential Drive Queue",
+          "creator": "Google Drive Queue",
+          "status": "Queued (Slot 3)"
+        }
+      },
+      "view_history": [
+        {
+          "date": "2026-09-19",
+          "views": 4,
+          "uploads": 1,
+          "cumulative_views": 4
+        }
+      ],
+      "videos": [
+        {
+          "channel_id": "channel_4",
+          "channel_name": "Remote Jobs WFH",
+          "tiktok_id": "oK9BYnEj4Ew",
+          "youtube_id": "oK9BYnEj4Ew",
+          "title": "Work From Anywhere $22/HR",
+          "tiktok_views": 0,
+          "youtube_views": 4,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/oK9BYnEj4Ew/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-19T12:57:40Z"
+        }
+      ],
+      "runs": []
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_4",
+      "channel_name": "Remote Jobs WFH",
+      "tiktok_id": "oK9BYnEj4Ew",
+      "youtube_id": "oK9BYnEj4Ew",
+      "title": "Work From Anywhere $22/HR",
+      "tiktok_views": 0,
+      "youtube_views": 4,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/oK9BYnEj4Ew/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-19T12:57:40Z"
+    },
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7677612494659128590",
+      "youtube_id": "wH2v2ULujxg",
+      "title": "The Whole Family Lost It When They Saw This Baby \ud83e\udd23",
+      "tiktok_views": 81900,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/wH2v2ULujxg/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-19T02:09:12Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -1868,8 +1966,8 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 256,
-      "youtube_likes": 3,
+      "youtube_views": 1956,
+      "youtube_likes": 11,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
       "status": "uploaded",
@@ -1896,7 +1994,7 @@
       "youtube_id": "HBPnQVJ8tj8",
       "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
       "tiktok_views": 521300,
-      "youtube_views": 0,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -1910,7 +2008,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1952,8 +2050,8 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 2001,
-      "youtube_likes": 9,
+      "youtube_views": 4880,
+      "youtube_likes": 24,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
       "status": "uploaded",
@@ -1966,7 +2064,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1575,
+      "youtube_views": 1755,
       "youtube_likes": 7,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -2050,7 +2148,7 @@
       "youtube_id": "9zwfhL4WrrQ",
       "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 #shorts",
       "tiktok_views": 3486,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9zwfhL4WrrQ/hqdefault.jpg",
@@ -2078,7 +2176,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 180,
+      "youtube_views": 185,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -2092,7 +2190,7 @@
       "youtube_id": "BOYWYj2Iix8",
       "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -2736,7 +2834,7 @@
       "youtube_id": "iyEKr8X5GEE",
       "title": "Dark Beer Beef with Creamy Pickle Potato Salad #BeefRecipe #EasyDinne...",
       "tiktok_views": 336500,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/iyEKr8X5GEE/hqdefault.jpg",
@@ -2756,20 +2854,6 @@
       "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-06T00:04:07Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7682065782913682718",
-      "youtube_id": "7tG5erFwaZQ",
-      "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #tiktokgrowth...",
-      "tiktok_views": 6902,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/7tG5erFwaZQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-05T22:16:46Z"
     },
     {
       "channel_id": "channel_2",
@@ -2802,7 +2886,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 39,
-    "total_views": 472,
+    "total_views": 482,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -2831,12 +2915,6 @@
       }
     },
     "view_history": [
-      {
-        "date": "2026-09-05",
-        "views": 0,
-        "uploads": 1,
-        "cumulative_views": 0
-      },
       {
         "date": "2026-09-06",
         "views": 14,
@@ -2893,24 +2971,44 @@
       },
       {
         "date": "2026-09-16",
-        "views": 6,
+        "views": 7,
         "uploads": 3,
-        "cumulative_views": 427
+        "cumulative_views": 428
       },
       {
         "date": "2026-09-17",
         "views": 1,
         "uploads": 1,
-        "cumulative_views": 428
+        "cumulative_views": 429
       },
       {
         "date": "2026-09-18",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 433
+        "cumulative_views": 434
+      },
+      {
+        "date": "2026-09-19",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 434
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7677612494659128590",
+        "youtube_id": "wH2v2ULujxg",
+        "title": "The Whole Family Lost It When They Saw This Baby \ud83e\udd23",
+        "tiktok_views": 81900,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/wH2v2ULujxg/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-19T02:09:12Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -2988,7 +3086,7 @@
         "youtube_id": "9zwfhL4WrrQ",
         "title": "Grandpa Turned Around and Could Not Believe What He Was Seeing \ud83e\udd79\ud83d\ude02 #shorts",
         "tiktok_views": 3486,
-        "youtube_views": 3,
+        "youtube_views": 4,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/9zwfhL4WrrQ/hqdefault.jpg",
@@ -3316,20 +3414,6 @@
         "thumbnail": "https://i.ytimg.com/vi/gsQp78UWoZw/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-06T00:04:07Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7682065782913682718",
-        "youtube_id": "7tG5erFwaZQ",
-        "title": "He didn't miss a single detail and that's what got us \ud83d\ude02 #tiktokgrowth...",
-        "tiktok_views": 6902,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/7tG5erFwaZQ/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-05T22:16:46Z"
       }
     ],
     "runs": [
@@ -3536,10 +3620,10 @@
     ]
   },
   "kpis": {
-    "total_uploads": 82,
-    "total_views": 1003,
-    "total_likes": 25,
-    "videos_per_day": 9
+    "total_uploads": 83,
+    "total_views": 4383,
+    "total_likes": 48,
+    "videos_per_day": 12
   },
   "upcoming": {
     "slot1": {
@@ -3769,5 +3853,5 @@
       "created_at": "2026-09-13T02:08:59.164685+00:00"
     }
   ],
-  "last_updated": "2026-09-19T02:08:54.995191+00:00"
+  "last_updated": "2026-09-19T13:32:05.837864+00:00"
 }
