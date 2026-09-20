@@ -1,21 +1,13 @@
 {
   "cumulative": {
-    "total_uploads": 90,
+    "total_uploads": 91,
     "total_views": 5077,
-    "total_likes": 163,
+    "total_likes": 167,
     "total_subscribers": 33,
     "channels_count": 4,
     "videos_per_day": 12
   },
   "master_view_history": [
-    {
-      "date": "2026-09-06",
-      "ch1_views": 0,
-      "ch2_views": 0,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 0
-    },
     {
       "date": "2026-09-07",
       "ch1_views": 10,
@@ -84,9 +76,9 @@
       "date": "2026-09-16",
       "ch1_views": 415,
       "ch2_views": 257,
-      "ch3_views": 232,
+      "ch3_views": 211,
       "ch4_views": 0,
-      "total_views": 904
+      "total_views": 883
     },
     {
       "date": "2026-09-17",
@@ -99,18 +91,26 @@
     {
       "date": "2026-09-18",
       "ch1_views": 425,
-      "ch2_views": 300,
-      "ch3_views": 18699,
+      "ch2_views": 299,
+      "ch3_views": 19183,
       "ch4_views": 0,
-      "total_views": 19424
+      "total_views": 19907
     },
     {
       "date": "2026-09-19",
       "ch1_views": 425,
       "ch2_views": 307,
-      "ch3_views": 26201,
+      "ch3_views": 26842,
       "ch4_views": 50,
-      "total_views": 26983
+      "total_views": 27624
+    },
+    {
+      "date": "2026-09-20",
+      "ch1_views": 0,
+      "ch2_views": 307,
+      "ch3_views": 26842,
+      "ch4_views": 0,
+      "total_views": 27149
     }
   ],
   "channels": {
@@ -903,12 +903,6 @@
       },
       "view_history": [
         {
-          "date": "2026-09-06",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
-        {
           "date": "2026-09-07",
           "views": 28,
           "uploads": 2,
@@ -970,18 +964,38 @@
         },
         {
           "date": "2026-09-18",
-          "views": 33,
+          "views": 32,
           "uploads": 2,
-          "cumulative_views": 300
+          "cumulative_views": 299
         },
         {
           "date": "2026-09-19",
-          "views": 7,
+          "views": 8,
           "uploads": 2,
+          "cumulative_views": 307
+        },
+        {
+          "date": "2026-09-20",
+          "views": 0,
+          "uploads": 1,
           "cumulative_views": 307
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7653618897936993550",
+          "youtube_id": "KuyknoGwTkw",
+          "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
+          "tiktok_views": 335600,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/KuyknoGwTkw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-20T01:13:41Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1003,7 +1017,7 @@
           "youtube_id": "mOAAawjGD20",
           "title": "Cheesy Ground Beef & Potato Bake \u2728",
           "tiktok_views": 52800,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/mOAAawjGD20/hqdefault.jpg",
@@ -1017,7 +1031,7 @@
           "youtube_id": "HBPnQVJ8tj8",
           "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
           "tiktok_views": 521300,
-          "youtube_views": 32,
+          "youtube_views": 31,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -1387,20 +1401,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-07T15:16:52Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7667268605846752526",
-          "youtube_id": "V5annwPH0Is",
-          "title": "Fun Short",
-          "tiktok_views": 2500000,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/V5annwPH0Is/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-06T19:14:17Z"
         }
       ],
       "runs": [
@@ -1621,9 +1621,9 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 29,
-      "total_uploads": 8,
+      "total_uploads": 9,
       "total_views": 4230,
-      "total_likes": 158,
+      "total_likes": 162,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1653,24 +1653,44 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 232,
+          "views": 211,
           "uploads": 2,
-          "cumulative_views": 232
+          "cumulative_views": 211
         },
         {
           "date": "2026-09-18",
-          "views": 18467,
+          "views": 18972,
           "uploads": 3,
-          "cumulative_views": 18699
+          "cumulative_views": 19183
         },
         {
           "date": "2026-09-19",
-          "views": 7502,
+          "views": 7659,
           "uploads": 3,
-          "cumulative_views": 26201
+          "cumulative_views": 26842
+        },
+        {
+          "date": "2026-09-20",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 26842
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1XUmNrG_vNPyujkTpxIiSW4KmEbhrBqrA",
+          "youtube_id": "CZy_OtHy3DU",
+          "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-20T01:23:51Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1678,8 +1698,8 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 701,
-          "youtube_likes": 8,
+          "youtube_views": 707,
+          "youtube_likes": 9,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
           "status": "uploaded",
@@ -1692,8 +1712,8 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 1847,
-          "youtube_likes": 10,
+          "youtube_views": 1870,
+          "youtube_likes": 11,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
           "status": "uploaded",
@@ -1706,8 +1726,8 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4954,
-          "youtube_likes": 32,
+          "youtube_views": 5082,
+          "youtube_likes": 34,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
           "status": "uploaded",
@@ -1720,7 +1740,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 48,
+          "youtube_views": 66,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1734,7 +1754,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 16472,
+          "youtube_views": 16959,
           "youtube_likes": 97,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1762,7 +1782,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 210,
+          "youtube_views": 194,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1776,7 +1796,7 @@
           "youtube_id": "BOYWYj2Iix8",
           "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
           "tiktok_views": 0,
-          "youtube_views": 22,
+          "youtube_views": 17,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -1785,6 +1805,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 17,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-09-20",
+          "status": "success",
+          "video_id": "CZy_OtHy3DU",
+          "error_message": null,
+          "created_at": "2026-09-20T01:23:54.457814+00:00"
+        },
         {
           "id": 16,
           "channel_id": "channel_3",
@@ -2001,6 +2031,34 @@
   },
   "videos": [
     {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1XUmNrG_vNPyujkTpxIiSW4KmEbhrBqrA",
+      "youtube_id": "CZy_OtHy3DU",
+      "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-20T01:23:51Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7653618897936993550",
+      "youtube_id": "KuyknoGwTkw",
+      "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
+      "tiktok_views": 335600,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/KuyknoGwTkw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-20T01:13:41Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7679425332750945550",
@@ -2021,8 +2079,8 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 701,
-      "youtube_likes": 8,
+      "youtube_views": 707,
+      "youtube_likes": 9,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
       "status": "uploaded",
@@ -2049,8 +2107,8 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 1847,
-      "youtube_likes": 10,
+      "youtube_views": 1870,
+      "youtube_likes": 11,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
       "status": "uploaded",
@@ -2077,7 +2135,7 @@
       "youtube_id": "mOAAawjGD20",
       "title": "Cheesy Ground Beef & Potato Bake \u2728",
       "tiktok_views": 52800,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/mOAAawjGD20/hqdefault.jpg",
@@ -2119,8 +2177,8 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4954,
-      "youtube_likes": 32,
+      "youtube_views": 5082,
+      "youtube_likes": 34,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
       "status": "uploaded",
@@ -2147,7 +2205,7 @@
       "youtube_id": "HBPnQVJ8tj8",
       "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
       "tiktok_views": 521300,
-      "youtube_views": 32,
+      "youtube_views": 31,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -2161,7 +2219,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 48,
+      "youtube_views": 66,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -2203,7 +2261,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 16472,
+      "youtube_views": 16959,
       "youtube_likes": 97,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2329,7 +2387,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 210,
+      "youtube_views": 194,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -2343,7 +2401,7 @@
       "youtube_id": "BOYWYj2Iix8",
       "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
       "tiktok_views": 0,
-      "youtube_views": 22,
+      "youtube_views": 17,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -2951,20 +3009,6 @@
       "thumbnail": "https://i.ytimg.com/vi/TfSQslAQSEY/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-07T00:03:57Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7667268605846752526",
-      "youtube_id": "V5annwPH0Is",
-      "title": "Fun Short",
-      "tiktok_views": 2500000,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/V5annwPH0Is/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-06T19:14:17Z"
     }
   ],
   "channel": {
@@ -3711,9 +3755,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 90,
+    "total_uploads": 91,
     "total_views": 5077,
-    "total_likes": 163,
+    "total_likes": 167,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -3944,5 +3988,5 @@
       "created_at": "2026-09-13T23:39:32.154240+00:00"
     }
   ],
-  "last_updated": "2026-09-20T01:12:59.957665+00:00"
+  "last_updated": "2026-09-20T01:23:59.022347+00:00"
 }
