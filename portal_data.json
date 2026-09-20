@@ -84,25 +84,25 @@
       "date": "2026-09-18",
       "ch1_views": 418,
       "ch2_views": 271,
-      "ch3_views": 28448,
+      "ch3_views": 28467,
       "ch4_views": 0,
-      "total_views": 29137
+      "total_views": 29156
     },
     {
       "date": "2026-09-19",
       "ch1_views": 420,
-      "ch2_views": 300,
-      "ch3_views": 75335,
+      "ch2_views": 296,
+      "ch3_views": 75502,
       "ch4_views": 57,
-      "total_views": 76112
+      "total_views": 76275
     },
     {
       "date": "2026-09-20",
       "ch1_views": 420,
-      "ch2_views": 302,
-      "ch3_views": 76682,
-      "ch4_views": 110,
-      "total_views": 77514
+      "ch2_views": 298,
+      "ch3_views": 76849,
+      "ch4_views": 107,
+      "total_views": 77674
     }
   ],
   "channels": {
@@ -956,15 +956,15 @@
         },
         {
           "date": "2026-09-19",
-          "views": 29,
+          "views": 25,
           "uploads": 2,
-          "cumulative_views": 300
+          "cumulative_views": 296
         },
         {
           "date": "2026-09-20",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 302
+          "cumulative_views": 298
         }
       ],
       "videos": [
@@ -1017,7 +1017,7 @@
           "youtube_id": "BdViWCLU3D4",
           "title": "No-Bake Chocolate Swirl Dessert Cups with a Crispy Cookie Base \ud83c\udf6b",
           "tiktok_views": 454300,
-          "youtube_views": 10,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BdViWCLU3D4/hqdefault.jpg",
@@ -1645,21 +1645,21 @@
         },
         {
           "date": "2026-09-18",
-          "views": 28155,
+          "views": 28174,
           "uploads": 3,
-          "cumulative_views": 28448
+          "cumulative_views": 28467
         },
         {
           "date": "2026-09-19",
-          "views": 46887,
+          "views": 47035,
           "uploads": 3,
-          "cumulative_views": 75335
+          "cumulative_views": 75502
         },
         {
           "date": "2026-09-20",
           "views": 1347,
           "uploads": 3,
-          "cumulative_views": 76682
+          "cumulative_views": 76849
         }
       ],
       "videos": [
@@ -1675,7 +1675,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YK449kpd7UU/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-20T22:19:37Z"
+          "uploaded_at": "2026-09-20T22:19:56Z"
         },
         {
           "channel_id": "channel_3",
@@ -1712,7 +1712,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 6319,
+          "youtube_views": 6376,
           "youtube_likes": 30,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1726,7 +1726,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 23473,
+          "youtube_views": 23559,
           "youtube_likes": 95,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1740,7 +1740,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 17095,
+          "youtube_views": 17100,
           "youtube_likes": 87,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1768,7 +1768,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 24975,
+          "youtube_views": 24994,
           "youtube_likes": 114,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2024,9 +2024,9 @@
         },
         {
           "date": "2026-09-20",
-          "views": 53,
+          "views": 50,
           "uploads": 2,
-          "cumulative_views": 110
+          "cumulative_views": 107
         }
       ],
       "videos": [
@@ -2051,7 +2051,7 @@
           "youtube_id": "SOoUHtAQ7rg",
           "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 53,
+          "youtube_views": 50,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
@@ -2074,6 +2074,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 11,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-09-20",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
+          "created_at": "2026-09-20T22:25:35.452741+00:00"
+        },
         {
           "id": 9,
           "channel_id": "channel_4",
@@ -2180,7 +2190,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YK449kpd7UU/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-20T22:19:37Z"
+      "uploaded_at": "2026-09-20T22:19:56Z"
     },
     {
       "channel_id": "channel_2",
@@ -2259,7 +2269,7 @@
       "youtube_id": "SOoUHtAQ7rg",
       "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 53,
+      "youtube_views": 50,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
@@ -2329,7 +2339,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 6319,
+      "youtube_views": 6376,
       "youtube_likes": 30,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -2343,7 +2353,7 @@
       "youtube_id": "BdViWCLU3D4",
       "title": "No-Bake Chocolate Swirl Dessert Cups with a Crispy Cookie Base \ud83c\udf6b",
       "tiktok_views": 454300,
-      "youtube_views": 10,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BdViWCLU3D4/hqdefault.jpg",
@@ -2357,7 +2367,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 23473,
+      "youtube_views": 23559,
       "youtube_likes": 95,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -2427,7 +2437,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 17095,
+      "youtube_views": 17100,
       "youtube_likes": 87,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -2511,7 +2521,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 24975,
+      "youtube_views": 24994,
       "youtube_likes": 114,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -4182,5 +4192,5 @@
       "created_at": "2026-09-14T17:16:13.562570+00:00"
     }
   ],
-  "last_updated": "2026-09-20T22:19:43.696887+00:00"
+  "last_updated": "2026-09-20T22:25:40.047861+00:00"
 }
