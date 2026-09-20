@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 98,
+    "total_uploads": 99,
     "total_views": 26185,
     "total_likes": 350,
     "total_subscribers": 56,
@@ -9,108 +9,100 @@
   },
   "master_view_history": [
     {
-      "date": "2026-09-07",
-      "ch1_views": 0,
-      "ch2_views": 16,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 16
-    },
-    {
       "date": "2026-09-08",
       "ch1_views": 1,
-      "ch2_views": 71,
+      "ch2_views": 55,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 72
+      "total_views": 56
     },
     {
       "date": "2026-09-10",
       "ch1_views": 4,
-      "ch2_views": 76,
+      "ch2_views": 60,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 64
+    },
+    {
+      "date": "2026-09-11",
+      "ch1_views": 11,
+      "ch2_views": 69,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 80
     },
     {
-      "date": "2026-09-11",
-      "ch1_views": 11,
-      "ch2_views": 85,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 96
-    },
-    {
       "date": "2026-09-12",
       "ch1_views": 379,
-      "ch2_views": 91,
+      "ch2_views": 75,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 470
+      "total_views": 454
     },
     {
       "date": "2026-09-13",
       "ch1_views": 395,
-      "ch2_views": 129,
+      "ch2_views": 113,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 524
+      "total_views": 508
     },
     {
       "date": "2026-09-14",
       "ch1_views": 397,
-      "ch2_views": 188,
+      "ch2_views": 172,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 585
+      "total_views": 569
     },
     {
       "date": "2026-09-15",
       "ch1_views": 398,
-      "ch2_views": 233,
+      "ch2_views": 217,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 631
+      "total_views": 615
     },
     {
       "date": "2026-09-16",
       "ch1_views": 406,
-      "ch2_views": 238,
-      "ch3_views": 280,
+      "ch2_views": 222,
+      "ch3_views": 293,
       "ch4_views": 0,
-      "total_views": 924
+      "total_views": 921
     },
     {
       "date": "2026-09-17",
       "ch1_views": 409,
-      "ch2_views": 248,
+      "ch2_views": 232,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 657
+      "total_views": 641
     },
     {
       "date": "2026-09-18",
       "ch1_views": 418,
-      "ch2_views": 287,
-      "ch3_views": 28428,
+      "ch2_views": 271,
+      "ch3_views": 28448,
       "ch4_views": 0,
-      "total_views": 29133
+      "total_views": 29137
     },
     {
       "date": "2026-09-19",
       "ch1_views": 420,
-      "ch2_views": 316,
-      "ch3_views": 75254,
+      "ch2_views": 300,
+      "ch3_views": 75335,
       "ch4_views": 57,
-      "total_views": 76047
+      "total_views": 76112
     },
     {
       "date": "2026-09-20",
       "ch1_views": 420,
-      "ch2_views": 318,
-      "ch3_views": 76630,
+      "ch2_views": 302,
+      "ch3_views": 76682,
       "ch4_views": 110,
-      "total_views": 77478
+      "total_views": 77514
     }
   ],
   "channels": {
@@ -903,85 +895,93 @@
       },
       "view_history": [
         {
-          "date": "2026-09-07",
-          "views": 16,
-          "uploads": 1,
-          "cumulative_views": 16
-        },
-        {
           "date": "2026-09-08",
           "views": 55,
           "uploads": 2,
-          "cumulative_views": 71
+          "cumulative_views": 55
         },
         {
           "date": "2026-09-10",
           "views": 5,
           "uploads": 2,
-          "cumulative_views": 76
+          "cumulative_views": 60
         },
         {
           "date": "2026-09-11",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 85
+          "cumulative_views": 69
         },
         {
           "date": "2026-09-12",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 91
+          "cumulative_views": 75
         },
         {
           "date": "2026-09-13",
           "views": 38,
           "uploads": 3,
-          "cumulative_views": 129
+          "cumulative_views": 113
         },
         {
           "date": "2026-09-14",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 188
+          "cumulative_views": 172
         },
         {
           "date": "2026-09-15",
           "views": 45,
           "uploads": 3,
-          "cumulative_views": 233
+          "cumulative_views": 217
         },
         {
           "date": "2026-09-16",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 238
+          "cumulative_views": 222
         },
         {
           "date": "2026-09-17",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 248
+          "cumulative_views": 232
         },
         {
           "date": "2026-09-18",
           "views": 39,
           "uploads": 2,
-          "cumulative_views": 287
+          "cumulative_views": 271
         },
         {
           "date": "2026-09-19",
           "views": 29,
           "uploads": 2,
-          "cumulative_views": 316
+          "cumulative_views": 300
         },
         {
           "date": "2026-09-20",
           "views": 2,
-          "uploads": 2,
-          "cumulative_views": 318
+          "uploads": 3,
+          "cumulative_views": 302
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7655038240860179725",
+          "youtube_id": "IBPnWvNfvfU",
+          "title": "Italian Chef\u2019s Secret Omelet Trick \ud83e\udd5a\ud83e\udd53",
+          "tiktok_views": 328800,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/IBPnWvNfvfU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-20T22:17:16Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1387,20 +1387,6 @@
           "thumbnail": "https://i.ytimg.com/vi/QVcjQmHpXP8/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-08T15:20:41Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7672466132040764686",
-          "youtube_id": "_nPHaeujxv0",
-          "title": "cheesy Broccoli Tart with Crispy bacon \ud83e\udd53 | Easy one pan recipe",
-          "tiktok_views": 1500000,
-          "youtube_views": 16,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/_nPHaeujxv0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-07T19:14:26Z"
         }
       ],
       "runs": [
@@ -1621,7 +1607,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 52,
-      "total_uploads": 10,
+      "total_uploads": 11,
       "total_views": 25345,
       "total_likes": 343,
       "upcoming": {
@@ -1653,30 +1639,44 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 280,
+          "views": 293,
           "uploads": 2,
-          "cumulative_views": 280
+          "cumulative_views": 293
         },
         {
           "date": "2026-09-18",
-          "views": 28148,
+          "views": 28155,
           "uploads": 3,
-          "cumulative_views": 28428
+          "cumulative_views": 28448
         },
         {
           "date": "2026-09-19",
-          "views": 46826,
+          "views": 46887,
           "uploads": 3,
-          "cumulative_views": 75254
+          "cumulative_views": 75335
         },
         {
           "date": "2026-09-20",
-          "views": 1376,
-          "uploads": 2,
-          "cumulative_views": 76630
+          "views": 1347,
+          "uploads": 3,
+          "cumulative_views": 76682
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1y69dfwSsSE5M_dfWLzySAMLdJQVFqrN8",
+          "youtube_id": "YK449kpd7UU",
+          "title": "Hands extracting paste from toenail \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/YK449kpd7UU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-20T22:19:37Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1684,7 +1684,7 @@
           "youtube_id": "LiAhcCZMDCY",
           "title": "Removing fluid from under nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 24,
+          "youtube_views": 25,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/LiAhcCZMDCY/hqdefault.jpg",
@@ -1698,8 +1698,8 @@
           "youtube_id": "CZy_OtHy3DU",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1352,
-          "youtube_likes": 5,
+          "youtube_views": 1322,
+          "youtube_likes": 4,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
           "status": "uploaded",
@@ -1713,7 +1713,7 @@
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
           "youtube_views": 6319,
-          "youtube_likes": 29,
+          "youtube_likes": 30,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
           "status": "uploaded",
@@ -1726,7 +1726,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 23412,
+          "youtube_views": 23473,
           "youtube_likes": 95,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1754,7 +1754,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 113,
+          "youtube_views": 116,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1782,7 +1782,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 3060,
+          "youtube_views": 3064,
           "youtube_likes": 9,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -1796,7 +1796,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 227,
+          "youtube_views": 231,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1810,7 +1810,7 @@
           "youtube_id": "BOYWYj2Iix8",
           "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
           "tiktok_views": 0,
-          "youtube_views": 53,
+          "youtube_views": 62,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -1819,6 +1819,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 19,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-09-20",
+          "status": "success",
+          "video_id": "YK449kpd7UU",
+          "error_message": null,
+          "created_at": "2026-09-20T22:19:39.280068+00:00"
+        },
         {
           "id": 18,
           "channel_id": "channel_3",
@@ -2161,11 +2171,39 @@
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1y69dfwSsSE5M_dfWLzySAMLdJQVFqrN8",
+      "youtube_id": "YK449kpd7UU",
+      "title": "Hands extracting paste from toenail \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/YK449kpd7UU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-20T22:19:37Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7655038240860179725",
+      "youtube_id": "IBPnWvNfvfU",
+      "title": "Italian Chef\u2019s Secret Omelet Trick \ud83e\udd5a\ud83e\udd53",
+      "tiktok_views": 328800,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/IBPnWvNfvfU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-20T22:17:16Z"
+    },
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "18emK_iXIp9JUjnnYL1gOouEv9WyIDZ4d",
       "youtube_id": "LiAhcCZMDCY",
       "title": "Removing fluid from under nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 24,
+      "youtube_views": 25,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/LiAhcCZMDCY/hqdefault.jpg",
@@ -2249,8 +2287,8 @@
       "youtube_id": "CZy_OtHy3DU",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1352,
-      "youtube_likes": 5,
+      "youtube_views": 1322,
+      "youtube_likes": 4,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
       "status": "uploaded",
@@ -2292,7 +2330,7 @@
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
       "youtube_views": 6319,
-      "youtube_likes": 29,
+      "youtube_likes": 30,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
       "status": "uploaded",
@@ -2319,7 +2357,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 23412,
+      "youtube_views": 23473,
       "youtube_likes": 95,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -2431,7 +2469,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 113,
+      "youtube_views": 116,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -2487,7 +2525,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 3060,
+      "youtube_views": 3064,
       "youtube_likes": 9,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -2599,7 +2637,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 227,
+      "youtube_views": 231,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -2613,7 +2651,7 @@
       "youtube_id": "BOYWYj2Iix8",
       "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
       "tiktok_views": 0,
-      "youtube_views": 53,
+      "youtube_views": 62,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -3165,20 +3203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/MTdV6Hav-Rs/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-08T00:04:09Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7672466132040764686",
-      "youtube_id": "_nPHaeujxv0",
-      "title": "cheesy Broccoli Tart with Crispy bacon \ud83e\udd53 | Easy one pan recipe",
-      "tiktok_views": 1500000,
-      "youtube_views": 16,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/_nPHaeujxv0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-07T19:14:26Z"
     }
   ],
   "channel": {
@@ -3925,7 +3949,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 98,
+    "total_uploads": 99,
     "total_views": 26185,
     "total_likes": 350,
     "videos_per_day": 12
@@ -4158,5 +4182,5 @@
       "created_at": "2026-09-14T17:16:13.562570+00:00"
     }
   ],
-  "last_updated": "2026-09-20T22:16:30.430239+00:00"
+  "last_updated": "2026-09-20T22:19:43.696887+00:00"
 }
