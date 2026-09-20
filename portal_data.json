@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 95,
-    "total_views": 12709,
-    "total_likes": 292,
+    "total_uploads": 96,
+    "total_views": 12700,
+    "total_likes": 293,
     "total_subscribers": 49,
     "channels_count": 4,
     "videos_per_day": 12
@@ -11,106 +11,106 @@
     {
       "date": "2026-09-07",
       "ch1_views": 10,
-      "ch2_views": 28,
+      "ch2_views": 16,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 38
+      "total_views": 26
     },
     {
       "date": "2026-09-08",
       "ch1_views": 11,
-      "ch2_views": 83,
+      "ch2_views": 71,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 94
+      "total_views": 82
     },
     {
       "date": "2026-09-10",
       "ch1_views": 14,
-      "ch2_views": 88,
+      "ch2_views": 76,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 102
+      "total_views": 90
     },
     {
       "date": "2026-09-11",
       "ch1_views": 21,
-      "ch2_views": 97,
+      "ch2_views": 85,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 118
+      "total_views": 106
     },
     {
       "date": "2026-09-12",
-      "ch1_views": 388,
-      "ch2_views": 103,
+      "ch1_views": 389,
+      "ch2_views": 91,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 491
+      "total_views": 480
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 404,
-      "ch2_views": 141,
+      "ch1_views": 405,
+      "ch2_views": 129,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 545
+      "total_views": 534
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 406,
-      "ch2_views": 199,
+      "ch1_views": 407,
+      "ch2_views": 187,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 605
+      "total_views": 594
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 407,
-      "ch2_views": 244,
+      "ch1_views": 408,
+      "ch2_views": 232,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 651
+      "total_views": 640
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 415,
-      "ch2_views": 249,
+      "ch1_views": 416,
+      "ch2_views": 237,
       "ch3_views": 275,
       "ch4_views": 0,
-      "total_views": 939
+      "total_views": 928
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 418,
-      "ch2_views": 259,
+      "ch1_views": 419,
+      "ch2_views": 247,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 677
+      "total_views": 666
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 426,
-      "ch2_views": 297,
-      "ch3_views": 27085,
+      "ch1_views": 427,
+      "ch2_views": 285,
+      "ch3_views": 27429,
       "ch4_views": 0,
-      "total_views": 27808
+      "total_views": 28141
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 428,
-      "ch2_views": 318,
-      "ch3_views": 61422,
+      "ch1_views": 429,
+      "ch2_views": 306,
+      "ch3_views": 62513,
       "ch4_views": 55,
-      "total_views": 62223
+      "total_views": 63303
     },
     {
       "date": "2026-09-20",
-      "ch1_views": 428,
-      "ch2_views": 320,
-      "ch3_views": 62696,
-      "ch4_views": 77,
-      "total_views": 63521
+      "ch1_views": 429,
+      "ch2_views": 308,
+      "ch3_views": 63787,
+      "ch4_views": 69,
+      "total_views": 64593
     }
   ],
   "channels": {
@@ -129,7 +129,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 42,
+      "total_uploads": 43,
       "total_views": 488,
       "total_likes": 2,
       "upcoming": {
@@ -185,57 +185,57 @@
         },
         {
           "date": "2026-09-12",
-          "views": 367,
+          "views": 368,
           "uploads": 3,
-          "cumulative_views": 388
+          "cumulative_views": 389
         },
         {
           "date": "2026-09-13",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 404
+          "cumulative_views": 405
         },
         {
           "date": "2026-09-14",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 406
+          "cumulative_views": 407
         },
         {
           "date": "2026-09-15",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 407
+          "cumulative_views": 408
         },
         {
           "date": "2026-09-16",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 415
+          "cumulative_views": 416
         },
         {
           "date": "2026-09-17",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 418
+          "cumulative_views": 419
         },
         {
           "date": "2026-09-18",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 426
+          "cumulative_views": 427
         },
         {
           "date": "2026-09-19",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 428
+          "cumulative_views": 429
         },
         {
           "date": "2026-09-20",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 428
+          "cumulative_views": 429
         }
       ],
       "videos": [
@@ -554,7 +554,7 @@
           "youtube_id": "y15slAQPe6w",
           "title": "Baby Saw Grandpa Walk and Immediately Said I Got This \ud83d\ude02 tiktokgrowth",
           "tiktok_views": 485500,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/y15slAQPe6w/hqdefault.jpg",
@@ -661,6 +661,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 52,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-20",
+          "status": "success",
+          "video_id": "XGrC9DhdXJw",
+          "error_message": null,
+          "created_at": "2026-09-20T17:15:30.917982+00:00"
+        },
         {
           "id": 51,
           "channel_id": "channel_1",
@@ -850,16 +860,6 @@
           "video_id": "vh5Gc6wDa-U",
           "error_message": null,
           "created_at": "2026-09-14T17:16:13.562570+00:00"
-        },
-        {
-          "id": 31,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-09-14",
-          "status": "success",
-          "video_id": "j72EKlx6t-I",
-          "error_message": null,
-          "created_at": "2026-09-14T02:09:14.904780+00:00"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 41,
-      "total_views": 361,
+      "total_views": 352,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -910,84 +910,98 @@
       "view_history": [
         {
           "date": "2026-09-07",
-          "views": 28,
-          "uploads": 2,
-          "cumulative_views": 28
+          "views": 16,
+          "uploads": 1,
+          "cumulative_views": 16
         },
         {
           "date": "2026-09-08",
           "views": 55,
           "uploads": 2,
-          "cumulative_views": 83
+          "cumulative_views": 71
         },
         {
           "date": "2026-09-10",
           "views": 5,
           "uploads": 2,
-          "cumulative_views": 88
+          "cumulative_views": 76
         },
         {
           "date": "2026-09-11",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 97
+          "cumulative_views": 85
         },
         {
           "date": "2026-09-12",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 103
+          "cumulative_views": 91
         },
         {
           "date": "2026-09-13",
           "views": 38,
           "uploads": 3,
-          "cumulative_views": 141
+          "cumulative_views": 129
         },
         {
           "date": "2026-09-14",
           "views": 58,
           "uploads": 3,
-          "cumulative_views": 199
+          "cumulative_views": 187
         },
         {
           "date": "2026-09-15",
           "views": 45,
           "uploads": 3,
-          "cumulative_views": 244
+          "cumulative_views": 232
         },
         {
           "date": "2026-09-16",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 249
+          "cumulative_views": 237
         },
         {
           "date": "2026-09-17",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 259
+          "cumulative_views": 247
         },
         {
           "date": "2026-09-18",
           "views": 38,
           "uploads": 2,
-          "cumulative_views": 297
+          "cumulative_views": 285
         },
         {
           "date": "2026-09-19",
           "views": 21,
           "uploads": 2,
-          "cumulative_views": 318
+          "cumulative_views": 306
         },
         {
           "date": "2026-09-20",
           "views": 2,
-          "uploads": 1,
-          "cumulative_views": 320
+          "uploads": 2,
+          "cumulative_views": 308
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7687305601700908302",
+          "youtube_id": "molHcGJvxJM",
+          "title": "Cheesy Meat Triangles with Garlic Butter Sauce \u2728",
+          "tiktok_views": 534700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/molHcGJvxJM/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-20T16:10:39Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1393,20 +1407,6 @@
           "thumbnail": "https://i.ytimg.com/vi/_nPHaeujxv0/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-07T19:14:26Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7680253891153235214",
-          "youtube_id": "ZZUBRcApta8",
-          "title": "Cheesy Stuffed Meat Patties with Potatoes \ud83e\uddc0\ud83e\udd54 #StuffedMeatPatties #Eas...",
-          "tiktok_views": 881800,
-          "youtube_views": 12,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-07T15:16:52Z"
         }
       ],
       "runs": [
@@ -1629,7 +1629,7 @@
       "subscribers": 45,
       "total_uploads": 9,
       "total_views": 11860,
-      "total_likes": 285,
+      "total_likes": 286,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1665,21 +1665,21 @@
         },
         {
           "date": "2026-09-18",
-          "views": 26810,
+          "views": 27154,
           "uploads": 3,
-          "cumulative_views": 27085
+          "cumulative_views": 27429
         },
         {
           "date": "2026-09-19",
-          "views": 34337,
+          "views": 35084,
           "uploads": 3,
-          "cumulative_views": 61422
+          "cumulative_views": 62513
         },
         {
           "date": "2026-09-20",
           "views": 1274,
           "uploads": 1,
-          "cumulative_views": 62696
+          "cumulative_views": 63787
         }
       ],
       "videos": [
@@ -1718,8 +1718,8 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 17907,
-          "youtube_likes": 79,
+          "youtube_views": 18654,
+          "youtube_likes": 80,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
           "status": "uploaded",
@@ -1760,7 +1760,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 24121,
+          "youtube_views": 24273,
           "youtube_likes": 106,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1774,7 +1774,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 2579,
+          "youtube_views": 2771,
           "youtube_likes": 9,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -1996,9 +1996,9 @@
         },
         {
           "date": "2026-09-20",
-          "views": 22,
+          "views": 14,
           "uploads": 2,
-          "cumulative_views": 77
+          "cumulative_views": 69
         }
       ],
       "videos": [
@@ -2023,7 +2023,7 @@
           "youtube_id": "SOoUHtAQ7rg",
           "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 22,
+          "youtube_views": 14,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
@@ -2141,6 +2141,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7687305601700908302",
+      "youtube_id": "molHcGJvxJM",
+      "title": "Cheesy Meat Triangles with Garlic Butter Sauce \u2728",
+      "tiktok_views": 534700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/molHcGJvxJM/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-20T16:10:39Z"
+    },
+    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1LVyQI05JBKDWehJ1G2WzT0J2DFIiwSRF",
@@ -2161,7 +2175,7 @@
       "youtube_id": "SOoUHtAQ7rg",
       "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 22,
+      "youtube_views": 14,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
@@ -2259,8 +2273,8 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 17907,
-      "youtube_likes": 79,
+      "youtube_views": 18654,
+      "youtube_likes": 80,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
       "status": "uploaded",
@@ -2413,7 +2427,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 24121,
+      "youtube_views": 24273,
       "youtube_likes": 106,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2427,7 +2441,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 2579,
+      "youtube_views": 2771,
       "youtube_likes": 9,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -2903,7 +2917,7 @@
       "youtube_id": "y15slAQPe6w",
       "title": "Baby Saw Grandpa Walk and Immediately Said I Got This \ud83d\ude02 tiktokgrowth",
       "tiktok_views": 485500,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/y15slAQPe6w/hqdefault.jpg",
@@ -3133,20 +3147,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_nPHaeujxv0/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-07T19:14:26Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7680253891153235214",
-      "youtube_id": "ZZUBRcApta8",
-      "title": "Cheesy Stuffed Meat Patties with Potatoes \ud83e\uddc0\ud83e\udd54 #StuffedMeatPatties #Eas...",
-      "tiktok_views": 881800,
-      "youtube_views": 12,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/ZZUBRcApta8/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-07T15:16:52Z"
     }
   ],
   "channel": {
@@ -3164,7 +3164,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 42,
+    "total_uploads": 43,
     "total_views": 488,
     "total_likes": 2,
     "upcoming": {
@@ -3220,57 +3220,57 @@
       },
       {
         "date": "2026-09-12",
-        "views": 367,
+        "views": 368,
         "uploads": 3,
-        "cumulative_views": 388
+        "cumulative_views": 389
       },
       {
         "date": "2026-09-13",
         "views": 16,
         "uploads": 3,
-        "cumulative_views": 404
+        "cumulative_views": 405
       },
       {
         "date": "2026-09-14",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 406
+        "cumulative_views": 407
       },
       {
         "date": "2026-09-15",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 407
+        "cumulative_views": 408
       },
       {
         "date": "2026-09-16",
         "views": 8,
         "uploads": 3,
-        "cumulative_views": 415
+        "cumulative_views": 416
       },
       {
         "date": "2026-09-17",
         "views": 3,
         "uploads": 1,
-        "cumulative_views": 418
+        "cumulative_views": 419
       },
       {
         "date": "2026-09-18",
         "views": 8,
         "uploads": 3,
-        "cumulative_views": 426
+        "cumulative_views": 427
       },
       {
         "date": "2026-09-19",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 428
+        "cumulative_views": 429
       },
       {
         "date": "2026-09-20",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 428
+        "cumulative_views": 429
       }
     ],
     "videos": [
@@ -3589,7 +3589,7 @@
         "youtube_id": "y15slAQPe6w",
         "title": "Baby Saw Grandpa Walk and Immediately Said I Got This \ud83d\ude02 tiktokgrowth",
         "tiktok_views": 485500,
-        "youtube_views": 4,
+        "youtube_views": 5,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/y15slAQPe6w/hqdefault.jpg",
@@ -3696,6 +3696,16 @@
       }
     ],
     "runs": [
+      {
+        "id": 52,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-20",
+        "status": "success",
+        "video_id": "XGrC9DhdXJw",
+        "error_message": null,
+        "created_at": "2026-09-20T17:15:30.917982+00:00"
+      },
       {
         "id": 51,
         "channel_id": "channel_1",
@@ -3885,23 +3895,13 @@
         "video_id": "vh5Gc6wDa-U",
         "error_message": null,
         "created_at": "2026-09-14T17:16:13.562570+00:00"
-      },
-      {
-        "id": 31,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-09-14",
-        "status": "success",
-        "video_id": "j72EKlx6t-I",
-        "error_message": null,
-        "created_at": "2026-09-14T02:09:14.904780+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 95,
-    "total_views": 12709,
-    "total_likes": 292,
+    "total_uploads": 96,
+    "total_views": 12700,
+    "total_likes": 293,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -3931,6 +3931,16 @@
     }
   },
   "runs": [
+    {
+      "id": 52,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-20",
+      "status": "success",
+      "video_id": "XGrC9DhdXJw",
+      "error_message": null,
+      "created_at": "2026-09-20T17:15:30.917982+00:00"
+    },
     {
       "id": 51,
       "channel_id": "channel_1",
@@ -4120,17 +4130,7 @@
       "video_id": "vh5Gc6wDa-U",
       "error_message": null,
       "created_at": "2026-09-14T17:16:13.562570+00:00"
-    },
-    {
-      "id": 31,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-09-14",
-      "status": "success",
-      "video_id": "j72EKlx6t-I",
-      "error_message": null,
-      "created_at": "2026-09-14T02:09:14.904780+00:00"
     }
   ],
-  "last_updated": "2026-09-20T16:09:41.581508+00:00"
+  "last_updated": "2026-09-20T17:15:35.059633+00:00"
 }
