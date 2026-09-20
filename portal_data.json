@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 93,
+    "total_uploads": 94,
     "total_views": 12709,
     "total_likes": 272,
     "total_subscribers": 47,
@@ -76,9 +76,9 @@
       "date": "2026-09-16",
       "ch1_views": 415,
       "ch2_views": 248,
-      "ch3_views": 272,
+      "ch3_views": 266,
       "ch4_views": 0,
-      "total_views": 935
+      "total_views": 929
     },
     {
       "date": "2026-09-17",
@@ -92,25 +92,25 @@
       "date": "2026-09-18",
       "ch1_views": 425,
       "ch2_views": 294,
-      "ch3_views": 26283,
+      "ch3_views": 26261,
       "ch4_views": 0,
-      "total_views": 27002
+      "total_views": 26980
     },
     {
       "date": "2026-09-19",
       "ch1_views": 427,
       "ch2_views": 310,
-      "ch3_views": 56029,
+      "ch3_views": 56016,
       "ch4_views": 53,
-      "total_views": 56819
+      "total_views": 56806
     },
     {
       "date": "2026-09-20",
       "ch1_views": 427,
       "ch2_views": 312,
-      "ch3_views": 57261,
+      "ch3_views": 57249,
       "ch4_views": 53,
-      "total_views": 58053
+      "total_views": 58041
     }
   ],
   "channels": {
@@ -1659,27 +1659,27 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 272,
+          "views": 266,
           "uploads": 2,
-          "cumulative_views": 272
+          "cumulative_views": 266
         },
         {
           "date": "2026-09-18",
-          "views": 26011,
+          "views": 25995,
           "uploads": 3,
-          "cumulative_views": 26283
+          "cumulative_views": 26261
         },
         {
           "date": "2026-09-19",
-          "views": 29746,
+          "views": 29755,
           "uploads": 3,
-          "cumulative_views": 56029
+          "cumulative_views": 56016
         },
         {
           "date": "2026-09-20",
-          "views": 1232,
+          "views": 1233,
           "uploads": 1,
-          "cumulative_views": 57261
+          "cumulative_views": 57249
         }
       ],
       "videos": [
@@ -1690,7 +1690,7 @@
           "youtube_id": "CZy_OtHy3DU",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1232,
+          "youtube_views": 1233,
           "youtube_likes": 4,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
@@ -1704,7 +1704,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 3367,
+          "youtube_views": 3376,
           "youtube_likes": 16,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1746,7 +1746,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 101,
+          "youtube_views": 103,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1760,7 +1760,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 23530,
+          "youtube_views": 23532,
           "youtube_likes": 105,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1774,7 +1774,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 2380,
+          "youtube_views": 2360,
           "youtube_likes": 7,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -1788,7 +1788,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 223,
+          "youtube_views": 220,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1802,7 +1802,7 @@
           "youtube_id": "BOYWYj2Iix8",
           "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
           "tiktok_views": 0,
-          "youtube_views": 49,
+          "youtube_views": 46,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -1958,7 +1958,7 @@
       "avatar_letter": "R",
       "category": "Remote Work & Side Hustles",
       "subscribers": 1,
-      "total_uploads": 2,
+      "total_uploads": 3,
       "total_views": 0,
       "total_likes": 3,
       "upcoming": {
@@ -1997,11 +1997,25 @@
         {
           "date": "2026-09-20",
           "views": 0,
-          "uploads": 1,
+          "uploads": 2,
           "cumulative_views": 53
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_4",
+          "channel_name": "Remote Jobs WFH",
+          "tiktok_id": "1LVyQI05JBKDWehJ1G2WzT0J2DFIiwSRF",
+          "youtube_id": "nRvjj5HSum4",
+          "title": "Remote Job Opportunity \u2014 Up to $17/HR! \ud83d\udcbb\u2728",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/nRvjj5HSum4/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-20T10:33:33Z"
+        },
         {
           "channel_id": "channel_4",
           "channel_name": "Remote Jobs WFH",
@@ -2032,6 +2046,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 10,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-09-20",
+          "status": "success",
+          "video_id": "nRvjj5HSum4",
+          "error_message": null,
+          "created_at": "2026-09-20T10:33:35.659921+00:00"
+        },
         {
           "id": 9,
           "channel_id": "channel_4",
@@ -2129,6 +2153,20 @@
     {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
+      "tiktok_id": "1LVyQI05JBKDWehJ1G2WzT0J2DFIiwSRF",
+      "youtube_id": "nRvjj5HSum4",
+      "title": "Remote Job Opportunity \u2014 Up to $17/HR! \ud83d\udcbb\u2728",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/nRvjj5HSum4/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-20T10:33:33Z"
+    },
+    {
+      "channel_id": "channel_4",
+      "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1GWPR-DMPrHmjWJU1NiBv80eXruvb_cRM",
       "youtube_id": "SOoUHtAQ7rg",
       "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
@@ -2161,7 +2199,7 @@
       "youtube_id": "CZy_OtHy3DU",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1232,
+      "youtube_views": 1233,
       "youtube_likes": 4,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
@@ -2203,7 +2241,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 3367,
+      "youtube_views": 3376,
       "youtube_likes": 16,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -2343,7 +2381,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 101,
+      "youtube_views": 103,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -2385,7 +2423,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 23530,
+      "youtube_views": 23532,
       "youtube_likes": 105,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2399,7 +2437,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 2380,
+      "youtube_views": 2360,
       "youtube_likes": 7,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -2511,7 +2549,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 223,
+      "youtube_views": 220,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -2525,7 +2563,7 @@
       "youtube_id": "BOYWYj2Iix8",
       "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
       "tiktok_views": 0,
-      "youtube_views": 49,
+      "youtube_views": 46,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -3871,7 +3909,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 93,
+    "total_uploads": 94,
     "total_views": 12709,
     "total_likes": 272,
     "videos_per_day": 12
@@ -4104,5 +4142,5 @@
       "created_at": "2026-09-14T02:09:14.904780+00:00"
     }
   ],
-  "last_updated": "2026-09-20T10:30:55.399543+00:00"
+  "last_updated": "2026-09-20T10:33:39.823025+00:00"
 }
