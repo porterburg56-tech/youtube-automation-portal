@@ -556,6 +556,37 @@
       border: 1px solid rgba(214, 51, 132, 0.25);
     }
 
+    .slot-tag.tag-ch4 {
+      background: rgba(0, 212, 255, 0.12);
+      color: #00d4ff;
+      border: 1px solid rgba(0, 212, 255, 0.25);
+    }
+
+    .upcoming-card.next-up {
+      border-color: rgba(0, 212, 255, 0.45);
+      box-shadow: 0 0 20px rgba(0, 212, 255, 0.12), inset 0 0 20px rgba(0, 212, 255, 0.03);
+      position: relative;
+    }
+
+    .upcoming-card.next-up::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--accent-cyan), var(--accent-purple));
+    }
+
+    .upcoming-card.card-done {
+      opacity: 0.85;
+      border-color: rgba(0, 242, 152, 0.2);
+    }
+
+    .upcoming-card.card-done:hover {
+      opacity: 1;
+    }
+
     .upcoming-timer-box {
       background: rgba(0, 0, 0, 0.25);
       border: 1px solid var(--border-color);
@@ -1289,12 +1320,36 @@
           'background: rgba(0,212,255,0.15); color: #00d4ff; border-color: rgba(0,212,255,0.3);');
       }
 
-      // Sort slots by their UTC fire time (ascending within the day)
-      allSlots.sort((a, b) => a.utcMinutes - b.utcMinutes);
+      // Sort slots dynamically:
+      // 1. Pending/upcoming slots come FIRST, sorted by nearest execution time (top of queue)
+      // 2. Completed slots ("Done Today") move to the BOTTOM, sorted chronologically in slot order
+      allSlots.sort((a, b) => {
+        if (a.ranToday !== b.ranToday) {
+          return a.ranToday ? 1 : -1;
+        }
+        if (!a.ranToday) {
+          const diffA = getTimeUntilUTC(a.utcH, a.utcM);
+          const diffB = getTimeUntilUTC(b.utcH, b.utcM);
+          if (diffA !== diffB) {
+            return diffA - diffB;
+          }
+          return a.utcMinutes - b.utcMinutes;
+        }
+        return a.utcMinutes - b.utcMinutes;
+      });
+
+      const queueBadge = document.getElementById('queueBadge');
+      if (queueBadge) {
+        const pendingCount = allSlots.filter(s => !s.ranToday).length;
+        const doneCount = allSlots.filter(s => s.ranToday).length;
+        queueBadge.textContent = `${pendingCount} Upcoming • ${doneCount} Done Today`;
+      }
 
       const slotEmoji = n => ['🥇','🥈','🥉'][n-1] || `#${n}`;
 
       let cardsHtml = '';
+      let isFirstUpcoming = true;
+
       allSlots.forEach(({ s, utcH, utcM, slotNum, icon, tagClass, badgeStyle, ranToday, todayVid, chData, slotKey }) => {
         const chName = chData.name || 'Channel';
         const tiktokSrc = chData.tiktok_source || '';
@@ -1309,7 +1364,7 @@
                 Watch on YouTube ↗</a> • Next: Tomorrow ${s.time_et || s.time_utc}`
             : `Completed • Next: Tomorrow ${s.time_et || s.time_utc}`;
           cardsHtml += `
-            <div class="upcoming-card">
+            <div class="upcoming-card card-done">
               <div>
                 <span class="slot-tag ${tagClass}" style="background:rgba(0,242,152,0.15);color:var(--accent-emerald);border-color:rgba(0,242,152,0.3);">
                   ${icon} ${chName} • ${slotEmoji(slotNum)} Slot ${slotNum} — Done Today ✓
@@ -1332,10 +1387,19 @@
               </div>
             </div>`;
         } else {
+          const isTopUpcoming = isFirstUpcoming;
+          isFirstUpcoming = false;
+          const nextUpBadge = isTopUpcoming
+            ? `<span style="background:rgba(0,212,255,0.2);color:var(--accent-cyan);border:1px solid rgba(0,212,255,0.4);font-size:11px;font-weight:700;padding:2px 8px;border-radius:12px;display:inline-flex;align-items:center;gap:5px;margin-left:8px;"><span class="pulse-dot" style="width:6px;height:6px;"></span> NEXT UP</span>`
+            : '';
+
           cardsHtml += `
-            <div class="upcoming-card">
+            <div class="upcoming-card ${isTopUpcoming ? 'next-up' : ''}">
               <div>
-                <span class="slot-tag ${tagClass}">${icon} ${chName} • ${slotEmoji(slotNum)} Slot ${slotNum} — ${timeLabel}</span>
+                <div style="display:flex;align-items:center;flex-wrap:wrap;gap:4px;margin-bottom:10px;">
+                  <span class="slot-tag ${tagClass}" style="margin-bottom:0;">${icon} ${chName} • ${slotEmoji(slotNum)} Slot ${slotNum} — ${timeLabel}</span>
+                  ${nextUpBadge}
+                </div>
                 <h3 style="font-size:17px;margin-bottom:6px;">${s.title || 'Next Video in Queue'}</h3>
                 <p style="font-size:13px;color:var(--text-secondary);">
                   Strategy: <strong>${strategy}</strong> from ${chData.source_type === 'google_drive' ? 'Google Drive Queue' : '@' + tiktokSrc}
