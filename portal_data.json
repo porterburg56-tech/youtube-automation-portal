@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 96,
-    "total_views": 12700,
+    "total_uploads": 97,
+    "total_views": 26185,
     "total_likes": 293,
     "total_subscribers": 49,
     "channels_count": 4,
@@ -10,107 +10,107 @@
   "master_view_history": [
     {
       "date": "2026-09-07",
-      "ch1_views": 10,
+      "ch1_views": 0,
       "ch2_views": 16,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 26
+      "total_views": 16
     },
     {
       "date": "2026-09-08",
-      "ch1_views": 11,
+      "ch1_views": 1,
       "ch2_views": 71,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 82
+      "total_views": 72
     },
     {
       "date": "2026-09-10",
-      "ch1_views": 14,
+      "ch1_views": 4,
       "ch2_views": 76,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 90
+      "total_views": 80
     },
     {
       "date": "2026-09-11",
-      "ch1_views": 21,
+      "ch1_views": 11,
       "ch2_views": 85,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 106
+      "total_views": 96
     },
     {
       "date": "2026-09-12",
-      "ch1_views": 389,
+      "ch1_views": 379,
       "ch2_views": 91,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 480
+      "total_views": 470
     },
     {
       "date": "2026-09-13",
-      "ch1_views": 405,
+      "ch1_views": 395,
       "ch2_views": 129,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 534
+      "total_views": 524
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 407,
-      "ch2_views": 187,
+      "ch1_views": 397,
+      "ch2_views": 188,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 594
+      "total_views": 585
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 408,
-      "ch2_views": 232,
+      "ch1_views": 398,
+      "ch2_views": 233,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 640
+      "total_views": 631
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 416,
-      "ch2_views": 237,
-      "ch3_views": 275,
+      "ch1_views": 406,
+      "ch2_views": 238,
+      "ch3_views": 277,
       "ch4_views": 0,
-      "total_views": 928
+      "total_views": 921
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 419,
-      "ch2_views": 247,
+      "ch1_views": 409,
+      "ch2_views": 248,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 666
+      "total_views": 657
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 427,
-      "ch2_views": 285,
-      "ch3_views": 27429,
+      "ch1_views": 417,
+      "ch2_views": 287,
+      "ch3_views": 27450,
       "ch4_views": 0,
-      "total_views": 28141
+      "total_views": 28154
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 429,
-      "ch2_views": 306,
-      "ch3_views": 62513,
+      "ch1_views": 419,
+      "ch2_views": 309,
+      "ch3_views": 62564,
       "ch4_views": 55,
-      "total_views": 63303
+      "total_views": 63347
     },
     {
       "date": "2026-09-20",
-      "ch1_views": 429,
-      "ch2_views": 308,
-      "ch3_views": 63787,
-      "ch4_views": 69,
-      "total_views": 64593
+      "ch1_views": 419,
+      "ch2_views": 311,
+      "ch3_views": 63844,
+      "ch4_views": 88,
+      "total_views": 64662
     }
   ],
   "channels": {
@@ -160,85 +160,93 @@
       },
       "view_history": [
         {
-          "date": "2026-09-07",
-          "views": 10,
-          "uploads": 1,
-          "cumulative_views": 10
-        },
-        {
           "date": "2026-09-08",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 11
+          "cumulative_views": 1
         },
         {
           "date": "2026-09-10",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 14
+          "cumulative_views": 4
         },
         {
           "date": "2026-09-11",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 11
         },
         {
           "date": "2026-09-12",
           "views": 368,
           "uploads": 3,
-          "cumulative_views": 389
+          "cumulative_views": 379
         },
         {
           "date": "2026-09-13",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 405
+          "cumulative_views": 395
         },
         {
           "date": "2026-09-14",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 407
+          "cumulative_views": 397
         },
         {
           "date": "2026-09-15",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 408
+          "cumulative_views": 398
         },
         {
           "date": "2026-09-16",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 416
+          "cumulative_views": 406
         },
         {
           "date": "2026-09-17",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 419
+          "cumulative_views": 409
         },
         {
           "date": "2026-09-18",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 427
+          "cumulative_views": 417
         },
         {
           "date": "2026-09-19",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 429
+          "cumulative_views": 419
         },
         {
           "date": "2026-09-20",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 429
+          "uploads": 2,
+          "cumulative_views": 419
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7687622273519439118",
+          "youtube_id": "XGrC9DhdXJw",
+          "title": "Months Old and Already Walking Like He Needs a Hip Replacement \ud83d\udc80\ud83e\udd23",
+          "tiktok_views": 4064,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/XGrC9DhdXJw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-20T17:15:50Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -644,20 +652,6 @@
           "thumbnail": "https://i.ytimg.com/vi/MTdV6Hav-Rs/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-08T00:04:09Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7682844448484560158",
-          "youtube_id": "ZFnEdIdb2ko",
-          "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f #...",
-          "tiktok_views": 1994,
-          "youtube_views": 10,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/ZFnEdIdb2ko/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-07T22:18:04Z"
         }
       ],
       "runs": [
@@ -946,45 +940,45 @@
         },
         {
           "date": "2026-09-14",
-          "views": 58,
+          "views": 59,
           "uploads": 3,
-          "cumulative_views": 187
+          "cumulative_views": 188
         },
         {
           "date": "2026-09-15",
           "views": 45,
           "uploads": 3,
-          "cumulative_views": 232
+          "cumulative_views": 233
         },
         {
           "date": "2026-09-16",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 237
+          "cumulative_views": 238
         },
         {
           "date": "2026-09-17",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 247
+          "cumulative_views": 248
         },
         {
           "date": "2026-09-18",
-          "views": 38,
+          "views": 39,
           "uploads": 2,
-          "cumulative_views": 285
+          "cumulative_views": 287
         },
         {
           "date": "2026-09-19",
-          "views": 21,
+          "views": 22,
           "uploads": 2,
-          "cumulative_views": 306
+          "cumulative_views": 309
         },
         {
           "date": "2026-09-20",
           "views": 2,
           "uploads": 2,
-          "cumulative_views": 308
+          "cumulative_views": 311
         }
       ],
       "videos": [
@@ -1037,7 +1031,7 @@
           "youtube_id": "mOAAawjGD20",
           "title": "Cheesy Ground Beef & Potato Bake \u2728",
           "tiktok_views": 52800,
-          "youtube_views": 17,
+          "youtube_views": 18,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/mOAAawjGD20/hqdefault.jpg",
@@ -1051,7 +1045,7 @@
           "youtube_id": "HBPnQVJ8tj8",
           "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
           "tiktok_views": 521300,
-          "youtube_views": 37,
+          "youtube_views": 38,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -1205,7 +1199,7 @@
           "youtube_id": "45A8pjcvAQg",
           "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
           "tiktok_views": 765900,
-          "youtube_views": 29,
+          "youtube_views": 30,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -1627,8 +1621,8 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 45,
-      "total_uploads": 9,
-      "total_views": 11860,
+      "total_uploads": 10,
+      "total_views": 25345,
       "total_likes": 286,
       "upcoming": {
         "slot1": {
@@ -1659,30 +1653,44 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 275,
+          "views": 277,
           "uploads": 2,
-          "cumulative_views": 275
+          "cumulative_views": 277
         },
         {
           "date": "2026-09-18",
-          "views": 27154,
+          "views": 27173,
           "uploads": 3,
-          "cumulative_views": 27429
+          "cumulative_views": 27450
         },
         {
           "date": "2026-09-19",
-          "views": 35084,
+          "views": 35114,
           "uploads": 3,
-          "cumulative_views": 62513
+          "cumulative_views": 62564
         },
         {
           "date": "2026-09-20",
-          "views": 1274,
-          "uploads": 1,
-          "cumulative_views": 63787
+          "views": 1280,
+          "uploads": 2,
+          "cumulative_views": 63844
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "18emK_iXIp9JUjnnYL1gOouEv9WyIDZ4d",
+          "youtube_id": "LiAhcCZMDCY",
+          "title": "Removing fluid from under nail \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/LiAhcCZMDCY/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-20T17:18:27Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1690,7 +1698,7 @@
           "youtube_id": "CZy_OtHy3DU",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1274,
+          "youtube_views": 1280,
           "youtube_likes": 4,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
@@ -1704,7 +1712,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 4119,
+          "youtube_views": 4149,
           "youtube_likes": 16,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1760,7 +1768,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 24273,
+          "youtube_views": 24277,
           "youtube_likes": 106,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1774,7 +1782,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 2771,
+          "youtube_views": 2786,
           "youtube_likes": 9,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -1788,7 +1796,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 224,
+          "youtube_views": 226,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1811,6 +1819,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 18,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-09-20",
+          "status": "success",
+          "video_id": "LiAhcCZMDCY",
+          "error_message": null,
+          "created_at": "2026-09-20T17:18:29.343131+00:00"
+        },
         {
           "id": 17,
           "channel_id": "channel_3",
@@ -1996,9 +2014,9 @@
         },
         {
           "date": "2026-09-20",
-          "views": 14,
+          "views": 33,
           "uploads": 2,
-          "cumulative_views": 69
+          "cumulative_views": 88
         }
       ],
       "videos": [
@@ -2023,7 +2041,7 @@
           "youtube_id": "SOoUHtAQ7rg",
           "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 14,
+          "youtube_views": 33,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
@@ -2141,6 +2159,34 @@
   },
   "videos": [
     {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "18emK_iXIp9JUjnnYL1gOouEv9WyIDZ4d",
+      "youtube_id": "LiAhcCZMDCY",
+      "title": "Removing fluid from under nail \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/LiAhcCZMDCY/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-20T17:18:27Z"
+    },
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7687622273519439118",
+      "youtube_id": "XGrC9DhdXJw",
+      "title": "Months Old and Already Walking Like He Needs a Hip Replacement \ud83d\udc80\ud83e\udd23",
+      "tiktok_views": 4064,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/XGrC9DhdXJw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-20T17:15:50Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7687305601700908302",
@@ -2175,7 +2221,7 @@
       "youtube_id": "SOoUHtAQ7rg",
       "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 14,
+      "youtube_views": 33,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
@@ -2203,7 +2249,7 @@
       "youtube_id": "CZy_OtHy3DU",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1274,
+      "youtube_views": 1280,
       "youtube_likes": 4,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
@@ -2245,7 +2291,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 4119,
+      "youtube_views": 4149,
       "youtube_likes": 16,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -2301,7 +2347,7 @@
       "youtube_id": "mOAAawjGD20",
       "title": "Cheesy Ground Beef & Potato Bake \u2728",
       "tiktok_views": 52800,
-      "youtube_views": 17,
+      "youtube_views": 18,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/mOAAawjGD20/hqdefault.jpg",
@@ -2371,7 +2417,7 @@
       "youtube_id": "HBPnQVJ8tj8",
       "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
       "tiktok_views": 521300,
-      "youtube_views": 37,
+      "youtube_views": 38,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -2427,7 +2473,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 24273,
+      "youtube_views": 24277,
       "youtube_likes": 106,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2441,7 +2487,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 2771,
+      "youtube_views": 2786,
       "youtube_likes": 9,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -2553,7 +2599,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 224,
+      "youtube_views": 226,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -2763,7 +2809,7 @@
       "youtube_id": "45A8pjcvAQg",
       "title": "Creamy Chocolate Cups with Crispy Shell \ud83c\udf6b\u2728 Easy No-Bake Dessert Choc",
       "tiktok_views": 765900,
-      "youtube_views": 29,
+      "youtube_views": 30,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/45A8pjcvAQg/hqdefault.jpg",
@@ -3121,20 +3167,6 @@
       "uploaded_at": "2026-09-08T00:04:09Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7682844448484560158",
-      "youtube_id": "ZFnEdIdb2ko",
-      "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f #...",
-      "tiktok_views": 1994,
-      "youtube_views": 10,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/ZFnEdIdb2ko/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-07T22:18:04Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7672466132040764686",
@@ -3195,85 +3227,93 @@
     },
     "view_history": [
       {
-        "date": "2026-09-07",
-        "views": 10,
-        "uploads": 1,
-        "cumulative_views": 10
-      },
-      {
         "date": "2026-09-08",
         "views": 1,
         "uploads": 1,
-        "cumulative_views": 11
+        "cumulative_views": 1
       },
       {
         "date": "2026-09-10",
         "views": 3,
         "uploads": 2,
-        "cumulative_views": 14
+        "cumulative_views": 4
       },
       {
         "date": "2026-09-11",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 11
       },
       {
         "date": "2026-09-12",
         "views": 368,
         "uploads": 3,
-        "cumulative_views": 389
+        "cumulative_views": 379
       },
       {
         "date": "2026-09-13",
         "views": 16,
         "uploads": 3,
-        "cumulative_views": 405
+        "cumulative_views": 395
       },
       {
         "date": "2026-09-14",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 407
+        "cumulative_views": 397
       },
       {
         "date": "2026-09-15",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 408
+        "cumulative_views": 398
       },
       {
         "date": "2026-09-16",
         "views": 8,
         "uploads": 3,
-        "cumulative_views": 416
+        "cumulative_views": 406
       },
       {
         "date": "2026-09-17",
         "views": 3,
         "uploads": 1,
-        "cumulative_views": 419
+        "cumulative_views": 409
       },
       {
         "date": "2026-09-18",
         "views": 8,
         "uploads": 3,
-        "cumulative_views": 427
+        "cumulative_views": 417
       },
       {
         "date": "2026-09-19",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 429
+        "cumulative_views": 419
       },
       {
         "date": "2026-09-20",
         "views": 0,
-        "uploads": 1,
-        "cumulative_views": 429
+        "uploads": 2,
+        "cumulative_views": 419
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7687622273519439118",
+        "youtube_id": "XGrC9DhdXJw",
+        "title": "Months Old and Already Walking Like He Needs a Hip Replacement \ud83d\udc80\ud83e\udd23",
+        "tiktok_views": 4064,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/XGrC9DhdXJw/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-20T17:15:50Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -3679,20 +3719,6 @@
         "thumbnail": "https://i.ytimg.com/vi/MTdV6Hav-Rs/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-08T00:04:09Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7682844448484560158",
-        "youtube_id": "ZFnEdIdb2ko",
-        "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f #...",
-        "tiktok_views": 1994,
-        "youtube_views": 10,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/ZFnEdIdb2ko/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-07T22:18:04Z"
       }
     ],
     "runs": [
@@ -3899,8 +3925,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 96,
-    "total_views": 12700,
+    "total_uploads": 97,
+    "total_views": 26185,
     "total_likes": 293,
     "videos_per_day": 12
   },
@@ -4132,5 +4158,5 @@
       "created_at": "2026-09-14T17:16:13.562570+00:00"
     }
   ],
-  "last_updated": "2026-09-20T17:15:35.059633+00:00"
+  "last_updated": "2026-09-20T17:18:33.384960+00:00"
 }
