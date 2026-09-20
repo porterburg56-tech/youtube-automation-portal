@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 92,
     "total_views": 12709,
-    "total_likes": 269,
+    "total_likes": 270,
     "total_subscribers": 47,
     "channels_count": 4,
     "videos_per_day": 12
@@ -92,25 +92,25 @@
       "date": "2026-09-18",
       "ch1_views": 425,
       "ch2_views": 294,
-      "ch3_views": 26185,
+      "ch3_views": 26213,
       "ch4_views": 0,
-      "total_views": 26904
+      "total_views": 26932
     },
     {
       "date": "2026-09-19",
       "ch1_views": 427,
       "ch2_views": 310,
-      "ch3_views": 54522,
+      "ch3_views": 54656,
       "ch4_views": 52,
-      "total_views": 55311
+      "total_views": 55445
     },
     {
       "date": "2026-09-20",
       "ch1_views": 427,
       "ch2_views": 312,
-      "ch3_views": 55386,
+      "ch3_views": 55845,
       "ch4_views": 0,
-      "total_views": 56125
+      "total_views": 56584
     }
   ],
   "channels": {
@@ -1629,7 +1629,7 @@
       "subscribers": 43,
       "total_uploads": 9,
       "total_views": 11860,
-      "total_likes": 264,
+      "total_likes": 265,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1665,21 +1665,21 @@
         },
         {
           "date": "2026-09-18",
-          "views": 25913,
+          "views": 25941,
           "uploads": 3,
-          "cumulative_views": 26185
+          "cumulative_views": 26213
         },
         {
           "date": "2026-09-19",
-          "views": 28337,
+          "views": 28443,
           "uploads": 3,
-          "cumulative_views": 54522
+          "cumulative_views": 54656
         },
         {
           "date": "2026-09-20",
-          "views": 864,
+          "views": 1189,
           "uploads": 1,
-          "cumulative_views": 55386
+          "cumulative_views": 55845
         }
       ],
       "videos": [
@@ -1690,7 +1690,7 @@
           "youtube_id": "CZy_OtHy3DU",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 864,
+          "youtube_views": 1189,
           "youtube_likes": 4,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
@@ -1732,8 +1732,8 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 9577,
-          "youtube_likes": 64,
+          "youtube_views": 9683,
+          "youtube_likes": 65,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
           "status": "uploaded",
@@ -1746,7 +1746,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 101,
+          "youtube_views": 105,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1760,7 +1760,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 23432,
+          "youtube_views": 23461,
           "youtube_likes": 106,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1774,7 +1774,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 2380,
+          "youtube_views": 2375,
           "youtube_likes": 7,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -2013,6 +2013,16 @@
       ],
       "runs": [
         {
+          "id": 5,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-09-20",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "'utf-8' codec can't decode byte 0xc8 in position 236: invalid continuation byte",
+          "created_at": "2026-09-20T09:51:14.606603+00:00"
+        },
+        {
           "id": 4,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2077,7 +2087,7 @@
       "youtube_id": "CZy_OtHy3DU",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 864,
+      "youtube_views": 1189,
       "youtube_likes": 4,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
@@ -2217,8 +2227,8 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 9577,
-      "youtube_likes": 64,
+      "youtube_views": 9683,
+      "youtube_likes": 65,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
       "status": "uploaded",
@@ -2259,7 +2269,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 101,
+      "youtube_views": 105,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -2301,7 +2311,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 23432,
+      "youtube_views": 23461,
       "youtube_likes": 106,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2315,7 +2325,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 2380,
+      "youtube_views": 2375,
       "youtube_likes": 7,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -3789,7 +3799,7 @@
   "kpis": {
     "total_uploads": 92,
     "total_views": 12709,
-    "total_likes": 269,
+    "total_likes": 270,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4020,5 +4030,5 @@
       "created_at": "2026-09-14T02:09:14.904780+00:00"
     }
   ],
-  "last_updated": "2026-09-20T09:49:33.855551+00:00"
+  "last_updated": "2026-09-20T09:51:18.786558+00:00"
 }
