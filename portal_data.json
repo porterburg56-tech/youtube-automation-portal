@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 92,
+    "total_uploads": 93,
     "total_views": 12709,
     "total_likes": 272,
     "total_subscribers": 47,
@@ -92,25 +92,25 @@
       "date": "2026-09-18",
       "ch1_views": 425,
       "ch2_views": 294,
-      "ch3_views": 26267,
+      "ch3_views": 26279,
       "ch4_views": 0,
-      "total_views": 26986
+      "total_views": 26998
     },
     {
       "date": "2026-09-19",
       "ch1_views": 427,
       "ch2_views": 311,
-      "ch3_views": 55431,
-      "ch4_views": 53,
-      "total_views": 56222
+      "ch3_views": 55800,
+      "ch4_views": 52,
+      "total_views": 56590
     },
     {
       "date": "2026-09-20",
       "ch1_views": 427,
       "ch2_views": 313,
-      "ch3_views": 56663,
-      "ch4_views": 0,
-      "total_views": 57403
+      "ch3_views": 57032,
+      "ch4_views": 52,
+      "total_views": 57824
     }
   ],
   "channels": {
@@ -1665,21 +1665,21 @@
         },
         {
           "date": "2026-09-18",
-          "views": 25995,
+          "views": 26007,
           "uploads": 3,
-          "cumulative_views": 26267
+          "cumulative_views": 26279
         },
         {
           "date": "2026-09-19",
-          "views": 29164,
+          "views": 29521,
           "uploads": 3,
-          "cumulative_views": 55431
+          "cumulative_views": 55800
         },
         {
           "date": "2026-09-20",
           "views": 1232,
           "uploads": 1,
-          "cumulative_views": 56663
+          "cumulative_views": 57032
         }
       ],
       "videos": [
@@ -1704,7 +1704,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 3305,
+          "youtube_views": 3350,
           "youtube_likes": 16,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1718,7 +1718,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 15874,
+          "youtube_views": 15994,
           "youtube_likes": 64,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1732,7 +1732,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 9985,
+          "youtube_views": 10177,
           "youtube_likes": 67,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1760,7 +1760,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 23514,
+          "youtube_views": 23526,
           "youtube_likes": 105,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1958,7 +1958,7 @@
       "avatar_letter": "R",
       "category": "Remote Work & Side Hustles",
       "subscribers": 1,
-      "total_uploads": 1,
+      "total_uploads": 2,
       "total_views": 0,
       "total_likes": 3,
       "upcoming": {
@@ -1990,12 +1990,32 @@
       "view_history": [
         {
           "date": "2026-09-19",
-          "views": 53,
+          "views": 52,
           "uploads": 1,
-          "cumulative_views": 53
+          "cumulative_views": 52
+        },
+        {
+          "date": "2026-09-20",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 52
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_4",
+          "channel_name": "Remote Jobs WFH",
+          "tiktok_id": "1GWPR-DMPrHmjWJU1NiBv80eXruvb_cRM",
+          "youtube_id": "SOoUHtAQ7rg",
+          "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-20T10:23:12Z"
+        },
         {
           "channel_id": "channel_4",
           "channel_name": "Remote Jobs WFH",
@@ -2003,7 +2023,7 @@
           "youtube_id": "oK9BYnEj4Ew",
           "title": "Work From Anywhere $22/HR",
           "tiktok_views": 0,
-          "youtube_views": 53,
+          "youtube_views": 52,
           "youtube_likes": 3,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/oK9BYnEj4Ew/hqdefault.jpg",
@@ -2012,6 +2032,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 9,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-09-20",
+          "status": "success",
+          "video_id": "SOoUHtAQ7rg",
+          "error_message": null,
+          "created_at": "2026-09-20T10:23:14.532861+00:00"
+        },
         {
           "id": 8,
           "channel_id": "channel_4",
@@ -2097,6 +2127,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_4",
+      "channel_name": "Remote Jobs WFH",
+      "tiktok_id": "1GWPR-DMPrHmjWJU1NiBv80eXruvb_cRM",
+      "youtube_id": "SOoUHtAQ7rg",
+      "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-20T10:23:12Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7677569848368450830",
@@ -2159,7 +2203,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 3305,
+      "youtube_views": 3350,
       "youtube_likes": 16,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -2187,7 +2231,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 15874,
+      "youtube_views": 15994,
       "youtube_likes": 64,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -2229,7 +2273,7 @@
       "youtube_id": "oK9BYnEj4Ew",
       "title": "Work From Anywhere $22/HR",
       "tiktok_views": 0,
-      "youtube_views": 53,
+      "youtube_views": 52,
       "youtube_likes": 3,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/oK9BYnEj4Ew/hqdefault.jpg",
@@ -2257,7 +2301,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 9985,
+      "youtube_views": 10177,
       "youtube_likes": 67,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -2341,7 +2385,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 23514,
+      "youtube_views": 23526,
       "youtube_likes": 105,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -3827,7 +3871,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 92,
+    "total_uploads": 93,
     "total_views": 12709,
     "total_likes": 272,
     "videos_per_day": 12
@@ -4060,5 +4104,5 @@
       "created_at": "2026-09-14T02:09:14.904780+00:00"
     }
   ],
-  "last_updated": "2026-09-20T10:13:20.981334+00:00"
+  "last_updated": "2026-09-20T10:23:18.837155+00:00"
 }
