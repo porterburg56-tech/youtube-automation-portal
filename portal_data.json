@@ -1,9 +1,9 @@
 {
   "cumulative": {
-    "total_uploads": 97,
+    "total_uploads": 98,
     "total_views": 26185,
-    "total_likes": 296,
-    "total_subscribers": 49,
+    "total_likes": 350,
+    "total_subscribers": 56,
     "channels_count": 4,
     "videos_per_day": 12
   },
@@ -76,9 +76,9 @@
       "date": "2026-09-16",
       "ch1_views": 406,
       "ch2_views": 238,
-      "ch3_views": 277,
+      "ch3_views": 280,
       "ch4_views": 0,
-      "total_views": 921
+      "total_views": 924
     },
     {
       "date": "2026-09-17",
@@ -90,27 +90,27 @@
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 417,
+      "ch1_views": 418,
       "ch2_views": 287,
-      "ch3_views": 27534,
+      "ch3_views": 28428,
       "ch4_views": 0,
-      "total_views": 28238
+      "total_views": 29133
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 419,
-      "ch2_views": 309,
-      "ch3_views": 62855,
-      "ch4_views": 55,
-      "total_views": 63638
+      "ch1_views": 420,
+      "ch2_views": 316,
+      "ch3_views": 75254,
+      "ch4_views": 57,
+      "total_views": 76047
     },
     {
       "date": "2026-09-20",
-      "ch1_views": 419,
-      "ch2_views": 311,
-      "ch3_views": 64135,
-      "ch4_views": 72,
-      "total_views": 64937
+      "ch1_views": 420,
+      "ch2_views": 318,
+      "ch3_views": 76630,
+      "ch4_views": 110,
+      "total_views": 77478
     }
   ],
   "channels": {
@@ -215,21 +215,21 @@
         },
         {
           "date": "2026-09-18",
-          "views": 8,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 417
+          "cumulative_views": 418
         },
         {
           "date": "2026-09-19",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 419
+          "cumulative_views": 420
         },
         {
           "date": "2026-09-20",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 419
+          "cumulative_views": 420
         }
       ],
       "videos": [
@@ -310,7 +310,7 @@
           "youtube_id": "rh2Dqc6y-WY",
           "title": "She Knows Dad\u2019s After-Work Routine Too Well \ud83d\ude2d",
           "tiktok_views": 88600,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/rh2Dqc6y-WY/hqdefault.jpg",
@@ -872,7 +872,7 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 41,
+      "total_uploads": 42,
       "total_views": 352,
       "total_likes": 0,
       "upcoming": {
@@ -970,15 +970,15 @@
         },
         {
           "date": "2026-09-19",
-          "views": 22,
+          "views": 29,
           "uploads": 2,
-          "cumulative_views": 309
+          "cumulative_views": 316
         },
         {
           "date": "2026-09-20",
           "views": 2,
           "uploads": 2,
-          "cumulative_views": 311
+          "cumulative_views": 318
         }
       ],
       "videos": [
@@ -1017,7 +1017,7 @@
           "youtube_id": "BdViWCLU3D4",
           "title": "No-Bake Chocolate Swirl Dessert Cups with a Crispy Cookie Base \ud83c\udf6b",
           "tiktok_views": 454300,
-          "youtube_views": 4,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BdViWCLU3D4/hqdefault.jpg",
@@ -1031,7 +1031,7 @@
           "youtube_id": "mOAAawjGD20",
           "title": "Cheesy Ground Beef & Potato Bake \u2728",
           "tiktok_views": 52800,
-          "youtube_views": 18,
+          "youtube_views": 19,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/mOAAawjGD20/hqdefault.jpg",
@@ -1405,6 +1405,16 @@
       ],
       "runs": [
         {
+          "id": 51,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-09-20",
+          "status": "success",
+          "video_id": "IBPnWvNfvfU",
+          "error_message": null,
+          "created_at": "2026-09-20T22:16:25.860501+00:00"
+        },
+        {
           "id": 50,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1593,16 +1603,6 @@
           "video_id": "45A8pjcvAQg",
           "error_message": null,
           "created_at": "2026-09-14T01:08:22.706243+00:00"
-        },
-        {
-          "id": 28,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-09-13",
-          "status": "success",
-          "video_id": "a7u_O65DeEk",
-          "error_message": null,
-          "created_at": "2026-09-13T22:19:00.356841+00:00"
         }
       ]
     },
@@ -1620,10 +1620,10 @@
       "avatar": "https://yt3.ggpht.com/_ywAP0n0twSZRvZz7t_X5vS00F5NlWoAQXH-s9AjKEmY1Tb_Xnw3mSnojDjYZBXULnhq2FE7fA=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
-      "subscribers": 45,
+      "subscribers": 52,
       "total_uploads": 10,
       "total_views": 25345,
-      "total_likes": 289,
+      "total_likes": 343,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1653,27 +1653,27 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 277,
+          "views": 280,
           "uploads": 2,
-          "cumulative_views": 277
+          "cumulative_views": 280
         },
         {
           "date": "2026-09-18",
-          "views": 27257,
+          "views": 28148,
           "uploads": 3,
-          "cumulative_views": 27534
+          "cumulative_views": 28428
         },
         {
           "date": "2026-09-19",
-          "views": 35321,
+          "views": 46826,
           "uploads": 3,
-          "cumulative_views": 62855
+          "cumulative_views": 75254
         },
         {
           "date": "2026-09-20",
-          "views": 1280,
+          "views": 1376,
           "uploads": 2,
-          "cumulative_views": 64135
+          "cumulative_views": 76630
         }
       ],
       "videos": [
@@ -1684,7 +1684,7 @@
           "youtube_id": "LiAhcCZMDCY",
           "title": "Removing fluid from under nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 24,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/LiAhcCZMDCY/hqdefault.jpg",
@@ -1698,8 +1698,8 @@
           "youtube_id": "CZy_OtHy3DU",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1280,
-          "youtube_likes": 4,
+          "youtube_views": 1352,
+          "youtube_likes": 5,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
           "status": "uploaded",
@@ -1712,8 +1712,8 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 4149,
-          "youtube_likes": 16,
+          "youtube_views": 6319,
+          "youtube_likes": 29,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
           "status": "uploaded",
@@ -1726,8 +1726,8 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 18795,
-          "youtube_likes": 80,
+          "youtube_views": 23412,
+          "youtube_likes": 95,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
           "status": "uploaded",
@@ -1740,8 +1740,8 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 12377,
-          "youtube_likes": 70,
+          "youtube_views": 17095,
+          "youtube_likes": 87,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
           "status": "uploaded",
@@ -1754,7 +1754,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 110,
+          "youtube_views": 113,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1768,8 +1768,8 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 24315,
-          "youtube_likes": 106,
+          "youtube_views": 24975,
+          "youtube_likes": 114,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
           "status": "uploaded",
@@ -1782,7 +1782,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 2832,
+          "youtube_views": 3060,
           "youtube_likes": 9,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -1796,7 +1796,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 226,
+          "youtube_views": 227,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1810,7 +1810,7 @@
           "youtube_id": "BOYWYj2Iix8",
           "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
           "tiktok_views": 0,
-          "youtube_views": 51,
+          "youtube_views": 53,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -2008,15 +2008,15 @@
       "view_history": [
         {
           "date": "2026-09-19",
-          "views": 55,
+          "views": 57,
           "uploads": 1,
-          "cumulative_views": 55
+          "cumulative_views": 57
         },
         {
           "date": "2026-09-20",
-          "views": 17,
+          "views": 53,
           "uploads": 2,
-          "cumulative_views": 72
+          "cumulative_views": 110
         }
       ],
       "videos": [
@@ -2041,7 +2041,7 @@
           "youtube_id": "SOoUHtAQ7rg",
           "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 17,
+          "youtube_views": 53,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
@@ -2055,7 +2055,7 @@
           "youtube_id": "oK9BYnEj4Ew",
           "title": "Work From Anywhere $22/HR",
           "tiktok_views": 0,
-          "youtube_views": 55,
+          "youtube_views": 57,
           "youtube_likes": 3,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/oK9BYnEj4Ew/hqdefault.jpg",
@@ -2165,7 +2165,7 @@
       "youtube_id": "LiAhcCZMDCY",
       "title": "Removing fluid from under nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 24,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/LiAhcCZMDCY/hqdefault.jpg",
@@ -2221,7 +2221,7 @@
       "youtube_id": "SOoUHtAQ7rg",
       "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 17,
+      "youtube_views": 53,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
@@ -2249,8 +2249,8 @@
       "youtube_id": "CZy_OtHy3DU",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1280,
-      "youtube_likes": 4,
+      "youtube_views": 1352,
+      "youtube_likes": 5,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
       "status": "uploaded",
@@ -2291,8 +2291,8 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 4149,
-      "youtube_likes": 16,
+      "youtube_views": 6319,
+      "youtube_likes": 29,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
       "status": "uploaded",
@@ -2305,7 +2305,7 @@
       "youtube_id": "BdViWCLU3D4",
       "title": "No-Bake Chocolate Swirl Dessert Cups with a Crispy Cookie Base \ud83c\udf6b",
       "tiktok_views": 454300,
-      "youtube_views": 4,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BdViWCLU3D4/hqdefault.jpg",
@@ -2319,8 +2319,8 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 18795,
-      "youtube_likes": 80,
+      "youtube_views": 23412,
+      "youtube_likes": 95,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
       "status": "uploaded",
@@ -2347,7 +2347,7 @@
       "youtube_id": "mOAAawjGD20",
       "title": "Cheesy Ground Beef & Potato Bake \u2728",
       "tiktok_views": 52800,
-      "youtube_views": 18,
+      "youtube_views": 19,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/mOAAawjGD20/hqdefault.jpg",
@@ -2361,7 +2361,7 @@
       "youtube_id": "oK9BYnEj4Ew",
       "title": "Work From Anywhere $22/HR",
       "tiktok_views": 0,
-      "youtube_views": 55,
+      "youtube_views": 57,
       "youtube_likes": 3,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/oK9BYnEj4Ew/hqdefault.jpg",
@@ -2389,8 +2389,8 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 12377,
-      "youtube_likes": 70,
+      "youtube_views": 17095,
+      "youtube_likes": 87,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
       "status": "uploaded",
@@ -2403,7 +2403,7 @@
       "youtube_id": "rh2Dqc6y-WY",
       "title": "She Knows Dad\u2019s After-Work Routine Too Well \ud83d\ude2d",
       "tiktok_views": 88600,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/rh2Dqc6y-WY/hqdefault.jpg",
@@ -2431,7 +2431,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 110,
+      "youtube_views": 113,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -2473,8 +2473,8 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 24315,
-      "youtube_likes": 106,
+      "youtube_views": 24975,
+      "youtube_likes": 114,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
       "status": "uploaded",
@@ -2487,7 +2487,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 2832,
+      "youtube_views": 3060,
       "youtube_likes": 9,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -2599,7 +2599,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 226,
+      "youtube_views": 227,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -2613,7 +2613,7 @@
       "youtube_id": "BOYWYj2Iix8",
       "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
       "tiktok_views": 0,
-      "youtube_views": 51,
+      "youtube_views": 53,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -3282,21 +3282,21 @@
       },
       {
         "date": "2026-09-18",
-        "views": 8,
+        "views": 9,
         "uploads": 3,
-        "cumulative_views": 417
+        "cumulative_views": 418
       },
       {
         "date": "2026-09-19",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 419
+        "cumulative_views": 420
       },
       {
         "date": "2026-09-20",
         "views": 0,
         "uploads": 2,
-        "cumulative_views": 419
+        "cumulative_views": 420
       }
     ],
     "videos": [
@@ -3377,7 +3377,7 @@
         "youtube_id": "rh2Dqc6y-WY",
         "title": "She Knows Dad\u2019s After-Work Routine Too Well \ud83d\ude2d",
         "tiktok_views": 88600,
-        "youtube_views": 4,
+        "youtube_views": 5,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/rh2Dqc6y-WY/hqdefault.jpg",
@@ -3925,9 +3925,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 97,
+    "total_uploads": 98,
     "total_views": 26185,
-    "total_likes": 296,
+    "total_likes": 350,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4158,5 +4158,5 @@
       "created_at": "2026-09-14T17:16:13.562570+00:00"
     }
   ],
-  "last_updated": "2026-09-20T17:30:53.071454+00:00"
+  "last_updated": "2026-09-20T22:16:30.430239+00:00"
 }
