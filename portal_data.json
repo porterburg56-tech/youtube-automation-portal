@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 102,
     "total_views": 26185,
-    "total_likes": 358,
+    "total_likes": 359,
     "total_subscribers": 56,
     "channels_count": 4,
     "videos_per_day": 12
@@ -84,33 +84,33 @@
       "date": "2026-09-18",
       "ch1_views": 417,
       "ch2_views": 217,
-      "ch3_views": 28678,
+      "ch3_views": 28702,
       "ch4_views": 0,
-      "total_views": 29312
+      "total_views": 29336
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 419,
-      "ch2_views": 246,
-      "ch3_views": 77821,
+      "ch1_views": 418,
+      "ch2_views": 247,
+      "ch3_views": 77935,
       "ch4_views": 57,
-      "total_views": 78543
+      "total_views": 78657
     },
     {
       "date": "2026-09-20",
-      "ch1_views": 419,
-      "ch2_views": 250,
-      "ch3_views": 79265,
+      "ch1_views": 418,
+      "ch2_views": 249,
+      "ch3_views": 79379,
       "ch4_views": 116,
-      "total_views": 80050
+      "total_views": 80162
     },
     {
       "date": "2026-09-21",
       "ch1_views": 0,
-      "ch2_views": 250,
-      "ch3_views": 79265,
+      "ch2_views": 249,
+      "ch3_views": 79433,
       "ch4_views": 0,
-      "total_views": 79515
+      "total_views": 79682
     }
   ],
   "channels": {
@@ -215,15 +215,15 @@
         },
         {
           "date": "2026-09-19",
-          "views": 2,
+          "views": 1,
           "uploads": 3,
-          "cumulative_views": 419
+          "cumulative_views": 418
         },
         {
           "date": "2026-09-20",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 419
+          "cumulative_views": 418
         }
       ],
       "videos": [
@@ -290,7 +290,7 @@
           "youtube_id": "5EKYNa1GBmU",
           "title": "Grandma Got Up From the Recliner and So Did the Baby \ud83d\ude02",
           "tiktok_views": 1582,
-          "youtube_views": 2,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/5EKYNa1GBmU/hqdefault.jpg",
@@ -958,21 +958,21 @@
         },
         {
           "date": "2026-09-19",
-          "views": 29,
+          "views": 30,
           "uploads": 2,
-          "cumulative_views": 246
+          "cumulative_views": 247
         },
         {
           "date": "2026-09-20",
-          "views": 4,
+          "views": 2,
           "uploads": 3,
-          "cumulative_views": 250
+          "cumulative_views": 249
         },
         {
           "date": "2026-09-21",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 250
+          "cumulative_views": 249
         }
       ],
       "videos": [
@@ -997,7 +997,7 @@
           "youtube_id": "IBPnWvNfvfU",
           "title": "Italian Chef\u2019s Secret Omelet Trick \ud83e\udd5a\ud83e\udd53",
           "tiktok_views": 328800,
-          "youtube_views": 2,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/IBPnWvNfvfU/hqdefault.jpg",
@@ -1053,7 +1053,7 @@
           "youtube_id": "mOAAawjGD20",
           "title": "Cheesy Ground Beef & Potato Bake \u2728",
           "tiktok_views": 52800,
-          "youtube_views": 19,
+          "youtube_views": 20,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/mOAAawjGD20/hqdefault.jpg",
@@ -1617,7 +1617,7 @@
       "subscribers": 52,
       "total_uploads": 12,
       "total_views": 25345,
-      "total_likes": 351,
+      "total_likes": 352,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1653,27 +1653,27 @@
         },
         {
           "date": "2026-09-18",
-          "views": 28370,
+          "views": 28394,
           "uploads": 3,
-          "cumulative_views": 28678
+          "cumulative_views": 28702
         },
         {
           "date": "2026-09-19",
-          "views": 49143,
+          "views": 49233,
           "uploads": 3,
-          "cumulative_views": 77821
+          "cumulative_views": 77935
         },
         {
           "date": "2026-09-20",
           "views": 1444,
           "uploads": 3,
-          "cumulative_views": 79265
+          "cumulative_views": 79379
         },
         {
           "date": "2026-09-21",
-          "views": 0,
+          "views": 54,
           "uploads": 1,
-          "cumulative_views": 79265
+          "cumulative_views": 79433
         }
       ],
       "videos": [
@@ -1684,12 +1684,12 @@
           "youtube_id": "yz1J9rgBz6Y",
           "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 0,
-          "youtube_likes": 0,
+          "youtube_views": 54,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-21T01:25:28Z"
+          "uploaded_at": "2026-09-21T01:25:51Z"
         },
         {
           "channel_id": "channel_3",
@@ -1740,7 +1740,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 7606,
+          "youtube_views": 7655,
           "youtube_likes": 35,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1754,7 +1754,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 24420,
+          "youtube_views": 24462,
           "youtube_likes": 98,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1768,7 +1768,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 17117,
+          "youtube_views": 17116,
           "youtube_likes": 87,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1782,7 +1782,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 124,
+          "youtube_views": 129,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1796,7 +1796,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 25150,
+          "youtube_views": 25169,
           "youtube_likes": 114,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2113,6 +2113,16 @@
       ],
       "runs": [
         {
+          "id": 12,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-09-21",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
+          "created_at": "2026-09-21T01:31:45.684351+00:00"
+        },
+        {
           "id": 11,
           "channel_id": "channel_4",
           "slot": 2,
@@ -2223,12 +2233,12 @@
       "youtube_id": "yz1J9rgBz6Y",
       "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
+      "youtube_views": 54,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-21T01:25:28Z"
+      "uploaded_at": "2026-09-21T01:25:51Z"
     },
     {
       "channel_id": "channel_2",
@@ -2279,7 +2289,7 @@
       "youtube_id": "IBPnWvNfvfU",
       "title": "Italian Chef\u2019s Secret Omelet Trick \ud83e\udd5a\ud83e\udd53",
       "tiktok_views": 328800,
-      "youtube_views": 2,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/IBPnWvNfvfU/hqdefault.jpg",
@@ -2419,7 +2429,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 7606,
+      "youtube_views": 7655,
       "youtube_likes": 35,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -2447,7 +2457,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 24420,
+      "youtube_views": 24462,
       "youtube_likes": 98,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -2461,7 +2471,7 @@
       "youtube_id": "5EKYNa1GBmU",
       "title": "Grandma Got Up From the Recliner and So Did the Baby \ud83d\ude02",
       "tiktok_views": 1582,
-      "youtube_views": 2,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/5EKYNa1GBmU/hqdefault.jpg",
@@ -2475,7 +2485,7 @@
       "youtube_id": "mOAAawjGD20",
       "title": "Cheesy Ground Beef & Potato Bake \u2728",
       "tiktok_views": 52800,
-      "youtube_views": 19,
+      "youtube_views": 20,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/mOAAawjGD20/hqdefault.jpg",
@@ -2517,7 +2527,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 17117,
+      "youtube_views": 17116,
       "youtube_likes": 87,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -2559,7 +2569,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 124,
+      "youtube_views": 129,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -2601,7 +2611,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 25150,
+      "youtube_views": 25169,
       "youtube_likes": 114,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -3368,15 +3378,15 @@
       },
       {
         "date": "2026-09-19",
-        "views": 2,
+        "views": 1,
         "uploads": 3,
-        "cumulative_views": 419
+        "cumulative_views": 418
       },
       {
         "date": "2026-09-20",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 419
+        "cumulative_views": 418
       }
     ],
     "videos": [
@@ -3443,7 +3453,7 @@
         "youtube_id": "5EKYNa1GBmU",
         "title": "Grandma Got Up From the Recliner and So Did the Baby \ud83d\ude02",
         "tiktok_views": 1582,
-        "youtube_views": 2,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/5EKYNa1GBmU/hqdefault.jpg",
@@ -4007,7 +4017,7 @@
   "kpis": {
     "total_uploads": 102,
     "total_views": 26185,
-    "total_likes": 358,
+    "total_likes": 359,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4238,5 +4248,5 @@
       "created_at": "2026-09-14T23:39:37.458471+00:00"
     }
   ],
-  "last_updated": "2026-09-21T01:25:36.872769+00:00"
+  "last_updated": "2026-09-21T01:31:49.945923+00:00"
 }
