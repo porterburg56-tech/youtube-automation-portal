@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 108,
     "total_views": 84010,
-    "total_likes": 428,
+    "total_likes": 429,
     "total_subscribers": 62,
     "channels_count": 4,
     "videos_per_day": 12
@@ -76,33 +76,33 @@
       "date": "2026-09-18",
       "ch1_views": 416,
       "ch2_views": 214,
-      "ch3_views": 29556,
+      "ch3_views": 29541,
       "ch4_views": 0,
-      "total_views": 30186
+      "total_views": 30171
     },
     {
       "date": "2026-09-19",
       "ch1_views": 418,
       "ch2_views": 244,
-      "ch3_views": 88654,
+      "ch3_views": 88745,
       "ch4_views": 62,
-      "total_views": 89378
+      "total_views": 89469
     },
     {
       "date": "2026-09-20",
       "ch1_views": 421,
-      "ch2_views": 258,
-      "ch3_views": 90346,
+      "ch2_views": 256,
+      "ch3_views": 90430,
       "ch4_views": 170,
-      "total_views": 91195
+      "total_views": 91277
     },
     {
       "date": "2026-09-21",
       "ch1_views": 421,
-      "ch2_views": 263,
-      "ch3_views": 92923,
+      "ch2_views": 261,
+      "ch3_views": 93014,
       "ch4_views": 0,
-      "total_views": 93607
+      "total_views": 93696
     }
   ],
   "channels": {
@@ -950,15 +950,15 @@
         },
         {
           "date": "2026-09-20",
-          "views": 14,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 258
+          "cumulative_views": 256
         },
         {
           "date": "2026-09-21",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 263
+          "cumulative_views": 261
         }
       ],
       "videos": [
@@ -1011,7 +1011,7 @@
           "youtube_id": "IBPnWvNfvfU",
           "title": "Italian Chef\u2019s Secret Omelet Trick \ud83e\udd5a\ud83e\udd53",
           "tiktok_views": 328800,
-          "youtube_views": 11,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/IBPnWvNfvfU/hqdefault.jpg",
@@ -1603,7 +1603,7 @@
       "subscribers": 58,
       "total_uploads": 14,
       "total_views": 82953,
-      "total_likes": 421,
+      "total_likes": 422,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1639,27 +1639,27 @@
         },
         {
           "date": "2026-09-18",
-          "views": 29244,
+          "views": 29229,
           "uploads": 3,
-          "cumulative_views": 29556
+          "cumulative_views": 29541
         },
         {
           "date": "2026-09-19",
-          "views": 59098,
+          "views": 59204,
           "uploads": 3,
-          "cumulative_views": 88654
+          "cumulative_views": 88745
         },
         {
           "date": "2026-09-20",
-          "views": 1692,
+          "views": 1685,
           "uploads": 3,
-          "cumulative_views": 90346
+          "cumulative_views": 90430
         },
         {
           "date": "2026-09-21",
-          "views": 2577,
+          "views": 2584,
           "uploads": 3,
-          "cumulative_views": 92923
+          "cumulative_views": 93014
         }
       ],
       "videos": [
@@ -1675,7 +1675,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-tqwlkndIoo/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-21T22:20:37Z"
+          "uploaded_at": "2026-09-21T22:20:54Z"
         },
         {
           "channel_id": "channel_3",
@@ -1698,7 +1698,7 @@
           "youtube_id": "yz1J9rgBz6Y",
           "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 1669,
+          "youtube_views": 1676,
           "youtube_likes": 13,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
@@ -1712,7 +1712,7 @@
           "youtube_id": "YK449kpd7UU",
           "title": "Hands extracting paste from toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 23,
+          "youtube_views": 25,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YK449kpd7UU/hqdefault.jpg",
@@ -1726,8 +1726,8 @@
           "youtube_id": "LiAhcCZMDCY",
           "title": "Removing fluid from under nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 53,
-          "youtube_likes": 0,
+          "youtube_views": 54,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/LiAhcCZMDCY/hqdefault.jpg",
           "status": "uploaded",
@@ -1740,7 +1740,7 @@
           "youtube_id": "CZy_OtHy3DU",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1616,
+          "youtube_views": 1606,
           "youtube_likes": 6,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
@@ -1754,7 +1754,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 13498,
+          "youtube_views": 13573,
           "youtube_likes": 65,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1768,7 +1768,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 28109,
+          "youtube_views": 28140,
           "youtube_likes": 109,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1824,7 +1824,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 3235,
+          "youtube_views": 3220,
           "youtube_likes": 10,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -2147,6 +2147,16 @@
       ],
       "runs": [
         {
+          "id": 14,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-09-21",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
+          "created_at": "2026-09-21T22:26:52.507328+00:00"
+        },
+        {
           "id": 13,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2282,7 +2292,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-tqwlkndIoo/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-21T22:20:37Z"
+      "uploaded_at": "2026-09-21T22:20:54Z"
     },
     {
       "channel_id": "channel_2",
@@ -2361,7 +2371,7 @@
       "youtube_id": "yz1J9rgBz6Y",
       "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 1669,
+      "youtube_views": 1676,
       "youtube_likes": 13,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
@@ -2403,7 +2413,7 @@
       "youtube_id": "YK449kpd7UU",
       "title": "Hands extracting paste from toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 23,
+      "youtube_views": 25,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YK449kpd7UU/hqdefault.jpg",
@@ -2417,7 +2427,7 @@
       "youtube_id": "IBPnWvNfvfU",
       "title": "Italian Chef\u2019s Secret Omelet Trick \ud83e\udd5a\ud83e\udd53",
       "tiktok_views": 328800,
-      "youtube_views": 11,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/IBPnWvNfvfU/hqdefault.jpg",
@@ -2431,8 +2441,8 @@
       "youtube_id": "LiAhcCZMDCY",
       "title": "Removing fluid from under nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 53,
-      "youtube_likes": 0,
+      "youtube_views": 54,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/LiAhcCZMDCY/hqdefault.jpg",
       "status": "uploaded",
@@ -2515,7 +2525,7 @@
       "youtube_id": "CZy_OtHy3DU",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1616,
+      "youtube_views": 1606,
       "youtube_likes": 6,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
@@ -2557,7 +2567,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 13498,
+      "youtube_views": 13573,
       "youtube_likes": 65,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -2585,7 +2595,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 28109,
+      "youtube_views": 28140,
       "youtube_likes": 109,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -2753,7 +2763,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 3235,
+      "youtube_views": 3220,
       "youtube_likes": 10,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -4089,7 +4099,7 @@
   "kpis": {
     "total_uploads": 108,
     "total_views": 84010,
-    "total_likes": 428,
+    "total_likes": 429,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4320,5 +4330,5 @@
       "created_at": "2026-09-15T17:16:11.973677+00:00"
     }
   ],
-  "last_updated": "2026-09-21T22:20:43.076281+00:00"
+  "last_updated": "2026-09-21T22:26:57.204324+00:00"
 }
