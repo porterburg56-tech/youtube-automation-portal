@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 107,
+    "total_uploads": 108,
     "total_views": 84010,
-    "total_likes": 427,
+    "total_likes": 428,
     "total_subscribers": 62,
     "channels_count": 4,
     "videos_per_day": 12
@@ -11,98 +11,98 @@
     {
       "date": "2026-09-10",
       "ch1_views": 0,
-      "ch2_views": 5,
+      "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 5
+      "total_views": 0
     },
     {
       "date": "2026-09-11",
       "ch1_views": 7,
-      "ch2_views": 16,
+      "ch2_views": 11,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 23
+      "total_views": 18
     },
     {
       "date": "2026-09-12",
       "ch1_views": 375,
-      "ch2_views": 23,
+      "ch2_views": 18,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 398
+      "total_views": 393
     },
     {
       "date": "2026-09-13",
       "ch1_views": 391,
-      "ch2_views": 61,
+      "ch2_views": 56,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 452
+      "total_views": 447
     },
     {
       "date": "2026-09-14",
       "ch1_views": 393,
-      "ch2_views": 120,
+      "ch2_views": 115,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 513
+      "total_views": 508
     },
     {
       "date": "2026-09-15",
       "ch1_views": 394,
-      "ch2_views": 165,
+      "ch2_views": 160,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 559
+      "total_views": 554
     },
     {
       "date": "2026-09-16",
       "ch1_views": 404,
-      "ch2_views": 170,
+      "ch2_views": 165,
       "ch3_views": 312,
       "ch4_views": 0,
-      "total_views": 886
+      "total_views": 881
     },
     {
       "date": "2026-09-17",
       "ch1_views": 407,
-      "ch2_views": 180,
+      "ch2_views": 175,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 587
+      "total_views": 582
     },
     {
       "date": "2026-09-18",
       "ch1_views": 416,
-      "ch2_views": 219,
+      "ch2_views": 214,
       "ch3_views": 29556,
       "ch4_views": 0,
-      "total_views": 30191
+      "total_views": 30186
     },
     {
       "date": "2026-09-19",
       "ch1_views": 418,
-      "ch2_views": 249,
-      "ch3_views": 88624,
+      "ch2_views": 244,
+      "ch3_views": 88654,
       "ch4_views": 62,
-      "total_views": 89353
+      "total_views": 89378
     },
     {
       "date": "2026-09-20",
       "ch1_views": 421,
-      "ch2_views": 263,
-      "ch3_views": 90316,
+      "ch2_views": 258,
+      "ch3_views": 90346,
       "ch4_views": 170,
-      "total_views": 91170
+      "total_views": 91195
     },
     {
       "date": "2026-09-21",
       "ch1_views": 421,
-      "ch2_views": 268,
-      "ch3_views": 92893,
+      "ch2_views": 263,
+      "ch3_views": 92923,
       "ch4_views": 0,
-      "total_views": 93582
+      "total_views": 93607
     }
   ],
   "channels": {
@@ -890,78 +890,92 @@
       "view_history": [
         {
           "date": "2026-09-10",
-          "views": 5,
-          "uploads": 2,
-          "cumulative_views": 5
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 0
         },
         {
           "date": "2026-09-11",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 16
+          "cumulative_views": 11
         },
         {
           "date": "2026-09-12",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 23
+          "cumulative_views": 18
         },
         {
           "date": "2026-09-13",
           "views": 38,
           "uploads": 3,
-          "cumulative_views": 61
+          "cumulative_views": 56
         },
         {
           "date": "2026-09-14",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 120
+          "cumulative_views": 115
         },
         {
           "date": "2026-09-15",
           "views": 45,
           "uploads": 3,
-          "cumulative_views": 165
+          "cumulative_views": 160
         },
         {
           "date": "2026-09-16",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 170
+          "cumulative_views": 165
         },
         {
           "date": "2026-09-17",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 180
+          "cumulative_views": 175
         },
         {
           "date": "2026-09-18",
           "views": 39,
           "uploads": 2,
-          "cumulative_views": 219
+          "cumulative_views": 214
         },
         {
           "date": "2026-09-19",
           "views": 30,
           "uploads": 2,
-          "cumulative_views": 249
+          "cumulative_views": 244
         },
         {
           "date": "2026-09-20",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 263
+          "cumulative_views": 258
         },
         {
           "date": "2026-09-21",
           "views": 5,
-          "uploads": 2,
-          "cumulative_views": 268
+          "uploads": 3,
+          "cumulative_views": 263
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7647609082626460942",
+          "youtube_id": "Zylx7Mdmo3Y",
+          "title": "French-Style Cream-Filled Puff Pastry Cones \u2728",
+          "tiktok_views": 147400,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/Zylx7Mdmo3Y/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-21T22:17:28Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1367,20 +1381,6 @@
           "thumbnail": "https://i.ytimg.com/vi/cql8Z24wBDw/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-10T22:20:07Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7683235333076421902",
-          "youtube_id": "ZN83SQT-bYI",
-          "title": "\ud83c\udf7a Beer-Braised Beef with Creamy Parmesan Mashed Potatoes #BeerBraised...",
-          "tiktok_views": 39100,
-          "youtube_views": 5,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/ZN83SQT-bYI/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-10T07:10:11Z"
         }
       ],
       "runs": [
@@ -1601,9 +1601,9 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 58,
-      "total_uploads": 13,
+      "total_uploads": 14,
       "total_views": 82953,
-      "total_likes": 420,
+      "total_likes": 421,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1645,24 +1645,38 @@
         },
         {
           "date": "2026-09-19",
-          "views": 59068,
+          "views": 59098,
           "uploads": 3,
-          "cumulative_views": 88624
+          "cumulative_views": 88654
         },
         {
           "date": "2026-09-20",
           "views": 1692,
           "uploads": 3,
-          "cumulative_views": 90316
+          "cumulative_views": 90346
         },
         {
           "date": "2026-09-21",
           "views": 2577,
-          "uploads": 2,
-          "cumulative_views": 92893
+          "uploads": 3,
+          "cumulative_views": 92923
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1Rpog9f2_p9p4yRxnVf3j_ahrIAer6BcB",
+          "youtube_id": "-tqwlkndIoo",
+          "title": "Hands extracting debris from nail \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/-tqwlkndIoo/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-21T22:20:37Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1741,7 +1755,7 @@
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
           "youtube_views": 13498,
-          "youtube_likes": 64,
+          "youtube_likes": 65,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
           "status": "uploaded",
@@ -1754,7 +1768,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 28079,
+          "youtube_views": 28109,
           "youtube_likes": 109,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1847,6 +1861,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 22,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-09-21",
+          "status": "success",
+          "video_id": "-tqwlkndIoo",
+          "error_message": null,
+          "created_at": "2026-09-21T22:20:39.171648+00:00"
+        },
         {
           "id": 21,
           "channel_id": "channel_3",
@@ -2249,6 +2273,34 @@
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1Rpog9f2_p9p4yRxnVf3j_ahrIAer6BcB",
+      "youtube_id": "-tqwlkndIoo",
+      "title": "Hands extracting debris from nail \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/-tqwlkndIoo/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-21T22:20:37Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7647609082626460942",
+      "youtube_id": "Zylx7Mdmo3Y",
+      "title": "French-Style Cream-Filled Puff Pastry Cones \u2728",
+      "tiktok_views": 147400,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/Zylx7Mdmo3Y/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-21T22:17:28Z"
+    },
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "17z9alNxaafI-8atJcNXtUHlzLOUXlBF2",
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
@@ -2506,7 +2558,7 @@
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
       "youtube_views": 13498,
-      "youtube_likes": 64,
+      "youtube_likes": 65,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
       "status": "uploaded",
@@ -2533,7 +2585,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 28079,
+      "youtube_views": 28109,
       "youtube_likes": 109,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -3295,20 +3347,6 @@
       "thumbnail": "https://i.ytimg.com/vi/cql8Z24wBDw/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-10T22:20:07Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7683235333076421902",
-      "youtube_id": "ZN83SQT-bYI",
-      "title": "\ud83c\udf7a Beer-Braised Beef with Creamy Parmesan Mashed Potatoes #BeerBraised...",
-      "tiktok_views": 39100,
-      "youtube_views": 5,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/ZN83SQT-bYI/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-10T07:10:11Z"
     }
   ],
   "channel": {
@@ -4049,9 +4087,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 107,
+    "total_uploads": 108,
     "total_views": 84010,
-    "total_likes": 427,
+    "total_likes": 428,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4282,5 +4320,5 @@
       "created_at": "2026-09-15T17:16:11.973677+00:00"
     }
   ],
-  "last_updated": "2026-09-21T22:17:11.754927+00:00"
+  "last_updated": "2026-09-21T22:20:43.076281+00:00"
 }
