@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 111,
     "total_views": 84010,
-    "total_likes": 443,
+    "total_likes": 445,
     "total_subscribers": 63,
     "channels_count": 4,
     "videos_per_day": 12
@@ -68,41 +68,41 @@
       "date": "2026-09-18",
       "ch1_views": 416,
       "ch2_views": 214,
-      "ch3_views": 29971,
+      "ch3_views": 29980,
       "ch4_views": 0,
-      "total_views": 30601
+      "total_views": 30610
     },
     {
       "date": "2026-09-19",
       "ch1_views": 418,
       "ch2_views": 244,
-      "ch3_views": 91094,
+      "ch3_views": 91147,
       "ch4_views": 62,
-      "total_views": 91818
+      "total_views": 91871
     },
     {
       "date": "2026-09-20",
       "ch1_views": 421,
       "ch2_views": 258,
-      "ch3_views": 92834,
-      "ch4_views": 179,
-      "total_views": 93692
+      "ch3_views": 92909,
+      "ch4_views": 173,
+      "total_views": 93761
     },
     {
       "date": "2026-09-21",
       "ch1_views": 421,
       "ch2_views": 265,
-      "ch3_views": 95773,
+      "ch3_views": 95848,
       "ch4_views": 0,
-      "total_views": 96459
+      "total_views": 96534
     },
     {
       "date": "2026-09-22",
       "ch1_views": 0,
       "ch2_views": 265,
-      "ch3_views": 95773,
+      "ch3_views": 95912,
       "ch4_views": 0,
-      "total_views": 96038
+      "total_views": 96177
     }
   ],
   "channels": {
@@ -1603,7 +1603,7 @@
       "subscribers": 59,
       "total_uploads": 15,
       "total_views": 82953,
-      "total_likes": 436,
+      "total_likes": 438,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1639,33 +1639,33 @@
         },
         {
           "date": "2026-09-18",
-          "views": 29659,
+          "views": 29668,
           "uploads": 3,
-          "cumulative_views": 29971
+          "cumulative_views": 29980
         },
         {
           "date": "2026-09-19",
-          "views": 61123,
+          "views": 61167,
           "uploads": 3,
-          "cumulative_views": 91094
+          "cumulative_views": 91147
         },
         {
           "date": "2026-09-20",
-          "views": 1740,
+          "views": 1762,
           "uploads": 3,
-          "cumulative_views": 92834
+          "cumulative_views": 92909
         },
         {
           "date": "2026-09-21",
           "views": 2939,
           "uploads": 3,
-          "cumulative_views": 95773
+          "cumulative_views": 95848
         },
         {
           "date": "2026-09-22",
-          "views": 0,
+          "views": 64,
           "uploads": 1,
-          "cumulative_views": 95773
+          "cumulative_views": 95912
         }
       ],
       "videos": [
@@ -1676,12 +1676,12 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
-          "youtube_likes": 0,
+          "youtube_views": 64,
+          "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-22T01:22:52Z"
+          "uploaded_at": "2026-09-22T01:23:13Z"
         },
         {
           "channel_id": "channel_3",
@@ -1732,7 +1732,7 @@
           "youtube_id": "YK449kpd7UU",
           "title": "Hands extracting paste from toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 25,
+          "youtube_views": 27,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YK449kpd7UU/hqdefault.jpg",
@@ -1760,7 +1760,7 @@
           "youtube_id": "CZy_OtHy3DU",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1653,
+          "youtube_views": 1673,
           "youtube_likes": 6,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
@@ -1774,7 +1774,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 14672,
+          "youtube_views": 14691,
           "youtube_likes": 71,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1788,7 +1788,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 28831,
+          "youtube_views": 28856,
           "youtube_likes": 113,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1816,7 +1816,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 135,
+          "youtube_views": 134,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1844,7 +1844,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 3240,
+          "youtube_views": 3250,
           "youtube_likes": 10,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -2126,9 +2126,9 @@
         },
         {
           "date": "2026-09-20",
-          "views": 117,
+          "views": 111,
           "uploads": 2,
-          "cumulative_views": 179
+          "cumulative_views": 173
         }
       ],
       "videos": [
@@ -2153,7 +2153,7 @@
           "youtube_id": "SOoUHtAQ7rg",
           "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 117,
+          "youtube_views": 111,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
@@ -2176,6 +2176,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 15,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-09-22",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
+          "created_at": "2026-09-22T01:30:38.063390+00:00"
+        },
         {
           "id": 14,
           "channel_id": "channel_4",
@@ -2317,12 +2327,12 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
+      "youtube_views": 64,
+      "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-22T01:22:52Z"
+      "uploaded_at": "2026-09-22T01:23:13Z"
     },
     {
       "channel_id": "channel_2",
@@ -2485,7 +2495,7 @@
       "youtube_id": "YK449kpd7UU",
       "title": "Hands extracting paste from toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 25,
+      "youtube_views": 27,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YK449kpd7UU/hqdefault.jpg",
@@ -2569,7 +2579,7 @@
       "youtube_id": "SOoUHtAQ7rg",
       "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 117,
+      "youtube_views": 111,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
@@ -2597,7 +2607,7 @@
       "youtube_id": "CZy_OtHy3DU",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1653,
+      "youtube_views": 1673,
       "youtube_likes": 6,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
@@ -2639,7 +2649,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 14672,
+      "youtube_views": 14691,
       "youtube_likes": 71,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -2667,7 +2677,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 28831,
+      "youtube_views": 28856,
       "youtube_likes": 113,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -2779,7 +2789,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 135,
+      "youtube_views": 134,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -2835,7 +2845,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 3240,
+      "youtube_views": 3250,
       "youtube_likes": 10,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -4143,7 +4153,7 @@
   "kpis": {
     "total_uploads": 111,
     "total_views": 84010,
-    "total_likes": 443,
+    "total_likes": 445,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4374,5 +4384,5 @@
       "created_at": "2026-09-15T23:40:05.284389+00:00"
     }
   ],
-  "last_updated": "2026-09-22T01:22:58.355764+00:00"
+  "last_updated": "2026-09-22T01:30:42.928084+00:00"
 }
