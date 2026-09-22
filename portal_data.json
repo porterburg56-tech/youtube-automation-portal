@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 116,
+    "total_uploads": 117,
     "total_views": 100383,
     "total_likes": 497,
     "total_subscribers": 69,
@@ -11,98 +11,98 @@
     {
       "date": "2026-09-11",
       "ch1_views": 0,
-      "ch2_views": 10,
+      "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 10
+      "total_views": 0
     },
     {
       "date": "2026-09-12",
       "ch1_views": 368,
-      "ch2_views": 17,
+      "ch2_views": 7,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 385
+      "total_views": 375
     },
     {
       "date": "2026-09-13",
       "ch1_views": 384,
-      "ch2_views": 56,
+      "ch2_views": 46,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 440
+      "total_views": 430
     },
     {
       "date": "2026-09-14",
       "ch1_views": 386,
-      "ch2_views": 115,
+      "ch2_views": 105,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 501
+      "total_views": 491
     },
     {
       "date": "2026-09-15",
       "ch1_views": 387,
-      "ch2_views": 160,
+      "ch2_views": 150,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 547
+      "total_views": 537
     },
     {
       "date": "2026-09-16",
       "ch1_views": 397,
-      "ch2_views": 165,
+      "ch2_views": 155,
       "ch3_views": 322,
       "ch4_views": 0,
-      "total_views": 884
+      "total_views": 874
     },
     {
       "date": "2026-09-17",
       "ch1_views": 400,
-      "ch2_views": 175,
+      "ch2_views": 165,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 575
+      "total_views": 565
     },
     {
       "date": "2026-09-18",
       "ch1_views": 409,
-      "ch2_views": 216,
+      "ch2_views": 206,
       "ch3_views": 31166,
       "ch4_views": 0,
-      "total_views": 31791
+      "total_views": 31781
     },
     {
       "date": "2026-09-19",
       "ch1_views": 412,
-      "ch2_views": 246,
+      "ch2_views": 236,
       "ch3_views": 97358,
       "ch4_views": 67,
-      "total_views": 98083
+      "total_views": 98073
     },
     {
       "date": "2026-09-20",
       "ch1_views": 415,
-      "ch2_views": 264,
+      "ch2_views": 254,
       "ch3_views": 99377,
       "ch4_views": 208,
-      "total_views": 100264
+      "total_views": 100254
     },
     {
       "date": "2026-09-21",
       "ch1_views": 429,
-      "ch2_views": 285,
-      "ch3_views": 105877,
+      "ch2_views": 275,
+      "ch3_views": 105931,
       "ch4_views": 0,
-      "total_views": 106591
+      "total_views": 106635
     },
     {
       "date": "2026-09-22",
       "ch1_views": 438,
-      "ch2_views": 327,
-      "ch3_views": 109671,
+      "ch2_views": 317,
+      "ch3_views": 109737,
       "ch4_views": 0,
-      "total_views": 110436
+      "total_views": 110492
     }
   ],
   "channels": {
@@ -890,78 +890,92 @@
       "view_history": [
         {
           "date": "2026-09-11",
-          "views": 10,
-          "uploads": 2,
-          "cumulative_views": 10
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 0
         },
         {
           "date": "2026-09-12",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 7
         },
         {
           "date": "2026-09-13",
           "views": 39,
           "uploads": 3,
-          "cumulative_views": 56
+          "cumulative_views": 46
         },
         {
           "date": "2026-09-14",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 115
+          "cumulative_views": 105
         },
         {
           "date": "2026-09-15",
           "views": 45,
           "uploads": 3,
-          "cumulative_views": 160
+          "cumulative_views": 150
         },
         {
           "date": "2026-09-16",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 165
+          "cumulative_views": 155
         },
         {
           "date": "2026-09-17",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 175
+          "cumulative_views": 165
         },
         {
           "date": "2026-09-18",
           "views": 41,
           "uploads": 2,
-          "cumulative_views": 216
+          "cumulative_views": 206
         },
         {
           "date": "2026-09-19",
           "views": 30,
           "uploads": 2,
-          "cumulative_views": 246
+          "cumulative_views": 236
         },
         {
           "date": "2026-09-20",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 264
+          "cumulative_views": 254
         },
         {
           "date": "2026-09-21",
           "views": 21,
           "uploads": 3,
-          "cumulative_views": 285
+          "cumulative_views": 275
         },
         {
           "date": "2026-09-22",
           "views": 42,
-          "uploads": 2,
-          "cumulative_views": 327
+          "uploads": 3,
+          "cumulative_views": 317
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7660960706820410637",
+          "youtube_id": "H6GTYXl8BXU",
+          "title": "No-Bake Chocolate Strawberry Layer Dessert \ud83c\udf53\ud83c\udf6b So Creamy & Easy!",
+          "tiktok_views": 125500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/H6GTYXl8BXU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-22T22:17:58Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1367,20 +1381,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Oa87vgbUaSU/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-11T22:20:45Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7683965585339813134",
-          "youtube_id": "lZw2Y3LiD-M",
-          "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
-          "tiktok_views": 292200,
-          "youtube_views": 10,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-11T16:21:45Z"
         }
       ],
       "runs": [
@@ -1601,7 +1601,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 64,
-      "total_uploads": 16,
+      "total_uploads": 17,
       "total_views": 99240,
       "total_likes": 490,
       "upcoming": {
@@ -1657,18 +1657,32 @@
         },
         {
           "date": "2026-09-21",
-          "views": 6500,
+          "views": 6554,
           "uploads": 3,
-          "cumulative_views": 105877
+          "cumulative_views": 105931
         },
         {
           "date": "2026-09-22",
-          "views": 3794,
-          "uploads": 2,
-          "cumulative_views": 109671
+          "views": 3806,
+          "uploads": 3,
+          "cumulative_views": 109737
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1jInLhBArsx2F_KziKVrnYSTnyaakrmZa",
+          "youtube_id": "d0FdoJRRMek",
+          "title": "Scraping fungal toenail procedure \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-22T22:19:52Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1690,7 +1704,7 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 3788,
+          "youtube_views": 3800,
           "youtube_likes": 13,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -1718,7 +1732,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4490,
+          "youtube_views": 4544,
           "youtube_likes": 27,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1895,6 +1909,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 25,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-09-22",
+          "status": "success",
+          "video_id": "d0FdoJRRMek",
+          "error_message": null,
+          "created_at": "2026-09-22T22:19:57.203011+00:00"
+        },
         {
           "id": 24,
           "channel_id": "channel_3",
@@ -2084,16 +2108,6 @@
           "video_id": null,
           "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
           "created_at": "2026-09-16T22:04:00.774410+00:00"
-        },
-        {
-          "id": 3,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-09-16",
-          "status": "success",
-          "video_id": "POwv_169GCk",
-          "error_message": null,
-          "created_at": "2026-09-16T08:42:40.907628+00:00"
         }
       ]
     },
@@ -2357,6 +2371,34 @@
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1jInLhBArsx2F_KziKVrnYSTnyaakrmZa",
+      "youtube_id": "d0FdoJRRMek",
+      "title": "Scraping fungal toenail procedure \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-22T22:19:52Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7660960706820410637",
+      "youtube_id": "H6GTYXl8BXU",
+      "title": "No-Bake Chocolate Strawberry Layer Dessert \ud83c\udf53\ud83c\udf6b So Creamy & Easy!",
+      "tiktok_views": 125500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/H6GTYXl8BXU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-22T22:17:58Z"
+    },
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1MMzEsp91JXaATAZLqWrlNVM_BDPEiZFd",
       "youtube_id": "9ID09xbf_aI",
       "title": "Medical professional cleaning to\u2026 \ud83d\udc85",
@@ -2417,7 +2459,7 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 3788,
+      "youtube_views": 3800,
       "youtube_likes": 13,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -2487,7 +2529,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4490,
+      "youtube_views": 4544,
       "youtube_likes": 27,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -3445,20 +3487,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Oa87vgbUaSU/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-11T22:20:45Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7683965585339813134",
-      "youtube_id": "lZw2Y3LiD-M",
-      "title": "Crispy Minced Meat Puff Pastry Pie \ud83e\udd24 PuffPastry EasyDinner SavoryP",
-      "tiktok_views": 292200,
-      "youtube_views": 10,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/lZw2Y3LiD-M/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-11T16:21:45Z"
     }
   ],
   "channel": {
@@ -4199,7 +4227,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 116,
+    "total_uploads": 117,
     "total_views": 100383,
     "total_likes": 497,
     "videos_per_day": 12
@@ -4432,5 +4460,5 @@
       "created_at": "2026-09-16T17:16:05.368693+00:00"
     }
   ],
-  "last_updated": "2026-09-22T22:17:04.606895+00:00"
+  "last_updated": "2026-09-22T22:20:01.197068+00:00"
 }
