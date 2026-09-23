@@ -1,9 +1,9 @@
 {
   "cumulative": {
-    "total_uploads": 121,
-    "total_views": 100400,
-    "total_likes": 511,
-    "total_subscribers": 72,
+    "total_uploads": 122,
+    "total_views": 105990,
+    "total_likes": 571,
+    "total_subscribers": 78,
     "channels_count": 4,
     "videos_per_day": 12
   },
@@ -19,90 +19,90 @@
     {
       "date": "2026-09-13",
       "ch1_views": 379,
-      "ch2_views": 46,
+      "ch2_views": 47,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 425
+      "total_views": 426
     },
     {
       "date": "2026-09-14",
       "ch1_views": 381,
-      "ch2_views": 105,
+      "ch2_views": 106,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 486
+      "total_views": 487
     },
     {
       "date": "2026-09-15",
       "ch1_views": 382,
-      "ch2_views": 150,
+      "ch2_views": 151,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 532
+      "total_views": 533
     },
     {
       "date": "2026-09-16",
       "ch1_views": 392,
-      "ch2_views": 155,
-      "ch3_views": 322,
+      "ch2_views": 156,
+      "ch3_views": 326,
       "ch4_views": 0,
-      "total_views": 869
+      "total_views": 874
     },
     {
       "date": "2026-09-17",
       "ch1_views": 395,
-      "ch2_views": 165,
+      "ch2_views": 166,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 560
+      "total_views": 561
     },
     {
       "date": "2026-09-18",
       "ch1_views": 404,
-      "ch2_views": 206,
-      "ch3_views": 31515,
+      "ch2_views": 208,
+      "ch3_views": 31928,
       "ch4_views": 0,
-      "total_views": 32125
+      "total_views": 32540
     },
     {
       "date": "2026-09-19",
       "ch1_views": 407,
-      "ch2_views": 236,
-      "ch3_views": 98536,
+      "ch2_views": 238,
+      "ch3_views": 100425,
       "ch4_views": 67,
-      "total_views": 99246
+      "total_views": 101137
     },
     {
       "date": "2026-09-20",
       "ch1_views": 410,
-      "ch2_views": 255,
-      "ch3_views": 100626,
-      "ch4_views": 209,
-      "total_views": 101500
+      "ch2_views": 258,
+      "ch3_views": 102640,
+      "ch4_views": 230,
+      "total_views": 103538
     },
     {
       "date": "2026-09-21",
       "ch1_views": 424,
-      "ch2_views": 276,
-      "ch3_views": 109328,
+      "ch2_views": 284,
+      "ch3_views": 117580,
       "ch4_views": 0,
-      "total_views": 110028
+      "total_views": 118288
     },
     {
       "date": "2026-09-22",
       "ch1_views": 437,
-      "ch2_views": 322,
-      "ch3_views": 113470,
+      "ch2_views": 347,
+      "ch3_views": 122425,
       "ch4_views": 0,
-      "total_views": 114229
+      "total_views": 123209
     },
     {
       "date": "2026-09-23",
-      "ch1_views": 0,
-      "ch2_views": 322,
-      "ch3_views": 113470,
+      "ch1_views": 437,
+      "ch2_views": 348,
+      "ch3_views": 122439,
       "ch4_views": 0,
-      "total_views": 113792
+      "total_views": 123224
     }
   ],
   "channels": {
@@ -154,7 +154,7 @@
         {
           "date": "2026-09-12",
           "views": 363,
-          "uploads": 2,
+          "uploads": 1,
           "cumulative_views": 363
         },
         {
@@ -216,9 +216,29 @@
           "views": 13,
           "uploads": 3,
           "cumulative_views": 437
+        },
+        {
+          "date": "2026-09-23",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 437
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7680549553862429966",
+          "youtube_id": "3naKmF9MNKk",
+          "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25",
+          "tiktok_views": 45900,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/3naKmF9MNKk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-23T02:09:49Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -624,20 +644,6 @@
           "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-12T23:38:58Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7684612468898860301",
-          "youtube_id": "wNqLCXRd67k",
-          "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet",
-          "tiktok_views": 2332,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/wNqLCXRd67k/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-12T17:15:58Z"
         }
       ],
       "runs": [
@@ -858,9 +864,9 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 49,
-      "total_views": 453,
-      "total_likes": 0,
+      "total_uploads": 50,
+      "total_views": 488,
+      "total_likes": 1,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -896,69 +902,69 @@
         },
         {
           "date": "2026-09-13",
-          "views": 39,
+          "views": 40,
           "uploads": 3,
-          "cumulative_views": 46
+          "cumulative_views": 47
         },
         {
           "date": "2026-09-14",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 105
+          "cumulative_views": 106
         },
         {
           "date": "2026-09-15",
           "views": 45,
           "uploads": 3,
-          "cumulative_views": 150
+          "cumulative_views": 151
         },
         {
           "date": "2026-09-16",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 155
+          "cumulative_views": 156
         },
         {
           "date": "2026-09-17",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 165
+          "cumulative_views": 166
         },
         {
           "date": "2026-09-18",
-          "views": 41,
+          "views": 42,
           "uploads": 2,
-          "cumulative_views": 206
+          "cumulative_views": 208
         },
         {
           "date": "2026-09-19",
           "views": 30,
           "uploads": 2,
-          "cumulative_views": 236
+          "cumulative_views": 238
         },
         {
           "date": "2026-09-20",
-          "views": 19,
+          "views": 20,
           "uploads": 3,
-          "cumulative_views": 255
+          "cumulative_views": 258
         },
         {
           "date": "2026-09-21",
-          "views": 21,
+          "views": 26,
           "uploads": 3,
-          "cumulative_views": 276
+          "cumulative_views": 284
         },
         {
           "date": "2026-09-22",
-          "views": 46,
+          "views": 63,
           "uploads": 3,
-          "cumulative_views": 322
+          "cumulative_views": 347
         },
         {
           "date": "2026-09-23",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 322
+          "cumulative_views": 348
         }
       ],
       "videos": [
@@ -969,7 +975,7 @@
           "youtube_id": "tcoP9U4aZhI",
           "title": "Crispy Stuffed Potato Skins with Cheesy Beef & Bacon \u2728",
           "tiktok_views": 103200,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tcoP9U4aZhI/hqdefault.jpg",
@@ -997,7 +1003,7 @@
           "youtube_id": "y6420JKGQyk",
           "title": "No Bake chocolate Caramel Biscuit Cake | Easy Layered Dessert \u2728",
           "tiktok_views": 6789,
-          "youtube_views": 12,
+          "youtube_views": 23,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/y6420JKGQyk/hqdefault.jpg",
@@ -1011,7 +1017,7 @@
           "youtube_id": "XKCjgS6OaOw",
           "title": "The French Secret to the Fluffiest Chocolate Banana Cake \u2728",
           "tiktok_views": 146600,
-          "youtube_views": 33,
+          "youtube_views": 39,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XKCjgS6OaOw/hqdefault.jpg",
@@ -1025,7 +1031,7 @@
           "youtube_id": "Zylx7Mdmo3Y",
           "title": "French-Style Cream-Filled Puff Pastry Cones \u2728",
           "tiktok_views": 147400,
-          "youtube_views": 7,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Zylx7Mdmo3Y/hqdefault.jpg",
@@ -1039,7 +1045,7 @@
           "youtube_id": "SUB7W4dNQHg",
           "title": "Crispy Cabbage Croquettes with Garlic Yogurt Sauce \u2728",
           "tiktok_views": 202600,
-          "youtube_views": 10,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SUB7W4dNQHg/hqdefault.jpg",
@@ -1053,8 +1059,8 @@
           "youtube_id": "HTR-p9tR5hg",
           "title": "Easy Homemade Cream Cheese Recipe with Just a Few Ingredients \u2728",
           "tiktok_views": 197300,
-          "youtube_views": 4,
-          "youtube_likes": 0,
+          "youtube_views": 5,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/HTR-p9tR5hg/hqdefault.jpg",
           "status": "uploaded",
@@ -1067,7 +1073,7 @@
           "youtube_id": "IBPnWvNfvfU",
           "title": "Italian Chef\u2019s Secret Omelet Trick \ud83e\udd5a\ud83e\udd53",
           "tiktok_views": 328800,
-          "youtube_views": 15,
+          "youtube_views": 16,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/IBPnWvNfvfU/hqdefault.jpg",
@@ -1137,7 +1143,7 @@
           "youtube_id": "HBPnQVJ8tj8",
           "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
           "tiktok_views": 521300,
-          "youtube_views": 38,
+          "youtube_views": 39,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -1305,7 +1311,7 @@
           "youtube_id": "a7u_O65DeEk",
           "title": "The Secret to the Juiciest Stuffed Cabbage with Bacon StuffedCabbag",
           "tiktok_views": 767700,
-          "youtube_views": 13,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
@@ -1384,6 +1390,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 59,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-23",
+          "status": "success",
+          "video_id": "v6QMmIKKeIw",
+          "error_message": null,
+          "created_at": "2026-09-23T16:10:59.446469+00:00"
+        },
         {
           "id": 58,
           "channel_id": "channel_2",
@@ -1573,16 +1589,6 @@
           "video_id": "9viy7TJKYLM",
           "error_message": null,
           "created_at": "2026-09-16T22:21:19.963454+00:00"
-        },
-        {
-          "id": 36,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-16",
-          "status": "success",
-          "video_id": "TRaOzblj_aI",
-          "error_message": null,
-          "created_at": "2026-09-16T16:20:15.461544+00:00"
         }
       ]
     },
@@ -1600,10 +1606,10 @@
       "avatar": "https://yt3.ggpht.com/_ywAP0n0twSZRvZz7t_X5vS00F5NlWoAQXH-s9AjKEmY1Tb_Xnw3mSnojDjYZBXULnhq2FE7fA=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
-      "subscribers": 67,
+      "subscribers": 73,
       "total_uploads": 18,
-      "total_views": 99240,
-      "total_likes": 504,
+      "total_views": 104778,
+      "total_likes": 563,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1633,45 +1639,45 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 322,
+          "views": 326,
           "uploads": 2,
-          "cumulative_views": 322
+          "cumulative_views": 326
         },
         {
           "date": "2026-09-18",
-          "views": 31193,
+          "views": 31602,
           "uploads": 3,
-          "cumulative_views": 31515
+          "cumulative_views": 31928
         },
         {
           "date": "2026-09-19",
-          "views": 67021,
+          "views": 68497,
           "uploads": 3,
-          "cumulative_views": 98536
+          "cumulative_views": 100425
         },
         {
           "date": "2026-09-20",
-          "views": 2090,
+          "views": 2215,
           "uploads": 3,
-          "cumulative_views": 100626
+          "cumulative_views": 102640
         },
         {
           "date": "2026-09-21",
-          "views": 8702,
+          "views": 14940,
           "uploads": 3,
-          "cumulative_views": 109328
+          "cumulative_views": 117580
         },
         {
           "date": "2026-09-22",
-          "views": 4142,
+          "views": 4845,
           "uploads": 3,
-          "cumulative_views": 113470
+          "cumulative_views": 122425
         },
         {
           "date": "2026-09-23",
-          "views": 0,
+          "views": 14,
           "uploads": 1,
-          "cumulative_views": 113470
+          "cumulative_views": 122439
         }
       ],
       "videos": [
@@ -1682,8 +1688,8 @@
           "youtube_id": "YJ35UWmoXh8",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 0,
-          "youtube_likes": 0,
+          "youtube_views": 14,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
           "status": "uploaded",
@@ -1696,7 +1702,7 @@
           "youtube_id": "d0FdoJRRMek",
           "title": "Scraping fungal toenail procedure \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 20,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -1710,8 +1716,8 @@
           "youtube_id": "9ID09xbf_aI",
           "title": "Medical professional cleaning to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 10,
-          "youtube_likes": 0,
+          "youtube_views": 26,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9ID09xbf_aI/hqdefault.jpg",
           "status": "uploaded",
@@ -1724,8 +1730,8 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4128,
-          "youtube_likes": 15,
+          "youtube_views": 4799,
+          "youtube_likes": 16,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
           "status": "uploaded",
@@ -1738,8 +1744,8 @@
           "youtube_id": "-tqwlkndIoo",
           "title": "Hands extracting debris from nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 23,
-          "youtube_likes": 1,
+          "youtube_views": 47,
+          "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-tqwlkndIoo/hqdefault.jpg",
           "status": "uploaded",
@@ -1752,8 +1758,8 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6565,
-          "youtube_likes": 34,
+          "youtube_views": 12670,
+          "youtube_likes": 81,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
           "status": "uploaded",
@@ -1766,8 +1772,8 @@
           "youtube_id": "yz1J9rgBz6Y",
           "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 2114,
-          "youtube_likes": 15,
+          "youtube_views": 2223,
+          "youtube_likes": 16,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
           "status": "uploaded",
@@ -1780,7 +1786,7 @@
           "youtube_id": "YK449kpd7UU",
           "title": "Hands extracting paste from toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 53,
+          "youtube_views": 61,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YK449kpd7UU/hqdefault.jpg",
@@ -1794,7 +1800,7 @@
           "youtube_id": "LiAhcCZMDCY",
           "title": "Removing fluid from under nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 79,
+          "youtube_views": 86,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/LiAhcCZMDCY/hqdefault.jpg",
@@ -1808,8 +1814,8 @@
           "youtube_id": "CZy_OtHy3DU",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 1958,
-          "youtube_likes": 7,
+          "youtube_views": 2068,
+          "youtube_likes": 8,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
           "status": "uploaded",
@@ -1822,7 +1828,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 17403,
+          "youtube_views": 17573,
           "youtube_likes": 82,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1836,8 +1842,8 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 31284,
-          "youtube_likes": 120,
+          "youtube_views": 32303,
+          "youtube_likes": 126,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
           "status": "uploaded",
@@ -1850,7 +1856,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18334,
+          "youtube_views": 18621,
           "youtube_likes": 91,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1864,7 +1870,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 221,
+          "youtube_views": 245,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1878,7 +1884,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 27657,
+          "youtube_views": 28018,
           "youtube_likes": 122,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1892,7 +1898,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 3315,
+          "youtube_views": 3339,
           "youtube_likes": 10,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -1906,7 +1912,7 @@
           "youtube_id": "POwv_169GCk",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
           "tiktok_views": 0,
-          "youtube_views": 245,
+          "youtube_views": 247,
           "youtube_likes": 3,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -1920,7 +1926,7 @@
           "youtube_id": "BOYWYj2Iix8",
           "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
           "tiktok_views": 0,
-          "youtube_views": 77,
+          "youtube_views": 79,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -2147,7 +2153,7 @@
       "category": "Remote Work & Side Hustles",
       "subscribers": 2,
       "total_uploads": 3,
-      "total_views": 184,
+      "total_views": 201,
       "total_likes": 5,
       "upcoming": {
         "slot1": {
@@ -2184,9 +2190,9 @@
         },
         {
           "date": "2026-09-20",
-          "views": 142,
+          "views": 163,
           "uploads": 2,
-          "cumulative_views": 209
+          "cumulative_views": 230
         }
       ],
       "videos": [
@@ -2211,7 +2217,7 @@
           "youtube_id": "SOoUHtAQ7rg",
           "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 142,
+          "youtube_views": 163,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
@@ -2409,14 +2415,28 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7680549553862429966",
+      "youtube_id": "3naKmF9MNKk",
+      "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25",
+      "tiktok_views": 45900,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/3naKmF9MNKk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-23T02:09:49Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1GOnI6foHcAk-1sM68yVM-4pJkV3sxFbq",
       "youtube_id": "YJ35UWmoXh8",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
+      "youtube_views": 14,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
       "status": "uploaded",
@@ -2429,7 +2449,7 @@
       "youtube_id": "tcoP9U4aZhI",
       "title": "Crispy Stuffed Potato Skins with Cheesy Beef & Bacon \u2728",
       "tiktok_views": 103200,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tcoP9U4aZhI/hqdefault.jpg",
@@ -2457,7 +2477,7 @@
       "youtube_id": "d0FdoJRRMek",
       "title": "Scraping fungal toenail procedure \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 20,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -2485,8 +2505,8 @@
       "youtube_id": "9ID09xbf_aI",
       "title": "Medical professional cleaning to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 10,
-      "youtube_likes": 0,
+      "youtube_views": 26,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9ID09xbf_aI/hqdefault.jpg",
       "status": "uploaded",
@@ -2513,7 +2533,7 @@
       "youtube_id": "y6420JKGQyk",
       "title": "No Bake chocolate Caramel Biscuit Cake | Easy Layered Dessert \u2728",
       "tiktok_views": 6789,
-      "youtube_views": 12,
+      "youtube_views": 23,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/y6420JKGQyk/hqdefault.jpg",
@@ -2541,8 +2561,8 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4128,
-      "youtube_likes": 15,
+      "youtube_views": 4799,
+      "youtube_likes": 16,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
       "status": "uploaded",
@@ -2555,7 +2575,7 @@
       "youtube_id": "XKCjgS6OaOw",
       "title": "The French Secret to the Fluffiest Chocolate Banana Cake \u2728",
       "tiktok_views": 146600,
-      "youtube_views": 33,
+      "youtube_views": 39,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XKCjgS6OaOw/hqdefault.jpg",
@@ -2583,8 +2603,8 @@
       "youtube_id": "-tqwlkndIoo",
       "title": "Hands extracting debris from nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 23,
-      "youtube_likes": 1,
+      "youtube_views": 47,
+      "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-tqwlkndIoo/hqdefault.jpg",
       "status": "uploaded",
@@ -2597,7 +2617,7 @@
       "youtube_id": "Zylx7Mdmo3Y",
       "title": "French-Style Cream-Filled Puff Pastry Cones \u2728",
       "tiktok_views": 147400,
-      "youtube_views": 7,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Zylx7Mdmo3Y/hqdefault.jpg",
@@ -2611,8 +2631,8 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6565,
-      "youtube_likes": 34,
+      "youtube_views": 12670,
+      "youtube_likes": 81,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
       "status": "uploaded",
@@ -2639,7 +2659,7 @@
       "youtube_id": "SUB7W4dNQHg",
       "title": "Crispy Cabbage Croquettes with Garlic Yogurt Sauce \u2728",
       "tiktok_views": 202600,
-      "youtube_views": 10,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SUB7W4dNQHg/hqdefault.jpg",
@@ -2667,8 +2687,8 @@
       "youtube_id": "yz1J9rgBz6Y",
       "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 2114,
-      "youtube_likes": 15,
+      "youtube_views": 2223,
+      "youtube_likes": 16,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
       "status": "uploaded",
@@ -2681,8 +2701,8 @@
       "youtube_id": "HTR-p9tR5hg",
       "title": "Easy Homemade Cream Cheese Recipe with Just a Few Ingredients \u2728",
       "tiktok_views": 197300,
-      "youtube_views": 4,
-      "youtube_likes": 0,
+      "youtube_views": 5,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/HTR-p9tR5hg/hqdefault.jpg",
       "status": "uploaded",
@@ -2709,7 +2729,7 @@
       "youtube_id": "YK449kpd7UU",
       "title": "Hands extracting paste from toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 53,
+      "youtube_views": 61,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YK449kpd7UU/hqdefault.jpg",
@@ -2723,7 +2743,7 @@
       "youtube_id": "IBPnWvNfvfU",
       "title": "Italian Chef\u2019s Secret Omelet Trick \ud83e\udd5a\ud83e\udd53",
       "tiktok_views": 328800,
-      "youtube_views": 15,
+      "youtube_views": 16,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/IBPnWvNfvfU/hqdefault.jpg",
@@ -2737,7 +2757,7 @@
       "youtube_id": "LiAhcCZMDCY",
       "title": "Removing fluid from under nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 79,
+      "youtube_views": 86,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/LiAhcCZMDCY/hqdefault.jpg",
@@ -2793,7 +2813,7 @@
       "youtube_id": "SOoUHtAQ7rg",
       "title": "Legit Work From Home Job \u2014 Up to $19/HR! \ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 142,
+      "youtube_views": 163,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
@@ -2821,8 +2841,8 @@
       "youtube_id": "CZy_OtHy3DU",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 1958,
-      "youtube_likes": 7,
+      "youtube_views": 2068,
+      "youtube_likes": 8,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
       "status": "uploaded",
@@ -2863,7 +2883,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 17403,
+      "youtube_views": 17573,
       "youtube_likes": 82,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -2891,8 +2911,8 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 31284,
-      "youtube_likes": 120,
+      "youtube_views": 32303,
+      "youtube_likes": 126,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
       "status": "uploaded",
@@ -2961,7 +2981,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18334,
+      "youtube_views": 18621,
       "youtube_likes": 91,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -2989,7 +3009,7 @@
       "youtube_id": "HBPnQVJ8tj8",
       "title": "The Secret to This Stunning No-Bake Nutella Cheesecake \ud83c\udf6b\u2728",
       "tiktok_views": 521300,
-      "youtube_views": 38,
+      "youtube_views": 39,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
@@ -3003,7 +3023,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 221,
+      "youtube_views": 245,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -3045,7 +3065,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 27657,
+      "youtube_views": 28018,
       "youtube_likes": 122,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -3059,7 +3079,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 3315,
+      "youtube_views": 3339,
       "youtube_likes": 10,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -3171,7 +3191,7 @@
       "youtube_id": "POwv_169GCk",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85 #shorts",
       "tiktok_views": 0,
-      "youtube_views": 245,
+      "youtube_views": 247,
       "youtube_likes": 3,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
@@ -3185,7 +3205,7 @@
       "youtube_id": "BOYWYj2Iix8",
       "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
       "tiktok_views": 0,
-      "youtube_views": 77,
+      "youtube_views": 79,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
@@ -3409,7 +3429,7 @@
       "youtube_id": "a7u_O65DeEk",
       "title": "The Secret to the Juiciest Stuffed Cabbage with Bacon StuffedCabbag",
       "tiktok_views": 767700,
-      "youtube_views": 13,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
@@ -3501,20 +3521,6 @@
       "uploaded_at": "2026-09-12T22:20:57Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7684612468898860301",
-      "youtube_id": "wNqLCXRd67k",
-      "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet",
-      "tiktok_views": 2332,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/wNqLCXRd67k/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-12T17:15:58Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7684345064893500686",
@@ -3591,7 +3597,7 @@
       {
         "date": "2026-09-12",
         "views": 363,
-        "uploads": 2,
+        "uploads": 1,
         "cumulative_views": 363
       },
       {
@@ -3653,9 +3659,29 @@
         "views": 13,
         "uploads": 3,
         "cumulative_views": 437
+      },
+      {
+        "date": "2026-09-23",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 437
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7680549553862429966",
+        "youtube_id": "3naKmF9MNKk",
+        "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25",
+        "tiktok_views": 45900,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/3naKmF9MNKk/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-23T02:09:49Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4061,20 +4087,6 @@
         "thumbnail": "https://i.ytimg.com/vi/_VMXeCFsF6E/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-12T23:38:58Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7684612468898860301",
-        "youtube_id": "wNqLCXRd67k",
-        "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet",
-        "tiktok_views": 2332,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/wNqLCXRd67k/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-12T17:15:58Z"
       }
     ],
     "runs": [
@@ -4281,9 +4293,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 121,
-    "total_views": 100400,
-    "total_likes": 511,
+    "total_uploads": 122,
+    "total_views": 105990,
+    "total_likes": 571,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4514,5 +4526,5 @@
       "created_at": "2026-09-17T02:09:01.352889+00:00"
     }
   ],
-  "last_updated": "2026-09-23T02:09:40.592794+00:00"
+  "last_updated": "2026-09-23T16:11:04.131095+00:00"
 }
