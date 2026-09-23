@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 123,
     "total_views": 106005,
-    "total_likes": 573,
+    "total_likes": 575,
     "total_subscribers": 78,
     "channels_count": 4,
     "videos_per_day": 12
@@ -68,41 +68,41 @@
       "date": "2026-09-19",
       "ch1_views": 44,
       "ch2_views": 234,
-      "ch3_views": 100669,
+      "ch3_views": 100699,
       "ch4_views": 67,
-      "total_views": 101014
+      "total_views": 101044
     },
     {
       "date": "2026-09-20",
       "ch1_views": 47,
       "ch2_views": 254,
-      "ch3_views": 102915,
+      "ch3_views": 102925,
       "ch4_views": 230,
-      "total_views": 103446
+      "total_views": 103456
     },
     {
       "date": "2026-09-21",
       "ch1_views": 61,
-      "ch2_views": 280,
-      "ch3_views": 118378,
+      "ch2_views": 281,
+      "ch3_views": 118695,
       "ch4_views": 0,
-      "total_views": 118719
+      "total_views": 119037
     },
     {
       "date": "2026-09-22",
       "ch1_views": 74,
-      "ch2_views": 344,
-      "ch3_views": 123229,
+      "ch2_views": 345,
+      "ch3_views": 123546,
       "ch4_views": 0,
-      "total_views": 123647
+      "total_views": 123965
     },
     {
       "date": "2026-09-23",
       "ch1_views": 74,
-      "ch2_views": 344,
-      "ch3_views": 123246,
+      "ch2_views": 346,
+      "ch3_views": 123563,
       "ch4_views": 0,
-      "total_views": 123664
+      "total_views": 123983
     }
   ],
   "channels": {
@@ -944,21 +944,21 @@
         },
         {
           "date": "2026-09-21",
-          "views": 26,
+          "views": 27,
           "uploads": 3,
-          "cumulative_views": 280
+          "cumulative_views": 281
         },
         {
           "date": "2026-09-22",
           "views": 64,
           "uploads": 3,
-          "cumulative_views": 344
+          "cumulative_views": 345
         },
         {
           "date": "2026-09-23",
-          "views": 0,
+          "views": 1,
           "uploads": 2,
-          "cumulative_views": 344
+          "cumulative_views": 346
         }
       ],
       "videos": [
@@ -983,7 +983,7 @@
           "youtube_id": "tcoP9U4aZhI",
           "title": "Crispy Stuffed Potato Skins with Cheesy Beef & Bacon \u2728",
           "tiktok_views": 103200,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tcoP9U4aZhI/hqdefault.jpg",
@@ -1067,7 +1067,7 @@
           "youtube_id": "HTR-p9tR5hg",
           "title": "Easy Homemade Cream Cheese Recipe with Just a Few Ingredients \u2728",
           "tiktok_views": 197300,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/HTR-p9tR5hg/hqdefault.jpg",
@@ -1603,7 +1603,7 @@
       "subscribers": 73,
       "total_uploads": 18,
       "total_views": 104778,
-      "total_likes": 567,
+      "total_likes": 569,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1645,33 +1645,33 @@
         },
         {
           "date": "2026-09-19",
-          "views": 68699,
+          "views": 68729,
           "uploads": 3,
-          "cumulative_views": 100669
+          "cumulative_views": 100699
         },
         {
           "date": "2026-09-20",
-          "views": 2246,
+          "views": 2226,
           "uploads": 3,
-          "cumulative_views": 102915
+          "cumulative_views": 102925
         },
         {
           "date": "2026-09-21",
-          "views": 15463,
+          "views": 15770,
           "uploads": 3,
-          "cumulative_views": 118378
+          "cumulative_views": 118695
         },
         {
           "date": "2026-09-22",
           "views": 4851,
           "uploads": 3,
-          "cumulative_views": 123229
+          "cumulative_views": 123546
         },
         {
           "date": "2026-09-23",
           "views": 17,
           "uploads": 1,
-          "cumulative_views": 123246
+          "cumulative_views": 123563
         }
       ],
       "videos": [
@@ -1752,8 +1752,8 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 13184,
-          "youtube_likes": 85,
+          "youtube_views": 13491,
+          "youtube_likes": 87,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
           "status": "uploaded",
@@ -1808,7 +1808,7 @@
           "youtube_id": "CZy_OtHy3DU",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 2098,
+          "youtube_views": 2078,
           "youtube_likes": 8,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
@@ -1836,7 +1836,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 32404,
+          "youtube_views": 32434,
           "youtube_likes": 125,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -2235,6 +2235,16 @@
       ],
       "runs": [
         {
+          "id": 19,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-09-23",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
+          "created_at": "2026-09-23T17:32:41.503628+00:00"
+        },
+        {
           "id": 18,
           "channel_id": "channel_4",
           "slot": 3,
@@ -2471,7 +2481,7 @@
       "youtube_id": "tcoP9U4aZhI",
       "title": "Crispy Stuffed Potato Skins with Cheesy Beef & Bacon \u2728",
       "tiktok_views": 103200,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tcoP9U4aZhI/hqdefault.jpg",
@@ -2653,8 +2663,8 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 13184,
-      "youtube_likes": 85,
+      "youtube_views": 13491,
+      "youtube_likes": 87,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
       "status": "uploaded",
@@ -2723,7 +2733,7 @@
       "youtube_id": "HTR-p9tR5hg",
       "title": "Easy Homemade Cream Cheese Recipe with Just a Few Ingredients \u2728",
       "tiktok_views": 197300,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/HTR-p9tR5hg/hqdefault.jpg",
@@ -2863,7 +2873,7 @@
       "youtube_id": "CZy_OtHy3DU",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 2098,
+      "youtube_views": 2078,
       "youtube_likes": 8,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
@@ -2933,7 +2943,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 32404,
+      "youtube_views": 32434,
       "youtube_likes": 125,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -4283,7 +4293,7 @@
   "kpis": {
     "total_uploads": 123,
     "total_views": 106005,
-    "total_likes": 573,
+    "total_likes": 575,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4514,5 +4524,5 @@
       "created_at": "2026-09-17T17:15:18.587029+00:00"
     }
   ],
-  "last_updated": "2026-09-23T17:20:55.564219+00:00"
+  "last_updated": "2026-09-23T17:32:46.875219+00:00"
 }
