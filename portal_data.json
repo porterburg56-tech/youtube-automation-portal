@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 124,
+    "total_uploads": 125,
     "total_views": 119147,
-    "total_likes": 595,
+    "total_likes": 596,
     "total_subscribers": 79,
     "channels_count": 4,
     "videos_per_day": 12
@@ -68,41 +68,41 @@
       "date": "2026-09-19",
       "ch1_views": 44,
       "ch2_views": 232,
-      "ch3_views": 101750,
+      "ch3_views": 101948,
       "ch4_views": 67,
-      "total_views": 102093
+      "total_views": 102291
     },
     {
       "date": "2026-09-20",
       "ch1_views": 47,
-      "ch2_views": 255,
-      "ch3_views": 104074,
+      "ch2_views": 256,
+      "ch3_views": 104272,
       "ch4_views": 230,
-      "total_views": 104606
+      "total_views": 104805
     },
     {
       "date": "2026-09-21",
       "ch1_views": 61,
-      "ch2_views": 285,
-      "ch3_views": 122794,
+      "ch2_views": 286,
+      "ch3_views": 123311,
       "ch4_views": 0,
-      "total_views": 123140
+      "total_views": 123658
     },
     {
       "date": "2026-09-22",
-      "ch1_views": 73,
-      "ch2_views": 354,
-      "ch3_views": 127945,
+      "ch1_views": 74,
+      "ch2_views": 353,
+      "ch3_views": 128500,
       "ch4_views": 0,
-      "total_views": 128372
+      "total_views": 128927
     },
     {
       "date": "2026-09-23",
-      "ch1_views": 73,
+      "ch1_views": 74,
       "ch2_views": 355,
-      "ch3_views": 127970,
+      "ch3_views": 128525,
       "ch4_views": 0,
-      "total_views": 128398
+      "total_views": 128954
     }
   ],
   "channels": {
@@ -121,7 +121,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 52,
+      "total_uploads": 53,
       "total_views": 529,
       "total_likes": 0,
       "upcoming": {
@@ -207,15 +207,15 @@
         },
         {
           "date": "2026-09-22",
-          "views": 12,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 73
+          "cumulative_views": 74
         },
         {
           "date": "2026-09-23",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 73
+          "cumulative_views": 74
         }
       ],
       "videos": [
@@ -254,7 +254,7 @@
           "youtube_id": "7ypv3M7aNY0",
           "title": "My Toddler Thinks This Is What Dad Does After Work \ud83d\ude02",
           "tiktok_views": 50100,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7ypv3M7aNY0/hqdefault.jpg",
@@ -642,6 +642,16 @@
       ],
       "runs": [
         {
+          "id": 62,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-23",
+          "status": "success",
+          "video_id": "C9vr1v6Ngv8",
+          "error_message": null,
+          "created_at": "2026-09-23T23:39:14.934396+00:00"
+        },
+        {
           "id": 61,
           "channel_id": "channel_1",
           "slot": 1,
@@ -830,16 +840,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-17T23:38:53.590456+00:00"
-        },
-        {
-          "id": 41,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-17",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-17T17:15:18.587029+00:00"
         }
       ]
     },
@@ -938,25 +938,25 @@
         },
         {
           "date": "2026-09-20",
-          "views": 23,
+          "views": 24,
           "uploads": 3,
-          "cumulative_views": 255
+          "cumulative_views": 256
         },
         {
           "date": "2026-09-21",
           "views": 30,
           "uploads": 3,
-          "cumulative_views": 285
+          "cumulative_views": 286
         },
         {
           "date": "2026-09-22",
-          "views": 69,
+          "views": 67,
           "uploads": 3,
-          "cumulative_views": 354
+          "cumulative_views": 353
         },
         {
           "date": "2026-09-23",
-          "views": 1,
+          "views": 2,
           "uploads": 3,
           "cumulative_views": 355
         }
@@ -983,7 +983,7 @@
           "youtube_id": "v6QMmIKKeIw",
           "title": "Stuffed Meatballs with 4 Delicious Surprises \u2728",
           "tiktok_views": 8301,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/v6QMmIKKeIw/hqdefault.jpg",
@@ -1011,7 +1011,7 @@
           "youtube_id": "H6GTYXl8BXU",
           "title": "No-Bake Chocolate Strawberry Layer Dessert \ud83c\udf53\ud83c\udf6b So Creamy & Easy!",
           "tiktok_views": 125500,
-          "youtube_views": 3,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/H6GTYXl8BXU/hqdefault.jpg",
@@ -1095,7 +1095,7 @@
           "youtube_id": "IBPnWvNfvfU",
           "title": "Italian Chef\u2019s Secret Omelet Trick \ud83e\udd5a\ud83e\udd53",
           "tiktok_views": 328800,
-          "youtube_views": 19,
+          "youtube_views": 20,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/IBPnWvNfvfU/hqdefault.jpg",
@@ -1603,7 +1603,7 @@
       "subscribers": 74,
       "total_uploads": 18,
       "total_views": 117873,
-      "total_likes": 589,
+      "total_likes": 590,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1645,33 +1645,33 @@
         },
         {
           "date": "2026-09-19",
-          "views": 69759,
+          "views": 69957,
           "uploads": 3,
-          "cumulative_views": 101750
+          "cumulative_views": 101948
         },
         {
           "date": "2026-09-20",
           "views": 2324,
           "uploads": 3,
-          "cumulative_views": 104074
+          "cumulative_views": 104272
         },
         {
           "date": "2026-09-21",
-          "views": 18720,
+          "views": 19039,
           "uploads": 3,
-          "cumulative_views": 122794
+          "cumulative_views": 123311
         },
         {
           "date": "2026-09-22",
-          "views": 5151,
+          "views": 5189,
           "uploads": 3,
-          "cumulative_views": 127945
+          "cumulative_views": 128500
         },
         {
           "date": "2026-09-23",
           "views": 25,
           "uploads": 1,
-          "cumulative_views": 127970
+          "cumulative_views": 128525
         }
       ],
       "videos": [
@@ -1724,8 +1724,8 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5091,
-          "youtube_likes": 18,
+          "youtube_views": 5129,
+          "youtube_likes": 19,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
           "status": "uploaded",
@@ -1752,7 +1752,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 16357,
+          "youtube_views": 16676,
           "youtube_likes": 96,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1822,7 +1822,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 17707,
+          "youtube_views": 17791,
           "youtube_likes": 82,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1836,7 +1836,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 33222,
+          "youtube_views": 33336,
           "youtube_likes": 129,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -2463,7 +2463,7 @@
       "youtube_id": "v6QMmIKKeIw",
       "title": "Stuffed Meatballs with 4 Delicious Surprises \u2728",
       "tiktok_views": 8301,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/v6QMmIKKeIw/hqdefault.jpg",
@@ -2519,7 +2519,7 @@
       "youtube_id": "7ypv3M7aNY0",
       "title": "My Toddler Thinks This Is What Dad Does After Work \ud83d\ude02",
       "tiktok_views": 50100,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7ypv3M7aNY0/hqdefault.jpg",
@@ -2547,7 +2547,7 @@
       "youtube_id": "H6GTYXl8BXU",
       "title": "No-Bake Chocolate Strawberry Layer Dessert \ud83c\udf53\ud83c\udf6b So Creamy & Easy!",
       "tiktok_views": 125500,
-      "youtube_views": 3,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/H6GTYXl8BXU/hqdefault.jpg",
@@ -2617,8 +2617,8 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5091,
-      "youtube_likes": 18,
+      "youtube_views": 5129,
+      "youtube_likes": 19,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
       "status": "uploaded",
@@ -2687,7 +2687,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 16357,
+      "youtube_views": 16676,
       "youtube_likes": 96,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -2799,7 +2799,7 @@
       "youtube_id": "IBPnWvNfvfU",
       "title": "Italian Chef\u2019s Secret Omelet Trick \ud83e\udd5a\ud83e\udd53",
       "tiktok_views": 328800,
-      "youtube_views": 19,
+      "youtube_views": 20,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/IBPnWvNfvfU/hqdefault.jpg",
@@ -2939,7 +2939,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 17707,
+      "youtube_views": 17791,
       "youtube_likes": 82,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -2967,7 +2967,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 33222,
+      "youtube_views": 33336,
       "youtube_likes": 129,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -3578,7 +3578,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 52,
+    "total_uploads": 53,
     "total_views": 529,
     "total_likes": 0,
     "upcoming": {
@@ -3664,15 +3664,15 @@
       },
       {
         "date": "2026-09-22",
-        "views": 12,
+        "views": 13,
         "uploads": 3,
-        "cumulative_views": 73
+        "cumulative_views": 74
       },
       {
         "date": "2026-09-23",
         "views": 0,
         "uploads": 2,
-        "cumulative_views": 73
+        "cumulative_views": 74
       }
     ],
     "videos": [
@@ -3711,7 +3711,7 @@
         "youtube_id": "7ypv3M7aNY0",
         "title": "My Toddler Thinks This Is What Dad Does After Work \ud83d\ude02",
         "tiktok_views": 50100,
-        "youtube_views": 3,
+        "youtube_views": 4,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/7ypv3M7aNY0/hqdefault.jpg",
@@ -4099,6 +4099,16 @@
     ],
     "runs": [
       {
+        "id": 62,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-23",
+        "status": "success",
+        "video_id": "C9vr1v6Ngv8",
+        "error_message": null,
+        "created_at": "2026-09-23T23:39:14.934396+00:00"
+      },
+      {
         "id": 61,
         "channel_id": "channel_1",
         "slot": 1,
@@ -4287,23 +4297,13 @@
         "video_id": null,
         "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "created_at": "2026-09-17T23:38:53.590456+00:00"
-      },
-      {
-        "id": 41,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-17",
-        "status": "failed",
-        "video_id": null,
-        "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "created_at": "2026-09-17T17:15:18.587029+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 124,
+    "total_uploads": 125,
     "total_views": 119147,
-    "total_likes": 595,
+    "total_likes": 596,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4333,6 +4333,16 @@
     }
   },
   "runs": [
+    {
+      "id": 62,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-23",
+      "status": "success",
+      "video_id": "C9vr1v6Ngv8",
+      "error_message": null,
+      "created_at": "2026-09-23T23:39:14.934396+00:00"
+    },
     {
       "id": 61,
       "channel_id": "channel_1",
@@ -4522,17 +4532,7 @@
       "video_id": null,
       "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
       "created_at": "2026-09-17T23:38:53.590456+00:00"
-    },
-    {
-      "id": 41,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-17",
-      "status": "failed",
-      "video_id": null,
-      "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-      "created_at": "2026-09-17T17:15:18.587029+00:00"
     }
   ],
-  "last_updated": "2026-09-23T22:26:23.294246+00:00"
+  "last_updated": "2026-09-23T23:39:19.032216+00:00"
 }
