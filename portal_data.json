@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 126,
+    "total_uploads": 127,
     "total_views": 119147,
-    "total_likes": 597,
+    "total_likes": 598,
     "total_subscribers": 79,
     "channels_count": 4,
     "videos_per_day": 12
@@ -60,49 +60,49 @@
       "date": "2026-09-19",
       "ch1_views": 33,
       "ch2_views": 231,
-      "ch3_views": 102118,
+      "ch3_views": 102222,
       "ch4_views": 67,
-      "total_views": 102449
+      "total_views": 102553
     },
     {
       "date": "2026-09-20",
       "ch1_views": 36,
       "ch2_views": 255,
-      "ch3_views": 104513,
+      "ch3_views": 104617,
       "ch4_views": 230,
-      "total_views": 105034
+      "total_views": 105138
     },
     {
       "date": "2026-09-21",
       "ch1_views": 50,
       "ch2_views": 285,
-      "ch3_views": 124044,
+      "ch3_views": 124271,
       "ch4_views": 0,
-      "total_views": 124379
+      "total_views": 124606
     },
     {
       "date": "2026-09-22",
       "ch1_views": 71,
-      "ch2_views": 355,
-      "ch3_views": 129280,
+      "ch2_views": 357,
+      "ch3_views": 129511,
       "ch4_views": 0,
-      "total_views": 129706
+      "total_views": 129939
     },
     {
       "date": "2026-09-23",
       "ch1_views": 71,
-      "ch2_views": 357,
-      "ch3_views": 129311,
+      "ch2_views": 359,
+      "ch3_views": 129542,
       "ch4_views": 0,
-      "total_views": 129739
+      "total_views": 129972
     },
     {
       "date": "2026-09-24",
       "ch1_views": 0,
-      "ch2_views": 357,
+      "ch2_views": 359,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 357
+      "total_views": 359
     }
   ],
   "channels": {
@@ -121,7 +121,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 53,
+      "total_uploads": 54,
       "total_views": 529,
       "total_likes": 0,
       "upcoming": {
@@ -642,6 +642,16 @@
       ],
       "runs": [
         {
+          "id": 63,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-09-24",
+          "status": "success",
+          "video_id": "VBZf8_kyGQE",
+          "error_message": null,
+          "created_at": "2026-09-24T02:09:08.219031+00:00"
+        },
+        {
           "id": 62,
           "channel_id": "channel_1",
           "slot": 2,
@@ -830,16 +840,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-18T02:09:03.524145+00:00"
-        },
-        {
-          "id": 42,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-09-17",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-17T23:38:53.590456+00:00"
         }
       ]
     },
@@ -944,21 +944,21 @@
         },
         {
           "date": "2026-09-22",
-          "views": 70,
+          "views": 72,
           "uploads": 3,
-          "cumulative_views": 355
+          "cumulative_views": 357
         },
         {
           "date": "2026-09-23",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 357
+          "cumulative_views": 359
         },
         {
           "date": "2026-09-24",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 357
+          "cumulative_views": 359
         }
       ],
       "videos": [
@@ -1053,7 +1053,7 @@
           "youtube_id": "XKCjgS6OaOw",
           "title": "The French Secret to the Fluffiest Chocolate Banana Cake \u2728",
           "tiktok_views": 146600,
-          "youtube_views": 43,
+          "youtube_views": 45,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XKCjgS6OaOw/hqdefault.jpg",
@@ -1603,7 +1603,7 @@
       "subscribers": 74,
       "total_uploads": 18,
       "total_views": 117873,
-      "total_likes": 591,
+      "total_likes": 592,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1645,33 +1645,33 @@
         },
         {
           "date": "2026-09-19",
-          "views": 70110,
+          "views": 70214,
           "uploads": 3,
-          "cumulative_views": 102118
+          "cumulative_views": 102222
         },
         {
           "date": "2026-09-20",
           "views": 2395,
           "uploads": 3,
-          "cumulative_views": 104513
+          "cumulative_views": 104617
         },
         {
           "date": "2026-09-21",
-          "views": 19531,
+          "views": 19654,
           "uploads": 3,
-          "cumulative_views": 124044
+          "cumulative_views": 124271
         },
         {
           "date": "2026-09-22",
-          "views": 5236,
+          "views": 5240,
           "uploads": 3,
-          "cumulative_views": 129280
+          "cumulative_views": 129511
         },
         {
           "date": "2026-09-23",
           "views": 31,
           "uploads": 1,
-          "cumulative_views": 129311
+          "cumulative_views": 129542
         }
       ],
       "videos": [
@@ -1696,7 +1696,7 @@
           "youtube_id": "d0FdoJRRMek",
           "title": "Scraping fungal toenail procedure \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 29,
+          "youtube_views": 33,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -1738,7 +1738,7 @@
           "youtube_id": "-tqwlkndIoo",
           "title": "Hands extracting debris from nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 51,
+          "youtube_views": 55,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-tqwlkndIoo/hqdefault.jpg",
@@ -1752,8 +1752,8 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 17130,
-          "youtube_likes": 97,
+          "youtube_views": 17249,
+          "youtube_likes": 98,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
           "status": "uploaded",
@@ -1850,7 +1850,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18830,
+          "youtube_views": 18934,
           "youtube_likes": 92,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -2571,7 +2571,7 @@
       "youtube_id": "d0FdoJRRMek",
       "title": "Scraping fungal toenail procedure \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 29,
+      "youtube_views": 33,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -2669,7 +2669,7 @@
       "youtube_id": "XKCjgS6OaOw",
       "title": "The French Secret to the Fluffiest Chocolate Banana Cake \u2728",
       "tiktok_views": 146600,
-      "youtube_views": 43,
+      "youtube_views": 45,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XKCjgS6OaOw/hqdefault.jpg",
@@ -2697,7 +2697,7 @@
       "youtube_id": "-tqwlkndIoo",
       "title": "Hands extracting debris from nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 51,
+      "youtube_views": 55,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-tqwlkndIoo/hqdefault.jpg",
@@ -2725,8 +2725,8 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 17130,
-      "youtube_likes": 97,
+      "youtube_views": 17249,
+      "youtube_likes": 98,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
       "status": "uploaded",
@@ -3075,7 +3075,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18830,
+      "youtube_views": 18934,
       "youtube_likes": 92,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -3588,7 +3588,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 53,
+    "total_uploads": 54,
     "total_views": 529,
     "total_likes": 0,
     "upcoming": {
@@ -4109,6 +4109,16 @@
     ],
     "runs": [
       {
+        "id": 63,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-09-24",
+        "status": "success",
+        "video_id": "VBZf8_kyGQE",
+        "error_message": null,
+        "created_at": "2026-09-24T02:09:08.219031+00:00"
+      },
+      {
         "id": 62,
         "channel_id": "channel_1",
         "slot": 2,
@@ -4297,23 +4307,13 @@
         "video_id": null,
         "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "created_at": "2026-09-18T02:09:03.524145+00:00"
-      },
-      {
-        "id": 42,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-09-17",
-        "status": "failed",
-        "video_id": null,
-        "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "created_at": "2026-09-17T23:38:53.590456+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 126,
+    "total_uploads": 127,
     "total_views": 119147,
-    "total_likes": 597,
+    "total_likes": 598,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4343,6 +4343,16 @@
     }
   },
   "runs": [
+    {
+      "id": 63,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-09-24",
+      "status": "success",
+      "video_id": "VBZf8_kyGQE",
+      "error_message": null,
+      "created_at": "2026-09-24T02:09:08.219031+00:00"
+    },
     {
       "id": 62,
       "channel_id": "channel_1",
@@ -4532,17 +4542,7 @@
       "video_id": null,
       "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
       "created_at": "2026-09-18T02:09:03.524145+00:00"
-    },
-    {
-      "id": 42,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-09-17",
-      "status": "failed",
-      "video_id": null,
-      "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-      "created_at": "2026-09-17T23:38:53.590456+00:00"
     }
   ],
-  "last_updated": "2026-09-24T01:31:10.552231+00:00"
+  "last_updated": "2026-09-24T02:09:12.387777+00:00"
 }
