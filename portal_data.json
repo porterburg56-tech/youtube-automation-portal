@@ -9,100 +9,100 @@
   },
   "master_view_history": [
     {
-      "date": "2026-09-12",
-      "ch1_views": 0,
-      "ch2_views": 1,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 1
-    },
-    {
       "date": "2026-09-13",
       "ch1_views": 5,
-      "ch2_views": 41,
+      "ch2_views": 40,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 46
+      "total_views": 45
     },
     {
       "date": "2026-09-14",
       "ch1_views": 7,
-      "ch2_views": 100,
+      "ch2_views": 99,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 107
+      "total_views": 106
     },
     {
       "date": "2026-09-15",
       "ch1_views": 8,
-      "ch2_views": 145,
+      "ch2_views": 144,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 153
+      "total_views": 152
     },
     {
       "date": "2026-09-16",
       "ch1_views": 18,
-      "ch2_views": 150,
+      "ch2_views": 149,
       "ch3_views": 329,
       "ch4_views": 0,
-      "total_views": 497
+      "total_views": 496
     },
     {
       "date": "2026-09-17",
       "ch1_views": 21,
-      "ch2_views": 160,
+      "ch2_views": 159,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 181
+      "total_views": 180
     },
     {
       "date": "2026-09-18",
       "ch1_views": 30,
-      "ch2_views": 202,
-      "ch3_views": 32003,
+      "ch2_views": 201,
+      "ch3_views": 32004,
       "ch4_views": 0,
       "total_views": 32235
     },
     {
       "date": "2026-09-19",
       "ch1_views": 33,
-      "ch2_views": 232,
-      "ch3_views": 102139,
+      "ch2_views": 231,
+      "ch3_views": 102140,
       "ch4_views": 67,
       "total_views": 102471
     },
     {
       "date": "2026-09-20",
       "ch1_views": 36,
-      "ch2_views": 256,
-      "ch3_views": 104486,
+      "ch2_views": 255,
+      "ch3_views": 104487,
       "ch4_views": 230,
       "total_views": 105008
     },
     {
       "date": "2026-09-21",
       "ch1_views": 50,
-      "ch2_views": 286,
-      "ch3_views": 123966,
+      "ch2_views": 285,
+      "ch3_views": 124006,
       "ch4_views": 0,
-      "total_views": 124302
+      "total_views": 124341
     },
     {
       "date": "2026-09-22",
       "ch1_views": 71,
-      "ch2_views": 356,
-      "ch3_views": 129203,
+      "ch2_views": 355,
+      "ch3_views": 129243,
       "ch4_views": 0,
-      "total_views": 129630
+      "total_views": 129669
     },
     {
       "date": "2026-09-23",
       "ch1_views": 71,
-      "ch2_views": 358,
-      "ch3_views": 129234,
+      "ch2_views": 357,
+      "ch3_views": 129274,
       "ch4_views": 0,
-      "total_views": 129663
+      "total_views": 129702
+    },
+    {
+      "date": "2026-09-24",
+      "ch1_views": 0,
+      "ch2_views": 357,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 357
     }
   ],
   "channels": {
@@ -889,79 +889,93 @@
       },
       "view_history": [
         {
-          "date": "2026-09-12",
-          "views": 1,
-          "uploads": 1,
-          "cumulative_views": 1
-        },
-        {
           "date": "2026-09-13",
           "views": 40,
           "uploads": 3,
-          "cumulative_views": 41
+          "cumulative_views": 40
         },
         {
           "date": "2026-09-14",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 100
+          "cumulative_views": 99
         },
         {
           "date": "2026-09-15",
           "views": 45,
           "uploads": 3,
-          "cumulative_views": 145
+          "cumulative_views": 144
         },
         {
           "date": "2026-09-16",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 150
+          "cumulative_views": 149
         },
         {
           "date": "2026-09-17",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 160
+          "cumulative_views": 159
         },
         {
           "date": "2026-09-18",
           "views": 42,
           "uploads": 2,
-          "cumulative_views": 202
+          "cumulative_views": 201
         },
         {
           "date": "2026-09-19",
           "views": 30,
           "uploads": 2,
-          "cumulative_views": 232
+          "cumulative_views": 231
         },
         {
           "date": "2026-09-20",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 256
+          "cumulative_views": 255
         },
         {
           "date": "2026-09-21",
           "views": 30,
           "uploads": 3,
-          "cumulative_views": 286
+          "cumulative_views": 285
         },
         {
           "date": "2026-09-22",
           "views": 70,
           "uploads": 3,
-          "cumulative_views": 356
+          "cumulative_views": 355
         },
         {
           "date": "2026-09-23",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 358
+          "cumulative_views": 357
+        },
+        {
+          "date": "2026-09-24",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 357
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7651320922732825869",
+          "youtube_id": "Qhe5fi_iOXw",
+          "title": "Caramel Berry Puff Pastry Cups That Melt in Your Mouth \u2728",
+          "tiktok_views": 89600,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/Qhe5fi_iOXw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-24T01:12:11Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1367,20 +1381,6 @@
           "thumbnail": "https://i.ytimg.com/vi/JwtdOq7sl4I/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-13T01:08:02Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7657340886476492045",
-          "youtube_id": "0iNyvoUwVu0",
-          "title": "Fun Short",
-          "tiktok_views": 1000000,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/0iNyvoUwVu0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-12T22:20:57Z"
         }
       ],
       "runs": [
@@ -1639,39 +1639,39 @@
         },
         {
           "date": "2026-09-18",
-          "views": 31674,
+          "views": 31675,
           "uploads": 3,
-          "cumulative_views": 32003
+          "cumulative_views": 32004
         },
         {
           "date": "2026-09-19",
           "views": 70136,
           "uploads": 3,
-          "cumulative_views": 102139
+          "cumulative_views": 102140
         },
         {
           "date": "2026-09-20",
           "views": 2347,
           "uploads": 3,
-          "cumulative_views": 104486
+          "cumulative_views": 104487
         },
         {
           "date": "2026-09-21",
-          "views": 19480,
+          "views": 19519,
           "uploads": 3,
-          "cumulative_views": 123966
+          "cumulative_views": 124006
         },
         {
           "date": "2026-09-22",
           "views": 5237,
           "uploads": 3,
-          "cumulative_views": 129203
+          "cumulative_views": 129243
         },
         {
           "date": "2026-09-23",
           "views": 31,
           "uploads": 1,
-          "cumulative_views": 129234
+          "cumulative_views": 129274
         }
       ],
       "videos": [
@@ -1752,7 +1752,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 17079,
+          "youtube_views": 17118,
           "youtube_likes": 97,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1892,7 +1892,7 @@
           "youtube_id": "jLpRzaXGHIE",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 3348,
+          "youtube_views": 3349,
           "youtube_likes": 10,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -1929,6 +1929,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 29,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-09-24",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-24T01:23:58.637475+00:00"
+        },
         {
           "id": 28,
           "channel_id": "channel_3",
@@ -2118,16 +2128,6 @@
           "video_id": null,
           "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
           "created_at": "2026-09-18T01:15:37.436364+00:00"
-        },
-        {
-          "id": 7,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-09-17",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
-          "created_at": "2026-09-17T22:04:22.914026+00:00"
         }
       ]
     },
@@ -2429,6 +2429,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7651320922732825869",
+      "youtube_id": "Qhe5fi_iOXw",
+      "title": "Caramel Berry Puff Pastry Cups That Melt in Your Mouth \u2728",
+      "tiktok_views": 89600,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/Qhe5fi_iOXw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-24T01:12:11Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7688698723978923278",
@@ -2701,7 +2715,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 17079,
+      "youtube_views": 17118,
       "youtube_likes": 97,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -3149,7 +3163,7 @@
       "youtube_id": "jLpRzaXGHIE",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 3348,
+      "youtube_views": 3349,
       "youtube_likes": 10,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
@@ -3547,20 +3561,6 @@
       "thumbnail": "https://i.ytimg.com/vi/JwtdOq7sl4I/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-13T01:08:02Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7657340886476492045",
-      "youtube_id": "0iNyvoUwVu0",
-      "title": "Fun Short",
-      "tiktok_views": 1000000,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/0iNyvoUwVu0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-12T22:20:57Z"
     }
   ],
   "channel": {
@@ -4534,5 +4534,5 @@
       "created_at": "2026-09-17T23:38:53.590456+00:00"
     }
   ],
-  "last_updated": "2026-09-24T01:11:49.853638+00:00"
+  "last_updated": "2026-09-24T01:24:03.684366+00:00"
 }
