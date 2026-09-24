@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 130,
-    "total_views": 132016,
+    "total_views": 132032,
     "total_likes": 612,
     "total_subscribers": 81,
     "channels_count": 4,
@@ -11,98 +11,98 @@
     {
       "date": "2026-09-13",
       "ch1_views": 0,
-      "ch2_views": 40,
+      "ch2_views": 14,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 40
+      "total_views": 14
     },
     {
       "date": "2026-09-14",
       "ch1_views": 6,
-      "ch2_views": 99,
+      "ch2_views": 73,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 105
+      "total_views": 79
     },
     {
       "date": "2026-09-15",
       "ch1_views": 9,
-      "ch2_views": 144,
+      "ch2_views": 118,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 153
+      "total_views": 127
     },
     {
       "date": "2026-09-16",
       "ch1_views": 19,
-      "ch2_views": 149,
+      "ch2_views": 123,
       "ch3_views": 337,
       "ch4_views": 0,
-      "total_views": 505
+      "total_views": 479
     },
     {
       "date": "2026-09-17",
       "ch1_views": 22,
-      "ch2_views": 159,
+      "ch2_views": 133,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 181
+      "total_views": 155
     },
     {
       "date": "2026-09-18",
       "ch1_views": 31,
-      "ch2_views": 201,
-      "ch3_views": 32101,
+      "ch2_views": 175,
+      "ch3_views": 32096,
       "ch4_views": 0,
-      "total_views": 32333
+      "total_views": 32302
     },
     {
       "date": "2026-09-19",
       "ch1_views": 34,
-      "ch2_views": 231,
-      "ch3_views": 102948,
+      "ch2_views": 205,
+      "ch3_views": 102935,
       "ch4_views": 67,
-      "total_views": 103280
+      "total_views": 103241
     },
     {
       "date": "2026-09-20",
       "ch1_views": 37,
-      "ch2_views": 255,
-      "ch3_views": 105379,
+      "ch2_views": 229,
+      "ch3_views": 105366,
       "ch4_views": 230,
-      "total_views": 105901
+      "total_views": 105862
     },
     {
       "date": "2026-09-21",
       "ch1_views": 52,
-      "ch2_views": 288,
-      "ch3_views": 125961,
+      "ch2_views": 262,
+      "ch3_views": 125948,
       "ch4_views": 0,
-      "total_views": 126301
+      "total_views": 126262
     },
     {
       "date": "2026-09-22",
       "ch1_views": 77,
-      "ch2_views": 363,
-      "ch3_views": 132456,
+      "ch2_views": 338,
+      "ch3_views": 132444,
       "ch4_views": 0,
-      "total_views": 132896
+      "total_views": 132859
     },
     {
       "date": "2026-09-23",
       "ch1_views": 85,
-      "ch2_views": 375,
-      "ch3_views": 132499,
+      "ch2_views": 350,
+      "ch3_views": 132485,
       "ch4_views": 0,
-      "total_views": 132959
+      "total_views": 132920
     },
     {
       "date": "2026-09-24",
       "ch1_views": 85,
-      "ch2_views": 379,
+      "ch2_views": 354,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 464
+      "total_views": 439
     }
   ],
   "channels": {
@@ -859,7 +859,7 @@
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
       "total_uploads": 54,
-      "total_views": 548,
+      "total_views": 564,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -890,78 +890,92 @@
       "view_history": [
         {
           "date": "2026-09-13",
-          "views": 40,
-          "uploads": 2,
-          "cumulative_views": 40
+          "views": 14,
+          "uploads": 1,
+          "cumulative_views": 14
         },
         {
           "date": "2026-09-14",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 99
+          "cumulative_views": 73
         },
         {
           "date": "2026-09-15",
           "views": 45,
           "uploads": 3,
-          "cumulative_views": 144
+          "cumulative_views": 118
         },
         {
           "date": "2026-09-16",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 149
+          "cumulative_views": 123
         },
         {
           "date": "2026-09-17",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 159
+          "cumulative_views": 133
         },
         {
           "date": "2026-09-18",
           "views": 42,
           "uploads": 2,
-          "cumulative_views": 201
+          "cumulative_views": 175
         },
         {
           "date": "2026-09-19",
           "views": 30,
           "uploads": 2,
-          "cumulative_views": 231
+          "cumulative_views": 205
         },
         {
           "date": "2026-09-20",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 255
+          "cumulative_views": 229
         },
         {
           "date": "2026-09-21",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 288
+          "cumulative_views": 262
         },
         {
           "date": "2026-09-22",
-          "views": 75,
+          "views": 76,
           "uploads": 3,
-          "cumulative_views": 363
+          "cumulative_views": 338
         },
         {
           "date": "2026-09-23",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 375
+          "cumulative_views": 350
         },
         {
           "date": "2026-09-24",
           "views": 4,
-          "uploads": 2,
-          "cumulative_views": 379
+          "uploads": 3,
+          "cumulative_views": 354
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7656507191549054221",
+          "youtube_id": "3cfgfesWmPA",
+          "title": "Crispy Chicken & Rice Meatballs \u2013 The Secret to Perfectly Tender Bite \u2728",
+          "tiktok_views": 89100,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/3cfgfesWmPA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-24T22:16:22Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1067,7 +1081,7 @@
           "youtube_id": "XKCjgS6OaOw",
           "title": "The French Secret to the Fluffiest Chocolate Banana Cake \u2728",
           "tiktok_views": 146600,
-          "youtube_views": 46,
+          "youtube_views": 47,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XKCjgS6OaOw/hqdefault.jpg",
@@ -1367,20 +1381,6 @@
           "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-13T22:19:43Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7679883077044276493",
-          "youtube_id": "tOagl_ZG9xk",
-          "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
-          "tiktok_views": 4086,
-          "youtube_views": 26,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-13T16:20:26Z"
         }
       ],
       "runs": [
@@ -1639,39 +1639,39 @@
         },
         {
           "date": "2026-09-18",
-          "views": 31764,
+          "views": 31759,
           "uploads": 3,
-          "cumulative_views": 32101
+          "cumulative_views": 32096
         },
         {
           "date": "2026-09-19",
-          "views": 70847,
+          "views": 70839,
           "uploads": 3,
-          "cumulative_views": 102948
+          "cumulative_views": 102935
         },
         {
           "date": "2026-09-20",
           "views": 2431,
           "uploads": 3,
-          "cumulative_views": 105379
+          "cumulative_views": 105366
         },
         {
           "date": "2026-09-21",
           "views": 20582,
           "uploads": 3,
-          "cumulative_views": 125961
+          "cumulative_views": 125948
         },
         {
           "date": "2026-09-22",
-          "views": 6495,
+          "views": 6496,
           "uploads": 3,
-          "cumulative_views": 132456
+          "cumulative_views": 132444
         },
         {
           "date": "2026-09-23",
-          "views": 43,
+          "views": 41,
           "uploads": 1,
-          "cumulative_views": 132499
+          "cumulative_views": 132485
         }
       ],
       "videos": [
@@ -1682,7 +1682,7 @@
           "youtube_id": "YJ35UWmoXh8",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 43,
+          "youtube_views": 41,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
@@ -1696,7 +1696,7 @@
           "youtube_id": "d0FdoJRRMek",
           "title": "Scraping fungal toenail procedure \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 44,
+          "youtube_views": 45,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -1822,7 +1822,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 17962,
+          "youtube_views": 17960,
           "youtube_likes": 84,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1836,7 +1836,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 33768,
+          "youtube_views": 33762,
           "youtube_likes": 131,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1864,7 +1864,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 301,
+          "youtube_views": 299,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1878,7 +1878,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 28108,
+          "youtube_views": 28105,
           "youtube_likes": 122,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1929,6 +1929,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 31,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-09-24",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-24T22:21:30.637471+00:00"
+        },
         {
           "id": 30,
           "channel_id": "channel_3",
@@ -2118,16 +2128,6 @@
           "video_id": "sokHcTBesZI",
           "error_message": null,
           "created_at": "2026-09-18T07:53:54.618135+00:00"
-        },
-        {
-          "id": 11,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-09-18",
-          "status": "success",
-          "video_id": "jLpRzaXGHIE",
-          "error_message": null,
-          "created_at": "2026-09-18T07:52:25.585387+00:00"
         }
       ]
     },
@@ -2439,6 +2439,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7656507191549054221",
+      "youtube_id": "3cfgfesWmPA",
+      "title": "Crispy Chicken & Rice Meatballs \u2013 The Secret to Perfectly Tender Bite \u2728",
+      "tiktok_views": 89100,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/3cfgfesWmPA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-24T22:16:22Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7689136686940409119",
@@ -2571,7 +2585,7 @@
       "youtube_id": "YJ35UWmoXh8",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 43,
+      "youtube_views": 41,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
@@ -2613,7 +2627,7 @@
       "youtube_id": "d0FdoJRRMek",
       "title": "Scraping fungal toenail procedure \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 44,
+      "youtube_views": 45,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -2711,7 +2725,7 @@
       "youtube_id": "XKCjgS6OaOw",
       "title": "The French Secret to the Fluffiest Chocolate Banana Cake \u2728",
       "tiktok_views": 146600,
-      "youtube_views": 46,
+      "youtube_views": 47,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XKCjgS6OaOw/hqdefault.jpg",
@@ -3019,7 +3033,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 17962,
+      "youtube_views": 17960,
       "youtube_likes": 84,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -3047,7 +3061,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 33768,
+      "youtube_views": 33762,
       "youtube_likes": 131,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -3159,7 +3173,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 301,
+      "youtube_views": 299,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -3201,7 +3215,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 28108,
+      "youtube_views": 28105,
       "youtube_likes": 122,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -3557,20 +3571,6 @@
       "thumbnail": "https://i.ytimg.com/vi/a7u_O65DeEk/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-13T22:19:43Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7679883077044276493",
-      "youtube_id": "tOagl_ZG9xk",
-      "title": "Chocolate Tiramisu Cups with Mascarpone & KitKat \ud83c\udf6b\ud83e\udd0e \ud83d\udd25 ChocolateTira",
-      "tiktok_views": 4086,
-      "youtube_views": 26,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/tOagl_ZG9xk/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-13T16:20:26Z"
     }
   ],
   "channel": {
@@ -4312,7 +4312,7 @@
   },
   "kpis": {
     "total_uploads": 130,
-    "total_views": 132016,
+    "total_views": 132032,
     "total_likes": 612,
     "videos_per_day": 12
   },
@@ -4544,5 +4544,5 @@
       "created_at": "2026-09-18T07:52:11.752920+00:00"
     }
   ],
-  "last_updated": "2026-09-24T22:15:54.906961+00:00"
+  "last_updated": "2026-09-24T22:21:35.186967+00:00"
 }
