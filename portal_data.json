@@ -52,41 +52,41 @@
       "date": "2026-09-19",
       "ch1_views": 32,
       "ch2_views": 191,
-      "ch3_views": 103115,
+      "ch3_views": 103151,
       "ch4_views": 67,
-      "total_views": 103405
+      "total_views": 103441
     },
     {
       "date": "2026-09-20",
       "ch1_views": 35,
       "ch2_views": 215,
-      "ch3_views": 105548,
+      "ch3_views": 105584,
       "ch4_views": 230,
-      "total_views": 106028
+      "total_views": 106064
     },
     {
       "date": "2026-09-21",
       "ch1_views": 50,
       "ch2_views": 249,
-      "ch3_views": 126170,
+      "ch3_views": 126206,
       "ch4_views": 0,
-      "total_views": 126469
+      "total_views": 126505
     },
     {
       "date": "2026-09-22",
       "ch1_views": 75,
       "ch2_views": 325,
-      "ch3_views": 132756,
+      "ch3_views": 132792,
       "ch4_views": 0,
-      "total_views": 133156
+      "total_views": 133192
     },
     {
       "date": "2026-09-23",
       "ch1_views": 83,
       "ch2_views": 339,
-      "ch3_views": 132800,
+      "ch3_views": 132836,
       "ch4_views": 0,
-      "total_views": 133222
+      "total_views": 133258
     },
     {
       "date": "2026-09-24",
@@ -1645,33 +1645,33 @@
         },
         {
           "date": "2026-09-19",
-          "views": 71002,
+          "views": 71038,
           "uploads": 3,
-          "cumulative_views": 103115
+          "cumulative_views": 103151
         },
         {
           "date": "2026-09-20",
           "views": 2433,
           "uploads": 3,
-          "cumulative_views": 105548
+          "cumulative_views": 105584
         },
         {
           "date": "2026-09-21",
           "views": 20622,
           "uploads": 3,
-          "cumulative_views": 126170
+          "cumulative_views": 126206
         },
         {
           "date": "2026-09-22",
           "views": 6586,
           "uploads": 3,
-          "cumulative_views": 132756
+          "cumulative_views": 132792
         },
         {
           "date": "2026-09-23",
           "views": 44,
           "uploads": 1,
-          "cumulative_views": 132800
+          "cumulative_views": 132836
         }
       ],
       "videos": [
@@ -1850,7 +1850,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 19117,
+          "youtube_views": 19153,
           "youtube_likes": 92,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -2235,6 +2235,16 @@
       ],
       "runs": [
         {
+          "id": 24,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-09-25",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
+          "created_at": "2026-09-25T01:29:46.553353+00:00"
+        },
+        {
           "id": 23,
           "channel_id": "channel_4",
           "slot": 2,
@@ -2423,16 +2433,6 @@
           "video_id": null,
           "error_message": "'utf-8' codec can't decode byte 0xc8 in position 236: invalid continuation byte",
           "created_at": "2026-09-20T09:49:29.070660+00:00"
-        },
-        {
-          "id": 3,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-09-20",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "'utf-8' codec can't decode byte 0xc8 in position 236: invalid continuation byte",
-          "created_at": "2026-09-20T01:30:13.266394+00:00"
         }
       ]
     }
@@ -3159,7 +3159,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 19117,
+      "youtube_views": 19153,
       "youtube_likes": 92,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -4544,5 +4544,5 @@
       "created_at": "2026-09-18T07:54:07.508004+00:00"
     }
   ],
-  "last_updated": "2026-09-25T01:23:43.797162+00:00"
+  "last_updated": "2026-09-25T01:29:50.710681+00:00"
 }
