@@ -10,99 +10,99 @@
   "master_view_history": [
     {
       "date": "2026-09-14",
-      "ch1_views": 4,
+      "ch1_views": 0,
       "ch2_views": 29,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 33
+      "total_views": 29
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 7,
+      "ch1_views": 3,
       "ch2_views": 74,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 81
+      "total_views": 77
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 17,
+      "ch1_views": 13,
       "ch2_views": 79,
       "ch3_views": 338,
       "ch4_views": 0,
-      "total_views": 434
+      "total_views": 430
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 20,
+      "ch1_views": 16,
       "ch2_views": 89,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 109
+      "total_views": 105
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 29,
+      "ch1_views": 25,
       "ch2_views": 131,
       "ch3_views": 32155,
       "ch4_views": 0,
-      "total_views": 32315
+      "total_views": 32311
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 32,
+      "ch1_views": 28,
       "ch2_views": 161,
-      "ch3_views": 103611,
+      "ch3_views": 103659,
       "ch4_views": 67,
-      "total_views": 103871
+      "total_views": 103915
     },
     {
       "date": "2026-09-20",
-      "ch1_views": 35,
+      "ch1_views": 31,
       "ch2_views": 185,
-      "ch3_views": 106046,
+      "ch3_views": 106094,
       "ch4_views": 230,
-      "total_views": 106496
+      "total_views": 106540
     },
     {
       "date": "2026-09-21",
-      "ch1_views": 50,
+      "ch1_views": 46,
       "ch2_views": 219,
-      "ch3_views": 126812,
+      "ch3_views": 126860,
       "ch4_views": 0,
-      "total_views": 127081
+      "total_views": 127125
     },
     {
       "date": "2026-09-22",
-      "ch1_views": 75,
+      "ch1_views": 71,
       "ch2_views": 298,
-      "ch3_views": 133720,
+      "ch3_views": 133768,
       "ch4_views": 0,
-      "total_views": 134093
+      "total_views": 134137
     },
     {
       "date": "2026-09-23",
-      "ch1_views": 84,
-      "ch2_views": 315,
-      "ch3_views": 133771,
+      "ch1_views": 80,
+      "ch2_views": 317,
+      "ch3_views": 133819,
       "ch4_views": 0,
-      "total_views": 134170
+      "total_views": 134216
     },
     {
       "date": "2026-09-24",
-      "ch1_views": 85,
-      "ch2_views": 319,
+      "ch1_views": 81,
+      "ch2_views": 321,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 404
+      "total_views": 402
     },
     {
       "date": "2026-09-25",
-      "ch1_views": 85,
-      "ch2_views": 320,
+      "ch1_views": 81,
+      "ch2_views": 322,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 405
+      "total_views": 403
     }
   ],
   "channels": {
@@ -152,79 +152,87 @@
       },
       "view_history": [
         {
-          "date": "2026-09-14",
-          "views": 4,
-          "uploads": 1,
-          "cumulative_views": 4
-        },
-        {
           "date": "2026-09-15",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 7
+          "cumulative_views": 3
         },
         {
           "date": "2026-09-16",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 13
         },
         {
           "date": "2026-09-17",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 20
+          "cumulative_views": 16
         },
         {
           "date": "2026-09-18",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 29
+          "cumulative_views": 25
         },
         {
           "date": "2026-09-19",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 32
+          "cumulative_views": 28
         },
         {
           "date": "2026-09-20",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 35
+          "cumulative_views": 31
         },
         {
           "date": "2026-09-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 50
+          "cumulative_views": 46
         },
         {
           "date": "2026-09-22",
           "views": 25,
           "uploads": 3,
-          "cumulative_views": 75
+          "cumulative_views": 71
         },
         {
           "date": "2026-09-23",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 84
+          "cumulative_views": 80
         },
         {
           "date": "2026-09-24",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 85
+          "cumulative_views": 81
         },
         {
           "date": "2026-09-25",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 85
+          "uploads": 2,
+          "cumulative_views": 81
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7689435409436134669",
+          "youtube_id": "MXt0Ix3blQo",
+          "title": "This Baby Just Walked So His Grandpa Could Feel Seen \ud83e\udd79\u2764\ufe0f",
+          "tiktok_views": 8684,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/MXt0Ix3blQo/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-25T17:17:28Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -630,20 +638,6 @@
           "thumbnail": "https://i.ytimg.com/vi/6z3etZE553M/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-15T02:11:15Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7660870675606867213",
-          "youtube_id": "1ImJ5srNp3o",
-          "title": "This Is the Most Relatable Dad Video Ever \ud83d\ude2d tiktokgrowthchallenge v",
-          "tiktok_views": 261400,
-          "youtube_views": 4,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/1ImJ5srNp3o/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-14T23:39:56Z"
         }
       ],
       "runs": [
@@ -950,21 +944,21 @@
         },
         {
           "date": "2026-09-23",
-          "views": 17,
+          "views": 19,
           "uploads": 3,
-          "cumulative_views": 315
+          "cumulative_views": 317
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 319
+          "cumulative_views": 321
         },
         {
           "date": "2026-09-25",
           "views": 1,
           "uploads": 2,
-          "cumulative_views": 320
+          "cumulative_views": 322
         }
       ],
       "videos": [
@@ -1045,7 +1039,7 @@
           "youtube_id": "q_-jyhT_nUA",
           "title": "Quick & Easy Recipe Idea You'll Love \ud83c\udf7d\ufe0f\ud83d\udd25",
           "tiktok_views": 101700,
-          "youtube_views": 12,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/q_-jyhT_nUA/hqdefault.jpg",
@@ -1651,33 +1645,33 @@
         },
         {
           "date": "2026-09-19",
-          "views": 71456,
+          "views": 71504,
           "uploads": 3,
-          "cumulative_views": 103611
+          "cumulative_views": 103659
         },
         {
           "date": "2026-09-20",
           "views": 2435,
           "uploads": 3,
-          "cumulative_views": 106046
+          "cumulative_views": 106094
         },
         {
           "date": "2026-09-21",
           "views": 20766,
           "uploads": 3,
-          "cumulative_views": 126812
+          "cumulative_views": 126860
         },
         {
           "date": "2026-09-22",
           "views": 6908,
           "uploads": 3,
-          "cumulative_views": 133720
+          "cumulative_views": 133768
         },
         {
           "date": "2026-09-23",
           "views": 51,
           "uploads": 1,
-          "cumulative_views": 133771
+          "cumulative_views": 133819
         }
       ],
       "videos": [
@@ -1842,7 +1836,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 34226,
+          "youtube_views": 34256,
           "youtube_likes": 132,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1856,7 +1850,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 19223,
+          "youtube_views": 19241,
           "youtube_likes": 92,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1935,6 +1929,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 33,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-09-25",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-25T17:20:32.829198+00:00"
+        },
         {
           "id": 32,
           "channel_id": "channel_3",
@@ -2124,16 +2128,6 @@
           "video_id": "3M0IC4AWJa4",
           "error_message": null,
           "created_at": "2026-09-19T01:13:54.688778+00:00"
-        },
-        {
-          "id": 13,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-09-18",
-          "status": "success",
-          "video_id": "um2nCzxcEAE",
-          "error_message": null,
-          "created_at": "2026-09-18T22:04:19.704782+00:00"
         }
       ]
     },
@@ -2445,6 +2439,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7689435409436134669",
+      "youtube_id": "MXt0Ix3blQo",
+      "title": "This Baby Just Walked So His Grandpa Could Feel Seen \ud83e\udd79\u2764\ufe0f",
+      "tiktok_views": 8684,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/MXt0Ix3blQo/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-25T17:17:28Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7678765241957633294",
@@ -2591,7 +2599,7 @@
       "youtube_id": "q_-jyhT_nUA",
       "title": "Quick & Easy Recipe Idea You'll Love \ud83c\udf7d\ufe0f\ud83d\udd25",
       "tiktok_views": 101700,
-      "youtube_views": 12,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/q_-jyhT_nUA/hqdefault.jpg",
@@ -3123,7 +3131,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 34226,
+      "youtube_views": 34256,
       "youtube_likes": 132,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -3193,7 +3201,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 19223,
+      "youtube_views": 19241,
       "youtube_likes": 92,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -3537,20 +3545,6 @@
       "uploaded_at": "2026-09-15T01:09:49Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7660870675606867213",
-      "youtube_id": "1ImJ5srNp3o",
-      "title": "This Is the Most Relatable Dad Video Ever \ud83d\ude2d tiktokgrowthchallenge v",
-      "tiktok_views": 261400,
-      "youtube_views": 4,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/1ImJ5srNp3o/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-14T23:39:56Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7676177752608771341",
@@ -3625,79 +3619,87 @@
     },
     "view_history": [
       {
-        "date": "2026-09-14",
-        "views": 4,
-        "uploads": 1,
-        "cumulative_views": 4
-      },
-      {
         "date": "2026-09-15",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 7
+        "cumulative_views": 3
       },
       {
         "date": "2026-09-16",
         "views": 10,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 13
       },
       {
         "date": "2026-09-17",
         "views": 3,
         "uploads": 1,
-        "cumulative_views": 20
+        "cumulative_views": 16
       },
       {
         "date": "2026-09-18",
         "views": 9,
         "uploads": 3,
-        "cumulative_views": 29
+        "cumulative_views": 25
       },
       {
         "date": "2026-09-19",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 32
+        "cumulative_views": 28
       },
       {
         "date": "2026-09-20",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 35
+        "cumulative_views": 31
       },
       {
         "date": "2026-09-21",
         "views": 15,
         "uploads": 3,
-        "cumulative_views": 50
+        "cumulative_views": 46
       },
       {
         "date": "2026-09-22",
         "views": 25,
         "uploads": 3,
-        "cumulative_views": 75
+        "cumulative_views": 71
       },
       {
         "date": "2026-09-23",
         "views": 9,
         "uploads": 3,
-        "cumulative_views": 84
+        "cumulative_views": 80
       },
       {
         "date": "2026-09-24",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 85
+        "cumulative_views": 81
       },
       {
         "date": "2026-09-25",
         "views": 0,
-        "uploads": 1,
-        "cumulative_views": 85
+        "uploads": 2,
+        "cumulative_views": 81
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7689435409436134669",
+        "youtube_id": "MXt0Ix3blQo",
+        "title": "This Baby Just Walked So His Grandpa Could Feel Seen \ud83e\udd79\u2764\ufe0f",
+        "tiktok_views": 8684,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/MXt0Ix3blQo/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-25T17:17:28Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4103,20 +4105,6 @@
         "thumbnail": "https://i.ytimg.com/vi/6z3etZE553M/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-15T02:11:15Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7660870675606867213",
-        "youtube_id": "1ImJ5srNp3o",
-        "title": "This Is the Most Relatable Dad Video Ever \ud83d\ude2d tiktokgrowthchallenge v",
-        "tiktok_views": 261400,
-        "youtube_views": 4,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/1ImJ5srNp3o/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-14T23:39:56Z"
       }
     ],
     "runs": [
@@ -4556,5 +4544,5 @@
       "created_at": "2026-09-19T02:08:51.510754+00:00"
     }
   ],
-  "last_updated": "2026-09-25T17:17:16.016186+00:00"
+  "last_updated": "2026-09-25T17:20:37.608981+00:00"
 }
