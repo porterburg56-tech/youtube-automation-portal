@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 136,
-    "total_views": 133799,
+    "total_views": 134700,
     "total_likes": 615,
     "total_subscribers": 81,
     "channels_count": 4,
@@ -11,98 +11,98 @@
     {
       "date": "2026-09-14",
       "ch1_views": 0,
-      "ch2_views": 29,
+      "ch2_views": 17,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 29
+      "total_views": 17
     },
     {
       "date": "2026-09-15",
       "ch1_views": 3,
-      "ch2_views": 74,
+      "ch2_views": 62,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 77
+      "total_views": 65
     },
     {
       "date": "2026-09-16",
       "ch1_views": 13,
-      "ch2_views": 79,
+      "ch2_views": 67,
       "ch3_views": 338,
       "ch4_views": 0,
-      "total_views": 430
+      "total_views": 418
     },
     {
       "date": "2026-09-17",
       "ch1_views": 16,
-      "ch2_views": 89,
+      "ch2_views": 77,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 105
+      "total_views": 93
     },
     {
       "date": "2026-09-18",
       "ch1_views": 25,
-      "ch2_views": 131,
-      "ch3_views": 32162,
+      "ch2_views": 119,
+      "ch3_views": 32165,
       "ch4_views": 0,
-      "total_views": 32318
+      "total_views": 32309
     },
     {
       "date": "2026-09-19",
       "ch1_views": 28,
-      "ch2_views": 161,
-      "ch3_views": 103750,
+      "ch2_views": 149,
+      "ch3_views": 103804,
       "ch4_views": 67,
-      "total_views": 104006
+      "total_views": 104048
     },
     {
       "date": "2026-09-20",
       "ch1_views": 31,
-      "ch2_views": 185,
-      "ch3_views": 106186,
+      "ch2_views": 173,
+      "ch3_views": 106240,
       "ch4_views": 230,
-      "total_views": 106632
+      "total_views": 106674
     },
     {
       "date": "2026-09-21",
       "ch1_views": 46,
-      "ch2_views": 219,
-      "ch3_views": 127072,
+      "ch2_views": 207,
+      "ch3_views": 127164,
       "ch4_views": 0,
-      "total_views": 127337
+      "total_views": 127417
     },
     {
       "date": "2026-09-22",
       "ch1_views": 71,
-      "ch2_views": 300,
-      "ch3_views": 134145,
+      "ch2_views": 288,
+      "ch3_views": 134238,
       "ch4_views": 0,
-      "total_views": 134516
+      "total_views": 134597
     },
     {
       "date": "2026-09-23",
       "ch1_views": 80,
-      "ch2_views": 320,
-      "ch3_views": 134196,
+      "ch2_views": 308,
+      "ch3_views": 134289,
       "ch4_views": 0,
-      "total_views": 134596
+      "total_views": 134677
     },
     {
       "date": "2026-09-24",
       "ch1_views": 81,
-      "ch2_views": 324,
+      "ch2_views": 312,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 405
+      "total_views": 393
     },
     {
       "date": "2026-09-25",
       "ch1_views": 81,
-      "ch2_views": 325,
+      "ch2_views": 313,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 406
+      "total_views": 394
     }
   ],
   "channels": {
@@ -890,78 +890,92 @@
       "view_history": [
         {
           "date": "2026-09-14",
-          "views": 29,
-          "uploads": 2,
-          "cumulative_views": 29
+          "views": 17,
+          "uploads": 1,
+          "cumulative_views": 17
         },
         {
           "date": "2026-09-15",
           "views": 45,
           "uploads": 3,
-          "cumulative_views": 74
+          "cumulative_views": 62
         },
         {
           "date": "2026-09-16",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 79
+          "cumulative_views": 67
         },
         {
           "date": "2026-09-17",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 89
+          "cumulative_views": 77
         },
         {
           "date": "2026-09-18",
           "views": 42,
           "uploads": 2,
-          "cumulative_views": 131
+          "cumulative_views": 119
         },
         {
           "date": "2026-09-19",
           "views": 30,
           "uploads": 2,
-          "cumulative_views": 161
+          "cumulative_views": 149
         },
         {
           "date": "2026-09-20",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 185
+          "cumulative_views": 173
         },
         {
           "date": "2026-09-21",
           "views": 34,
           "uploads": 3,
-          "cumulative_views": 219
+          "cumulative_views": 207
         },
         {
           "date": "2026-09-22",
           "views": 81,
           "uploads": 3,
-          "cumulative_views": 300
+          "cumulative_views": 288
         },
         {
           "date": "2026-09-23",
           "views": 20,
           "uploads": 3,
-          "cumulative_views": 320
+          "cumulative_views": 308
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 324
+          "cumulative_views": 312
         },
         {
           "date": "2026-09-25",
           "views": 1,
-          "uploads": 2,
-          "cumulative_views": 325
+          "uploads": 3,
+          "cumulative_views": 313
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7677286397820046606",
+          "youtube_id": "R8wHmDwaxuw",
+          "title": "Cheesy Stuffed Meat Roll with Eggs, Potatoes & Zucchini \ud83e\udd24",
+          "tiktok_views": 68700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/R8wHmDwaxuw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-25T22:18:06Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1367,20 +1381,6 @@
           "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-14T22:21:41Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7685099963402964238",
-          "youtube_id": "IwaBIQwrlus",
-          "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
-          "tiktok_views": 13800,
-          "youtube_views": 12,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-14T16:21:51Z"
         }
       ],
       "runs": [
@@ -1602,7 +1602,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 18,
-      "total_views": 132419,
+      "total_views": 133320,
       "total_likes": 609,
       "upcoming": {
         "slot1": {
@@ -1639,39 +1639,39 @@
         },
         {
           "date": "2026-09-18",
-          "views": 31824,
+          "views": 31827,
           "uploads": 3,
-          "cumulative_views": 32162
+          "cumulative_views": 32165
         },
         {
           "date": "2026-09-19",
-          "views": 71588,
+          "views": 71639,
           "uploads": 3,
-          "cumulative_views": 103750
+          "cumulative_views": 103804
         },
         {
           "date": "2026-09-20",
           "views": 2436,
           "uploads": 3,
-          "cumulative_views": 106186
+          "cumulative_views": 106240
         },
         {
           "date": "2026-09-21",
-          "views": 20886,
+          "views": 20924,
           "uploads": 3,
-          "cumulative_views": 127072
+          "cumulative_views": 127164
         },
         {
           "date": "2026-09-22",
-          "views": 7073,
+          "views": 7074,
           "uploads": 3,
-          "cumulative_views": 134145
+          "cumulative_views": 134238
         },
         {
           "date": "2026-09-23",
           "views": 51,
           "uploads": 1,
-          "cumulative_views": 134196
+          "cumulative_views": 134289
         }
       ],
       "videos": [
@@ -1724,7 +1724,7 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6973,
+          "youtube_views": 6974,
           "youtube_likes": 26,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -1752,7 +1752,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18223,
+          "youtube_views": 18261,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1836,7 +1836,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 34300,
+          "youtube_views": 34347,
           "youtube_likes": 132,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1850,7 +1850,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 19269,
+          "youtube_views": 19273,
           "youtube_likes": 93,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1878,7 +1878,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 28148,
+          "youtube_views": 28151,
           "youtube_likes": 122,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -1929,6 +1929,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 34,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-09-25",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-25T22:20:56.202435+00:00"
+        },
         {
           "id": 33,
           "channel_id": "channel_3",
@@ -2118,16 +2128,6 @@
           "video_id": "6QW2ZqZJcXQ",
           "error_message": null,
           "created_at": "2026-09-19T17:18:35.967336+00:00"
-        },
-        {
-          "id": 14,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-09-19",
-          "status": "success",
-          "video_id": "3M0IC4AWJa4",
-          "error_message": null,
-          "created_at": "2026-09-19T01:13:54.688778+00:00"
         }
       ]
     },
@@ -2438,6 +2438,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7677286397820046606",
+      "youtube_id": "R8wHmDwaxuw",
+      "title": "Cheesy Stuffed Meat Roll with Eggs, Potatoes & Zucchini \ud83e\udd24",
+      "tiktok_views": 68700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/R8wHmDwaxuw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-25T22:18:06Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -2781,7 +2795,7 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6973,
+      "youtube_views": 6974,
       "youtube_likes": 26,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -2851,7 +2865,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18223,
+      "youtube_views": 18261,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -3131,7 +3145,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 34300,
+      "youtube_views": 34347,
       "youtube_likes": 132,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -3201,7 +3215,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 19269,
+      "youtube_views": 19273,
       "youtube_likes": 93,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -3285,7 +3299,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 28148,
+      "youtube_views": 28151,
       "youtube_likes": 122,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -3557,20 +3571,6 @@
       "thumbnail": "https://i.ytimg.com/vi/cTLcefQUb7k/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-14T22:21:41Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7685099963402964238",
-      "youtube_id": "IwaBIQwrlus",
-      "title": "Juicy Stuffed Pork Rolls with Creamy Egg Filling PorkRecipe Stuffed",
-      "tiktok_views": 13800,
-      "youtube_views": 12,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/IwaBIQwrlus/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-14T16:21:51Z"
     }
   ],
   "channel": {
@@ -4312,7 +4312,7 @@
   },
   "kpis": {
     "total_uploads": 136,
-    "total_views": 133799,
+    "total_views": 134700,
     "total_likes": 615,
     "videos_per_day": 12
   },
@@ -4544,5 +4544,5 @@
       "created_at": "2026-09-19T02:08:51.510754+00:00"
     }
   ],
-  "last_updated": "2026-09-25T22:17:25.225658+00:00"
+  "last_updated": "2026-09-25T22:21:00.309854+00:00"
 }
