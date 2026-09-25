@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 132,
+    "total_uploads": 133,
     "total_views": 132053,
-    "total_likes": 614,
+    "total_likes": 613,
     "total_subscribers": 82,
     "channels_count": 4,
     "videos_per_day": 12
@@ -44,9 +44,9 @@
       "date": "2026-09-18",
       "ch1_views": 29,
       "ch2_views": 161,
-      "ch3_views": 32113,
+      "ch3_views": 32126,
       "ch4_views": 0,
-      "total_views": 32303
+      "total_views": 32316
     },
     {
       "date": "2026-09-19",
@@ -60,9 +60,9 @@
       "date": "2026-09-20",
       "ch1_views": 35,
       "ch2_views": 215,
-      "ch3_views": 105584,
+      "ch3_views": 105582,
       "ch4_views": 230,
-      "total_views": 106064
+      "total_views": 106062
     },
     {
       "date": "2026-09-21",
@@ -76,17 +76,17 @@
       "date": "2026-09-22",
       "ch1_views": 75,
       "ch2_views": 325,
-      "ch3_views": 132792,
+      "ch3_views": 132840,
       "ch4_views": 0,
-      "total_views": 133192
+      "total_views": 133240
     },
     {
       "date": "2026-09-23",
       "ch1_views": 83,
       "ch2_views": 339,
-      "ch3_views": 132836,
+      "ch3_views": 132883,
       "ch4_views": 0,
-      "total_views": 133258
+      "total_views": 133305
     },
     {
       "date": "2026-09-24",
@@ -121,7 +121,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 56,
+      "total_uploads": 57,
       "total_views": 548,
       "total_likes": 0,
       "upcoming": {
@@ -642,6 +642,16 @@
       ],
       "runs": [
         {
+          "id": 66,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-09-25",
+          "status": "success",
+          "video_id": "m7xvf7F4k14",
+          "error_message": null,
+          "created_at": "2026-09-25T02:09:02.749959+00:00"
+        },
+        {
           "id": 65,
           "channel_id": "channel_1",
           "slot": 2,
@@ -830,16 +840,6 @@
           "video_id": "rh2Dqc6y-WY",
           "error_message": null,
           "created_at": "2026-09-18T23:39:47.122802+00:00"
-        },
-        {
-          "id": 46,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-09-18",
-          "status": "success",
-          "video_id": "9UdGcElPd1U",
-          "error_message": null,
-          "created_at": "2026-09-18T07:54:07.508004+00:00"
         }
       ]
     },
@@ -1603,7 +1603,7 @@
       "subscribers": 77,
       "total_uploads": 18,
       "total_views": 130711,
-      "total_likes": 608,
+      "total_likes": 607,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1639,39 +1639,39 @@
         },
         {
           "date": "2026-09-18",
-          "views": 31775,
+          "views": 31788,
           "uploads": 3,
-          "cumulative_views": 32113
+          "cumulative_views": 32126
         },
         {
           "date": "2026-09-19",
-          "views": 71038,
+          "views": 71025,
           "uploads": 3,
           "cumulative_views": 103151
         },
         {
           "date": "2026-09-20",
-          "views": 2433,
+          "views": 2431,
           "uploads": 3,
-          "cumulative_views": 105584
+          "cumulative_views": 105582
         },
         {
           "date": "2026-09-21",
-          "views": 20622,
+          "views": 20624,
           "uploads": 3,
           "cumulative_views": 126206
         },
         {
           "date": "2026-09-22",
-          "views": 6586,
+          "views": 6634,
           "uploads": 3,
-          "cumulative_views": 132792
+          "cumulative_views": 132840
         },
         {
           "date": "2026-09-23",
-          "views": 44,
+          "views": 43,
           "uploads": 1,
-          "cumulative_views": 132836
+          "cumulative_views": 132883
         }
       ],
       "videos": [
@@ -1682,7 +1682,7 @@
           "youtube_id": "YJ35UWmoXh8",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 44,
+          "youtube_views": 43,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
@@ -1696,7 +1696,7 @@
           "youtube_id": "d0FdoJRRMek",
           "title": "Scraping fungal toenail procedure \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 49,
+          "youtube_views": 48,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -1710,7 +1710,7 @@
           "youtube_id": "9ID09xbf_aI",
           "title": "Medical professional cleaning to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 36,
+          "youtube_views": 43,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9ID09xbf_aI/hqdefault.jpg",
@@ -1724,7 +1724,7 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6501,
+          "youtube_views": 6543,
           "youtube_likes": 25,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -1738,7 +1738,7 @@
           "youtube_id": "-tqwlkndIoo",
           "title": "Hands extracting debris from nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 62,
+          "youtube_views": 61,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-tqwlkndIoo/hqdefault.jpg",
@@ -1752,7 +1752,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18000,
+          "youtube_views": 18001,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1766,7 +1766,7 @@
           "youtube_id": "yz1J9rgBz6Y",
           "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 2560,
+          "youtube_views": 2562,
           "youtube_likes": 17,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
@@ -1808,7 +1808,7 @@
           "youtube_id": "CZy_OtHy3DU",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 2277,
+          "youtube_views": 2275,
           "youtube_likes": 7,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
@@ -1822,7 +1822,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 17972,
+          "youtube_views": 17975,
           "youtube_likes": 84,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1850,7 +1850,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 19153,
+          "youtube_views": 19137,
           "youtube_likes": 92,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1864,7 +1864,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 305,
+          "youtube_views": 301,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1878,8 +1878,8 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 28114,
-          "youtube_likes": 123,
+          "youtube_views": 28131,
+          "youtube_likes": 122,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
           "status": "uploaded",
@@ -2613,7 +2613,7 @@
       "youtube_id": "YJ35UWmoXh8",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 44,
+      "youtube_views": 43,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
@@ -2655,7 +2655,7 @@
       "youtube_id": "d0FdoJRRMek",
       "title": "Scraping fungal toenail procedure \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 49,
+      "youtube_views": 48,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -2683,7 +2683,7 @@
       "youtube_id": "9ID09xbf_aI",
       "title": "Medical professional cleaning to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 36,
+      "youtube_views": 43,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9ID09xbf_aI/hqdefault.jpg",
@@ -2739,7 +2739,7 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6501,
+      "youtube_views": 6543,
       "youtube_likes": 25,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -2781,7 +2781,7 @@
       "youtube_id": "-tqwlkndIoo",
       "title": "Hands extracting debris from nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 62,
+      "youtube_views": 61,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-tqwlkndIoo/hqdefault.jpg",
@@ -2809,7 +2809,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18000,
+      "youtube_views": 18001,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -2865,7 +2865,7 @@
       "youtube_id": "yz1J9rgBz6Y",
       "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 2560,
+      "youtube_views": 2562,
       "youtube_likes": 17,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
@@ -3019,7 +3019,7 @@
       "youtube_id": "CZy_OtHy3DU",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 2277,
+      "youtube_views": 2275,
       "youtube_likes": 7,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CZy_OtHy3DU/hqdefault.jpg",
@@ -3061,7 +3061,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 17972,
+      "youtube_views": 17975,
       "youtube_likes": 84,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -3159,7 +3159,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 19153,
+      "youtube_views": 19137,
       "youtube_likes": 92,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -3201,7 +3201,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 305,
+      "youtube_views": 301,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -3243,8 +3243,8 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 28114,
-      "youtube_likes": 123,
+      "youtube_views": 28131,
+      "youtube_likes": 122,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
       "status": "uploaded",
@@ -3588,7 +3588,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 56,
+    "total_uploads": 57,
     "total_views": 548,
     "total_likes": 0,
     "upcoming": {
@@ -4109,6 +4109,16 @@
     ],
     "runs": [
       {
+        "id": 66,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-09-25",
+        "status": "success",
+        "video_id": "m7xvf7F4k14",
+        "error_message": null,
+        "created_at": "2026-09-25T02:09:02.749959+00:00"
+      },
+      {
         "id": 65,
         "channel_id": "channel_1",
         "slot": 2,
@@ -4297,23 +4307,13 @@
         "video_id": "rh2Dqc6y-WY",
         "error_message": null,
         "created_at": "2026-09-18T23:39:47.122802+00:00"
-      },
-      {
-        "id": 46,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-09-18",
-        "status": "success",
-        "video_id": "9UdGcElPd1U",
-        "error_message": null,
-        "created_at": "2026-09-18T07:54:07.508004+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 132,
+    "total_uploads": 133,
     "total_views": 132053,
-    "total_likes": 614,
+    "total_likes": 613,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4343,6 +4343,16 @@
     }
   },
   "runs": [
+    {
+      "id": 66,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-09-25",
+      "status": "success",
+      "video_id": "m7xvf7F4k14",
+      "error_message": null,
+      "created_at": "2026-09-25T02:09:02.749959+00:00"
+    },
     {
       "id": 65,
       "channel_id": "channel_1",
@@ -4532,17 +4542,7 @@
       "video_id": "rh2Dqc6y-WY",
       "error_message": null,
       "created_at": "2026-09-18T23:39:47.122802+00:00"
-    },
-    {
-      "id": 46,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-09-18",
-      "status": "success",
-      "video_id": "9UdGcElPd1U",
-      "error_message": null,
-      "created_at": "2026-09-18T07:54:07.508004+00:00"
     }
   ],
-  "last_updated": "2026-09-25T01:29:50.710681+00:00"
+  "last_updated": "2026-09-25T02:09:07.433496+00:00"
 }
