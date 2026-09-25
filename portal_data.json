@@ -1,9 +1,9 @@
 {
   "cumulative": {
-    "total_uploads": 131,
-    "total_views": 132032,
-    "total_likes": 612,
-    "total_subscribers": 81,
+    "total_uploads": 132,
+    "total_views": 132053,
+    "total_likes": 613,
+    "total_subscribers": 82,
     "channels_count": 4,
     "videos_per_day": 12
   },
@@ -18,91 +18,91 @@
     },
     {
       "date": "2026-09-14",
-      "ch1_views": 6,
+      "ch1_views": 4,
       "ch2_views": 73,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 79
+      "total_views": 77
     },
     {
       "date": "2026-09-15",
-      "ch1_views": 9,
+      "ch1_views": 7,
       "ch2_views": 118,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 127
+      "total_views": 125
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 19,
+      "ch1_views": 17,
       "ch2_views": 123,
       "ch3_views": 337,
       "ch4_views": 0,
-      "total_views": 479
+      "total_views": 477
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 22,
+      "ch1_views": 20,
       "ch2_views": 133,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 155
+      "total_views": 153
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 31,
+      "ch1_views": 29,
       "ch2_views": 175,
       "ch3_views": 32102,
       "ch4_views": 0,
-      "total_views": 32308
+      "total_views": 32306
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 34,
+      "ch1_views": 32,
       "ch2_views": 205,
-      "ch3_views": 103012,
+      "ch3_views": 103089,
       "ch4_views": 67,
-      "total_views": 103318
+      "total_views": 103393
     },
     {
       "date": "2026-09-20",
-      "ch1_views": 37,
+      "ch1_views": 35,
       "ch2_views": 229,
-      "ch3_views": 105443,
+      "ch3_views": 105520,
       "ch4_views": 230,
-      "total_views": 105939
+      "total_views": 106014
     },
     {
       "date": "2026-09-21",
-      "ch1_views": 52,
-      "ch2_views": 262,
-      "ch3_views": 126025,
+      "ch1_views": 50,
+      "ch2_views": 263,
+      "ch3_views": 126124,
       "ch4_views": 0,
-      "total_views": 126339
+      "total_views": 126437
     },
     {
       "date": "2026-09-22",
-      "ch1_views": 77,
-      "ch2_views": 338,
-      "ch3_views": 132610,
+      "ch1_views": 75,
+      "ch2_views": 339,
+      "ch3_views": 132709,
       "ch4_views": 0,
-      "total_views": 133025
+      "total_views": 133123
     },
     {
       "date": "2026-09-23",
-      "ch1_views": 85,
-      "ch2_views": 350,
-      "ch3_views": 132653,
+      "ch1_views": 83,
+      "ch2_views": 351,
+      "ch3_views": 132752,
       "ch4_views": 0,
-      "total_views": 133088
+      "total_views": 133186
     },
     {
       "date": "2026-09-24",
-      "ch1_views": 85,
-      "ch2_views": 354,
+      "ch1_views": 83,
+      "ch2_views": 355,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 439
+      "total_views": 438
     }
   ],
   "channels": {
@@ -122,7 +122,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 56,
-      "total_views": 527,
+      "total_views": 548,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -153,72 +153,86 @@
       "view_history": [
         {
           "date": "2026-09-14",
-          "views": 6,
-          "uploads": 3,
-          "cumulative_views": 6
+          "views": 4,
+          "uploads": 2,
+          "cumulative_views": 4
         },
         {
           "date": "2026-09-15",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 9
+          "cumulative_views": 7
         },
         {
           "date": "2026-09-16",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 17
         },
         {
           "date": "2026-09-17",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 22
+          "cumulative_views": 20
         },
         {
           "date": "2026-09-18",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 31
+          "cumulative_views": 29
         },
         {
           "date": "2026-09-19",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 34
+          "cumulative_views": 32
         },
         {
           "date": "2026-09-20",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 37
+          "cumulative_views": 35
         },
         {
           "date": "2026-09-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 52
+          "cumulative_views": 50
         },
         {
           "date": "2026-09-22",
           "views": 25,
           "uploads": 3,
-          "cumulative_views": 77
+          "cumulative_views": 75
         },
         {
           "date": "2026-09-23",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 85
+          "cumulative_views": 83
         },
         {
           "date": "2026-09-24",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 85
+          "uploads": 3,
+          "cumulative_views": 83
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7670150127289453837",
+          "youtube_id": "9VYmzsjrWqM",
+          "title": "The way they copied every little habit had the whole house laughing \ud83d\ude02",
+          "tiktok_views": 42900,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/9VYmzsjrWqM/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-24T23:40:41Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -624,20 +638,6 @@
           "thumbnail": "https://i.ytimg.com/vi/vh5Gc6wDa-U/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-14T17:16:28Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7678362894030998815",
-          "youtube_id": "j72EKlx6t-I",
-          "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
-          "tiktok_views": 288400,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-14T02:09:42Z"
         }
       ],
       "runs": [
@@ -858,7 +858,7 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 54,
+      "total_uploads": 55,
       "total_views": 564,
       "total_likes": 1,
       "upcoming": {
@@ -938,27 +938,27 @@
         },
         {
           "date": "2026-09-21",
-          "views": 33,
+          "views": 34,
           "uploads": 3,
-          "cumulative_views": 262
+          "cumulative_views": 263
         },
         {
           "date": "2026-09-22",
           "views": 76,
           "uploads": 3,
-          "cumulative_views": 338
+          "cumulative_views": 339
         },
         {
           "date": "2026-09-23",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 350
+          "cumulative_views": 351
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 354
+          "cumulative_views": 355
         }
       ],
       "videos": [
@@ -1095,7 +1095,7 @@
           "youtube_id": "Zylx7Mdmo3Y",
           "title": "French-Style Cream-Filled Puff Pastry Cones \u2728",
           "tiktok_views": 147400,
-          "youtube_views": 13,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Zylx7Mdmo3Y/hqdefault.jpg",
@@ -1385,6 +1385,16 @@
       ],
       "runs": [
         {
+          "id": 64,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-09-25",
+          "status": "success",
+          "video_id": "Q5CWGfHqTd0",
+          "error_message": null,
+          "created_at": "2026-09-25T01:13:14.547683+00:00"
+        },
+        {
           "id": 63,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1573,16 +1583,6 @@
           "video_id": "Et2FVj_Gj2M",
           "error_message": null,
           "created_at": "2026-09-18T07:55:03.398128+00:00"
-        },
-        {
-          "id": 41,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-09-18",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-18T01:07:09.580742+00:00"
         }
       ]
     },
@@ -1600,10 +1600,10 @@
       "avatar": "https://yt3.ggpht.com/_ywAP0n0twSZRvZz7t_X5vS00F5NlWoAQXH-s9AjKEmY1Tb_Xnw3mSnojDjYZBXULnhq2FE7fA=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
-      "subscribers": 76,
+      "subscribers": 77,
       "total_uploads": 18,
       "total_views": 130711,
-      "total_likes": 606,
+      "total_likes": 607,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1645,33 +1645,33 @@
         },
         {
           "date": "2026-09-19",
-          "views": 70910,
+          "views": 70987,
           "uploads": 3,
-          "cumulative_views": 103012
+          "cumulative_views": 103089
         },
         {
           "date": "2026-09-20",
           "views": 2431,
           "uploads": 3,
-          "cumulative_views": 105443
+          "cumulative_views": 105520
         },
         {
           "date": "2026-09-21",
-          "views": 20582,
+          "views": 20604,
           "uploads": 3,
-          "cumulative_views": 126025
+          "cumulative_views": 126124
         },
         {
           "date": "2026-09-22",
           "views": 6585,
           "uploads": 3,
-          "cumulative_views": 132610
+          "cumulative_views": 132709
         },
         {
           "date": "2026-09-23",
           "views": 43,
           "uploads": 1,
-          "cumulative_views": 132653
+          "cumulative_views": 132752
         }
       ],
       "videos": [
@@ -1766,7 +1766,7 @@
           "youtube_id": "yz1J9rgBz6Y",
           "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 2540,
+          "youtube_views": 2562,
           "youtube_likes": 17,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
@@ -1836,8 +1836,8 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 33811,
-          "youtube_likes": 131,
+          "youtube_views": 33908,
+          "youtube_likes": 132,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
           "status": "uploaded",
@@ -1850,7 +1850,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 19137,
+          "youtube_views": 19117,
           "youtube_likes": 92,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -2439,6 +2439,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7670150127289453837",
+      "youtube_id": "9VYmzsjrWqM",
+      "title": "The way they copied every little habit had the whole house laughing \ud83d\ude02",
+      "tiktok_views": 42900,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/9VYmzsjrWqM/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-24T23:40:41Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7656507191549054221",
@@ -2767,7 +2781,7 @@
       "youtube_id": "Zylx7Mdmo3Y",
       "title": "French-Style Cream-Filled Puff Pastry Cones \u2728",
       "tiktok_views": 147400,
-      "youtube_views": 13,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Zylx7Mdmo3Y/hqdefault.jpg",
@@ -2837,7 +2851,7 @@
       "youtube_id": "yz1J9rgBz6Y",
       "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 2540,
+      "youtube_views": 2562,
       "youtube_likes": 17,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
@@ -3061,8 +3075,8 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 33811,
-      "youtube_likes": 131,
+      "youtube_views": 33908,
+      "youtube_likes": 132,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
       "status": "uploaded",
@@ -3131,7 +3145,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 19137,
+      "youtube_views": 19117,
       "youtube_likes": 92,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -3531,20 +3545,6 @@
       "uploaded_at": "2026-09-14T16:21:51Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7678362894030998815",
-      "youtube_id": "j72EKlx6t-I",
-      "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
-      "tiktok_views": 288400,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-14T02:09:42Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7663552064454184206",
@@ -3589,7 +3589,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 56,
-    "total_views": 527,
+    "total_views": 548,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -3620,72 +3620,86 @@
     "view_history": [
       {
         "date": "2026-09-14",
-        "views": 6,
-        "uploads": 3,
-        "cumulative_views": 6
+        "views": 4,
+        "uploads": 2,
+        "cumulative_views": 4
       },
       {
         "date": "2026-09-15",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 9
+        "cumulative_views": 7
       },
       {
         "date": "2026-09-16",
         "views": 10,
         "uploads": 3,
-        "cumulative_views": 19
+        "cumulative_views": 17
       },
       {
         "date": "2026-09-17",
         "views": 3,
         "uploads": 1,
-        "cumulative_views": 22
+        "cumulative_views": 20
       },
       {
         "date": "2026-09-18",
         "views": 9,
         "uploads": 3,
-        "cumulative_views": 31
+        "cumulative_views": 29
       },
       {
         "date": "2026-09-19",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 34
+        "cumulative_views": 32
       },
       {
         "date": "2026-09-20",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 37
+        "cumulative_views": 35
       },
       {
         "date": "2026-09-21",
         "views": 15,
         "uploads": 3,
-        "cumulative_views": 52
+        "cumulative_views": 50
       },
       {
         "date": "2026-09-22",
         "views": 25,
         "uploads": 3,
-        "cumulative_views": 77
+        "cumulative_views": 75
       },
       {
         "date": "2026-09-23",
         "views": 8,
         "uploads": 3,
-        "cumulative_views": 85
+        "cumulative_views": 83
       },
       {
         "date": "2026-09-24",
         "views": 0,
-        "uploads": 2,
-        "cumulative_views": 85
+        "uploads": 3,
+        "cumulative_views": 83
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7670150127289453837",
+        "youtube_id": "9VYmzsjrWqM",
+        "title": "The way they copied every little habit had the whole house laughing \ud83d\ude02",
+        "tiktok_views": 42900,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/9VYmzsjrWqM/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-24T23:40:41Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4091,20 +4105,6 @@
         "thumbnail": "https://i.ytimg.com/vi/vh5Gc6wDa-U/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-14T17:16:28Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7678362894030998815",
-        "youtube_id": "j72EKlx6t-I",
-        "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23 tikt",
-        "tiktok_views": 288400,
-        "youtube_views": 2,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/j72EKlx6t-I/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-14T02:09:42Z"
       }
     ],
     "runs": [
@@ -4311,9 +4311,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 131,
-    "total_views": 132032,
-    "total_likes": 612,
+    "total_uploads": 132,
+    "total_views": 132053,
+    "total_likes": 613,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4544,5 +4544,5 @@
       "created_at": "2026-09-18T07:54:07.508004+00:00"
     }
   ],
-  "last_updated": "2026-09-24T23:40:34.086461+00:00"
+  "last_updated": "2026-09-25T01:13:28.324397+00:00"
 }
