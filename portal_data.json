@@ -11,98 +11,98 @@
     {
       "date": "2026-09-15",
       "ch1_views": 0,
-      "ch2_views": 34,
+      "ch2_views": 10,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 34
+      "total_views": 10
     },
     {
       "date": "2026-09-16",
       "ch1_views": 10,
-      "ch2_views": 39,
+      "ch2_views": 15,
       "ch3_views": 340,
       "ch4_views": 0,
-      "total_views": 389
+      "total_views": 365
     },
     {
       "date": "2026-09-17",
       "ch1_views": 13,
-      "ch2_views": 49,
+      "ch2_views": 25,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 62
+      "total_views": 38
     },
     {
       "date": "2026-09-18",
       "ch1_views": 22,
-      "ch2_views": 91,
+      "ch2_views": 67,
       "ch3_views": 32195,
       "ch4_views": 0,
-      "total_views": 32308
+      "total_views": 32284
     },
     {
       "date": "2026-09-19",
       "ch1_views": 25,
-      "ch2_views": 121,
-      "ch3_views": 104253,
+      "ch2_views": 97,
+      "ch3_views": 104248,
       "ch4_views": 67,
-      "total_views": 104466
+      "total_views": 104437
     },
     {
       "date": "2026-09-20",
       "ch1_views": 28,
-      "ch2_views": 145,
-      "ch3_views": 106699,
+      "ch2_views": 121,
+      "ch3_views": 106694,
       "ch4_views": 230,
-      "total_views": 107102
+      "total_views": 107073
     },
     {
       "date": "2026-09-21",
       "ch1_views": 44,
-      "ch2_views": 179,
+      "ch2_views": 155,
       "ch3_views": 127748,
       "ch4_views": 0,
-      "total_views": 127971
+      "total_views": 127947
     },
     {
       "date": "2026-09-22",
       "ch1_views": 72,
-      "ch2_views": 261,
+      "ch2_views": 237,
       "ch3_views": 135034,
       "ch4_views": 0,
-      "total_views": 135367
+      "total_views": 135343
     },
     {
       "date": "2026-09-23",
       "ch1_views": 81,
-      "ch2_views": 282,
+      "ch2_views": 258,
       "ch3_views": 135098,
       "ch4_views": 0,
-      "total_views": 135461
+      "total_views": 135437
     },
     {
       "date": "2026-09-24",
       "ch1_views": 82,
-      "ch2_views": 286,
+      "ch2_views": 262,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 368
+      "total_views": 344
     },
     {
       "date": "2026-09-25",
       "ch1_views": 82,
-      "ch2_views": 288,
+      "ch2_views": 264,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 370
+      "total_views": 346
     },
     {
       "date": "2026-09-26",
       "ch1_views": 86,
-      "ch2_views": 291,
+      "ch2_views": 267,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 377
+      "total_views": 353
     }
   ],
   "channels": {
@@ -890,78 +890,92 @@
       "view_history": [
         {
           "date": "2026-09-15",
-          "views": 34,
-          "uploads": 2,
-          "cumulative_views": 34
+          "views": 10,
+          "uploads": 1,
+          "cumulative_views": 10
         },
         {
           "date": "2026-09-16",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 39
+          "cumulative_views": 15
         },
         {
           "date": "2026-09-17",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 49
+          "cumulative_views": 25
         },
         {
           "date": "2026-09-18",
           "views": 42,
           "uploads": 2,
-          "cumulative_views": 91
+          "cumulative_views": 67
         },
         {
           "date": "2026-09-19",
           "views": 30,
           "uploads": 2,
-          "cumulative_views": 121
+          "cumulative_views": 97
         },
         {
           "date": "2026-09-20",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 145
+          "cumulative_views": 121
         },
         {
           "date": "2026-09-21",
           "views": 34,
           "uploads": 3,
-          "cumulative_views": 179
+          "cumulative_views": 155
         },
         {
           "date": "2026-09-22",
           "views": 82,
           "uploads": 3,
-          "cumulative_views": 261
+          "cumulative_views": 237
         },
         {
           "date": "2026-09-23",
           "views": 21,
           "uploads": 3,
-          "cumulative_views": 282
+          "cumulative_views": 258
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 286
+          "cumulative_views": 262
         },
         {
           "date": "2026-09-25",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 288
+          "cumulative_views": 264
         },
         {
           "date": "2026-09-26",
           "views": 3,
-          "uploads": 2,
-          "cumulative_views": 291
+          "uploads": 3,
+          "cumulative_views": 267
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7675452127317118221",
+          "youtube_id": "QykSg4oh-nM",
+          "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
+          "tiktok_views": 55100,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/QykSg4oh-nM/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-26T22:15:56Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1367,20 +1381,6 @@
           "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-15T22:21:01Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7685458628588997901",
-          "youtube_id": "0yLRz-J0Xf8",
-          "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
-          "tiktok_views": 207400,
-          "youtube_views": 24,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-15T16:19:52Z"
         }
       ],
       "runs": [
@@ -1645,19 +1645,19 @@
         },
         {
           "date": "2026-09-19",
-          "views": 72058,
+          "views": 72053,
           "uploads": 3,
-          "cumulative_views": 104253
+          "cumulative_views": 104248
         },
         {
           "date": "2026-09-20",
           "views": 2446,
           "uploads": 3,
-          "cumulative_views": 106699
+          "cumulative_views": 106694
         },
         {
           "date": "2026-09-21",
-          "views": 21049,
+          "views": 21054,
           "uploads": 3,
           "cumulative_views": 127748
         },
@@ -1752,7 +1752,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18359,
+          "youtube_views": 18365,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1766,7 +1766,7 @@
           "youtube_id": "yz1J9rgBz6Y",
           "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 2617,
+          "youtube_views": 2616,
           "youtube_likes": 17,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
@@ -1836,7 +1836,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 34605,
+          "youtube_views": 34599,
           "youtube_likes": 132,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1850,7 +1850,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 19374,
+          "youtube_views": 19375,
           "youtube_likes": 93,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1929,6 +1929,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 37,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-09-26",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-26T22:20:35.137634+00:00"
+        },
         {
           "id": 36,
           "channel_id": "channel_3",
@@ -2118,16 +2128,6 @@
           "video_id": "LiAhcCZMDCY",
           "error_message": null,
           "created_at": "2026-09-20T17:18:29.343131+00:00"
-        },
-        {
-          "id": 17,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-09-20",
-          "status": "success",
-          "video_id": "CZy_OtHy3DU",
-          "error_message": null,
-          "created_at": "2026-09-20T01:23:54.457814+00:00"
         }
       ]
     },
@@ -2438,6 +2438,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7675452127317118221",
+      "youtube_id": "QykSg4oh-nM",
+      "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
+      "tiktok_views": 55100,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/QykSg4oh-nM/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-26T22:15:56Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -2935,7 +2949,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18359,
+      "youtube_views": 18365,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -2991,7 +3005,7 @@
       "youtube_id": "yz1J9rgBz6Y",
       "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 2617,
+      "youtube_views": 2616,
       "youtube_likes": 17,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
@@ -3215,7 +3229,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 34605,
+      "youtube_views": 34599,
       "youtube_likes": 132,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -3285,7 +3299,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 19374,
+      "youtube_views": 19375,
       "youtube_likes": 93,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -3557,20 +3571,6 @@
       "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-15T22:21:01Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7685458628588997901",
-      "youtube_id": "0yLRz-J0Xf8",
-      "title": "Easy Chicken Stir-Fry Spaghetti \ud83c\udf5c ChickenStirFry StirFryNoodles Ch",
-      "tiktok_views": 207400,
-      "youtube_views": 24,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/0yLRz-J0Xf8/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-15T16:19:52Z"
     }
   ],
   "channel": {
@@ -4544,5 +4544,5 @@
       "created_at": "2026-09-20T02:09:19.271224+00:00"
     }
   ],
-  "last_updated": "2026-09-26T22:15:26.396803+00:00"
+  "last_updated": "2026-09-26T22:20:40.643260+00:00"
 }
