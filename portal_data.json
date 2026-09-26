@@ -44,17 +44,17 @@
       "date": "2026-09-19",
       "ch1_views": 25,
       "ch2_views": 97,
-      "ch3_views": 104248,
+      "ch3_views": 104253,
       "ch4_views": 67,
-      "total_views": 104437
+      "total_views": 104442
     },
     {
       "date": "2026-09-20",
       "ch1_views": 28,
       "ch2_views": 121,
-      "ch3_views": 106694,
+      "ch3_views": 106699,
       "ch4_views": 230,
-      "total_views": 107073
+      "total_views": 107078
     },
     {
       "date": "2026-09-21",
@@ -1645,19 +1645,19 @@
         },
         {
           "date": "2026-09-19",
-          "views": 72053,
+          "views": 72058,
           "uploads": 3,
-          "cumulative_views": 104248
+          "cumulative_views": 104253
         },
         {
           "date": "2026-09-20",
           "views": 2446,
           "uploads": 3,
-          "cumulative_views": 106694
+          "cumulative_views": 106699
         },
         {
           "date": "2026-09-21",
-          "views": 21054,
+          "views": 21049,
           "uploads": 3,
           "cumulative_views": 127748
         },
@@ -1752,7 +1752,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18365,
+          "youtube_views": 18359,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1766,7 +1766,7 @@
           "youtube_id": "yz1J9rgBz6Y",
           "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 2616,
+          "youtube_views": 2617,
           "youtube_likes": 17,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
@@ -1836,7 +1836,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 34599,
+          "youtube_views": 34605,
           "youtube_likes": 132,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1850,7 +1850,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 19375,
+          "youtube_views": 19374,
           "youtube_likes": 93,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -2235,6 +2235,16 @@
       ],
       "runs": [
         {
+          "id": 29,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-09-26",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
+          "created_at": "2026-09-26T22:26:13.250734+00:00"
+        },
+        {
           "id": 28,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2423,16 +2433,6 @@
           "video_id": "SOoUHtAQ7rg",
           "error_message": null,
           "created_at": "2026-09-20T10:23:14.532861+00:00"
-        },
-        {
-          "id": 8,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-09-20",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "'utf-8' codec can't decode byte 0xc8 in position 236: invalid continuation byte",
-          "created_at": "2026-09-20T10:13:17.580648+00:00"
         }
       ]
     }
@@ -2949,7 +2949,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18365,
+      "youtube_views": 18359,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -3005,7 +3005,7 @@
       "youtube_id": "yz1J9rgBz6Y",
       "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 2616,
+      "youtube_views": 2617,
       "youtube_likes": 17,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
@@ -3229,7 +3229,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 34599,
+      "youtube_views": 34605,
       "youtube_likes": 132,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -3299,7 +3299,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 19375,
+      "youtube_views": 19374,
       "youtube_likes": 93,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -4544,5 +4544,5 @@
       "created_at": "2026-09-20T02:09:19.271224+00:00"
     }
   ],
-  "last_updated": "2026-09-26T22:20:40.643260+00:00"
+  "last_updated": "2026-09-26T22:26:17.256872+00:00"
 }
