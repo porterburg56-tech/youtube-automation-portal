@@ -10,99 +10,99 @@
   "master_view_history": [
     {
       "date": "2026-09-16",
-      "ch1_views": 4,
+      "ch1_views": 0,
       "ch2_views": 5,
       "ch3_views": 339,
       "ch4_views": 0,
-      "total_views": 348
+      "total_views": 344
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 7,
+      "ch1_views": 3,
       "ch2_views": 15,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 22
+      "total_views": 18
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 17,
+      "ch1_views": 13,
       "ch2_views": 57,
       "ch3_views": 32205,
       "ch4_views": 0,
-      "total_views": 32279
+      "total_views": 32275
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 20,
+      "ch1_views": 16,
       "ch2_views": 87,
       "ch3_views": 104330,
       "ch4_views": 67,
-      "total_views": 104504
+      "total_views": 104500
     },
     {
       "date": "2026-09-20",
-      "ch1_views": 23,
+      "ch1_views": 19,
       "ch2_views": 113,
       "ch3_views": 106778,
       "ch4_views": 230,
-      "total_views": 107144
+      "total_views": 107140
     },
     {
       "date": "2026-09-21",
-      "ch1_views": 39,
+      "ch1_views": 35,
       "ch2_views": 147,
       "ch3_views": 127863,
       "ch4_views": 0,
-      "total_views": 128049
+      "total_views": 128045
     },
     {
       "date": "2026-09-22",
-      "ch1_views": 67,
+      "ch1_views": 63,
       "ch2_views": 229,
       "ch3_views": 135164,
       "ch4_views": 0,
-      "total_views": 135460
+      "total_views": 135456
     },
     {
       "date": "2026-09-23",
-      "ch1_views": 76,
+      "ch1_views": 72,
       "ch2_views": 250,
       "ch3_views": 135230,
       "ch4_views": 0,
-      "total_views": 135556
+      "total_views": 135552
     },
     {
       "date": "2026-09-24",
-      "ch1_views": 80,
+      "ch1_views": 76,
       "ch2_views": 254,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 330
+    },
+    {
+      "date": "2026-09-25",
+      "ch1_views": 76,
+      "ch2_views": 258,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 334
     },
     {
-      "date": "2026-09-25",
-      "ch1_views": 80,
-      "ch2_views": 258,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 338
-    },
-    {
       "date": "2026-09-26",
-      "ch1_views": 87,
+      "ch1_views": 83,
       "ch2_views": 266,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 353
+      "total_views": 349
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 87,
-      "ch2_views": 266,
+      "ch1_views": 83,
+      "ch2_views": 267,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 353
+      "total_views": 350
     }
   ],
   "channels": {
@@ -152,79 +152,87 @@
       },
       "view_history": [
         {
-          "date": "2026-09-16",
-          "views": 4,
-          "uploads": 1,
-          "cumulative_views": 4
-        },
-        {
           "date": "2026-09-17",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 7
+          "cumulative_views": 3
         },
         {
           "date": "2026-09-18",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 13
         },
         {
           "date": "2026-09-19",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 16
         },
         {
           "date": "2026-09-20",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 23
+          "cumulative_views": 19
         },
         {
           "date": "2026-09-21",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 39
+          "cumulative_views": 35
         },
         {
           "date": "2026-09-22",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 67
+          "cumulative_views": 63
         },
         {
           "date": "2026-09-23",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 76
+          "cumulative_views": 72
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 80
+          "cumulative_views": 76
         },
         {
           "date": "2026-09-25",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 80
+          "cumulative_views": 76
         },
         {
           "date": "2026-09-26",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 87
+          "cumulative_views": 83
         },
         {
           "date": "2026-09-27",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 87
+          "uploads": 2,
+          "cumulative_views": 83
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7690245250043890957",
+          "youtube_id": "SqqK8E-Qamc",
+          "title": "He Studied the Moves and Executed Perfectly \ud83d\udcaa\ud83d\ude02",
+          "tiktok_views": 10700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/SqqK8E-Qamc/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-27T17:16:29Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -630,20 +638,6 @@
           "thumbnail": "https://i.ytimg.com/vi/pDRO1BpkUd8/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-17T02:09:23Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7662762149856414989",
-          "youtube_id": "LTXCsx8kOcI",
-          "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
-          "tiktok_views": 119700,
-          "youtube_views": 4,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-16T23:40:59Z"
         }
       ],
       "runs": [
@@ -962,9 +956,9 @@
         },
         {
           "date": "2026-09-27",
-          "views": 0,
+          "views": 1,
           "uploads": 2,
-          "cumulative_views": 266
+          "cumulative_views": 267
         }
       ],
       "videos": [
@@ -989,7 +983,7 @@
           "youtube_id": "fOkH5a4Y7no",
           "title": "Beer-Marinated Tender Beef \u2728",
           "tiktok_views": 76200,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/fOkH5a4Y7no/hqdefault.jpg",
@@ -1936,6 +1930,16 @@
       ],
       "runs": [
         {
+          "id": 39,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-09-27",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-27T17:19:08.427757+00:00"
+        },
+        {
           "id": 38,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2124,16 +2128,6 @@
           "video_id": "yz1J9rgBz6Y",
           "error_message": null,
           "created_at": "2026-09-21T01:25:32.607381+00:00"
-        },
-        {
-          "id": 19,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-09-20",
-          "status": "success",
-          "video_id": "YK449kpd7UU",
-          "error_message": null,
-          "created_at": "2026-09-20T22:19:39.280068+00:00"
         }
       ]
     },
@@ -2445,6 +2439,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7690245250043890957",
+      "youtube_id": "SqqK8E-Qamc",
+      "title": "He Studied the Moves and Executed Perfectly \ud83d\udcaa\ud83d\ude02",
+      "tiktok_views": 10700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/SqqK8E-Qamc/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-27T17:16:29Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7678413260739087630",
@@ -2479,7 +2487,7 @@
       "youtube_id": "fOkH5a4Y7no",
       "title": "Beer-Marinated Tender Beef \u2728",
       "tiktok_views": 76200,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/fOkH5a4Y7no/hqdefault.jpg",
@@ -3509,20 +3517,6 @@
       "uploaded_at": "2026-09-17T01:09:57Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7662762149856414989",
-      "youtube_id": "LTXCsx8kOcI",
-      "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
-      "tiktok_views": 119700,
-      "youtube_views": 4,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-16T23:40:59Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7665767680598838541",
@@ -3625,79 +3619,87 @@
     },
     "view_history": [
       {
-        "date": "2026-09-16",
-        "views": 4,
-        "uploads": 1,
-        "cumulative_views": 4
-      },
-      {
         "date": "2026-09-17",
         "views": 3,
         "uploads": 1,
-        "cumulative_views": 7
+        "cumulative_views": 3
       },
       {
         "date": "2026-09-18",
         "views": 10,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 13
       },
       {
         "date": "2026-09-19",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 16
       },
       {
         "date": "2026-09-20",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 23
+        "cumulative_views": 19
       },
       {
         "date": "2026-09-21",
         "views": 16,
         "uploads": 3,
-        "cumulative_views": 39
+        "cumulative_views": 35
       },
       {
         "date": "2026-09-22",
         "views": 28,
         "uploads": 3,
-        "cumulative_views": 67
+        "cumulative_views": 63
       },
       {
         "date": "2026-09-23",
         "views": 9,
         "uploads": 3,
-        "cumulative_views": 76
+        "cumulative_views": 72
       },
       {
         "date": "2026-09-24",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 80
+        "cumulative_views": 76
       },
       {
         "date": "2026-09-25",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 80
+        "cumulative_views": 76
       },
       {
         "date": "2026-09-26",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 87
+        "cumulative_views": 83
       },
       {
         "date": "2026-09-27",
         "views": 0,
-        "uploads": 1,
-        "cumulative_views": 87
+        "uploads": 2,
+        "cumulative_views": 83
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7690245250043890957",
+        "youtube_id": "SqqK8E-Qamc",
+        "title": "He Studied the Moves and Executed Perfectly \ud83d\udcaa\ud83d\ude02",
+        "tiktok_views": 10700,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/SqqK8E-Qamc/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-27T17:16:29Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4103,20 +4105,6 @@
         "thumbnail": "https://i.ytimg.com/vi/pDRO1BpkUd8/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-17T02:09:23Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7662762149856414989",
-        "youtube_id": "LTXCsx8kOcI",
-        "title": "This Toddler Dad Skit Is Peak Family Content \ud83d\ude02 #shorts",
-        "tiktok_views": 119700,
-        "youtube_views": 4,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/LTXCsx8kOcI/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-16T23:40:59Z"
       }
     ],
     "runs": [
@@ -4556,5 +4544,5 @@
       "created_at": "2026-09-21T02:08:40.350155+00:00"
     }
   ],
-  "last_updated": "2026-09-27T17:16:10.387680+00:00"
+  "last_updated": "2026-09-27T17:19:12.375307+00:00"
 }
