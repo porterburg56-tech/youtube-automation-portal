@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 146,
+    "total_uploads": 147,
     "total_views": 136471,
     "total_likes": 614,
     "total_subscribers": 81,
@@ -28,49 +28,49 @@
       "date": "2026-09-18",
       "ch1_views": 17,
       "ch2_views": 57,
-      "ch3_views": 32201,
+      "ch3_views": 32205,
       "ch4_views": 0,
-      "total_views": 32275
+      "total_views": 32279
     },
     {
       "date": "2026-09-19",
       "ch1_views": 20,
       "ch2_views": 87,
-      "ch3_views": 104329,
+      "ch3_views": 104330,
       "ch4_views": 67,
-      "total_views": 104503
+      "total_views": 104504
     },
     {
       "date": "2026-09-20",
       "ch1_views": 23,
       "ch2_views": 113,
-      "ch3_views": 106777,
+      "ch3_views": 106778,
       "ch4_views": 230,
-      "total_views": 107143
+      "total_views": 107144
     },
     {
       "date": "2026-09-21",
       "ch1_views": 39,
       "ch2_views": 147,
-      "ch3_views": 127862,
+      "ch3_views": 127863,
       "ch4_views": 0,
-      "total_views": 128048
+      "total_views": 128049
     },
     {
       "date": "2026-09-22",
       "ch1_views": 67,
       "ch2_views": 229,
-      "ch3_views": 135162,
+      "ch3_views": 135164,
       "ch4_views": 0,
-      "total_views": 135458
+      "total_views": 135460
     },
     {
       "date": "2026-09-23",
       "ch1_views": 76,
       "ch2_views": 250,
-      "ch3_views": 135228,
+      "ch3_views": 135230,
       "ch4_views": 0,
-      "total_views": 135554
+      "total_views": 135556
     },
     {
       "date": "2026-09-24",
@@ -83,26 +83,26 @@
     {
       "date": "2026-09-25",
       "ch1_views": 80,
-      "ch2_views": 257,
+      "ch2_views": 258,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 337
+      "total_views": 338
     },
     {
       "date": "2026-09-26",
       "ch1_views": 87,
-      "ch2_views": 264,
+      "ch2_views": 266,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 351
+      "total_views": 353
     },
     {
       "date": "2026-09-27",
       "ch1_views": 87,
-      "ch2_views": 264,
+      "ch2_views": 266,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 351
+      "total_views": 353
     }
   ],
   "channels": {
@@ -121,7 +121,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 63,
+      "total_uploads": 64,
       "total_views": 565,
       "total_likes": 0,
       "upcoming": {
@@ -648,6 +648,16 @@
       ],
       "runs": [
         {
+          "id": 73,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-27",
+          "status": "success",
+          "video_id": "SqqK8E-Qamc",
+          "error_message": null,
+          "created_at": "2026-09-27T17:16:05.942608+00:00"
+        },
+        {
           "id": 72,
           "channel_id": "channel_1",
           "slot": 3,
@@ -836,16 +846,6 @@
           "video_id": "GOj6RKHiFdM",
           "error_message": null,
           "created_at": "2026-09-21T02:08:40.350155+00:00"
-        },
-        {
-          "id": 53,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-09-20",
-          "status": "success",
-          "video_id": "tD6i2uOtsGE",
-          "error_message": null,
-          "created_at": "2026-09-20T23:39:21.470113+00:00"
         }
       ]
     },
@@ -897,7 +897,7 @@
         {
           "date": "2026-09-16",
           "views": 5,
-          "uploads": 3,
+          "uploads": 2,
           "cumulative_views": 5
         },
         {
@@ -950,24 +950,38 @@
         },
         {
           "date": "2026-09-25",
-          "views": 3,
+          "views": 4,
           "uploads": 3,
-          "cumulative_views": 257
+          "cumulative_views": 258
         },
         {
           "date": "2026-09-26",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 264
+          "cumulative_views": 266
         },
         {
           "date": "2026-09-27",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 264
+          "uploads": 2,
+          "cumulative_views": 266
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7678413260739087630",
+          "youtube_id": "xdXwrdZyMgg",
+          "title": "cheesy Stuffed Meatballs with potatoes \u2728",
+          "tiktok_views": 12900,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/xdXwrdZyMgg/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-27T16:17:23Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1017,7 +1031,7 @@
           "youtube_id": "Bg_LMovXZ8A",
           "title": "Crispy French Apple Puff Pastry Dessert \ud83c\udf4e\ud83e\udd50",
           "tiktok_views": 59100,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Bg_LMovXZ8A/hqdefault.jpg",
@@ -1031,7 +1045,7 @@
           "youtube_id": "R8wHmDwaxuw",
           "title": "Cheesy Stuffed Meat Roll with Eggs, Potatoes & Zucchini \ud83e\udd24",
           "tiktok_views": 68700,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/R8wHmDwaxuw/hqdefault.jpg",
@@ -1373,20 +1387,6 @@
           "thumbnail": "https://i.ytimg.com/vi/TRaOzblj_aI/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-16T16:21:09Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7663919232085789965",
-          "youtube_id": "ZzaI1EsoqHE",
-          "title": "Cheesy Stuffed Puff Pastry Buns That Melt in Every Bite \ud83e\uddc0\ud83e\udd50 CheesyBu",
-          "tiktok_views": 628600,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/ZzaI1EsoqHE/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-16T01:09:33Z"
         }
       ],
       "runs": [
@@ -1645,39 +1645,39 @@
         },
         {
           "date": "2026-09-18",
-          "views": 31862,
+          "views": 31866,
           "uploads": 3,
-          "cumulative_views": 32201
+          "cumulative_views": 32205
         },
         {
           "date": "2026-09-19",
-          "views": 72128,
+          "views": 72125,
           "uploads": 3,
-          "cumulative_views": 104329
+          "cumulative_views": 104330
         },
         {
           "date": "2026-09-20",
           "views": 2448,
           "uploads": 3,
-          "cumulative_views": 106777
+          "cumulative_views": 106778
         },
         {
           "date": "2026-09-21",
           "views": 21085,
           "uploads": 3,
-          "cumulative_views": 127862
+          "cumulative_views": 127863
         },
         {
           "date": "2026-09-22",
-          "views": 7300,
+          "views": 7301,
           "uploads": 3,
-          "cumulative_views": 135162
+          "cumulative_views": 135164
         },
         {
           "date": "2026-09-23",
           "views": 66,
           "uploads": 1,
-          "cumulative_views": 135228
+          "cumulative_views": 135230
         }
       ],
       "videos": [
@@ -1716,7 +1716,7 @@
           "youtube_id": "9ID09xbf_aI",
           "title": "Medical professional cleaning to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 58,
+          "youtube_views": 59,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9ID09xbf_aI/hqdefault.jpg",
@@ -1758,7 +1758,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18389,
+          "youtube_views": 18388,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1772,7 +1772,7 @@
           "youtube_id": "yz1J9rgBz6Y",
           "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 2622,
+          "youtube_views": 2623,
           "youtube_likes": 17,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
@@ -1828,7 +1828,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 18096,
+          "youtube_views": 18095,
           "youtube_likes": 84,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1842,7 +1842,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 34635,
+          "youtube_views": 34631,
           "youtube_likes": 132,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1856,7 +1856,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 19397,
+          "youtube_views": 19399,
           "youtube_likes": 93,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1884,7 +1884,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 28174,
+          "youtube_views": 28178,
           "youtube_likes": 122,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2445,6 +2445,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7678413260739087630",
+      "youtube_id": "xdXwrdZyMgg",
+      "title": "cheesy Stuffed Meatballs with potatoes \u2728",
+      "tiktok_views": 12900,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/xdXwrdZyMgg/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-27T16:17:23Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7661240710963744013",
@@ -2549,7 +2563,7 @@
       "youtube_id": "Bg_LMovXZ8A",
       "title": "Crispy French Apple Puff Pastry Dessert \ud83c\udf4e\ud83e\udd50",
       "tiktok_views": 59100,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Bg_LMovXZ8A/hqdefault.jpg",
@@ -2577,7 +2591,7 @@
       "youtube_id": "R8wHmDwaxuw",
       "title": "Cheesy Stuffed Meat Roll with Eggs, Potatoes & Zucchini \ud83e\udd24",
       "tiktok_views": 68700,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/R8wHmDwaxuw/hqdefault.jpg",
@@ -2871,7 +2885,7 @@
       "youtube_id": "9ID09xbf_aI",
       "title": "Medical professional cleaning to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 58,
+      "youtube_views": 59,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9ID09xbf_aI/hqdefault.jpg",
@@ -2997,7 +3011,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18389,
+      "youtube_views": 18388,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -3053,7 +3067,7 @@
       "youtube_id": "yz1J9rgBz6Y",
       "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 2622,
+      "youtube_views": 2623,
       "youtube_likes": 17,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
@@ -3249,7 +3263,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 18096,
+      "youtube_views": 18095,
       "youtube_likes": 84,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -3277,7 +3291,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 34635,
+      "youtube_views": 34631,
       "youtube_likes": 132,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -3347,7 +3361,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 19397,
+      "youtube_views": 19399,
       "youtube_likes": 93,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -3431,7 +3445,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 28174,
+      "youtube_views": 28178,
       "youtube_likes": 122,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -3563,20 +3577,6 @@
       "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-16T06:54:31Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7663919232085789965",
-      "youtube_id": "ZzaI1EsoqHE",
-      "title": "Cheesy Stuffed Puff Pastry Buns That Melt in Every Bite \ud83e\uddc0\ud83e\udd50 CheesyBu",
-      "tiktok_views": 628600,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/ZzaI1EsoqHE/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-16T01:09:33Z"
     }
   ],
   "channel": {
@@ -3594,7 +3594,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 63,
+    "total_uploads": 64,
     "total_views": 565,
     "total_likes": 0,
     "upcoming": {
@@ -4121,6 +4121,16 @@
     ],
     "runs": [
       {
+        "id": 73,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-27",
+        "status": "success",
+        "video_id": "SqqK8E-Qamc",
+        "error_message": null,
+        "created_at": "2026-09-27T17:16:05.942608+00:00"
+      },
+      {
         "id": 72,
         "channel_id": "channel_1",
         "slot": 3,
@@ -4309,21 +4319,11 @@
         "video_id": "GOj6RKHiFdM",
         "error_message": null,
         "created_at": "2026-09-21T02:08:40.350155+00:00"
-      },
-      {
-        "id": 53,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-09-20",
-        "status": "success",
-        "video_id": "tD6i2uOtsGE",
-        "error_message": null,
-        "created_at": "2026-09-20T23:39:21.470113+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 146,
+    "total_uploads": 147,
     "total_views": 136471,
     "total_likes": 614,
     "videos_per_day": 12
@@ -4355,6 +4355,16 @@
     }
   },
   "runs": [
+    {
+      "id": 73,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-27",
+      "status": "success",
+      "video_id": "SqqK8E-Qamc",
+      "error_message": null,
+      "created_at": "2026-09-27T17:16:05.942608+00:00"
+    },
     {
       "id": 72,
       "channel_id": "channel_1",
@@ -4544,17 +4554,7 @@
       "video_id": "GOj6RKHiFdM",
       "error_message": null,
       "created_at": "2026-09-21T02:08:40.350155+00:00"
-    },
-    {
-      "id": 53,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-09-20",
-      "status": "success",
-      "video_id": "tD6i2uOtsGE",
-      "error_message": null,
-      "created_at": "2026-09-20T23:39:21.470113+00:00"
     }
   ],
-  "last_updated": "2026-09-27T16:11:21.585040+00:00"
+  "last_updated": "2026-09-27T17:16:10.387680+00:00"
 }
