@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 148,
-    "total_views": 136473,
+    "total_views": 136480,
     "total_likes": 614,
     "total_subscribers": 81,
     "channels_count": 4,
@@ -11,98 +11,98 @@
     {
       "date": "2026-09-16",
       "ch1_views": 0,
-      "ch2_views": 5,
+      "ch2_views": 3,
       "ch3_views": 339,
       "ch4_views": 0,
-      "total_views": 344
+      "total_views": 342
     },
     {
       "date": "2026-09-17",
       "ch1_views": 3,
-      "ch2_views": 15,
+      "ch2_views": 13,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 18
+      "total_views": 16
     },
     {
       "date": "2026-09-18",
       "ch1_views": 13,
-      "ch2_views": 57,
+      "ch2_views": 55,
       "ch3_views": 32206,
       "ch4_views": 0,
-      "total_views": 32276
+      "total_views": 32274
     },
     {
       "date": "2026-09-19",
       "ch1_views": 16,
-      "ch2_views": 87,
+      "ch2_views": 85,
       "ch3_views": 104354,
       "ch4_views": 67,
-      "total_views": 104524
+      "total_views": 104522
     },
     {
       "date": "2026-09-20",
       "ch1_views": 19,
-      "ch2_views": 113,
+      "ch2_views": 111,
       "ch3_views": 106802,
       "ch4_views": 230,
-      "total_views": 107164
+      "total_views": 107162
     },
     {
       "date": "2026-09-21",
       "ch1_views": 35,
-      "ch2_views": 147,
+      "ch2_views": 145,
       "ch3_views": 127902,
       "ch4_views": 0,
-      "total_views": 128084
+      "total_views": 128082
     },
     {
       "date": "2026-09-22",
       "ch1_views": 63,
-      "ch2_views": 229,
+      "ch2_views": 227,
       "ch3_views": 135216,
       "ch4_views": 0,
-      "total_views": 135508
+      "total_views": 135506
     },
     {
       "date": "2026-09-23",
       "ch1_views": 72,
-      "ch2_views": 250,
+      "ch2_views": 248,
       "ch3_views": 135284,
       "ch4_views": 0,
-      "total_views": 135606
+      "total_views": 135604
     },
     {
       "date": "2026-09-24",
       "ch1_views": 76,
-      "ch2_views": 254,
+      "ch2_views": 252,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 330
+      "total_views": 328
     },
     {
       "date": "2026-09-25",
       "ch1_views": 76,
-      "ch2_views": 258,
+      "ch2_views": 256,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 334
+      "total_views": 332
     },
     {
       "date": "2026-09-26",
       "ch1_views": 84,
-      "ch2_views": 270,
+      "ch2_views": 268,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 354
+      "total_views": 352
     },
     {
       "date": "2026-09-27",
       "ch1_views": 84,
-      "ch2_views": 271,
+      "ch2_views": 269,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 355
+      "total_views": 353
     }
   ],
   "channels": {
@@ -122,7 +122,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 64,
-      "total_views": 565,
+      "total_views": 572,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -890,78 +890,92 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 5,
-          "uploads": 2,
-          "cumulative_views": 5
+          "views": 3,
+          "uploads": 1,
+          "cumulative_views": 3
         },
         {
           "date": "2026-09-17",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 15
+          "cumulative_views": 13
         },
         {
           "date": "2026-09-18",
           "views": 42,
           "uploads": 2,
-          "cumulative_views": 57
+          "cumulative_views": 55
         },
         {
           "date": "2026-09-19",
           "views": 30,
           "uploads": 2,
-          "cumulative_views": 87
+          "cumulative_views": 85
         },
         {
           "date": "2026-09-20",
           "views": 26,
           "uploads": 3,
-          "cumulative_views": 113
+          "cumulative_views": 111
         },
         {
           "date": "2026-09-21",
           "views": 34,
           "uploads": 3,
-          "cumulative_views": 147
+          "cumulative_views": 145
         },
         {
           "date": "2026-09-22",
           "views": 82,
           "uploads": 3,
-          "cumulative_views": 229
+          "cumulative_views": 227
         },
         {
           "date": "2026-09-23",
           "views": 21,
           "uploads": 3,
-          "cumulative_views": 250
+          "cumulative_views": 248
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 254
+          "cumulative_views": 252
         },
         {
           "date": "2026-09-25",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 258
+          "cumulative_views": 256
         },
         {
           "date": "2026-09-26",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 270
+          "cumulative_views": 268
         },
         {
           "date": "2026-09-27",
           "views": 1,
-          "uploads": 2,
-          "cumulative_views": 271
+          "uploads": 3,
+          "cumulative_views": 269
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7675061393799793933",
+          "youtube_id": "nDVYHhw-ZQk",
+          "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
+          "tiktok_views": 48700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/nDVYHhw-ZQk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-27T22:19:09Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1367,20 +1381,6 @@
           "thumbnail": "https://i.ytimg.com/vi/9viy7TJKYLM/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-16T22:21:42Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7679520687354105101",
-          "youtube_id": "TRaOzblj_aI",
-          "title": "Blueberry Cream & Strawberry Puff Pastry Dessert \ud83e\uded0\ud83c\udf53 #shorts",
-          "tiktok_views": 65500,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/TRaOzblj_aI/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-16T16:21:09Z"
         }
       ],
       "runs": [
@@ -1930,6 +1930,16 @@
       ],
       "runs": [
         {
+          "id": 40,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-09-27",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-27T22:20:11.556144+00:00"
+        },
+        {
           "id": 39,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2118,16 +2128,6 @@
           "video_id": "_j8iXxbG89o",
           "error_message": null,
           "created_at": "2026-09-21T17:19:22.545806+00:00"
-        },
-        {
-          "id": 20,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-09-21",
-          "status": "success",
-          "video_id": "yz1J9rgBz6Y",
-          "error_message": null,
-          "created_at": "2026-09-21T01:25:32.607381+00:00"
         }
       ]
     },
@@ -2438,6 +2438,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7675061393799793933",
+      "youtube_id": "nDVYHhw-ZQk",
+      "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
+      "tiktok_views": 48700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/nDVYHhw-ZQk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-27T22:19:09Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -3531,20 +3545,6 @@
       "uploaded_at": "2026-09-16T22:21:42Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7679520687354105101",
-      "youtube_id": "TRaOzblj_aI",
-      "title": "Blueberry Cream & Strawberry Puff Pastry Dessert \ud83e\uded0\ud83c\udf53 #shorts",
-      "tiktok_views": 65500,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/TRaOzblj_aI/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-16T16:21:09Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1dbdAHzFOicG0sTFTjGlGPt5h9x_0US1p",
@@ -3589,7 +3589,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 64,
-    "total_views": 565,
+    "total_views": 572,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -4312,7 +4312,7 @@
   },
   "kpis": {
     "total_uploads": 148,
-    "total_views": 136473,
+    "total_views": 136480,
     "total_likes": 614,
     "videos_per_day": 12
   },
@@ -4544,5 +4544,5 @@
       "created_at": "2026-09-21T02:08:40.350155+00:00"
     }
   ],
-  "last_updated": "2026-09-27T22:17:52.604070+00:00"
+  "last_updated": "2026-09-27T22:20:15.783806+00:00"
 }
