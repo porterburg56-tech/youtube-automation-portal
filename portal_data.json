@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 147,
-    "total_views": 136471,
+    "total_uploads": 148,
+    "total_views": 136473,
     "total_likes": 614,
     "total_subscribers": 81,
     "channels_count": 4,
@@ -28,49 +28,49 @@
       "date": "2026-09-18",
       "ch1_views": 13,
       "ch2_views": 57,
-      "ch3_views": 32205,
+      "ch3_views": 32206,
       "ch4_views": 0,
-      "total_views": 32275
+      "total_views": 32276
     },
     {
       "date": "2026-09-19",
       "ch1_views": 16,
       "ch2_views": 87,
-      "ch3_views": 104330,
+      "ch3_views": 104354,
       "ch4_views": 67,
-      "total_views": 104500
+      "total_views": 104524
     },
     {
       "date": "2026-09-20",
       "ch1_views": 19,
       "ch2_views": 113,
-      "ch3_views": 106778,
+      "ch3_views": 106802,
       "ch4_views": 230,
-      "total_views": 107140
+      "total_views": 107164
     },
     {
       "date": "2026-09-21",
       "ch1_views": 35,
       "ch2_views": 147,
-      "ch3_views": 127863,
+      "ch3_views": 127902,
       "ch4_views": 0,
-      "total_views": 128045
+      "total_views": 128084
     },
     {
       "date": "2026-09-22",
       "ch1_views": 63,
       "ch2_views": 229,
-      "ch3_views": 135164,
+      "ch3_views": 135216,
       "ch4_views": 0,
-      "total_views": 135456
+      "total_views": 135508
     },
     {
       "date": "2026-09-23",
       "ch1_views": 72,
       "ch2_views": 250,
-      "ch3_views": 135230,
+      "ch3_views": 135284,
       "ch4_views": 0,
-      "total_views": 135552
+      "total_views": 135606
     },
     {
       "date": "2026-09-24",
@@ -90,19 +90,19 @@
     },
     {
       "date": "2026-09-26",
-      "ch1_views": 83,
-      "ch2_views": 266,
+      "ch1_views": 84,
+      "ch2_views": 270,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 349
+      "total_views": 354
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 83,
-      "ch2_views": 267,
+      "ch1_views": 84,
+      "ch2_views": 271,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 350
+      "total_views": 355
     }
   ],
   "channels": {
@@ -207,15 +207,15 @@
         },
         {
           "date": "2026-09-26",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 83
+          "cumulative_views": 84
         },
         {
           "date": "2026-09-27",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 83
+          "cumulative_views": 84
         }
       ],
       "videos": [
@@ -282,7 +282,7 @@
           "youtube_id": "j68v2rHjWyk",
           "title": "Daddy Said He\u2019s BROKE\u2026 My Toddler Thought Someone Broke Him! \ud83d\udc94",
           "tiktok_views": 36300,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/j68v2rHjWyk/hqdefault.jpg",
@@ -858,8 +858,8 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 62,
-      "total_views": 612,
+      "total_uploads": 63,
+      "total_views": 614,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -950,15 +950,15 @@
         },
         {
           "date": "2026-09-26",
-          "views": 8,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 266
+          "cumulative_views": 270
         },
         {
           "date": "2026-09-27",
           "views": 1,
           "uploads": 2,
-          "cumulative_views": 267
+          "cumulative_views": 271
         }
       ],
       "videos": [
@@ -997,7 +997,7 @@
           "youtube_id": "QykSg4oh-nM",
           "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
           "tiktok_views": 55100,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QykSg4oh-nM/hqdefault.jpg",
@@ -1011,7 +1011,7 @@
           "youtube_id": "VoJATFCbnUE",
           "title": "Cheesy Stuffed Minced Meat \u2728",
           "tiktok_views": 13600,
-          "youtube_views": 1,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/VoJATFCbnUE/hqdefault.jpg",
@@ -1025,7 +1025,7 @@
           "youtube_id": "Bg_LMovXZ8A",
           "title": "Crispy French Apple Puff Pastry Dessert \ud83c\udf4e\ud83e\udd50",
           "tiktok_views": 59100,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Bg_LMovXZ8A/hqdefault.jpg",
@@ -1385,6 +1385,16 @@
       ],
       "runs": [
         {
+          "id": 72,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-09-27",
+          "status": "success",
+          "video_id": "nDVYHhw-ZQk",
+          "error_message": null,
+          "created_at": "2026-09-27T22:17:47.760802+00:00"
+        },
+        {
           "id": 71,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1573,16 +1583,6 @@
           "video_id": "SUB7W4dNQHg",
           "error_message": null,
           "created_at": "2026-09-21T16:12:27.169615+00:00"
-        },
-        {
-          "id": 52,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-09-21",
-          "status": "success",
-          "video_id": "HTR-p9tR5hg",
-          "error_message": null,
-          "created_at": "2026-09-21T01:12:59.149219+00:00"
         }
       ]
     },
@@ -1639,39 +1639,39 @@
         },
         {
           "date": "2026-09-18",
-          "views": 31866,
+          "views": 31867,
           "uploads": 3,
-          "cumulative_views": 32205
+          "cumulative_views": 32206
         },
         {
           "date": "2026-09-19",
-          "views": 72125,
+          "views": 72148,
           "uploads": 3,
-          "cumulative_views": 104330
+          "cumulative_views": 104354
         },
         {
           "date": "2026-09-20",
           "views": 2448,
           "uploads": 3,
-          "cumulative_views": 106778
+          "cumulative_views": 106802
         },
         {
           "date": "2026-09-21",
-          "views": 21085,
+          "views": 21100,
           "uploads": 3,
-          "cumulative_views": 127863
+          "cumulative_views": 127902
         },
         {
           "date": "2026-09-22",
-          "views": 7301,
+          "views": 7314,
           "uploads": 3,
-          "cumulative_views": 135164
+          "cumulative_views": 135216
         },
         {
           "date": "2026-09-23",
-          "views": 66,
+          "views": 68,
           "uploads": 1,
-          "cumulative_views": 135230
+          "cumulative_views": 135284
         }
       ],
       "videos": [
@@ -1682,7 +1682,7 @@
           "youtube_id": "YJ35UWmoXh8",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 66,
+          "youtube_views": 68,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
@@ -1696,7 +1696,7 @@
           "youtube_id": "d0FdoJRRMek",
           "title": "Scraping fungal toenail procedure \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 71,
+          "youtube_views": 72,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -1724,7 +1724,7 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7171,
+          "youtube_views": 7183,
           "youtube_likes": 25,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -1752,7 +1752,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18388,
+          "youtube_views": 18397,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1766,7 +1766,7 @@
           "youtube_id": "yz1J9rgBz6Y",
           "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 2623,
+          "youtube_views": 2629,
           "youtube_likes": 17,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
@@ -1822,7 +1822,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 18095,
+          "youtube_views": 18096,
           "youtube_likes": 84,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1836,7 +1836,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 34631,
+          "youtube_views": 34649,
           "youtube_likes": 132,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1850,7 +1850,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 19399,
+          "youtube_views": 19403,
           "youtube_likes": 93,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1878,7 +1878,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 28178,
+          "youtube_views": 28179,
           "youtube_likes": 122,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2515,7 +2515,7 @@
       "youtube_id": "QykSg4oh-nM",
       "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
       "tiktok_views": 55100,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QykSg4oh-nM/hqdefault.jpg",
@@ -2543,7 +2543,7 @@
       "youtube_id": "VoJATFCbnUE",
       "title": "Cheesy Stuffed Minced Meat \u2728",
       "tiktok_views": 13600,
-      "youtube_views": 1,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/VoJATFCbnUE/hqdefault.jpg",
@@ -2557,7 +2557,7 @@
       "youtube_id": "j68v2rHjWyk",
       "title": "Daddy Said He\u2019s BROKE\u2026 My Toddler Thought Someone Broke Him! \ud83d\udc94",
       "tiktok_views": 36300,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/j68v2rHjWyk/hqdefault.jpg",
@@ -2571,7 +2571,7 @@
       "youtube_id": "Bg_LMovXZ8A",
       "title": "Crispy French Apple Puff Pastry Dessert \ud83c\udf4e\ud83e\udd50",
       "tiktok_views": 59100,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Bg_LMovXZ8A/hqdefault.jpg",
@@ -2823,7 +2823,7 @@
       "youtube_id": "YJ35UWmoXh8",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 66,
+      "youtube_views": 68,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
@@ -2865,7 +2865,7 @@
       "youtube_id": "d0FdoJRRMek",
       "title": "Scraping fungal toenail procedure \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 71,
+      "youtube_views": 72,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -2949,7 +2949,7 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7171,
+      "youtube_views": 7183,
       "youtube_likes": 25,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -3019,7 +3019,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18388,
+      "youtube_views": 18397,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -3075,7 +3075,7 @@
       "youtube_id": "yz1J9rgBz6Y",
       "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 2623,
+      "youtube_views": 2629,
       "youtube_likes": 17,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
@@ -3271,7 +3271,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 18095,
+      "youtube_views": 18096,
       "youtube_likes": 84,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -3299,7 +3299,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 34631,
+      "youtube_views": 34649,
       "youtube_likes": 132,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -3369,7 +3369,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 19399,
+      "youtube_views": 19403,
       "youtube_likes": 93,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -3453,7 +3453,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 28178,
+      "youtube_views": 28179,
       "youtube_likes": 122,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -3674,15 +3674,15 @@
       },
       {
         "date": "2026-09-26",
-        "views": 7,
+        "views": 8,
         "uploads": 3,
-        "cumulative_views": 83
+        "cumulative_views": 84
       },
       {
         "date": "2026-09-27",
         "views": 0,
         "uploads": 2,
-        "cumulative_views": 83
+        "cumulative_views": 84
       }
     ],
     "videos": [
@@ -3749,7 +3749,7 @@
         "youtube_id": "j68v2rHjWyk",
         "title": "Daddy Said He\u2019s BROKE\u2026 My Toddler Thought Someone Broke Him! \ud83d\udc94",
         "tiktok_views": 36300,
-        "youtube_views": 7,
+        "youtube_views": 8,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/j68v2rHjWyk/hqdefault.jpg",
@@ -4311,8 +4311,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 147,
-    "total_views": 136471,
+    "total_uploads": 148,
+    "total_views": 136473,
     "total_likes": 614,
     "videos_per_day": 12
   },
@@ -4544,5 +4544,5 @@
       "created_at": "2026-09-21T02:08:40.350155+00:00"
     }
   ],
-  "last_updated": "2026-09-27T17:32:23.529510+00:00"
+  "last_updated": "2026-09-27T22:17:52.604070+00:00"
 }
