@@ -9,100 +9,100 @@
   },
   "master_view_history": [
     {
-      "date": "2026-09-15",
-      "ch1_views": 0,
-      "ch2_views": 10,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 10
-    },
-    {
       "date": "2026-09-16",
       "ch1_views": 8,
-      "ch2_views": 15,
+      "ch2_views": 5,
       "ch3_views": 340,
       "ch4_views": 0,
-      "total_views": 363
+      "total_views": 353
     },
     {
       "date": "2026-09-17",
       "ch1_views": 11,
-      "ch2_views": 25,
+      "ch2_views": 15,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 36
+      "total_views": 26
     },
     {
       "date": "2026-09-18",
       "ch1_views": 20,
-      "ch2_views": 67,
+      "ch2_views": 57,
       "ch3_views": 32197,
       "ch4_views": 0,
-      "total_views": 32284
+      "total_views": 32274
     },
     {
       "date": "2026-09-19",
       "ch1_views": 23,
-      "ch2_views": 97,
+      "ch2_views": 87,
       "ch3_views": 104277,
       "ch4_views": 67,
-      "total_views": 104464
+      "total_views": 104454
     },
     {
       "date": "2026-09-20",
       "ch1_views": 26,
-      "ch2_views": 121,
+      "ch2_views": 111,
       "ch3_views": 106724,
       "ch4_views": 230,
-      "total_views": 107101
+      "total_views": 107091
     },
     {
       "date": "2026-09-21",
       "ch1_views": 42,
-      "ch2_views": 155,
-      "ch3_views": 127778,
+      "ch2_views": 145,
+      "ch3_views": 127783,
       "ch4_views": 0,
-      "total_views": 127975
+      "total_views": 127970
     },
     {
       "date": "2026-09-22",
       "ch1_views": 70,
-      "ch2_views": 237,
-      "ch3_views": 135066,
+      "ch2_views": 227,
+      "ch3_views": 135071,
       "ch4_views": 0,
-      "total_views": 135373
+      "total_views": 135368
     },
     {
       "date": "2026-09-23",
       "ch1_views": 79,
-      "ch2_views": 258,
-      "ch3_views": 135130,
+      "ch2_views": 248,
+      "ch3_views": 135135,
       "ch4_views": 0,
-      "total_views": 135467
+      "total_views": 135462
     },
     {
       "date": "2026-09-24",
       "ch1_views": 80,
-      "ch2_views": 262,
+      "ch2_views": 252,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 342
+      "total_views": 332
     },
     {
       "date": "2026-09-25",
       "ch1_views": 80,
-      "ch2_views": 264,
+      "ch2_views": 254,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 334
+    },
+    {
+      "date": "2026-09-26",
+      "ch1_views": 86,
+      "ch2_views": 258,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 344
     },
     {
-      "date": "2026-09-26",
-      "ch1_views": 86,
-      "ch2_views": 268,
+      "date": "2026-09-27",
+      "ch1_views": 0,
+      "ch2_views": 258,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 354
+      "total_views": 258
     }
   ],
   "channels": {
@@ -889,79 +889,93 @@
       },
       "view_history": [
         {
-          "date": "2026-09-15",
-          "views": 10,
-          "uploads": 1,
-          "cumulative_views": 10
-        },
-        {
           "date": "2026-09-16",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 5
         },
         {
           "date": "2026-09-17",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 25
+          "cumulative_views": 15
         },
         {
           "date": "2026-09-18",
           "views": 42,
           "uploads": 2,
-          "cumulative_views": 67
+          "cumulative_views": 57
         },
         {
           "date": "2026-09-19",
           "views": 30,
           "uploads": 2,
-          "cumulative_views": 97
+          "cumulative_views": 87
         },
         {
           "date": "2026-09-20",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 121
+          "cumulative_views": 111
         },
         {
           "date": "2026-09-21",
           "views": 34,
           "uploads": 3,
-          "cumulative_views": 155
+          "cumulative_views": 145
         },
         {
           "date": "2026-09-22",
           "views": 82,
           "uploads": 3,
-          "cumulative_views": 237
+          "cumulative_views": 227
         },
         {
           "date": "2026-09-23",
           "views": 21,
           "uploads": 3,
-          "cumulative_views": 258
+          "cumulative_views": 248
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 262
+          "cumulative_views": 252
         },
         {
           "date": "2026-09-25",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 264
+          "cumulative_views": 254
         },
         {
           "date": "2026-09-26",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 268
+          "cumulative_views": 258
+        },
+        {
+          "date": "2026-09-27",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 258
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7689911106306952461",
+          "youtube_id": "fOkH5a4Y7no",
+          "title": "Beer-Marinated Tender Beef \u2728",
+          "tiktok_views": 76200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/fOkH5a4Y7no/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-27T01:14:23Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1367,20 +1381,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ZzaI1EsoqHE/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-16T01:09:33Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7673576908474420493",
-          "youtube_id": "KBGlJd1_GB0",
-          "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
-          "tiktok_views": 476800,
-          "youtube_views": 10,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-15T22:21:01Z"
         }
       ],
       "runs": [
@@ -1657,21 +1657,21 @@
         },
         {
           "date": "2026-09-21",
-          "views": 21054,
+          "views": 21059,
           "uploads": 3,
-          "cumulative_views": 127778
+          "cumulative_views": 127783
         },
         {
           "date": "2026-09-22",
           "views": 7288,
           "uploads": 3,
-          "cumulative_views": 135066
+          "cumulative_views": 135071
         },
         {
           "date": "2026-09-23",
           "views": 64,
           "uploads": 1,
-          "cumulative_views": 135130
+          "cumulative_views": 135135
         }
       ],
       "videos": [
@@ -1752,7 +1752,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18359,
+          "youtube_views": 18364,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1929,6 +1929,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 38,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-09-27",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-27T01:23:43.274573+00:00"
+        },
         {
           "id": 37,
           "channel_id": "channel_3",
@@ -2118,16 +2128,6 @@
           "video_id": "YK449kpd7UU",
           "error_message": null,
           "created_at": "2026-09-20T22:19:39.280068+00:00"
-        },
-        {
-          "id": 18,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-09-20",
-          "status": "success",
-          "video_id": "LiAhcCZMDCY",
-          "error_message": null,
-          "created_at": "2026-09-20T17:18:29.343131+00:00"
         }
       ]
     },
@@ -2438,6 +2438,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7689911106306952461",
+      "youtube_id": "fOkH5a4Y7no",
+      "title": "Beer-Marinated Tender Beef \u2728",
+      "tiktok_views": 76200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/fOkH5a4Y7no/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-27T01:14:23Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -2963,7 +2977,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18359,
+      "youtube_views": 18364,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -3557,20 +3571,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ZzaI1EsoqHE/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-16T01:09:33Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7673576908474420493",
-      "youtube_id": "KBGlJd1_GB0",
-      "title": "Crispy Cabbage Meat Rolls You'll Want to make again",
-      "tiktok_views": 476800,
-      "youtube_views": 10,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/KBGlJd1_GB0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-15T22:21:01Z"
     }
   ],
   "channel": {
@@ -4544,5 +4544,5 @@
       "created_at": "2026-09-20T17:15:30.917982+00:00"
     }
   ],
-  "last_updated": "2026-09-27T01:13:48.132579+00:00"
+  "last_updated": "2026-09-27T01:23:47.025026+00:00"
 }
