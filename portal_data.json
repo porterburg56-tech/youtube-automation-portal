@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 143,
+    "total_uploads": 144,
     "total_views": 136239,
     "total_likes": 614,
     "total_subscribers": 81,
@@ -18,91 +18,91 @@
     },
     {
       "date": "2026-09-16",
-      "ch1_views": 10,
+      "ch1_views": 8,
       "ch2_views": 15,
       "ch3_views": 340,
       "ch4_views": 0,
-      "total_views": 365
+      "total_views": 363
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 13,
+      "ch1_views": 11,
       "ch2_views": 25,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 38
+      "total_views": 36
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 22,
+      "ch1_views": 20,
       "ch2_views": 67,
-      "ch3_views": 32196,
+      "ch3_views": 32197,
       "ch4_views": 0,
-      "total_views": 32285
+      "total_views": 32284
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 25,
+      "ch1_views": 23,
       "ch2_views": 97,
-      "ch3_views": 104264,
+      "ch3_views": 104277,
       "ch4_views": 67,
-      "total_views": 104453
+      "total_views": 104464
     },
     {
       "date": "2026-09-20",
-      "ch1_views": 28,
+      "ch1_views": 26,
       "ch2_views": 121,
-      "ch3_views": 106711,
+      "ch3_views": 106724,
       "ch4_views": 230,
-      "total_views": 107090
+      "total_views": 107101
     },
     {
       "date": "2026-09-21",
-      "ch1_views": 44,
+      "ch1_views": 42,
       "ch2_views": 155,
-      "ch3_views": 127765,
+      "ch3_views": 127778,
       "ch4_views": 0,
-      "total_views": 127964
+      "total_views": 127975
     },
     {
       "date": "2026-09-22",
-      "ch1_views": 72,
+      "ch1_views": 70,
       "ch2_views": 237,
-      "ch3_views": 135053,
+      "ch3_views": 135066,
       "ch4_views": 0,
-      "total_views": 135362
+      "total_views": 135373
     },
     {
       "date": "2026-09-23",
-      "ch1_views": 81,
+      "ch1_views": 79,
       "ch2_views": 258,
-      "ch3_views": 135117,
+      "ch3_views": 135130,
       "ch4_views": 0,
-      "total_views": 135456
+      "total_views": 135467
     },
     {
       "date": "2026-09-24",
-      "ch1_views": 82,
+      "ch1_views": 80,
       "ch2_views": 262,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 342
+    },
+    {
+      "date": "2026-09-25",
+      "ch1_views": 80,
+      "ch2_views": 264,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 344
     },
     {
-      "date": "2026-09-25",
-      "ch1_views": 82,
-      "ch2_views": 264,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 346
-    },
-    {
       "date": "2026-09-26",
-      "ch1_views": 88,
+      "ch1_views": 86,
       "ch2_views": 268,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 356
+      "total_views": 354
     }
   ],
   "channels": {
@@ -153,72 +153,86 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 10,
-          "uploads": 3,
-          "cumulative_views": 10
+          "views": 8,
+          "uploads": 2,
+          "cumulative_views": 8
         },
         {
           "date": "2026-09-17",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 13
+          "cumulative_views": 11
         },
         {
           "date": "2026-09-18",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 20
         },
         {
           "date": "2026-09-19",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 25
+          "cumulative_views": 23
         },
         {
           "date": "2026-09-20",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 28
+          "cumulative_views": 26
         },
         {
           "date": "2026-09-21",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 44
+          "cumulative_views": 42
         },
         {
           "date": "2026-09-22",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 72
+          "cumulative_views": 70
         },
         {
           "date": "2026-09-23",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 81
+          "cumulative_views": 79
         },
         {
           "date": "2026-09-24",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 82
+          "cumulative_views": 80
         },
         {
           "date": "2026-09-25",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 82
+          "cumulative_views": 80
         },
         {
           "date": "2026-09-26",
           "views": 6,
-          "uploads": 2,
-          "cumulative_views": 88
+          "uploads": 3,
+          "cumulative_views": 86
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7689857779401641229",
+          "youtube_id": "5AaYSTH-2Xw",
+          "title": "Grandpa Walked So Baby Could Walk Exactly Like Him \ud83e\udd79\ud83d\udc80",
+          "tiktok_views": 47000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/5AaYSTH-2Xw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-26T23:40:17Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -624,20 +638,6 @@
           "thumbnail": "https://i.ytimg.com/vi/9zwfhL4WrrQ/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-16T17:16:29Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7664966728757087502",
-          "youtube_id": "7yGcqB33_hc",
-          "title": "\ud83e\udd79 This 2-Year-Old Hadn\u2019t Seen His Army Father for a Year\u2026 The Moment",
-          "tiktok_views": 182200,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/7yGcqB33_hc/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-16T02:09:28Z"
         }
       ],
       "runs": [
@@ -858,7 +858,7 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 60,
+      "total_uploads": 61,
       "total_views": 604,
       "total_likes": 1,
       "upcoming": {
@@ -1385,6 +1385,16 @@
       ],
       "runs": [
         {
+          "id": 70,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-09-27",
+          "status": "success",
+          "video_id": "fOkH5a4Y7no",
+          "error_message": null,
+          "created_at": "2026-09-27T01:13:43.080433+00:00"
+        },
+        {
           "id": 69,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1573,16 +1583,6 @@
           "video_id": "IBPnWvNfvfU",
           "error_message": null,
           "created_at": "2026-09-20T22:16:25.860501+00:00"
-        },
-        {
-          "id": 50,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-20",
-          "status": "success",
-          "video_id": "molHcGJvxJM",
-          "error_message": null,
-          "created_at": "2026-09-20T16:09:37.062874+00:00"
         }
       ]
     },
@@ -1639,39 +1639,39 @@
         },
         {
           "date": "2026-09-18",
-          "views": 31856,
+          "views": 31857,
           "uploads": 3,
-          "cumulative_views": 32196
+          "cumulative_views": 32197
         },
         {
           "date": "2026-09-19",
-          "views": 72068,
+          "views": 72080,
           "uploads": 3,
-          "cumulative_views": 104264
+          "cumulative_views": 104277
         },
         {
           "date": "2026-09-20",
           "views": 2447,
           "uploads": 3,
-          "cumulative_views": 106711
+          "cumulative_views": 106724
         },
         {
           "date": "2026-09-21",
           "views": 21054,
           "uploads": 3,
-          "cumulative_views": 127765
+          "cumulative_views": 127778
         },
         {
           "date": "2026-09-22",
           "views": 7288,
           "uploads": 3,
-          "cumulative_views": 135053
+          "cumulative_views": 135066
         },
         {
           "date": "2026-09-23",
           "views": 64,
           "uploads": 1,
-          "cumulative_views": 135117
+          "cumulative_views": 135130
         }
       ],
       "videos": [
@@ -1822,7 +1822,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 18079,
+          "youtube_views": 18091,
           "youtube_likes": 84,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1878,7 +1878,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 28168,
+          "youtube_views": 28169,
           "youtube_likes": 122,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2438,6 +2438,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7689857779401641229",
+      "youtube_id": "5AaYSTH-2Xw",
+      "title": "Grandpa Walked So Baby Could Walk Exactly Like Him \ud83e\udd79\ud83d\udc80",
+      "tiktok_views": 47000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/5AaYSTH-2Xw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-26T23:40:17Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -3201,7 +3215,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 18079,
+      "youtube_views": 18091,
       "youtube_likes": 84,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -3383,7 +3397,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 28168,
+      "youtube_views": 28169,
       "youtube_likes": 122,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -3531,20 +3545,6 @@
       "uploaded_at": "2026-09-16T06:54:31Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7664966728757087502",
-      "youtube_id": "7yGcqB33_hc",
-      "title": "\ud83e\udd79 This 2-Year-Old Hadn\u2019t Seen His Army Father for a Year\u2026 The Moment",
-      "tiktok_views": 182200,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/7yGcqB33_hc/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-16T02:09:28Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7663919232085789965",
@@ -3620,72 +3620,86 @@
     "view_history": [
       {
         "date": "2026-09-16",
-        "views": 10,
-        "uploads": 3,
-        "cumulative_views": 10
+        "views": 8,
+        "uploads": 2,
+        "cumulative_views": 8
       },
       {
         "date": "2026-09-17",
         "views": 3,
         "uploads": 1,
-        "cumulative_views": 13
+        "cumulative_views": 11
       },
       {
         "date": "2026-09-18",
         "views": 9,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 20
       },
       {
         "date": "2026-09-19",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 25
+        "cumulative_views": 23
       },
       {
         "date": "2026-09-20",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 28
+        "cumulative_views": 26
       },
       {
         "date": "2026-09-21",
         "views": 16,
         "uploads": 3,
-        "cumulative_views": 44
+        "cumulative_views": 42
       },
       {
         "date": "2026-09-22",
         "views": 28,
         "uploads": 3,
-        "cumulative_views": 72
+        "cumulative_views": 70
       },
       {
         "date": "2026-09-23",
         "views": 9,
         "uploads": 3,
-        "cumulative_views": 81
+        "cumulative_views": 79
       },
       {
         "date": "2026-09-24",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 82
+        "cumulative_views": 80
       },
       {
         "date": "2026-09-25",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 82
+        "cumulative_views": 80
       },
       {
         "date": "2026-09-26",
         "views": 6,
-        "uploads": 2,
-        "cumulative_views": 88
+        "uploads": 3,
+        "cumulative_views": 86
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7689857779401641229",
+        "youtube_id": "5AaYSTH-2Xw",
+        "title": "Grandpa Walked So Baby Could Walk Exactly Like Him \ud83e\udd79\ud83d\udc80",
+        "tiktok_views": 47000,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/5AaYSTH-2Xw/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-26T23:40:17Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4091,20 +4105,6 @@
         "thumbnail": "https://i.ytimg.com/vi/9zwfhL4WrrQ/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-16T17:16:29Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7664966728757087502",
-        "youtube_id": "7yGcqB33_hc",
-        "title": "\ud83e\udd79 This 2-Year-Old Hadn\u2019t Seen His Army Father for a Year\u2026 The Moment",
-        "tiktok_views": 182200,
-        "youtube_views": 2,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/7yGcqB33_hc/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-16T02:09:28Z"
       }
     ],
     "runs": [
@@ -4311,7 +4311,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 143,
+    "total_uploads": 144,
     "total_views": 136239,
     "total_likes": 614,
     "videos_per_day": 12
@@ -4544,5 +4544,5 @@
       "created_at": "2026-09-20T17:15:30.917982+00:00"
     }
   ],
-  "last_updated": "2026-09-26T23:40:01.980200+00:00"
+  "last_updated": "2026-09-27T01:13:48.132579+00:00"
 }
