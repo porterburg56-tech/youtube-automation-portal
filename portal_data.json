@@ -11,98 +11,106 @@
     {
       "date": "2026-09-16",
       "ch1_views": 0,
-      "ch2_views": 3,
+      "ch2_views": 0,
       "ch3_views": 339,
       "ch4_views": 0,
-      "total_views": 342
+      "total_views": 339
     },
     {
       "date": "2026-09-17",
       "ch1_views": 0,
-      "ch2_views": 13,
+      "ch2_views": 10,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 13
+      "total_views": 10
     },
     {
       "date": "2026-09-18",
       "ch1_views": 10,
-      "ch2_views": 55,
-      "ch3_views": 32209,
+      "ch2_views": 52,
+      "ch3_views": 32212,
       "ch4_views": 0,
       "total_views": 32274
     },
     {
       "date": "2026-09-19",
       "ch1_views": 13,
-      "ch2_views": 85,
-      "ch3_views": 104363,
+      "ch2_views": 82,
+      "ch3_views": 104371,
       "ch4_views": 67,
-      "total_views": 104528
+      "total_views": 104533
     },
     {
       "date": "2026-09-20",
       "ch1_views": 16,
-      "ch2_views": 111,
-      "ch3_views": 106811,
+      "ch2_views": 108,
+      "ch3_views": 106819,
       "ch4_views": 230,
-      "total_views": 107168
+      "total_views": 107173
     },
     {
       "date": "2026-09-21",
       "ch1_views": 32,
-      "ch2_views": 145,
-      "ch3_views": 127917,
+      "ch2_views": 142,
+      "ch3_views": 127930,
       "ch4_views": 0,
-      "total_views": 128094
+      "total_views": 128104
     },
     {
       "date": "2026-09-22",
       "ch1_views": 60,
-      "ch2_views": 227,
-      "ch3_views": 135233,
+      "ch2_views": 224,
+      "ch3_views": 135244,
       "ch4_views": 0,
-      "total_views": 135520
+      "total_views": 135528
     },
     {
       "date": "2026-09-23",
       "ch1_views": 69,
-      "ch2_views": 248,
-      "ch3_views": 135302,
+      "ch2_views": 245,
+      "ch3_views": 135313,
       "ch4_views": 0,
-      "total_views": 135619
+      "total_views": 135627
     },
     {
       "date": "2026-09-24",
       "ch1_views": 73,
-      "ch2_views": 252,
+      "ch2_views": 249,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 325
+      "total_views": 322
     },
     {
       "date": "2026-09-25",
       "ch1_views": 73,
-      "ch2_views": 256,
+      "ch2_views": 253,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 329
+      "total_views": 326
     },
     {
       "date": "2026-09-26",
       "ch1_views": 81,
-      "ch2_views": 268,
+      "ch2_views": 266,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 349
+      "total_views": 347
     },
     {
       "date": "2026-09-27",
       "ch1_views": 81,
-      "ch2_views": 269,
+      "ch2_views": 267,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 350
+      "total_views": 348
+    },
+    {
+      "date": "2026-09-28",
+      "ch1_views": 0,
+      "ch2_views": 267,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 267
     }
   ],
   "channels": {
@@ -883,79 +891,93 @@
       },
       "view_history": [
         {
-          "date": "2026-09-16",
-          "views": 3,
-          "uploads": 1,
-          "cumulative_views": 3
-        },
-        {
           "date": "2026-09-17",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 13
+          "cumulative_views": 10
         },
         {
           "date": "2026-09-18",
           "views": 42,
           "uploads": 2,
-          "cumulative_views": 55
+          "cumulative_views": 52
         },
         {
           "date": "2026-09-19",
           "views": 30,
           "uploads": 2,
-          "cumulative_views": 85
+          "cumulative_views": 82
         },
         {
           "date": "2026-09-20",
           "views": 26,
           "uploads": 3,
-          "cumulative_views": 111
+          "cumulative_views": 108
         },
         {
           "date": "2026-09-21",
           "views": 34,
           "uploads": 3,
-          "cumulative_views": 145
+          "cumulative_views": 142
         },
         {
           "date": "2026-09-22",
           "views": 82,
           "uploads": 3,
-          "cumulative_views": 227
+          "cumulative_views": 224
         },
         {
           "date": "2026-09-23",
           "views": 21,
           "uploads": 3,
-          "cumulative_views": 248
+          "cumulative_views": 245
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 252
+          "cumulative_views": 249
         },
         {
           "date": "2026-09-25",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 256
+          "cumulative_views": 253
         },
         {
           "date": "2026-09-26",
-          "views": 12,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 268
+          "cumulative_views": 266
         },
         {
           "date": "2026-09-27",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 269
+          "cumulative_views": 267
+        },
+        {
+          "date": "2026-09-28",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 267
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7666897828190473486",
+          "youtube_id": "PRdIrEcgLfI",
+          "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
+          "tiktok_views": 45500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-28T01:14:52Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1033,7 +1055,7 @@
           "youtube_id": "Bg_LMovXZ8A",
           "title": "Crispy French Apple Puff Pastry Dessert \ud83c\udf4e\ud83e\udd50",
           "tiktok_views": 59100,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Bg_LMovXZ8A/hqdefault.jpg",
@@ -1361,20 +1383,6 @@
           "thumbnail": "https://i.ytimg.com/vi/TNkm_AtcbWI/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-17T01:09:57Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7665767680598838541",
-          "youtube_id": "9viy7TJKYLM",
-          "title": "Crispy Puff Pastry Cream Baskets with Chocolate & Hazelnuts \u2728 #shorts",
-          "tiktok_views": 582600,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/9viy7TJKYLM/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-16T22:21:42Z"
         }
       ],
       "runs": [
@@ -1633,39 +1641,39 @@
         },
         {
           "date": "2026-09-18",
-          "views": 31870,
+          "views": 31873,
           "uploads": 3,
-          "cumulative_views": 32209
+          "cumulative_views": 32212
         },
         {
           "date": "2026-09-19",
-          "views": 72154,
+          "views": 72159,
           "uploads": 3,
-          "cumulative_views": 104363
+          "cumulative_views": 104371
         },
         {
           "date": "2026-09-20",
           "views": 2448,
           "uploads": 3,
-          "cumulative_views": 106811
+          "cumulative_views": 106819
         },
         {
           "date": "2026-09-21",
-          "views": 21106,
+          "views": 21111,
           "uploads": 3,
-          "cumulative_views": 127917
+          "cumulative_views": 127930
         },
         {
           "date": "2026-09-22",
-          "views": 7316,
+          "views": 7314,
           "uploads": 3,
-          "cumulative_views": 135233
+          "cumulative_views": 135244
         },
         {
           "date": "2026-09-23",
           "views": 69,
           "uploads": 1,
-          "cumulative_views": 135302
+          "cumulative_views": 135313
         }
       ],
       "videos": [
@@ -1718,7 +1726,7 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7185,
+          "youtube_views": 7183,
           "youtube_likes": 25,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -1746,7 +1754,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18402,
+          "youtube_views": 18407,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1816,7 +1824,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 18100,
+          "youtube_views": 18101,
           "youtube_likes": 84,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1830,7 +1838,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 34649,
+          "youtube_views": 34653,
           "youtube_likes": 132,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1858,7 +1866,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 331,
+          "youtube_views": 334,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -1923,6 +1931,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 41,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-09-28",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+          "created_at": "2026-09-28T01:25:08.584451+00:00"
+        },
         {
           "id": 40,
           "channel_id": "channel_3",
@@ -2112,16 +2130,6 @@
           "video_id": "-tqwlkndIoo",
           "error_message": null,
           "created_at": "2026-09-21T22:20:39.171648+00:00"
-        },
-        {
-          "id": 21,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-09-21",
-          "status": "success",
-          "video_id": "_j8iXxbG89o",
-          "error_message": null,
-          "created_at": "2026-09-21T17:19:22.545806+00:00"
         }
       ]
     },
@@ -2433,6 +2441,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7666897828190473486",
+      "youtube_id": "PRdIrEcgLfI",
+      "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
+      "tiktok_views": 45500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-28T01:14:52Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7675338879615962381",
@@ -2593,7 +2615,7 @@
       "youtube_id": "Bg_LMovXZ8A",
       "title": "Crispy French Apple Puff Pastry Dessert \ud83c\udf4e\ud83e\udd50",
       "tiktok_views": 59100,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Bg_LMovXZ8A/hqdefault.jpg",
@@ -2971,7 +2993,7 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7185,
+      "youtube_views": 7183,
       "youtube_likes": 25,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -3041,7 +3063,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18402,
+      "youtube_views": 18407,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -3293,7 +3315,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 18100,
+      "youtube_views": 18101,
       "youtube_likes": 84,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -3321,7 +3343,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 34649,
+      "youtube_views": 34653,
       "youtube_likes": 132,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -3433,7 +3455,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 331,
+      "youtube_views": 334,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -3523,20 +3545,6 @@
       "thumbnail": "https://i.ytimg.com/vi/TNkm_AtcbWI/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-17T01:09:57Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7665767680598838541",
-      "youtube_id": "9viy7TJKYLM",
-      "title": "Crispy Puff Pastry Cream Baskets with Chocolate & Hazelnuts \u2728 #shorts",
-      "tiktok_views": 582600,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/9viy7TJKYLM/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-16T22:21:42Z"
     },
     {
       "channel_id": "channel_3",
@@ -4532,5 +4540,5 @@
       "created_at": "2026-09-21T17:14:49.487801+00:00"
     }
   ],
-  "last_updated": "2026-09-28T01:13:51.660461+00:00"
+  "last_updated": "2026-09-28T01:25:13.042776+00:00"
 }
