@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 151,
+    "total_uploads": 152,
     "total_views": 136587,
     "total_likes": 614,
     "total_subscribers": 81,
@@ -52,25 +52,25 @@
       "date": "2026-09-21",
       "ch1_views": 29,
       "ch2_views": 142,
-      "ch3_views": 127950,
+      "ch3_views": 127955,
       "ch4_views": 0,
-      "total_views": 128121
+      "total_views": 128126
     },
     {
       "date": "2026-09-22",
       "ch1_views": 57,
       "ch2_views": 224,
-      "ch3_views": 135271,
+      "ch3_views": 135279,
       "ch4_views": 0,
-      "total_views": 135552
+      "total_views": 135560
     },
     {
       "date": "2026-09-23",
       "ch1_views": 66,
       "ch2_views": 245,
-      "ch3_views": 135346,
+      "ch3_views": 135354,
       "ch4_views": 0,
-      "total_views": 135657
+      "total_views": 135665
     },
     {
       "date": "2026-09-24",
@@ -108,9 +108,9 @@
       "date": "2026-09-28",
       "ch1_views": 80,
       "ch2_views": 271,
-      "ch3_views": 0,
+      "ch3_views": 135354,
       "ch4_views": 0,
-      "total_views": 351
+      "total_views": 135705
     }
   ],
   "channels": {
@@ -1609,7 +1609,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 18,
+      "total_uploads": 19,
       "total_views": 135171,
       "total_likes": 608,
       "upcoming": {
@@ -1665,24 +1665,44 @@
         },
         {
           "date": "2026-09-21",
-          "views": 21117,
+          "views": 21122,
           "uploads": 3,
-          "cumulative_views": 127950
+          "cumulative_views": 127955
         },
         {
           "date": "2026-09-22",
-          "views": 7321,
+          "views": 7324,
           "uploads": 3,
-          "cumulative_views": 135271
+          "cumulative_views": 135279
         },
         {
           "date": "2026-09-23",
           "views": 75,
           "uploads": 1,
-          "cumulative_views": 135346
+          "cumulative_views": 135354
+        },
+        {
+          "date": "2026-09-28",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 135354
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1p_LWRKPtpO9O8NNmYhE0jrPMJIh7zvA1",
+          "youtube_id": "-cMGhsPZ3qM",
+          "title": "Extracting resin from fungal nail \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/-cMGhsPZ3qM/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-28T05:59:26Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1732,7 +1752,7 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7189,
+          "youtube_views": 7192,
           "youtube_likes": 25,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -1760,7 +1780,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18413,
+          "youtube_views": 18418,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1937,6 +1957,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 42,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-09-28",
+          "status": "success",
+          "video_id": "-cMGhsPZ3qM",
+          "error_message": null,
+          "created_at": "2026-09-28T05:59:28.213313+00:00"
+        },
         {
           "id": 41,
           "channel_id": "channel_3",
@@ -2126,16 +2156,6 @@
           "video_id": "q8-_E40fKaY",
           "error_message": null,
           "created_at": "2026-09-22T01:22:54.319826+00:00"
-        },
-        {
-          "id": 22,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-09-21",
-          "status": "success",
-          "video_id": "-tqwlkndIoo",
-          "error_message": null,
-          "created_at": "2026-09-21T22:20:39.171648+00:00"
         }
       ]
     },
@@ -2446,6 +2466,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1p_LWRKPtpO9O8NNmYhE0jrPMJIh7zvA1",
+      "youtube_id": "-cMGhsPZ3qM",
+      "title": "Extracting resin from fungal nail \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/-cMGhsPZ3qM/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-28T05:59:26Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -3013,7 +3047,7 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7189,
+      "youtube_views": 7192,
       "youtube_likes": 25,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -3083,7 +3117,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18413,
+      "youtube_views": 18418,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -4319,7 +4353,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 151,
+    "total_uploads": 152,
     "total_views": 136587,
     "total_likes": 614,
     "videos_per_day": 12
@@ -4552,5 +4586,5 @@
       "created_at": "2026-09-21T23:40:50.915866+00:00"
     }
   ],
-  "last_updated": "2026-09-28T05:37:46.455303+00:00"
+  "last_updated": "2026-09-28T05:59:32.691099+00:00"
 }
