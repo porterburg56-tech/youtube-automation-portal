@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 155,
+    "total_uploads": 156,
     "total_views": 136587,
     "total_likes": 615,
     "total_subscribers": 81,
@@ -52,17 +52,17 @@
       "date": "2026-09-22",
       "ch1_views": 56,
       "ch2_views": 225,
-      "ch3_views": 135319,
+      "ch3_views": 135318,
       "ch4_views": 0,
-      "total_views": 135600
+      "total_views": 135599
     },
     {
       "date": "2026-09-23",
       "ch1_views": 65,
       "ch2_views": 247,
-      "ch3_views": 135395,
+      "ch3_views": 135394,
       "ch4_views": 0,
-      "total_views": 135707
+      "total_views": 135706
     },
     {
       "date": "2026-09-24",
@@ -91,18 +91,18 @@
     {
       "date": "2026-09-27",
       "ch1_views": 80,
-      "ch2_views": 276,
+      "ch2_views": 274,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 356
+      "total_views": 354
     },
     {
       "date": "2026-09-28",
       "ch1_views": 80,
-      "ch2_views": 285,
-      "ch3_views": 135399,
+      "ch2_views": 283,
+      "ch3_views": 135398,
       "ch4_views": 324,
-      "total_views": 136088
+      "total_views": 136085
     }
   ],
   "channels": {
@@ -944,15 +944,15 @@
         },
         {
           "date": "2026-09-27",
-          "views": 4,
+          "views": 2,
           "uploads": 3,
-          "cumulative_views": 276
+          "cumulative_views": 274
         },
         {
           "date": "2026-09-28",
           "views": 9,
           "uploads": 2,
-          "cumulative_views": 285
+          "cumulative_views": 283
         }
       ],
       "videos": [
@@ -991,7 +991,7 @@
           "youtube_id": "nDVYHhw-ZQk",
           "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
           "tiktok_views": 48700,
-          "youtube_views": 2,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nDVYHhw-ZQk/hqdefault.jpg",
@@ -1595,7 +1595,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 19,
+      "total_uploads": 20,
       "total_views": 135171,
       "total_likes": 608,
       "upcoming": {
@@ -1657,24 +1657,38 @@
         },
         {
           "date": "2026-09-22",
-          "views": 7333,
+          "views": 7332,
           "uploads": 3,
-          "cumulative_views": 135319
+          "cumulative_views": 135318
         },
         {
           "date": "2026-09-23",
           "views": 76,
           "uploads": 1,
-          "cumulative_views": 135395
+          "cumulative_views": 135394
         },
         {
           "date": "2026-09-28",
           "views": 4,
-          "uploads": 1,
-          "cumulative_views": 135399
+          "uploads": 2,
+          "cumulative_views": 135398
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1ljUBVFRVaa-ZYVBvb_qrLCrlE_Zp3FJd",
+          "youtube_id": "RRBocdziYIs",
+          "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/RRBocdziYIs/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-28T22:28:25Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1738,7 +1752,7 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7198,
+          "youtube_views": 7197,
           "youtube_likes": 25,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -1944,6 +1958,16 @@
       ],
       "runs": [
         {
+          "id": 43,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-09-28",
+          "status": "success",
+          "video_id": "RRBocdziYIs",
+          "error_message": null,
+          "created_at": "2026-09-28T22:28:29.429391+00:00"
+        },
+        {
           "id": 42,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2132,16 +2156,6 @@
           "video_id": "9ID09xbf_aI",
           "error_message": null,
           "created_at": "2026-09-22T17:20:15.506623+00:00"
-        },
-        {
-          "id": 23,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-09-22",
-          "status": "success",
-          "video_id": "q8-_E40fKaY",
-          "error_message": null,
-          "created_at": "2026-09-22T01:22:54.319826+00:00"
         }
       ]
     },
@@ -2459,6 +2473,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1ljUBVFRVaa-ZYVBvb_qrLCrlE_Zp3FJd",
+      "youtube_id": "RRBocdziYIs",
+      "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/RRBocdziYIs/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-28T22:28:25Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7690550277098720526",
@@ -2563,7 +2591,7 @@
       "youtube_id": "nDVYHhw-ZQk",
       "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
       "tiktok_views": 48700,
-      "youtube_views": 2,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nDVYHhw-ZQk/hqdefault.jpg",
@@ -3081,7 +3109,7 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7198,
+      "youtube_views": 7197,
       "youtube_likes": 25,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -4345,7 +4373,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 155,
+    "total_uploads": 156,
     "total_views": 136587,
     "total_likes": 615,
     "videos_per_day": 12
@@ -4578,5 +4606,5 @@
       "created_at": "2026-09-22T02:09:42.429406+00:00"
     }
   ],
-  "last_updated": "2026-09-28T22:28:11.101181+00:00"
+  "last_updated": "2026-09-28T22:28:33.992902+00:00"
 }
