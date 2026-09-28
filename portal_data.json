@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 153,
     "total_views": 136587,
-    "total_likes": 614,
+    "total_likes": 615,
     "total_subscribers": 81,
     "channels_count": 4,
     "videos_per_day": 12
@@ -17,100 +17,92 @@
       "total_views": 339
     },
     {
-      "date": "2026-09-17",
-      "ch1_views": 0,
-      "ch2_views": 10,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 10
-    },
-    {
       "date": "2026-09-18",
       "ch1_views": 7,
-      "ch2_views": 52,
+      "ch2_views": 42,
       "ch3_views": 32211,
       "ch4_views": 0,
-      "total_views": 32270
+      "total_views": 32260
     },
     {
       "date": "2026-09-19",
       "ch1_views": 10,
-      "ch2_views": 82,
-      "ch3_views": 104389,
+      "ch2_views": 72,
+      "ch3_views": 104401,
       "ch4_views": 67,
-      "total_views": 104548
+      "total_views": 104550
     },
     {
       "date": "2026-09-20",
       "ch1_views": 13,
-      "ch2_views": 108,
-      "ch3_views": 106837,
+      "ch2_views": 98,
+      "ch3_views": 106849,
       "ch4_views": 230,
-      "total_views": 107188
+      "total_views": 107190
     },
     {
       "date": "2026-09-21",
       "ch1_views": 29,
-      "ch2_views": 142,
-      "ch3_views": 127961,
+      "ch2_views": 143,
+      "ch3_views": 127977,
       "ch4_views": 0,
-      "total_views": 128132
+      "total_views": 128149
     },
     {
       "date": "2026-09-22",
       "ch1_views": 57,
-      "ch2_views": 224,
-      "ch3_views": 135286,
+      "ch2_views": 225,
+      "ch3_views": 135308,
       "ch4_views": 0,
-      "total_views": 135567
+      "total_views": 135590
     },
     {
       "date": "2026-09-23",
       "ch1_views": 66,
-      "ch2_views": 245,
-      "ch3_views": 135361,
+      "ch2_views": 246,
+      "ch3_views": 135384,
       "ch4_views": 0,
-      "total_views": 135672
+      "total_views": 135696
     },
     {
       "date": "2026-09-24",
       "ch1_views": 70,
-      "ch2_views": 249,
+      "ch2_views": 250,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 319
+      "total_views": 320
     },
     {
       "date": "2026-09-25",
       "ch1_views": 71,
-      "ch2_views": 253,
+      "ch2_views": 254,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 324
+      "total_views": 325
     },
     {
       "date": "2026-09-26",
-      "ch1_views": 80,
-      "ch2_views": 267,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 347
-    },
-    {
-      "date": "2026-09-27",
-      "ch1_views": 80,
-      "ch2_views": 271,
+      "ch1_views": 81,
+      "ch2_views": 270,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 351
     },
     {
+      "date": "2026-09-27",
+      "ch1_views": 81,
+      "ch2_views": 274,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 355
+    },
+    {
       "date": "2026-09-28",
-      "ch1_views": 80,
-      "ch2_views": 275,
-      "ch3_views": 135365,
-      "ch4_views": 230,
-      "total_views": 135950
+      "ch1_views": 81,
+      "ch2_views": 282,
+      "ch3_views": 135388,
+      "ch4_views": 294,
+      "total_views": 136045
     }
   ],
   "channels": {
@@ -209,21 +201,21 @@
         },
         {
           "date": "2026-09-26",
-          "views": 9,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 80
+          "cumulative_views": 81
         },
         {
           "date": "2026-09-27",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 80
+          "cumulative_views": 81
         },
         {
           "date": "2026-09-28",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 80
+          "cumulative_views": 81
         }
       ],
       "videos": [
@@ -290,7 +282,7 @@
           "youtube_id": "5AaYSTH-2Xw",
           "title": "Grandpa Walked So Baby Could Walk Exactly Like Him \ud83e\udd79\ud83d\udc80",
           "tiktok_views": 47000,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/5AaYSTH-2Xw/hqdefault.jpg",
@@ -897,79 +889,87 @@
       },
       "view_history": [
         {
-          "date": "2026-09-17",
-          "views": 10,
-          "uploads": 1,
-          "cumulative_views": 10
-        },
-        {
           "date": "2026-09-18",
           "views": 42,
           "uploads": 2,
-          "cumulative_views": 52
+          "cumulative_views": 42
         },
         {
           "date": "2026-09-19",
           "views": 30,
           "uploads": 2,
-          "cumulative_views": 82
+          "cumulative_views": 72
         },
         {
           "date": "2026-09-20",
           "views": 26,
           "uploads": 3,
-          "cumulative_views": 108
+          "cumulative_views": 98
         },
         {
           "date": "2026-09-21",
-          "views": 34,
+          "views": 45,
           "uploads": 3,
-          "cumulative_views": 142
+          "cumulative_views": 143
         },
         {
           "date": "2026-09-22",
           "views": 82,
           "uploads": 3,
-          "cumulative_views": 224
+          "cumulative_views": 225
         },
         {
           "date": "2026-09-23",
           "views": 21,
           "uploads": 3,
-          "cumulative_views": 245
+          "cumulative_views": 246
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 249
+          "cumulative_views": 250
         },
         {
           "date": "2026-09-25",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 253
+          "cumulative_views": 254
         },
         {
           "date": "2026-09-26",
-          "views": 14,
+          "views": 16,
           "uploads": 3,
-          "cumulative_views": 267
+          "cumulative_views": 270
         },
         {
           "date": "2026-09-27",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 271
+          "cumulative_views": 274
         },
         {
           "date": "2026-09-28",
-          "views": 4,
-          "uploads": 1,
-          "cumulative_views": 275
+          "views": 8,
+          "uploads": 2,
+          "cumulative_views": 282
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7677653731810299150",
+          "youtube_id": "K1u1BA5-MHg",
+          "title": "Crispy Stuffed Chicken & Potato Pepper Cups \ud83e\udd24\ud83e\uddc0",
+          "tiktok_views": 10300,
+          "youtube_views": 3,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/K1u1BA5-MHg/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-28T08:49:15Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -977,7 +977,7 @@
           "youtube_id": "PRdIrEcgLfI",
           "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
           "tiktok_views": 45500,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
@@ -1033,7 +1033,7 @@
           "youtube_id": "QykSg4oh-nM",
           "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
           "tiktok_views": 55100,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QykSg4oh-nM/hqdefault.jpg",
@@ -1257,7 +1257,7 @@
           "youtube_id": "SUB7W4dNQHg",
           "title": "Crispy Cabbage Croquettes with Garlic Yogurt Sauce \u2728",
           "tiktok_views": 202600,
-          "youtube_views": 13,
+          "youtube_views": 24,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SUB7W4dNQHg/hqdefault.jpg",
@@ -1375,20 +1375,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Et2FVj_Gj2M/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-18T07:55:45Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7662096961461341453",
-          "youtube_id": "TNkm_AtcbWI",
-          "title": "Chocolate Banana Cake with 3 Simple Ingredients You'll Want Every Wee \u2728 #shorts",
-          "tiktok_views": 551800,
-          "youtube_views": 10,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/TNkm_AtcbWI/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-17T01:09:57Z"
         }
       ],
       "runs": [
@@ -1653,39 +1639,39 @@
         },
         {
           "date": "2026-09-19",
-          "views": 72178,
+          "views": 72190,
           "uploads": 3,
-          "cumulative_views": 104389
+          "cumulative_views": 104401
         },
         {
           "date": "2026-09-20",
           "views": 2448,
           "uploads": 3,
-          "cumulative_views": 106837
+          "cumulative_views": 106849
         },
         {
           "date": "2026-09-21",
-          "views": 21124,
+          "views": 21128,
           "uploads": 3,
-          "cumulative_views": 127961
+          "cumulative_views": 127977
         },
         {
           "date": "2026-09-22",
-          "views": 7325,
+          "views": 7331,
           "uploads": 3,
-          "cumulative_views": 135286
+          "cumulative_views": 135308
         },
         {
           "date": "2026-09-23",
-          "views": 75,
+          "views": 76,
           "uploads": 1,
-          "cumulative_views": 135361
+          "cumulative_views": 135384
         },
         {
           "date": "2026-09-28",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 135365
+          "cumulative_views": 135388
         }
       ],
       "videos": [
@@ -1710,7 +1696,7 @@
           "youtube_id": "YJ35UWmoXh8",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 75,
+          "youtube_views": 76,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
@@ -1724,7 +1710,7 @@
           "youtube_id": "d0FdoJRRMek",
           "title": "Scraping fungal toenail procedure \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 74,
+          "youtube_views": 75,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -1752,7 +1738,7 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7192,
+          "youtube_views": 7197,
           "youtube_likes": 25,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -1780,7 +1766,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18420,
+          "youtube_views": 18424,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1850,7 +1836,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 18105,
+          "youtube_views": 18108,
           "youtube_likes": 84,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1864,7 +1850,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 34665,
+          "youtube_views": 34674,
           "youtube_likes": 132,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -2176,7 +2162,7 @@
       "subscribers": 2,
       "total_uploads": 3,
       "total_views": 230,
-      "total_likes": 5,
+      "total_likes": 6,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -2218,9 +2204,9 @@
         },
         {
           "date": "2026-09-28",
-          "views": 0,
+          "views": 64,
           "uploads": 1,
-          "cumulative_views": 230
+          "cumulative_views": 294
         }
       ],
       "videos": [
@@ -2231,8 +2217,8 @@
           "youtube_id": "cjXXxP7sjX4",
           "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 0,
-          "youtube_likes": 0,
+          "youtube_views": 64,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
           "status": "uploaded",
@@ -2473,14 +2459,28 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7677653731810299150",
+      "youtube_id": "K1u1BA5-MHg",
+      "title": "Crispy Stuffed Chicken & Potato Pepper Cups \ud83e\udd24\ud83e\uddc0",
+      "tiktok_views": 10300,
+      "youtube_views": 3,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/K1u1BA5-MHg/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-28T08:49:15Z"
+    },
+    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1LVyQI05JBKDWehJ1G2WzT0J2DFIiwSRF",
       "youtube_id": "cjXXxP7sjX4",
       "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
+      "youtube_views": 64,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
       "status": "uploaded",
@@ -2521,7 +2521,7 @@
       "youtube_id": "PRdIrEcgLfI",
       "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
       "tiktok_views": 45500,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
@@ -2619,7 +2619,7 @@
       "youtube_id": "5AaYSTH-2Xw",
       "title": "Grandpa Walked So Baby Could Walk Exactly Like Him \ud83e\udd79\ud83d\udc80",
       "tiktok_views": 47000,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/5AaYSTH-2Xw/hqdefault.jpg",
@@ -2633,7 +2633,7 @@
       "youtube_id": "QykSg4oh-nM",
       "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
       "tiktok_views": 55100,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QykSg4oh-nM/hqdefault.jpg",
@@ -2941,7 +2941,7 @@
       "youtube_id": "YJ35UWmoXh8",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 75,
+      "youtube_views": 76,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
@@ -2983,7 +2983,7 @@
       "youtube_id": "d0FdoJRRMek",
       "title": "Scraping fungal toenail procedure \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 74,
+      "youtube_views": 75,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -3067,7 +3067,7 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7192,
+      "youtube_views": 7197,
       "youtube_likes": 25,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -3137,7 +3137,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18420,
+      "youtube_views": 18424,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -3165,7 +3165,7 @@
       "youtube_id": "SUB7W4dNQHg",
       "title": "Crispy Cabbage Croquettes with Garlic Yogurt Sauce \u2728",
       "tiktok_views": 202600,
-      "youtube_views": 13,
+      "youtube_views": 24,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SUB7W4dNQHg/hqdefault.jpg",
@@ -3375,7 +3375,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 18105,
+      "youtube_views": 18108,
       "youtube_likes": 84,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -3403,7 +3403,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 34665,
+      "youtube_views": 34674,
       "youtube_likes": 132,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -3579,20 +3579,6 @@
       "uploaded_at": "2026-09-18T07:52:45Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7662096961461341453",
-      "youtube_id": "TNkm_AtcbWI",
-      "title": "Chocolate Banana Cake with 3 Simple Ingredients You'll Want Every Wee \u2728 #shorts",
-      "tiktok_views": 551800,
-      "youtube_views": 10,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/TNkm_AtcbWI/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-17T01:09:57Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1dbdAHzFOicG0sTFTjGlGPt5h9x_0US1p",
@@ -3716,21 +3702,21 @@
       },
       {
         "date": "2026-09-26",
-        "views": 9,
+        "views": 10,
         "uploads": 3,
-        "cumulative_views": 80
+        "cumulative_views": 81
       },
       {
         "date": "2026-09-27",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 80
+        "cumulative_views": 81
       },
       {
         "date": "2026-09-28",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 80
+        "cumulative_views": 81
       }
     ],
     "videos": [
@@ -3797,7 +3783,7 @@
         "youtube_id": "5AaYSTH-2Xw",
         "title": "Grandpa Walked So Baby Could Walk Exactly Like Him \ud83e\udd79\ud83d\udc80",
         "tiktok_views": 47000,
-        "youtube_views": 1,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/5AaYSTH-2Xw/hqdefault.jpg",
@@ -4361,7 +4347,7 @@
   "kpis": {
     "total_uploads": 153,
     "total_views": 136587,
-    "total_likes": 614,
+    "total_likes": 615,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4592,5 +4578,5 @@
       "created_at": "2026-09-21T23:40:50.915866+00:00"
     }
   ],
-  "last_updated": "2026-09-28T08:48:22.882551+00:00"
+  "last_updated": "2026-09-28T16:09:29.870144+00:00"
 }
