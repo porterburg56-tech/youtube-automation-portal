@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 152,
     "total_views": 136587,
-    "total_likes": 614,
+    "total_likes": 615,
     "total_subscribers": 81,
     "channels_count": 4,
     "videos_per_day": 12
@@ -36,41 +36,41 @@
       "date": "2026-09-19",
       "ch1_views": 10,
       "ch2_views": 82,
-      "ch3_views": 104385,
+      "ch3_views": 104386,
       "ch4_views": 67,
-      "total_views": 104544
+      "total_views": 104545
     },
     {
       "date": "2026-09-20",
       "ch1_views": 13,
       "ch2_views": 108,
-      "ch3_views": 106833,
+      "ch3_views": 106834,
       "ch4_views": 230,
-      "total_views": 107184
+      "total_views": 107185
     },
     {
       "date": "2026-09-21",
       "ch1_views": 29,
       "ch2_views": 142,
-      "ch3_views": 127955,
+      "ch3_views": 127956,
       "ch4_views": 0,
-      "total_views": 128126
+      "total_views": 128127
     },
     {
       "date": "2026-09-22",
       "ch1_views": 57,
       "ch2_views": 224,
-      "ch3_views": 135276,
+      "ch3_views": 135280,
       "ch4_views": 0,
-      "total_views": 135557
+      "total_views": 135561
     },
     {
       "date": "2026-09-23",
       "ch1_views": 66,
       "ch2_views": 245,
-      "ch3_views": 135351,
+      "ch3_views": 135355,
       "ch4_views": 0,
-      "total_views": 135662
+      "total_views": 135666
     },
     {
       "date": "2026-09-24",
@@ -91,26 +91,26 @@
     {
       "date": "2026-09-26",
       "ch1_views": 80,
-      "ch2_views": 266,
+      "ch2_views": 267,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 346
+      "total_views": 347
     },
     {
       "date": "2026-09-27",
       "ch1_views": 80,
-      "ch2_views": 270,
+      "ch2_views": 271,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 350
+      "total_views": 351
     },
     {
       "date": "2026-09-28",
       "ch1_views": 80,
-      "ch2_views": 270,
-      "ch3_views": 135353,
-      "ch4_views": 230,
-      "total_views": 135933
+      "ch2_views": 271,
+      "ch3_views": 135358,
+      "ch4_views": 237,
+      "total_views": 135946
     }
   ],
   "channels": {
@@ -864,7 +864,7 @@
       "drive_url": "",
       "avatar": "https://yt3.ggpht.com/BzfrtPYNdc_HaeUp-BzMgQYBKQzMy8kzHQwtG7rtTR2XGjy4qb_K_Q2gI9A4HwplzX5C5ZrCzQ=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "T",
-      "category": "Cooking, Recipes & Stories",
+      "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 3,
       "total_uploads": 64,
       "total_views": 614,
@@ -874,7 +874,7 @@
           "slot": 1,
           "time_utc": "16:00",
           "time_et": "11:00 AM ET",
-          "strategy": "Brunch Recipe (Auto-Subtitles)",
+          "strategy": "Brunch Recipe (Spanish Dubbed)",
           "creator": "@dailychefstories",
           "status": "Queued (Slot 1)"
         },
@@ -882,7 +882,7 @@
           "slot": 2,
           "time_utc": "22:00",
           "time_et": "5:00 PM ET",
-          "strategy": "Dinner Prep (Auto-Subtitles)",
+          "strategy": "Dinner Prep (Spanish Dubbed)",
           "creator": "@dailychefstories",
           "status": "Queued (Slot 2)"
         },
@@ -890,7 +890,7 @@
           "slot": 3,
           "time_utc": "01:00",
           "time_et": "8:00 PM ET",
-          "strategy": "Prime-Time Pick (Auto-Subtitles)",
+          "strategy": "Prime-Time (Spanish Dubbed)",
           "creator": "@dailychefstories",
           "status": "Queued (Slot 3)"
         }
@@ -952,21 +952,21 @@
         },
         {
           "date": "2026-09-26",
-          "views": 13,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 266
+          "cumulative_views": 267
         },
         {
           "date": "2026-09-27",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 270
+          "cumulative_views": 271
         },
         {
           "date": "2026-09-28",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 270
+          "cumulative_views": 271
         }
       ],
       "videos": [
@@ -1061,7 +1061,7 @@
           "youtube_id": "Bg_LMovXZ8A",
           "title": "Crispy French Apple Puff Pastry Dessert \ud83c\udf4e\ud83e\udd50",
           "tiktok_views": 59100,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Bg_LMovXZ8A/hqdefault.jpg",
@@ -1615,25 +1615,25 @@
       "upcoming": {
         "slot1": {
           "slot": 1,
-          "time_utc": "17:10",
-          "time_et": "1:10 PM ET",
-          "strategy": "Sequential Drive Queue",
+          "time_utc": "17:15",
+          "time_et": "1:15 PM ET",
+          "strategy": "Sequential Drive Queue (Staggered)",
           "creator": "Google Drive Queue",
           "status": "Queued (Slot 1)"
         },
         "slot2": {
           "slot": 2,
-          "time_utc": "22:10",
-          "time_et": "6:10 PM ET",
-          "strategy": "Sequential Drive Queue",
+          "time_utc": "22:15",
+          "time_et": "6:15 PM ET",
+          "strategy": "Sequential Drive Queue (Staggered)",
           "creator": "Google Drive Queue",
           "status": "Queued (Slot 2)"
         },
         "slot3": {
           "slot": 3,
-          "time_utc": "01:10",
-          "time_et": "9:10 PM ET",
-          "strategy": "Sequential Drive Queue",
+          "time_utc": "01:15",
+          "time_et": "9:15 PM ET",
+          "strategy": "Sequential Drive Queue (Staggered)",
           "creator": "Google Drive Queue",
           "status": "Queued (Slot 3)"
         }
@@ -1653,39 +1653,39 @@
         },
         {
           "date": "2026-09-19",
-          "views": 72175,
+          "views": 72176,
           "uploads": 3,
-          "cumulative_views": 104385
+          "cumulative_views": 104386
         },
         {
           "date": "2026-09-20",
           "views": 2448,
           "uploads": 3,
-          "cumulative_views": 106833
+          "cumulative_views": 106834
         },
         {
           "date": "2026-09-21",
           "views": 21122,
           "uploads": 3,
-          "cumulative_views": 127955
+          "cumulative_views": 127956
         },
         {
           "date": "2026-09-22",
-          "views": 7321,
+          "views": 7324,
           "uploads": 3,
-          "cumulative_views": 135276
+          "cumulative_views": 135280
         },
         {
           "date": "2026-09-23",
           "views": 75,
           "uploads": 1,
-          "cumulative_views": 135351
+          "cumulative_views": 135355
         },
         {
           "date": "2026-09-28",
-          "views": 2,
+          "views": 3,
           "uploads": 1,
-          "cumulative_views": 135353
+          "cumulative_views": 135358
         }
       ],
       "videos": [
@@ -1696,7 +1696,7 @@
           "youtube_id": "-cMGhsPZ3qM",
           "title": "Extracting resin from fungal nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-cMGhsPZ3qM/hqdefault.jpg",
@@ -1752,7 +1752,7 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7189,
+          "youtube_views": 7192,
           "youtube_likes": 25,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -1878,7 +1878,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 19407,
+          "youtube_views": 19408,
           "youtube_likes": 93,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -2176,29 +2176,29 @@
       "subscribers": 2,
       "total_uploads": 3,
       "total_views": 230,
-      "total_likes": 5,
+      "total_likes": 6,
       "upcoming": {
         "slot1": {
           "slot": 1,
-          "time_utc": "17:20",
-          "time_et": "1:20 PM ET",
-          "strategy": "Sequential Drive Queue",
+          "time_utc": "17:30",
+          "time_et": "1:30 PM ET",
+          "strategy": "Sequential Drive Queue (Staggered)",
           "creator": "Google Drive Queue",
           "status": "Queued (Slot 1)"
         },
         "slot2": {
           "slot": 2,
-          "time_utc": "22:20",
-          "time_et": "6:20 PM ET",
-          "strategy": "Sequential Drive Queue",
+          "time_utc": "22:30",
+          "time_et": "6:30 PM ET",
+          "strategy": "Sequential Drive Queue (Staggered)",
           "creator": "Google Drive Queue",
           "status": "Queued (Slot 2)"
         },
         "slot3": {
           "slot": 3,
-          "time_utc": "01:20",
-          "time_et": "9:20 PM ET",
-          "strategy": "Sequential Drive Queue",
+          "time_utc": "01:30",
+          "time_et": "9:30 PM ET",
+          "strategy": "Sequential Drive Queue (Staggered)",
           "creator": "Google Drive Queue",
           "status": "Queued (Slot 3)"
         }
@@ -2218,9 +2218,9 @@
         },
         {
           "date": "2026-09-28",
-          "views": 0,
+          "views": 7,
           "uploads": 1,
-          "cumulative_views": 230
+          "cumulative_views": 237
         }
       ],
       "videos": [
@@ -2231,12 +2231,12 @@
           "youtube_id": "cjXXxP7sjX4",
           "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 0,
-          "youtube_likes": 0,
+          "youtube_views": 7,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-28T06:02:15Z"
+          "uploaded_at": "2026-09-28T06:02:38Z"
         },
         {
           "channel_id": "channel_4",
@@ -2479,12 +2479,12 @@
       "youtube_id": "cjXXxP7sjX4",
       "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
+      "youtube_views": 7,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-28T06:02:15Z"
+      "uploaded_at": "2026-09-28T06:02:38Z"
     },
     {
       "channel_id": "channel_3",
@@ -2493,7 +2493,7 @@
       "youtube_id": "-cMGhsPZ3qM",
       "title": "Extracting resin from fungal nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-cMGhsPZ3qM/hqdefault.jpg",
@@ -2689,7 +2689,7 @@
       "youtube_id": "Bg_LMovXZ8A",
       "title": "Crispy French Apple Puff Pastry Dessert \ud83c\udf4e\ud83e\udd50",
       "tiktok_views": 59100,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Bg_LMovXZ8A/hqdefault.jpg",
@@ -3067,7 +3067,7 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7189,
+      "youtube_views": 7192,
       "youtube_likes": 25,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -3473,7 +3473,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 19407,
+      "youtube_views": 19408,
       "youtube_likes": 93,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -4361,7 +4361,7 @@
   "kpis": {
     "total_uploads": 152,
     "total_views": 136587,
-    "total_likes": 614,
+    "total_likes": 615,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4592,5 +4592,5 @@
       "created_at": "2026-09-21T23:40:50.915866+00:00"
     }
   ],
-  "last_updated": "2026-09-28T06:02:21.495648+00:00"
+  "last_updated": "2026-09-28T08:18:35.812981+00:00"
 }
