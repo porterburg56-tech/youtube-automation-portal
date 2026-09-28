@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 152,
     "total_views": 136587,
-    "total_likes": 615,
+    "total_likes": 614,
     "total_subscribers": 81,
     "channels_count": 4,
     "videos_per_day": 12
@@ -28,49 +28,49 @@
       "date": "2026-09-18",
       "ch1_views": 7,
       "ch2_views": 52,
-      "ch3_views": 32210,
+      "ch3_views": 32211,
       "ch4_views": 0,
-      "total_views": 32269
+      "total_views": 32270
     },
     {
       "date": "2026-09-19",
       "ch1_views": 10,
       "ch2_views": 82,
-      "ch3_views": 104386,
+      "ch3_views": 104389,
       "ch4_views": 67,
-      "total_views": 104545
+      "total_views": 104548
     },
     {
       "date": "2026-09-20",
       "ch1_views": 13,
       "ch2_views": 108,
-      "ch3_views": 106834,
+      "ch3_views": 106837,
       "ch4_views": 230,
-      "total_views": 107185
+      "total_views": 107188
     },
     {
       "date": "2026-09-21",
       "ch1_views": 29,
       "ch2_views": 142,
-      "ch3_views": 127956,
+      "ch3_views": 127961,
       "ch4_views": 0,
-      "total_views": 128127
+      "total_views": 128132
     },
     {
       "date": "2026-09-22",
       "ch1_views": 57,
       "ch2_views": 224,
-      "ch3_views": 135280,
+      "ch3_views": 135286,
       "ch4_views": 0,
-      "total_views": 135561
+      "total_views": 135567
     },
     {
       "date": "2026-09-23",
       "ch1_views": 66,
       "ch2_views": 245,
-      "ch3_views": 135355,
+      "ch3_views": 135361,
       "ch4_views": 0,
-      "total_views": 135666
+      "total_views": 135672
     },
     {
       "date": "2026-09-24",
@@ -107,10 +107,10 @@
     {
       "date": "2026-09-28",
       "ch1_views": 80,
-      "ch2_views": 271,
-      "ch3_views": 135358,
-      "ch4_views": 237,
-      "total_views": 135946
+      "ch2_views": 275,
+      "ch3_views": 135365,
+      "ch4_views": 230,
+      "total_views": 135950
     }
   ],
   "channels": {
@@ -964,9 +964,9 @@
         },
         {
           "date": "2026-09-28",
-          "views": 0,
+          "views": 4,
           "uploads": 1,
-          "cumulative_views": 271
+          "cumulative_views": 275
         }
       ],
       "videos": [
@@ -977,7 +977,7 @@
           "youtube_id": "PRdIrEcgLfI",
           "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
           "tiktok_views": 45500,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
@@ -1393,6 +1393,16 @@
       ],
       "runs": [
         {
+          "id": 74,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-09-28",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "Dubbing exception for 7677653731810299150: name 'Tuple' is not defined. Aborting upload.",
+          "created_at": "2026-09-28T08:27:14.831127+00:00"
+        },
+        {
           "id": 73,
           "channel_id": "channel_2",
           "slot": 3,
@@ -1581,16 +1591,6 @@
           "video_id": "XKCjgS6OaOw",
           "error_message": null,
           "created_at": "2026-09-22T01:12:14.315916+00:00"
-        },
-        {
-          "id": 54,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-09-21",
-          "status": "success",
-          "video_id": "Zylx7Mdmo3Y",
-          "error_message": null,
-          "created_at": "2026-09-21T22:17:06.850310+00:00"
         }
       ]
     },
@@ -1647,45 +1647,45 @@
         },
         {
           "date": "2026-09-18",
-          "views": 31871,
+          "views": 31872,
           "uploads": 3,
-          "cumulative_views": 32210
+          "cumulative_views": 32211
         },
         {
           "date": "2026-09-19",
-          "views": 72176,
+          "views": 72178,
           "uploads": 3,
-          "cumulative_views": 104386
+          "cumulative_views": 104389
         },
         {
           "date": "2026-09-20",
           "views": 2448,
           "uploads": 3,
-          "cumulative_views": 106834
+          "cumulative_views": 106837
         },
         {
           "date": "2026-09-21",
-          "views": 21122,
+          "views": 21124,
           "uploads": 3,
-          "cumulative_views": 127956
+          "cumulative_views": 127961
         },
         {
           "date": "2026-09-22",
-          "views": 7324,
+          "views": 7325,
           "uploads": 3,
-          "cumulative_views": 135280
+          "cumulative_views": 135286
         },
         {
           "date": "2026-09-23",
           "views": 75,
           "uploads": 1,
-          "cumulative_views": 135355
+          "cumulative_views": 135361
         },
         {
           "date": "2026-09-28",
-          "views": 3,
+          "views": 4,
           "uploads": 1,
-          "cumulative_views": 135358
+          "cumulative_views": 135365
         }
       ],
       "videos": [
@@ -1696,7 +1696,7 @@
           "youtube_id": "-cMGhsPZ3qM",
           "title": "Extracting resin from fungal nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-cMGhsPZ3qM/hqdefault.jpg",
@@ -1724,7 +1724,7 @@
           "youtube_id": "d0FdoJRRMek",
           "title": "Scraping fungal toenail procedure \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 73,
+          "youtube_views": 74,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -1780,7 +1780,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18418,
+          "youtube_views": 18420,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1864,7 +1864,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 34663,
+          "youtube_views": 34665,
           "youtube_likes": 132,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1906,7 +1906,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 28180,
+          "youtube_views": 28181,
           "youtube_likes": 122,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2176,7 +2176,7 @@
       "subscribers": 2,
       "total_uploads": 3,
       "total_views": 230,
-      "total_likes": 6,
+      "total_likes": 5,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -2218,9 +2218,9 @@
         },
         {
           "date": "2026-09-28",
-          "views": 7,
+          "views": 0,
           "uploads": 1,
-          "cumulative_views": 237
+          "cumulative_views": 230
         }
       ],
       "videos": [
@@ -2231,8 +2231,8 @@
           "youtube_id": "cjXXxP7sjX4",
           "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 7,
-          "youtube_likes": 1,
+          "youtube_views": 0,
+          "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
           "status": "uploaded",
@@ -2479,8 +2479,8 @@
       "youtube_id": "cjXXxP7sjX4",
       "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 7,
-      "youtube_likes": 1,
+      "youtube_views": 0,
+      "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
       "status": "uploaded",
@@ -2493,7 +2493,7 @@
       "youtube_id": "-cMGhsPZ3qM",
       "title": "Extracting resin from fungal nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-cMGhsPZ3qM/hqdefault.jpg",
@@ -2521,7 +2521,7 @@
       "youtube_id": "PRdIrEcgLfI",
       "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
       "tiktok_views": 45500,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
@@ -2983,7 +2983,7 @@
       "youtube_id": "d0FdoJRRMek",
       "title": "Scraping fungal toenail procedure \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 73,
+      "youtube_views": 74,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -3137,7 +3137,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18418,
+      "youtube_views": 18420,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -3403,7 +3403,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 34663,
+      "youtube_views": 34665,
       "youtube_likes": 132,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -3557,7 +3557,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 28180,
+      "youtube_views": 28181,
       "youtube_likes": 122,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -4361,7 +4361,7 @@
   "kpis": {
     "total_uploads": 152,
     "total_views": 136587,
-    "total_likes": 615,
+    "total_likes": 614,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4592,5 +4592,5 @@
       "created_at": "2026-09-21T23:40:50.915866+00:00"
     }
   ],
-  "last_updated": "2026-09-28T08:18:35.812981+00:00"
+  "last_updated": "2026-09-28T08:27:19.078119+00:00"
 }
