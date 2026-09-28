@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 150,
+    "total_uploads": 151,
     "total_views": 136587,
     "total_likes": 614,
     "total_subscribers": 81,
@@ -28,49 +28,49 @@
       "date": "2026-09-18",
       "ch1_views": 10,
       "ch2_views": 52,
-      "ch3_views": 32209,
+      "ch3_views": 32212,
       "ch4_views": 0,
-      "total_views": 32271
+      "total_views": 32274
     },
     {
       "date": "2026-09-19",
       "ch1_views": 13,
       "ch2_views": 82,
-      "ch3_views": 104363,
+      "ch3_views": 104373,
       "ch4_views": 67,
-      "total_views": 104525
+      "total_views": 104535
     },
     {
       "date": "2026-09-20",
       "ch1_views": 16,
       "ch2_views": 108,
-      "ch3_views": 106811,
+      "ch3_views": 106821,
       "ch4_views": 230,
-      "total_views": 107165
+      "total_views": 107175
     },
     {
       "date": "2026-09-21",
       "ch1_views": 32,
       "ch2_views": 142,
-      "ch3_views": 127917,
+      "ch3_views": 127937,
       "ch4_views": 0,
-      "total_views": 128091
+      "total_views": 128111
     },
     {
       "date": "2026-09-22",
       "ch1_views": 60,
       "ch2_views": 224,
-      "ch3_views": 135233,
+      "ch3_views": 135254,
       "ch4_views": 0,
-      "total_views": 135517
+      "total_views": 135538
     },
     {
       "date": "2026-09-23",
       "ch1_views": 69,
       "ch2_views": 245,
-      "ch3_views": 135302,
+      "ch3_views": 135323,
       "ch4_views": 0,
-      "total_views": 135616
+      "total_views": 135637
     },
     {
       "date": "2026-09-24",
@@ -99,18 +99,18 @@
     {
       "date": "2026-09-27",
       "ch1_views": 81,
-      "ch2_views": 270,
+      "ch2_views": 267,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 351
+      "total_views": 348
     },
     {
       "date": "2026-09-28",
       "ch1_views": 0,
-      "ch2_views": 270,
+      "ch2_views": 267,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 270
+      "total_views": 267
     }
   ],
   "channels": {
@@ -129,7 +129,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 65,
+      "total_uploads": 66,
       "total_views": 572,
       "total_likes": 0,
       "upcoming": {
@@ -644,6 +644,16 @@
       ],
       "runs": [
         {
+          "id": 75,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-09-28",
+          "status": "success",
+          "video_id": "h6yM2xKQ700",
+          "error_message": null,
+          "created_at": "2026-09-28T02:09:06.805270+00:00"
+        },
+        {
           "id": 74,
           "channel_id": "channel_1",
           "slot": 2,
@@ -832,16 +842,6 @@
           "video_id": "F1C5YleLjqQ",
           "error_message": null,
           "created_at": "2026-09-21T23:40:50.915866+00:00"
-        },
-        {
-          "id": 55,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-21",
-          "status": "success",
-          "video_id": "axvhKLPpQ5U",
-          "error_message": null,
-          "created_at": "2026-09-21T17:14:49.487801+00:00"
         }
       ]
     },
@@ -952,15 +952,15 @@
         },
         {
           "date": "2026-09-27",
-          "views": 4,
+          "views": 1,
           "uploads": 3,
-          "cumulative_views": 270
+          "cumulative_views": 267
         },
         {
           "date": "2026-09-28",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 270
+          "cumulative_views": 267
         }
       ],
       "videos": [
@@ -985,7 +985,7 @@
           "youtube_id": "nDVYHhw-ZQk",
           "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
           "tiktok_views": 48700,
-          "youtube_views": 2,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nDVYHhw-ZQk/hqdefault.jpg",
@@ -1013,7 +1013,7 @@
           "youtube_id": "fOkH5a4Y7no",
           "title": "Beer-Marinated Tender Beef \u2728",
           "tiktok_views": 76200,
-          "youtube_views": 2,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/fOkH5a4Y7no/hqdefault.jpg",
@@ -1641,39 +1641,39 @@
         },
         {
           "date": "2026-09-18",
-          "views": 31870,
+          "views": 31873,
           "uploads": 3,
-          "cumulative_views": 32209
+          "cumulative_views": 32212
         },
         {
           "date": "2026-09-19",
-          "views": 72154,
+          "views": 72161,
           "uploads": 3,
-          "cumulative_views": 104363
+          "cumulative_views": 104373
         },
         {
           "date": "2026-09-20",
           "views": 2448,
           "uploads": 3,
-          "cumulative_views": 106811
+          "cumulative_views": 106821
         },
         {
           "date": "2026-09-21",
-          "views": 21106,
+          "views": 21116,
           "uploads": 3,
-          "cumulative_views": 127917
+          "cumulative_views": 127937
         },
         {
           "date": "2026-09-22",
-          "views": 7316,
+          "views": 7317,
           "uploads": 3,
-          "cumulative_views": 135233
+          "cumulative_views": 135254
         },
         {
           "date": "2026-09-23",
           "views": 69,
           "uploads": 1,
-          "cumulative_views": 135302
+          "cumulative_views": 135323
         }
       ],
       "videos": [
@@ -1698,7 +1698,7 @@
           "youtube_id": "d0FdoJRRMek",
           "title": "Scraping fungal toenail procedure \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 72,
+          "youtube_views": 73,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -1754,7 +1754,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18402,
+          "youtube_views": 18412,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1824,7 +1824,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 18100,
+          "youtube_views": 18103,
           "youtube_likes": 84,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1838,7 +1838,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 34649,
+          "youtube_views": 34653,
           "youtube_likes": 132,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1866,7 +1866,7 @@
           "youtube_id": "um2nCzxcEAE",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 331,
+          "youtube_views": 334,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -2475,7 +2475,7 @@
       "youtube_id": "nDVYHhw-ZQk",
       "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
       "tiktok_views": 48700,
-      "youtube_views": 2,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nDVYHhw-ZQk/hqdefault.jpg",
@@ -2531,7 +2531,7 @@
       "youtube_id": "fOkH5a4Y7no",
       "title": "Beer-Marinated Tender Beef \u2728",
       "tiktok_views": 76200,
-      "youtube_views": 2,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/fOkH5a4Y7no/hqdefault.jpg",
@@ -2909,7 +2909,7 @@
       "youtube_id": "d0FdoJRRMek",
       "title": "Scraping fungal toenail procedure \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 72,
+      "youtube_views": 73,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
@@ -3063,7 +3063,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18402,
+      "youtube_views": 18412,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -3315,7 +3315,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 18100,
+      "youtube_views": 18103,
       "youtube_likes": 84,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -3343,7 +3343,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 34649,
+      "youtube_views": 34653,
       "youtube_likes": 132,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -3455,7 +3455,7 @@
       "youtube_id": "um2nCzxcEAE",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 331,
+      "youtube_views": 334,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
@@ -3590,7 +3590,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 65,
+    "total_uploads": 66,
     "total_views": 572,
     "total_likes": 0,
     "upcoming": {
@@ -4105,6 +4105,16 @@
     ],
     "runs": [
       {
+        "id": 75,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-09-28",
+        "status": "success",
+        "video_id": "h6yM2xKQ700",
+        "error_message": null,
+        "created_at": "2026-09-28T02:09:06.805270+00:00"
+      },
+      {
         "id": 74,
         "channel_id": "channel_1",
         "slot": 2,
@@ -4293,21 +4303,11 @@
         "video_id": "F1C5YleLjqQ",
         "error_message": null,
         "created_at": "2026-09-21T23:40:50.915866+00:00"
-      },
-      {
-        "id": 55,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-21",
-        "status": "success",
-        "video_id": "axvhKLPpQ5U",
-        "error_message": null,
-        "created_at": "2026-09-21T17:14:49.487801+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 150,
+    "total_uploads": 151,
     "total_views": 136587,
     "total_likes": 614,
     "videos_per_day": 12
@@ -4339,6 +4339,16 @@
     }
   },
   "runs": [
+    {
+      "id": 75,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-09-28",
+      "status": "success",
+      "video_id": "h6yM2xKQ700",
+      "error_message": null,
+      "created_at": "2026-09-28T02:09:06.805270+00:00"
+    },
     {
       "id": 74,
       "channel_id": "channel_1",
@@ -4528,17 +4538,7 @@
       "video_id": "F1C5YleLjqQ",
       "error_message": null,
       "created_at": "2026-09-21T23:40:50.915866+00:00"
-    },
-    {
-      "id": 55,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-21",
-      "status": "success",
-      "video_id": "axvhKLPpQ5U",
-      "error_message": null,
-      "created_at": "2026-09-21T17:14:49.487801+00:00"
     }
   ],
-  "last_updated": "2026-09-28T01:32:11.714491+00:00"
+  "last_updated": "2026-09-28T02:09:10.461188+00:00"
 }
