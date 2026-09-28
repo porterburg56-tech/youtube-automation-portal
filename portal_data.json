@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 149,
+    "total_uploads": 150,
     "total_views": 136587,
     "total_likes": 614,
     "total_subscribers": 81,
@@ -18,91 +18,91 @@
     },
     {
       "date": "2026-09-17",
-      "ch1_views": 3,
+      "ch1_views": 0,
       "ch2_views": 13,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 16
+      "total_views": 13
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 13,
+      "ch1_views": 10,
       "ch2_views": 55,
-      "ch3_views": 32207,
+      "ch3_views": 32209,
       "ch4_views": 0,
-      "total_views": 32275
+      "total_views": 32274
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 16,
+      "ch1_views": 13,
       "ch2_views": 85,
-      "ch3_views": 104356,
+      "ch3_views": 104363,
       "ch4_views": 67,
-      "total_views": 104524
+      "total_views": 104528
     },
     {
       "date": "2026-09-20",
-      "ch1_views": 19,
+      "ch1_views": 16,
       "ch2_views": 111,
-      "ch3_views": 106804,
+      "ch3_views": 106811,
       "ch4_views": 230,
-      "total_views": 107164
+      "total_views": 107168
     },
     {
       "date": "2026-09-21",
-      "ch1_views": 35,
+      "ch1_views": 32,
       "ch2_views": 145,
-      "ch3_views": 127909,
+      "ch3_views": 127917,
       "ch4_views": 0,
-      "total_views": 128089
+      "total_views": 128094
     },
     {
       "date": "2026-09-22",
-      "ch1_views": 63,
+      "ch1_views": 60,
       "ch2_views": 227,
-      "ch3_views": 135219,
+      "ch3_views": 135233,
       "ch4_views": 0,
-      "total_views": 135509
+      "total_views": 135520
     },
     {
       "date": "2026-09-23",
-      "ch1_views": 72,
+      "ch1_views": 69,
       "ch2_views": 248,
-      "ch3_views": 135287,
+      "ch3_views": 135302,
       "ch4_views": 0,
-      "total_views": 135607
+      "total_views": 135619
     },
     {
       "date": "2026-09-24",
-      "ch1_views": 76,
+      "ch1_views": 73,
       "ch2_views": 252,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 328
+      "total_views": 325
     },
     {
       "date": "2026-09-25",
-      "ch1_views": 76,
+      "ch1_views": 73,
       "ch2_views": 256,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 332
+      "total_views": 329
     },
     {
       "date": "2026-09-26",
-      "ch1_views": 84,
+      "ch1_views": 81,
       "ch2_views": 268,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 352
+      "total_views": 349
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 84,
+      "ch1_views": 81,
       "ch2_views": 269,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 353
+      "total_views": 350
     }
   ],
   "channels": {
@@ -152,73 +152,81 @@
       },
       "view_history": [
         {
-          "date": "2026-09-17",
-          "views": 3,
-          "uploads": 1,
-          "cumulative_views": 3
-        },
-        {
           "date": "2026-09-18",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 10
         },
         {
           "date": "2026-09-19",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 16
+          "cumulative_views": 13
         },
         {
           "date": "2026-09-20",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 16
         },
         {
           "date": "2026-09-21",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 35
+          "cumulative_views": 32
         },
         {
           "date": "2026-09-22",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 63
+          "cumulative_views": 60
         },
         {
           "date": "2026-09-23",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 72
+          "cumulative_views": 69
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 76
+          "cumulative_views": 73
         },
         {
           "date": "2026-09-25",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 76
+          "cumulative_views": 73
         },
         {
           "date": "2026-09-26",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 84
+          "cumulative_views": 81
         },
         {
           "date": "2026-09-27",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 84
+          "uploads": 3,
+          "cumulative_views": 81
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7675338879615962381",
+          "youtube_id": "qqHYm_vn-0s",
+          "title": "First the Toddler Ate Boiled Eggs\u2026 Then He Picked the WRONG Egg! \ud83e\udd5a\ud83d\udca5",
+          "tiktok_views": 34000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/qqHYm_vn-0s/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-27T23:40:56Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -624,20 +632,6 @@
           "thumbnail": "https://i.ytimg.com/vi/M3wuW1zH3rQ/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-18T07:52:28Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7677929356647206158",
-          "youtube_id": "pDRO1BpkUd8",
-          "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #shorts",
-          "tiktok_views": 97400,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/pDRO1BpkUd8/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-17T02:09:23Z"
         }
       ],
       "runs": [
@@ -858,7 +852,7 @@
       "avatar_letter": "T",
       "category": "Cooking, Recipes & Stories",
       "subscribers": 3,
-      "total_uploads": 63,
+      "total_uploads": 64,
       "total_views": 614,
       "total_likes": 1,
       "upcoming": {
@@ -1385,6 +1379,16 @@
       ],
       "runs": [
         {
+          "id": 73,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-09-28",
+          "status": "success",
+          "video_id": "PRdIrEcgLfI",
+          "error_message": null,
+          "created_at": "2026-09-28T01:13:47.262378+00:00"
+        },
+        {
           "id": 72,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1573,16 +1577,6 @@
           "video_id": "Zylx7Mdmo3Y",
           "error_message": null,
           "created_at": "2026-09-21T22:17:06.850310+00:00"
-        },
-        {
-          "id": 53,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-21",
-          "status": "success",
-          "video_id": "SUB7W4dNQHg",
-          "error_message": null,
-          "created_at": "2026-09-21T16:12:27.169615+00:00"
         }
       ]
     },
@@ -1639,39 +1633,39 @@
         },
         {
           "date": "2026-09-18",
-          "views": 31868,
+          "views": 31870,
           "uploads": 3,
-          "cumulative_views": 32207
+          "cumulative_views": 32209
         },
         {
           "date": "2026-09-19",
-          "views": 72149,
+          "views": 72154,
           "uploads": 3,
-          "cumulative_views": 104356
+          "cumulative_views": 104363
         },
         {
           "date": "2026-09-20",
           "views": 2448,
           "uploads": 3,
-          "cumulative_views": 106804
+          "cumulative_views": 106811
         },
         {
           "date": "2026-09-21",
-          "views": 21105,
+          "views": 21106,
           "uploads": 3,
-          "cumulative_views": 127909
+          "cumulative_views": 127917
         },
         {
           "date": "2026-09-22",
-          "views": 7310,
+          "views": 7316,
           "uploads": 3,
-          "cumulative_views": 135219
+          "cumulative_views": 135233
         },
         {
           "date": "2026-09-23",
-          "views": 68,
+          "views": 69,
           "uploads": 1,
-          "cumulative_views": 135287
+          "cumulative_views": 135302
         }
       ],
       "videos": [
@@ -1682,7 +1676,7 @@
           "youtube_id": "YJ35UWmoXh8",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 68,
+          "youtube_views": 69,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
@@ -1724,7 +1718,7 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7179,
+          "youtube_views": 7185,
           "youtube_likes": 25,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -1738,7 +1732,7 @@
           "youtube_id": "-tqwlkndIoo",
           "title": "Hands extracting debris from nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 74,
+          "youtube_views": 75,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-tqwlkndIoo/hqdefault.jpg",
@@ -1822,7 +1816,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 18097,
+          "youtube_views": 18100,
           "youtube_likes": 84,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1850,7 +1844,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 19403,
+          "youtube_views": 19405,
           "youtube_likes": 93,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1878,7 +1872,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 28180,
+          "youtube_views": 28182,
           "youtube_likes": 122,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2439,6 +2433,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7675338879615962381",
+      "youtube_id": "qqHYm_vn-0s",
+      "title": "First the Toddler Ate Boiled Eggs\u2026 Then He Picked the WRONG Egg! \ud83e\udd5a\ud83d\udca5",
+      "tiktok_views": 34000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/qqHYm_vn-0s/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-27T23:40:56Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7675061393799793933",
@@ -2837,7 +2845,7 @@
       "youtube_id": "YJ35UWmoXh8",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 68,
+      "youtube_views": 69,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
@@ -2963,7 +2971,7 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7179,
+      "youtube_views": 7185,
       "youtube_likes": 25,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -3005,7 +3013,7 @@
       "youtube_id": "-tqwlkndIoo",
       "title": "Hands extracting debris from nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 74,
+      "youtube_views": 75,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-tqwlkndIoo/hqdefault.jpg",
@@ -3285,7 +3293,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 18097,
+      "youtube_views": 18100,
       "youtube_likes": 84,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -3383,7 +3391,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 19403,
+      "youtube_views": 19405,
       "youtube_likes": 93,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -3467,7 +3475,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 28180,
+      "youtube_views": 28182,
       "youtube_likes": 122,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -3501,20 +3509,6 @@
       "thumbnail": "https://i.ytimg.com/vi/M3wuW1zH3rQ/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-18T07:52:28Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7677929356647206158",
-      "youtube_id": "pDRO1BpkUd8",
-      "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #shorts",
-      "tiktok_views": 97400,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/pDRO1BpkUd8/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-17T02:09:23Z"
     },
     {
       "channel_id": "channel_2",
@@ -3619,73 +3613,81 @@
     },
     "view_history": [
       {
-        "date": "2026-09-17",
-        "views": 3,
-        "uploads": 1,
-        "cumulative_views": 3
-      },
-      {
         "date": "2026-09-18",
         "views": 10,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 10
       },
       {
         "date": "2026-09-19",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 16
+        "cumulative_views": 13
       },
       {
         "date": "2026-09-20",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 19
+        "cumulative_views": 16
       },
       {
         "date": "2026-09-21",
         "views": 16,
         "uploads": 3,
-        "cumulative_views": 35
+        "cumulative_views": 32
       },
       {
         "date": "2026-09-22",
         "views": 28,
         "uploads": 3,
-        "cumulative_views": 63
+        "cumulative_views": 60
       },
       {
         "date": "2026-09-23",
         "views": 9,
         "uploads": 3,
-        "cumulative_views": 72
+        "cumulative_views": 69
       },
       {
         "date": "2026-09-24",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 76
+        "cumulative_views": 73
       },
       {
         "date": "2026-09-25",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 76
+        "cumulative_views": 73
       },
       {
         "date": "2026-09-26",
         "views": 8,
         "uploads": 3,
-        "cumulative_views": 84
+        "cumulative_views": 81
       },
       {
         "date": "2026-09-27",
         "views": 0,
-        "uploads": 2,
-        "cumulative_views": 84
+        "uploads": 3,
+        "cumulative_views": 81
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7675338879615962381",
+        "youtube_id": "qqHYm_vn-0s",
+        "title": "First the Toddler Ate Boiled Eggs\u2026 Then He Picked the WRONG Egg! \ud83e\udd5a\ud83d\udca5",
+        "tiktok_views": 34000,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/qqHYm_vn-0s/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-27T23:40:56Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4091,20 +4093,6 @@
         "thumbnail": "https://i.ytimg.com/vi/M3wuW1zH3rQ/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-18T07:52:28Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7677929356647206158",
-        "youtube_id": "pDRO1BpkUd8",
-        "title": "The Stick Walk Has Me Crying Every Single Time \ud83d\ude2d\ud83e\udd23 #shorts",
-        "tiktok_views": 97400,
-        "youtube_views": 3,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/pDRO1BpkUd8/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-17T02:09:23Z"
       }
     ],
     "runs": [
@@ -4311,7 +4299,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 149,
+    "total_uploads": 150,
     "total_views": 136587,
     "total_likes": 614,
     "videos_per_day": 12
@@ -4544,5 +4532,5 @@
       "created_at": "2026-09-21T17:14:49.487801+00:00"
     }
   ],
-  "last_updated": "2026-09-27T23:40:22.098421+00:00"
+  "last_updated": "2026-09-28T01:13:51.660461+00:00"
 }
