@@ -26,91 +26,91 @@
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 10,
+      "ch1_views": 7,
       "ch2_views": 52,
-      "ch3_views": 32212,
+      "ch3_views": 32210,
       "ch4_views": 0,
-      "total_views": 32274
+      "total_views": 32269
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 13,
+      "ch1_views": 10,
       "ch2_views": 82,
-      "ch3_views": 104373,
+      "ch3_views": 104385,
       "ch4_views": 67,
-      "total_views": 104535
+      "total_views": 104544
     },
     {
       "date": "2026-09-20",
-      "ch1_views": 16,
+      "ch1_views": 13,
       "ch2_views": 108,
-      "ch3_views": 106821,
+      "ch3_views": 106833,
       "ch4_views": 230,
-      "total_views": 107175
+      "total_views": 107184
     },
     {
       "date": "2026-09-21",
-      "ch1_views": 32,
+      "ch1_views": 29,
       "ch2_views": 142,
-      "ch3_views": 127937,
+      "ch3_views": 127955,
       "ch4_views": 0,
-      "total_views": 128111
+      "total_views": 128126
     },
     {
       "date": "2026-09-22",
-      "ch1_views": 60,
+      "ch1_views": 57,
       "ch2_views": 224,
-      "ch3_views": 135254,
+      "ch3_views": 135279,
       "ch4_views": 0,
-      "total_views": 135538
+      "total_views": 135560
     },
     {
       "date": "2026-09-23",
-      "ch1_views": 69,
+      "ch1_views": 66,
       "ch2_views": 245,
-      "ch3_views": 135323,
+      "ch3_views": 135354,
       "ch4_views": 0,
-      "total_views": 135637
+      "total_views": 135665
     },
     {
       "date": "2026-09-24",
-      "ch1_views": 73,
+      "ch1_views": 70,
       "ch2_views": 249,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 322
+      "total_views": 319
     },
     {
       "date": "2026-09-25",
-      "ch1_views": 73,
+      "ch1_views": 71,
       "ch2_views": 253,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 326
+      "total_views": 324
     },
     {
       "date": "2026-09-26",
-      "ch1_views": 81,
-      "ch2_views": 266,
+      "ch1_views": 80,
+      "ch2_views": 267,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 347
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 81,
-      "ch2_views": 267,
+      "ch1_views": 80,
+      "ch2_views": 271,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 348
+      "total_views": 351
     },
     {
       "date": "2026-09-28",
-      "ch1_views": 0,
-      "ch2_views": 267,
+      "ch1_views": 80,
+      "ch2_views": 271,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 267
+      "total_views": 351
     }
   ],
   "channels": {
@@ -161,66 +161,86 @@
       "view_history": [
         {
           "date": "2026-09-18",
-          "views": 10,
-          "uploads": 3,
-          "cumulative_views": 10
+          "views": 7,
+          "uploads": 2,
+          "cumulative_views": 7
         },
         {
           "date": "2026-09-19",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 10
         },
         {
           "date": "2026-09-20",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 16
+          "cumulative_views": 13
         },
         {
           "date": "2026-09-21",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 32
+          "cumulative_views": 29
         },
         {
           "date": "2026-09-22",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 60
+          "cumulative_views": 57
         },
         {
           "date": "2026-09-23",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 69
+          "cumulative_views": 66
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 73
+          "cumulative_views": 70
         },
         {
           "date": "2026-09-25",
-          "views": 0,
+          "views": 1,
           "uploads": 3,
-          "cumulative_views": 73
+          "cumulative_views": 71
         },
         {
           "date": "2026-09-26",
-          "views": 8,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 81
+          "cumulative_views": 80
         },
         {
           "date": "2026-09-27",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 81
+          "cumulative_views": 80
+        },
+        {
+          "date": "2026-09-28",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 80
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7679854748639579406",
+          "youtube_id": "h6yM2xKQ700",
+          "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet \ud83d\ude02",
+          "tiktok_views": 33000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/h6yM2xKQ700/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-28T02:09:26Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -270,7 +290,7 @@
           "youtube_id": "5AaYSTH-2Xw",
           "title": "Grandpa Walked So Baby Could Walk Exactly Like Him \ud83e\udd79\ud83d\udc80",
           "tiktok_views": 47000,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/5AaYSTH-2Xw/hqdefault.jpg",
@@ -326,7 +346,7 @@
           "youtube_id": "MXt0Ix3blQo",
           "title": "This Baby Just Walked So His Grandpa Could Feel Seen \ud83e\udd79\u2764\ufe0f",
           "tiktok_views": 8684,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MXt0Ix3blQo/hqdefault.jpg",
@@ -626,20 +646,6 @@
           "thumbnail": "https://i.ytimg.com/vi/9UdGcElPd1U/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-18T07:54:25Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7686508809631616269",
-          "youtube_id": "M3wuW1zH3rQ",
-          "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25",
-          "tiktok_views": 14700,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/M3wuW1zH3rQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-18T07:52:28Z"
         }
       ],
       "runs": [
@@ -946,21 +952,21 @@
         },
         {
           "date": "2026-09-26",
-          "views": 13,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 266
+          "cumulative_views": 267
         },
         {
           "date": "2026-09-27",
-          "views": 1,
+          "views": 4,
           "uploads": 3,
-          "cumulative_views": 267
+          "cumulative_views": 271
         },
         {
           "date": "2026-09-28",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 267
+          "cumulative_views": 271
         }
       ],
       "videos": [
@@ -985,7 +991,7 @@
           "youtube_id": "nDVYHhw-ZQk",
           "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
           "tiktok_views": 48700,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nDVYHhw-ZQk/hqdefault.jpg",
@@ -1013,7 +1019,7 @@
           "youtube_id": "fOkH5a4Y7no",
           "title": "Beer-Marinated Tender Beef \u2728",
           "tiktok_views": 76200,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/fOkH5a4Y7no/hqdefault.jpg",
@@ -1055,7 +1061,7 @@
           "youtube_id": "Bg_LMovXZ8A",
           "title": "Crispy French Apple Puff Pastry Dessert \ud83c\udf4e\ud83e\udd50",
           "tiktok_views": 59100,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Bg_LMovXZ8A/hqdefault.jpg",
@@ -1641,39 +1647,39 @@
         },
         {
           "date": "2026-09-18",
-          "views": 31873,
+          "views": 31871,
           "uploads": 3,
-          "cumulative_views": 32212
+          "cumulative_views": 32210
         },
         {
           "date": "2026-09-19",
-          "views": 72161,
+          "views": 72175,
           "uploads": 3,
-          "cumulative_views": 104373
+          "cumulative_views": 104385
         },
         {
           "date": "2026-09-20",
           "views": 2448,
           "uploads": 3,
-          "cumulative_views": 106821
+          "cumulative_views": 106833
         },
         {
           "date": "2026-09-21",
-          "views": 21116,
+          "views": 21122,
           "uploads": 3,
-          "cumulative_views": 127937
+          "cumulative_views": 127955
         },
         {
           "date": "2026-09-22",
-          "views": 7317,
+          "views": 7324,
           "uploads": 3,
-          "cumulative_views": 135254
+          "cumulative_views": 135279
         },
         {
           "date": "2026-09-23",
-          "views": 69,
+          "views": 75,
           "uploads": 1,
-          "cumulative_views": 135323
+          "cumulative_views": 135354
         }
       ],
       "videos": [
@@ -1684,7 +1690,7 @@
           "youtube_id": "YJ35UWmoXh8",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 69,
+          "youtube_views": 75,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
@@ -1726,7 +1732,7 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7185,
+          "youtube_views": 7192,
           "youtube_likes": 25,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -1754,7 +1760,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18412,
+          "youtube_views": 18418,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1824,7 +1830,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 18103,
+          "youtube_views": 18105,
           "youtube_likes": 84,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -1838,7 +1844,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 34653,
+          "youtube_views": 34663,
           "youtube_likes": 132,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -1852,7 +1858,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 19405,
+          "youtube_views": 19407,
           "youtube_likes": 93,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -1880,7 +1886,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 28182,
+          "youtube_views": 28180,
           "youtube_likes": 122,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2441,6 +2447,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7679854748639579406",
+      "youtube_id": "h6yM2xKQ700",
+      "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet \ud83d\ude02",
+      "tiktok_views": 33000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/h6yM2xKQ700/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-28T02:09:26Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7666897828190473486",
@@ -2475,7 +2495,7 @@
       "youtube_id": "nDVYHhw-ZQk",
       "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
       "tiktok_views": 48700,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nDVYHhw-ZQk/hqdefault.jpg",
@@ -2531,7 +2551,7 @@
       "youtube_id": "fOkH5a4Y7no",
       "title": "Beer-Marinated Tender Beef \u2728",
       "tiktok_views": 76200,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/fOkH5a4Y7no/hqdefault.jpg",
@@ -2545,7 +2565,7 @@
       "youtube_id": "5AaYSTH-2Xw",
       "title": "Grandpa Walked So Baby Could Walk Exactly Like Him \ud83e\udd79\ud83d\udc80",
       "tiktok_views": 47000,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/5AaYSTH-2Xw/hqdefault.jpg",
@@ -2615,7 +2635,7 @@
       "youtube_id": "Bg_LMovXZ8A",
       "title": "Crispy French Apple Puff Pastry Dessert \ud83c\udf4e\ud83e\udd50",
       "tiktok_views": 59100,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Bg_LMovXZ8A/hqdefault.jpg",
@@ -2657,7 +2677,7 @@
       "youtube_id": "MXt0Ix3blQo",
       "title": "This Baby Just Walked So His Grandpa Could Feel Seen \ud83e\udd79\u2764\ufe0f",
       "tiktok_views": 8684,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MXt0Ix3blQo/hqdefault.jpg",
@@ -2867,7 +2887,7 @@
       "youtube_id": "YJ35UWmoXh8",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 69,
+      "youtube_views": 75,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
@@ -2993,7 +3013,7 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7185,
+      "youtube_views": 7192,
       "youtube_likes": 25,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -3063,7 +3083,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18412,
+      "youtube_views": 18418,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -3315,7 +3335,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 18103,
+      "youtube_views": 18105,
       "youtube_likes": 84,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -3343,7 +3363,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 34653,
+      "youtube_views": 34663,
       "youtube_likes": 132,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -3413,7 +3433,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 19405,
+      "youtube_views": 19407,
       "youtube_likes": 93,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -3497,7 +3517,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 28182,
+      "youtube_views": 28180,
       "youtube_likes": 122,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -3517,20 +3537,6 @@
       "thumbnail": "https://i.ytimg.com/vi/jLpRzaXGHIE/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-18T07:52:45Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7686508809631616269",
-      "youtube_id": "M3wuW1zH3rQ",
-      "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25",
-      "tiktok_views": 14700,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/M3wuW1zH3rQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-18T07:52:28Z"
     },
     {
       "channel_id": "channel_2",
@@ -3622,66 +3628,86 @@
     "view_history": [
       {
         "date": "2026-09-18",
-        "views": 10,
-        "uploads": 3,
-        "cumulative_views": 10
+        "views": 7,
+        "uploads": 2,
+        "cumulative_views": 7
       },
       {
         "date": "2026-09-19",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 10
       },
       {
         "date": "2026-09-20",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 16
+        "cumulative_views": 13
       },
       {
         "date": "2026-09-21",
         "views": 16,
         "uploads": 3,
-        "cumulative_views": 32
+        "cumulative_views": 29
       },
       {
         "date": "2026-09-22",
         "views": 28,
         "uploads": 3,
-        "cumulative_views": 60
+        "cumulative_views": 57
       },
       {
         "date": "2026-09-23",
         "views": 9,
         "uploads": 3,
-        "cumulative_views": 69
+        "cumulative_views": 66
       },
       {
         "date": "2026-09-24",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 73
+        "cumulative_views": 70
       },
       {
         "date": "2026-09-25",
-        "views": 0,
+        "views": 1,
         "uploads": 3,
-        "cumulative_views": 73
+        "cumulative_views": 71
       },
       {
         "date": "2026-09-26",
-        "views": 8,
+        "views": 9,
         "uploads": 3,
-        "cumulative_views": 81
+        "cumulative_views": 80
       },
       {
         "date": "2026-09-27",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 81
+        "cumulative_views": 80
+      },
+      {
+        "date": "2026-09-28",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 80
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7679854748639579406",
+        "youtube_id": "h6yM2xKQ700",
+        "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet \ud83d\ude02",
+        "tiktok_views": 33000,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/h6yM2xKQ700/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-28T02:09:26Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -3731,7 +3757,7 @@
         "youtube_id": "5AaYSTH-2Xw",
         "title": "Grandpa Walked So Baby Could Walk Exactly Like Him \ud83e\udd79\ud83d\udc80",
         "tiktok_views": 47000,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/5AaYSTH-2Xw/hqdefault.jpg",
@@ -3787,7 +3813,7 @@
         "youtube_id": "MXt0Ix3blQo",
         "title": "This Baby Just Walked So His Grandpa Could Feel Seen \ud83e\udd79\u2764\ufe0f",
         "tiktok_views": 8684,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/MXt0Ix3blQo/hqdefault.jpg",
@@ -4087,20 +4113,6 @@
         "thumbnail": "https://i.ytimg.com/vi/9UdGcElPd1U/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-18T07:54:25Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7686508809631616269",
-        "youtube_id": "M3wuW1zH3rQ",
-        "title": "Toddler Grabbed a Stick and Became Grandpa Instantly \ud83d\ude2d\ud83d\udd25",
-        "tiktok_views": 14700,
-        "youtube_views": 3,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/M3wuW1zH3rQ/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-18T07:52:28Z"
       }
     ],
     "runs": [
@@ -4540,5 +4552,5 @@
       "created_at": "2026-09-21T23:40:50.915866+00:00"
     }
   ],
-  "last_updated": "2026-09-28T02:09:10.461188+00:00"
+  "last_updated": "2026-09-28T05:28:40.697559+00:00"
 }
