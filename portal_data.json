@@ -18,88 +18,88 @@
     },
     {
       "date": "2026-09-18",
-      "ch1_views": 7,
+      "ch1_views": 5,
       "ch2_views": 42,
       "ch3_views": 32211,
       "ch4_views": 0,
-      "total_views": 32260
+      "total_views": 32258
     },
     {
       "date": "2026-09-19",
-      "ch1_views": 10,
+      "ch1_views": 8,
       "ch2_views": 72,
       "ch3_views": 104404,
       "ch4_views": 67,
-      "total_views": 104553
+      "total_views": 104551
     },
     {
       "date": "2026-09-20",
-      "ch1_views": 13,
+      "ch1_views": 11,
       "ch2_views": 98,
       "ch3_views": 106852,
       "ch4_views": 230,
-      "total_views": 107193
+      "total_views": 107191
     },
     {
       "date": "2026-09-21",
-      "ch1_views": 29,
+      "ch1_views": 27,
       "ch2_views": 143,
       "ch3_views": 127980,
       "ch4_views": 0,
-      "total_views": 128152
+      "total_views": 128150
     },
     {
       "date": "2026-09-22",
-      "ch1_views": 57,
+      "ch1_views": 55,
       "ch2_views": 225,
       "ch3_views": 135312,
       "ch4_views": 0,
-      "total_views": 135594
+      "total_views": 135592
     },
     {
       "date": "2026-09-23",
-      "ch1_views": 66,
+      "ch1_views": 64,
       "ch2_views": 246,
       "ch3_views": 135388,
       "ch4_views": 0,
-      "total_views": 135700
+      "total_views": 135698
     },
     {
       "date": "2026-09-24",
-      "ch1_views": 70,
+      "ch1_views": 68,
       "ch2_views": 250,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 320
+      "total_views": 318
     },
     {
       "date": "2026-09-25",
-      "ch1_views": 71,
+      "ch1_views": 69,
       "ch2_views": 254,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 325
+      "total_views": 323
     },
     {
       "date": "2026-09-26",
-      "ch1_views": 81,
-      "ch2_views": 269,
+      "ch1_views": 79,
+      "ch2_views": 271,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 350
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 81,
-      "ch2_views": 273,
+      "ch1_views": 79,
+      "ch2_views": 275,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 354
     },
     {
       "date": "2026-09-28",
-      "ch1_views": 81,
-      "ch2_views": 282,
+      "ch1_views": 79,
+      "ch2_views": 284,
       "ch3_views": 135392,
       "ch4_views": 293,
       "total_views": 136048
@@ -153,72 +153,86 @@
       "view_history": [
         {
           "date": "2026-09-18",
-          "views": 7,
-          "uploads": 2,
-          "cumulative_views": 7
+          "views": 5,
+          "uploads": 1,
+          "cumulative_views": 5
         },
         {
           "date": "2026-09-19",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 10
+          "cumulative_views": 8
         },
         {
           "date": "2026-09-20",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 11
         },
         {
           "date": "2026-09-21",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 29
+          "cumulative_views": 27
         },
         {
           "date": "2026-09-22",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 57
+          "cumulative_views": 55
         },
         {
           "date": "2026-09-23",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 66
+          "cumulative_views": 64
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 70
+          "cumulative_views": 68
         },
         {
           "date": "2026-09-25",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 71
+          "cumulative_views": 69
         },
         {
           "date": "2026-09-26",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 81
+          "cumulative_views": 79
         },
         {
           "date": "2026-09-27",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 81
+          "cumulative_views": 79
         },
         {
           "date": "2026-09-28",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 81
+          "uploads": 2,
+          "cumulative_views": 79
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7690550277098720526",
+          "youtube_id": "aInXhEJxU8g",
+          "title": "Months Old and Already Walking Like a 76 Year Old \ud83d\ude2d\ud83d\udc80",
+          "tiktok_views": 19500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/aInXhEJxU8g/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-28T17:24:22Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -624,20 +638,6 @@
           "thumbnail": "https://i.ytimg.com/vi/rh2Dqc6y-WY/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-18T23:40:04Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7680940471744580878",
-          "youtube_id": "9UdGcElPd1U",
-          "title": "Grandpa and Baby Walking Side by Side to the Mailbox Is Everything \ud83e\udd79",
-          "tiktok_views": 93500,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/9UdGcElPd1U/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-18T07:54:25Z"
         }
       ],
       "runs": [
@@ -938,21 +938,21 @@
         },
         {
           "date": "2026-09-26",
-          "views": 15,
+          "views": 17,
           "uploads": 3,
-          "cumulative_views": 269
+          "cumulative_views": 271
         },
         {
           "date": "2026-09-27",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 273
+          "cumulative_views": 275
         },
         {
           "date": "2026-09-28",
           "views": 9,
           "uploads": 2,
-          "cumulative_views": 282
+          "cumulative_views": 284
         }
       ],
       "videos": [
@@ -1033,7 +1033,7 @@
           "youtube_id": "QykSg4oh-nM",
           "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
           "tiktok_views": 55100,
-          "youtube_views": 3,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QykSg4oh-nM/hqdefault.jpg",
@@ -2459,6 +2459,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7690550277098720526",
+      "youtube_id": "aInXhEJxU8g",
+      "title": "Months Old and Already Walking Like a 76 Year Old \ud83d\ude2d\ud83d\udc80",
+      "tiktok_views": 19500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/aInXhEJxU8g/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-28T17:24:22Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7677653731810299150",
@@ -2633,7 +2647,7 @@
       "youtube_id": "QykSg4oh-nM",
       "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
       "tiktok_views": 55100,
-      "youtube_views": 3,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QykSg4oh-nM/hqdefault.jpg",
@@ -3537,20 +3551,6 @@
       "uploaded_at": "2026-09-18T07:55:45Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7680940471744580878",
-      "youtube_id": "9UdGcElPd1U",
-      "title": "Grandpa and Baby Walking Side by Side to the Mailbox Is Everything \ud83e\udd79",
-      "tiktok_views": 93500,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/9UdGcElPd1U/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-18T07:54:25Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1_219_fGPY57R2YyOkOnNXyryeXbYqdmZ",
@@ -3654,72 +3654,86 @@
     "view_history": [
       {
         "date": "2026-09-18",
-        "views": 7,
-        "uploads": 2,
-        "cumulative_views": 7
+        "views": 5,
+        "uploads": 1,
+        "cumulative_views": 5
       },
       {
         "date": "2026-09-19",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 10
+        "cumulative_views": 8
       },
       {
         "date": "2026-09-20",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 11
       },
       {
         "date": "2026-09-21",
         "views": 16,
         "uploads": 3,
-        "cumulative_views": 29
+        "cumulative_views": 27
       },
       {
         "date": "2026-09-22",
         "views": 28,
         "uploads": 3,
-        "cumulative_views": 57
+        "cumulative_views": 55
       },
       {
         "date": "2026-09-23",
         "views": 9,
         "uploads": 3,
-        "cumulative_views": 66
+        "cumulative_views": 64
       },
       {
         "date": "2026-09-24",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 70
+        "cumulative_views": 68
       },
       {
         "date": "2026-09-25",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 71
+        "cumulative_views": 69
       },
       {
         "date": "2026-09-26",
         "views": 10,
         "uploads": 3,
-        "cumulative_views": 81
+        "cumulative_views": 79
       },
       {
         "date": "2026-09-27",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 81
+        "cumulative_views": 79
       },
       {
         "date": "2026-09-28",
         "views": 0,
-        "uploads": 1,
-        "cumulative_views": 81
+        "uploads": 2,
+        "cumulative_views": 79
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7690550277098720526",
+        "youtube_id": "aInXhEJxU8g",
+        "title": "Months Old and Already Walking Like a 76 Year Old \ud83d\ude2d\ud83d\udc80",
+        "tiktok_views": 19500,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/aInXhEJxU8g/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-09-28T17:24:22Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4125,20 +4139,6 @@
         "thumbnail": "https://i.ytimg.com/vi/rh2Dqc6y-WY/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-18T23:40:04Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7680940471744580878",
-        "youtube_id": "9UdGcElPd1U",
-        "title": "Grandpa and Baby Walking Side by Side to the Mailbox Is Everything \ud83e\udd79",
-        "tiktok_views": 93500,
-        "youtube_views": 2,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/9UdGcElPd1U/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-18T07:54:25Z"
       }
     ],
     "runs": [
@@ -4578,5 +4578,5 @@
       "created_at": "2026-09-22T02:09:42.429406+00:00"
     }
   ],
-  "last_updated": "2026-09-28T17:19:11.415791+00:00"
+  "last_updated": "2026-09-28T17:25:52.956882+00:00"
 }
