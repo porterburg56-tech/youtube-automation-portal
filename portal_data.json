@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 156,
+    "total_uploads": 157,
     "total_views": 136587,
     "total_likes": 615,
     "total_subscribers": 81,
@@ -19,90 +19,90 @@
     {
       "date": "2026-09-18",
       "ch1_views": 5,
-      "ch2_views": 42,
+      "ch2_views": 39,
       "ch3_views": 32211,
       "ch4_views": 0,
-      "total_views": 32258
+      "total_views": 32255
     },
     {
       "date": "2026-09-19",
       "ch1_views": 8,
-      "ch2_views": 72,
-      "ch3_views": 104410,
+      "ch2_views": 69,
+      "ch3_views": 104409,
       "ch4_views": 67,
-      "total_views": 104557
+      "total_views": 104553
     },
     {
       "date": "2026-09-20",
       "ch1_views": 12,
-      "ch2_views": 98,
-      "ch3_views": 106858,
+      "ch2_views": 95,
+      "ch3_views": 106857,
       "ch4_views": 230,
-      "total_views": 107198
+      "total_views": 107194
     },
     {
       "date": "2026-09-21",
       "ch1_views": 28,
-      "ch2_views": 143,
-      "ch3_views": 127986,
+      "ch2_views": 140,
+      "ch3_views": 127985,
       "ch4_views": 0,
-      "total_views": 128157
+      "total_views": 128153
     },
     {
       "date": "2026-09-22",
       "ch1_views": 56,
-      "ch2_views": 225,
-      "ch3_views": 135318,
+      "ch2_views": 222,
+      "ch3_views": 135317,
       "ch4_views": 0,
-      "total_views": 135599
+      "total_views": 135595
     },
     {
       "date": "2026-09-23",
       "ch1_views": 65,
-      "ch2_views": 247,
-      "ch3_views": 135394,
+      "ch2_views": 244,
+      "ch3_views": 135393,
       "ch4_views": 0,
-      "total_views": 135706
+      "total_views": 135702
     },
     {
       "date": "2026-09-24",
       "ch1_views": 69,
-      "ch2_views": 251,
+      "ch2_views": 248,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 320
+      "total_views": 317
     },
     {
       "date": "2026-09-25",
       "ch1_views": 70,
-      "ch2_views": 255,
+      "ch2_views": 252,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 325
+      "total_views": 322
     },
     {
       "date": "2026-09-26",
       "ch1_views": 80,
-      "ch2_views": 272,
+      "ch2_views": 269,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 352
+      "total_views": 349
     },
     {
       "date": "2026-09-27",
       "ch1_views": 80,
-      "ch2_views": 274,
+      "ch2_views": 271,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 354
+      "total_views": 351
     },
     {
       "date": "2026-09-28",
       "ch1_views": 80,
-      "ch2_views": 283,
-      "ch3_views": 135398,
+      "ch2_views": 280,
+      "ch3_views": 135397,
       "ch4_views": 324,
-      "total_views": 136085
+      "total_views": 136081
     }
   ],
   "channels": {
@@ -890,72 +890,86 @@
       "view_history": [
         {
           "date": "2026-09-18",
-          "views": 42,
-          "uploads": 2,
-          "cumulative_views": 42
+          "views": 39,
+          "uploads": 1,
+          "cumulative_views": 39
         },
         {
           "date": "2026-09-19",
           "views": 30,
           "uploads": 2,
-          "cumulative_views": 72
+          "cumulative_views": 69
         },
         {
           "date": "2026-09-20",
           "views": 26,
           "uploads": 3,
-          "cumulative_views": 98
+          "cumulative_views": 95
         },
         {
           "date": "2026-09-21",
           "views": 45,
           "uploads": 3,
-          "cumulative_views": 143
+          "cumulative_views": 140
         },
         {
           "date": "2026-09-22",
           "views": 82,
           "uploads": 3,
-          "cumulative_views": 225
+          "cumulative_views": 222
         },
         {
           "date": "2026-09-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 247
+          "cumulative_views": 244
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 251
+          "cumulative_views": 248
         },
         {
           "date": "2026-09-25",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 255
+          "cumulative_views": 252
         },
         {
           "date": "2026-09-26",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 272
+          "cumulative_views": 269
         },
         {
           "date": "2026-09-27",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 274
+          "cumulative_views": 271
         },
         {
           "date": "2026-09-28",
           "views": 9,
-          "uploads": 2,
-          "cumulative_views": 283
+          "uploads": 3,
+          "cumulative_views": 280
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7655036681468284174",
+          "youtube_id": "JpRuF51o4yQ",
+          "title": "The Turkish Baker\u2019s Secret to Fluffy Golden Buns \u2728",
+          "tiktok_views": 43400,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/JpRuF51o4yQ/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-28T22:28:50Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1361,20 +1375,6 @@
           "thumbnail": "https://i.ytimg.com/vi/HBPnQVJ8tj8/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-18T22:17:46Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7686196593879452942",
-          "youtube_id": "Et2FVj_Gj2M",
-          "title": "Chocolate Caramel Apple Puff Pastry \u2728",
-          "tiktok_views": 277500,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/Et2FVj_Gj2M/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-18T07:55:45Z"
         }
       ],
       "runs": [
@@ -1639,39 +1639,39 @@
         },
         {
           "date": "2026-09-19",
-          "views": 72199,
+          "views": 72198,
           "uploads": 3,
-          "cumulative_views": 104410
+          "cumulative_views": 104409
         },
         {
           "date": "2026-09-20",
           "views": 2448,
           "uploads": 3,
-          "cumulative_views": 106858
+          "cumulative_views": 106857
         },
         {
           "date": "2026-09-21",
           "views": 21128,
           "uploads": 3,
-          "cumulative_views": 127986
+          "cumulative_views": 127985
         },
         {
           "date": "2026-09-22",
           "views": 7332,
           "uploads": 3,
-          "cumulative_views": 135318
+          "cumulative_views": 135317
         },
         {
           "date": "2026-09-23",
           "views": 76,
           "uploads": 1,
-          "cumulative_views": 135394
+          "cumulative_views": 135393
         },
         {
           "date": "2026-09-28",
           "views": 4,
           "uploads": 2,
-          "cumulative_views": 135398
+          "cumulative_views": 135397
         }
       ],
       "videos": [
@@ -1687,7 +1687,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/RRBocdziYIs/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-28T22:28:25Z"
+          "uploaded_at": "2026-09-28T22:28:45Z"
         },
         {
           "channel_id": "channel_3",
@@ -1850,7 +1850,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 18110,
+          "youtube_views": 18109,
           "youtube_likes": 84,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -2174,7 +2174,7 @@
       "avatar_letter": "R",
       "category": "Remote Work & Side Hustles",
       "subscribers": 2,
-      "total_uploads": 3,
+      "total_uploads": 4,
       "total_views": 230,
       "total_likes": 6,
       "upcoming": {
@@ -2219,11 +2219,25 @@
         {
           "date": "2026-09-28",
           "views": 94,
-          "uploads": 1,
+          "uploads": 2,
           "cumulative_views": 324
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_4",
+          "channel_name": "Remote Jobs WFH",
+          "tiktok_id": "1rBMyziyFDHSlSX-j3utpImBUGkyKCq7V",
+          "youtube_id": "O93J_LSj0lE",
+          "title": "Legit Work From Home Job Opening \ud83d\udcbc\ud83d\udd25",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/O93J_LSj0lE/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-28T22:35:06Z"
+        },
         {
           "channel_id": "channel_4",
           "channel_name": "Remote Jobs WFH",
@@ -2268,6 +2282,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 35,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-09-28",
+          "status": "success",
+          "video_id": "O93J_LSj0lE",
+          "error_message": null,
+          "created_at": "2026-09-28T22:35:08.437022+00:00"
+        },
         {
           "id": 34,
           "channel_id": "channel_4",
@@ -2457,21 +2481,39 @@
           "video_id": null,
           "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
           "created_at": "2026-09-22T17:31:58.203680+00:00"
-        },
-        {
-          "id": 15,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-09-22",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
-          "created_at": "2026-09-22T01:30:38.063390+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_4",
+      "channel_name": "Remote Jobs WFH",
+      "tiktok_id": "1rBMyziyFDHSlSX-j3utpImBUGkyKCq7V",
+      "youtube_id": "O93J_LSj0lE",
+      "title": "Legit Work From Home Job Opening \ud83d\udcbc\ud83d\udd25",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/O93J_LSj0lE/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-28T22:35:06Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7655036681468284174",
+      "youtube_id": "JpRuF51o4yQ",
+      "title": "The Turkish Baker\u2019s Secret to Fluffy Golden Buns \u2728",
+      "tiktok_views": 43400,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/JpRuF51o4yQ/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-28T22:28:50Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -2484,7 +2526,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/RRBocdziYIs/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-28T22:28:25Z"
+      "uploaded_at": "2026-09-28T22:28:45Z"
     },
     {
       "channel_id": "channel_1",
@@ -3417,7 +3459,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 18110,
+      "youtube_views": 18109,
       "youtube_likes": 84,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -3563,20 +3605,6 @@
       "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-18T22:04:38Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7686196593879452942",
-      "youtube_id": "Et2FVj_Gj2M",
-      "title": "Chocolate Caramel Apple Puff Pastry \u2728",
-      "tiktok_views": 277500,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/Et2FVj_Gj2M/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-18T07:55:45Z"
     },
     {
       "channel_id": "channel_3",
@@ -4373,7 +4401,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 156,
+    "total_uploads": 157,
     "total_views": 136587,
     "total_likes": 615,
     "videos_per_day": 12
@@ -4606,5 +4634,5 @@
       "created_at": "2026-09-22T02:09:42.429406+00:00"
     }
   ],
-  "last_updated": "2026-09-28T22:28:33.992902+00:00"
+  "last_updated": "2026-09-28T22:35:13.594267+00:00"
 }
