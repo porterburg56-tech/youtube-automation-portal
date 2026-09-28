@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 157,
-    "total_views": 136587,
+    "total_uploads": 158,
+    "total_views": 136591,
     "total_likes": 615,
     "total_subscribers": 81,
     "channels_count": 4,
@@ -28,41 +28,41 @@
       "date": "2026-09-19",
       "ch1_views": 8,
       "ch2_views": 69,
-      "ch3_views": 104409,
+      "ch3_views": 104410,
       "ch4_views": 67,
-      "total_views": 104553
+      "total_views": 104554
     },
     {
       "date": "2026-09-20",
       "ch1_views": 12,
       "ch2_views": 95,
-      "ch3_views": 106857,
+      "ch3_views": 106858,
       "ch4_views": 230,
-      "total_views": 107194
+      "total_views": 107195
     },
     {
       "date": "2026-09-21",
       "ch1_views": 28,
       "ch2_views": 140,
-      "ch3_views": 127985,
+      "ch3_views": 127986,
       "ch4_views": 0,
-      "total_views": 128153
+      "total_views": 128154
     },
     {
       "date": "2026-09-22",
       "ch1_views": 56,
       "ch2_views": 222,
-      "ch3_views": 135317,
+      "ch3_views": 135319,
       "ch4_views": 0,
-      "total_views": 135595
+      "total_views": 135597
     },
     {
       "date": "2026-09-23",
       "ch1_views": 65,
       "ch2_views": 244,
-      "ch3_views": 135393,
+      "ch3_views": 135395,
       "ch4_views": 0,
-      "total_views": 135702
+      "total_views": 135704
     },
     {
       "date": "2026-09-24",
@@ -91,18 +91,18 @@
     {
       "date": "2026-09-27",
       "ch1_views": 80,
-      "ch2_views": 271,
+      "ch2_views": 273,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 351
+      "total_views": 353
     },
     {
       "date": "2026-09-28",
       "ch1_views": 80,
-      "ch2_views": 280,
-      "ch3_views": 135397,
-      "ch4_views": 324,
-      "total_views": 136081
+      "ch2_views": 282,
+      "ch3_views": 135399,
+      "ch4_views": 346,
+      "total_views": 136107
     }
   ],
   "channels": {
@@ -121,8 +121,8 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 67,
-      "total_views": 572,
+      "total_uploads": 68,
+      "total_views": 576,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -642,6 +642,16 @@
       ],
       "runs": [
         {
+          "id": 77,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-28",
+          "status": "success",
+          "video_id": "vLZoF2mawWY",
+          "error_message": null,
+          "created_at": "2026-09-28T23:42:18.023575+00:00"
+        },
+        {
           "id": 76,
           "channel_id": "channel_1",
           "slot": 1,
@@ -830,16 +840,6 @@
           "video_id": "JmRZTU3tcfs",
           "error_message": null,
           "created_at": "2026-09-22T17:17:10.179739+00:00"
-        },
-        {
-          "id": 57,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-09-22",
-          "status": "success",
-          "video_id": "ExPudnPFOBU",
-          "error_message": null,
-          "created_at": "2026-09-22T02:09:42.429406+00:00"
         }
       ]
     },
@@ -944,15 +944,15 @@
         },
         {
           "date": "2026-09-27",
-          "views": 2,
+          "views": 4,
           "uploads": 3,
-          "cumulative_views": 271
+          "cumulative_views": 273
         },
         {
           "date": "2026-09-28",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 280
+          "cumulative_views": 282
         }
       ],
       "videos": [
@@ -1005,7 +1005,7 @@
           "youtube_id": "nDVYHhw-ZQk",
           "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
           "tiktok_views": 48700,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nDVYHhw-ZQk/hqdefault.jpg",
@@ -1639,39 +1639,39 @@
         },
         {
           "date": "2026-09-19",
-          "views": 72198,
+          "views": 72199,
           "uploads": 3,
-          "cumulative_views": 104409
+          "cumulative_views": 104410
         },
         {
           "date": "2026-09-20",
           "views": 2448,
           "uploads": 3,
-          "cumulative_views": 106857
+          "cumulative_views": 106858
         },
         {
           "date": "2026-09-21",
           "views": 21128,
           "uploads": 3,
-          "cumulative_views": 127985
+          "cumulative_views": 127986
         },
         {
           "date": "2026-09-22",
-          "views": 7332,
+          "views": 7333,
           "uploads": 3,
-          "cumulative_views": 135317
+          "cumulative_views": 135319
         },
         {
           "date": "2026-09-23",
           "views": 76,
           "uploads": 1,
-          "cumulative_views": 135393
+          "cumulative_views": 135395
         },
         {
           "date": "2026-09-28",
           "views": 4,
           "uploads": 2,
-          "cumulative_views": 135397
+          "cumulative_views": 135399
         }
       ],
       "videos": [
@@ -1752,7 +1752,7 @@
           "youtube_id": "q8-_E40fKaY",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7197,
+          "youtube_views": 7198,
           "youtube_likes": 25,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -1850,7 +1850,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 18109,
+          "youtube_views": 18110,
           "youtube_likes": 84,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -2218,9 +2218,9 @@
         },
         {
           "date": "2026-09-28",
-          "views": 94,
+          "views": 116,
           "uploads": 2,
-          "cumulative_views": 324
+          "cumulative_views": 346
         }
       ],
       "videos": [
@@ -2231,12 +2231,12 @@
           "youtube_id": "O93J_LSj0lE",
           "title": "Legit Work From Home Job Opening \ud83d\udcbc\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/O93J_LSj0lE/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-28T22:35:06Z"
+          "uploaded_at": "2026-09-28T22:35:26Z"
         },
         {
           "channel_id": "channel_4",
@@ -2245,7 +2245,7 @@
           "youtube_id": "cjXXxP7sjX4",
           "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 94,
+          "youtube_views": 113,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
@@ -2493,12 +2493,12 @@
       "youtube_id": "O93J_LSj0lE",
       "title": "Legit Work From Home Job Opening \ud83d\udcbc\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/O93J_LSj0lE/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-28T22:35:06Z"
+      "uploaded_at": "2026-09-28T22:35:26Z"
     },
     {
       "channel_id": "channel_2",
@@ -2563,7 +2563,7 @@
       "youtube_id": "cjXXxP7sjX4",
       "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 94,
+      "youtube_views": 113,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
@@ -2633,7 +2633,7 @@
       "youtube_id": "nDVYHhw-ZQk",
       "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
       "tiktok_views": 48700,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nDVYHhw-ZQk/hqdefault.jpg",
@@ -3151,7 +3151,7 @@
       "youtube_id": "q8-_E40fKaY",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7197,
+      "youtube_views": 7198,
       "youtube_likes": 25,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/q8-_E40fKaY/hqdefault.jpg",
@@ -3459,7 +3459,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 18109,
+      "youtube_views": 18110,
       "youtube_likes": 84,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -3678,8 +3678,8 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 67,
-    "total_views": 572,
+    "total_uploads": 68,
+    "total_views": 576,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -4199,6 +4199,16 @@
     ],
     "runs": [
       {
+        "id": 77,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-28",
+        "status": "success",
+        "video_id": "vLZoF2mawWY",
+        "error_message": null,
+        "created_at": "2026-09-28T23:42:18.023575+00:00"
+      },
+      {
         "id": 76,
         "channel_id": "channel_1",
         "slot": 1,
@@ -4387,22 +4397,12 @@
         "video_id": "JmRZTU3tcfs",
         "error_message": null,
         "created_at": "2026-09-22T17:17:10.179739+00:00"
-      },
-      {
-        "id": 57,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-09-22",
-        "status": "success",
-        "video_id": "ExPudnPFOBU",
-        "error_message": null,
-        "created_at": "2026-09-22T02:09:42.429406+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 157,
-    "total_views": 136587,
+    "total_uploads": 158,
+    "total_views": 136591,
     "total_likes": 615,
     "videos_per_day": 12
   },
@@ -4433,6 +4433,16 @@
     }
   },
   "runs": [
+    {
+      "id": 77,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-28",
+      "status": "success",
+      "video_id": "vLZoF2mawWY",
+      "error_message": null,
+      "created_at": "2026-09-28T23:42:18.023575+00:00"
+    },
     {
       "id": 76,
       "channel_id": "channel_1",
@@ -4622,17 +4632,7 @@
       "video_id": "JmRZTU3tcfs",
       "error_message": null,
       "created_at": "2026-09-22T17:17:10.179739+00:00"
-    },
-    {
-      "id": 57,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-09-22",
-      "status": "success",
-      "video_id": "ExPudnPFOBU",
-      "error_message": null,
-      "created_at": "2026-09-22T02:09:42.429406+00:00"
     }
   ],
-  "last_updated": "2026-09-28T22:35:13.594267+00:00"
+  "last_updated": "2026-09-28T23:42:22.304491+00:00"
 }
