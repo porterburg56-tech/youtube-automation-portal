@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 161,
+    "total_uploads": 162,
     "total_views": 136591,
     "total_likes": 615,
     "total_subscribers": 81,
@@ -91,26 +91,26 @@
     {
       "date": "2026-09-27",
       "ch1_views": 75,
-      "ch2_views": 232,
+      "ch2_views": 233,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 307
+      "total_views": 308
     },
     {
       "date": "2026-09-28",
       "ch1_views": 75,
-      "ch2_views": 242,
+      "ch2_views": 243,
       "ch3_views": 135406,
-      "ch4_views": 346,
-      "total_views": 136069
+      "ch4_views": 354,
+      "total_views": 136078
     },
     {
       "date": "2026-09-29",
       "ch1_views": 0,
-      "ch2_views": 242,
+      "ch2_views": 243,
       "ch3_views": 135406,
-      "ch4_views": 346,
-      "total_views": 135994
+      "ch4_views": 355,
+      "total_views": 136004
     }
   ],
   "channels": {
@@ -129,7 +129,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 68,
+      "total_uploads": 69,
       "total_views": 576,
       "total_likes": 0,
       "upcoming": {
@@ -644,6 +644,16 @@
       ],
       "runs": [
         {
+          "id": 78,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-09-29",
+          "status": "success",
+          "video_id": "wZd_mfd54VA",
+          "error_message": null,
+          "created_at": "2026-09-29T02:08:52.900736+00:00"
+        },
+        {
           "id": 77,
           "channel_id": "channel_1",
           "slot": 2,
@@ -832,16 +842,6 @@
           "video_id": "7ypv3M7aNY0",
           "error_message": null,
           "created_at": "2026-09-22T23:40:17.778753+00:00"
-        },
-        {
-          "id": 58,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-22",
-          "status": "success",
-          "video_id": "JmRZTU3tcfs",
-          "error_message": null,
-          "created_at": "2026-09-22T17:17:10.179739+00:00"
         }
       ]
     },
@@ -940,21 +940,21 @@
         },
         {
           "date": "2026-09-27",
-          "views": 2,
+          "views": 3,
           "uploads": 3,
-          "cumulative_views": 232
+          "cumulative_views": 233
         },
         {
           "date": "2026-09-28",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 242
+          "cumulative_views": 243
         },
         {
           "date": "2026-09-29",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 242
+          "cumulative_views": 243
         }
       ],
       "videos": [
@@ -1035,7 +1035,7 @@
           "youtube_id": "xdXwrdZyMgg",
           "title": "cheesy Stuffed Meatballs with potatoes \u2728",
           "tiktok_views": 12900,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/xdXwrdZyMgg/hqdefault.jpg",
@@ -2240,15 +2240,15 @@
         },
         {
           "date": "2026-09-28",
-          "views": 116,
+          "views": 124,
           "uploads": 2,
-          "cumulative_views": 346
+          "cumulative_views": 354
         },
         {
           "date": "2026-09-29",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 346
+          "cumulative_views": 355
         }
       ],
       "videos": [
@@ -2259,12 +2259,12 @@
           "youtube_id": "UJRr3Tmx3mA",
           "title": "Work From Anywhere \u2014 Person applying for remote job! \ud83c\udfe0\ud83d\udcbc",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/UJRr3Tmx3mA/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-29T01:35:53Z"
+          "uploaded_at": "2026-09-29T01:36:09Z"
         },
         {
           "channel_id": "channel_4",
@@ -2273,7 +2273,7 @@
           "youtube_id": "O93J_LSj0lE",
           "title": "Legit Work From Home Job Opening \ud83d\udcbc\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/O93J_LSj0lE/hqdefault.jpg",
@@ -2287,7 +2287,7 @@
           "youtube_id": "cjXXxP7sjX4",
           "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 113,
+          "youtube_views": 120,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
@@ -2535,12 +2535,12 @@
       "youtube_id": "UJRr3Tmx3mA",
       "title": "Work From Anywhere \u2014 Person applying for remote job! \ud83c\udfe0\ud83d\udcbc",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/UJRr3Tmx3mA/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-29T01:35:53Z"
+      "uploaded_at": "2026-09-29T01:36:09Z"
     },
     {
       "channel_id": "channel_3",
@@ -2591,7 +2591,7 @@
       "youtube_id": "O93J_LSj0lE",
       "title": "Legit Work From Home Job Opening \ud83d\udcbc\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/O93J_LSj0lE/hqdefault.jpg",
@@ -2661,7 +2661,7 @@
       "youtube_id": "cjXXxP7sjX4",
       "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 113,
+      "youtube_views": 120,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
@@ -2759,7 +2759,7 @@
       "youtube_id": "xdXwrdZyMgg",
       "title": "cheesy Stuffed Meatballs with potatoes \u2728",
       "tiktok_views": 12900,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/xdXwrdZyMgg/hqdefault.jpg",
@@ -3748,7 +3748,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 68,
+    "total_uploads": 69,
     "total_views": 576,
     "total_likes": 0,
     "upcoming": {
@@ -4263,6 +4263,16 @@
     ],
     "runs": [
       {
+        "id": 78,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-09-29",
+        "status": "success",
+        "video_id": "wZd_mfd54VA",
+        "error_message": null,
+        "created_at": "2026-09-29T02:08:52.900736+00:00"
+      },
+      {
         "id": 77,
         "channel_id": "channel_1",
         "slot": 2,
@@ -4451,21 +4461,11 @@
         "video_id": "7ypv3M7aNY0",
         "error_message": null,
         "created_at": "2026-09-22T23:40:17.778753+00:00"
-      },
-      {
-        "id": 58,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-22",
-        "status": "success",
-        "video_id": "JmRZTU3tcfs",
-        "error_message": null,
-        "created_at": "2026-09-22T17:17:10.179739+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 161,
+    "total_uploads": 162,
     "total_views": 136591,
     "total_likes": 615,
     "videos_per_day": 12
@@ -4497,6 +4497,16 @@
     }
   },
   "runs": [
+    {
+      "id": 78,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-09-29",
+      "status": "success",
+      "video_id": "wZd_mfd54VA",
+      "error_message": null,
+      "created_at": "2026-09-29T02:08:52.900736+00:00"
+    },
     {
       "id": 77,
       "channel_id": "channel_1",
@@ -4686,17 +4696,7 @@
       "video_id": "7ypv3M7aNY0",
       "error_message": null,
       "created_at": "2026-09-22T23:40:17.778753+00:00"
-    },
-    {
-      "id": 58,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-22",
-      "status": "success",
-      "video_id": "JmRZTU3tcfs",
-      "error_message": null,
-      "created_at": "2026-09-22T17:17:10.179739+00:00"
     }
   ],
-  "last_updated": "2026-09-29T01:35:59.983190+00:00"
+  "last_updated": "2026-09-29T02:08:57.147369+00:00"
 }
