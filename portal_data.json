@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 168,
+    "total_uploads": 169,
     "total_views": 136946,
     "total_likes": 616,
     "total_subscribers": 81,
@@ -27,90 +27,90 @@
     {
       "date": "2026-09-19",
       "ch1_views": 0,
-      "ch2_views": 10,
+      "ch2_views": 0,
       "ch3_views": 104442,
       "ch4_views": 67,
-      "total_views": 104519
+      "total_views": 104509
     },
     {
       "date": "2026-09-20",
       "ch1_views": 4,
-      "ch2_views": 36,
+      "ch2_views": 26,
       "ch3_views": 106893,
       "ch4_views": 230,
-      "total_views": 107163
+      "total_views": 107153
     },
     {
       "date": "2026-09-21",
       "ch1_views": 20,
-      "ch2_views": 81,
+      "ch2_views": 71,
       "ch3_views": 128028,
       "ch4_views": 0,
-      "total_views": 128129
+      "total_views": 128119
     },
     {
       "date": "2026-09-22",
       "ch1_views": 48,
-      "ch2_views": 163,
+      "ch2_views": 153,
       "ch3_views": 135373,
       "ch4_views": 0,
-      "total_views": 135584
+      "total_views": 135574
     },
     {
       "date": "2026-09-23",
       "ch1_views": 61,
-      "ch2_views": 185,
+      "ch2_views": 175,
       "ch3_views": 135451,
       "ch4_views": 0,
-      "total_views": 135697
+      "total_views": 135687
     },
     {
       "date": "2026-09-24",
       "ch1_views": 65,
-      "ch2_views": 190,
+      "ch2_views": 180,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 255
+      "total_views": 245
     },
     {
       "date": "2026-09-25",
       "ch1_views": 66,
-      "ch2_views": 194,
+      "ch2_views": 184,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 260
+      "total_views": 250
     },
     {
       "date": "2026-09-26",
       "ch1_views": 88,
-      "ch2_views": 219,
+      "ch2_views": 209,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 307
+      "total_views": 297
     },
     {
       "date": "2026-09-27",
       "ch1_views": 88,
-      "ch2_views": 223,
+      "ch2_views": 213,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 311
+      "total_views": 301
     },
     {
       "date": "2026-09-28",
       "ch1_views": 88,
-      "ch2_views": 235,
+      "ch2_views": 225,
       "ch3_views": 135460,
       "ch4_views": 487,
-      "total_views": 136270
+      "total_views": 136260
     },
     {
       "date": "2026-09-29",
       "ch1_views": 89,
-      "ch2_views": 237,
-      "ch3_views": 135475,
-      "ch4_views": 493,
-      "total_views": 136294
+      "ch2_views": 227,
+      "ch3_views": 135477,
+      "ch4_views": 496,
+      "total_views": 136289
     }
   ],
   "channels": {
@@ -897,73 +897,81 @@
       },
       "view_history": [
         {
-          "date": "2026-09-19",
-          "views": 10,
-          "uploads": 1,
-          "cumulative_views": 10
-        },
-        {
           "date": "2026-09-20",
           "views": 26,
           "uploads": 3,
-          "cumulative_views": 36
+          "cumulative_views": 26
         },
         {
           "date": "2026-09-21",
           "views": 45,
           "uploads": 3,
-          "cumulative_views": 81
+          "cumulative_views": 71
         },
         {
           "date": "2026-09-22",
           "views": 82,
           "uploads": 3,
-          "cumulative_views": 163
+          "cumulative_views": 153
         },
         {
           "date": "2026-09-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 185
+          "cumulative_views": 175
         },
         {
           "date": "2026-09-24",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 190
+          "cumulative_views": 180
         },
         {
           "date": "2026-09-25",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 194
+          "cumulative_views": 184
         },
         {
           "date": "2026-09-26",
           "views": 25,
           "uploads": 3,
-          "cumulative_views": 219
+          "cumulative_views": 209
         },
         {
           "date": "2026-09-27",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 223
+          "cumulative_views": 213
         },
         {
           "date": "2026-09-28",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 235
+          "cumulative_views": 225
         },
         {
           "date": "2026-09-29",
           "views": 2,
-          "uploads": 2,
-          "cumulative_views": 237
+          "uploads": 3,
+          "cumulative_views": 227
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7670618989113904398",
+          "youtube_id": "RCyKMx4yVxA",
+          "title": "creamy No-Bake Chocolate Biscuit dessert \u2728",
+          "tiktok_views": 42200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/RCyKMx4yVxA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-29T22:30:09Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1369,20 +1377,6 @@
           "thumbnail": "https://i.ytimg.com/vi/KuyknoGwTkw/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-20T01:13:41Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7661719986854989069",
-          "youtube_id": "BdViWCLU3D4",
-          "title": "No-Bake Chocolate Swirl Dessert Cups with a Crispy Cookie Base \ud83c\udf6b",
-          "tiktok_views": 454300,
-          "youtube_views": 10,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/BdViWCLU3D4/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-19T22:16:58Z"
         }
       ],
       "runs": [
@@ -1683,9 +1677,9 @@
         },
         {
           "date": "2026-09-29",
-          "views": 15,
+          "views": 17,
           "uploads": 3,
-          "cumulative_views": 135475
+          "cumulative_views": 135477
         }
       ],
       "videos": [
@@ -1701,7 +1695,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2uMyHRRRoek/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-29T22:29:31Z"
+          "uploaded_at": "2026-09-29T22:29:51Z"
         },
         {
           "channel_id": "channel_3",
@@ -1724,7 +1718,7 @@
           "youtube_id": "TJ_cOTW3394",
           "title": "Satisfying Acrylic Nail Art & Cuticle Prep ASMR \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 15,
+          "youtube_views": 17,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TJ_cOTW3394/hqdefault.jpg",
@@ -2230,7 +2224,7 @@
       "avatar_letter": "R",
       "category": "Remote Work & Side Hustles",
       "subscribers": 2,
-      "total_uploads": 6,
+      "total_uploads": 7,
       "total_views": 317,
       "total_likes": 7,
       "upcoming": {
@@ -2280,12 +2274,26 @@
         },
         {
           "date": "2026-09-29",
-          "views": 6,
-          "uploads": 2,
-          "cumulative_views": 493
+          "views": 9,
+          "uploads": 3,
+          "cumulative_views": 496
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_4",
+          "channel_name": "Remote Jobs WFH",
+          "tiktok_id": "1G_6yfUZfw_1qyfhxIu8cy4OipFcnT-0B",
+          "youtube_id": "3cKSn_TyYOE",
+          "title": "Remote Job Opportunity \u2014 Apply Today! \ud83d\udcbb\ud83c\udf0e",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/3cKSn_TyYOE/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-29T22:36:11Z"
+        },
         {
           "channel_id": "channel_4",
           "channel_name": "Remote Jobs WFH",
@@ -2293,7 +2301,7 @@
           "youtube_id": "gBHFnqmGmTo",
           "title": "Remote Job Opportunity \u2014 Apply Today! \ud83d\udcbb\u2728",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/gBHFnqmGmTo/hqdefault.jpg",
@@ -2372,6 +2380,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 38,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-09-29",
+          "status": "success",
+          "video_id": "3cKSn_TyYOE",
+          "error_message": null,
+          "created_at": "2026-09-29T22:36:12.606160+00:00"
+        },
         {
           "id": 37,
           "channel_id": "channel_4",
@@ -2561,21 +2579,39 @@
           "video_id": null,
           "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
           "created_at": "2026-09-23T17:32:41.503628+00:00"
-        },
-        {
-          "id": 18,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-09-23",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
-          "created_at": "2026-09-23T01:30:47.296911+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_4",
+      "channel_name": "Remote Jobs WFH",
+      "tiktok_id": "1G_6yfUZfw_1qyfhxIu8cy4OipFcnT-0B",
+      "youtube_id": "3cKSn_TyYOE",
+      "title": "Remote Job Opportunity \u2014 Apply Today! \ud83d\udcbb\ud83c\udf0e",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/3cKSn_TyYOE/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-29T22:36:11Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7670618989113904398",
+      "youtube_id": "RCyKMx4yVxA",
+      "title": "creamy No-Bake Chocolate Biscuit dessert \u2728",
+      "tiktok_views": 42200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/RCyKMx4yVxA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-29T22:30:09Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -2588,7 +2624,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2uMyHRRRoek/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-29T22:29:31Z"
+      "uploaded_at": "2026-09-29T22:29:51Z"
     },
     {
       "channel_id": "channel_4",
@@ -2597,7 +2633,7 @@
       "youtube_id": "gBHFnqmGmTo",
       "title": "Remote Job Opportunity \u2014 Apply Today! \ud83d\udcbb\u2728",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/gBHFnqmGmTo/hqdefault.jpg",
@@ -2681,7 +2717,7 @@
       "youtube_id": "TJ_cOTW3394",
       "title": "Satisfying Acrylic Nail Art & Cuticle Prep ASMR \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 15,
+      "youtube_views": 17,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TJ_cOTW3394/hqdefault.jpg",
@@ -3697,20 +3733,6 @@
       "uploaded_at": "2026-09-19T22:20:20Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7661719986854989069",
-      "youtube_id": "BdViWCLU3D4",
-      "title": "No-Bake Chocolate Swirl Dessert Cups with a Crispy Cookie Base \ud83c\udf6b",
-      "tiktok_views": 454300,
-      "youtube_views": 10,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/BdViWCLU3D4/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-19T22:16:58Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1jUYN0EsBbCtyWKSDMAobL2a24LtplDBD",
@@ -4561,7 +4583,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 168,
+    "total_uploads": 169,
     "total_views": 136946,
     "total_likes": 616,
     "videos_per_day": 12
@@ -4794,5 +4816,5 @@
       "created_at": "2026-09-23T02:09:35.922151+00:00"
     }
   ],
-  "last_updated": "2026-09-29T22:29:38.269274+00:00"
+  "last_updated": "2026-09-29T22:36:16.579906+00:00"
 }
