@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 169,
+    "total_uploads": 170,
     "total_views": 136946,
     "total_likes": 616,
     "total_subscribers": 81,
@@ -108,9 +108,9 @@
       "date": "2026-09-29",
       "ch1_views": 89,
       "ch2_views": 227,
-      "ch3_views": 135477,
-      "ch4_views": 496,
-      "total_views": 136289
+      "ch3_views": 135484,
+      "ch4_views": 497,
+      "total_views": 136297
     }
   ],
   "channels": {
@@ -129,7 +129,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 70,
+      "total_uploads": 71,
       "total_views": 577,
       "total_likes": 0,
       "upcoming": {
@@ -650,6 +650,16 @@
       ],
       "runs": [
         {
+          "id": 80,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-09-29",
+          "status": "success",
+          "video_id": "JYE1o-T-OD8",
+          "error_message": null,
+          "created_at": "2026-09-29T23:40:38.379419+00:00"
+        },
+        {
           "id": 79,
           "channel_id": "channel_1",
           "slot": 1,
@@ -838,16 +848,6 @@
           "video_id": "VNmAHihLHjI",
           "error_message": null,
           "created_at": "2026-09-23T17:18:12.383702+00:00"
-        },
-        {
-          "id": 60,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-09-23",
-          "status": "success",
-          "video_id": "3naKmF9MNKk",
-          "error_message": null,
-          "created_at": "2026-09-23T02:09:35.922151+00:00"
         }
       ]
     },
@@ -1677,9 +1677,9 @@
         },
         {
           "date": "2026-09-29",
-          "views": 17,
+          "views": 24,
           "uploads": 3,
-          "cumulative_views": 135477
+          "cumulative_views": 135484
         }
       ],
       "videos": [
@@ -1718,7 +1718,7 @@
           "youtube_id": "TJ_cOTW3394",
           "title": "Satisfying Acrylic Nail Art & Cuticle Prep ASMR \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 17,
+          "youtube_views": 24,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TJ_cOTW3394/hqdefault.jpg",
@@ -2274,9 +2274,9 @@
         },
         {
           "date": "2026-09-29",
-          "views": 9,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 496
+          "cumulative_views": 497
         }
       ],
       "videos": [
@@ -2287,12 +2287,12 @@
           "youtube_id": "3cKSn_TyYOE",
           "title": "Remote Job Opportunity \u2014 Apply Today! \ud83d\udcbb\ud83c\udf0e",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3cKSn_TyYOE/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-29T22:36:11Z"
+          "uploaded_at": "2026-09-29T22:36:28Z"
         },
         {
           "channel_id": "channel_4",
@@ -2591,12 +2591,12 @@
       "youtube_id": "3cKSn_TyYOE",
       "title": "Remote Job Opportunity \u2014 Apply Today! \ud83d\udcbb\ud83c\udf0e",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3cKSn_TyYOE/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-29T22:36:11Z"
+      "uploaded_at": "2026-09-29T22:36:28Z"
     },
     {
       "channel_id": "channel_2",
@@ -2717,7 +2717,7 @@
       "youtube_id": "TJ_cOTW3394",
       "title": "Satisfying Acrylic Nail Art & Cuticle Prep ASMR \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 17,
+      "youtube_views": 24,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TJ_cOTW3394/hqdefault.jpg",
@@ -3860,7 +3860,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 70,
+    "total_uploads": 71,
     "total_views": 577,
     "total_likes": 0,
     "upcoming": {
@@ -4381,6 +4381,16 @@
     ],
     "runs": [
       {
+        "id": 80,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-09-29",
+        "status": "success",
+        "video_id": "JYE1o-T-OD8",
+        "error_message": null,
+        "created_at": "2026-09-29T23:40:38.379419+00:00"
+      },
+      {
         "id": 79,
         "channel_id": "channel_1",
         "slot": 1,
@@ -4569,21 +4579,11 @@
         "video_id": "VNmAHihLHjI",
         "error_message": null,
         "created_at": "2026-09-23T17:18:12.383702+00:00"
-      },
-      {
-        "id": 60,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-09-23",
-        "status": "success",
-        "video_id": "3naKmF9MNKk",
-        "error_message": null,
-        "created_at": "2026-09-23T02:09:35.922151+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 169,
+    "total_uploads": 170,
     "total_views": 136946,
     "total_likes": 616,
     "videos_per_day": 12
@@ -4615,6 +4615,16 @@
     }
   },
   "runs": [
+    {
+      "id": 80,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-09-29",
+      "status": "success",
+      "video_id": "JYE1o-T-OD8",
+      "error_message": null,
+      "created_at": "2026-09-29T23:40:38.379419+00:00"
+    },
     {
       "id": 79,
       "channel_id": "channel_1",
@@ -4804,17 +4814,7 @@
       "video_id": "VNmAHihLHjI",
       "error_message": null,
       "created_at": "2026-09-23T17:18:12.383702+00:00"
-    },
-    {
-      "id": 60,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-09-23",
-      "status": "success",
-      "video_id": "3naKmF9MNKk",
-      "error_message": null,
-      "created_at": "2026-09-23T02:09:35.922151+00:00"
     }
   ],
-  "last_updated": "2026-09-29T22:36:16.579906+00:00"
+  "last_updated": "2026-09-29T23:40:42.988358+00:00"
 }
