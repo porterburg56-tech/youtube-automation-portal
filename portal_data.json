@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 165,
+    "total_uploads": 166,
     "total_views": 136946,
     "total_likes": 615,
     "total_subscribers": 81,
@@ -82,35 +82,35 @@
     },
     {
       "date": "2026-09-26",
-      "ch1_views": 76,
+      "ch1_views": 80,
       "ch2_views": 218,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 294
+      "total_views": 298
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 76,
+      "ch1_views": 80,
       "ch2_views": 223,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 299
+      "total_views": 303
     },
     {
       "date": "2026-09-28",
-      "ch1_views": 76,
+      "ch1_views": 80,
       "ch2_views": 233,
       "ch3_views": 135447,
-      "ch4_views": 449,
-      "total_views": 136205
+      "ch4_views": 451,
+      "total_views": 136211
     },
     {
       "date": "2026-09-29",
-      "ch1_views": 77,
+      "ch1_views": 81,
       "ch2_views": 234,
       "ch3_views": 135462,
-      "ch4_views": 452,
-      "total_views": 136225
+      "ch4_views": 454,
+      "total_views": 136231
     }
   ],
   "channels": {
@@ -203,27 +203,27 @@
         },
         {
           "date": "2026-09-26",
-          "views": 10,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 76
+          "cumulative_views": 80
         },
         {
           "date": "2026-09-27",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 76
+          "cumulative_views": 80
         },
         {
           "date": "2026-09-28",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 76
+          "cumulative_views": 80
         },
         {
           "date": "2026-09-29",
           "views": 1,
           "uploads": 2,
-          "cumulative_views": 77
+          "cumulative_views": 81
         }
       ],
       "videos": [
@@ -374,7 +374,7 @@
           "youtube_id": "j68v2rHjWyk",
           "title": "Daddy Said He\u2019s BROKE\u2026 My Toddler Thought Someone Broke Him! \ud83d\udc94",
           "tiktok_views": 36300,
-          "youtube_views": 8,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/j68v2rHjWyk/hqdefault.jpg",
@@ -1701,7 +1701,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/aglMDQoisv8/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-09-29T17:27:15Z"
+          "uploaded_at": "2026-09-29T17:27:32Z"
         },
         {
           "channel_id": "channel_3",
@@ -2216,7 +2216,7 @@
       "avatar_letter": "R",
       "category": "Remote Work & Side Hustles",
       "subscribers": 2,
-      "total_uploads": 5,
+      "total_uploads": 6,
       "total_views": 317,
       "total_likes": 6,
       "upcoming": {
@@ -2260,18 +2260,32 @@
         },
         {
           "date": "2026-09-28",
-          "views": 219,
+          "views": 221,
           "uploads": 2,
-          "cumulative_views": 449
+          "cumulative_views": 451
         },
         {
           "date": "2026-09-29",
           "views": 3,
-          "uploads": 1,
-          "cumulative_views": 452
+          "uploads": 2,
+          "cumulative_views": 454
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_4",
+          "channel_name": "Remote Jobs WFH",
+          "tiktok_id": "1mjirRqip2HtDVKisqIVfZSGjljn90Weo",
+          "youtube_id": "gBHFnqmGmTo",
+          "title": "Remote Job Opportunity \u2014 Apply Today! \ud83d\udcbb\u2728",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/gBHFnqmGmTo/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-29T17:44:50Z"
+        },
         {
           "channel_id": "channel_4",
           "channel_name": "Remote Jobs WFH",
@@ -2293,7 +2307,7 @@
           "youtube_id": "O93J_LSj0lE",
           "title": "Legit Work From Home Job Opening \ud83d\udcbc\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 73,
+          "youtube_views": 75,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/O93J_LSj0lE/hqdefault.jpg",
@@ -2344,6 +2358,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 37,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-09-29",
+          "status": "success",
+          "video_id": "gBHFnqmGmTo",
+          "error_message": null,
+          "created_at": "2026-09-29T17:44:52.560770+00:00"
+        },
         {
           "id": 36,
           "channel_id": "channel_4",
@@ -2533,21 +2557,25 @@
           "video_id": null,
           "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
           "created_at": "2026-09-23T01:30:47.296911+00:00"
-        },
-        {
-          "id": 17,
-          "channel_id": "channel_4",
-          "slot": 2,
-          "run_date": "2026-09-22",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
-          "created_at": "2026-09-22T22:26:14.160691+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_4",
+      "channel_name": "Remote Jobs WFH",
+      "tiktok_id": "1mjirRqip2HtDVKisqIVfZSGjljn90Weo",
+      "youtube_id": "gBHFnqmGmTo",
+      "title": "Remote Job Opportunity \u2014 Apply Today! \ud83d\udcbb\u2728",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/gBHFnqmGmTo/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-29T17:44:50Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -2560,7 +2588,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/aglMDQoisv8/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-09-29T17:27:15Z"
+      "uploaded_at": "2026-09-29T17:27:32Z"
     },
     {
       "channel_id": "channel_1",
@@ -2667,7 +2695,7 @@
       "youtube_id": "O93J_LSj0lE",
       "title": "Legit Work From Home Job Opening \ud83d\udcbc\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 73,
+      "youtube_views": 75,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/O93J_LSj0lE/hqdefault.jpg",
@@ -2933,7 +2961,7 @@
       "youtube_id": "j68v2rHjWyk",
       "title": "Daddy Said He\u2019s BROKE\u2026 My Toddler Thought Someone Broke Him! \ud83d\udc94",
       "tiktok_views": 36300,
-      "youtube_views": 8,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/j68v2rHjWyk/hqdefault.jpg",
@@ -3856,27 +3884,27 @@
       },
       {
         "date": "2026-09-26",
-        "views": 10,
+        "views": 14,
         "uploads": 3,
-        "cumulative_views": 76
+        "cumulative_views": 80
       },
       {
         "date": "2026-09-27",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 76
+        "cumulative_views": 80
       },
       {
         "date": "2026-09-28",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 76
+        "cumulative_views": 80
       },
       {
         "date": "2026-09-29",
         "views": 1,
         "uploads": 2,
-        "cumulative_views": 77
+        "cumulative_views": 81
       }
     ],
     "videos": [
@@ -4027,7 +4055,7 @@
         "youtube_id": "j68v2rHjWyk",
         "title": "Daddy Said He\u2019s BROKE\u2026 My Toddler Thought Someone Broke Him! \ud83d\udc94",
         "tiktok_views": 36300,
-        "youtube_views": 8,
+        "youtube_views": 12,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/j68v2rHjWyk/hqdefault.jpg",
@@ -4505,7 +4533,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 165,
+    "total_uploads": 166,
     "total_views": 136946,
     "total_likes": 615,
     "videos_per_day": 12
@@ -4738,5 +4766,5 @@
       "created_at": "2026-09-23T02:09:35.922151+00:00"
     }
   ],
-  "last_updated": "2026-09-29T17:27:22.657456+00:00"
+  "last_updated": "2026-09-29T17:44:57.624608+00:00"
 }
