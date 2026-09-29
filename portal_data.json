@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 163,
+    "total_uploads": 164,
     "total_views": 136946,
     "total_likes": 615,
     "total_subscribers": 81,
@@ -27,90 +27,90 @@
     {
       "date": "2026-09-19",
       "ch1_views": 3,
-      "ch2_views": 30,
+      "ch2_views": 10,
       "ch3_views": 104433,
       "ch4_views": 67,
-      "total_views": 104533
+      "total_views": 104513
     },
     {
       "date": "2026-09-20",
       "ch1_views": 7,
-      "ch2_views": 56,
+      "ch2_views": 36,
       "ch3_views": 106884,
       "ch4_views": 230,
-      "total_views": 107177
+      "total_views": 107157
     },
     {
       "date": "2026-09-21",
       "ch1_views": 23,
-      "ch2_views": 101,
+      "ch2_views": 81,
       "ch3_views": 128019,
       "ch4_views": 0,
-      "total_views": 128143
+      "total_views": 128123
     },
     {
       "date": "2026-09-22",
       "ch1_views": 51,
-      "ch2_views": 183,
+      "ch2_views": 163,
       "ch3_views": 135361,
       "ch4_views": 0,
-      "total_views": 135595
+      "total_views": 135575
     },
     {
       "date": "2026-09-23",
       "ch1_views": 64,
-      "ch2_views": 205,
+      "ch2_views": 185,
       "ch3_views": 135438,
       "ch4_views": 0,
-      "total_views": 135707
+      "total_views": 135687
     },
     {
       "date": "2026-09-24",
       "ch1_views": 68,
-      "ch2_views": 209,
+      "ch2_views": 189,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 277
+      "total_views": 257
     },
     {
       "date": "2026-09-25",
       "ch1_views": 69,
-      "ch2_views": 213,
+      "ch2_views": 193,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 282
+      "total_views": 262
     },
     {
       "date": "2026-09-26",
-      "ch1_views": 79,
-      "ch2_views": 238,
+      "ch1_views": 83,
+      "ch2_views": 218,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 317
+      "total_views": 301
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 79,
-      "ch2_views": 243,
+      "ch1_views": 83,
+      "ch2_views": 223,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 322
+      "total_views": 306
     },
     {
       "date": "2026-09-28",
-      "ch1_views": 79,
-      "ch2_views": 253,
+      "ch1_views": 83,
+      "ch2_views": 234,
       "ch3_views": 135447,
-      "ch4_views": 449,
-      "total_views": 136228
+      "ch4_views": 448,
+      "total_views": 136212
     },
     {
       "date": "2026-09-29",
-      "ch1_views": 80,
-      "ch2_views": 254,
+      "ch1_views": 84,
+      "ch2_views": 235,
       "ch3_views": 135462,
-      "ch4_views": 452,
-      "total_views": 136248
+      "ch4_views": 451,
+      "total_views": 136232
     }
   ],
   "channels": {
@@ -129,7 +129,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 69,
+      "total_uploads": 70,
       "total_views": 577,
       "total_likes": 0,
       "upcoming": {
@@ -203,27 +203,27 @@
         },
         {
           "date": "2026-09-26",
-          "views": 10,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 79
+          "cumulative_views": 83
         },
         {
           "date": "2026-09-27",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 79
+          "cumulative_views": 83
         },
         {
           "date": "2026-09-28",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 79
+          "cumulative_views": 83
         },
         {
           "date": "2026-09-29",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 80
+          "cumulative_views": 84
         }
       ],
       "videos": [
@@ -360,7 +360,7 @@
           "youtube_id": "j68v2rHjWyk",
           "title": "Daddy Said He\u2019s BROKE\u2026 My Toddler Thought Someone Broke Him! \ud83d\udc94",
           "tiktok_views": 36300,
-          "youtube_views": 8,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/j68v2rHjWyk/hqdefault.jpg",
@@ -650,6 +650,16 @@
       ],
       "runs": [
         {
+          "id": 79,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-09-29",
+          "status": "success",
+          "video_id": "bDoYFeuPQfQ",
+          "error_message": null,
+          "created_at": "2026-09-29T17:16:52.204172+00:00"
+        },
+        {
           "id": 78,
           "channel_id": "channel_1",
           "slot": 3,
@@ -838,16 +848,6 @@
           "video_id": "3naKmF9MNKk",
           "error_message": null,
           "created_at": "2026-09-23T02:09:35.922151+00:00"
-        },
-        {
-          "id": 59,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-09-22",
-          "status": "success",
-          "video_id": "7ypv3M7aNY0",
-          "error_message": null,
-          "created_at": "2026-09-22T23:40:17.778753+00:00"
         }
       ]
     },
@@ -898,72 +898,86 @@
       "view_history": [
         {
           "date": "2026-09-19",
-          "views": 30,
-          "uploads": 2,
-          "cumulative_views": 30
+          "views": 10,
+          "uploads": 1,
+          "cumulative_views": 10
         },
         {
           "date": "2026-09-20",
           "views": 26,
           "uploads": 3,
-          "cumulative_views": 56
+          "cumulative_views": 36
         },
         {
           "date": "2026-09-21",
           "views": 45,
           "uploads": 3,
-          "cumulative_views": 101
+          "cumulative_views": 81
         },
         {
           "date": "2026-09-22",
           "views": 82,
           "uploads": 3,
-          "cumulative_views": 183
+          "cumulative_views": 163
         },
         {
           "date": "2026-09-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 205
+          "cumulative_views": 185
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 209
+          "cumulative_views": 189
         },
         {
           "date": "2026-09-25",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 213
+          "cumulative_views": 193
         },
         {
           "date": "2026-09-26",
           "views": 25,
           "uploads": 3,
-          "cumulative_views": 238
+          "cumulative_views": 218
         },
         {
           "date": "2026-09-27",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 243
+          "cumulative_views": 223
         },
         {
           "date": "2026-09-28",
-          "views": 10,
+          "views": 11,
           "uploads": 3,
-          "cumulative_views": 253
+          "cumulative_views": 234
         },
         {
           "date": "2026-09-29",
           "views": 1,
-          "uploads": 1,
-          "cumulative_views": 254
+          "uploads": 2,
+          "cumulative_views": 235
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7690660984876190989",
+          "youtube_id": "K12i9Nrqekg",
+          "title": "Cheesy Bacon Frankfurter Puff Pastry \u2728",
+          "tiktok_views": 36300,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/K12i9Nrqekg/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-29T16:26:12Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1013,7 +1027,7 @@
           "youtube_id": "PRdIrEcgLfI",
           "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
           "tiktok_views": 45500,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
@@ -1369,20 +1383,6 @@
           "thumbnail": "https://i.ytimg.com/vi/BdViWCLU3D4/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-19T22:16:58Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7686940377277877518",
-          "youtube_id": "mOAAawjGD20",
-          "title": "Cheesy Ground Beef & Potato Bake \u2728",
-          "tiktok_views": 52800,
-          "youtube_views": 20,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/mOAAawjGD20/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-19T16:12:08Z"
         }
       ],
       "runs": [
@@ -2246,15 +2246,15 @@
         },
         {
           "date": "2026-09-28",
-          "views": 219,
+          "views": 218,
           "uploads": 2,
-          "cumulative_views": 449
+          "cumulative_views": 448
         },
         {
           "date": "2026-09-29",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 452
+          "cumulative_views": 451
         }
       ],
       "videos": [
@@ -2293,7 +2293,7 @@
           "youtube_id": "cjXXxP7sjX4",
           "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 146,
+          "youtube_views": 145,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
@@ -2535,6 +2535,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7690660984876190989",
+      "youtube_id": "K12i9Nrqekg",
+      "title": "Cheesy Bacon Frankfurter Puff Pastry \u2728",
+      "tiktok_views": 36300,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/K12i9Nrqekg/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-29T16:26:12Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7678311710263889166",
@@ -2681,7 +2695,7 @@
       "youtube_id": "cjXXxP7sjX4",
       "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 146,
+      "youtube_views": 145,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
@@ -2723,7 +2737,7 @@
       "youtube_id": "PRdIrEcgLfI",
       "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
       "tiktok_views": 45500,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
@@ -2877,7 +2891,7 @@
       "youtube_id": "j68v2rHjWyk",
       "title": "Daddy Said He\u2019s BROKE\u2026 My Toddler Thought Someone Broke Him! \ud83d\udc94",
       "tiktok_views": 36300,
-      "youtube_views": 8,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/j68v2rHjWyk/hqdefault.jpg",
@@ -3627,20 +3641,6 @@
       "uploaded_at": "2026-09-19T17:15:37Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7686940377277877518",
-      "youtube_id": "mOAAawjGD20",
-      "title": "Cheesy Ground Beef & Potato Bake \u2728",
-      "tiktok_views": 52800,
-      "youtube_views": 20,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/mOAAawjGD20/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-19T16:12:08Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "oK9BYnEj4Ew",
@@ -3754,7 +3754,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 69,
+    "total_uploads": 70,
     "total_views": 577,
     "total_likes": 0,
     "upcoming": {
@@ -3828,27 +3828,27 @@
       },
       {
         "date": "2026-09-26",
-        "views": 10,
+        "views": 14,
         "uploads": 3,
-        "cumulative_views": 79
+        "cumulative_views": 83
       },
       {
         "date": "2026-09-27",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 79
+        "cumulative_views": 83
       },
       {
         "date": "2026-09-28",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 79
+        "cumulative_views": 83
       },
       {
         "date": "2026-09-29",
         "views": 1,
         "uploads": 1,
-        "cumulative_views": 80
+        "cumulative_views": 84
       }
     ],
     "videos": [
@@ -3985,7 +3985,7 @@
         "youtube_id": "j68v2rHjWyk",
         "title": "Daddy Said He\u2019s BROKE\u2026 My Toddler Thought Someone Broke Him! \ud83d\udc94",
         "tiktok_views": 36300,
-        "youtube_views": 8,
+        "youtube_views": 12,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/j68v2rHjWyk/hqdefault.jpg",
@@ -4275,6 +4275,16 @@
     ],
     "runs": [
       {
+        "id": 79,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-09-29",
+        "status": "success",
+        "video_id": "bDoYFeuPQfQ",
+        "error_message": null,
+        "created_at": "2026-09-29T17:16:52.204172+00:00"
+      },
+      {
         "id": 78,
         "channel_id": "channel_1",
         "slot": 3,
@@ -4463,21 +4473,11 @@
         "video_id": "3naKmF9MNKk",
         "error_message": null,
         "created_at": "2026-09-23T02:09:35.922151+00:00"
-      },
-      {
-        "id": 59,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-09-22",
-        "status": "success",
-        "video_id": "7ypv3M7aNY0",
-        "error_message": null,
-        "created_at": "2026-09-22T23:40:17.778753+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 163,
+    "total_uploads": 164,
     "total_views": 136946,
     "total_likes": 615,
     "videos_per_day": 12
@@ -4509,6 +4509,16 @@
     }
   },
   "runs": [
+    {
+      "id": 79,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-09-29",
+      "status": "success",
+      "video_id": "bDoYFeuPQfQ",
+      "error_message": null,
+      "created_at": "2026-09-29T17:16:52.204172+00:00"
+    },
     {
       "id": 78,
       "channel_id": "channel_1",
@@ -4698,17 +4708,7 @@
       "video_id": "3naKmF9MNKk",
       "error_message": null,
       "created_at": "2026-09-23T02:09:35.922151+00:00"
-    },
-    {
-      "id": 59,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-09-22",
-      "status": "success",
-      "video_id": "7ypv3M7aNY0",
-      "error_message": null,
-      "created_at": "2026-09-22T23:40:17.778753+00:00"
     }
   ],
-  "last_updated": "2026-09-29T16:25:31.164967+00:00"
+  "last_updated": "2026-09-29T17:16:57.477155+00:00"
 }
