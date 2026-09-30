@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 179,
-    "total_views": 137242,
+    "total_uploads": 180,
+    "total_views": 137305,
     "total_likes": 619,
     "total_subscribers": 81,
     "channels_count": 4,
@@ -99,26 +99,26 @@
     {
       "date": "2026-09-28",
       "ch1_views": 90,
-      "ch2_views": 234,
+      "ch2_views": 233,
       "ch3_views": 135482,
       "ch4_views": 531,
-      "total_views": 136337
+      "total_views": 136336
     },
     {
       "date": "2026-09-29",
       "ch1_views": 93,
-      "ch2_views": 245,
+      "ch2_views": 244,
       "ch3_views": 135524,
       "ch4_views": 592,
-      "total_views": 136454
+      "total_views": 136453
     },
     {
       "date": "2026-09-30",
       "ch1_views": 93,
-      "ch2_views": 252,
+      "ch2_views": 251,
       "ch3_views": 135530,
       "ch4_views": 620,
-      "total_views": 136495
+      "total_views": 136494
     }
   ],
   "channels": {
@@ -875,7 +875,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 3,
       "total_uploads": 72,
-      "total_views": 681,
+      "total_views": 691,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -954,21 +954,21 @@
         },
         {
           "date": "2026-09-28",
-          "views": 22,
+          "views": 21,
           "uploads": 3,
-          "cumulative_views": 234
+          "cumulative_views": 233
         },
         {
           "date": "2026-09-29",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 245
+          "cumulative_views": 244
         },
         {
           "date": "2026-09-30",
           "views": 7,
           "uploads": 2,
-          "cumulative_views": 252
+          "cumulative_views": 251
         }
       ],
       "videos": [
@@ -1077,7 +1077,7 @@
           "youtube_id": "PRdIrEcgLfI",
           "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
           "tiktok_views": 45500,
-          "youtube_views": 8,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
@@ -1611,7 +1611,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 25,
+      "total_uploads": 26,
       "total_views": 135496,
       "total_likes": 608,
       "upcoming": {
@@ -1698,11 +1698,25 @@
         {
           "date": "2026-09-30",
           "views": 6,
-          "uploads": 2,
+          "uploads": 3,
           "cumulative_views": 135530
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "17tZZyypLdO0nkQFlqJ83ICka7tXO88ZD",
+          "youtube_id": "8ai3JlxfoLk",
+          "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/8ai3JlxfoLk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-30T22:30:59Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2056,6 +2070,16 @@
       ],
       "runs": [
         {
+          "id": 49,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-09-30",
+          "status": "success",
+          "video_id": "8ai3JlxfoLk",
+          "error_message": null,
+          "created_at": "2026-09-30T22:31:03.526934+00:00"
+        },
+        {
           "id": 48,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2244,16 +2268,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-24T17:20:32.121089+00:00"
-        },
-        {
-          "id": 29,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-09-24",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-24T01:23:58.637475+00:00"
         }
       ]
     },
@@ -2273,7 +2287,7 @@
       "category": "Remote Work & Side Hustles",
       "subscribers": 2,
       "total_uploads": 9,
-      "total_views": 488,
+      "total_views": 541,
       "total_likes": 10,
       "upcoming": {
         "slot1": {
@@ -2666,6 +2680,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "17tZZyypLdO0nkQFlqJ83ICka7tXO88ZD",
+      "youtube_id": "8ai3JlxfoLk",
+      "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/8ai3JlxfoLk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-30T22:30:59Z"
+    },
     {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
@@ -3079,7 +3107,7 @@
       "youtube_id": "PRdIrEcgLfI",
       "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
       "tiktok_views": 45500,
-      "youtube_views": 8,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
@@ -4721,8 +4749,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 179,
-    "total_views": 137242,
+    "total_uploads": 180,
+    "total_views": 137305,
     "total_likes": 619,
     "videos_per_day": 12
   },
@@ -4954,5 +4982,5 @@
       "created_at": "2026-09-24T02:09:08.219031+00:00"
     }
   ],
-  "last_updated": "2026-09-30T22:30:45.741201+00:00"
+  "last_updated": "2026-09-30T22:31:08.616970+00:00"
 }
