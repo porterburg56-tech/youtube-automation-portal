@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 172,
+    "total_uploads": 173,
     "total_views": 136946,
     "total_likes": 616,
     "total_subscribers": 81,
@@ -28,97 +28,97 @@
       "date": "2026-09-19",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 104446,
+      "ch3_views": 104445,
       "ch4_views": 67,
-      "total_views": 104513
+      "total_views": 104512
     },
     {
       "date": "2026-09-20",
       "ch1_views": 4,
-      "ch2_views": 26,
-      "ch3_views": 106897,
+      "ch2_views": 23,
+      "ch3_views": 106896,
       "ch4_views": 230,
-      "total_views": 107157
+      "total_views": 107153
     },
     {
       "date": "2026-09-21",
       "ch1_views": 20,
-      "ch2_views": 71,
-      "ch3_views": 128033,
+      "ch2_views": 68,
+      "ch3_views": 128031,
       "ch4_views": 0,
-      "total_views": 128124
+      "total_views": 128119
     },
     {
       "date": "2026-09-22",
       "ch1_views": 48,
-      "ch2_views": 153,
-      "ch3_views": 135378,
+      "ch2_views": 150,
+      "ch3_views": 135376,
       "ch4_views": 0,
-      "total_views": 135579
+      "total_views": 135574
     },
     {
       "date": "2026-09-23",
       "ch1_views": 61,
-      "ch2_views": 175,
-      "ch3_views": 135457,
+      "ch2_views": 172,
+      "ch3_views": 135455,
       "ch4_views": 0,
-      "total_views": 135693
+      "total_views": 135688
     },
     {
       "date": "2026-09-24",
       "ch1_views": 65,
-      "ch2_views": 180,
+      "ch2_views": 177,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 245
+      "total_views": 242
     },
     {
       "date": "2026-09-25",
       "ch1_views": 66,
-      "ch2_views": 184,
+      "ch2_views": 181,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 250
+      "total_views": 247
     },
     {
       "date": "2026-09-26",
       "ch1_views": 88,
-      "ch2_views": 209,
+      "ch2_views": 206,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 297
+      "total_views": 294
     },
     {
       "date": "2026-09-27",
       "ch1_views": 88,
-      "ch2_views": 213,
+      "ch2_views": 210,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 301
+      "total_views": 298
     },
     {
       "date": "2026-09-28",
       "ch1_views": 88,
-      "ch2_views": 226,
-      "ch3_views": 135466,
+      "ch2_views": 223,
+      "ch3_views": 135464,
       "ch4_views": 499,
-      "total_views": 136279
+      "total_views": 136274
     },
     {
       "date": "2026-09-29",
       "ch1_views": 89,
-      "ch2_views": 231,
-      "ch3_views": 135490,
+      "ch2_views": 225,
+      "ch3_views": 135488,
       "ch4_views": 509,
-      "total_views": 136319
+      "total_views": 136311
     },
     {
       "date": "2026-09-30",
       "ch1_views": 0,
-      "ch2_views": 0,
-      "ch3_views": 135490,
-      "ch4_views": 0,
-      "total_views": 135490
+      "ch2_views": 225,
+      "ch3_views": 135488,
+      "ch4_views": 509,
+      "total_views": 136222
     }
   ],
   "channels": {
@@ -900,66 +900,86 @@
       "view_history": [
         {
           "date": "2026-09-20",
-          "views": 26,
-          "uploads": 3,
-          "cumulative_views": 26
+          "views": 23,
+          "uploads": 2,
+          "cumulative_views": 23
         },
         {
           "date": "2026-09-21",
           "views": 45,
           "uploads": 3,
-          "cumulative_views": 71
+          "cumulative_views": 68
         },
         {
           "date": "2026-09-22",
           "views": 82,
           "uploads": 3,
-          "cumulative_views": 153
+          "cumulative_views": 150
         },
         {
           "date": "2026-09-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 175
+          "cumulative_views": 172
         },
         {
           "date": "2026-09-24",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 180
+          "cumulative_views": 177
         },
         {
           "date": "2026-09-25",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 184
+          "cumulative_views": 181
         },
         {
           "date": "2026-09-26",
           "views": 25,
           "uploads": 3,
-          "cumulative_views": 209
+          "cumulative_views": 206
         },
         {
           "date": "2026-09-27",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 213
+          "cumulative_views": 210
         },
         {
           "date": "2026-09-28",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 226
+          "cumulative_views": 223
         },
         {
           "date": "2026-09-29",
-          "views": 5,
+          "views": 2,
           "uploads": 3,
-          "cumulative_views": 231
+          "cumulative_views": 225
+        },
+        {
+          "date": "2026-09-30",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 225
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7654249707484531982",
+          "youtube_id": "uLU-AnYUUgo",
+          "title": "Secret to Perfectly Juicy Chicken Meatballs \u2728",
+          "tiktok_views": 40900,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/uLU-AnYUUgo/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-30T01:32:41Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -981,7 +1001,7 @@
           "youtube_id": "K12i9Nrqekg",
           "title": "Cheesy Bacon Frankfurter Puff Pastry \u2728",
           "tiktok_views": 36300,
-          "youtube_views": 4,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/K12i9Nrqekg/hqdefault.jpg",
@@ -1365,20 +1385,6 @@
           "thumbnail": "https://i.ytimg.com/vi/molHcGJvxJM/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-20T16:10:39Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7653618897936993550",
-          "youtube_id": "KuyknoGwTkw",
-          "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
-          "tiktok_views": 335600,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/KuyknoGwTkw/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-20T01:13:41Z"
         }
       ],
       "runs": [
@@ -1643,51 +1649,51 @@
         },
         {
           "date": "2026-09-19",
-          "views": 72226,
+          "views": 72225,
           "uploads": 3,
-          "cumulative_views": 104446
+          "cumulative_views": 104445
         },
         {
           "date": "2026-09-20",
           "views": 2451,
           "uploads": 3,
-          "cumulative_views": 106897
+          "cumulative_views": 106896
         },
         {
           "date": "2026-09-21",
-          "views": 21136,
+          "views": 21135,
           "uploads": 3,
-          "cumulative_views": 128033
+          "cumulative_views": 128031
         },
         {
           "date": "2026-09-22",
           "views": 7345,
           "uploads": 3,
-          "cumulative_views": 135378
+          "cumulative_views": 135376
         },
         {
           "date": "2026-09-23",
           "views": 79,
           "uploads": 1,
-          "cumulative_views": 135457
+          "cumulative_views": 135455
         },
         {
           "date": "2026-09-28",
           "views": 9,
           "uploads": 2,
-          "cumulative_views": 135466
+          "cumulative_views": 135464
         },
         {
           "date": "2026-09-29",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 135490
+          "cumulative_views": 135488
         },
         {
           "date": "2026-09-30",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 135490
+          "cumulative_views": 135488
         }
       ],
       "videos": [
@@ -1852,7 +1858,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18430,
+          "youtube_views": 18429,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1950,7 +1956,7 @@
           "youtube_id": "3M0IC4AWJa4",
           "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 19415,
+          "youtube_views": 19414,
           "youtube_likes": 93,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -2246,7 +2252,7 @@
       "avatar_letter": "R",
       "category": "Remote Work & Side Hustles",
       "subscribers": 2,
-      "total_uploads": 7,
+      "total_uploads": 8,
       "total_views": 317,
       "total_likes": 7,
       "upcoming": {
@@ -2299,9 +2305,29 @@
           "views": 10,
           "uploads": 3,
           "cumulative_views": 509
+        },
+        {
+          "date": "2026-09-30",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 509
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_4",
+          "channel_name": "Remote Jobs WFH",
+          "tiktok_id": "1QHLJzOkrvVBCVZ10VTtamOxiV3QogSGK",
+          "youtube_id": "zgfWIyP6_mQ",
+          "title": "Now Hiring! Person laughing at laptop screen \u2014 Work From Anywhere \ud83c\udf0d\ud83d\udcbb",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/zgfWIyP6_mQ/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-30T01:36:59Z"
+        },
         {
           "channel_id": "channel_4",
           "channel_name": "Remote Jobs WFH",
@@ -2402,6 +2428,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 39,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-09-30",
+          "status": "success",
+          "video_id": "zgfWIyP6_mQ",
+          "error_message": null,
+          "created_at": "2026-09-30T01:37:00.566841+00:00"
+        },
         {
           "id": 38,
           "channel_id": "channel_4",
@@ -2591,21 +2627,39 @@
           "video_id": null,
           "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
           "created_at": "2026-09-23T22:26:18.550735+00:00"
-        },
-        {
-          "id": 19,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-09-23",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
-          "created_at": "2026-09-23T17:32:41.503628+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_4",
+      "channel_name": "Remote Jobs WFH",
+      "tiktok_id": "1QHLJzOkrvVBCVZ10VTtamOxiV3QogSGK",
+      "youtube_id": "zgfWIyP6_mQ",
+      "title": "Now Hiring! Person laughing at laptop screen \u2014 Work From Anywhere \ud83c\udf0d\ud83d\udcbb",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/zgfWIyP6_mQ/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-30T01:36:59Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7654249707484531982",
+      "youtube_id": "uLU-AnYUUgo",
+      "title": "Secret to Perfectly Juicy Chicken Meatballs \u2728",
+      "tiktok_views": 40900,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/uLU-AnYUUgo/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-30T01:32:41Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -2725,7 +2779,7 @@
       "youtube_id": "K12i9Nrqekg",
       "title": "Cheesy Bacon Frankfurter Puff Pastry \u2728",
       "tiktok_views": 36300,
-      "youtube_views": 4,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/K12i9Nrqekg/hqdefault.jpg",
@@ -3537,7 +3591,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18430,
+      "youtube_views": 18429,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -3741,20 +3795,6 @@
       "uploaded_at": "2026-09-20T01:24:10Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7653618897936993550",
-      "youtube_id": "KuyknoGwTkw",
-      "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
-      "tiktok_views": 335600,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/KuyknoGwTkw/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-20T01:13:41Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1TriSFGecls0yeR8ZUgbimSMZZMYA73xd",
@@ -3803,7 +3843,7 @@
       "youtube_id": "3M0IC4AWJa4",
       "title": "The Most Relaxing Nail Extension Process ASMR \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 19415,
+      "youtube_views": 19414,
       "youtube_likes": 93,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
@@ -4613,7 +4653,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 172,
+    "total_uploads": 173,
     "total_views": 136946,
     "total_likes": 616,
     "videos_per_day": 12
@@ -4846,5 +4886,5 @@
       "created_at": "2026-09-23T17:18:12.383702+00:00"
     }
   ],
-  "last_updated": "2026-09-30T01:31:57.735179+00:00"
+  "last_updated": "2026-09-30T01:37:04.920721+00:00"
 }
