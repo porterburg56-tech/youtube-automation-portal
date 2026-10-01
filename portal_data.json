@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 185,
+    "total_uploads": 186,
     "total_views": 137326,
-    "total_likes": 619,
+    "total_likes": 618,
     "total_subscribers": 81,
     "channels_count": 4,
     "videos_per_day": 12
@@ -99,34 +99,34 @@
     {
       "date": "2026-09-28",
       "ch1_views": 90,
-      "ch2_views": 209,
+      "ch2_views": 207,
       "ch3_views": 135493,
       "ch4_views": 533,
-      "total_views": 136325
+      "total_views": 136323
     },
     {
       "date": "2026-09-29",
       "ch1_views": 93,
-      "ch2_views": 222,
+      "ch2_views": 220,
       "ch3_views": 135536,
-      "ch4_views": 601,
+      "ch4_views": 603,
       "total_views": 136452
     },
     {
       "date": "2026-09-30",
       "ch1_views": 93,
-      "ch2_views": 233,
-      "ch3_views": 135549,
-      "ch4_views": 665,
-      "total_views": 136540
+      "ch2_views": 231,
+      "ch3_views": 135548,
+      "ch4_views": 661,
+      "total_views": 136533
     },
     {
       "date": "2026-10-01",
       "ch1_views": 0,
-      "ch2_views": 233,
-      "ch3_views": 135549,
-      "ch4_views": 665,
-      "total_views": 136447
+      "ch2_views": 231,
+      "ch3_views": 135548,
+      "ch4_views": 662,
+      "total_views": 136441
     }
   ],
   "channels": {
@@ -145,7 +145,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 74,
+      "total_uploads": 75,
       "total_views": 598,
       "total_likes": 0,
       "upcoming": {
@@ -660,6 +660,16 @@
       ],
       "runs": [
         {
+          "id": 84,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-10-01",
+          "status": "success",
+          "video_id": "qKTgOZbR2oM",
+          "error_message": null,
+          "created_at": "2026-10-01T02:10:21.068351+00:00"
+        },
+        {
           "id": 83,
           "channel_id": "channel_1",
           "slot": 2,
@@ -848,16 +858,6 @@
           "video_id": "9VYmzsjrWqM",
           "error_message": null,
           "created_at": "2026-09-24T23:40:29.171664+00:00"
-        },
-        {
-          "id": 64,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-24",
-          "status": "success",
-          "video_id": "C3TJPw1892s",
-          "error_message": null,
-          "created_at": "2026-09-24T17:16:41.045034+00:00"
         }
       ]
     },
@@ -950,27 +950,27 @@
         },
         {
           "date": "2026-09-28",
-          "views": 26,
+          "views": 24,
           "uploads": 3,
-          "cumulative_views": 209
+          "cumulative_views": 207
         },
         {
           "date": "2026-09-29",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 222
+          "cumulative_views": 220
         },
         {
           "date": "2026-09-30",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 233
+          "cumulative_views": 231
         },
         {
           "date": "2026-10-01",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 233
+          "cumulative_views": 231
         }
       ],
       "videos": [
@@ -1107,7 +1107,7 @@
           "youtube_id": "PRdIrEcgLfI",
           "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
           "tiktok_views": 45500,
-          "youtube_views": 10,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
@@ -1699,15 +1699,15 @@
         },
         {
           "date": "2026-09-30",
-          "views": 13,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 135549
+          "cumulative_views": 135548
         },
         {
           "date": "2026-10-01",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 135549
+          "cumulative_views": 135548
         }
       ],
       "videos": [
@@ -1746,7 +1746,7 @@
           "youtube_id": "75BbqA0vIb4",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 11,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/75BbqA0vIb4/hqdefault.jpg",
@@ -2310,7 +2310,7 @@
       "subscribers": 2,
       "total_uploads": 11,
       "total_views": 541,
-      "total_likes": 11,
+      "total_likes": 10,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -2358,21 +2358,21 @@
         },
         {
           "date": "2026-09-29",
-          "views": 68,
+          "views": 70,
           "uploads": 3,
-          "cumulative_views": 601
+          "cumulative_views": 603
         },
         {
           "date": "2026-09-30",
-          "views": 64,
+          "views": 58,
           "uploads": 3,
-          "cumulative_views": 665
+          "cumulative_views": 661
         },
         {
           "date": "2026-10-01",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 665
+          "cumulative_views": 662
         }
       ],
       "videos": [
@@ -2383,12 +2383,12 @@
           "youtube_id": "7DuHVs9JVXk",
           "title": "Top Remote Job You Can Do From Home \ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7DuHVs9JVXk/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-10-01T01:37:44Z"
+          "uploaded_at": "2026-10-01T01:38:00Z"
         },
         {
           "channel_id": "channel_4",
@@ -2397,7 +2397,7 @@
           "youtube_id": "tP-NVtbr-ro",
           "title": "Legit Work From Home Job Opening \ud83c\udfe0\ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tP-NVtbr-ro/hqdefault.jpg",
@@ -2411,8 +2411,8 @@
           "youtube_id": "nyF_x7_XbtE",
           "title": "Legit Work From Home Job Opening \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 29,
-          "youtube_likes": 1,
+          "youtube_views": 28,
+          "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nyF_x7_XbtE/hqdefault.jpg",
           "status": "uploaded",
@@ -2439,7 +2439,7 @@
           "youtube_id": "3cKSn_TyYOE",
           "title": "Remote Job Opportunity \u2014 Apply Today! \ud83d\udcbb\ud83c\udf0e",
           "tiktok_views": 0,
-          "youtube_views": 34,
+          "youtube_views": 36,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3cKSn_TyYOE/hqdefault.jpg",
@@ -2743,12 +2743,12 @@
       "youtube_id": "7DuHVs9JVXk",
       "title": "Top Remote Job You Can Do From Home \ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7DuHVs9JVXk/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-10-01T01:37:44Z"
+      "uploaded_at": "2026-10-01T01:38:00Z"
     },
     {
       "channel_id": "channel_3",
@@ -2799,7 +2799,7 @@
       "youtube_id": "tP-NVtbr-ro",
       "title": "Legit Work From Home Job Opening \ud83c\udfe0\ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tP-NVtbr-ro/hqdefault.jpg",
@@ -2841,8 +2841,8 @@
       "youtube_id": "nyF_x7_XbtE",
       "title": "Legit Work From Home Job Opening \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 29,
-      "youtube_likes": 1,
+      "youtube_views": 28,
+      "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nyF_x7_XbtE/hqdefault.jpg",
       "status": "uploaded",
@@ -2855,7 +2855,7 @@
       "youtube_id": "75BbqA0vIb4",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 11,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/75BbqA0vIb4/hqdefault.jpg",
@@ -2967,7 +2967,7 @@
       "youtube_id": "3cKSn_TyYOE",
       "title": "Remote Job Opportunity \u2014 Apply Today! \ud83d\udcbb\ud83c\udf0e",
       "tiktok_views": 0,
-      "youtube_views": 34,
+      "youtube_views": 36,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3cKSn_TyYOE/hqdefault.jpg",
@@ -3247,7 +3247,7 @@
       "youtube_id": "PRdIrEcgLfI",
       "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
       "tiktok_views": 45500,
-      "youtube_views": 10,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
@@ -4124,7 +4124,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 74,
+    "total_uploads": 75,
     "total_views": 598,
     "total_likes": 0,
     "upcoming": {
@@ -4639,6 +4639,16 @@
     ],
     "runs": [
       {
+        "id": 84,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-10-01",
+        "status": "success",
+        "video_id": "qKTgOZbR2oM",
+        "error_message": null,
+        "created_at": "2026-10-01T02:10:21.068351+00:00"
+      },
+      {
         "id": 83,
         "channel_id": "channel_1",
         "slot": 2,
@@ -4827,23 +4837,13 @@
         "video_id": "9VYmzsjrWqM",
         "error_message": null,
         "created_at": "2026-09-24T23:40:29.171664+00:00"
-      },
-      {
-        "id": 64,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-24",
-        "status": "success",
-        "video_id": "C3TJPw1892s",
-        "error_message": null,
-        "created_at": "2026-09-24T17:16:41.045034+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 185,
+    "total_uploads": 186,
     "total_views": 137326,
-    "total_likes": 619,
+    "total_likes": 618,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4873,6 +4873,16 @@
     }
   },
   "runs": [
+    {
+      "id": 84,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-10-01",
+      "status": "success",
+      "video_id": "qKTgOZbR2oM",
+      "error_message": null,
+      "created_at": "2026-10-01T02:10:21.068351+00:00"
+    },
     {
       "id": 83,
       "channel_id": "channel_1",
@@ -5062,17 +5072,7 @@
       "video_id": "9VYmzsjrWqM",
       "error_message": null,
       "created_at": "2026-09-24T23:40:29.171664+00:00"
-    },
-    {
-      "id": 64,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-24",
-      "status": "success",
-      "video_id": "C3TJPw1892s",
-      "error_message": null,
-      "created_at": "2026-09-24T17:16:41.045034+00:00"
     }
   ],
-  "last_updated": "2026-10-01T01:37:49.723114+00:00"
+  "last_updated": "2026-10-01T02:10:25.389029+00:00"
 }
