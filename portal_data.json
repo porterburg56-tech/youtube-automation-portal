@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 184,
+    "total_uploads": 185,
     "total_views": 137326,
-    "total_likes": 618,
+    "total_likes": 619,
     "total_subscribers": 81,
     "channels_count": 4,
     "videos_per_day": 12
@@ -99,34 +99,34 @@
     {
       "date": "2026-09-28",
       "ch1_views": 90,
-      "ch2_views": 207,
-      "ch3_views": 135491,
-      "ch4_views": 531,
-      "total_views": 136319
+      "ch2_views": 209,
+      "ch3_views": 135493,
+      "ch4_views": 533,
+      "total_views": 136325
     },
     {
       "date": "2026-09-29",
       "ch1_views": 93,
-      "ch2_views": 219,
-      "ch3_views": 135534,
+      "ch2_views": 222,
+      "ch3_views": 135536,
       "ch4_views": 601,
-      "total_views": 136447
+      "total_views": 136452
     },
     {
       "date": "2026-09-30",
       "ch1_views": 93,
-      "ch2_views": 230,
-      "ch3_views": 135546,
-      "ch4_views": 651,
-      "total_views": 136520
+      "ch2_views": 233,
+      "ch3_views": 135549,
+      "ch4_views": 665,
+      "total_views": 136540
     },
     {
       "date": "2026-10-01",
       "ch1_views": 0,
-      "ch2_views": 230,
-      "ch3_views": 135546,
-      "ch4_views": 0,
-      "total_views": 135776
+      "ch2_views": 233,
+      "ch3_views": 135549,
+      "ch4_views": 665,
+      "total_views": 136447
     }
   ],
   "channels": {
@@ -950,27 +950,27 @@
         },
         {
           "date": "2026-09-28",
-          "views": 24,
+          "views": 26,
           "uploads": 3,
-          "cumulative_views": 207
+          "cumulative_views": 209
         },
         {
           "date": "2026-09-29",
-          "views": 12,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 219
+          "cumulative_views": 222
         },
         {
           "date": "2026-09-30",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 230
+          "cumulative_views": 233
         },
         {
           "date": "2026-10-01",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 230
+          "cumulative_views": 233
         }
       ],
       "videos": [
@@ -1051,7 +1051,7 @@
           "youtube_id": "K12i9Nrqekg",
           "title": "Cheesy Bacon Frankfurter Puff Pastry \u2728",
           "tiktok_views": 36300,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/K12i9Nrqekg/hqdefault.jpg",
@@ -1107,7 +1107,7 @@
           "youtube_id": "PRdIrEcgLfI",
           "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
           "tiktok_views": 45500,
-          "youtube_views": 8,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
@@ -1687,27 +1687,27 @@
         },
         {
           "date": "2026-09-28",
-          "views": 9,
+          "views": 11,
           "uploads": 2,
-          "cumulative_views": 135491
+          "cumulative_views": 135493
         },
         {
           "date": "2026-09-29",
           "views": 43,
           "uploads": 3,
-          "cumulative_views": 135534
+          "cumulative_views": 135536
         },
         {
           "date": "2026-09-30",
-          "views": 12,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 135546
+          "cumulative_views": 135549
         },
         {
           "date": "2026-10-01",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 135546
+          "cumulative_views": 135549
         }
       ],
       "videos": [
@@ -1723,7 +1723,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/IeJXmlDo-LU/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-10-01T01:28:52Z"
+          "uploaded_at": "2026-10-01T01:29:12Z"
         },
         {
           "channel_id": "channel_3",
@@ -1746,7 +1746,7 @@
           "youtube_id": "75BbqA0vIb4",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 10,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/75BbqA0vIb4/hqdefault.jpg",
@@ -1830,7 +1830,7 @@
           "youtube_id": "-cMGhsPZ3qM",
           "title": "Extracting resin from fungal nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-cMGhsPZ3qM/hqdefault.jpg",
@@ -2308,9 +2308,9 @@
       "avatar_letter": "R",
       "category": "Remote Work & Side Hustles",
       "subscribers": 2,
-      "total_uploads": 10,
+      "total_uploads": 11,
       "total_views": 541,
-      "total_likes": 10,
+      "total_likes": 11,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -2352,24 +2352,44 @@
         },
         {
           "date": "2026-09-28",
-          "views": 301,
+          "views": 303,
           "uploads": 2,
-          "cumulative_views": 531
+          "cumulative_views": 533
         },
         {
           "date": "2026-09-29",
-          "views": 70,
+          "views": 68,
           "uploads": 3,
           "cumulative_views": 601
         },
         {
           "date": "2026-09-30",
-          "views": 50,
+          "views": 64,
           "uploads": 3,
-          "cumulative_views": 651
+          "cumulative_views": 665
+        },
+        {
+          "date": "2026-10-01",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 665
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_4",
+          "channel_name": "Remote Jobs WFH",
+          "tiktok_id": "1VCoYqbhIV7A6aBo12URbBtDhQZXjBYR5",
+          "youtube_id": "7DuHVs9JVXk",
+          "title": "Top Remote Job You Can Do From Home \ud83d\udcbb",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/7DuHVs9JVXk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-01T01:37:44Z"
+        },
         {
           "channel_id": "channel_4",
           "channel_name": "Remote Jobs WFH",
@@ -2377,7 +2397,7 @@
           "youtube_id": "tP-NVtbr-ro",
           "title": "Legit Work From Home Job Opening \ud83c\udfe0\ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tP-NVtbr-ro/hqdefault.jpg",
@@ -2391,8 +2411,8 @@
           "youtube_id": "nyF_x7_XbtE",
           "title": "Legit Work From Home Job Opening \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 28,
-          "youtube_likes": 0,
+          "youtube_views": 29,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nyF_x7_XbtE/hqdefault.jpg",
           "status": "uploaded",
@@ -2405,7 +2425,7 @@
           "youtube_id": "zgfWIyP6_mQ",
           "title": "Now Hiring! Person laughing at laptop screen \u2014 Work From Anywhere \ud83c\udf0d\ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 21,
+          "youtube_views": 29,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/zgfWIyP6_mQ/hqdefault.jpg",
@@ -2419,7 +2439,7 @@
           "youtube_id": "3cKSn_TyYOE",
           "title": "Remote Job Opportunity \u2014 Apply Today! \ud83d\udcbb\ud83c\udf0e",
           "tiktok_views": 0,
-          "youtube_views": 36,
+          "youtube_views": 34,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/3cKSn_TyYOE/hqdefault.jpg",
@@ -2475,7 +2495,7 @@
           "youtube_id": "cjXXxP7sjX4",
           "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 170,
+          "youtube_views": 172,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
@@ -2512,6 +2532,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 42,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-10-01",
+          "status": "success",
+          "video_id": "7DuHVs9JVXk",
+          "error_message": null,
+          "created_at": "2026-10-01T01:37:45.677098+00:00"
+        },
         {
           "id": 41,
           "channel_id": "channel_4",
@@ -2701,21 +2731,25 @@
           "video_id": null,
           "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
           "created_at": "2026-09-24T22:27:34.505255+00:00"
-        },
-        {
-          "id": 22,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-09-24",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
-          "created_at": "2026-09-24T17:32:02.177101+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_4",
+      "channel_name": "Remote Jobs WFH",
+      "tiktok_id": "1VCoYqbhIV7A6aBo12URbBtDhQZXjBYR5",
+      "youtube_id": "7DuHVs9JVXk",
+      "title": "Top Remote Job You Can Do From Home \ud83d\udcbb",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/7DuHVs9JVXk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-01T01:37:44Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -2728,7 +2762,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/IeJXmlDo-LU/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-10-01T01:28:52Z"
+      "uploaded_at": "2026-10-01T01:29:12Z"
     },
     {
       "channel_id": "channel_2",
@@ -2765,7 +2799,7 @@
       "youtube_id": "tP-NVtbr-ro",
       "title": "Legit Work From Home Job Opening \ud83c\udfe0\ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tP-NVtbr-ro/hqdefault.jpg",
@@ -2807,8 +2841,8 @@
       "youtube_id": "nyF_x7_XbtE",
       "title": "Legit Work From Home Job Opening \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 28,
-      "youtube_likes": 0,
+      "youtube_views": 29,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nyF_x7_XbtE/hqdefault.jpg",
       "status": "uploaded",
@@ -2821,7 +2855,7 @@
       "youtube_id": "75BbqA0vIb4",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 10,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/75BbqA0vIb4/hqdefault.jpg",
@@ -2877,7 +2911,7 @@
       "youtube_id": "zgfWIyP6_mQ",
       "title": "Now Hiring! Person laughing at laptop screen \u2014 Work From Anywhere \ud83c\udf0d\ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 21,
+      "youtube_views": 29,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/zgfWIyP6_mQ/hqdefault.jpg",
@@ -2933,7 +2967,7 @@
       "youtube_id": "3cKSn_TyYOE",
       "title": "Remote Job Opportunity \u2014 Apply Today! \ud83d\udcbb\ud83c\udf0e",
       "tiktok_views": 0,
-      "youtube_views": 36,
+      "youtube_views": 34,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/3cKSn_TyYOE/hqdefault.jpg",
@@ -3017,7 +3051,7 @@
       "youtube_id": "K12i9Nrqekg",
       "title": "Cheesy Bacon Frankfurter Puff Pastry \u2728",
       "tiktok_views": 36300,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/K12i9Nrqekg/hqdefault.jpg",
@@ -3171,7 +3205,7 @@
       "youtube_id": "cjXXxP7sjX4",
       "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 170,
+      "youtube_views": 172,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
@@ -3185,7 +3219,7 @@
       "youtube_id": "-cMGhsPZ3qM",
       "title": "Extracting resin from fungal nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-cMGhsPZ3qM/hqdefault.jpg",
@@ -3213,7 +3247,7 @@
       "youtube_id": "PRdIrEcgLfI",
       "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
       "tiktok_views": 45500,
-      "youtube_views": 8,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
@@ -4807,9 +4841,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 184,
+    "total_uploads": 185,
     "total_views": 137326,
-    "total_likes": 618,
+    "total_likes": 619,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5040,5 +5074,5 @@
       "created_at": "2026-09-24T17:16:41.045034+00:00"
     }
   ],
-  "last_updated": "2026-10-01T01:29:00.340156+00:00"
+  "last_updated": "2026-10-01T01:37:49.723114+00:00"
 }
