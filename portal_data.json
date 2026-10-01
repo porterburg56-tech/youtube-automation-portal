@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 183,
+    "total_uploads": 184,
     "total_views": 137326,
-    "total_likes": 619,
+    "total_likes": 618,
     "total_subscribers": 81,
     "channels_count": 4,
     "videos_per_day": 12
@@ -28,97 +28,105 @@
       "date": "2026-09-19",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 104462,
+      "ch3_views": 104465,
       "ch4_views": 67,
-      "total_views": 104529
+      "total_views": 104532
     },
     {
       "date": "2026-09-20",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 106913,
+      "ch3_views": 106916,
       "ch4_views": 230,
-      "total_views": 107143
+      "total_views": 107146
     },
     {
       "date": "2026-09-21",
       "ch1_views": 16,
-      "ch2_views": 45,
-      "ch3_views": 128052,
+      "ch2_views": 38,
+      "ch3_views": 128056,
       "ch4_views": 0,
-      "total_views": 128113
+      "total_views": 128110
     },
     {
       "date": "2026-09-22",
       "ch1_views": 46,
-      "ch2_views": 127,
-      "ch3_views": 135397,
+      "ch2_views": 120,
+      "ch3_views": 135401,
       "ch4_views": 0,
-      "total_views": 135570
+      "total_views": 135567
     },
     {
       "date": "2026-09-23",
       "ch1_views": 59,
-      "ch2_views": 149,
-      "ch3_views": 135478,
+      "ch2_views": 142,
+      "ch3_views": 135482,
       "ch4_views": 0,
-      "total_views": 135686
+      "total_views": 135683
     },
     {
       "date": "2026-09-24",
       "ch1_views": 63,
-      "ch2_views": 154,
+      "ch2_views": 147,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 217
+      "total_views": 210
     },
     {
       "date": "2026-09-25",
       "ch1_views": 64,
-      "ch2_views": 159,
+      "ch2_views": 152,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 223
+      "total_views": 216
     },
     {
       "date": "2026-09-26",
       "ch1_views": 86,
-      "ch2_views": 185,
+      "ch2_views": 178,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 271
+      "total_views": 264
     },
     {
       "date": "2026-09-27",
       "ch1_views": 90,
-      "ch2_views": 190,
+      "ch2_views": 183,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 280
+      "total_views": 273
     },
     {
       "date": "2026-09-28",
       "ch1_views": 90,
-      "ch2_views": 214,
-      "ch3_views": 135488,
-      "ch4_views": 532,
-      "total_views": 136324
+      "ch2_views": 207,
+      "ch3_views": 135491,
+      "ch4_views": 531,
+      "total_views": 136319
     },
     {
       "date": "2026-09-29",
       "ch1_views": 93,
-      "ch2_views": 226,
-      "ch3_views": 135528,
-      "ch4_views": 602,
-      "total_views": 136449
+      "ch2_views": 219,
+      "ch3_views": 135534,
+      "ch4_views": 601,
+      "total_views": 136447
     },
     {
       "date": "2026-09-30",
       "ch1_views": 93,
-      "ch2_views": 237,
-      "ch3_views": 135540,
-      "ch4_views": 647,
-      "total_views": 136517
+      "ch2_views": 230,
+      "ch3_views": 135546,
+      "ch4_views": 651,
+      "total_views": 136520
+    },
+    {
+      "date": "2026-10-01",
+      "ch1_views": 0,
+      "ch2_views": 230,
+      "ch3_views": 135546,
+      "ch4_views": 0,
+      "total_views": 135776
     }
   ],
   "channels": {
@@ -870,7 +878,7 @@
       "subscribers": 3,
       "total_uploads": 73,
       "total_views": 691,
-      "total_likes": 1,
+      "total_likes": 0,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -900,66 +908,86 @@
       "view_history": [
         {
           "date": "2026-09-21",
-          "views": 45,
-          "uploads": 3,
-          "cumulative_views": 45
+          "views": 38,
+          "uploads": 2,
+          "cumulative_views": 38
         },
         {
           "date": "2026-09-22",
           "views": 82,
           "uploads": 3,
-          "cumulative_views": 127
+          "cumulative_views": 120
         },
         {
           "date": "2026-09-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 149
+          "cumulative_views": 142
         },
         {
           "date": "2026-09-24",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 154
+          "cumulative_views": 147
         },
         {
           "date": "2026-09-25",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 159
+          "cumulative_views": 152
         },
         {
           "date": "2026-09-26",
           "views": 26,
           "uploads": 3,
-          "cumulative_views": 185
+          "cumulative_views": 178
         },
         {
           "date": "2026-09-27",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 190
+          "cumulative_views": 183
         },
         {
           "date": "2026-09-28",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 214
+          "cumulative_views": 207
         },
         {
           "date": "2026-09-29",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 226
+          "cumulative_views": 219
         },
         {
           "date": "2026-09-30",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 237
+          "cumulative_views": 230
+        },
+        {
+          "date": "2026-10-01",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 230
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7691388896445238542",
+          "youtube_id": "8hVy-DxVf34",
+          "title": "Cheesy Stuffed Meat & Potato Bake \u2728",
+          "tiktok_views": 38600,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/8hVy-DxVf34/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-01T01:25:13Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1365,20 +1393,6 @@
           "thumbnail": "https://i.ytimg.com/vi/SUB7W4dNQHg/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-21T16:12:49Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7665419788927208717",
-          "youtube_id": "HTR-p9tR5hg",
-          "title": "Easy Homemade Cream Cheese Recipe with Just a Few Ingredients \u2728",
-          "tiktok_views": 197300,
-          "youtube_views": 7,
-          "youtube_likes": 1,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/HTR-p9tR5hg/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-21T01:13:21Z"
         }
       ],
       "runs": [
@@ -1599,7 +1613,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 26,
+      "total_uploads": 27,
       "total_views": 135496,
       "total_likes": 608,
       "upcoming": {
@@ -1643,54 +1657,74 @@
         },
         {
           "date": "2026-09-19",
-          "views": 72240,
+          "views": 72243,
           "uploads": 3,
-          "cumulative_views": 104462
+          "cumulative_views": 104465
         },
         {
           "date": "2026-09-20",
           "views": 2451,
           "uploads": 3,
-          "cumulative_views": 106913
+          "cumulative_views": 106916
         },
         {
           "date": "2026-09-21",
-          "views": 21139,
+          "views": 21140,
           "uploads": 3,
-          "cumulative_views": 128052
+          "cumulative_views": 128056
         },
         {
           "date": "2026-09-22",
           "views": 7345,
           "uploads": 3,
-          "cumulative_views": 135397
+          "cumulative_views": 135401
         },
         {
           "date": "2026-09-23",
           "views": 81,
           "uploads": 1,
-          "cumulative_views": 135478
+          "cumulative_views": 135482
         },
         {
           "date": "2026-09-28",
-          "views": 10,
+          "views": 9,
           "uploads": 2,
-          "cumulative_views": 135488
+          "cumulative_views": 135491
         },
         {
           "date": "2026-09-29",
-          "views": 40,
+          "views": 43,
           "uploads": 3,
-          "cumulative_views": 135528
+          "cumulative_views": 135534
         },
         {
           "date": "2026-09-30",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 135540
+          "cumulative_views": 135546
+        },
+        {
+          "date": "2026-10-01",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 135546
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1PqvEwwvP2afIglwKJyKDRA6ZYFKqgOxR",
+          "youtube_id": "IeJXmlDo-LU",
+          "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/IeJXmlDo-LU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-01T01:28:52Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1768,7 +1802,7 @@
           "youtube_id": "TJ_cOTW3394",
           "title": "Satisfying Acrylic Nail Art & Cuticle Prep ASMR \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 39,
+          "youtube_views": 42,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TJ_cOTW3394/hqdefault.jpg",
@@ -1796,7 +1830,7 @@
           "youtube_id": "-cMGhsPZ3qM",
           "title": "Extracting resin from fungal nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-cMGhsPZ3qM/hqdefault.jpg",
@@ -1880,7 +1914,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18433,
+          "youtube_views": 18434,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -1964,7 +1998,7 @@
           "youtube_id": "6QW2ZqZJcXQ",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 34703,
+          "youtube_views": 34706,
           "youtube_likes": 132,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -2057,6 +2091,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 50,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-01",
+          "status": "success",
+          "video_id": "IeJXmlDo-LU",
+          "error_message": null,
+          "created_at": "2026-10-01T01:28:56.049967+00:00"
+        },
         {
           "id": 49,
           "channel_id": "channel_3",
@@ -2246,16 +2290,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-24T22:21:30.637471+00:00"
-        },
-        {
-          "id": 30,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-09-24",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-24T17:20:32.121089+00:00"
         }
       ]
     },
@@ -2318,21 +2352,21 @@
         },
         {
           "date": "2026-09-28",
-          "views": 302,
+          "views": 301,
           "uploads": 2,
-          "cumulative_views": 532
+          "cumulative_views": 531
         },
         {
           "date": "2026-09-29",
           "views": 70,
           "uploads": 3,
-          "cumulative_views": 602
+          "cumulative_views": 601
         },
         {
           "date": "2026-09-30",
-          "views": 45,
+          "views": 50,
           "uploads": 3,
-          "cumulative_views": 647
+          "cumulative_views": 651
         }
       ],
       "videos": [
@@ -2357,7 +2391,7 @@
           "youtube_id": "nyF_x7_XbtE",
           "title": "Legit Work From Home Job Opening \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 15,
+          "youtube_views": 28,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nyF_x7_XbtE/hqdefault.jpg",
@@ -2371,7 +2405,7 @@
           "youtube_id": "zgfWIyP6_mQ",
           "title": "Now Hiring! Person laughing at laptop screen \u2014 Work From Anywhere \ud83c\udf0d\ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 29,
+          "youtube_views": 21,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/zgfWIyP6_mQ/hqdefault.jpg",
@@ -2441,7 +2475,7 @@
           "youtube_id": "cjXXxP7sjX4",
           "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 171,
+          "youtube_views": 170,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
@@ -2683,6 +2717,34 @@
   },
   "videos": [
     {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1PqvEwwvP2afIglwKJyKDRA6ZYFKqgOxR",
+      "youtube_id": "IeJXmlDo-LU",
+      "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/IeJXmlDo-LU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-01T01:28:52Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7691388896445238542",
+      "youtube_id": "8hVy-DxVf34",
+      "title": "Cheesy Stuffed Meat & Potato Bake \u2728",
+      "tiktok_views": 38600,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/8hVy-DxVf34/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-01T01:25:13Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7663158194998447373",
@@ -2745,7 +2807,7 @@
       "youtube_id": "nyF_x7_XbtE",
       "title": "Legit Work From Home Job Opening \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 15,
+      "youtube_views": 28,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nyF_x7_XbtE/hqdefault.jpg",
@@ -2815,7 +2877,7 @@
       "youtube_id": "zgfWIyP6_mQ",
       "title": "Now Hiring! Person laughing at laptop screen \u2014 Work From Anywhere \ud83c\udf0d\ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 29,
+      "youtube_views": 21,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/zgfWIyP6_mQ/hqdefault.jpg",
@@ -2997,7 +3059,7 @@
       "youtube_id": "TJ_cOTW3394",
       "title": "Satisfying Acrylic Nail Art & Cuticle Prep ASMR \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 39,
+      "youtube_views": 42,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TJ_cOTW3394/hqdefault.jpg",
@@ -3109,7 +3171,7 @@
       "youtube_id": "cjXXxP7sjX4",
       "title": "Work From Home Job \u2014 Up to $17/HR \ud83d\udcbc\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 171,
+      "youtube_views": 170,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cjXXxP7sjX4/hqdefault.jpg",
@@ -3123,7 +3185,7 @@
       "youtube_id": "-cMGhsPZ3qM",
       "title": "Extracting resin from fungal nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-cMGhsPZ3qM/hqdefault.jpg",
@@ -3767,7 +3829,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18433,
+      "youtube_views": 18434,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -3829,20 +3891,6 @@
       "thumbnail": "https://i.ytimg.com/vi/yz1J9rgBz6Y/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-21T01:25:51Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7665419788927208717",
-      "youtube_id": "HTR-p9tR5hg",
-      "title": "Easy Homemade Cream Cheese Recipe with Just a Few Ingredients \u2728",
-      "tiktok_views": 197300,
-      "youtube_views": 7,
-      "youtube_likes": 1,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/HTR-p9tR5hg/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-21T01:13:21Z"
     },
     {
       "channel_id": "channel_3",
@@ -3921,7 +3969,7 @@
       "youtube_id": "6QW2ZqZJcXQ",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 34703,
+      "youtube_views": 34706,
       "youtube_likes": 132,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
@@ -4759,9 +4807,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 183,
+    "total_uploads": 184,
     "total_views": 137326,
-    "total_likes": 619,
+    "total_likes": 618,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -4992,5 +5040,5 @@
       "created_at": "2026-09-24T17:16:41.045034+00:00"
     }
   ],
-  "last_updated": "2026-10-01T01:24:30.202521+00:00"
+  "last_updated": "2026-10-01T01:29:00.340156+00:00"
 }
