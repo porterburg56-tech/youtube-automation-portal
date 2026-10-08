@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 187,
+    "total_uploads": 188,
     "total_views": 138322,
     "total_likes": 623,
     "total_subscribers": 83,
@@ -132,9 +132,9 @@
       "date": "2026-10-08",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 0,
+      "ch3_views": 135823,
       "ch4_views": 1056,
-      "total_views": 1056
+      "total_views": 136879
     }
   ],
   "channels": {
@@ -1627,7 +1627,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 27,
+      "total_uploads": 28,
       "total_views": 135821,
       "total_likes": 610,
       "upcoming": {
@@ -1722,9 +1722,29 @@
           "views": 21,
           "uploads": 1,
           "cumulative_views": 135823
+        },
+        {
+          "date": "2026-10-08",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 135823
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1cBSK0KVig2zxktwjL673-0X2_4fwJ697",
+          "youtube_id": "AHG0PkBRynA",
+          "title": "Extracting fluid from fungal nail \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/AHG0PkBRynA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-08T07:53:28Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2106,6 +2126,16 @@
       ],
       "runs": [
         {
+          "id": 51,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-08",
+          "status": "success",
+          "video_id": "AHG0PkBRynA",
+          "error_message": null,
+          "created_at": "2026-10-08T07:53:29.260476+00:00"
+        },
+        {
           "id": 50,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2294,16 +2324,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-25T01:23:37.989382+00:00"
-        },
-        {
-          "id": 31,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-09-24",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-24T22:21:30.637471+00:00"
         }
       ]
     },
@@ -2408,7 +2428,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/stRwhg5nVc4/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-10-08T07:48:09Z"
+          "uploaded_at": "2026-10-08T07:48:28Z"
         },
         {
           "channel_id": "channel_4",
@@ -2771,6 +2791,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1cBSK0KVig2zxktwjL673-0X2_4fwJ697",
+      "youtube_id": "AHG0PkBRynA",
+      "title": "Extracting fluid from fungal nail \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/AHG0PkBRynA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-08T07:53:28Z"
+    },
+    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1B4ozYbzsJnhz3YTtXJfnFZIYbzOZ-B77",
@@ -2782,7 +2816,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/stRwhg5nVc4/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-10-08T07:48:09Z"
+      "uploaded_at": "2026-10-08T07:48:28Z"
     },
     {
       "channel_id": "channel_1",
@@ -4895,7 +4929,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 187,
+    "total_uploads": 188,
     "total_views": 138322,
     "total_likes": 623,
     "videos_per_day": 12
@@ -5128,5 +5162,5 @@
       "created_at": "2026-09-24T23:40:29.171664+00:00"
     }
   ],
-  "last_updated": "2026-10-08T07:48:15.717285+00:00"
+  "last_updated": "2026-10-08T07:53:32.987773+00:00"
 }
