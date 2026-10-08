@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 188,
+    "total_uploads": 189,
     "total_views": 138322,
     "total_likes": 623,
     "total_subscribers": 83,
@@ -1743,7 +1743,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/AHG0PkBRynA/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-10-08T07:53:28Z"
+          "uploaded_at": "2026-10-08T07:53:43Z"
         },
         {
           "channel_id": "channel_3",
@@ -2342,7 +2342,7 @@
       "avatar_letter": "R",
       "category": "Remote Work & Side Hustles",
       "subscribers": 3,
-      "total_uploads": 12,
+      "total_uploads": 13,
       "total_views": 1052,
       "total_likes": 12,
       "upcoming": {
@@ -2411,11 +2411,25 @@
         {
           "date": "2026-10-08",
           "views": 0,
-          "uploads": 1,
+          "uploads": 2,
           "cumulative_views": 1056
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_4",
+          "channel_name": "Remote Jobs WFH",
+          "tiktok_id": "1va9ZgwWc4OEwoc9Jyy5lj_2o1tYGWJf2",
+          "youtube_id": "-ICAQ6VlhLY",
+          "title": "Legit Work From Home Job Opening \ud83d\udcbb",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/-ICAQ6VlhLY/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-08T07:53:40Z"
+        },
         {
           "channel_id": "channel_4",
           "channel_name": "Remote Jobs WFH",
@@ -2586,6 +2600,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 44,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-10-08",
+          "status": "success",
+          "video_id": "-ICAQ6VlhLY",
+          "error_message": null,
+          "created_at": "2026-10-08T07:53:42.465782+00:00"
+        },
         {
           "id": 43,
           "channel_id": "channel_4",
@@ -2775,16 +2799,6 @@
           "video_id": null,
           "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
           "created_at": "2026-09-25T17:33:13.603500+00:00"
-        },
-        {
-          "id": 24,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-09-25",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
-          "created_at": "2026-09-25T01:29:46.553353+00:00"
         }
       ]
     }
@@ -2802,7 +2816,21 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/AHG0PkBRynA/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-10-08T07:53:28Z"
+      "uploaded_at": "2026-10-08T07:53:43Z"
+    },
+    {
+      "channel_id": "channel_4",
+      "channel_name": "Remote Jobs WFH",
+      "tiktok_id": "1va9ZgwWc4OEwoc9Jyy5lj_2o1tYGWJf2",
+      "youtube_id": "-ICAQ6VlhLY",
+      "title": "Legit Work From Home Job Opening \ud83d\udcbb",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/-ICAQ6VlhLY/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-08T07:53:40Z"
     },
     {
       "channel_id": "channel_4",
@@ -4929,7 +4957,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 188,
+    "total_uploads": 189,
     "total_views": 138322,
     "total_likes": 623,
     "videos_per_day": 12
@@ -5162,5 +5190,5 @@
       "created_at": "2026-09-24T23:40:29.171664+00:00"
     }
   ],
-  "last_updated": "2026-10-08T07:53:32.987773+00:00"
+  "last_updated": "2026-10-08T07:53:47.353678+00:00"
 }
