@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 189,
+    "total_uploads": 190,
     "total_views": 138322,
     "total_likes": 623,
     "total_subscribers": 83,
@@ -153,7 +153,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 75,
+      "total_uploads": 76,
       "total_views": 614,
       "total_likes": 1,
       "upcoming": {
@@ -674,6 +674,16 @@
       ],
       "runs": [
         {
+          "id": 85,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-10-08",
+          "status": "success",
+          "video_id": "yhYoebidcRo",
+          "error_message": null,
+          "created_at": "2026-10-08T07:53:58.855919+00:00"
+        },
+        {
           "id": 84,
           "channel_id": "channel_1",
           "slot": 3,
@@ -862,16 +872,6 @@
           "video_id": "m7xvf7F4k14",
           "error_message": null,
           "created_at": "2026-09-25T02:09:02.749959+00:00"
-        },
-        {
-          "id": 65,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-09-24",
-          "status": "success",
-          "video_id": "9VYmzsjrWqM",
-          "error_message": null,
-          "created_at": "2026-09-24T23:40:29.171664+00:00"
         }
       ]
     },
@@ -2428,7 +2428,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-ICAQ6VlhLY/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-10-08T07:53:40Z"
+          "uploaded_at": "2026-10-08T07:53:58Z"
         },
         {
           "channel_id": "channel_4",
@@ -2805,6 +2805,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_4",
+      "channel_name": "Remote Jobs WFH",
+      "tiktok_id": "1va9ZgwWc4OEwoc9Jyy5lj_2o1tYGWJf2",
+      "youtube_id": "-ICAQ6VlhLY",
+      "title": "Legit Work From Home Job Opening \ud83d\udcbb",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/-ICAQ6VlhLY/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-08T07:53:58Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1cBSK0KVig2zxktwjL673-0X2_4fwJ697",
@@ -2817,20 +2831,6 @@
       "thumbnail": "https://i.ytimg.com/vi/AHG0PkBRynA/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-08T07:53:43Z"
-    },
-    {
-      "channel_id": "channel_4",
-      "channel_name": "Remote Jobs WFH",
-      "tiktok_id": "1va9ZgwWc4OEwoc9Jyy5lj_2o1tYGWJf2",
-      "youtube_id": "-ICAQ6VlhLY",
-      "title": "Legit Work From Home Job Opening \ud83d\udcbb",
-      "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/-ICAQ6VlhLY/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-08T07:53:40Z"
     },
     {
       "channel_id": "channel_4",
@@ -4234,7 +4234,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 75,
+    "total_uploads": 76,
     "total_views": 614,
     "total_likes": 1,
     "upcoming": {
@@ -4755,6 +4755,16 @@
     ],
     "runs": [
       {
+        "id": 85,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-10-08",
+        "status": "success",
+        "video_id": "yhYoebidcRo",
+        "error_message": null,
+        "created_at": "2026-10-08T07:53:58.855919+00:00"
+      },
+      {
         "id": 84,
         "channel_id": "channel_1",
         "slot": 3,
@@ -4943,21 +4953,11 @@
         "video_id": "m7xvf7F4k14",
         "error_message": null,
         "created_at": "2026-09-25T02:09:02.749959+00:00"
-      },
-      {
-        "id": 65,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-09-24",
-        "status": "success",
-        "video_id": "9VYmzsjrWqM",
-        "error_message": null,
-        "created_at": "2026-09-24T23:40:29.171664+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 189,
+    "total_uploads": 190,
     "total_views": 138322,
     "total_likes": 623,
     "videos_per_day": 12
@@ -4989,6 +4989,16 @@
     }
   },
   "runs": [
+    {
+      "id": 85,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-10-08",
+      "status": "success",
+      "video_id": "yhYoebidcRo",
+      "error_message": null,
+      "created_at": "2026-10-08T07:53:58.855919+00:00"
+    },
     {
       "id": 84,
       "channel_id": "channel_1",
@@ -5178,17 +5188,7 @@
       "video_id": "m7xvf7F4k14",
       "error_message": null,
       "created_at": "2026-09-25T02:09:02.749959+00:00"
-    },
-    {
-      "id": 65,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-09-24",
-      "status": "success",
-      "video_id": "9VYmzsjrWqM",
-      "error_message": null,
-      "created_at": "2026-09-24T23:40:29.171664+00:00"
     }
   ],
-  "last_updated": "2026-10-08T07:53:47.353678+00:00"
+  "last_updated": "2026-10-08T07:54:03.443055+00:00"
 }
