@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 191,
-    "total_views": 138322,
+    "total_uploads": 192,
+    "total_views": 138336,
     "total_likes": 623,
     "total_subscribers": 83,
     "channels_count": 4,
@@ -20,121 +20,121 @@
       "date": "2026-09-18",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 32236,
+      "ch3_views": 32240,
       "ch4_views": 0,
-      "total_views": 32236
+      "total_views": 32240
     },
     {
       "date": "2026-09-19",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 104528,
+      "ch3_views": 104534,
       "ch4_views": 67,
-      "total_views": 104595
+      "total_views": 104601
     },
     {
       "date": "2026-09-20",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 106981,
+      "ch3_views": 106987,
       "ch4_views": 230,
-      "total_views": 107211
+      "total_views": 107217
     },
     {
       "date": "2026-09-21",
-      "ch1_views": 2,
-      "ch2_views": 40,
-      "ch3_views": 128199,
+      "ch1_views": 0,
+      "ch2_views": 41,
+      "ch3_views": 128205,
       "ch4_views": 0,
-      "total_views": 128241
+      "total_views": 128246
     },
     {
       "date": "2026-09-22",
-      "ch1_views": 32,
-      "ch2_views": 122,
-      "ch3_views": 135547,
+      "ch1_views": 30,
+      "ch2_views": 123,
+      "ch3_views": 135553,
       "ch4_views": 0,
-      "total_views": 135701
+      "total_views": 135706
     },
     {
       "date": "2026-09-23",
-      "ch1_views": 45,
-      "ch2_views": 144,
-      "ch3_views": 135630,
+      "ch1_views": 43,
+      "ch2_views": 145,
+      "ch3_views": 135636,
       "ch4_views": 0,
-      "total_views": 135819
+      "total_views": 135824
     },
     {
       "date": "2026-09-24",
-      "ch1_views": 49,
-      "ch2_views": 150,
+      "ch1_views": 47,
+      "ch2_views": 151,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 199
+      "total_views": 198
     },
     {
       "date": "2026-09-25",
-      "ch1_views": 50,
-      "ch2_views": 155,
+      "ch1_views": 48,
+      "ch2_views": 156,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 205
+      "total_views": 204
     },
     {
       "date": "2026-09-26",
-      "ch1_views": 75,
-      "ch2_views": 181,
+      "ch1_views": 73,
+      "ch2_views": 182,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 256
+      "total_views": 255
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 80,
-      "ch2_views": 186,
+      "ch1_views": 78,
+      "ch2_views": 187,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 266
+      "total_views": 265
     },
     {
       "date": "2026-09-28",
-      "ch1_views": 81,
-      "ch2_views": 219,
-      "ch3_views": 135648,
+      "ch1_views": 79,
+      "ch2_views": 220,
+      "ch3_views": 135654,
       "ch4_views": 557,
-      "total_views": 136505
+      "total_views": 136510
     },
     {
       "date": "2026-09-29",
-      "ch1_views": 84,
-      "ch2_views": 258,
-      "ch3_views": 135708,
+      "ch1_views": 82,
+      "ch2_views": 259,
+      "ch3_views": 135714,
       "ch4_views": 636,
-      "total_views": 136686
+      "total_views": 136691
     },
     {
       "date": "2026-09-30",
-      "ch1_views": 85,
-      "ch2_views": 314,
-      "ch3_views": 135802,
+      "ch1_views": 83,
+      "ch2_views": 315,
+      "ch3_views": 135808,
       "ch4_views": 842,
-      "total_views": 137043
+      "total_views": 137048
     },
     {
       "date": "2026-10-01",
-      "ch1_views": 89,
-      "ch2_views": 321,
-      "ch3_views": 135823,
+      "ch1_views": 87,
+      "ch2_views": 322,
+      "ch3_views": 135829,
       "ch4_views": 1056,
-      "total_views": 137289
+      "total_views": 137294
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 89,
+      "ch1_views": 87,
       "ch2_views": 0,
-      "ch3_views": 135823,
-      "ch4_views": 1057,
-      "total_views": 136969
+      "ch3_views": 135858,
+      "ch4_views": 1085,
+      "total_views": 137030
     }
   ],
   "channels": {
@@ -184,79 +184,87 @@
       },
       "view_history": [
         {
-          "date": "2026-09-21",
-          "views": 2,
-          "uploads": 1,
-          "cumulative_views": 2
-        },
-        {
           "date": "2026-09-22",
           "views": 30,
           "uploads": 3,
-          "cumulative_views": 32
+          "cumulative_views": 30
         },
         {
           "date": "2026-09-23",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 45
+          "cumulative_views": 43
         },
         {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 49
+          "cumulative_views": 47
         },
         {
           "date": "2026-09-25",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 50
+          "cumulative_views": 48
         },
         {
           "date": "2026-09-26",
           "views": 25,
           "uploads": 3,
-          "cumulative_views": 75
+          "cumulative_views": 73
         },
         {
           "date": "2026-09-27",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 80
+          "cumulative_views": 78
         },
         {
           "date": "2026-09-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 81
+          "cumulative_views": 79
         },
         {
           "date": "2026-09-29",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 84
+          "cumulative_views": 82
         },
         {
           "date": "2026-09-30",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 85
+          "cumulative_views": 83
         },
         {
           "date": "2026-10-01",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 89
+          "cumulative_views": 87
         },
         {
           "date": "2026-10-08",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 89
+          "uploads": 2,
+          "cumulative_views": 87
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7693215143752158478",
+          "youtube_id": "mE0XSH_no08",
+          "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
+          "tiktok_views": 995200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/mE0XSH_no08/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-08T08:22:24Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -662,20 +670,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ExPudnPFOBU/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-22T02:09:58Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7667174306606042381",
-          "youtube_id": "F1C5YleLjqQ",
-          "title": "This Toddler\u2019s Dad Impression Deserves an Award \ud83d\ude2d",
-          "tiktok_views": 64300,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/F1C5YleLjqQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-21T23:41:10Z"
         }
       ],
       "runs": [
@@ -896,8 +890,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 4,
-      "total_uploads": 73,
-      "total_views": 835,
+      "total_uploads": 74,
+      "total_views": 843,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -928,69 +922,69 @@
       "view_history": [
         {
           "date": "2026-09-21",
-          "views": 40,
+          "views": 41,
           "uploads": 2,
-          "cumulative_views": 40
+          "cumulative_views": 41
         },
         {
           "date": "2026-09-22",
           "views": 82,
           "uploads": 3,
-          "cumulative_views": 122
+          "cumulative_views": 123
         },
         {
           "date": "2026-09-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 144
+          "cumulative_views": 145
         },
         {
           "date": "2026-09-24",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 150
+          "cumulative_views": 151
         },
         {
           "date": "2026-09-25",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 155
+          "cumulative_views": 156
         },
         {
           "date": "2026-09-26",
           "views": 26,
           "uploads": 3,
-          "cumulative_views": 181
+          "cumulative_views": 182
         },
         {
           "date": "2026-09-27",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 186
+          "cumulative_views": 187
         },
         {
           "date": "2026-09-28",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 219
+          "cumulative_views": 220
         },
         {
           "date": "2026-09-29",
           "views": 39,
           "uploads": 3,
-          "cumulative_views": 258
+          "cumulative_views": 259
         },
         {
           "date": "2026-09-30",
           "views": 56,
           "uploads": 3,
-          "cumulative_views": 314
+          "cumulative_views": 315
         },
         {
           "date": "2026-10-01",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 321
+          "cumulative_views": 322
         }
       ],
       "videos": [
@@ -1393,7 +1387,7 @@
           "youtube_id": "Zylx7Mdmo3Y",
           "title": "French-Style Cream-Filled Puff Pastry Cones \u2728",
           "tiktok_views": 147400,
-          "youtube_views": 14,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Zylx7Mdmo3Y/hqdefault.jpg",
@@ -1416,6 +1410,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 85,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-10-08",
+          "status": "success",
+          "video_id": "MD9VcCPCjd0",
+          "error_message": null,
+          "created_at": "2026-10-08T21:07:16.951064+00:00"
+        },
         {
           "id": 84,
           "channel_id": "channel_2",
@@ -1605,16 +1609,6 @@
           "video_id": "R8wHmDwaxuw",
           "error_message": null,
           "created_at": "2026-09-25T22:17:20.379829+00:00"
-        },
-        {
-          "id": 65,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-25",
-          "status": "success",
-          "video_id": "nlMB-t3OYVI",
-          "error_message": null,
-          "created_at": "2026-09-25T16:13:20.536242+00:00"
         }
       ]
     },
@@ -1634,7 +1628,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 28,
-      "total_views": 135821,
+      "total_views": 135823,
       "total_likes": 610,
       "upcoming": {
         "slot1": {
@@ -1671,69 +1665,69 @@
         },
         {
           "date": "2026-09-18",
-          "views": 31896,
+          "views": 31900,
           "uploads": 3,
-          "cumulative_views": 32236
+          "cumulative_views": 32240
         },
         {
           "date": "2026-09-19",
-          "views": 72292,
+          "views": 72294,
           "uploads": 3,
-          "cumulative_views": 104528
+          "cumulative_views": 104534
         },
         {
           "date": "2026-09-20",
           "views": 2453,
           "uploads": 3,
-          "cumulative_views": 106981
+          "cumulative_views": 106987
         },
         {
           "date": "2026-09-21",
           "views": 21218,
           "uploads": 3,
-          "cumulative_views": 128199
+          "cumulative_views": 128205
         },
         {
           "date": "2026-09-22",
           "views": 7348,
           "uploads": 3,
-          "cumulative_views": 135547
+          "cumulative_views": 135553
         },
         {
           "date": "2026-09-23",
           "views": 83,
           "uploads": 1,
-          "cumulative_views": 135630
+          "cumulative_views": 135636
         },
         {
           "date": "2026-09-28",
           "views": 18,
           "uploads": 2,
-          "cumulative_views": 135648
+          "cumulative_views": 135654
         },
         {
           "date": "2026-09-29",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 135708
+          "cumulative_views": 135714
         },
         {
           "date": "2026-09-30",
           "views": 94,
           "uploads": 3,
-          "cumulative_views": 135802
+          "cumulative_views": 135808
         },
         {
           "date": "2026-10-01",
           "views": 21,
           "uploads": 1,
-          "cumulative_views": 135823
+          "cumulative_views": 135829
         },
         {
           "date": "2026-10-08",
-          "views": 0,
+          "views": 29,
           "uploads": 1,
-          "cumulative_views": 135823
+          "cumulative_views": 135858
         }
       ],
       "videos": [
@@ -1744,7 +1738,7 @@
           "youtube_id": "AHG0PkBRynA",
           "title": "Extracting fluid from fungal nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 29,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/AHG0PkBRynA/hqdefault.jpg",
@@ -2024,7 +2018,7 @@
           "youtube_id": "dYg3UW7tDXs",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 18124,
+          "youtube_views": 18126,
           "youtube_likes": 84,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -2080,7 +2074,7 @@
           "youtube_id": "sokHcTBesZI",
           "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
           "tiktok_views": 0,
-          "youtube_views": 28201,
+          "youtube_views": 28205,
           "youtube_likes": 122,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -2349,7 +2343,7 @@
       "category": "Remote Work & Side Hustles",
       "subscribers": 3,
       "total_uploads": 13,
-      "total_views": 1052,
+      "total_views": 1056,
       "total_likes": 12,
       "upcoming": {
         "slot1": {
@@ -2416,9 +2410,9 @@
         },
         {
           "date": "2026-10-08",
-          "views": 1,
+          "views": 29,
           "uploads": 2,
-          "cumulative_views": 1057
+          "cumulative_views": 1085
         }
       ],
       "videos": [
@@ -2429,7 +2423,7 @@
           "youtube_id": "-ICAQ6VlhLY",
           "title": "Legit Work From Home Job Opening \ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-ICAQ6VlhLY/hqdefault.jpg",
@@ -2443,7 +2437,7 @@
           "youtube_id": "stRwhg5nVc4",
           "title": "Legit Work From Home Job Opening \ud83d\udcbc\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/stRwhg5nVc4/hqdefault.jpg",
@@ -2813,6 +2807,20 @@
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7693215143752158478",
+      "youtube_id": "mE0XSH_no08",
+      "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
+      "tiktok_views": 995200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/mE0XSH_no08/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-08T08:22:24Z"
+    },
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7693890902145715470",
       "youtube_id": "yhYoebidcRo",
       "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
@@ -2831,7 +2839,7 @@
       "youtube_id": "-ICAQ6VlhLY",
       "title": "Legit Work From Home Job Opening \ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-ICAQ6VlhLY/hqdefault.jpg",
@@ -2845,7 +2853,7 @@
       "youtube_id": "AHG0PkBRynA",
       "title": "Extracting fluid from fungal nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 29,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/AHG0PkBRynA/hqdefault.jpg",
@@ -2859,7 +2867,7 @@
       "youtube_id": "stRwhg5nVc4",
       "title": "Legit Work From Home Job Opening \ud83d\udcbc\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/stRwhg5nVc4/hqdefault.jpg",
@@ -3959,20 +3967,6 @@
       "uploaded_at": "2026-09-22T01:13:10Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7667174306606042381",
-      "youtube_id": "F1C5YleLjqQ",
-      "title": "This Toddler\u2019s Dad Impression Deserves an Award \ud83d\ude2d",
-      "tiktok_views": 64300,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/F1C5YleLjqQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-21T23:41:10Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1Rpog9f2_p9p4yRxnVf3j_ahrIAer6BcB",
@@ -3993,7 +3987,7 @@
       "youtube_id": "Zylx7Mdmo3Y",
       "title": "French-Style Cream-Filled Puff Pastry Cones \u2728",
       "tiktok_views": 147400,
-      "youtube_views": 14,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Zylx7Mdmo3Y/hqdefault.jpg",
@@ -4105,7 +4099,7 @@
       "youtube_id": "dYg3UW7tDXs",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 18124,
+      "youtube_views": 18126,
       "youtube_likes": 84,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
@@ -4175,7 +4169,7 @@
       "youtube_id": "sokHcTBesZI",
       "title": "Watch This Beautiful Nail Art Come To Life \ud83d\udc85\ud83d\udc96",
       "tiktok_views": 0,
-      "youtube_views": 28201,
+      "youtube_views": 28205,
       "youtube_likes": 122,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/sokHcTBesZI/hqdefault.jpg",
@@ -4271,79 +4265,87 @@
     },
     "view_history": [
       {
-        "date": "2026-09-21",
-        "views": 2,
-        "uploads": 1,
-        "cumulative_views": 2
-      },
-      {
         "date": "2026-09-22",
         "views": 30,
         "uploads": 3,
-        "cumulative_views": 32
+        "cumulative_views": 30
       },
       {
         "date": "2026-09-23",
         "views": 13,
         "uploads": 3,
-        "cumulative_views": 45
+        "cumulative_views": 43
       },
       {
         "date": "2026-09-24",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 49
+        "cumulative_views": 47
       },
       {
         "date": "2026-09-25",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 50
+        "cumulative_views": 48
       },
       {
         "date": "2026-09-26",
         "views": 25,
         "uploads": 3,
-        "cumulative_views": 75
+        "cumulative_views": 73
       },
       {
         "date": "2026-09-27",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 80
+        "cumulative_views": 78
       },
       {
         "date": "2026-09-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 81
+        "cumulative_views": 79
       },
       {
         "date": "2026-09-29",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 84
+        "cumulative_views": 82
       },
       {
         "date": "2026-09-30",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 85
+        "cumulative_views": 83
       },
       {
         "date": "2026-10-01",
         "views": 4,
         "uploads": 1,
-        "cumulative_views": 89
+        "cumulative_views": 87
       },
       {
         "date": "2026-10-08",
         "views": 0,
-        "uploads": 1,
-        "cumulative_views": 89
+        "uploads": 2,
+        "cumulative_views": 87
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7693215143752158478",
+        "youtube_id": "mE0XSH_no08",
+        "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
+        "tiktok_views": 995200,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/mE0XSH_no08/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-08T08:22:24Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4749,20 +4751,6 @@
         "thumbnail": "https://i.ytimg.com/vi/ExPudnPFOBU/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-22T02:09:58Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7667174306606042381",
-        "youtube_id": "F1C5YleLjqQ",
-        "title": "This Toddler\u2019s Dad Impression Deserves an Award \ud83d\ude2d",
-        "tiktok_views": 64300,
-        "youtube_views": 2,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/F1C5YleLjqQ/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-21T23:41:10Z"
       }
     ],
     "runs": [
@@ -4969,8 +4957,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 191,
-    "total_views": 138322,
+    "total_uploads": 192,
+    "total_views": 138336,
     "total_likes": 623,
     "videos_per_day": 12
   },
@@ -5202,5 +5190,5 @@
       "created_at": "2026-09-25T17:17:11.150326+00:00"
     }
   ],
-  "last_updated": "2026-10-08T08:22:06.966827+00:00"
+  "last_updated": "2026-10-08T21:07:22.017903+00:00"
 }
