@@ -43,98 +43,98 @@
     {
       "date": "2026-09-21",
       "ch1_views": 0,
-      "ch2_views": 41,
+      "ch2_views": 15,
       "ch3_views": 128205,
       "ch4_views": 0,
-      "total_views": 128246
+      "total_views": 128220
     },
     {
       "date": "2026-09-22",
       "ch1_views": 30,
-      "ch2_views": 123,
+      "ch2_views": 97,
       "ch3_views": 135553,
       "ch4_views": 0,
-      "total_views": 135706
+      "total_views": 135680
     },
     {
       "date": "2026-09-23",
       "ch1_views": 43,
-      "ch2_views": 145,
+      "ch2_views": 119,
       "ch3_views": 135636,
       "ch4_views": 0,
-      "total_views": 135824
+      "total_views": 135798
     },
     {
       "date": "2026-09-24",
       "ch1_views": 47,
-      "ch2_views": 151,
+      "ch2_views": 125,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 198
+      "total_views": 172
     },
     {
       "date": "2026-09-25",
       "ch1_views": 48,
-      "ch2_views": 156,
+      "ch2_views": 130,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 204
+      "total_views": 178
     },
     {
       "date": "2026-09-26",
       "ch1_views": 73,
-      "ch2_views": 182,
+      "ch2_views": 156,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 255
+      "total_views": 229
     },
     {
       "date": "2026-09-27",
       "ch1_views": 78,
-      "ch2_views": 187,
+      "ch2_views": 161,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 265
+      "total_views": 239
     },
     {
       "date": "2026-09-28",
       "ch1_views": 79,
-      "ch2_views": 220,
+      "ch2_views": 194,
       "ch3_views": 135654,
       "ch4_views": 557,
-      "total_views": 136510
+      "total_views": 136484
     },
     {
       "date": "2026-09-29",
       "ch1_views": 82,
-      "ch2_views": 259,
+      "ch2_views": 233,
       "ch3_views": 135714,
       "ch4_views": 636,
-      "total_views": 136691
+      "total_views": 136665
     },
     {
       "date": "2026-09-30",
       "ch1_views": 83,
-      "ch2_views": 315,
+      "ch2_views": 289,
       "ch3_views": 135808,
       "ch4_views": 842,
-      "total_views": 137048
+      "total_views": 137022
     },
     {
       "date": "2026-10-01",
       "ch1_views": 87,
-      "ch2_views": 322,
+      "ch2_views": 296,
       "ch3_views": 135829,
       "ch4_views": 1056,
-      "total_views": 137294
+      "total_views": 137268
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 87,
-      "ch2_views": 0,
-      "ch3_views": 135858,
-      "ch4_views": 1085,
-      "total_views": 137030
+      "ch1_views": 88,
+      "ch2_views": 296,
+      "ch3_views": 135859,
+      "ch4_views": 1088,
+      "total_views": 137331
     }
   ],
   "channels": {
@@ -245,9 +245,9 @@
         },
         {
           "date": "2026-10-08",
-          "views": 0,
+          "views": 1,
           "uploads": 2,
-          "cumulative_views": 87
+          "cumulative_views": 88
         }
       ],
       "videos": [
@@ -272,7 +272,7 @@
           "youtube_id": "yhYoebidcRo",
           "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
           "tiktok_views": 42500,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yhYoebidcRo/hqdefault.jpg",
@@ -922,72 +922,92 @@
       "view_history": [
         {
           "date": "2026-09-21",
-          "views": 41,
-          "uploads": 2,
-          "cumulative_views": 41
+          "views": 15,
+          "uploads": 1,
+          "cumulative_views": 15
         },
         {
           "date": "2026-09-22",
           "views": 82,
           "uploads": 3,
-          "cumulative_views": 123
+          "cumulative_views": 97
         },
         {
           "date": "2026-09-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 145
+          "cumulative_views": 119
         },
         {
           "date": "2026-09-24",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 151
+          "cumulative_views": 125
         },
         {
           "date": "2026-09-25",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 156
+          "cumulative_views": 130
         },
         {
           "date": "2026-09-26",
           "views": 26,
           "uploads": 3,
-          "cumulative_views": 182
+          "cumulative_views": 156
         },
         {
           "date": "2026-09-27",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 187
+          "cumulative_views": 161
         },
         {
           "date": "2026-09-28",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 220
+          "cumulative_views": 194
         },
         {
           "date": "2026-09-29",
           "views": 39,
           "uploads": 3,
-          "cumulative_views": 259
+          "cumulative_views": 233
         },
         {
           "date": "2026-09-30",
           "views": 56,
           "uploads": 3,
-          "cumulative_views": 315
+          "cumulative_views": 289
         },
         {
           "date": "2026-10-01",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 322
+          "cumulative_views": 296
+        },
+        {
+          "date": "2026-10-08",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 296
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7693994819730820365",
+          "youtube_id": "MD9VcCPCjd0",
+          "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
+          "tiktok_views": 234700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-08T21:08:02Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1393,20 +1413,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Zylx7Mdmo3Y/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-21T22:17:28Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7687676282833816846",
-          "youtube_id": "SUB7W4dNQHg",
-          "title": "Crispy Cabbage Croquettes with Garlic Yogurt Sauce \u2728",
-          "tiktok_views": 202600,
-          "youtube_views": 26,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/SUB7W4dNQHg/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-21T16:12:49Z"
         }
       ],
       "runs": [
@@ -1725,9 +1731,9 @@
         },
         {
           "date": "2026-10-08",
-          "views": 29,
+          "views": 30,
           "uploads": 1,
-          "cumulative_views": 135858
+          "cumulative_views": 135859
         }
       ],
       "videos": [
@@ -1738,7 +1744,7 @@
           "youtube_id": "AHG0PkBRynA",
           "title": "Extracting fluid from fungal nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 29,
+          "youtube_views": 30,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/AHG0PkBRynA/hqdefault.jpg",
@@ -2410,9 +2416,9 @@
         },
         {
           "date": "2026-10-08",
-          "views": 29,
+          "views": 32,
           "uploads": 2,
-          "cumulative_views": 1085
+          "cumulative_views": 1088
         }
       ],
       "videos": [
@@ -2423,7 +2429,7 @@
           "youtube_id": "-ICAQ6VlhLY",
           "title": "Legit Work From Home Job Opening \ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 14,
+          "youtube_views": 17,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-ICAQ6VlhLY/hqdefault.jpg",
@@ -2805,6 +2811,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7693994819730820365",
+      "youtube_id": "MD9VcCPCjd0",
+      "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
+      "tiktok_views": 234700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-08T21:08:02Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7693215143752158478",
@@ -2825,7 +2845,7 @@
       "youtube_id": "yhYoebidcRo",
       "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
       "tiktok_views": 42500,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yhYoebidcRo/hqdefault.jpg",
@@ -2839,7 +2859,7 @@
       "youtube_id": "-ICAQ6VlhLY",
       "title": "Legit Work From Home Job Opening \ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 14,
+      "youtube_views": 17,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-ICAQ6VlhLY/hqdefault.jpg",
@@ -2853,7 +2873,7 @@
       "youtube_id": "AHG0PkBRynA",
       "title": "Extracting fluid from fungal nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 29,
+      "youtube_views": 30,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/AHG0PkBRynA/hqdefault.jpg",
@@ -4009,20 +4029,6 @@
       "uploaded_at": "2026-09-21T17:29:34Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7687676282833816846",
-      "youtube_id": "SUB7W4dNQHg",
-      "title": "Crispy Cabbage Croquettes with Garlic Yogurt Sauce \u2728",
-      "tiktok_views": 202600,
-      "youtube_views": 26,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/SUB7W4dNQHg/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-21T16:12:49Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1_YSoNatdwAu_BI_eAqEuNbsHlsVSJNXh",
@@ -4326,9 +4332,9 @@
       },
       {
         "date": "2026-10-08",
-        "views": 0,
+        "views": 1,
         "uploads": 2,
-        "cumulative_views": 87
+        "cumulative_views": 88
       }
     ],
     "videos": [
@@ -4353,7 +4359,7 @@
         "youtube_id": "yhYoebidcRo",
         "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
         "tiktok_views": 42500,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/yhYoebidcRo/hqdefault.jpg",
@@ -5190,5 +5196,5 @@
       "created_at": "2026-09-25T17:17:11.150326+00:00"
     }
   ],
-  "last_updated": "2026-10-08T21:07:22.017903+00:00"
+  "last_updated": "2026-10-08T21:58:12.638870+00:00"
 }
