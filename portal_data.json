@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 197,
+    "total_uploads": 198,
     "total_views": 138336,
     "total_likes": 625,
     "total_subscribers": 84,
@@ -51,98 +51,98 @@
     {
       "date": "2026-09-22",
       "ch1_views": 15,
-      "ch2_views": 84,
+      "ch2_views": 37,
       "ch3_views": 135554,
       "ch4_views": 0,
-      "total_views": 135653
+      "total_views": 135606
     },
     {
       "date": "2026-09-23",
       "ch1_views": 28,
-      "ch2_views": 106,
+      "ch2_views": 59,
       "ch3_views": 135637,
       "ch4_views": 0,
-      "total_views": 135771
+      "total_views": 135724
     },
     {
       "date": "2026-09-24",
       "ch1_views": 32,
-      "ch2_views": 112,
+      "ch2_views": 65,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 144
+      "total_views": 97
     },
     {
       "date": "2026-09-25",
       "ch1_views": 33,
-      "ch2_views": 117,
+      "ch2_views": 70,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 150
+      "total_views": 103
     },
     {
       "date": "2026-09-26",
       "ch1_views": 58,
-      "ch2_views": 144,
+      "ch2_views": 97,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 202
+      "total_views": 155
     },
     {
       "date": "2026-09-27",
       "ch1_views": 63,
-      "ch2_views": 149,
+      "ch2_views": 102,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 212
+      "total_views": 165
     },
     {
       "date": "2026-09-28",
       "ch1_views": 64,
-      "ch2_views": 182,
+      "ch2_views": 135,
       "ch3_views": 135655,
       "ch4_views": 557,
-      "total_views": 136458
+      "total_views": 136411
     },
     {
       "date": "2026-09-29",
       "ch1_views": 67,
-      "ch2_views": 221,
+      "ch2_views": 174,
       "ch3_views": 135715,
       "ch4_views": 636,
-      "total_views": 136639
+      "total_views": 136592
     },
     {
       "date": "2026-09-30",
       "ch1_views": 68,
-      "ch2_views": 277,
+      "ch2_views": 230,
       "ch3_views": 135809,
       "ch4_views": 842,
-      "total_views": 136996
+      "total_views": 136949
     },
     {
       "date": "2026-10-01",
       "ch1_views": 72,
-      "ch2_views": 284,
+      "ch2_views": 237,
       "ch3_views": 135830,
       "ch4_views": 1056,
-      "total_views": 137242
+      "total_views": 137195
     },
     {
       "date": "2026-10-08",
       "ch1_views": 74,
-      "ch2_views": 288,
+      "ch2_views": 241,
       "ch3_views": 135885,
       "ch4_views": 1096,
-      "total_views": 137343
+      "total_views": 137296
     },
     {
       "date": "2026-10-09",
       "ch1_views": 74,
-      "ch2_views": 289,
+      "ch2_views": 242,
       "ch3_views": 135886,
-      "ch4_views": 1249,
-      "total_views": 137498
+      "ch4_views": 1250,
+      "total_views": 137452
     }
   ],
   "channels": {
@@ -936,78 +936,92 @@
       "view_history": [
         {
           "date": "2026-09-22",
-          "views": 84,
-          "uploads": 3,
-          "cumulative_views": 84
+          "views": 37,
+          "uploads": 2,
+          "cumulative_views": 37
         },
         {
           "date": "2026-09-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 106
+          "cumulative_views": 59
         },
         {
           "date": "2026-09-24",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 112
+          "cumulative_views": 65
         },
         {
           "date": "2026-09-25",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 117
+          "cumulative_views": 70
         },
         {
           "date": "2026-09-26",
           "views": 27,
           "uploads": 3,
-          "cumulative_views": 144
+          "cumulative_views": 97
         },
         {
           "date": "2026-09-27",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 149
+          "cumulative_views": 102
         },
         {
           "date": "2026-09-28",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 182
+          "cumulative_views": 135
         },
         {
           "date": "2026-09-29",
           "views": 39,
           "uploads": 3,
-          "cumulative_views": 221
+          "cumulative_views": 174
         },
         {
           "date": "2026-09-30",
           "views": 56,
           "uploads": 3,
-          "cumulative_views": 277
+          "cumulative_views": 230
         },
         {
           "date": "2026-10-01",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 284
+          "cumulative_views": 237
         },
         {
           "date": "2026-10-08",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 288
+          "cumulative_views": 241
         },
         {
           "date": "2026-10-09",
           "views": 1,
-          "uploads": 1,
-          "cumulative_views": 289
+          "uploads": 2,
+          "cumulative_views": 242
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7692497439776869645",
+          "youtube_id": "hzmuiSueGYg",
+          "title": "Cheesy Minced Meat Puff Pastry \u2728",
+          "tiktok_views": 248000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/hzmuiSueGYg/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-09T07:21:41Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1413,20 +1427,6 @@
           "thumbnail": "https://i.ytimg.com/vi/y6420JKGQyk/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-22T16:13:46Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7648714975338450189",
-          "youtube_id": "XKCjgS6OaOw",
-          "title": "The French Secret to the Fluffiest Chocolate Banana Cake \u2728",
-          "tiktok_views": 146600,
-          "youtube_views": 47,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/XKCjgS6OaOw/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-22T01:13:10Z"
         }
       ],
       "runs": [
@@ -1647,7 +1647,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 29,
+      "total_uploads": 30,
       "total_views": 135823,
       "total_likes": 612,
       "upcoming": {
@@ -1752,11 +1752,25 @@
         {
           "date": "2026-10-09",
           "views": 1,
-          "uploads": 1,
+          "uploads": 2,
           "cumulative_views": 135886
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1H2h-lR6bn5qk9wVAvErjzWI5WRXwIR-X",
+          "youtube_id": "XwAXRGsO1tk",
+          "title": "Forceps extracting grass from to\u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/XwAXRGsO1tk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-09T07:21:59Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2166,6 +2180,16 @@
       ],
       "runs": [
         {
+          "id": 53,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-09",
+          "status": "success",
+          "video_id": "XwAXRGsO1tk",
+          "error_message": null,
+          "created_at": "2026-10-09T07:22:00.903007+00:00"
+        },
+        {
           "id": 52,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2354,16 +2378,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-25T22:20:56.202435+00:00"
-        },
-        {
-          "id": 33,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-09-25",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-25T17:20:32.829198+00:00"
         }
       ]
     },
@@ -2456,9 +2470,9 @@
         },
         {
           "date": "2026-10-09",
-          "views": 153,
+          "views": 154,
           "uploads": 1,
-          "cumulative_views": 1249
+          "cumulative_views": 1250
         }
       ],
       "videos": [
@@ -2469,7 +2483,7 @@
           "youtube_id": "2eJ5gXy-2Cs",
           "title": "Remote Job Alert \u2014 Person typing on laptop keyboard! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 153,
+          "youtube_views": 154,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2eJ5gXy-2Cs/hqdefault.jpg",
@@ -2865,6 +2879,34 @@
   },
   "videos": [
     {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1H2h-lR6bn5qk9wVAvErjzWI5WRXwIR-X",
+      "youtube_id": "XwAXRGsO1tk",
+      "title": "Forceps extracting grass from to\u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/XwAXRGsO1tk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-09T07:21:59Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7692497439776869645",
+      "youtube_id": "hzmuiSueGYg",
+      "title": "Cheesy Minced Meat Puff Pastry \u2728",
+      "tiktok_views": 248000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/hzmuiSueGYg/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-09T07:21:41Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7692812575070817550",
@@ -2885,7 +2927,7 @@
       "youtube_id": "2eJ5gXy-2Cs",
       "title": "Remote Job Alert \u2014 Person typing on laptop keyboard! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 153,
+      "youtube_views": 154,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2eJ5gXy-2Cs/hqdefault.jpg",
@@ -4069,20 +4111,6 @@
       "uploaded_at": "2026-09-22T01:23:13Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7648714975338450189",
-      "youtube_id": "XKCjgS6OaOw",
-      "title": "The French Secret to the Fluffiest Chocolate Banana Cake \u2728",
-      "tiktok_views": 146600,
-      "youtube_views": 47,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/XKCjgS6OaOw/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-22T01:13:10Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1Rpog9f2_p9p4yRxnVf3j_ahrIAer6BcB",
@@ -5051,7 +5079,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 197,
+    "total_uploads": 198,
     "total_views": 138336,
     "total_likes": 625,
     "videos_per_day": 12
@@ -5284,5 +5312,5 @@
       "created_at": "2026-09-25T23:40:45.609598+00:00"
     }
   ],
-  "last_updated": "2026-10-09T07:21:20.878931+00:00"
+  "last_updated": "2026-10-09T07:22:04.369897+00:00"
 }
