@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 198,
+    "total_uploads": 199,
     "total_views": 138336,
     "total_likes": 625,
     "total_subscribers": 84,
@@ -133,16 +133,16 @@
       "ch1_views": 74,
       "ch2_views": 241,
       "ch3_views": 135885,
-      "ch4_views": 1096,
-      "total_views": 137296
+      "ch4_views": 1098,
+      "total_views": 137298
     },
     {
       "date": "2026-10-09",
       "ch1_views": 74,
       "ch2_views": 242,
       "ch3_views": 135886,
-      "ch4_views": 1250,
-      "total_views": 137452
+      "ch4_views": 1251,
+      "total_views": 137453
     }
   ],
   "channels": {
@@ -1769,7 +1769,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XwAXRGsO1tk/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-10-09T07:21:59Z"
+          "uploaded_at": "2026-10-09T07:22:23Z"
         },
         {
           "channel_id": "channel_3",
@@ -2396,7 +2396,7 @@
       "avatar_letter": "R",
       "category": "Remote Work & Side Hustles",
       "subscribers": 3,
-      "total_uploads": 14,
+      "total_uploads": 15,
       "total_views": 1056,
       "total_likes": 12,
       "upcoming": {
@@ -2464,18 +2464,32 @@
         },
         {
           "date": "2026-10-08",
-          "views": 40,
+          "views": 42,
           "uploads": 2,
-          "cumulative_views": 1096
+          "cumulative_views": 1098
         },
         {
           "date": "2026-10-09",
-          "views": 154,
-          "uploads": 1,
-          "cumulative_views": 1250
+          "views": 153,
+          "uploads": 2,
+          "cumulative_views": 1251
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_4",
+          "channel_name": "Remote Jobs WFH",
+          "tiktok_id": "1IjSWyCSMvX1JJVy9URKQQKM4mvfjhTQb",
+          "youtube_id": "9tqb3p2emOk",
+          "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udcbc\ud83d\udd25",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/9tqb3p2emOk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-09T07:33:12Z"
+        },
         {
           "channel_id": "channel_4",
           "channel_name": "Remote Jobs WFH",
@@ -2483,7 +2497,7 @@
           "youtube_id": "2eJ5gXy-2Cs",
           "title": "Remote Job Alert \u2014 Person typing on laptop keyboard! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 154,
+          "youtube_views": 153,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2eJ5gXy-2Cs/hqdefault.jpg",
@@ -2497,7 +2511,7 @@
           "youtube_id": "-ICAQ6VlhLY",
           "title": "Legit Work From Home Job Opening \ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 21,
+          "youtube_views": 23,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-ICAQ6VlhLY/hqdefault.jpg",
@@ -2674,6 +2688,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 46,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-10-09",
+          "status": "success",
+          "video_id": "9tqb3p2emOk",
+          "error_message": null,
+          "created_at": "2026-10-09T07:33:14.274363+00:00"
+        },
         {
           "id": 45,
           "channel_id": "channel_4",
@@ -2863,21 +2887,25 @@
           "video_id": null,
           "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
           "created_at": "2026-09-26T01:30:06.136617+00:00"
-        },
-        {
-          "id": 26,
-          "channel_id": "channel_4",
-          "slot": 2,
-          "run_date": "2026-09-25",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
-          "created_at": "2026-09-25T22:27:19.360309+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_4",
+      "channel_name": "Remote Jobs WFH",
+      "tiktok_id": "1IjSWyCSMvX1JJVy9URKQQKM4mvfjhTQb",
+      "youtube_id": "9tqb3p2emOk",
+      "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udcbc\ud83d\udd25",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/9tqb3p2emOk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-09T07:33:12Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -2890,7 +2918,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XwAXRGsO1tk/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-10-09T07:21:59Z"
+      "uploaded_at": "2026-10-09T07:22:23Z"
     },
     {
       "channel_id": "channel_2",
@@ -2927,7 +2955,7 @@
       "youtube_id": "2eJ5gXy-2Cs",
       "title": "Remote Job Alert \u2014 Person typing on laptop keyboard! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 154,
+      "youtube_views": 153,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2eJ5gXy-2Cs/hqdefault.jpg",
@@ -3011,7 +3039,7 @@
       "youtube_id": "-ICAQ6VlhLY",
       "title": "Legit Work From Home Job Opening \ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 21,
+      "youtube_views": 23,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-ICAQ6VlhLY/hqdefault.jpg",
@@ -5079,7 +5107,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 198,
+    "total_uploads": 199,
     "total_views": 138336,
     "total_likes": 625,
     "videos_per_day": 12
@@ -5312,5 +5340,5 @@
       "created_at": "2026-09-25T23:40:45.609598+00:00"
     }
   ],
-  "last_updated": "2026-10-09T07:22:04.369897+00:00"
+  "last_updated": "2026-10-09T07:33:18.082076+00:00"
 }
