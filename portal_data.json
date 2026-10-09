@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 195,
+    "total_uploads": 196,
     "total_views": 138336,
     "total_likes": 623,
     "total_subscribers": 84,
@@ -141,8 +141,8 @@
       "ch1_views": 0,
       "ch2_views": 285,
       "ch3_views": 135870,
-      "ch4_views": 1093,
-      "total_views": 137248
+      "ch4_views": 1245,
+      "total_views": 137400
     }
   ],
   "channels": {
@@ -161,7 +161,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 77,
+      "total_uploads": 78,
       "total_views": 614,
       "total_likes": 1,
       "upcoming": {
@@ -682,6 +682,16 @@
       ],
       "runs": [
         {
+          "id": 87,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-10-09",
+          "status": "success",
+          "video_id": "_XFa5DxfmXg",
+          "error_message": null,
+          "created_at": "2026-10-09T03:03:19.826602+00:00"
+        },
+        {
           "id": 86,
           "channel_id": "channel_1",
           "slot": 3,
@@ -870,16 +880,6 @@
           "video_id": "6TlJoja9qEs",
           "error_message": null,
           "created_at": "2026-09-25T23:40:45.609598+00:00"
-        },
-        {
-          "id": 67,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-25",
-          "status": "success",
-          "video_id": "MXt0Ix3blQo",
-          "error_message": null,
-          "created_at": "2026-09-25T17:17:11.150326+00:00"
         }
       ]
     },
@@ -2450,9 +2450,9 @@
         },
         {
           "date": "2026-10-09",
-          "views": 0,
+          "views": 152,
           "uploads": 1,
-          "cumulative_views": 1093
+          "cumulative_views": 1245
         }
       ],
       "videos": [
@@ -2463,12 +2463,12 @@
           "youtube_id": "2eJ5gXy-2Cs",
           "title": "Remote Job Alert \u2014 Person typing on laptop keyboard! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 152,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2eJ5gXy-2Cs/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-10-09T02:20:08Z"
+          "uploaded_at": "2026-10-09T02:20:30Z"
         },
         {
           "channel_id": "channel_4",
@@ -2865,12 +2865,12 @@
       "youtube_id": "2eJ5gXy-2Cs",
       "title": "Remote Job Alert \u2014 Person typing on laptop keyboard! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 152,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2eJ5gXy-2Cs/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-10-09T02:20:08Z"
+      "uploaded_at": "2026-10-09T02:20:30Z"
     },
     {
       "channel_id": "channel_3",
@@ -4316,7 +4316,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 77,
+    "total_uploads": 78,
     "total_views": 614,
     "total_likes": 1,
     "upcoming": {
@@ -4837,6 +4837,16 @@
     ],
     "runs": [
       {
+        "id": 87,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-10-09",
+        "status": "success",
+        "video_id": "_XFa5DxfmXg",
+        "error_message": null,
+        "created_at": "2026-10-09T03:03:19.826602+00:00"
+      },
+      {
         "id": 86,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5025,21 +5035,11 @@
         "video_id": "6TlJoja9qEs",
         "error_message": null,
         "created_at": "2026-09-25T23:40:45.609598+00:00"
-      },
-      {
-        "id": 67,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-25",
-        "status": "success",
-        "video_id": "MXt0Ix3blQo",
-        "error_message": null,
-        "created_at": "2026-09-25T17:17:11.150326+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 195,
+    "total_uploads": 196,
     "total_views": 138336,
     "total_likes": 623,
     "videos_per_day": 12
@@ -5071,6 +5071,16 @@
     }
   },
   "runs": [
+    {
+      "id": 87,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-10-09",
+      "status": "success",
+      "video_id": "_XFa5DxfmXg",
+      "error_message": null,
+      "created_at": "2026-10-09T03:03:19.826602+00:00"
+    },
     {
       "id": 86,
       "channel_id": "channel_1",
@@ -5260,17 +5270,7 @@
       "video_id": "6TlJoja9qEs",
       "error_message": null,
       "created_at": "2026-09-25T23:40:45.609598+00:00"
-    },
-    {
-      "id": 67,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-25",
-      "status": "success",
-      "video_id": "MXt0Ix3blQo",
-      "error_message": null,
-      "created_at": "2026-09-25T17:17:11.150326+00:00"
     }
   ],
-  "last_updated": "2026-10-09T02:20:14.092569+00:00"
+  "last_updated": "2026-10-09T03:03:24.488274+00:00"
 }
