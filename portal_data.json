@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 203,
+    "total_uploads": 204,
     "total_views": 138346,
-    "total_likes": 625,
+    "total_likes": 623,
     "total_subscribers": 84,
     "channels_count": 4,
     "videos_per_day": 12
@@ -12,57 +12,57 @@
       "date": "2026-09-16",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 341,
+      "ch3_views": 254,
       "ch4_views": 0,
-      "total_views": 341
+      "total_views": 254
     },
     {
       "date": "2026-09-18",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 32241,
+      "ch3_views": 32154,
       "ch4_views": 0,
-      "total_views": 32241
+      "total_views": 32154
     },
     {
       "date": "2026-09-19",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 104537,
+      "ch3_views": 104450,
       "ch4_views": 67,
-      "total_views": 104604
+      "total_views": 104517
     },
     {
       "date": "2026-09-20",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 106994,
+      "ch3_views": 106907,
       "ch4_views": 230,
-      "total_views": 107224
+      "total_views": 107137
     },
     {
       "date": "2026-09-21",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 128219,
+      "ch3_views": 128125,
       "ch4_views": 0,
-      "total_views": 128219
+      "total_views": 128125
     },
     {
       "date": "2026-09-22",
       "ch1_views": 0,
       "ch2_views": 4,
-      "ch3_views": 135569,
+      "ch3_views": 135475,
       "ch4_views": 0,
-      "total_views": 135573
+      "total_views": 135479
     },
     {
       "date": "2026-09-23",
       "ch1_views": 13,
       "ch2_views": 26,
-      "ch3_views": 135653,
+      "ch3_views": 135559,
       "ch4_views": 0,
-      "total_views": 135692
+      "total_views": 135598
     },
     {
       "date": "2026-09-24",
@@ -100,49 +100,49 @@
       "date": "2026-09-28",
       "ch1_views": 49,
       "ch2_views": 103,
-      "ch3_views": 135673,
+      "ch3_views": 135579,
       "ch4_views": 557,
-      "total_views": 136382
+      "total_views": 136288
     },
     {
       "date": "2026-09-29",
       "ch1_views": 52,
       "ch2_views": 142,
-      "ch3_views": 135738,
+      "ch3_views": 135644,
       "ch4_views": 636,
-      "total_views": 136568
+      "total_views": 136474
     },
     {
       "date": "2026-09-30",
       "ch1_views": 53,
       "ch2_views": 199,
-      "ch3_views": 135837,
+      "ch3_views": 135743,
       "ch4_views": 842,
-      "total_views": 136931
+      "total_views": 136837
     },
     {
       "date": "2026-10-01",
       "ch1_views": 57,
       "ch2_views": 206,
-      "ch3_views": 135859,
+      "ch3_views": 135765,
       "ch4_views": 1056,
-      "total_views": 137178
+      "total_views": 137084
     },
     {
       "date": "2026-10-08",
       "ch1_views": 59,
       "ch2_views": 213,
-      "ch3_views": 135953,
+      "ch3_views": 135857,
       "ch4_views": 1101,
-      "total_views": 137326
+      "total_views": 137230
     },
     {
       "date": "2026-10-09",
       "ch1_views": 59,
-      "ch2_views": 221,
-      "ch3_views": 135965,
+      "ch2_views": 220,
+      "ch3_views": 135869,
       "ch4_views": 1264,
-      "total_views": 137509
+      "total_views": 137412
     }
   ],
   "channels": {
@@ -996,9 +996,9 @@
         },
         {
           "date": "2026-10-09",
-          "views": 8,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 221
+          "cumulative_views": 220
         }
       ],
       "videos": [
@@ -1023,7 +1023,7 @@
           "youtube_id": "hzmuiSueGYg",
           "title": "Cheesy Minced Meat Puff Pastry \u2728",
           "tiktok_views": 248000,
-          "youtube_views": 4,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/hzmuiSueGYg/hqdefault.jpg",
@@ -1643,7 +1643,7 @@
       "subscribers": 76,
       "total_uploads": 31,
       "total_views": 135829,
-      "total_likes": 612,
+      "total_likes": 610,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1673,84 +1673,98 @@
       "view_history": [
         {
           "date": "2026-09-16",
-          "views": 341,
-          "uploads": 2,
-          "cumulative_views": 341
+          "views": 254,
+          "uploads": 1,
+          "cumulative_views": 254
         },
         {
           "date": "2026-09-18",
           "views": 31900,
           "uploads": 3,
-          "cumulative_views": 32241
+          "cumulative_views": 32154
         },
         {
           "date": "2026-09-19",
           "views": 72296,
           "uploads": 3,
-          "cumulative_views": 104537
+          "cumulative_views": 104450
         },
         {
           "date": "2026-09-20",
           "views": 2457,
           "uploads": 3,
-          "cumulative_views": 106994
+          "cumulative_views": 106907
         },
         {
           "date": "2026-09-21",
-          "views": 21225,
+          "views": 21218,
           "uploads": 3,
-          "cumulative_views": 128219
+          "cumulative_views": 128125
         },
         {
           "date": "2026-09-22",
           "views": 7350,
           "uploads": 3,
-          "cumulative_views": 135569
+          "cumulative_views": 135475
         },
         {
           "date": "2026-09-23",
           "views": 84,
           "uploads": 1,
-          "cumulative_views": 135653
+          "cumulative_views": 135559
         },
         {
           "date": "2026-09-28",
           "views": 20,
           "uploads": 2,
-          "cumulative_views": 135673
+          "cumulative_views": 135579
         },
         {
           "date": "2026-09-29",
           "views": 65,
           "uploads": 3,
-          "cumulative_views": 135738
+          "cumulative_views": 135644
         },
         {
           "date": "2026-09-30",
           "views": 99,
           "uploads": 3,
-          "cumulative_views": 135837
+          "cumulative_views": 135743
         },
         {
           "date": "2026-10-01",
           "views": 22,
           "uploads": 1,
-          "cumulative_views": 135859
+          "cumulative_views": 135765
         },
         {
           "date": "2026-10-08",
-          "views": 94,
+          "views": 92,
           "uploads": 1,
-          "cumulative_views": 135953
+          "cumulative_views": 135857
         },
         {
           "date": "2026-10-09",
           "views": 12,
-          "uploads": 2,
-          "cumulative_views": 135965
+          "uploads": 3,
+          "cumulative_views": 135869
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "11esiQfsoFt3TpKDpm1s6_aMzKPAL_eY8",
+          "youtube_id": "e_uGYLvRg2s",
+          "title": "Forceps extracting metal from to\u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/e_uGYLvRg2s/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-09T21:40:26Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1786,7 +1800,7 @@
           "youtube_id": "AHG0PkBRynA",
           "title": "Extracting fluid from fungal nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 94,
+          "youtube_views": 92,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/AHG0PkBRynA/hqdefault.jpg",
@@ -1996,7 +2010,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18516,
+          "youtube_views": 18509,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -2156,20 +2170,6 @@
           "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-16T08:43:02Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "BOYWYj2Iix8",
-          "youtube_id": "BOYWYj2Iix8",
-          "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
-          "tiktok_views": 0,
-          "youtube_views": 87,
-          "youtube_likes": 2,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-16T06:54:31Z"
         }
       ],
       "runs": [
@@ -2390,7 +2390,7 @@
       "avatar_letter": "R",
       "category": "Remote Work & Side Hustles",
       "subscribers": 3,
-      "total_uploads": 15,
+      "total_uploads": 16,
       "total_views": 1056,
       "total_likes": 12,
       "upcoming": {
@@ -2465,11 +2465,25 @@
         {
           "date": "2026-10-09",
           "views": 163,
-          "uploads": 2,
+          "uploads": 3,
           "cumulative_views": 1264
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_4",
+          "channel_name": "Remote Jobs WFH",
+          "tiktok_id": "1aeD5Jj8OF5u-gQ844amesh7iAUR0RuE1",
+          "youtube_id": "50qJCs438SM",
+          "title": "Top Remote Job You Can Do From Home \ud83d\udcbb\ud83c\udf0e",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/50qJCs438SM/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-09T21:50:40Z"
+        },
         {
           "channel_id": "channel_4",
           "channel_name": "Remote Jobs WFH",
@@ -2683,6 +2697,16 @@
       ],
       "runs": [
         {
+          "id": 47,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-10-09",
+          "status": "success",
+          "video_id": "50qJCs438SM",
+          "error_message": null,
+          "created_at": "2026-10-09T21:50:41.730824+00:00"
+        },
+        {
           "id": 46,
           "channel_id": "channel_4",
           "slot": 3,
@@ -2871,21 +2895,39 @@
           "video_id": null,
           "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
           "created_at": "2026-09-26T17:33:08.082704+00:00"
-        },
-        {
-          "id": 27,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-09-26",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
-          "created_at": "2026-09-26T01:30:06.136617+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_4",
+      "channel_name": "Remote Jobs WFH",
+      "tiktok_id": "1aeD5Jj8OF5u-gQ844amesh7iAUR0RuE1",
+      "youtube_id": "50qJCs438SM",
+      "title": "Top Remote Job You Can Do From Home \ud83d\udcbb\ud83c\udf0e",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/50qJCs438SM/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-09T21:50:40Z"
+    },
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "11esiQfsoFt3TpKDpm1s6_aMzKPAL_eY8",
+      "youtube_id": "e_uGYLvRg2s",
+      "title": "Forceps extracting metal from to\u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/e_uGYLvRg2s/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-09T21:40:26Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -2963,7 +3005,7 @@
       "youtube_id": "hzmuiSueGYg",
       "title": "Cheesy Minced Meat Puff Pastry \u2728",
       "tiktok_views": 248000,
-      "youtube_views": 4,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/hzmuiSueGYg/hqdefault.jpg",
@@ -3089,7 +3131,7 @@
       "youtube_id": "AHG0PkBRynA",
       "title": "Extracting fluid from fungal nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 94,
+      "youtube_views": 92,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/AHG0PkBRynA/hqdefault.jpg",
@@ -4153,7 +4195,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18516,
+      "youtube_views": 18509,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -4341,20 +4383,6 @@
       "thumbnail": "https://i.ytimg.com/vi/POwv_169GCk/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-16T08:43:02Z"
-    },
-    {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "BOYWYj2Iix8",
-      "youtube_id": "BOYWYj2Iix8",
-      "title": "Extreme Nail Cleaning ASMR | Satisfying Deep Clean",
-      "tiktok_views": 0,
-      "youtube_views": 87,
-      "youtube_likes": 2,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/BOYWYj2Iix8/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-16T06:54:31Z"
     }
   ],
   "channel": {
@@ -5095,9 +5123,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 203,
+    "total_uploads": 204,
     "total_views": 138346,
-    "total_likes": 625,
+    "total_likes": 623,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5328,5 +5356,5 @@
       "created_at": "2026-09-26T17:15:49.447658+00:00"
     }
   ],
-  "last_updated": "2026-10-09T21:40:09.570803+00:00"
+  "last_updated": "2026-10-09T21:50:46.032281+00:00"
 }
