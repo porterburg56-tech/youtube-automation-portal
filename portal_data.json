@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 199,
+    "total_uploads": 200,
     "total_views": 138336,
     "total_likes": 625,
     "total_subscribers": 84,
@@ -140,9 +140,9 @@
       "date": "2026-10-09",
       "ch1_views": 74,
       "ch2_views": 242,
-      "ch3_views": 135886,
-      "ch4_views": 1251,
-      "total_views": 137453
+      "ch3_views": 135890,
+      "ch4_views": 1253,
+      "total_views": 137459
     }
   ],
   "channels": {
@@ -161,7 +161,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 78,
+      "total_uploads": 79,
       "total_views": 614,
       "total_likes": 1,
       "upcoming": {
@@ -688,6 +688,16 @@
       ],
       "runs": [
         {
+          "id": 88,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-10-09",
+          "status": "success",
+          "video_id": "O_JpXXptDKo",
+          "error_message": null,
+          "created_at": "2026-10-09T08:24:58.002627+00:00"
+        },
+        {
           "id": 87,
           "channel_id": "channel_1",
           "slot": 2,
@@ -876,16 +886,6 @@
           "video_id": "j68v2rHjWyk",
           "error_message": null,
           "created_at": "2026-09-26T02:08:24.013437+00:00"
-        },
-        {
-          "id": 68,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-09-25",
-          "status": "success",
-          "video_id": "6TlJoja9qEs",
-          "error_message": null,
-          "created_at": "2026-09-25T23:40:45.609598+00:00"
         }
       ]
     },
@@ -1751,9 +1751,9 @@
         },
         {
           "date": "2026-10-09",
-          "views": 1,
+          "views": 5,
           "uploads": 2,
-          "cumulative_views": 135886
+          "cumulative_views": 135890
         }
       ],
       "videos": [
@@ -1764,7 +1764,7 @@
           "youtube_id": "XwAXRGsO1tk",
           "title": "Forceps extracting grass from to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XwAXRGsO1tk/hqdefault.jpg",
@@ -1778,7 +1778,7 @@
           "youtube_id": "uhUr5_7Z7aA",
           "title": "Forceps extracting glass from to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/uhUr5_7Z7aA/hqdefault.jpg",
@@ -2470,9 +2470,9 @@
         },
         {
           "date": "2026-10-09",
-          "views": 153,
+          "views": 155,
           "uploads": 2,
-          "cumulative_views": 1251
+          "cumulative_views": 1253
         }
       ],
       "videos": [
@@ -2488,7 +2488,7 @@
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9tqb3p2emOk/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-10-09T07:33:12Z"
+          "uploaded_at": "2026-10-09T07:33:31Z"
         },
         {
           "channel_id": "channel_4",
@@ -2497,7 +2497,7 @@
           "youtube_id": "2eJ5gXy-2Cs",
           "title": "Remote Job Alert \u2014 Person typing on laptop keyboard! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 153,
+          "youtube_views": 155,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2eJ5gXy-2Cs/hqdefault.jpg",
@@ -2904,7 +2904,7 @@
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9tqb3p2emOk/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-10-09T07:33:12Z"
+      "uploaded_at": "2026-10-09T07:33:31Z"
     },
     {
       "channel_id": "channel_3",
@@ -2913,7 +2913,7 @@
       "youtube_id": "XwAXRGsO1tk",
       "title": "Forceps extracting grass from to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XwAXRGsO1tk/hqdefault.jpg",
@@ -2955,7 +2955,7 @@
       "youtube_id": "2eJ5gXy-2Cs",
       "title": "Remote Job Alert \u2014 Person typing on laptop keyboard! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 153,
+      "youtube_views": 155,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2eJ5gXy-2Cs/hqdefault.jpg",
@@ -2969,7 +2969,7 @@
       "youtube_id": "uhUr5_7Z7aA",
       "title": "Forceps extracting glass from to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/uhUr5_7Z7aA/hqdefault.jpg",
@@ -4378,7 +4378,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 78,
+    "total_uploads": 79,
     "total_views": 614,
     "total_likes": 1,
     "upcoming": {
@@ -4905,6 +4905,16 @@
     ],
     "runs": [
       {
+        "id": 88,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-10-09",
+        "status": "success",
+        "video_id": "O_JpXXptDKo",
+        "error_message": null,
+        "created_at": "2026-10-09T08:24:58.002627+00:00"
+      },
+      {
         "id": 87,
         "channel_id": "channel_1",
         "slot": 2,
@@ -5093,21 +5103,11 @@
         "video_id": "j68v2rHjWyk",
         "error_message": null,
         "created_at": "2026-09-26T02:08:24.013437+00:00"
-      },
-      {
-        "id": 68,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-09-25",
-        "status": "success",
-        "video_id": "6TlJoja9qEs",
-        "error_message": null,
-        "created_at": "2026-09-25T23:40:45.609598+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 199,
+    "total_uploads": 200,
     "total_views": 138336,
     "total_likes": 625,
     "videos_per_day": 12
@@ -5139,6 +5139,16 @@
     }
   },
   "runs": [
+    {
+      "id": 88,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-10-09",
+      "status": "success",
+      "video_id": "O_JpXXptDKo",
+      "error_message": null,
+      "created_at": "2026-10-09T08:24:58.002627+00:00"
+    },
     {
       "id": 87,
       "channel_id": "channel_1",
@@ -5328,17 +5338,7 @@
       "video_id": "j68v2rHjWyk",
       "error_message": null,
       "created_at": "2026-09-26T02:08:24.013437+00:00"
-    },
-    {
-      "id": 68,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-09-25",
-      "status": "success",
-      "video_id": "6TlJoja9qEs",
-      "error_message": null,
-      "created_at": "2026-09-25T23:40:45.609598+00:00"
     }
   ],
-  "last_updated": "2026-10-09T07:33:18.082076+00:00"
+  "last_updated": "2026-10-09T08:25:02.506061+00:00"
 }
