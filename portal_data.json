@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 193,
+    "total_uploads": 194,
     "total_views": 138336,
     "total_likes": 623,
     "total_subscribers": 84,
@@ -43,98 +43,106 @@
     {
       "date": "2026-09-21",
       "ch1_views": 0,
-      "ch2_views": 15,
+      "ch2_views": 0,
       "ch3_views": 128205,
       "ch4_views": 0,
-      "total_views": 128220
+      "total_views": 128205
     },
     {
       "date": "2026-09-22",
       "ch1_views": 30,
-      "ch2_views": 99,
+      "ch2_views": 84,
       "ch3_views": 135553,
       "ch4_views": 0,
-      "total_views": 135682
+      "total_views": 135667
     },
     {
       "date": "2026-09-23",
       "ch1_views": 43,
-      "ch2_views": 121,
+      "ch2_views": 106,
       "ch3_views": 135636,
       "ch4_views": 0,
-      "total_views": 135800
+      "total_views": 135785
     },
     {
       "date": "2026-09-24",
       "ch1_views": 47,
-      "ch2_views": 127,
+      "ch2_views": 112,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 174
+      "total_views": 159
     },
     {
       "date": "2026-09-25",
       "ch1_views": 48,
-      "ch2_views": 132,
+      "ch2_views": 117,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 180
+      "total_views": 165
     },
     {
       "date": "2026-09-26",
       "ch1_views": 73,
-      "ch2_views": 158,
+      "ch2_views": 143,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 231
+      "total_views": 216
     },
     {
       "date": "2026-09-27",
       "ch1_views": 78,
-      "ch2_views": 163,
+      "ch2_views": 148,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 241
+      "total_views": 226
     },
     {
       "date": "2026-09-28",
       "ch1_views": 79,
-      "ch2_views": 196,
+      "ch2_views": 181,
       "ch3_views": 135654,
       "ch4_views": 557,
-      "total_views": 136486
+      "total_views": 136471
     },
     {
       "date": "2026-09-29",
       "ch1_views": 82,
-      "ch2_views": 235,
+      "ch2_views": 220,
       "ch3_views": 135714,
       "ch4_views": 636,
-      "total_views": 136667
+      "total_views": 136652
     },
     {
       "date": "2026-09-30",
       "ch1_views": 83,
-      "ch2_views": 291,
+      "ch2_views": 276,
       "ch3_views": 135808,
       "ch4_views": 842,
-      "total_views": 137024
+      "total_views": 137009
     },
     {
       "date": "2026-10-01",
       "ch1_views": 87,
-      "ch2_views": 298,
+      "ch2_views": 283,
       "ch3_views": 135829,
       "ch4_views": 1056,
-      "total_views": 137270
+      "total_views": 137255
     },
     {
       "date": "2026-10-08",
       "ch1_views": 88,
-      "ch2_views": 300,
+      "ch2_views": 283,
       "ch3_views": 135870,
       "ch4_views": 1093,
-      "total_views": 137351
+      "total_views": 137334
+    },
+    {
+      "date": "2026-10-09",
+      "ch1_views": 0,
+      "ch2_views": 283,
+      "ch3_views": 135870,
+      "ch4_views": 0,
+      "total_views": 136153
     }
   ],
   "channels": {
@@ -921,79 +929,93 @@
       },
       "view_history": [
         {
-          "date": "2026-09-21",
-          "views": 15,
-          "uploads": 1,
-          "cumulative_views": 15
-        },
-        {
           "date": "2026-09-22",
           "views": 84,
           "uploads": 3,
-          "cumulative_views": 99
+          "cumulative_views": 84
         },
         {
           "date": "2026-09-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 121
+          "cumulative_views": 106
         },
         {
           "date": "2026-09-24",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 127
+          "cumulative_views": 112
         },
         {
           "date": "2026-09-25",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 132
+          "cumulative_views": 117
         },
         {
           "date": "2026-09-26",
           "views": 26,
           "uploads": 3,
-          "cumulative_views": 158
+          "cumulative_views": 143
         },
         {
           "date": "2026-09-27",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 163
+          "cumulative_views": 148
         },
         {
           "date": "2026-09-28",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 196
+          "cumulative_views": 181
         },
         {
           "date": "2026-09-29",
           "views": 39,
           "uploads": 3,
-          "cumulative_views": 235
+          "cumulative_views": 220
         },
         {
           "date": "2026-09-30",
           "views": 56,
           "uploads": 3,
-          "cumulative_views": 291
+          "cumulative_views": 276
         },
         {
           "date": "2026-10-01",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 298
+          "cumulative_views": 283
         },
         {
           "date": "2026-10-08",
-          "views": 2,
+          "views": 0,
           "uploads": 1,
-          "cumulative_views": 300
+          "cumulative_views": 283
+        },
+        {
+          "date": "2026-10-09",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 283
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7693615367947668750",
+          "youtube_id": "_Pu0pvBsBa4",
+          "title": "Creamy Garlic Parmesan Salmon with Mashed Potatoes \u2728",
+          "tiktok_views": 618100,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/_Pu0pvBsBa4/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-09T02:09:06Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1001,7 +1023,7 @@
           "youtube_id": "MD9VcCPCjd0",
           "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
           "tiktok_views": 234700,
-          "youtube_views": 2,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -1399,20 +1421,6 @@
           "thumbnail": "https://i.ytimg.com/vi/XKCjgS6OaOw/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-22T01:13:10Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7647609082626460942",
-          "youtube_id": "Zylx7Mdmo3Y",
-          "title": "French-Style Cream-Filled Puff Pastry Cones \u2728",
-          "tiktok_views": 147400,
-          "youtube_views": 15,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/Zylx7Mdmo3Y/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-21T22:17:28Z"
         }
       ],
       "runs": [
@@ -1633,7 +1641,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 28,
+      "total_uploads": 29,
       "total_views": 135823,
       "total_likes": 610,
       "upcoming": {
@@ -1734,9 +1742,29 @@
           "views": 41,
           "uploads": 1,
           "cumulative_views": 135870
+        },
+        {
+          "date": "2026-10-09",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 135870
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1_x5uD070D9KPwomdpOE__qN5gYFuKDUf",
+          "youtube_id": "uhUr5_7Z7aA",
+          "title": "Forceps extracting glass from to\u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/uhUr5_7Z7aA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-09T02:10:57Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2132,6 +2160,16 @@
       ],
       "runs": [
         {
+          "id": 52,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-10-09",
+          "status": "success",
+          "video_id": "uhUr5_7Z7aA",
+          "error_message": null,
+          "created_at": "2026-10-09T02:10:58.648714+00:00"
+        },
+        {
           "id": 51,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2320,16 +2358,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-25T17:20:32.829198+00:00"
-        },
-        {
-          "id": 32,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-09-25",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-25T01:23:37.989382+00:00"
         }
       ]
     },
@@ -2429,7 +2457,7 @@
           "youtube_id": "-ICAQ6VlhLY",
           "title": "Legit Work From Home Job Opening \ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 20,
+          "youtube_views": 18,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-ICAQ6VlhLY/hqdefault.jpg",
@@ -2443,7 +2471,7 @@
           "youtube_id": "stRwhg5nVc4",
           "title": "Legit Work From Home Job Opening \ud83d\udcbc\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 17,
+          "youtube_views": 19,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/stRwhg5nVc4/hqdefault.jpg",
@@ -2811,13 +2839,41 @@
   },
   "videos": [
     {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1_x5uD070D9KPwomdpOE__qN5gYFuKDUf",
+      "youtube_id": "uhUr5_7Z7aA",
+      "title": "Forceps extracting glass from to\u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/uhUr5_7Z7aA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-09T02:10:57Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7693615367947668750",
+      "youtube_id": "_Pu0pvBsBa4",
+      "title": "Creamy Garlic Parmesan Salmon with Mashed Potatoes \u2728",
+      "tiktok_views": 618100,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/_Pu0pvBsBa4/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-09T02:09:06Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7693994819730820365",
       "youtube_id": "MD9VcCPCjd0",
       "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
       "tiktok_views": 234700,
-      "youtube_views": 2,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -2859,7 +2915,7 @@
       "youtube_id": "-ICAQ6VlhLY",
       "title": "Legit Work From Home Job Opening \ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 20,
+      "youtube_views": 18,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-ICAQ6VlhLY/hqdefault.jpg",
@@ -2887,7 +2943,7 @@
       "youtube_id": "stRwhg5nVc4",
       "title": "Legit Work From Home Job Opening \ud83d\udcbc\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 17,
+      "youtube_views": 19,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/stRwhg5nVc4/hqdefault.jpg",
@@ -4001,20 +4057,6 @@
       "uploaded_at": "2026-09-21T22:20:54Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7647609082626460942",
-      "youtube_id": "Zylx7Mdmo3Y",
-      "title": "French-Style Cream-Filled Puff Pastry Cones \u2728",
-      "tiktok_views": 147400,
-      "youtube_views": 15,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/Zylx7Mdmo3Y/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-21T22:17:28Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "17z9alNxaafI-8atJcNXtUHlzLOUXlBF2",
@@ -4963,7 +5005,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 193,
+    "total_uploads": 194,
     "total_views": 138336,
     "total_likes": 623,
     "videos_per_day": 12
@@ -5196,5 +5238,5 @@
       "created_at": "2026-09-25T17:17:11.150326+00:00"
     }
   ],
-  "last_updated": "2026-10-09T02:08:07.373226+00:00"
+  "last_updated": "2026-10-09T02:11:03.086593+00:00"
 }
