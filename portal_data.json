@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 204,
+    "total_uploads": 205,
     "total_views": 138346,
-    "total_likes": 623,
+    "total_likes": 624,
     "total_subscribers": 84,
     "channels_count": 4,
     "videos_per_day": 12
@@ -44,25 +44,25 @@
       "date": "2026-09-21",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 128125,
+      "ch3_views": 128132,
       "ch4_views": 0,
-      "total_views": 128125
+      "total_views": 128132
     },
     {
       "date": "2026-09-22",
       "ch1_views": 0,
       "ch2_views": 4,
-      "ch3_views": 135475,
+      "ch3_views": 135482,
       "ch4_views": 0,
-      "total_views": 135479
+      "total_views": 135486
     },
     {
       "date": "2026-09-23",
       "ch1_views": 13,
       "ch2_views": 26,
-      "ch3_views": 135559,
+      "ch3_views": 135567,
       "ch4_views": 0,
-      "total_views": 135598
+      "total_views": 135606
     },
     {
       "date": "2026-09-24",
@@ -100,49 +100,49 @@
       "date": "2026-09-28",
       "ch1_views": 49,
       "ch2_views": 103,
-      "ch3_views": 135579,
+      "ch3_views": 135587,
       "ch4_views": 557,
-      "total_views": 136288
+      "total_views": 136296
     },
     {
       "date": "2026-09-29",
       "ch1_views": 52,
       "ch2_views": 142,
-      "ch3_views": 135644,
+      "ch3_views": 135653,
       "ch4_views": 636,
-      "total_views": 136474
+      "total_views": 136483
     },
     {
       "date": "2026-09-30",
       "ch1_views": 53,
       "ch2_views": 199,
-      "ch3_views": 135743,
+      "ch3_views": 135752,
       "ch4_views": 842,
-      "total_views": 136837
+      "total_views": 136846
     },
     {
       "date": "2026-10-01",
       "ch1_views": 57,
       "ch2_views": 206,
-      "ch3_views": 135765,
+      "ch3_views": 135774,
       "ch4_views": 1056,
-      "total_views": 137084
+      "total_views": 137093
     },
     {
       "date": "2026-10-08",
       "ch1_views": 59,
       "ch2_views": 213,
-      "ch3_views": 135857,
+      "ch3_views": 135885,
       "ch4_views": 1101,
-      "total_views": 137230
+      "total_views": 137258
     },
     {
       "date": "2026-10-09",
       "ch1_views": 59,
-      "ch2_views": 220,
-      "ch3_views": 135869,
-      "ch4_views": 1264,
-      "total_views": 137412
+      "ch2_views": 221,
+      "ch3_views": 135899,
+      "ch4_views": 1265,
+      "total_views": 137444
     }
   ],
   "channels": {
@@ -898,7 +898,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 77,
+      "total_uploads": 78,
       "total_views": 847,
       "total_likes": 0,
       "upcoming": {
@@ -996,9 +996,9 @@
         },
         {
           "date": "2026-10-09",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 220
+          "cumulative_views": 221
         }
       ],
       "videos": [
@@ -1023,7 +1023,7 @@
           "youtube_id": "hzmuiSueGYg",
           "title": "Cheesy Minced Meat Puff Pastry \u2728",
           "tiktok_views": 248000,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/hzmuiSueGYg/hqdefault.jpg",
@@ -1425,6 +1425,16 @@
       ],
       "runs": [
         {
+          "id": 89,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-10-10",
+          "status": "success",
+          "video_id": "o8dXFrj3rHg",
+          "error_message": null,
+          "created_at": "2026-10-10T01:42:40.421598+00:00"
+        },
+        {
           "id": 88,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1613,16 +1623,6 @@
           "video_id": "fOkH5a4Y7no",
           "error_message": null,
           "created_at": "2026-09-27T01:13:43.080433+00:00"
-        },
-        {
-          "id": 69,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-09-26",
-          "status": "success",
-          "video_id": "QykSg4oh-nM",
-          "error_message": null,
-          "created_at": "2026-09-26T22:15:22.371830+00:00"
         }
       ]
     },
@@ -1697,57 +1697,57 @@
         },
         {
           "date": "2026-09-21",
-          "views": 21218,
+          "views": 21225,
           "uploads": 3,
-          "cumulative_views": 128125
+          "cumulative_views": 128132
         },
         {
           "date": "2026-09-22",
           "views": 7350,
           "uploads": 3,
-          "cumulative_views": 135475
+          "cumulative_views": 135482
         },
         {
           "date": "2026-09-23",
-          "views": 84,
+          "views": 85,
           "uploads": 1,
-          "cumulative_views": 135559
+          "cumulative_views": 135567
         },
         {
           "date": "2026-09-28",
           "views": 20,
           "uploads": 2,
-          "cumulative_views": 135579
+          "cumulative_views": 135587
         },
         {
           "date": "2026-09-29",
-          "views": 65,
+          "views": 66,
           "uploads": 3,
-          "cumulative_views": 135644
+          "cumulative_views": 135653
         },
         {
           "date": "2026-09-30",
           "views": 99,
           "uploads": 3,
-          "cumulative_views": 135743
+          "cumulative_views": 135752
         },
         {
           "date": "2026-10-01",
           "views": 22,
           "uploads": 1,
-          "cumulative_views": 135765
+          "cumulative_views": 135774
         },
         {
           "date": "2026-10-08",
-          "views": 92,
+          "views": 111,
           "uploads": 1,
-          "cumulative_views": 135857
+          "cumulative_views": 135885
         },
         {
           "date": "2026-10-09",
-          "views": 12,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 135869
+          "cumulative_views": 135899
         }
       ],
       "videos": [
@@ -1758,7 +1758,7 @@
           "youtube_id": "e_uGYLvRg2s",
           "title": "Forceps extracting metal from to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/e_uGYLvRg2s/hqdefault.jpg",
@@ -1772,7 +1772,7 @@
           "youtube_id": "XwAXRGsO1tk",
           "title": "Forceps extracting grass from to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XwAXRGsO1tk/hqdefault.jpg",
@@ -1800,7 +1800,7 @@
           "youtube_id": "AHG0PkBRynA",
           "title": "Extracting fluid from fungal nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 92,
+          "youtube_views": 111,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/AHG0PkBRynA/hqdefault.jpg",
@@ -1870,7 +1870,7 @@
           "youtube_id": "2uMyHRRRoek",
           "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2uMyHRRRoek/hqdefault.jpg",
@@ -1940,7 +1940,7 @@
           "youtube_id": "YJ35UWmoXh8",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 84,
+          "youtube_views": 85,
           "youtube_likes": 2,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
@@ -2010,7 +2010,7 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18509,
+          "youtube_views": 18516,
           "youtube_likes": 101,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -2392,7 +2392,7 @@
       "subscribers": 3,
       "total_uploads": 16,
       "total_views": 1056,
-      "total_likes": 12,
+      "total_likes": 13,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -2464,9 +2464,9 @@
         },
         {
           "date": "2026-10-09",
-          "views": 163,
+          "views": 164,
           "uploads": 3,
-          "cumulative_views": 1264
+          "cumulative_views": 1265
         }
       ],
       "videos": [
@@ -2477,12 +2477,12 @@
           "youtube_id": "50qJCs438SM",
           "title": "Top Remote Job You Can Do From Home \ud83d\udcbb\ud83c\udf0e",
           "tiktok_views": 0,
-          "youtube_views": 0,
-          "youtube_likes": 0,
+          "youtube_views": 3,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/50qJCs438SM/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-10-09T21:50:40Z"
+          "uploaded_at": "2026-10-09T21:50:59Z"
         },
         {
           "channel_id": "channel_4",
@@ -2491,7 +2491,7 @@
           "youtube_id": "9tqb3p2emOk",
           "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udcbc\ud83d\udd25",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9tqb3p2emOk/hqdefault.jpg",
@@ -2505,7 +2505,7 @@
           "youtube_id": "2eJ5gXy-2Cs",
           "title": "Remote Job Alert \u2014 Person typing on laptop keyboard! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 160,
+          "youtube_views": 157,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2eJ5gXy-2Cs/hqdefault.jpg",
@@ -2907,12 +2907,12 @@
       "youtube_id": "50qJCs438SM",
       "title": "Top Remote Job You Can Do From Home \ud83d\udcbb\ud83c\udf0e",
       "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
+      "youtube_views": 3,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/50qJCs438SM/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-10-09T21:50:40Z"
+      "uploaded_at": "2026-10-09T21:50:59Z"
     },
     {
       "channel_id": "channel_3",
@@ -2921,7 +2921,7 @@
       "youtube_id": "e_uGYLvRg2s",
       "title": "Forceps extracting metal from to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/e_uGYLvRg2s/hqdefault.jpg",
@@ -2977,7 +2977,7 @@
       "youtube_id": "9tqb3p2emOk",
       "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udcbc\ud83d\udd25",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9tqb3p2emOk/hqdefault.jpg",
@@ -2991,7 +2991,7 @@
       "youtube_id": "XwAXRGsO1tk",
       "title": "Forceps extracting grass from to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XwAXRGsO1tk/hqdefault.jpg",
@@ -3005,7 +3005,7 @@
       "youtube_id": "hzmuiSueGYg",
       "title": "Cheesy Minced Meat Puff Pastry \u2728",
       "tiktok_views": 248000,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/hzmuiSueGYg/hqdefault.jpg",
@@ -3033,7 +3033,7 @@
       "youtube_id": "2eJ5gXy-2Cs",
       "title": "Remote Job Alert \u2014 Person typing on laptop keyboard! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 160,
+      "youtube_views": 157,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2eJ5gXy-2Cs/hqdefault.jpg",
@@ -3131,7 +3131,7 @@
       "youtube_id": "AHG0PkBRynA",
       "title": "Extracting fluid from fungal nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 92,
+      "youtube_views": 111,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/AHG0PkBRynA/hqdefault.jpg",
@@ -3425,7 +3425,7 @@
       "youtube_id": "2uMyHRRRoek",
       "title": "Most Oddly Satisfying Nail Art Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2uMyHRRRoek/hqdefault.jpg",
@@ -4097,7 +4097,7 @@
       "youtube_id": "YJ35UWmoXh8",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 84,
+      "youtube_views": 85,
       "youtube_likes": 2,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
@@ -4195,7 +4195,7 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18509,
+      "youtube_views": 18516,
       "youtube_likes": 101,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
@@ -5123,9 +5123,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 204,
+    "total_uploads": 205,
     "total_views": 138346,
-    "total_likes": 623,
+    "total_likes": 624,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5356,5 +5356,5 @@
       "created_at": "2026-09-26T17:15:49.447658+00:00"
     }
   ],
-  "last_updated": "2026-10-09T21:50:46.032281+00:00"
+  "last_updated": "2026-10-10T01:42:45.636086+00:00"
 }
