@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 214,
+    "total_uploads": 215,
     "total_views": 138558,
     "total_likes": 613,
     "total_subscribers": 85,
@@ -50,99 +50,99 @@
     },
     {
       "date": "2026-09-23",
-      "ch1_views": 6,
+      "ch1_views": 0,
       "ch2_views": 17,
       "ch3_views": 131956,
       "ch4_views": 0,
-      "total_views": 131979
+      "total_views": 131973
     },
     {
       "date": "2026-09-24",
-      "ch1_views": 10,
+      "ch1_views": 4,
       "ch2_views": 24,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 28
+    },
+    {
+      "date": "2026-09-25",
+      "ch1_views": 5,
+      "ch2_views": 29,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 34
     },
     {
-      "date": "2026-09-25",
-      "ch1_views": 11,
-      "ch2_views": 29,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 40
-    },
-    {
       "date": "2026-09-26",
-      "ch1_views": 36,
+      "ch1_views": 30,
       "ch2_views": 56,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 92
+      "total_views": 86
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 41,
+      "ch1_views": 35,
       "ch2_views": 61,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 102
+      "total_views": 96
     },
     {
       "date": "2026-09-28",
-      "ch1_views": 42,
+      "ch1_views": 36,
       "ch2_views": 94,
       "ch3_views": 131976,
       "ch4_views": 557,
-      "total_views": 132669
+      "total_views": 132663
     },
     {
       "date": "2026-09-29",
-      "ch1_views": 45,
+      "ch1_views": 39,
       "ch2_views": 133,
       "ch3_views": 132042,
       "ch4_views": 636,
-      "total_views": 132856
+      "total_views": 132850
     },
     {
       "date": "2026-09-30",
-      "ch1_views": 46,
+      "ch1_views": 40,
       "ch2_views": 190,
       "ch3_views": 132141,
       "ch4_views": 842,
-      "total_views": 133219
+      "total_views": 133213
     },
     {
       "date": "2026-10-01",
-      "ch1_views": 50,
+      "ch1_views": 44,
       "ch2_views": 197,
       "ch3_views": 132163,
       "ch4_views": 1056,
-      "total_views": 133466
+      "total_views": 133460
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 51,
-      "ch2_views": 205,
+      "ch1_views": 45,
+      "ch2_views": 207,
       "ch3_views": 132294,
       "ch4_views": 1102,
-      "total_views": 133652
+      "total_views": 133648
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 53,
-      "ch2_views": 216,
-      "ch3_views": 132318,
-      "ch4_views": 1322,
-      "total_views": 133909
+      "ch1_views": 47,
+      "ch2_views": 219,
+      "ch3_views": 132319,
+      "ch4_views": 1318,
+      "total_views": 133903
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 55,
-      "ch2_views": 219,
-      "ch3_views": 132324,
-      "ch4_views": 1386,
-      "total_views": 133984
+      "ch1_views": 49,
+      "ch2_views": 223,
+      "ch3_views": 132326,
+      "ch4_views": 1385,
+      "total_views": 133983
     }
   ],
   "channels": {
@@ -192,79 +192,87 @@
       },
       "view_history": [
         {
-          "date": "2026-09-23",
-          "views": 6,
-          "uploads": 1,
-          "cumulative_views": 6
-        },
-        {
           "date": "2026-09-24",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 10
+          "cumulative_views": 4
         },
         {
           "date": "2026-09-25",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 11
+          "cumulative_views": 5
         },
         {
           "date": "2026-09-26",
           "views": 25,
           "uploads": 3,
-          "cumulative_views": 36
+          "cumulative_views": 30
         },
         {
           "date": "2026-09-27",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 41
+          "cumulative_views": 35
         },
         {
           "date": "2026-09-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 42
+          "cumulative_views": 36
         },
         {
           "date": "2026-09-29",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 45
+          "cumulative_views": 39
         },
         {
           "date": "2026-09-30",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 46
+          "cumulative_views": 40
         },
         {
           "date": "2026-10-01",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 50
+          "cumulative_views": 44
         },
         {
           "date": "2026-10-08",
           "views": 1,
           "uploads": 2,
-          "cumulative_views": 51
+          "cumulative_views": 45
         },
         {
           "date": "2026-10-09",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 53
+          "cumulative_views": 47
         },
         {
           "date": "2026-10-10",
           "views": 2,
-          "uploads": 2,
-          "cumulative_views": 55
+          "uploads": 3,
+          "cumulative_views": 49
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7695014196232129806",
+          "youtube_id": "dXjflV4QlSQ",
+          "title": "The Whole Family Lost It When They Saw This Baby \ud83e\udd23",
+          "tiktok_views": 60900,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/dXjflV4QlSQ/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-10T20:34:09Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -670,20 +678,6 @@
           "thumbnail": "https://i.ytimg.com/vi/VBZf8_kyGQE/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-24T02:09:29Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7688698723978923278",
-          "youtube_id": "C9vr1v6Ngv8",
-          "title": "The Whole Family Lost It When They Saw This Baby \ud83e\udd23",
-          "tiktok_views": 203800,
-          "youtube_views": 6,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/C9vr1v6Ngv8/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-23T23:39:37Z"
         }
       ],
       "runs": [
@@ -990,21 +984,21 @@
         },
         {
           "date": "2026-10-08",
-          "views": 8,
+          "views": 10,
           "uploads": 1,
-          "cumulative_views": 205
+          "cumulative_views": 207
         },
         {
           "date": "2026-10-09",
-          "views": 11,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 216
+          "cumulative_views": 219
         },
         {
           "date": "2026-10-10",
-          "views": 3,
+          "views": 4,
           "uploads": 3,
-          "cumulative_views": 219
+          "cumulative_views": 223
         }
       ],
       "videos": [
@@ -1043,7 +1037,7 @@
           "youtube_id": "o8dXFrj3rHg",
           "title": "Tender Beer-Braised Beef & Creamy Mashed Potatoes \u2728",
           "tiktok_views": 156500,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/o8dXFrj3rHg/hqdefault.jpg",
@@ -1085,7 +1079,7 @@
           "youtube_id": "_Pu0pvBsBa4",
           "title": "Creamy Garlic Parmesan Salmon with Mashed Potatoes \u2728",
           "tiktok_views": 618100,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_Pu0pvBsBa4/hqdefault.jpg",
@@ -1099,7 +1093,7 @@
           "youtube_id": "MD9VcCPCjd0",
           "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
           "tiktok_views": 234700,
-          "youtube_views": 8,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -1647,7 +1641,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 33,
+      "total_uploads": 34,
       "total_views": 135986,
       "total_likes": 597,
       "upcoming": {
@@ -1745,15 +1739,15 @@
         },
         {
           "date": "2026-10-09",
-          "views": 24,
+          "views": 25,
           "uploads": 3,
-          "cumulative_views": 132318
+          "cumulative_views": 132319
         },
         {
           "date": "2026-10-10",
-          "views": 6,
+          "views": 7,
           "uploads": 2,
-          "cumulative_views": 132324
+          "cumulative_views": 132326
         }
       ],
       "videos": [
@@ -1764,7 +1758,7 @@
           "youtube_id": "0oCLrjmW11A",
           "title": "Forceps extracting nail from toe\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/0oCLrjmW11A/hqdefault.jpg",
@@ -1792,7 +1786,7 @@
           "youtube_id": "e_uGYLvRg2s",
           "title": "Forceps extracting metal from to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/e_uGYLvRg2s/hqdefault.jpg",
@@ -2180,6 +2174,16 @@
       ],
       "runs": [
         {
+          "id": 57,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-10",
+          "status": "success",
+          "video_id": "nxH8mXgF1cA",
+          "error_message": null,
+          "created_at": "2026-10-10T20:34:33.995013+00:00"
+        },
+        {
           "id": 56,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2368,16 +2372,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-27T01:23:43.274573+00:00"
-        },
-        {
-          "id": 37,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-09-26",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-26T22:20:35.137634+00:00"
         }
       ]
     },
@@ -2470,15 +2464,15 @@
         },
         {
           "date": "2026-10-09",
-          "views": 220,
+          "views": 216,
           "uploads": 3,
-          "cumulative_views": 1322
+          "cumulative_views": 1318
         },
         {
           "date": "2026-10-10",
-          "views": 64,
+          "views": 67,
           "uploads": 2,
-          "cumulative_views": 1386
+          "cumulative_views": 1385
         }
       ],
       "videos": [
@@ -2489,7 +2483,7 @@
           "youtube_id": "_rWFtgY6jnk",
           "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 54,
+          "youtube_views": 57,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_rWFtgY6jnk/hqdefault.jpg",
@@ -2517,7 +2511,7 @@
           "youtube_id": "50qJCs438SM",
           "title": "Top Remote Job You Can Do From Home \ud83d\udcbb\ud83c\udf0e",
           "tiktok_views": 0,
-          "youtube_views": 53,
+          "youtube_views": 49,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/50qJCs438SM/hqdefault.jpg",
@@ -2941,6 +2935,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7695014196232129806",
+      "youtube_id": "dXjflV4QlSQ",
+      "title": "The Whole Family Lost It When They Saw This Baby \ud83e\udd23",
+      "tiktok_views": 60900,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/dXjflV4QlSQ/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-10T20:34:09Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7695086834581343502",
@@ -2975,7 +2983,7 @@
       "youtube_id": "_rWFtgY6jnk",
       "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 54,
+      "youtube_views": 57,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_rWFtgY6jnk/hqdefault.jpg",
@@ -2989,7 +2997,7 @@
       "youtube_id": "0oCLrjmW11A",
       "title": "Forceps extracting nail from toe\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/0oCLrjmW11A/hqdefault.jpg",
@@ -3059,7 +3067,7 @@
       "youtube_id": "o8dXFrj3rHg",
       "title": "Tender Beer-Braised Beef & Creamy Mashed Potatoes \u2728",
       "tiktok_views": 156500,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/o8dXFrj3rHg/hqdefault.jpg",
@@ -3073,7 +3081,7 @@
       "youtube_id": "50qJCs438SM",
       "title": "Top Remote Job You Can Do From Home \ud83d\udcbb\ud83c\udf0e",
       "tiktok_views": 0,
-      "youtube_views": 53,
+      "youtube_views": 49,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/50qJCs438SM/hqdefault.jpg",
@@ -3087,7 +3095,7 @@
       "youtube_id": "e_uGYLvRg2s",
       "title": "Forceps extracting metal from to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/e_uGYLvRg2s/hqdefault.jpg",
@@ -3227,7 +3235,7 @@
       "youtube_id": "_Pu0pvBsBa4",
       "title": "Creamy Garlic Parmesan Salmon with Mashed Potatoes \u2728",
       "tiktok_views": 618100,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_Pu0pvBsBa4/hqdefault.jpg",
@@ -3241,7 +3249,7 @@
       "youtube_id": "MD9VcCPCjd0",
       "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
       "tiktok_views": 234700,
-      "youtube_views": 8,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -4187,20 +4195,6 @@
       "uploaded_at": "2026-09-24T01:12:11Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7688698723978923278",
-      "youtube_id": "C9vr1v6Ngv8",
-      "title": "The Whole Family Lost It When They Saw This Baby \ud83e\udd23",
-      "tiktok_views": 203800,
-      "youtube_views": 6,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/C9vr1v6Ngv8/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-23T23:39:37Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7669493837139692814",
@@ -4499,79 +4493,87 @@
     },
     "view_history": [
       {
-        "date": "2026-09-23",
-        "views": 6,
-        "uploads": 1,
-        "cumulative_views": 6
-      },
-      {
         "date": "2026-09-24",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 10
+        "cumulative_views": 4
       },
       {
         "date": "2026-09-25",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 11
+        "cumulative_views": 5
       },
       {
         "date": "2026-09-26",
         "views": 25,
         "uploads": 3,
-        "cumulative_views": 36
+        "cumulative_views": 30
       },
       {
         "date": "2026-09-27",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 41
+        "cumulative_views": 35
       },
       {
         "date": "2026-09-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 42
+        "cumulative_views": 36
       },
       {
         "date": "2026-09-29",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 45
+        "cumulative_views": 39
       },
       {
         "date": "2026-09-30",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 46
+        "cumulative_views": 40
       },
       {
         "date": "2026-10-01",
         "views": 4,
         "uploads": 1,
-        "cumulative_views": 50
+        "cumulative_views": 44
       },
       {
         "date": "2026-10-08",
         "views": 1,
         "uploads": 2,
-        "cumulative_views": 51
+        "cumulative_views": 45
       },
       {
         "date": "2026-10-09",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 53
+        "cumulative_views": 47
       },
       {
         "date": "2026-10-10",
         "views": 2,
-        "uploads": 2,
-        "cumulative_views": 55
+        "uploads": 3,
+        "cumulative_views": 49
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7695014196232129806",
+        "youtube_id": "dXjflV4QlSQ",
+        "title": "The Whole Family Lost It When They Saw This Baby \ud83e\udd23",
+        "tiktok_views": 60900,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/dXjflV4QlSQ/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-10T20:34:09Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4977,20 +4979,6 @@
         "thumbnail": "https://i.ytimg.com/vi/VBZf8_kyGQE/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-24T02:09:29Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7688698723978923278",
-        "youtube_id": "C9vr1v6Ngv8",
-        "title": "The Whole Family Lost It When They Saw This Baby \ud83e\udd23",
-        "tiktok_views": 203800,
-        "youtube_views": 6,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/C9vr1v6Ngv8/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-23T23:39:37Z"
       }
     ],
     "runs": [
@@ -5197,7 +5185,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 214,
+    "total_uploads": 215,
     "total_views": 138558,
     "total_likes": 613,
     "videos_per_day": 12
@@ -5430,5 +5418,5 @@
       "created_at": "2026-09-27T17:16:05.942608+00:00"
     }
   ],
-  "last_updated": "2026-10-10T20:33:49.584211+00:00"
+  "last_updated": "2026-10-10T20:34:38.515912+00:00"
 }
