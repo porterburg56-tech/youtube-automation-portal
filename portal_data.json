@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 205,
+    "total_uploads": 206,
     "total_views": 138346,
     "total_likes": 624,
     "total_subscribers": 84,
@@ -51,98 +51,106 @@
     {
       "date": "2026-09-22",
       "ch1_views": 0,
-      "ch2_views": 4,
+      "ch2_views": 0,
       "ch3_views": 135482,
       "ch4_views": 0,
-      "total_views": 135486
+      "total_views": 135482
     },
     {
       "date": "2026-09-23",
       "ch1_views": 13,
-      "ch2_views": 26,
+      "ch2_views": 22,
       "ch3_views": 135567,
       "ch4_views": 0,
-      "total_views": 135606
+      "total_views": 135602
     },
     {
       "date": "2026-09-24",
       "ch1_views": 17,
-      "ch2_views": 33,
+      "ch2_views": 29,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 50
+      "total_views": 46
     },
     {
       "date": "2026-09-25",
       "ch1_views": 18,
-      "ch2_views": 38,
+      "ch2_views": 34,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 56
+      "total_views": 52
     },
     {
       "date": "2026-09-26",
       "ch1_views": 43,
-      "ch2_views": 65,
+      "ch2_views": 61,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 108
+      "total_views": 104
     },
     {
       "date": "2026-09-27",
       "ch1_views": 48,
-      "ch2_views": 70,
+      "ch2_views": 66,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 118
+      "total_views": 114
     },
     {
       "date": "2026-09-28",
       "ch1_views": 49,
-      "ch2_views": 103,
+      "ch2_views": 99,
       "ch3_views": 135587,
       "ch4_views": 557,
-      "total_views": 136296
+      "total_views": 136292
     },
     {
       "date": "2026-09-29",
       "ch1_views": 52,
-      "ch2_views": 142,
+      "ch2_views": 138,
       "ch3_views": 135653,
       "ch4_views": 636,
-      "total_views": 136483
+      "total_views": 136479
     },
     {
       "date": "2026-09-30",
       "ch1_views": 53,
-      "ch2_views": 199,
+      "ch2_views": 195,
       "ch3_views": 135752,
       "ch4_views": 842,
-      "total_views": 136846
+      "total_views": 136842
     },
     {
       "date": "2026-10-01",
       "ch1_views": 57,
-      "ch2_views": 206,
+      "ch2_views": 202,
       "ch3_views": 135774,
       "ch4_views": 1056,
-      "total_views": 137093
+      "total_views": 137089
     },
     {
       "date": "2026-10-08",
       "ch1_views": 59,
-      "ch2_views": 213,
+      "ch2_views": 209,
       "ch3_views": 135885,
       "ch4_views": 1101,
-      "total_views": 137258
+      "total_views": 137254
     },
     {
       "date": "2026-10-09",
       "ch1_views": 59,
-      "ch2_views": 221,
+      "ch2_views": 217,
       "ch3_views": 135899,
       "ch4_views": 1265,
-      "total_views": 137444
+      "total_views": 137440
+    },
+    {
+      "date": "2026-10-10",
+      "ch1_views": 0,
+      "ch2_views": 217,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 217
     }
   ],
   "channels": {
@@ -929,79 +937,93 @@
       },
       "view_history": [
         {
-          "date": "2026-09-22",
-          "views": 4,
-          "uploads": 1,
-          "cumulative_views": 4
-        },
-        {
           "date": "2026-09-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 26
+          "cumulative_views": 22
         },
         {
           "date": "2026-09-24",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 33
+          "cumulative_views": 29
         },
         {
           "date": "2026-09-25",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 38
+          "cumulative_views": 34
         },
         {
           "date": "2026-09-26",
           "views": 27,
           "uploads": 3,
-          "cumulative_views": 65
+          "cumulative_views": 61
         },
         {
           "date": "2026-09-27",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 70
+          "cumulative_views": 66
         },
         {
           "date": "2026-09-28",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 103
+          "cumulative_views": 99
         },
         {
           "date": "2026-09-29",
           "views": 39,
           "uploads": 3,
-          "cumulative_views": 142
+          "cumulative_views": 138
         },
         {
           "date": "2026-09-30",
           "views": 57,
           "uploads": 3,
-          "cumulative_views": 199
+          "cumulative_views": 195
         },
         {
           "date": "2026-10-01",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 206
+          "cumulative_views": 202
         },
         {
           "date": "2026-10-08",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 213
+          "cumulative_views": 209
         },
         {
           "date": "2026-10-09",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 221
+          "cumulative_views": 217
+        },
+        {
+          "date": "2026-10-10",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 217
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7692147398096833805",
+          "youtube_id": "o8dXFrj3rHg",
+          "title": "Tender Beer-Braised Beef & Creamy Mashed Potatoes \u2728",
+          "tiktok_views": 156500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/o8dXFrj3rHg/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-10T01:43:09Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1407,20 +1429,6 @@
           "thumbnail": "https://i.ytimg.com/vi/tcoP9U4aZhI/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-23T01:14:22Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7660960706820410637",
-          "youtube_id": "H6GTYXl8BXU",
-          "title": "No-Bake Chocolate Strawberry Layer Dessert \ud83c\udf53\ud83c\udf6b So Creamy & Easy!",
-          "tiktok_views": 125500,
-          "youtube_views": 4,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/H6GTYXl8BXU/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-22T22:17:58Z"
         }
       ],
       "runs": [
@@ -1641,7 +1649,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 31,
+      "total_uploads": 32,
       "total_views": 135829,
       "total_likes": 610,
       "upcoming": {
@@ -2174,6 +2182,16 @@
       ],
       "runs": [
         {
+          "id": 55,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-10-10",
+          "status": "success",
+          "video_id": "YjCUhoIVKGM",
+          "error_message": null,
+          "created_at": "2026-10-10T01:46:11.635508+00:00"
+        },
+        {
           "id": 54,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2362,16 +2380,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-26T17:19:09.600998+00:00"
-        },
-        {
-          "id": 35,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-09-26",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-26T01:23:05.465416+00:00"
         }
       ]
     },
@@ -2900,6 +2908,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7692147398096833805",
+      "youtube_id": "o8dXFrj3rHg",
+      "title": "Tender Beer-Braised Beef & Creamy Mashed Potatoes \u2728",
+      "tiktok_views": 156500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/o8dXFrj3rHg/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-10T01:43:09Z"
+    },
     {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
@@ -4133,20 +4155,6 @@
       "uploaded_at": "2026-09-22T22:20:15Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7660960706820410637",
-      "youtube_id": "H6GTYXl8BXU",
-      "title": "No-Bake Chocolate Strawberry Layer Dessert \ud83c\udf53\ud83c\udf6b So Creamy & Easy!",
-      "tiktok_views": 125500,
-      "youtube_views": 4,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/H6GTYXl8BXU/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-22T22:17:58Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1MMzEsp91JXaATAZLqWrlNVM_BDPEiZFd",
@@ -5123,7 +5131,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 205,
+    "total_uploads": 206,
     "total_views": 138346,
     "total_likes": 624,
     "videos_per_day": 12
@@ -5356,5 +5364,5 @@
       "created_at": "2026-09-26T17:15:49.447658+00:00"
     }
   ],
-  "last_updated": "2026-10-10T01:42:45.636086+00:00"
+  "last_updated": "2026-10-10T01:46:16.312943+00:00"
 }
