@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 221,
-    "total_views": 138559,
+    "total_uploads": 222,
+    "total_views": 138561,
     "total_likes": 489,
     "total_subscribers": 85,
     "channels_count": 4,
@@ -51,98 +51,98 @@
     {
       "date": "2026-09-24",
       "ch1_views": 1,
-      "ch2_views": 7,
+      "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 8
+      "total_views": 1
     },
     {
       "date": "2026-09-25",
       "ch1_views": 2,
-      "ch2_views": 12,
+      "ch2_views": 5,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 14
+      "total_views": 7
     },
     {
       "date": "2026-09-26",
       "ch1_views": 27,
-      "ch2_views": 39,
+      "ch2_views": 32,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 66
+      "total_views": 59
     },
     {
       "date": "2026-09-27",
       "ch1_views": 32,
-      "ch2_views": 44,
+      "ch2_views": 37,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 76
+      "total_views": 69
     },
     {
       "date": "2026-09-28",
       "ch1_views": 33,
-      "ch2_views": 77,
+      "ch2_views": 70,
       "ch3_views": 103433,
       "ch4_views": 557,
-      "total_views": 104100
+      "total_views": 104093
     },
     {
       "date": "2026-09-29",
       "ch1_views": 36,
-      "ch2_views": 116,
+      "ch2_views": 109,
       "ch3_views": 103499,
       "ch4_views": 636,
-      "total_views": 104287
+      "total_views": 104280
     },
     {
       "date": "2026-09-30",
       "ch1_views": 37,
-      "ch2_views": 173,
+      "ch2_views": 166,
       "ch3_views": 103598,
       "ch4_views": 842,
-      "total_views": 104650
+      "total_views": 104643
     },
     {
       "date": "2026-10-01",
       "ch1_views": 41,
-      "ch2_views": 180,
+      "ch2_views": 173,
       "ch3_views": 103620,
       "ch4_views": 1056,
-      "total_views": 104897
+      "total_views": 104890
     },
     {
       "date": "2026-10-08",
       "ch1_views": 42,
-      "ch2_views": 192,
+      "ch2_views": 184,
       "ch3_views": 103756,
       "ch4_views": 1102,
-      "total_views": 105092
+      "total_views": 105084
     },
     {
       "date": "2026-10-09",
       "ch1_views": 44,
-      "ch2_views": 205,
+      "ch2_views": 197,
       "ch3_views": 103783,
       "ch4_views": 1325,
-      "total_views": 105357
+      "total_views": 105349
     },
     {
       "date": "2026-10-10",
       "ch1_views": 46,
-      "ch2_views": 213,
-      "ch3_views": 103800,
+      "ch2_views": 205,
+      "ch3_views": 103801,
       "ch4_views": 1451,
-      "total_views": 105510
+      "total_views": 105503
     },
     {
       "date": "2026-10-11",
       "ch1_views": 46,
-      "ch2_views": 213,
-      "ch3_views": 103802,
-      "ch4_views": 1456,
-      "total_views": 105517
+      "ch2_views": 205,
+      "ch3_views": 103803,
+      "ch4_views": 1462,
+      "total_views": 105516
     }
   ],
   "channels": {
@@ -936,78 +936,92 @@
       "view_history": [
         {
           "date": "2026-09-24",
-          "views": 7,
-          "uploads": 3,
-          "cumulative_views": 7
+          "views": 0,
+          "uploads": 2,
+          "cumulative_views": 0
         },
         {
           "date": "2026-09-25",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 12
+          "cumulative_views": 5
         },
         {
           "date": "2026-09-26",
           "views": 27,
           "uploads": 3,
-          "cumulative_views": 39
+          "cumulative_views": 32
         },
         {
           "date": "2026-09-27",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 44
+          "cumulative_views": 37
         },
         {
           "date": "2026-09-28",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 77
+          "cumulative_views": 70
         },
         {
           "date": "2026-09-29",
           "views": 39,
           "uploads": 3,
-          "cumulative_views": 116
+          "cumulative_views": 109
         },
         {
           "date": "2026-09-30",
           "views": 57,
           "uploads": 3,
-          "cumulative_views": 173
+          "cumulative_views": 166
         },
         {
           "date": "2026-10-01",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 180
+          "cumulative_views": 173
         },
         {
           "date": "2026-10-08",
-          "views": 12,
+          "views": 11,
           "uploads": 1,
-          "cumulative_views": 192
+          "cumulative_views": 184
         },
         {
           "date": "2026-10-09",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 205
+          "cumulative_views": 197
         },
         {
           "date": "2026-10-10",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 213
+          "cumulative_views": 205
         },
         {
           "date": "2026-10-11",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 213
+          "uploads": 2,
+          "cumulative_views": 205
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7651326904666049806",
+          "youtube_id": "FhY43IQbFIQ",
+          "title": "Golden Berry & Apple Puff Pastry Hand Pies \u2728",
+          "tiktok_views": 34400,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/FhY43IQbFIQ/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-11T06:59:32Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1113,7 +1127,7 @@
           "youtube_id": "MD9VcCPCjd0",
           "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
           "tiktok_views": 234700,
-          "youtube_views": 12,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -1413,20 +1427,6 @@
           "thumbnail": "https://i.ytimg.com/vi/UfxRXAbwor4/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-24T16:12:49Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7651320922732825869",
-          "youtube_id": "Qhe5fi_iOXw",
-          "title": "Caramel Berry Puff Pastry Cups That Melt in Your Mouth \u2728",
-          "tiktok_views": 89600,
-          "youtube_views": 7,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/Qhe5fi_iOXw/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-24T01:12:11Z"
         }
       ],
       "runs": [
@@ -1647,8 +1647,8 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 35,
-      "total_views": 135986,
+      "total_uploads": 36,
+      "total_views": 135988,
       "total_likes": 473,
       "upcoming": {
         "slot1": {
@@ -1745,15 +1745,15 @@
         },
         {
           "date": "2026-10-10",
-          "views": 17,
+          "views": 18,
           "uploads": 3,
-          "cumulative_views": 103800
+          "cumulative_views": 103801
         },
         {
           "date": "2026-10-11",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 103802
+          "cumulative_views": 103803
         }
       ],
       "videos": [
@@ -1778,7 +1778,7 @@
           "youtube_id": "nxH8mXgF1cA",
           "title": "Forceps extracting needle from t\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nxH8mXgF1cA/hqdefault.jpg",
@@ -2180,6 +2180,16 @@
       ],
       "runs": [
         {
+          "id": 59,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-11",
+          "status": "success",
+          "video_id": "ei5AX54nPqk",
+          "error_message": null,
+          "created_at": "2026-10-11T07:09:53.176160+00:00"
+        },
+        {
           "id": 58,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2368,16 +2378,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-27T22:20:11.556144+00:00"
-        },
-        {
-          "id": 39,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-09-27",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-27T17:19:08.427757+00:00"
         }
       ]
     },
@@ -2482,9 +2482,9 @@
         },
         {
           "date": "2026-10-11",
-          "views": 5,
+          "views": 11,
           "uploads": 1,
-          "cumulative_views": 1456
+          "cumulative_views": 1462
         }
       ],
       "videos": [
@@ -2495,7 +2495,7 @@
           "youtube_id": "DJzCZpoyd4U",
           "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -2975,6 +2975,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7651326904666049806",
+      "youtube_id": "FhY43IQbFIQ",
+      "title": "Golden Berry & Apple Puff Pastry Hand Pies \u2728",
+      "tiktok_views": 34400,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/FhY43IQbFIQ/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-11T06:59:32Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7691015084323130638",
@@ -2995,7 +3009,7 @@
       "youtube_id": "DJzCZpoyd4U",
       "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -3051,7 +3065,7 @@
       "youtube_id": "nxH8mXgF1cA",
       "title": "Forceps extracting needle from t\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nxH8mXgF1cA/hqdefault.jpg",
@@ -3373,7 +3387,7 @@
       "youtube_id": "MD9VcCPCjd0",
       "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
       "tiktok_views": 234700,
-      "youtube_views": 12,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -4289,20 +4303,6 @@
       "thumbnail": "https://i.ytimg.com/vi/UfxRXAbwor4/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-24T16:12:49Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7651320922732825869",
-      "youtube_id": "Qhe5fi_iOXw",
-      "title": "Caramel Berry Puff Pastry Cups That Melt in Your Mouth \u2728",
-      "tiktok_views": 89600,
-      "youtube_views": 7,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/Qhe5fi_iOXw/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-24T01:12:11Z"
     },
     {
       "channel_id": "channel_3",
@@ -5259,8 +5259,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 221,
-    "total_views": 138559,
+    "total_uploads": 222,
+    "total_views": 138561,
     "total_likes": 489,
     "videos_per_day": 12
   },
@@ -5492,5 +5492,5 @@
       "created_at": "2026-09-27T23:40:17.731327+00:00"
     }
   ],
-  "last_updated": "2026-10-11T06:59:06.361743+00:00"
+  "last_updated": "2026-10-11T07:09:57.147756+00:00"
 }
