@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 225,
+    "total_uploads": 226,
     "total_views": 138991,
     "total_likes": 397,
     "total_subscribers": 85,
@@ -50,99 +50,99 @@
     },
     {
       "date": "2026-09-24",
-      "ch1_views": 1,
+      "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 1
+      "total_views": 0
     },
     {
       "date": "2026-09-25",
-      "ch1_views": 2,
+      "ch1_views": 1,
       "ch2_views": 5,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 7
+      "total_views": 6
     },
     {
       "date": "2026-09-26",
-      "ch1_views": 27,
+      "ch1_views": 26,
       "ch2_views": 33,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 60
+      "total_views": 59
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 32,
+      "ch1_views": 31,
       "ch2_views": 38,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 70
+      "total_views": 69
     },
     {
       "date": "2026-09-28",
-      "ch1_views": 33,
+      "ch1_views": 32,
       "ch2_views": 71,
       "ch3_views": 83994,
       "ch4_views": 557,
-      "total_views": 84655
+      "total_views": 84654
     },
     {
       "date": "2026-09-29",
-      "ch1_views": 36,
+      "ch1_views": 35,
       "ch2_views": 110,
       "ch3_views": 84060,
       "ch4_views": 636,
-      "total_views": 84842
+      "total_views": 84841
     },
     {
       "date": "2026-09-30",
-      "ch1_views": 37,
+      "ch1_views": 36,
       "ch2_views": 167,
       "ch3_views": 84159,
       "ch4_views": 842,
-      "total_views": 85205
+      "total_views": 85204
     },
     {
       "date": "2026-10-01",
-      "ch1_views": 41,
+      "ch1_views": 40,
       "ch2_views": 174,
       "ch3_views": 84181,
       "ch4_views": 1056,
-      "total_views": 85452
+      "total_views": 85451
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 43,
+      "ch1_views": 42,
       "ch2_views": 186,
       "ch3_views": 84317,
       "ch4_views": 1102,
-      "total_views": 85648
+      "total_views": 85647
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 45,
+      "ch1_views": 44,
       "ch2_views": 204,
       "ch3_views": 84344,
       "ch4_views": 1327,
-      "total_views": 85920
+      "total_views": 85919
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 47,
+      "ch1_views": 46,
       "ch2_views": 217,
-      "ch3_views": 84373,
+      "ch3_views": 84382,
       "ch4_views": 1481,
-      "total_views": 86118
+      "total_views": 86126
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 47,
+      "ch1_views": 46,
       "ch2_views": 221,
-      "ch3_views": 84382,
-      "ch4_views": 1516,
-      "total_views": 86166
+      "ch3_views": 84391,
+      "ch4_views": 1514,
+      "total_views": 86172
     }
   ],
   "channels": {
@@ -192,79 +192,87 @@
       },
       "view_history": [
         {
-          "date": "2026-09-24",
-          "views": 1,
-          "uploads": 1,
-          "cumulative_views": 1
-        },
-        {
           "date": "2026-09-25",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 2
+          "cumulative_views": 1
         },
         {
           "date": "2026-09-26",
           "views": 25,
           "uploads": 3,
-          "cumulative_views": 27
+          "cumulative_views": 26
         },
         {
           "date": "2026-09-27",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 32
+          "cumulative_views": 31
         },
         {
           "date": "2026-09-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 33
+          "cumulative_views": 32
         },
         {
           "date": "2026-09-29",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 36
+          "cumulative_views": 35
         },
         {
           "date": "2026-09-30",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 37
+          "cumulative_views": 36
         },
         {
           "date": "2026-10-01",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 41
+          "cumulative_views": 40
         },
         {
           "date": "2026-10-08",
           "views": 2,
           "uploads": 2,
-          "cumulative_views": 43
+          "cumulative_views": 42
         },
         {
           "date": "2026-10-09",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 45
+          "cumulative_views": 44
         },
         {
           "date": "2026-10-10",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 47
+          "cumulative_views": 46
         },
         {
           "date": "2026-10-11",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 47
+          "uploads": 3,
+          "cumulative_views": 46
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7695416744529153293",
+          "youtube_id": "oiBciIgSOwU",
+          "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
+          "tiktok_views": 9355,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/oiBciIgSOwU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-11T20:54:09Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -670,20 +678,6 @@
           "thumbnail": "https://i.ytimg.com/vi/m7xvf7F4k14/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-25T02:09:20Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7670150127289453837",
-          "youtube_id": "9VYmzsjrWqM",
-          "title": "The way they copied every little habit had the whole house laughing \ud83d\ude02",
-          "tiktok_views": 42900,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/9VYmzsjrWqM/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-24T23:40:41Z"
         }
       ],
       "runs": [
@@ -1647,7 +1641,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 36,
+      "total_uploads": 37,
       "total_views": 136035,
       "total_likes": 381,
       "upcoming": {
@@ -1745,15 +1739,15 @@
         },
         {
           "date": "2026-10-10",
-          "views": 29,
+          "views": 38,
           "uploads": 3,
-          "cumulative_views": 84373
+          "cumulative_views": 84382
         },
         {
           "date": "2026-10-11",
           "views": 9,
           "uploads": 2,
-          "cumulative_views": 84382
+          "cumulative_views": 84391
         }
       ],
       "videos": [
@@ -1792,7 +1786,7 @@
           "youtube_id": "nxH8mXgF1cA",
           "title": "Forceps extracting needle from t\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 17,
+          "youtube_views": 26,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nxH8mXgF1cA/hqdefault.jpg",
@@ -2180,6 +2174,16 @@
       ],
       "runs": [
         {
+          "id": 60,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-11",
+          "status": "success",
+          "video_id": "_zVtCB5Fy5o",
+          "error_message": null,
+          "created_at": "2026-10-11T20:58:17.986724+00:00"
+        },
+        {
           "id": 59,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2368,16 +2372,6 @@
           "video_id": null,
           "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
           "created_at": "2026-09-28T01:25:08.584451+00:00"
-        },
-        {
-          "id": 40,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-09-27",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-          "created_at": "2026-09-27T22:20:11.556144+00:00"
         }
       ]
     },
@@ -2482,9 +2476,9 @@
         },
         {
           "date": "2026-10-11",
-          "views": 35,
+          "views": 33,
           "uploads": 1,
-          "cumulative_views": 1516
+          "cumulative_views": 1514
         }
       ],
       "videos": [
@@ -2495,7 +2489,7 @@
           "youtube_id": "DJzCZpoyd4U",
           "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 35,
+          "youtube_views": 33,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -2975,6 +2969,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7695416744529153293",
+      "youtube_id": "oiBciIgSOwU",
+      "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
+      "tiktok_views": 9355,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/oiBciIgSOwU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-11T20:54:09Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7695449801269202190",
@@ -3051,7 +3059,7 @@
       "youtube_id": "DJzCZpoyd4U",
       "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 35,
+      "youtube_views": 33,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -3107,7 +3115,7 @@
       "youtube_id": "nxH8mXgF1cA",
       "title": "Forceps extracting needle from t\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 17,
+      "youtube_views": 26,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nxH8mXgF1cA/hqdefault.jpg",
@@ -4291,20 +4299,6 @@
       "uploaded_at": "2026-09-25T01:14:03Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7670150127289453837",
-      "youtube_id": "9VYmzsjrWqM",
-      "title": "The way they copied every little habit had the whole house laughing \ud83d\ude02",
-      "tiktok_views": 42900,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/9VYmzsjrWqM/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-24T23:40:41Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7656507191549054221",
@@ -4561,79 +4555,87 @@
     },
     "view_history": [
       {
-        "date": "2026-09-24",
-        "views": 1,
-        "uploads": 1,
-        "cumulative_views": 1
-      },
-      {
         "date": "2026-09-25",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 2
+        "cumulative_views": 1
       },
       {
         "date": "2026-09-26",
         "views": 25,
         "uploads": 3,
-        "cumulative_views": 27
+        "cumulative_views": 26
       },
       {
         "date": "2026-09-27",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 32
+        "cumulative_views": 31
       },
       {
         "date": "2026-09-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 33
+        "cumulative_views": 32
       },
       {
         "date": "2026-09-29",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 36
+        "cumulative_views": 35
       },
       {
         "date": "2026-09-30",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 37
+        "cumulative_views": 36
       },
       {
         "date": "2026-10-01",
         "views": 4,
         "uploads": 1,
-        "cumulative_views": 41
+        "cumulative_views": 40
       },
       {
         "date": "2026-10-08",
         "views": 2,
         "uploads": 2,
-        "cumulative_views": 43
+        "cumulative_views": 42
       },
       {
         "date": "2026-10-09",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 45
+        "cumulative_views": 44
       },
       {
         "date": "2026-10-10",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 47
+        "cumulative_views": 46
       },
       {
         "date": "2026-10-11",
         "views": 0,
-        "uploads": 2,
-        "cumulative_views": 47
+        "uploads": 3,
+        "cumulative_views": 46
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7695416744529153293",
+        "youtube_id": "oiBciIgSOwU",
+        "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
+        "tiktok_views": 9355,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/oiBciIgSOwU/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-11T20:54:09Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5039,20 +5041,6 @@
         "thumbnail": "https://i.ytimg.com/vi/m7xvf7F4k14/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-25T02:09:20Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7670150127289453837",
-        "youtube_id": "9VYmzsjrWqM",
-        "title": "The way they copied every little habit had the whole house laughing \ud83d\ude02",
-        "tiktok_views": 42900,
-        "youtube_views": 1,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/9VYmzsjrWqM/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-24T23:40:41Z"
       }
     ],
     "runs": [
@@ -5259,7 +5247,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 225,
+    "total_uploads": 226,
     "total_views": 138991,
     "total_likes": 397,
     "videos_per_day": 12
@@ -5492,5 +5480,5 @@
       "created_at": "2026-09-28T17:19:04.518510+00:00"
     }
   ],
-  "last_updated": "2026-10-11T20:53:47.469757+00:00"
+  "last_updated": "2026-10-11T20:58:22.158942+00:00"
 }
