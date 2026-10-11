@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 226,
     "total_views": 138991,
-    "total_likes": 397,
+    "total_likes": 265,
     "total_subscribers": 85,
     "channels_count": 4,
     "videos_per_day": 12
@@ -12,41 +12,41 @@
       "date": "2026-09-19",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 52857,
+      "ch3_views": 18128,
       "ch4_views": 67,
-      "total_views": 52924
+      "total_views": 18195
     },
     {
       "date": "2026-09-20",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 55314,
+      "ch3_views": 20585,
       "ch4_views": 230,
-      "total_views": 55544
+      "total_views": 20815
     },
     {
       "date": "2026-09-21",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 76539,
+      "ch3_views": 41810,
       "ch4_views": 0,
-      "total_views": 76539
+      "total_views": 41810
     },
     {
       "date": "2026-09-22",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 83889,
+      "ch3_views": 49160,
       "ch4_views": 0,
-      "total_views": 83889
+      "total_views": 49160
     },
     {
       "date": "2026-09-23",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 83974,
+      "ch3_views": 49245,
       "ch4_views": 0,
-      "total_views": 83974
+      "total_views": 49245
     },
     {
       "date": "2026-09-24",
@@ -84,65 +84,65 @@
       "date": "2026-09-28",
       "ch1_views": 32,
       "ch2_views": 71,
-      "ch3_views": 83994,
+      "ch3_views": 49265,
       "ch4_views": 557,
-      "total_views": 84654
+      "total_views": 49925
     },
     {
       "date": "2026-09-29",
       "ch1_views": 35,
       "ch2_views": 110,
-      "ch3_views": 84060,
+      "ch3_views": 49331,
       "ch4_views": 636,
-      "total_views": 84841
+      "total_views": 50112
     },
     {
       "date": "2026-09-30",
       "ch1_views": 36,
       "ch2_views": 167,
-      "ch3_views": 84159,
+      "ch3_views": 49430,
       "ch4_views": 842,
-      "total_views": 85204
+      "total_views": 50475
     },
     {
       "date": "2026-10-01",
       "ch1_views": 40,
       "ch2_views": 174,
-      "ch3_views": 84181,
+      "ch3_views": 49452,
       "ch4_views": 1056,
-      "total_views": 85451
+      "total_views": 50722
     },
     {
       "date": "2026-10-08",
       "ch1_views": 42,
       "ch2_views": 186,
-      "ch3_views": 84317,
+      "ch3_views": 49588,
       "ch4_views": 1102,
-      "total_views": 85647
+      "total_views": 50918
     },
     {
       "date": "2026-10-09",
       "ch1_views": 44,
       "ch2_views": 204,
-      "ch3_views": 84344,
+      "ch3_views": 49615,
       "ch4_views": 1327,
-      "total_views": 85919
+      "total_views": 51190
     },
     {
       "date": "2026-10-10",
       "ch1_views": 46,
-      "ch2_views": 217,
-      "ch3_views": 84382,
+      "ch2_views": 216,
+      "ch3_views": 49653,
       "ch4_views": 1481,
-      "total_views": 86126
+      "total_views": 51396
     },
     {
       "date": "2026-10-11",
       "ch1_views": 46,
-      "ch2_views": 221,
-      "ch3_views": 84391,
-      "ch4_views": 1514,
-      "total_views": 86172
+      "ch2_views": 219,
+      "ch3_views": 49665,
+      "ch4_views": 1512,
+      "total_views": 51442
     }
   ],
   "channels": {
@@ -990,15 +990,15 @@
         },
         {
           "date": "2026-10-10",
-          "views": 13,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 217
+          "cumulative_views": 216
         },
         {
           "date": "2026-10-11",
-          "views": 4,
+          "views": 3,
           "uploads": 3,
-          "cumulative_views": 221
+          "cumulative_views": 219
         }
       ],
       "videos": [
@@ -1023,7 +1023,7 @@
           "youtube_id": "FhY43IQbFIQ",
           "title": "Golden Berry & Apple Puff Pastry Hand Pies \u2728",
           "tiktok_views": 34400,
-          "youtube_views": 2,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/FhY43IQbFIQ/hqdefault.jpg",
@@ -1065,7 +1065,7 @@
           "youtube_id": "kxIacsu0CAw",
           "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
           "tiktok_views": 118500,
-          "youtube_views": 5,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -1079,7 +1079,7 @@
           "youtube_id": "o8dXFrj3rHg",
           "title": "Tender Beer-Braised Beef & Creamy Mashed Potatoes \u2728",
           "tiktok_views": 156500,
-          "youtube_views": 7,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/o8dXFrj3rHg/hqdefault.jpg",
@@ -1643,7 +1643,7 @@
       "subscribers": 76,
       "total_uploads": 37,
       "total_views": 136035,
-      "total_likes": 381,
+      "total_likes": 249,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1673,84 +1673,98 @@
       "view_history": [
         {
           "date": "2026-09-19",
-          "views": 52857,
-          "uploads": 2,
-          "cumulative_views": 52857
+          "views": 18128,
+          "uploads": 1,
+          "cumulative_views": 18128
         },
         {
           "date": "2026-09-20",
           "views": 2457,
           "uploads": 3,
-          "cumulative_views": 55314
+          "cumulative_views": 20585
         },
         {
           "date": "2026-09-21",
           "views": 21225,
           "uploads": 3,
-          "cumulative_views": 76539
+          "cumulative_views": 41810
         },
         {
           "date": "2026-09-22",
           "views": 7350,
           "uploads": 3,
-          "cumulative_views": 83889
+          "cumulative_views": 49160
         },
         {
           "date": "2026-09-23",
           "views": 85,
           "uploads": 1,
-          "cumulative_views": 83974
+          "cumulative_views": 49245
         },
         {
           "date": "2026-09-28",
           "views": 20,
           "uploads": 2,
-          "cumulative_views": 83994
+          "cumulative_views": 49265
         },
         {
           "date": "2026-09-29",
           "views": 66,
           "uploads": 3,
-          "cumulative_views": 84060
+          "cumulative_views": 49331
         },
         {
           "date": "2026-09-30",
           "views": 99,
           "uploads": 3,
-          "cumulative_views": 84159
+          "cumulative_views": 49430
         },
         {
           "date": "2026-10-01",
           "views": 22,
           "uploads": 1,
-          "cumulative_views": 84181
+          "cumulative_views": 49452
         },
         {
           "date": "2026-10-08",
           "views": 136,
           "uploads": 1,
-          "cumulative_views": 84317
+          "cumulative_views": 49588
         },
         {
           "date": "2026-10-09",
           "views": 27,
           "uploads": 3,
-          "cumulative_views": 84344
+          "cumulative_views": 49615
         },
         {
           "date": "2026-10-10",
           "views": 38,
           "uploads": 3,
-          "cumulative_views": 84382
+          "cumulative_views": 49653
         },
         {
           "date": "2026-10-11",
-          "views": 9,
-          "uploads": 2,
-          "cumulative_views": 84391
+          "views": 12,
+          "uploads": 3,
+          "cumulative_views": 49665
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1-eTvyhCAq2UBVm6jCneS8HLRx7vxwheN",
+          "youtube_id": "_zVtCB5Fy5o",
+          "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/_zVtCB5Fy5o/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-11T20:58:37Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1758,7 +1772,7 @@
           "youtube_id": "ei5AX54nPqk",
           "title": "Forceps removing thorn from toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -1772,7 +1786,7 @@
           "youtube_id": "jor3O-ZTvLc",
           "title": "Forceps removing staple from toe\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jor3O-ZTvLc/hqdefault.jpg",
@@ -2156,20 +2170,6 @@
           "thumbnail": "https://i.ytimg.com/vi/dYg3UW7tDXs/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-19T22:20:20Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1jUYN0EsBbCtyWKSDMAobL2a24LtplDBD",
-          "youtube_id": "6QW2ZqZJcXQ",
-          "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
-          "tiktok_views": 0,
-          "youtube_views": 34729,
-          "youtube_likes": 132,
-          "youtube_comments": 1,
-          "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-19T17:18:46Z"
         }
       ],
       "runs": [
@@ -2476,9 +2476,9 @@
         },
         {
           "date": "2026-10-11",
-          "views": 33,
+          "views": 31,
           "uploads": 1,
-          "cumulative_views": 1514
+          "cumulative_views": 1512
         }
       ],
       "videos": [
@@ -2489,7 +2489,7 @@
           "youtube_id": "DJzCZpoyd4U",
           "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 33,
+          "youtube_views": 31,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -2765,6 +2765,16 @@
       ],
       "runs": [
         {
+          "id": 53,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-10-11",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-11T21:03:06.196626+00:00"
+        },
+        {
           "id": 52,
           "channel_id": "channel_4",
           "slot": 3,
@@ -2953,21 +2963,25 @@
           "video_id": "cjXXxP7sjX4",
           "error_message": null,
           "created_at": "2026-09-28T06:02:17.567293+00:00"
-        },
-        {
-          "id": 33,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-09-28",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})",
-          "created_at": "2026-09-28T01:32:07.480033+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1-eTvyhCAq2UBVm6jCneS8HLRx7vxwheN",
+      "youtube_id": "_zVtCB5Fy5o",
+      "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/_zVtCB5Fy5o/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-11T20:58:37Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -3017,7 +3031,7 @@
       "youtube_id": "ei5AX54nPqk",
       "title": "Forceps removing thorn from toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -3031,7 +3045,7 @@
       "youtube_id": "FhY43IQbFIQ",
       "title": "Golden Berry & Apple Puff Pastry Hand Pies \u2728",
       "tiktok_views": 34400,
-      "youtube_views": 2,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/FhY43IQbFIQ/hqdefault.jpg",
@@ -3059,7 +3073,7 @@
       "youtube_id": "DJzCZpoyd4U",
       "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 33,
+      "youtube_views": 31,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -3087,7 +3101,7 @@
       "youtube_id": "jor3O-ZTvLc",
       "title": "Forceps removing staple from toe\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jor3O-ZTvLc/hqdefault.jpg",
@@ -3199,7 +3213,7 @@
       "youtube_id": "kxIacsu0CAw",
       "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
       "tiktok_views": 118500,
-      "youtube_views": 5,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -3255,7 +3269,7 @@
       "youtube_id": "o8dXFrj3rHg",
       "title": "Tender Beer-Braised Beef & Creamy Mashed Potatoes \u2728",
       "tiktok_views": 156500,
-      "youtube_views": 7,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/o8dXFrj3rHg/hqdefault.jpg",
@@ -4481,20 +4495,6 @@
       "uploaded_at": "2026-09-19T22:20:20Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1jUYN0EsBbCtyWKSDMAobL2a24LtplDBD",
-      "youtube_id": "6QW2ZqZJcXQ",
-      "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
-      "tiktok_views": 0,
-      "youtube_views": 34729,
-      "youtube_likes": 132,
-      "youtube_comments": 1,
-      "thumbnail": "https://i.ytimg.com/vi/6QW2ZqZJcXQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-19T17:18:46Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "oK9BYnEj4Ew",
@@ -5249,7 +5249,7 @@
   "kpis": {
     "total_uploads": 226,
     "total_views": 138991,
-    "total_likes": 397,
+    "total_likes": 265,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5480,5 +5480,5 @@
       "created_at": "2026-09-28T17:19:04.518510+00:00"
     }
   ],
-  "last_updated": "2026-10-11T20:58:22.158942+00:00"
+  "last_updated": "2026-10-11T21:03:10.158264+00:00"
 }
