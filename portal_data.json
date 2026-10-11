@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 220,
-    "total_views": 138558,
+    "total_uploads": 221,
+    "total_views": 138559,
     "total_likes": 489,
     "total_subscribers": 85,
     "channels_count": 4,
@@ -50,99 +50,99 @@
     },
     {
       "date": "2026-09-24",
-      "ch1_views": 4,
+      "ch1_views": 1,
       "ch2_views": 7,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 11
+      "total_views": 8
     },
     {
       "date": "2026-09-25",
-      "ch1_views": 5,
+      "ch1_views": 2,
       "ch2_views": 12,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 17
+      "total_views": 14
     },
     {
       "date": "2026-09-26",
-      "ch1_views": 30,
+      "ch1_views": 27,
       "ch2_views": 39,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 69
+      "total_views": 66
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 35,
+      "ch1_views": 32,
       "ch2_views": 44,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 79
+      "total_views": 76
     },
     {
       "date": "2026-09-28",
-      "ch1_views": 36,
+      "ch1_views": 33,
       "ch2_views": 77,
       "ch3_views": 103433,
       "ch4_views": 557,
-      "total_views": 104103
+      "total_views": 104100
     },
     {
       "date": "2026-09-29",
-      "ch1_views": 39,
+      "ch1_views": 36,
       "ch2_views": 116,
       "ch3_views": 103499,
       "ch4_views": 636,
-      "total_views": 104290
+      "total_views": 104287
     },
     {
       "date": "2026-09-30",
-      "ch1_views": 40,
+      "ch1_views": 37,
       "ch2_views": 173,
       "ch3_views": 103598,
       "ch4_views": 842,
-      "total_views": 104653
+      "total_views": 104650
     },
     {
       "date": "2026-10-01",
-      "ch1_views": 44,
+      "ch1_views": 41,
       "ch2_views": 180,
       "ch3_views": 103620,
       "ch4_views": 1056,
-      "total_views": 104900
+      "total_views": 104897
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 45,
-      "ch2_views": 190,
+      "ch1_views": 42,
+      "ch2_views": 192,
       "ch3_views": 103756,
       "ch4_views": 1102,
-      "total_views": 105093
+      "total_views": 105092
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 47,
-      "ch2_views": 203,
+      "ch1_views": 44,
+      "ch2_views": 205,
       "ch3_views": 103783,
-      "ch4_views": 1322,
-      "total_views": 105355
+      "ch4_views": 1325,
+      "total_views": 105357
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 49,
-      "ch2_views": 210,
-      "ch3_views": 103798,
-      "ch4_views": 1432,
-      "total_views": 105489
+      "ch1_views": 46,
+      "ch2_views": 213,
+      "ch3_views": 103800,
+      "ch4_views": 1451,
+      "total_views": 105510
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 0,
-      "ch2_views": 210,
-      "ch3_views": 103798,
-      "ch4_views": 1435,
-      "total_views": 105443
+      "ch1_views": 46,
+      "ch2_views": 213,
+      "ch3_views": 103802,
+      "ch4_views": 1456,
+      "total_views": 105517
     }
   ],
   "channels": {
@@ -193,72 +193,92 @@
       "view_history": [
         {
           "date": "2026-09-24",
-          "views": 4,
-          "uploads": 3,
-          "cumulative_views": 4
+          "views": 1,
+          "uploads": 2,
+          "cumulative_views": 1
         },
         {
           "date": "2026-09-25",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 5
+          "cumulative_views": 2
         },
         {
           "date": "2026-09-26",
           "views": 25,
           "uploads": 3,
-          "cumulative_views": 30
+          "cumulative_views": 27
         },
         {
           "date": "2026-09-27",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 35
+          "cumulative_views": 32
         },
         {
           "date": "2026-09-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 36
+          "cumulative_views": 33
         },
         {
           "date": "2026-09-29",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 39
+          "cumulative_views": 36
         },
         {
           "date": "2026-09-30",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 40
+          "cumulative_views": 37
         },
         {
           "date": "2026-10-01",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 44
+          "cumulative_views": 41
         },
         {
           "date": "2026-10-08",
           "views": 1,
           "uploads": 2,
-          "cumulative_views": 45
+          "cumulative_views": 42
         },
         {
           "date": "2026-10-09",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 47
+          "cumulative_views": 44
         },
         {
           "date": "2026-10-10",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 49
+          "cumulative_views": 46
+        },
+        {
+          "date": "2026-10-11",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 46
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7691015084323130638",
+          "youtube_id": "R3zIQhqREAs",
+          "title": "He didn't miss a single detail and that's what got us \ud83d\ude02",
+          "tiktok_views": 37300,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/R3zIQhqREAs/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-11T02:05:08Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -664,20 +684,6 @@
           "thumbnail": "https://i.ytimg.com/vi/C3TJPw1892s/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-24T17:16:55Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7679804720151579917",
-          "youtube_id": "VBZf8_kyGQE",
-          "title": "Grandpa and Baby Walking Side by Side to the Mailbox Is Everything \ud83e\udd79",
-          "tiktok_views": 45400,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/VBZf8_kyGQE/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-24T02:09:29Z"
         }
       ],
       "runs": [
@@ -898,8 +904,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 81,
-      "total_views": 856,
+      "total_uploads": 82,
+      "total_views": 857,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -978,27 +984,27 @@
         },
         {
           "date": "2026-10-08",
-          "views": 10,
+          "views": 12,
           "uploads": 1,
-          "cumulative_views": 190
+          "cumulative_views": 192
         },
         {
           "date": "2026-10-09",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 203
+          "cumulative_views": 205
         },
         {
           "date": "2026-10-10",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 210
+          "cumulative_views": 213
         },
         {
           "date": "2026-10-11",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 210
+          "cumulative_views": 213
         }
       ],
       "videos": [
@@ -1037,7 +1043,7 @@
           "youtube_id": "kxIacsu0CAw",
           "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
           "tiktok_views": 118500,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -1107,7 +1113,7 @@
           "youtube_id": "MD9VcCPCjd0",
           "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
           "tiktok_views": 234700,
-          "youtube_views": 10,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -1425,6 +1431,16 @@
       ],
       "runs": [
         {
+          "id": 93,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-11",
+          "status": "success",
+          "video_id": "FhY43IQbFIQ",
+          "error_message": null,
+          "created_at": "2026-10-11T06:59:01.655962+00:00"
+        },
+        {
           "id": 92,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1613,16 +1629,6 @@
           "video_id": null,
           "error_message": "Dubbing exception for 7677653731810299150: name 'Tuple' is not defined. Aborting upload.",
           "created_at": "2026-09-28T08:27:14.831127+00:00"
-        },
-        {
-          "id": 73,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-09-28",
-          "status": "success",
-          "video_id": "PRdIrEcgLfI",
-          "error_message": null,
-          "created_at": "2026-09-28T01:13:47.262378+00:00"
         }
       ]
     },
@@ -1739,15 +1745,15 @@
         },
         {
           "date": "2026-10-10",
-          "views": 15,
+          "views": 17,
           "uploads": 3,
-          "cumulative_views": 103798
+          "cumulative_views": 103800
         },
         {
           "date": "2026-10-11",
-          "views": 0,
+          "views": 2,
           "uploads": 1,
-          "cumulative_views": 103798
+          "cumulative_views": 103802
         }
       ],
       "videos": [
@@ -1758,7 +1764,7 @@
           "youtube_id": "jor3O-ZTvLc",
           "title": "Forceps removing staple from toe\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jor3O-ZTvLc/hqdefault.jpg",
@@ -1772,7 +1778,7 @@
           "youtube_id": "nxH8mXgF1cA",
           "title": "Forceps extracting needle from t\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nxH8mXgF1cA/hqdefault.jpg",
@@ -2464,21 +2470,21 @@
         },
         {
           "date": "2026-10-09",
-          "views": 220,
+          "views": 223,
           "uploads": 3,
-          "cumulative_views": 1322
+          "cumulative_views": 1325
         },
         {
           "date": "2026-10-10",
-          "views": 110,
+          "views": 126,
           "uploads": 3,
-          "cumulative_views": 1432
+          "cumulative_views": 1451
         },
         {
           "date": "2026-10-11",
-          "views": 3,
+          "views": 5,
           "uploads": 1,
-          "cumulative_views": 1435
+          "cumulative_views": 1456
         }
       ],
       "videos": [
@@ -2489,7 +2495,7 @@
           "youtube_id": "DJzCZpoyd4U",
           "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -2503,7 +2509,7 @@
           "youtube_id": "LFZ_CMcafqc",
           "title": "Legit Work From Home Job Opening \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 8,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/LFZ_CMcafqc/hqdefault.jpg",
@@ -2517,7 +2523,7 @@
           "youtube_id": "_rWFtgY6jnk",
           "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 90,
+          "youtube_views": 97,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_rWFtgY6jnk/hqdefault.jpg",
@@ -2531,7 +2537,7 @@
           "youtube_id": "f1ClkWECgqA",
           "title": "Remote Job Opportunity \u2014 Apply Today! \ud83d\ude80\ud83d\udcbb",
           "tiktok_views": 0,
-          "youtube_views": 12,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/f1ClkWECgqA/hqdefault.jpg",
@@ -2545,7 +2551,7 @@
           "youtube_id": "50qJCs438SM",
           "title": "Top Remote Job You Can Do From Home \ud83d\udcbb\ud83c\udf0e",
           "tiktok_views": 0,
-          "youtube_views": 53,
+          "youtube_views": 56,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/50qJCs438SM/hqdefault.jpg",
@@ -2969,13 +2975,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7691015084323130638",
+      "youtube_id": "R3zIQhqREAs",
+      "title": "He didn't miss a single detail and that's what got us \ud83d\ude02",
+      "tiktok_views": 37300,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/R3zIQhqREAs/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-11T02:05:08Z"
+    },
+    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
       "youtube_id": "DJzCZpoyd4U",
       "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -3003,7 +3023,7 @@
       "youtube_id": "jor3O-ZTvLc",
       "title": "Forceps removing staple from toe\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jor3O-ZTvLc/hqdefault.jpg",
@@ -3017,7 +3037,7 @@
       "youtube_id": "LFZ_CMcafqc",
       "title": "Legit Work From Home Job Opening \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 8,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/LFZ_CMcafqc/hqdefault.jpg",
@@ -3031,7 +3051,7 @@
       "youtube_id": "nxH8mXgF1cA",
       "title": "Forceps extracting needle from t\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nxH8mXgF1cA/hqdefault.jpg",
@@ -3087,7 +3107,7 @@
       "youtube_id": "_rWFtgY6jnk",
       "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 90,
+      "youtube_views": 97,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_rWFtgY6jnk/hqdefault.jpg",
@@ -3115,7 +3135,7 @@
       "youtube_id": "kxIacsu0CAw",
       "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
       "tiktok_views": 118500,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -3143,7 +3163,7 @@
       "youtube_id": "f1ClkWECgqA",
       "title": "Remote Job Opportunity \u2014 Apply Today! \ud83d\ude80\ud83d\udcbb",
       "tiktok_views": 0,
-      "youtube_views": 12,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/f1ClkWECgqA/hqdefault.jpg",
@@ -3185,7 +3205,7 @@
       "youtube_id": "50qJCs438SM",
       "title": "Top Remote Job You Can Do From Home \ud83d\udcbb\ud83c\udf0e",
       "tiktok_views": 0,
-      "youtube_views": 53,
+      "youtube_views": 56,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/50qJCs438SM/hqdefault.jpg",
@@ -3353,7 +3373,7 @@
       "youtube_id": "MD9VcCPCjd0",
       "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
       "tiktok_views": 234700,
-      "youtube_views": 10,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -4271,20 +4291,6 @@
       "uploaded_at": "2026-09-24T16:12:49Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7679804720151579917",
-      "youtube_id": "VBZf8_kyGQE",
-      "title": "Grandpa and Baby Walking Side by Side to the Mailbox Is Everything \ud83e\udd79",
-      "tiktok_views": 45400,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/VBZf8_kyGQE/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-24T02:09:29Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7651320922732825869",
@@ -4556,72 +4562,92 @@
     "view_history": [
       {
         "date": "2026-09-24",
-        "views": 4,
-        "uploads": 3,
-        "cumulative_views": 4
+        "views": 1,
+        "uploads": 2,
+        "cumulative_views": 1
       },
       {
         "date": "2026-09-25",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 5
+        "cumulative_views": 2
       },
       {
         "date": "2026-09-26",
         "views": 25,
         "uploads": 3,
-        "cumulative_views": 30
+        "cumulative_views": 27
       },
       {
         "date": "2026-09-27",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 35
+        "cumulative_views": 32
       },
       {
         "date": "2026-09-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 36
+        "cumulative_views": 33
       },
       {
         "date": "2026-09-29",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 39
+        "cumulative_views": 36
       },
       {
         "date": "2026-09-30",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 40
+        "cumulative_views": 37
       },
       {
         "date": "2026-10-01",
         "views": 4,
         "uploads": 1,
-        "cumulative_views": 44
+        "cumulative_views": 41
       },
       {
         "date": "2026-10-08",
         "views": 1,
         "uploads": 2,
-        "cumulative_views": 45
+        "cumulative_views": 42
       },
       {
         "date": "2026-10-09",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 47
+        "cumulative_views": 44
       },
       {
         "date": "2026-10-10",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 49
+        "cumulative_views": 46
+      },
+      {
+        "date": "2026-10-11",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 46
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7691015084323130638",
+        "youtube_id": "R3zIQhqREAs",
+        "title": "He didn't miss a single detail and that's what got us \ud83d\ude02",
+        "tiktok_views": 37300,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/R3zIQhqREAs/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-11T02:05:08Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5027,20 +5053,6 @@
         "thumbnail": "https://i.ytimg.com/vi/C3TJPw1892s/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-24T17:16:55Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7679804720151579917",
-        "youtube_id": "VBZf8_kyGQE",
-        "title": "Grandpa and Baby Walking Side by Side to the Mailbox Is Everything \ud83e\udd79",
-        "tiktok_views": 45400,
-        "youtube_views": 3,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/VBZf8_kyGQE/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-24T02:09:29Z"
       }
     ],
     "runs": [
@@ -5247,8 +5259,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 220,
-    "total_views": 138558,
+    "total_uploads": 221,
+    "total_views": 138559,
     "total_likes": 489,
     "videos_per_day": 12
   },
@@ -5480,5 +5492,5 @@
       "created_at": "2026-09-27T23:40:17.731327+00:00"
     }
   ],
-  "last_updated": "2026-10-11T02:04:56.798933+00:00"
+  "last_updated": "2026-10-11T06:59:06.361743+00:00"
 }
