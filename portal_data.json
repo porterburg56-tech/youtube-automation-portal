@@ -1,60 +1,52 @@
 {
   "cumulative": {
-    "total_uploads": 217,
+    "total_uploads": 218,
     "total_views": 138558,
-    "total_likes": 491,
+    "total_likes": 489,
     "total_subscribers": 85,
     "channels_count": 4,
     "videos_per_day": 12
   },
   "master_view_history": [
     {
-      "date": "2026-09-18",
-      "ch1_views": 0,
-      "ch2_views": 0,
-      "ch3_views": 338,
-      "ch4_views": 0,
-      "total_views": 338
-    },
-    {
       "date": "2026-09-19",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 72634,
+      "ch3_views": 72296,
       "ch4_views": 67,
-      "total_views": 72701
+      "total_views": 72363
     },
     {
       "date": "2026-09-20",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 75091,
+      "ch3_views": 74753,
       "ch4_views": 230,
-      "total_views": 75321
+      "total_views": 74983
     },
     {
       "date": "2026-09-21",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 96316,
+      "ch3_views": 95978,
       "ch4_views": 0,
-      "total_views": 96316
+      "total_views": 95978
     },
     {
       "date": "2026-09-22",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 103666,
+      "ch3_views": 103328,
       "ch4_views": 0,
-      "total_views": 103666
+      "total_views": 103328
     },
     {
       "date": "2026-09-23",
       "ch1_views": 0,
       "ch2_views": 17,
-      "ch3_views": 103751,
+      "ch3_views": 103413,
       "ch4_views": 0,
-      "total_views": 103768
+      "total_views": 103430
     },
     {
       "date": "2026-09-24",
@@ -92,57 +84,65 @@
       "date": "2026-09-28",
       "ch1_views": 36,
       "ch2_views": 94,
-      "ch3_views": 103771,
+      "ch3_views": 103433,
       "ch4_views": 557,
-      "total_views": 104458
+      "total_views": 104120
     },
     {
       "date": "2026-09-29",
       "ch1_views": 39,
       "ch2_views": 133,
-      "ch3_views": 103837,
+      "ch3_views": 103499,
       "ch4_views": 636,
-      "total_views": 104645
+      "total_views": 104307
     },
     {
       "date": "2026-09-30",
       "ch1_views": 40,
       "ch2_views": 190,
-      "ch3_views": 103936,
+      "ch3_views": 103598,
       "ch4_views": 842,
-      "total_views": 105008
+      "total_views": 104670
     },
     {
       "date": "2026-10-01",
       "ch1_views": 44,
       "ch2_views": 197,
-      "ch3_views": 103958,
+      "ch3_views": 103620,
       "ch4_views": 1056,
-      "total_views": 105255
+      "total_views": 104917
     },
     {
       "date": "2026-10-08",
       "ch1_views": 45,
       "ch2_views": 207,
-      "ch3_views": 104094,
+      "ch3_views": 103756,
       "ch4_views": 1102,
-      "total_views": 105448
+      "total_views": 105110
     },
     {
       "date": "2026-10-09",
       "ch1_views": 47,
       "ch2_views": 219,
-      "ch3_views": 104121,
+      "ch3_views": 103783,
       "ch4_views": 1322,
-      "total_views": 105709
+      "total_views": 105371
     },
     {
       "date": "2026-10-10",
       "ch1_views": 49,
       "ch2_views": 226,
-      "ch3_views": 104136,
+      "ch3_views": 103797,
       "ch4_views": 1423,
-      "total_views": 105834
+      "total_views": 105495
+    },
+    {
+      "date": "2026-10-11",
+      "ch1_views": 0,
+      "ch2_views": 0,
+      "ch3_views": 103797,
+      "ch4_views": 0,
+      "total_views": 103797
     }
   ],
   "channels": {
@@ -898,7 +898,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 80,
+      "total_uploads": 81,
       "total_views": 856,
       "total_likes": 0,
       "upcoming": {
@@ -1425,6 +1425,16 @@
       ],
       "runs": [
         {
+          "id": 92,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-10-11",
+          "status": "success",
+          "video_id": "H_YK6bpmvpI",
+          "error_message": null,
+          "created_at": "2026-10-11T01:01:38.295719+00:00"
+        },
+        {
           "id": 91,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1613,16 +1623,6 @@
           "video_id": "PRdIrEcgLfI",
           "error_message": null,
           "created_at": "2026-09-28T01:13:47.262378+00:00"
-        },
-        {
-          "id": 72,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-09-27",
-          "status": "success",
-          "video_id": "nDVYHhw-ZQk",
-          "error_message": null,
-          "created_at": "2026-09-27T22:17:47.760802+00:00"
         }
       ]
     },
@@ -1643,7 +1643,7 @@
       "subscribers": 76,
       "total_uploads": 35,
       "total_views": 135986,
-      "total_likes": 475,
+      "total_likes": 473,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1672,85 +1672,99 @@
       },
       "view_history": [
         {
-          "date": "2026-09-18",
-          "views": 338,
-          "uploads": 1,
-          "cumulative_views": 338
-        },
-        {
           "date": "2026-09-19",
           "views": 72296,
           "uploads": 3,
-          "cumulative_views": 72634
+          "cumulative_views": 72296
         },
         {
           "date": "2026-09-20",
           "views": 2457,
           "uploads": 3,
-          "cumulative_views": 75091
+          "cumulative_views": 74753
         },
         {
           "date": "2026-09-21",
           "views": 21225,
           "uploads": 3,
-          "cumulative_views": 96316
+          "cumulative_views": 95978
         },
         {
           "date": "2026-09-22",
           "views": 7350,
           "uploads": 3,
-          "cumulative_views": 103666
+          "cumulative_views": 103328
         },
         {
           "date": "2026-09-23",
           "views": 85,
           "uploads": 1,
-          "cumulative_views": 103751
+          "cumulative_views": 103413
         },
         {
           "date": "2026-09-28",
           "views": 20,
           "uploads": 2,
-          "cumulative_views": 103771
+          "cumulative_views": 103433
         },
         {
           "date": "2026-09-29",
           "views": 66,
           "uploads": 3,
-          "cumulative_views": 103837
+          "cumulative_views": 103499
         },
         {
           "date": "2026-09-30",
           "views": 99,
           "uploads": 3,
-          "cumulative_views": 103936
+          "cumulative_views": 103598
         },
         {
           "date": "2026-10-01",
           "views": 22,
           "uploads": 1,
-          "cumulative_views": 103958
+          "cumulative_views": 103620
         },
         {
           "date": "2026-10-08",
           "views": 136,
           "uploads": 1,
-          "cumulative_views": 104094
+          "cumulative_views": 103756
         },
         {
           "date": "2026-10-09",
           "views": 27,
           "uploads": 3,
-          "cumulative_views": 104121
+          "cumulative_views": 103783
         },
         {
           "date": "2026-10-10",
-          "views": 15,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 104136
+          "cumulative_views": 103797
+        },
+        {
+          "date": "2026-10-11",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 103797
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1NC_9RBoXgy9R0Tajwp0aDAMKAvQmGIaK",
+          "youtube_id": "jor3O-ZTvLc",
+          "title": "Forceps removing staple from toe\u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/jor3O-ZTvLc/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-11T01:01:35Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1786,7 +1800,7 @@
           "youtube_id": "YjCUhoIVKGM",
           "title": "Forceps extracting nail from toe \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YjCUhoIVKGM/hqdefault.jpg",
@@ -2156,20 +2170,6 @@
           "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-19T01:14:07Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1Z4c6oB1Di6apxrughujoWGBNv-yyEjfu",
-          "youtube_id": "um2nCzxcEAE",
-          "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 338,
-          "youtube_likes": 2,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-18T22:04:38Z"
         }
       ],
       "runs": [
@@ -2949,6 +2949,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1NC_9RBoXgy9R0Tajwp0aDAMKAvQmGIaK",
+      "youtube_id": "jor3O-ZTvLc",
+      "title": "Forceps removing staple from toe\u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/jor3O-ZTvLc/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-11T01:01:35Z"
+    },
+    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1YgbYWCN3IEvD7BRHTyDNaZ1FS-5JnJnp",
@@ -3095,7 +3109,7 @@
       "youtube_id": "YjCUhoIVKGM",
       "title": "Forceps extracting nail from toe \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YjCUhoIVKGM/hqdefault.jpg",
@@ -4459,20 +4473,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3M0IC4AWJa4/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-19T01:14:07Z"
-    },
-    {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1Z4c6oB1Di6apxrughujoWGBNv-yyEjfu",
-      "youtube_id": "um2nCzxcEAE",
-      "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 338,
-      "youtube_likes": 2,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/um2nCzxcEAE/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-18T22:04:38Z"
     }
   ],
   "channel": {
@@ -5213,9 +5213,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 217,
+    "total_uploads": 218,
     "total_views": 138558,
-    "total_likes": 491,
+    "total_likes": 489,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5446,5 +5446,5 @@
       "created_at": "2026-09-27T17:16:05.942608+00:00"
     }
   ],
-  "last_updated": "2026-10-11T01:01:20.350236+00:00"
+  "last_updated": "2026-10-11T01:01:42.840456+00:00"
 }
