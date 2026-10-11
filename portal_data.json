@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 219,
+    "total_uploads": 220,
     "total_views": 138558,
     "total_likes": 489,
     "total_subscribers": 85,
@@ -123,26 +123,26 @@
     {
       "date": "2026-10-09",
       "ch1_views": 47,
-      "ch2_views": 202,
+      "ch2_views": 203,
       "ch3_views": 103783,
       "ch4_views": 1322,
-      "total_views": 105354
+      "total_views": 105355
     },
     {
       "date": "2026-10-10",
       "ch1_views": 49,
-      "ch2_views": 209,
-      "ch3_views": 103797,
-      "ch4_views": 1423,
-      "total_views": 105478
+      "ch2_views": 210,
+      "ch3_views": 103798,
+      "ch4_views": 1432,
+      "total_views": 105489
     },
     {
       "date": "2026-10-11",
       "ch1_views": 0,
-      "ch2_views": 209,
-      "ch3_views": 103797,
-      "ch4_views": 1423,
-      "total_views": 105429
+      "ch2_views": 210,
+      "ch3_views": 103798,
+      "ch4_views": 1435,
+      "total_views": 105443
     }
   ],
   "channels": {
@@ -161,7 +161,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 83,
+      "total_uploads": 84,
       "total_views": 615,
       "total_likes": 1,
       "upcoming": {
@@ -682,6 +682,16 @@
       ],
       "runs": [
         {
+          "id": 93,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-10-11",
+          "status": "success",
+          "video_id": "R3zIQhqREAs",
+          "error_message": null,
+          "created_at": "2026-10-11T02:04:51.863114+00:00"
+        },
+        {
           "id": 92,
           "channel_id": "channel_1",
           "slot": 1,
@@ -870,16 +880,6 @@
           "video_id": "qqHYm_vn-0s",
           "error_message": null,
           "created_at": "2026-09-27T23:40:17.731327+00:00"
-        },
-        {
-          "id": 73,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-27",
-          "status": "success",
-          "video_id": "SqqK8E-Qamc",
-          "error_message": null,
-          "created_at": "2026-09-27T17:16:05.942608+00:00"
         }
       ]
     },
@@ -984,21 +984,21 @@
         },
         {
           "date": "2026-10-09",
-          "views": 12,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 202
+          "cumulative_views": 203
         },
         {
           "date": "2026-10-10",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 209
+          "cumulative_views": 210
         },
         {
           "date": "2026-10-11",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 209
+          "cumulative_views": 210
         }
       ],
       "videos": [
@@ -1093,7 +1093,7 @@
           "youtube_id": "_Pu0pvBsBa4",
           "title": "Creamy Garlic Parmesan Salmon with Mashed Potatoes \u2728",
           "tiktok_views": 618100,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_Pu0pvBsBa4/hqdefault.jpg",
@@ -1739,15 +1739,15 @@
         },
         {
           "date": "2026-10-10",
-          "views": 14,
+          "views": 15,
           "uploads": 3,
-          "cumulative_views": 103797
+          "cumulative_views": 103798
         },
         {
           "date": "2026-10-11",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 103797
+          "cumulative_views": 103798
         }
       ],
       "videos": [
@@ -1800,7 +1800,7 @@
           "youtube_id": "YjCUhoIVKGM",
           "title": "Forceps extracting nail from toe \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YjCUhoIVKGM/hqdefault.jpg",
@@ -2470,15 +2470,15 @@
         },
         {
           "date": "2026-10-10",
-          "views": 101,
+          "views": 110,
           "uploads": 3,
-          "cumulative_views": 1423
+          "cumulative_views": 1432
         },
         {
           "date": "2026-10-11",
-          "views": 0,
+          "views": 3,
           "uploads": 1,
-          "cumulative_views": 1423
+          "cumulative_views": 1435
         }
       ],
       "videos": [
@@ -2489,12 +2489,12 @@
           "youtube_id": "DJzCZpoyd4U",
           "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
           "status": "uploaded",
-          "uploaded_at": "2026-10-11T01:04:51Z"
+          "uploaded_at": "2026-10-11T01:05:12Z"
         },
         {
           "channel_id": "channel_4",
@@ -2517,7 +2517,7 @@
           "youtube_id": "_rWFtgY6jnk",
           "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 81,
+          "youtube_views": 90,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_rWFtgY6jnk/hqdefault.jpg",
@@ -2975,12 +2975,12 @@
       "youtube_id": "DJzCZpoyd4U",
       "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
       "status": "uploaded",
-      "uploaded_at": "2026-10-11T01:04:51Z"
+      "uploaded_at": "2026-10-11T01:05:12Z"
     },
     {
       "channel_id": "channel_2",
@@ -3087,7 +3087,7 @@
       "youtube_id": "_rWFtgY6jnk",
       "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 81,
+      "youtube_views": 90,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_rWFtgY6jnk/hqdefault.jpg",
@@ -3157,7 +3157,7 @@
       "youtube_id": "YjCUhoIVKGM",
       "title": "Forceps extracting nail from toe \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YjCUhoIVKGM/hqdefault.jpg",
@@ -3339,7 +3339,7 @@
       "youtube_id": "_Pu0pvBsBa4",
       "title": "Creamy Garlic Parmesan Salmon with Mashed Potatoes \u2728",
       "tiktok_views": 618100,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_Pu0pvBsBa4/hqdefault.jpg",
@@ -4524,7 +4524,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 83,
+    "total_uploads": 84,
     "total_views": 615,
     "total_likes": 1,
     "upcoming": {
@@ -5045,6 +5045,16 @@
     ],
     "runs": [
       {
+        "id": 93,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-10-11",
+        "status": "success",
+        "video_id": "R3zIQhqREAs",
+        "error_message": null,
+        "created_at": "2026-10-11T02:04:51.863114+00:00"
+      },
+      {
         "id": 92,
         "channel_id": "channel_1",
         "slot": 1,
@@ -5233,21 +5243,11 @@
         "video_id": "qqHYm_vn-0s",
         "error_message": null,
         "created_at": "2026-09-27T23:40:17.731327+00:00"
-      },
-      {
-        "id": 73,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-27",
-        "status": "success",
-        "video_id": "SqqK8E-Qamc",
-        "error_message": null,
-        "created_at": "2026-09-27T17:16:05.942608+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 219,
+    "total_uploads": 220,
     "total_views": 138558,
     "total_likes": 489,
     "videos_per_day": 12
@@ -5279,6 +5279,16 @@
     }
   },
   "runs": [
+    {
+      "id": 93,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-10-11",
+      "status": "success",
+      "video_id": "R3zIQhqREAs",
+      "error_message": null,
+      "created_at": "2026-10-11T02:04:51.863114+00:00"
+    },
     {
       "id": 92,
       "channel_id": "channel_1",
@@ -5468,17 +5478,7 @@
       "video_id": "qqHYm_vn-0s",
       "error_message": null,
       "created_at": "2026-09-27T23:40:17.731327+00:00"
-    },
-    {
-      "id": 73,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-27",
-      "status": "success",
-      "video_id": "SqqK8E-Qamc",
-      "error_message": null,
-      "created_at": "2026-09-27T17:16:05.942608+00:00"
     }
   ],
-  "last_updated": "2026-10-11T01:04:57.750773+00:00"
+  "last_updated": "2026-10-11T02:04:56.798933+00:00"
 }
