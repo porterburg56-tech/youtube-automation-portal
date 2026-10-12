@@ -49,14 +49,6 @@
       "total_views": 31117
     },
     {
-      "date": "2026-09-24",
-      "ch1_views": 0,
-      "ch2_views": 0,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 0
-    },
-    {
       "date": "2026-09-25",
       "ch1_views": 1,
       "ch2_views": 5,
@@ -140,17 +132,17 @@
       "date": "2026-10-11",
       "ch1_views": 48,
       "ch2_views": 227,
-      "ch3_views": 31548,
+      "ch3_views": 31551,
       "ch4_views": 1529,
-      "total_views": 33352
+      "total_views": 33355
     },
     {
       "date": "2026-10-12",
       "ch1_views": 0,
-      "ch2_views": 0,
-      "ch3_views": 31548,
+      "ch2_views": 227,
+      "ch3_views": 31551,
       "ch4_views": 0,
-      "total_views": 31548
+      "total_views": 31778
     }
   ],
   "channels": {
@@ -937,12 +929,6 @@
       },
       "view_history": [
         {
-          "date": "2026-09-24",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
-        {
           "date": "2026-09-25",
           "views": 5,
           "uploads": 3,
@@ -1007,9 +993,29 @@
           "views": 5,
           "uploads": 3,
           "cumulative_views": 227
+        },
+        {
+          "date": "2026-10-12",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 227
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7643152138582985997",
+          "youtube_id": "1kBN7vwWcjk",
+          "title": "Lithuanian Grandma\u2019s Secret Homemade Cheese \u2728",
+          "tiktok_views": 27700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/1kBN7vwWcjk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-12T01:24:12Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1415,20 +1421,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Q5CWGfHqTd0/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-25T01:14:03Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7656507191549054221",
-          "youtube_id": "3cfgfesWmPA",
-          "title": "Crispy Chicken & Rice Meatballs \u2013 The Secret to Perfectly Tender Bite \u2728",
-          "tiktok_views": 89100,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/3cfgfesWmPA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-24T22:16:22Z"
         }
       ],
       "runs": [
@@ -1747,15 +1739,15 @@
         },
         {
           "date": "2026-10-11",
-          "views": 16,
+          "views": 19,
           "uploads": 3,
-          "cumulative_views": 31548
+          "cumulative_views": 31551
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 31548
+          "cumulative_views": 31551
         }
       ],
       "videos": [
@@ -1794,7 +1786,7 @@
           "youtube_id": "ei5AX54nPqk",
           "title": "Forceps removing thorn from toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -2773,6 +2765,16 @@
       ],
       "runs": [
         {
+          "id": 54,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-10-12",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-12T01:26:45.211519+00:00"
+        },
+        {
           "id": 53,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2961,21 +2963,25 @@
           "video_id": "O93J_LSj0lE",
           "error_message": null,
           "created_at": "2026-09-28T22:35:08.437022+00:00"
-        },
-        {
-          "id": 34,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-09-28",
-          "status": "success",
-          "video_id": "cjXXxP7sjX4",
-          "error_message": null,
-          "created_at": "2026-09-28T06:02:17.567293+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7643152138582985997",
+      "youtube_id": "1kBN7vwWcjk",
+      "title": "Lithuanian Grandma\u2019s Secret Homemade Cheese \u2728",
+      "tiktok_views": 27700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/1kBN7vwWcjk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-12T01:24:12Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -3053,7 +3059,7 @@
       "youtube_id": "ei5AX54nPqk",
       "title": "Forceps removing thorn from toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -4335,20 +4341,6 @@
       "uploaded_at": "2026-09-25T01:14:03Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7656507191549054221",
-      "youtube_id": "3cfgfesWmPA",
-      "title": "Crispy Chicken & Rice Meatballs \u2013 The Secret to Perfectly Tender Bite \u2728",
-      "tiktok_views": 89100,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/3cfgfesWmPA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-24T22:16:22Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1GOnI6foHcAk-1sM68yVM-4pJkV3sxFbq",
@@ -5488,5 +5480,5 @@
       "created_at": "2026-09-28T17:19:04.518510+00:00"
     }
   ],
-  "last_updated": "2026-10-12T01:23:29.258351+00:00"
+  "last_updated": "2026-10-12T01:26:49.086000+00:00"
 }
