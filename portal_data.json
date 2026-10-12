@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 230,
+    "total_uploads": 231,
     "total_views": 139015,
     "total_likes": 174,
     "total_subscribers": 85,
@@ -125,24 +125,24 @@
       "ch1_views": 47,
       "ch2_views": 223,
       "ch3_views": 29247,
-      "ch4_views": 1496,
-      "total_views": 31013
+      "ch4_views": 1499,
+      "total_views": 31016
     },
     {
       "date": "2026-10-11",
       "ch1_views": 48,
       "ch2_views": 229,
-      "ch3_views": 29275,
-      "ch4_views": 1535,
-      "total_views": 31087
+      "ch3_views": 29277,
+      "ch4_views": 1543,
+      "total_views": 31097
     },
     {
       "date": "2026-10-12",
       "ch1_views": 48,
       "ch2_views": 229,
-      "ch3_views": 29275,
+      "ch3_views": 29277,
       "ch4_views": 0,
-      "total_views": 29552
+      "total_views": 29554
     }
   ],
   "channels": {
@@ -161,7 +161,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 87,
+      "total_uploads": 88,
       "total_views": 620,
       "total_likes": 1,
       "upcoming": {
@@ -688,6 +688,16 @@
       ],
       "runs": [
         {
+          "id": 97,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-10-12",
+          "status": "success",
+          "video_id": "5ZJPgqI-818",
+          "error_message": null,
+          "created_at": "2026-10-12T08:30:13.209335+00:00"
+        },
+        {
           "id": 96,
           "channel_id": "channel_1",
           "slot": 2,
@@ -876,16 +886,6 @@
           "video_id": "wZd_mfd54VA",
           "error_message": null,
           "created_at": "2026-09-29T02:08:52.900736+00:00"
-        },
-        {
-          "id": 77,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-09-28",
-          "status": "success",
-          "video_id": "vLZoF2mawWY",
-          "error_message": null,
-          "created_at": "2026-09-28T23:42:18.023575+00:00"
         }
       ]
     },
@@ -1745,15 +1745,15 @@
         },
         {
           "date": "2026-10-11",
-          "views": 28,
+          "views": 30,
           "uploads": 3,
-          "cumulative_views": 29275
+          "cumulative_views": 29277
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 29275
+          "cumulative_views": 29277
         }
       ],
       "videos": [
@@ -1806,7 +1806,7 @@
           "youtube_id": "ei5AX54nPqk",
           "title": "Forceps removing thorn from toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 13,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -2476,15 +2476,15 @@
         },
         {
           "date": "2026-10-10",
-          "views": 164,
+          "views": 167,
           "uploads": 3,
-          "cumulative_views": 1496
+          "cumulative_views": 1499
         },
         {
           "date": "2026-10-11",
-          "views": 39,
+          "views": 44,
           "uploads": 1,
-          "cumulative_views": 1535
+          "cumulative_views": 1543
         }
       ],
       "videos": [
@@ -2495,7 +2495,7 @@
           "youtube_id": "DJzCZpoyd4U",
           "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 39,
+          "youtube_views": 44,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -2509,7 +2509,7 @@
           "youtube_id": "LFZ_CMcafqc",
           "title": "Legit Work From Home Job Opening \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 34,
+          "youtube_views": 36,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/LFZ_CMcafqc/hqdefault.jpg",
@@ -2523,7 +2523,7 @@
           "youtube_id": "_rWFtgY6jnk",
           "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 116,
+          "youtube_views": 117,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_rWFtgY6jnk/hqdefault.jpg",
@@ -3093,7 +3093,7 @@
       "youtube_id": "ei5AX54nPqk",
       "title": "Forceps removing thorn from toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 13,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -3135,7 +3135,7 @@
       "youtube_id": "DJzCZpoyd4U",
       "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 39,
+      "youtube_views": 44,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -3177,7 +3177,7 @@
       "youtube_id": "LFZ_CMcafqc",
       "title": "Legit Work From Home Job Opening \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 34,
+      "youtube_views": 36,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/LFZ_CMcafqc/hqdefault.jpg",
@@ -3247,7 +3247,7 @@
       "youtube_id": "_rWFtgY6jnk",
       "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 116,
+      "youtube_views": 117,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_rWFtgY6jnk/hqdefault.jpg",
@@ -4530,7 +4530,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 87,
+    "total_uploads": 88,
     "total_views": 620,
     "total_likes": 1,
     "upcoming": {
@@ -5057,6 +5057,16 @@
     ],
     "runs": [
       {
+        "id": 97,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-10-12",
+        "status": "success",
+        "video_id": "5ZJPgqI-818",
+        "error_message": null,
+        "created_at": "2026-10-12T08:30:13.209335+00:00"
+      },
+      {
         "id": 96,
         "channel_id": "channel_1",
         "slot": 2,
@@ -5245,21 +5255,11 @@
         "video_id": "wZd_mfd54VA",
         "error_message": null,
         "created_at": "2026-09-29T02:08:52.900736+00:00"
-      },
-      {
-        "id": 77,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-09-28",
-        "status": "success",
-        "video_id": "vLZoF2mawWY",
-        "error_message": null,
-        "created_at": "2026-09-28T23:42:18.023575+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 230,
+    "total_uploads": 231,
     "total_views": 139015,
     "total_likes": 174,
     "videos_per_day": 12
@@ -5291,6 +5291,16 @@
     }
   },
   "runs": [
+    {
+      "id": 97,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-10-12",
+      "status": "success",
+      "video_id": "5ZJPgqI-818",
+      "error_message": null,
+      "created_at": "2026-10-12T08:30:13.209335+00:00"
+    },
     {
       "id": 96,
       "channel_id": "channel_1",
@@ -5480,17 +5490,7 @@
       "video_id": "wZd_mfd54VA",
       "error_message": null,
       "created_at": "2026-09-29T02:08:52.900736+00:00"
-    },
-    {
-      "id": 77,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-09-28",
-      "status": "success",
-      "video_id": "vLZoF2mawWY",
-      "error_message": null,
-      "created_at": "2026-09-28T23:42:18.023575+00:00"
     }
   ],
-  "last_updated": "2026-10-12T07:33:05.308889+00:00"
+  "last_updated": "2026-10-12T08:30:17.131889+00:00"
 }
