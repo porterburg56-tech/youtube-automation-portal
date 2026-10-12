@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 229,
-    "total_views": 138991,
+    "total_views": 139015,
     "total_likes": 181,
     "total_subscribers": 85,
     "channels_count": 4,
@@ -107,42 +107,42 @@
     {
       "date": "2026-10-08",
       "ch1_views": 43,
-      "ch2_views": 187,
+      "ch2_views": 188,
       "ch3_views": 31460,
       "ch4_views": 1102,
-      "total_views": 32792
+      "total_views": 32793
     },
     {
       "date": "2026-10-09",
       "ch1_views": 45,
-      "ch2_views": 205,
+      "ch2_views": 206,
       "ch3_views": 31487,
-      "ch4_views": 1328,
-      "total_views": 33065
+      "ch4_views": 1332,
+      "total_views": 33070
     },
     {
       "date": "2026-10-10",
       "ch1_views": 47,
-      "ch2_views": 222,
-      "ch3_views": 31532,
-      "ch4_views": 1490,
-      "total_views": 33291
+      "ch2_views": 223,
+      "ch3_views": 31535,
+      "ch4_views": 1496,
+      "total_views": 33301
     },
     {
       "date": "2026-10-11",
       "ch1_views": 48,
-      "ch2_views": 227,
-      "ch3_views": 31555,
-      "ch4_views": 1529,
-      "total_views": 33359
+      "ch2_views": 229,
+      "ch3_views": 31564,
+      "ch4_views": 1540,
+      "total_views": 33381
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 0,
-      "ch2_views": 227,
-      "ch3_views": 31555,
+      "ch1_views": 48,
+      "ch2_views": 229,
+      "ch3_views": 31564,
       "ch4_views": 0,
-      "total_views": 31782
+      "total_views": 31841
     }
   ],
   "channels": {
@@ -162,7 +162,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 87,
-      "total_views": 619,
+      "total_views": 620,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -194,7 +194,7 @@
         {
           "date": "2026-09-25",
           "views": 1,
-          "uploads": 3,
+          "uploads": 2,
           "cumulative_views": 1
         },
         {
@@ -256,9 +256,29 @@
           "views": 1,
           "uploads": 3,
           "cumulative_views": 48
+        },
+        {
+          "date": "2026-10-12",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 48
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7691729270430862605",
+          "youtube_id": "LyvSs6dOwMU",
+          "title": "He Did Not Miss a Single Step \ud83d\ude02\ud83c\udfc6",
+          "tiktok_views": 25500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/LyvSs6dOwMU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-12T02:36:17Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -664,20 +684,6 @@
           "thumbnail": "https://i.ytimg.com/vi/MXt0Ix3blQo/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-25T17:17:28Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7678728138582707470",
-          "youtube_id": "m7xvf7F4k14",
-          "title": "He Copied Every Single Step and Nobody Was Ready \ud83d\udc80\ud83d\ude2d",
-          "tiktok_views": 42200,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/m7xvf7F4k14/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-25T02:09:20Z"
         }
       ],
       "runs": [
@@ -972,33 +978,33 @@
         },
         {
           "date": "2026-10-08",
-          "views": 13,
+          "views": 14,
           "uploads": 1,
-          "cumulative_views": 187
+          "cumulative_views": 188
         },
         {
           "date": "2026-10-09",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 205
+          "cumulative_views": 206
         },
         {
           "date": "2026-10-10",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 222
+          "cumulative_views": 223
         },
         {
           "date": "2026-10-11",
-          "views": 5,
+          "views": 6,
           "uploads": 3,
-          "cumulative_views": 227
+          "cumulative_views": 229
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 227
+          "cumulative_views": 229
         }
       ],
       "videos": [
@@ -1051,7 +1057,7 @@
           "youtube_id": "H_YK6bpmvpI",
           "title": "cheesy Baked chicken and zucchini casserole \u2728",
           "tiktok_views": 37800,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/H_YK6bpmvpI/hqdefault.jpg",
@@ -1149,7 +1155,7 @@
           "youtube_id": "MD9VcCPCjd0",
           "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
           "tiktok_views": 234700,
-          "youtube_views": 13,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -1425,6 +1431,36 @@
       ],
       "runs": [
         {
+          "id": 98,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-12",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "Dubbing failed or produced no output for 7662452813775064334. Aborting upload as requested.",
+          "created_at": "2026-10-12T07:13:58.893984+00:00"
+        },
+        {
+          "id": 97,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-12",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "Dubbing failed or produced no output for 7662452813775064334. Aborting upload as requested.",
+          "created_at": "2026-10-12T07:07:58.556335+00:00"
+        },
+        {
+          "id": 96,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-12",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "Dubbing failed or produced no output for 7662452813775064334. Aborting upload as requested.",
+          "created_at": "2026-10-12T07:01:57.432580+00:00"
+        },
+        {
           "id": 95,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1593,36 +1629,6 @@
           "video_id": "RCyKMx4yVxA",
           "error_message": null,
           "created_at": "2026-09-29T22:29:13.994813+00:00"
-        },
-        {
-          "id": 78,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-29",
-          "status": "success",
-          "video_id": "K12i9Nrqekg",
-          "error_message": null,
-          "created_at": "2026-09-29T16:25:25.676993+00:00"
-        },
-        {
-          "id": 77,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-09-29",
-          "status": "success",
-          "video_id": "c9JzQwKOhtc",
-          "error_message": null,
-          "created_at": "2026-09-29T01:16:21.482649+00:00"
-        },
-        {
-          "id": 76,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-09-28",
-          "status": "success",
-          "video_id": "JpRuF51o4yQ",
-          "error_message": null,
-          "created_at": "2026-09-28T22:28:05.422901+00:00"
         }
       ]
     },
@@ -1642,7 +1648,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 38,
-      "total_views": 136035,
+      "total_views": 136058,
       "total_likes": 165,
       "upcoming": {
         "slot1": {
@@ -1733,21 +1739,21 @@
         },
         {
           "date": "2026-10-10",
-          "views": 45,
+          "views": 48,
           "uploads": 3,
-          "cumulative_views": 31532
+          "cumulative_views": 31535
         },
         {
           "date": "2026-10-11",
-          "views": 23,
+          "views": 29,
           "uploads": 3,
-          "cumulative_views": 31555
+          "cumulative_views": 31564
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 31555
+          "cumulative_views": 31564
         }
       ],
       "videos": [
@@ -1786,7 +1792,7 @@
           "youtube_id": "ei5AX54nPqk",
           "title": "Forceps removing thorn from toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 11,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -1800,7 +1806,7 @@
           "youtube_id": "jor3O-ZTvLc",
           "title": "Forceps removing staple from toe\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 10,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jor3O-ZTvLc/hqdefault.jpg",
@@ -1814,7 +1820,7 @@
           "youtube_id": "nxH8mXgF1cA",
           "title": "Forceps extracting needle from t\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 33,
+          "youtube_views": 36,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nxH8mXgF1cA/hqdefault.jpg",
@@ -2464,21 +2470,21 @@
         },
         {
           "date": "2026-10-09",
-          "views": 226,
+          "views": 230,
           "uploads": 3,
-          "cumulative_views": 1328
+          "cumulative_views": 1332
         },
         {
           "date": "2026-10-10",
-          "views": 162,
+          "views": 164,
           "uploads": 3,
-          "cumulative_views": 1490
+          "cumulative_views": 1496
         },
         {
           "date": "2026-10-11",
-          "views": 39,
+          "views": 44,
           "uploads": 1,
-          "cumulative_views": 1529
+          "cumulative_views": 1540
         }
       ],
       "videos": [
@@ -2489,7 +2495,7 @@
           "youtube_id": "DJzCZpoyd4U",
           "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 39,
+          "youtube_views": 44,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -2517,7 +2523,7 @@
           "youtube_id": "_rWFtgY6jnk",
           "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 114,
+          "youtube_views": 116,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_rWFtgY6jnk/hqdefault.jpg",
@@ -2545,7 +2551,7 @@
           "youtube_id": "50qJCs438SM",
           "title": "Top Remote Job You Can Do From Home \ud83d\udcbb\ud83c\udf0e",
           "tiktok_views": 0,
-          "youtube_views": 58,
+          "youtube_views": 62,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/50qJCs438SM/hqdefault.jpg",
@@ -2969,6 +2975,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7691729270430862605",
+      "youtube_id": "LyvSs6dOwMU",
+      "title": "He Did Not Miss a Single Step \ud83d\ude02\ud83c\udfc6",
+      "tiktok_views": 25500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/LyvSs6dOwMU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-12T02:36:17Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7643152138582985997",
@@ -3059,7 +3079,7 @@
       "youtube_id": "ei5AX54nPqk",
       "title": "Forceps removing thorn from toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 11,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -3101,7 +3121,7 @@
       "youtube_id": "DJzCZpoyd4U",
       "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 39,
+      "youtube_views": 44,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -3115,7 +3135,7 @@
       "youtube_id": "H_YK6bpmvpI",
       "title": "cheesy Baked chicken and zucchini casserole \u2728",
       "tiktok_views": 37800,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/H_YK6bpmvpI/hqdefault.jpg",
@@ -3129,7 +3149,7 @@
       "youtube_id": "jor3O-ZTvLc",
       "title": "Forceps removing staple from toe\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 10,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jor3O-ZTvLc/hqdefault.jpg",
@@ -3157,7 +3177,7 @@
       "youtube_id": "nxH8mXgF1cA",
       "title": "Forceps extracting needle from t\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 33,
+      "youtube_views": 36,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nxH8mXgF1cA/hqdefault.jpg",
@@ -3213,7 +3233,7 @@
       "youtube_id": "_rWFtgY6jnk",
       "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 114,
+      "youtube_views": 116,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_rWFtgY6jnk/hqdefault.jpg",
@@ -3311,7 +3331,7 @@
       "youtube_id": "50qJCs438SM",
       "title": "Top Remote Job You Can Do From Home \ud83d\udcbb\ud83c\udf0e",
       "tiktok_views": 0,
-      "youtube_views": 58,
+      "youtube_views": 62,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/50qJCs438SM/hqdefault.jpg",
@@ -3479,7 +3499,7 @@
       "youtube_id": "MD9VcCPCjd0",
       "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
       "tiktok_views": 234700,
-      "youtube_views": 13,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -4313,20 +4333,6 @@
       "uploaded_at": "2026-09-25T16:13:40Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7678728138582707470",
-      "youtube_id": "m7xvf7F4k14",
-      "title": "He Copied Every Single Step and Nobody Was Ready \ud83d\udc80\ud83d\ude2d",
-      "tiktok_views": 42200,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/m7xvf7F4k14/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-25T02:09:20Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7689173448739818766",
@@ -4525,7 +4531,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 87,
-    "total_views": 619,
+    "total_views": 620,
     "total_likes": 1,
     "upcoming": {
       "slot1": {
@@ -4557,7 +4563,7 @@
       {
         "date": "2026-09-25",
         "views": 1,
-        "uploads": 3,
+        "uploads": 2,
         "cumulative_views": 1
       },
       {
@@ -4619,9 +4625,29 @@
         "views": 1,
         "uploads": 3,
         "cumulative_views": 48
+      },
+      {
+        "date": "2026-10-12",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 48
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7691729270430862605",
+        "youtube_id": "LyvSs6dOwMU",
+        "title": "He Did Not Miss a Single Step \ud83d\ude02\ud83c\udfc6",
+        "tiktok_views": 25500,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/LyvSs6dOwMU/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-12T02:36:17Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5027,20 +5053,6 @@
         "thumbnail": "https://i.ytimg.com/vi/MXt0Ix3blQo/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-25T17:17:28Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7678728138582707470",
-        "youtube_id": "m7xvf7F4k14",
-        "title": "He Copied Every Single Step and Nobody Was Ready \ud83d\udc80\ud83d\ude2d",
-        "tiktok_views": 42200,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/m7xvf7F4k14/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-25T02:09:20Z"
       }
     ],
     "runs": [
@@ -5248,7 +5260,7 @@
   },
   "kpis": {
     "total_uploads": 229,
-    "total_views": 138991,
+    "total_views": 139015,
     "total_likes": 181,
     "videos_per_day": 12
   },
@@ -5480,5 +5492,5 @@
       "created_at": "2026-09-28T23:42:18.023575+00:00"
     }
   ],
-  "last_updated": "2026-10-12T02:36:03.956391+00:00"
+  "last_updated": "2026-10-12T07:14:03.133797+00:00"
 }
