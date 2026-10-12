@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 229,
+    "total_uploads": 230,
     "total_views": 139015,
     "total_likes": 181,
     "total_subscribers": 85,
@@ -132,17 +132,17 @@
       "date": "2026-10-11",
       "ch1_views": 48,
       "ch2_views": 229,
-      "ch3_views": 31564,
-      "ch4_views": 1540,
-      "total_views": 33381
+      "ch3_views": 31565,
+      "ch4_views": 1535,
+      "total_views": 33377
     },
     {
       "date": "2026-10-12",
       "ch1_views": 48,
       "ch2_views": 229,
-      "ch3_views": 31564,
+      "ch3_views": 31565,
       "ch4_views": 0,
-      "total_views": 31841
+      "total_views": 31842
     }
   ],
   "channels": {
@@ -1647,7 +1647,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 38,
+      "total_uploads": 39,
       "total_views": 136058,
       "total_likes": 165,
       "upcoming": {
@@ -1745,15 +1745,15 @@
         },
         {
           "date": "2026-10-11",
-          "views": 29,
+          "views": 30,
           "uploads": 3,
-          "cumulative_views": 31564
+          "cumulative_views": 31565
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 31564
+          "cumulative_views": 31565
         }
       ],
       "videos": [
@@ -1778,7 +1778,7 @@
           "youtube_id": "_zVtCB5Fy5o",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_zVtCB5Fy5o/hqdefault.jpg",
@@ -1806,7 +1806,7 @@
           "youtube_id": "jor3O-ZTvLc",
           "title": "Forceps removing staple from toe\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 12,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jor3O-ZTvLc/hqdefault.jpg",
@@ -2180,6 +2180,16 @@
       ],
       "runs": [
         {
+          "id": 62,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-12",
+          "status": "success",
+          "video_id": "rFdowK81gWE",
+          "error_message": null,
+          "created_at": "2026-10-12T07:19:49.982167+00:00"
+        },
+        {
           "id": 61,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2368,16 +2378,6 @@
           "video_id": "RRBocdziYIs",
           "error_message": null,
           "created_at": "2026-09-28T22:28:29.429391+00:00"
-        },
-        {
-          "id": 42,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-09-28",
-          "status": "success",
-          "video_id": "-cMGhsPZ3qM",
-          "error_message": null,
-          "created_at": "2026-09-28T05:59:28.213313+00:00"
         }
       ]
     },
@@ -2482,9 +2482,9 @@
         },
         {
           "date": "2026-10-11",
-          "views": 44,
+          "views": 39,
           "uploads": 1,
-          "cumulative_views": 1540
+          "cumulative_views": 1535
         }
       ],
       "videos": [
@@ -2495,7 +2495,7 @@
           "youtube_id": "DJzCZpoyd4U",
           "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 44,
+          "youtube_views": 39,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -3023,7 +3023,7 @@
       "youtube_id": "_zVtCB5Fy5o",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_zVtCB5Fy5o/hqdefault.jpg",
@@ -3121,7 +3121,7 @@
       "youtube_id": "DJzCZpoyd4U",
       "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 44,
+      "youtube_views": 39,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -3149,7 +3149,7 @@
       "youtube_id": "jor3O-ZTvLc",
       "title": "Forceps removing staple from toe\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 12,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jor3O-ZTvLc/hqdefault.jpg",
@@ -5259,7 +5259,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 229,
+    "total_uploads": 230,
     "total_views": 139015,
     "total_likes": 181,
     "videos_per_day": 12
@@ -5492,5 +5492,5 @@
       "created_at": "2026-09-28T23:42:18.023575+00:00"
     }
   ],
-  "last_updated": "2026-10-12T07:14:03.133797+00:00"
+  "last_updated": "2026-10-12T07:19:53.964940+00:00"
 }
