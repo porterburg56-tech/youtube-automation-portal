@@ -1,9 +1,9 @@
 {
   "cumulative": {
-    "total_uploads": 237,
-    "total_views": 139160,
-    "total_likes": 155,
-    "total_subscribers": 85,
+    "total_uploads": 238,
+    "total_views": 139284,
+    "total_likes": 154,
+    "total_subscribers": 86,
     "channels_count": 4,
     "videos_per_day": 12
   },
@@ -28,25 +28,25 @@
       "date": "2026-09-21",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 18593,
+      "ch3_views": 18594,
       "ch4_views": 0,
-      "total_views": 18593
+      "total_views": 18594
     },
     {
       "date": "2026-09-22",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 25944,
+      "ch3_views": 25945,
       "ch4_views": 0,
-      "total_views": 25944
+      "total_views": 25945
     },
     {
       "date": "2026-09-23",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 26033,
+      "ch3_views": 26034,
       "ch4_views": 0,
-      "total_views": 26033
+      "total_views": 26034
     },
     {
       "date": "2026-09-25",
@@ -58,99 +58,99 @@
     },
     {
       "date": "2026-09-26",
-      "ch1_views": 3,
+      "ch1_views": 2,
       "ch2_views": 33,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 36
+      "total_views": 35
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 9,
+      "ch1_views": 8,
       "ch2_views": 38,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 47
+      "total_views": 46
     },
     {
       "date": "2026-09-28",
-      "ch1_views": 10,
+      "ch1_views": 9,
       "ch2_views": 71,
-      "ch3_views": 26053,
+      "ch3_views": 26054,
       "ch4_views": 557,
       "total_views": 26691
     },
     {
       "date": "2026-09-29",
-      "ch1_views": 13,
-      "ch2_views": 111,
-      "ch3_views": 26119,
+      "ch1_views": 12,
+      "ch2_views": 112,
+      "ch3_views": 26120,
       "ch4_views": 636,
-      "total_views": 26879
+      "total_views": 26880
     },
     {
       "date": "2026-09-30",
-      "ch1_views": 14,
-      "ch2_views": 168,
-      "ch3_views": 26218,
+      "ch1_views": 13,
+      "ch2_views": 169,
+      "ch3_views": 26219,
       "ch4_views": 842,
-      "total_views": 27242
+      "total_views": 27243
     },
     {
       "date": "2026-10-01",
-      "ch1_views": 18,
-      "ch2_views": 176,
-      "ch3_views": 26240,
+      "ch1_views": 17,
+      "ch2_views": 177,
+      "ch3_views": 26241,
       "ch4_views": 1056,
-      "total_views": 27490
+      "total_views": 27491
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 20,
-      "ch2_views": 191,
-      "ch3_views": 26376,
+      "ch1_views": 19,
+      "ch2_views": 192,
+      "ch3_views": 26377,
       "ch4_views": 1102,
-      "total_views": 27689
+      "total_views": 27690
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 22,
-      "ch2_views": 209,
-      "ch3_views": 26403,
+      "ch1_views": 21,
+      "ch2_views": 210,
+      "ch3_views": 26404,
       "ch4_views": 1333,
-      "total_views": 27967
+      "total_views": 27968
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 24,
-      "ch2_views": 228,
-      "ch3_views": 26458,
-      "ch4_views": 1504,
-      "total_views": 28214
+      "ch1_views": 23,
+      "ch2_views": 229,
+      "ch3_views": 26459,
+      "ch4_views": 1505,
+      "total_views": 28216
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 24,
-      "ch2_views": 238,
-      "ch3_views": 26529,
-      "ch4_views": 1559,
-      "total_views": 28350
+      "ch1_views": 23,
+      "ch2_views": 241,
+      "ch3_views": 26533,
+      "ch4_views": 1562,
+      "total_views": 28359
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 27,
-      "ch2_views": 238,
-      "ch3_views": 26537,
+      "ch1_views": 26,
+      "ch2_views": 241,
+      "ch3_views": 26544,
       "ch4_views": 0,
-      "total_views": 26802
+      "total_views": 26811
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 27,
+      "ch1_views": 26,
       "ch2_views": 0,
-      "ch3_views": 26537,
+      "ch3_views": 26548,
       "ch4_views": 0,
-      "total_views": 26564
+      "total_views": 26574
     }
   ],
   "channels": {
@@ -170,7 +170,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 91,
-      "total_views": 621,
+      "total_views": 624,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -201,78 +201,92 @@
       "view_history": [
         {
           "date": "2026-09-26",
-          "views": 3,
-          "uploads": 2,
-          "cumulative_views": 3
+          "views": 2,
+          "uploads": 1,
+          "cumulative_views": 2
         },
         {
           "date": "2026-09-27",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 9
+          "cumulative_views": 8
         },
         {
           "date": "2026-09-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 10
+          "cumulative_views": 9
         },
         {
           "date": "2026-09-29",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 12
         },
         {
           "date": "2026-09-30",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 14
+          "cumulative_views": 13
         },
         {
           "date": "2026-10-01",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 18
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-08",
           "views": 2,
           "uploads": 2,
-          "cumulative_views": 20
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-09",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-10",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 23
         },
         {
           "date": "2026-10-11",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 23
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 27
+          "cumulative_views": 26
         },
         {
           "date": "2026-10-13",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 27
+          "uploads": 2,
+          "cumulative_views": 26
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7683871305157872910",
+          "youtube_id": "cmCwnMtsjOQ",
+          "title": "Grandpa has a shadow now and the shadow is 15 months old \ud83e\udd23",
+          "tiktok_views": 18100,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/cmCwnMtsjOQ/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-13T08:54:17Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -678,20 +692,6 @@
           "thumbnail": "https://i.ytimg.com/vi/5AaYSTH-2Xw/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-26T23:40:17Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7689872063539973390",
-          "youtube_id": "7pjs4mhwuoU",
-          "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23",
-          "tiktok_views": 1044,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/7pjs4mhwuoU/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-26T17:16:02Z"
         }
       ],
       "runs": [
@@ -912,8 +912,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 84,
-      "total_views": 924,
+      "total_uploads": 85,
+      "total_views": 936,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -968,51 +968,51 @@
         },
         {
           "date": "2026-09-29",
-          "views": 40,
+          "views": 41,
           "uploads": 3,
-          "cumulative_views": 111
+          "cumulative_views": 112
         },
         {
           "date": "2026-09-30",
           "views": 57,
           "uploads": 3,
-          "cumulative_views": 168
+          "cumulative_views": 169
         },
         {
           "date": "2026-10-01",
           "views": 8,
           "uploads": 1,
-          "cumulative_views": 176
+          "cumulative_views": 177
         },
         {
           "date": "2026-10-08",
           "views": 15,
           "uploads": 1,
-          "cumulative_views": 191
+          "cumulative_views": 192
         },
         {
           "date": "2026-10-09",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 209
+          "cumulative_views": 210
         },
         {
           "date": "2026-10-10",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 228
+          "cumulative_views": 229
         },
         {
           "date": "2026-10-11",
-          "views": 10,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 238
+          "cumulative_views": 241
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 238
+          "cumulative_views": 241
         }
       ],
       "videos": [
@@ -1037,7 +1037,7 @@
           "youtube_id": "38jAmFk-xzU",
           "title": "No-Bake Chocolate Oreo Banana Roll \ud83c\udf6b\ud83c\udf4c",
           "tiktok_views": 26800,
-          "youtube_views": 3,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/38jAmFk-xzU/hqdefault.jpg",
@@ -1261,7 +1261,7 @@
           "youtube_id": "c9JzQwKOhtc",
           "title": "Homemade Farmer\u2019s Cheese the Old Polish Way \u2728",
           "tiktok_views": 42600,
-          "youtube_views": 16,
+          "youtube_views": 17,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/c9JzQwKOhtc/hqdefault.jpg",
@@ -1438,6 +1438,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 104,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-10-13",
+          "status": "success",
+          "video_id": "fOzphVK1Abc",
+          "error_message": null,
+          "created_at": "2026-10-13T21:11:03.772927+00:00"
+        },
         {
           "id": 103,
           "channel_id": "channel_2",
@@ -1627,16 +1637,6 @@
           "video_id": "MD9VcCPCjd0",
           "error_message": null,
           "created_at": "2026-10-08T21:07:16.951064+00:00"
-        },
-        {
-          "id": 84,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-10-08",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "<HttpError 401 when requesting None returned \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\". Details: \"[{'message': 'Invalid Credentials', 'domain': 'global', 'reason': 'authError', 'location': 'Authorization', 'locationType': 'header'}]\">",
-          "created_at": "2026-10-08T08:02:38.816928+00:00"
         }
       ]
     },
@@ -1656,8 +1656,8 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 42,
-      "total_views": 136087,
-      "total_likes": 139,
+      "total_views": 136165,
+      "total_likes": 138,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1687,81 +1687,81 @@
       "view_history": [
         {
           "date": "2026-09-21",
-          "views": 18593,
+          "views": 18594,
           "uploads": 2,
-          "cumulative_views": 18593
+          "cumulative_views": 18594
         },
         {
           "date": "2026-09-22",
           "views": 7351,
           "uploads": 3,
-          "cumulative_views": 25944
+          "cumulative_views": 25945
         },
         {
           "date": "2026-09-23",
           "views": 89,
           "uploads": 1,
-          "cumulative_views": 26033
+          "cumulative_views": 26034
         },
         {
           "date": "2026-09-28",
           "views": 20,
           "uploads": 2,
-          "cumulative_views": 26053
+          "cumulative_views": 26054
         },
         {
           "date": "2026-09-29",
           "views": 66,
           "uploads": 3,
-          "cumulative_views": 26119
+          "cumulative_views": 26120
         },
         {
           "date": "2026-09-30",
           "views": 99,
           "uploads": 3,
-          "cumulative_views": 26218
+          "cumulative_views": 26219
         },
         {
           "date": "2026-10-01",
           "views": 22,
           "uploads": 1,
-          "cumulative_views": 26240
+          "cumulative_views": 26241
         },
         {
           "date": "2026-10-08",
           "views": 136,
           "uploads": 1,
-          "cumulative_views": 26376
+          "cumulative_views": 26377
         },
         {
           "date": "2026-10-09",
           "views": 27,
           "uploads": 3,
-          "cumulative_views": 26403
+          "cumulative_views": 26404
         },
         {
           "date": "2026-10-10",
           "views": 55,
           "uploads": 3,
-          "cumulative_views": 26458
+          "cumulative_views": 26459
         },
         {
           "date": "2026-10-11",
-          "views": 71,
+          "views": 74,
           "uploads": 3,
-          "cumulative_views": 26529
+          "cumulative_views": 26533
         },
         {
           "date": "2026-10-12",
-          "views": 8,
+          "views": 11,
           "uploads": 3,
-          "cumulative_views": 26537
+          "cumulative_views": 26544
         },
         {
           "date": "2026-10-13",
-          "views": 0,
+          "views": 4,
           "uploads": 2,
-          "cumulative_views": 26537
+          "cumulative_views": 26548
         }
       ],
       "videos": [
@@ -1772,7 +1772,7 @@
           "youtube_id": "WRbu8j4Cr-E",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/WRbu8j4Cr-E/hqdefault.jpg",
@@ -1786,7 +1786,7 @@
           "youtube_id": "6OYe6bcwdhk",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6OYe6bcwdhk/hqdefault.jpg",
@@ -1800,7 +1800,7 @@
           "youtube_id": "9eK7aXl3-QQ",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9eK7aXl3-QQ/hqdefault.jpg",
@@ -1814,7 +1814,7 @@
           "youtube_id": "rFdowK81gWE",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/rFdowK81gWE/hqdefault.jpg",
@@ -1856,7 +1856,7 @@
           "youtube_id": "ei5AX54nPqk",
           "title": "Forceps removing thorn from toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 23,
+          "youtube_views": 26,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -2178,8 +2178,8 @@
           "youtube_id": "_j8iXxbG89o",
           "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18516,
-          "youtube_likes": 101,
+          "youtube_views": 18517,
+          "youtube_likes": 100,
           "youtube_comments": 1,
           "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
           "status": "uploaded",
@@ -2403,9 +2403,9 @@
       "avatar": "https://yt3.ggpht.com/zYHct36vdSNYI8-iosR9PhmCS2Zrb9RD_MLTZUpBsL2Ejo1InLcVSkKzbBRcImic2U7tUFI_dw=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "R",
       "category": "Remote Work & Side Hustles",
-      "subscribers": 4,
+      "subscribers": 5,
       "total_uploads": 20,
-      "total_views": 1528,
+      "total_views": 1559,
       "total_likes": 15,
       "upcoming": {
         "slot1": {
@@ -2484,15 +2484,15 @@
         },
         {
           "date": "2026-10-10",
-          "views": 171,
+          "views": 172,
           "uploads": 3,
-          "cumulative_views": 1504
+          "cumulative_views": 1505
         },
         {
           "date": "2026-10-11",
-          "views": 55,
+          "views": 57,
           "uploads": 1,
-          "cumulative_views": 1559
+          "cumulative_views": 1562
         }
       ],
       "videos": [
@@ -2503,7 +2503,7 @@
           "youtube_id": "DJzCZpoyd4U",
           "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 55,
+          "youtube_views": 57,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -2531,7 +2531,7 @@
           "youtube_id": "_rWFtgY6jnk",
           "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 120,
+          "youtube_views": 121,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_rWFtgY6jnk/hqdefault.jpg",
@@ -2983,13 +2983,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7683871305157872910",
+      "youtube_id": "cmCwnMtsjOQ",
+      "title": "Grandpa has a shadow now and the shadow is 15 months old \ud83e\udd23",
+      "tiktok_views": 18100,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/cmCwnMtsjOQ/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-13T08:54:17Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1iECpxSxzh_-9xxEBCw_pYbJ-q7TuS6SV",
       "youtube_id": "WRbu8j4Cr-E",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/WRbu8j4Cr-E/hqdefault.jpg",
@@ -3017,7 +3031,7 @@
       "youtube_id": "6OYe6bcwdhk",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6OYe6bcwdhk/hqdefault.jpg",
@@ -3031,7 +3045,7 @@
       "youtube_id": "9eK7aXl3-QQ",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9eK7aXl3-QQ/hqdefault.jpg",
@@ -3073,7 +3087,7 @@
       "youtube_id": "rFdowK81gWE",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/rFdowK81gWE/hqdefault.jpg",
@@ -3157,7 +3171,7 @@
       "youtube_id": "38jAmFk-xzU",
       "title": "No-Bake Chocolate Oreo Banana Roll \ud83c\udf6b\ud83c\udf4c",
       "tiktok_views": 26800,
-      "youtube_views": 3,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/38jAmFk-xzU/hqdefault.jpg",
@@ -3185,7 +3199,7 @@
       "youtube_id": "ei5AX54nPqk",
       "title": "Forceps removing thorn from toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 23,
+      "youtube_views": 26,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -3227,7 +3241,7 @@
       "youtube_id": "DJzCZpoyd4U",
       "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 55,
+      "youtube_views": 57,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -3339,7 +3353,7 @@
       "youtube_id": "_rWFtgY6jnk",
       "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 120,
+      "youtube_views": 121,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_rWFtgY6jnk/hqdefault.jpg",
@@ -4067,7 +4081,7 @@
       "youtube_id": "c9JzQwKOhtc",
       "title": "Homemade Farmer\u2019s Cheese the Old Polish Way \u2728",
       "tiktok_views": 42600,
-      "youtube_views": 16,
+      "youtube_views": 17,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/c9JzQwKOhtc/hqdefault.jpg",
@@ -4327,20 +4341,6 @@
       "uploaded_at": "2026-09-26T22:15:56Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7689872063539973390",
-      "youtube_id": "7pjs4mhwuoU",
-      "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23",
-      "tiktok_views": 1044,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/7pjs4mhwuoU/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-26T17:16:02Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7689546426736495886",
@@ -4487,8 +4487,8 @@
       "youtube_id": "_j8iXxbG89o",
       "title": "Oddly Satisfying Gel Nail Design Transformation \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18516,
-      "youtube_likes": 101,
+      "youtube_views": 18517,
+      "youtube_likes": 100,
       "youtube_comments": 1,
       "thumbnail": "https://i.ytimg.com/vi/_j8iXxbG89o/hqdefault.jpg",
       "status": "uploaded",
@@ -4539,7 +4539,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 91,
-    "total_views": 621,
+    "total_views": 624,
     "total_likes": 1,
     "upcoming": {
       "slot1": {
@@ -4570,78 +4570,92 @@
     "view_history": [
       {
         "date": "2026-09-26",
-        "views": 3,
-        "uploads": 2,
-        "cumulative_views": 3
+        "views": 2,
+        "uploads": 1,
+        "cumulative_views": 2
       },
       {
         "date": "2026-09-27",
         "views": 6,
         "uploads": 3,
-        "cumulative_views": 9
+        "cumulative_views": 8
       },
       {
         "date": "2026-09-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 10
+        "cumulative_views": 9
       },
       {
         "date": "2026-09-29",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 12
       },
       {
         "date": "2026-09-30",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 14
+        "cumulative_views": 13
       },
       {
         "date": "2026-10-01",
         "views": 4,
         "uploads": 1,
-        "cumulative_views": 18
+        "cumulative_views": 17
       },
       {
         "date": "2026-10-08",
         "views": 2,
         "uploads": 2,
-        "cumulative_views": 20
+        "cumulative_views": 19
       },
       {
         "date": "2026-10-09",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-10",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 23
       },
       {
         "date": "2026-10-11",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 23
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 27
+        "cumulative_views": 26
       },
       {
         "date": "2026-10-13",
         "views": 0,
-        "uploads": 1,
-        "cumulative_views": 27
+        "uploads": 2,
+        "cumulative_views": 26
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7683871305157872910",
+        "youtube_id": "cmCwnMtsjOQ",
+        "title": "Grandpa has a shadow now and the shadow is 15 months old \ud83e\udd23",
+        "tiktok_views": 18100,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/cmCwnMtsjOQ/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-13T08:54:17Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5047,20 +5061,6 @@
         "thumbnail": "https://i.ytimg.com/vi/5AaYSTH-2Xw/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-26T23:40:17Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7689872063539973390",
-        "youtube_id": "7pjs4mhwuoU",
-        "title": "He Followed Him All the Way Across the Room Hands Behind Back \ud83e\udd23",
-        "tiktok_views": 1044,
-        "youtube_views": 1,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/7pjs4mhwuoU/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-26T17:16:02Z"
       }
     ],
     "runs": [
@@ -5267,9 +5267,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 237,
-    "total_views": 139160,
-    "total_likes": 155,
+    "total_uploads": 238,
+    "total_views": 139284,
+    "total_likes": 154,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5500,5 +5500,5 @@
       "created_at": "2026-09-30T02:09:53.224489+00:00"
     }
   ],
-  "last_updated": "2026-10-13T08:53:58.537372+00:00"
+  "last_updated": "2026-10-13T21:11:08.468173+00:00"
 }
