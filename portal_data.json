@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 233,
+    "total_uploads": 234,
     "total_views": 139160,
     "total_likes": 173,
     "total_subscribers": 85,
@@ -124,25 +124,25 @@
       "date": "2026-10-10",
       "ch1_views": 46,
       "ch2_views": 228,
-      "ch3_views": 29163,
+      "ch3_views": 29161,
       "ch4_views": 1503,
-      "total_views": 30940
+      "total_views": 30938
     },
     {
       "date": "2026-10-11",
       "ch1_views": 47,
       "ch2_views": 238,
-      "ch3_views": 29233,
+      "ch3_views": 29230,
       "ch4_views": 1558,
-      "total_views": 31076
+      "total_views": 31073
     },
     {
       "date": "2026-10-12",
       "ch1_views": 50,
       "ch2_views": 238,
-      "ch3_views": 29240,
+      "ch3_views": 29237,
       "ch4_views": 0,
-      "total_views": 29528
+      "total_views": 29525
     }
   ],
   "channels": {
@@ -1641,7 +1641,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 40,
+      "total_uploads": 41,
       "total_views": 136087,
       "total_likes": 157,
       "upcoming": {
@@ -1733,21 +1733,21 @@
         },
         {
           "date": "2026-10-10",
-          "views": 54,
+          "views": 52,
           "uploads": 3,
-          "cumulative_views": 29163
+          "cumulative_views": 29161
         },
         {
           "date": "2026-10-11",
-          "views": 70,
+          "views": 69,
           "uploads": 3,
-          "cumulative_views": 29233
+          "cumulative_views": 29230
         },
         {
           "date": "2026-10-12",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 29240
+          "cumulative_views": 29237
         }
       ],
       "videos": [
@@ -1828,7 +1828,7 @@
           "youtube_id": "jor3O-ZTvLc",
           "title": "Forceps removing staple from toe\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 15,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jor3O-ZTvLc/hqdefault.jpg",
@@ -1842,7 +1842,7 @@
           "youtube_id": "nxH8mXgF1cA",
           "title": "Forceps extracting needle from t\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 41,
+          "youtube_views": 39,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nxH8mXgF1cA/hqdefault.jpg",
@@ -2174,6 +2174,16 @@
       ],
       "runs": [
         {
+          "id": 64,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-10-13",
+          "status": "success",
+          "video_id": "6OYe6bcwdhk",
+          "error_message": null,
+          "created_at": "2026-10-13T03:03:59.527503+00:00"
+        },
+        {
           "id": 63,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2362,16 +2372,6 @@
           "video_id": "aglMDQoisv8",
           "error_message": null,
           "created_at": "2026-09-29T17:27:18.949445+00:00"
-        },
-        {
-          "id": 44,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-09-29",
-          "status": "success",
-          "video_id": "TJ_cOTW3394",
-          "error_message": null,
-          "created_at": "2026-09-29T01:25:47.802282+00:00"
         }
       ]
     },
@@ -3199,7 +3199,7 @@
       "youtube_id": "jor3O-ZTvLc",
       "title": "Forceps removing staple from toe\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 15,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jor3O-ZTvLc/hqdefault.jpg",
@@ -3227,7 +3227,7 @@
       "youtube_id": "nxH8mXgF1cA",
       "title": "Forceps extracting needle from t\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 41,
+      "youtube_views": 39,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nxH8mXgF1cA/hqdefault.jpg",
@@ -5247,7 +5247,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 233,
+    "total_uploads": 234,
     "total_views": 139160,
     "total_likes": 173,
     "videos_per_day": 12
@@ -5480,5 +5480,5 @@
       "created_at": "2026-09-29T17:16:52.204172+00:00"
     }
   ],
-  "last_updated": "2026-10-13T02:59:01.037188+00:00"
+  "last_updated": "2026-10-13T03:04:03.952074+00:00"
 }
