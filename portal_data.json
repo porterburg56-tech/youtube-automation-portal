@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 234,
+    "total_uploads": 235,
     "total_views": 139160,
     "total_likes": 172,
     "total_subscribers": 85,
@@ -169,7 +169,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 89,
+      "total_uploads": 90,
       "total_views": 621,
       "total_likes": 1,
       "upcoming": {
@@ -690,6 +690,16 @@
       ],
       "runs": [
         {
+          "id": 99,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-10-13",
+          "status": "success",
+          "video_id": "Nksh8iMFkRU",
+          "error_message": null,
+          "created_at": "2026-10-13T03:45:52.806422+00:00"
+        },
+        {
           "id": 98,
           "channel_id": "channel_1",
           "slot": 1,
@@ -878,16 +888,6 @@
           "video_id": "JYE1o-T-OD8",
           "error_message": null,
           "created_at": "2026-09-29T23:40:38.379419+00:00"
-        },
-        {
-          "id": 79,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-29",
-          "status": "success",
-          "video_id": "bDoYFeuPQfQ",
-          "error_message": null,
-          "created_at": "2026-09-29T17:16:52.204172+00:00"
         }
       ]
     },
@@ -4532,7 +4532,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 89,
+    "total_uploads": 90,
     "total_views": 621,
     "total_likes": 1,
     "upcoming": {
@@ -5053,6 +5053,16 @@
     ],
     "runs": [
       {
+        "id": 99,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-10-13",
+        "status": "success",
+        "video_id": "Nksh8iMFkRU",
+        "error_message": null,
+        "created_at": "2026-10-13T03:45:52.806422+00:00"
+      },
+      {
         "id": 98,
         "channel_id": "channel_1",
         "slot": 1,
@@ -5241,21 +5251,11 @@
         "video_id": "JYE1o-T-OD8",
         "error_message": null,
         "created_at": "2026-09-29T23:40:38.379419+00:00"
-      },
-      {
-        "id": 79,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-29",
-        "status": "success",
-        "video_id": "bDoYFeuPQfQ",
-        "error_message": null,
-        "created_at": "2026-09-29T17:16:52.204172+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 234,
+    "total_uploads": 235,
     "total_views": 139160,
     "total_likes": 172,
     "videos_per_day": 12
@@ -5287,6 +5287,16 @@
     }
   },
   "runs": [
+    {
+      "id": 99,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-10-13",
+      "status": "success",
+      "video_id": "Nksh8iMFkRU",
+      "error_message": null,
+      "created_at": "2026-10-13T03:45:52.806422+00:00"
+    },
     {
       "id": 98,
       "channel_id": "channel_1",
@@ -5476,17 +5486,7 @@
       "video_id": "JYE1o-T-OD8",
       "error_message": null,
       "created_at": "2026-09-29T23:40:38.379419+00:00"
-    },
-    {
-      "id": 79,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-29",
-      "status": "success",
-      "video_id": "bDoYFeuPQfQ",
-      "error_message": null,
-      "created_at": "2026-09-29T17:16:52.204172+00:00"
     }
   ],
-  "last_updated": "2026-10-13T03:05:49.878190+00:00"
+  "last_updated": "2026-10-13T03:45:57.076333+00:00"
 }
