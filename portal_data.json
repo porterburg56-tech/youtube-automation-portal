@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 239,
+    "total_uploads": 240,
     "total_views": 139284,
     "total_likes": 154,
     "total_subscribers": 86,
@@ -58,99 +58,99 @@
     },
     {
       "date": "2026-09-26",
-      "ch1_views": 2,
+      "ch1_views": 0,
       "ch2_views": 30,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 32
+      "total_views": 30
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 8,
+      "ch1_views": 6,
       "ch2_views": 35,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 43
+      "total_views": 41
     },
     {
       "date": "2026-09-28",
-      "ch1_views": 9,
+      "ch1_views": 7,
       "ch2_views": 68,
       "ch3_views": 26054,
       "ch4_views": 557,
-      "total_views": 26688
+      "total_views": 26686
     },
     {
       "date": "2026-09-29",
-      "ch1_views": 12,
+      "ch1_views": 10,
       "ch2_views": 109,
       "ch3_views": 26120,
       "ch4_views": 636,
-      "total_views": 26877
+      "total_views": 26875
     },
     {
       "date": "2026-09-30",
-      "ch1_views": 13,
+      "ch1_views": 11,
       "ch2_views": 166,
       "ch3_views": 26219,
       "ch4_views": 842,
-      "total_views": 27240
+      "total_views": 27238
     },
     {
       "date": "2026-10-01",
-      "ch1_views": 17,
+      "ch1_views": 15,
       "ch2_views": 174,
       "ch3_views": 26241,
       "ch4_views": 1056,
-      "total_views": 27488
+      "total_views": 27486
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 19,
+      "ch1_views": 17,
       "ch2_views": 189,
       "ch3_views": 26377,
       "ch4_views": 1102,
-      "total_views": 27687
+      "total_views": 27685
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 21,
+      "ch1_views": 19,
       "ch2_views": 207,
       "ch3_views": 26404,
       "ch4_views": 1333,
-      "total_views": 27965
+      "total_views": 27963
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 23,
+      "ch1_views": 21,
       "ch2_views": 226,
       "ch3_views": 26459,
       "ch4_views": 1505,
-      "total_views": 28213
+      "total_views": 28211
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 23,
+      "ch1_views": 21,
       "ch2_views": 238,
       "ch3_views": 26533,
       "ch4_views": 1564,
-      "total_views": 28358
+      "total_views": 28356
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 26,
+      "ch1_views": 24,
       "ch2_views": 238,
       "ch3_views": 26544,
       "ch4_views": 0,
-      "total_views": 26808
+      "total_views": 26806
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 26,
+      "ch1_views": 24,
       "ch2_views": 238,
       "ch3_views": 26548,
       "ch4_views": 0,
-      "total_views": 26812
+      "total_views": 26810
     }
   ],
   "channels": {
@@ -200,79 +200,87 @@
       },
       "view_history": [
         {
-          "date": "2026-09-26",
-          "views": 2,
-          "uploads": 1,
-          "cumulative_views": 2
-        },
-        {
           "date": "2026-09-27",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 8
+          "cumulative_views": 6
         },
         {
           "date": "2026-09-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 9
+          "cumulative_views": 7
         },
         {
           "date": "2026-09-29",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 12
+          "cumulative_views": 10
         },
         {
           "date": "2026-09-30",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 11
         },
         {
           "date": "2026-10-01",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 17
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-08",
           "views": 2,
           "uploads": 2,
-          "cumulative_views": 19
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-09",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-10",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 23
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-11",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 23
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 26
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-13",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 26
+          "uploads": 3,
+          "cumulative_views": 24
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7696189595825851661",
+          "youtube_id": "EPD1-OTlPtM",
+          "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
+          "tiktok_views": 95200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/EPD1-OTlPtM/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-13T21:48:30Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -678,20 +686,6 @@
           "thumbnail": "https://i.ytimg.com/vi/QpVAKqTfnG0/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-27T02:09:17Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7689857779401641229",
-          "youtube_id": "5AaYSTH-2Xw",
-          "title": "Grandpa Walked So Baby Could Walk Exactly Like Him \ud83e\udd79\ud83d\udc80",
-          "tiktok_views": 47000,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/5AaYSTH-2Xw/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-26T23:40:17Z"
         }
       ],
       "runs": [
@@ -1661,7 +1655,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 42,
+      "total_uploads": 43,
       "total_views": 136165,
       "total_likes": 138,
       "upcoming": {
@@ -2194,6 +2188,16 @@
       ],
       "runs": [
         {
+          "id": 66,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-13",
+          "status": "success",
+          "video_id": "jbmeU9cMUV8",
+          "error_message": null,
+          "created_at": "2026-10-13T21:50:32.705791+00:00"
+        },
+        {
           "id": 65,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2382,16 +2386,6 @@
           "video_id": "Eed4K6uI_c4",
           "error_message": null,
           "created_at": "2026-09-30T01:27:49.651133+00:00"
-        },
-        {
-          "id": 46,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-09-29",
-          "status": "success",
-          "video_id": "2uMyHRRRoek",
-          "error_message": null,
-          "created_at": "2026-09-29T22:29:33.162955+00:00"
         }
       ]
     },
@@ -2988,6 +2982,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7696189595825851661",
+      "youtube_id": "EPD1-OTlPtM",
+      "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
+      "tiktok_views": 95200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/EPD1-OTlPtM/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-13T21:48:30Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4333,20 +4341,6 @@
       "uploaded_at": "2026-09-27T01:14:23Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7689857779401641229",
-      "youtube_id": "5AaYSTH-2Xw",
-      "title": "Grandpa Walked So Baby Could Walk Exactly Like Him \ud83e\udd79\ud83d\udc80",
-      "tiktok_views": 47000,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/5AaYSTH-2Xw/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-26T23:40:17Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7675452127317118221",
@@ -4575,79 +4569,87 @@
     },
     "view_history": [
       {
-        "date": "2026-09-26",
-        "views": 2,
-        "uploads": 1,
-        "cumulative_views": 2
-      },
-      {
         "date": "2026-09-27",
         "views": 6,
         "uploads": 3,
-        "cumulative_views": 8
+        "cumulative_views": 6
       },
       {
         "date": "2026-09-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 9
+        "cumulative_views": 7
       },
       {
         "date": "2026-09-29",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 12
+        "cumulative_views": 10
       },
       {
         "date": "2026-09-30",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 11
       },
       {
         "date": "2026-10-01",
         "views": 4,
         "uploads": 1,
-        "cumulative_views": 17
+        "cumulative_views": 15
       },
       {
         "date": "2026-10-08",
         "views": 2,
         "uploads": 2,
-        "cumulative_views": 19
+        "cumulative_views": 17
       },
       {
         "date": "2026-10-09",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 19
       },
       {
         "date": "2026-10-10",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 23
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-11",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 23
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 26
+        "cumulative_views": 24
       },
       {
         "date": "2026-10-13",
         "views": 0,
-        "uploads": 2,
-        "cumulative_views": 26
+        "uploads": 3,
+        "cumulative_views": 24
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7696189595825851661",
+        "youtube_id": "EPD1-OTlPtM",
+        "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
+        "tiktok_views": 95200,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/EPD1-OTlPtM/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-13T21:48:30Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5053,20 +5055,6 @@
         "thumbnail": "https://i.ytimg.com/vi/QpVAKqTfnG0/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-27T02:09:17Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7689857779401641229",
-        "youtube_id": "5AaYSTH-2Xw",
-        "title": "Grandpa Walked So Baby Could Walk Exactly Like Him \ud83e\udd79\ud83d\udc80",
-        "tiktok_views": 47000,
-        "youtube_views": 2,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/5AaYSTH-2Xw/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-26T23:40:17Z"
       }
     ],
     "runs": [
@@ -5273,7 +5261,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 239,
+    "total_uploads": 240,
     "total_views": 139284,
     "total_likes": 154,
     "videos_per_day": 12
@@ -5506,5 +5494,5 @@
       "created_at": "2026-09-30T17:25:02.538836+00:00"
     }
   ],
-  "last_updated": "2026-10-13T21:48:19.372747+00:00"
+  "last_updated": "2026-10-13T21:50:37.366712+00:00"
 }
