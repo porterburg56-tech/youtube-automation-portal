@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 235,
+    "total_uploads": 236,
     "total_views": 139160,
     "total_likes": 172,
     "total_subscribers": 85,
@@ -140,17 +140,17 @@
       "date": "2026-10-12",
       "ch1_views": 27,
       "ch2_views": 238,
-      "ch3_views": 29169,
+      "ch3_views": 29168,
       "ch4_views": 0,
-      "total_views": 29434
+      "total_views": 29433
     },
     {
       "date": "2026-10-13",
       "ch1_views": 27,
       "ch2_views": 0,
-      "ch3_views": 29169,
+      "ch3_views": 29168,
       "ch4_views": 0,
-      "total_views": 29196
+      "total_views": 29195
     }
   ],
   "channels": {
@@ -1655,7 +1655,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 41,
+      "total_uploads": 42,
       "total_views": 136087,
       "total_likes": 156,
       "upcoming": {
@@ -1753,15 +1753,15 @@
         },
         {
           "date": "2026-10-12",
-          "views": 8,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 29169
+          "cumulative_views": 29168
         },
         {
           "date": "2026-10-13",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 29169
+          "cumulative_views": 29168
         }
       ],
       "videos": [
@@ -1786,7 +1786,7 @@
           "youtube_id": "9eK7aXl3-QQ",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9eK7aXl3-QQ/hqdefault.jpg",
@@ -2188,6 +2188,16 @@
       ],
       "runs": [
         {
+          "id": 65,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-13",
+          "status": "success",
+          "video_id": "WRbu8j4Cr-E",
+          "error_message": null,
+          "created_at": "2026-10-13T07:41:29.316851+00:00"
+        },
+        {
           "id": 64,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2376,16 +2386,6 @@
           "video_id": "2uMyHRRRoek",
           "error_message": null,
           "created_at": "2026-09-29T22:29:33.162955+00:00"
-        },
-        {
-          "id": 45,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-09-29",
-          "status": "success",
-          "video_id": "aglMDQoisv8",
-          "error_message": null,
-          "created_at": "2026-09-29T17:27:18.949445+00:00"
         }
       ]
     },
@@ -3017,7 +3017,7 @@
       "youtube_id": "9eK7aXl3-QQ",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9eK7aXl3-QQ/hqdefault.jpg",
@@ -5267,7 +5267,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 235,
+    "total_uploads": 236,
     "total_views": 139160,
     "total_likes": 172,
     "videos_per_day": 12
@@ -5500,5 +5500,5 @@
       "created_at": "2026-09-29T23:40:38.379419+00:00"
     }
   ],
-  "last_updated": "2026-10-13T07:35:17.755253+00:00"
+  "last_updated": "2026-10-13T07:41:33.810070+00:00"
 }
