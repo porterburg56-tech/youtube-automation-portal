@@ -58,99 +58,99 @@
     },
     {
       "date": "2026-09-26",
-      "ch1_views": 25,
+      "ch1_views": 3,
       "ch2_views": 33,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 58
+      "total_views": 36
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 31,
+      "ch1_views": 9,
       "ch2_views": 38,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 69
+      "total_views": 47
     },
     {
       "date": "2026-09-28",
-      "ch1_views": 32,
+      "ch1_views": 10,
       "ch2_views": 71,
       "ch3_views": 28685,
       "ch4_views": 557,
-      "total_views": 29345
+      "total_views": 29323
     },
     {
       "date": "2026-09-29",
-      "ch1_views": 35,
+      "ch1_views": 13,
       "ch2_views": 111,
       "ch3_views": 28751,
       "ch4_views": 636,
-      "total_views": 29533
+      "total_views": 29511
     },
     {
       "date": "2026-09-30",
-      "ch1_views": 36,
+      "ch1_views": 14,
       "ch2_views": 168,
       "ch3_views": 28850,
       "ch4_views": 842,
-      "total_views": 29896
+      "total_views": 29874
     },
     {
       "date": "2026-10-01",
-      "ch1_views": 40,
+      "ch1_views": 18,
       "ch2_views": 176,
       "ch3_views": 28872,
       "ch4_views": 1056,
-      "total_views": 30144
+      "total_views": 30122
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 42,
+      "ch1_views": 20,
       "ch2_views": 191,
       "ch3_views": 29008,
       "ch4_views": 1102,
-      "total_views": 30343
+      "total_views": 30321
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 44,
+      "ch1_views": 22,
       "ch2_views": 209,
       "ch3_views": 29035,
       "ch4_views": 1333,
-      "total_views": 30621
+      "total_views": 30599
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 46,
+      "ch1_views": 24,
       "ch2_views": 228,
-      "ch3_views": 29089,
-      "ch4_views": 1503,
-      "total_views": 30866
+      "ch3_views": 29090,
+      "ch4_views": 1504,
+      "total_views": 30846
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 47,
+      "ch1_views": 24,
       "ch2_views": 238,
-      "ch3_views": 29159,
-      "ch4_views": 1558,
-      "total_views": 31002
+      "ch3_views": 29161,
+      "ch4_views": 1559,
+      "total_views": 30982
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 50,
+      "ch1_views": 27,
       "ch2_views": 238,
-      "ch3_views": 29166,
+      "ch3_views": 29169,
       "ch4_views": 0,
-      "total_views": 29454
+      "total_views": 29434
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 0,
+      "ch1_views": 27,
       "ch2_views": 0,
-      "ch3_views": 29166,
+      "ch3_views": 29169,
       "ch4_views": 0,
-      "total_views": 29166
+      "total_views": 29196
     }
   ],
   "channels": {
@@ -201,72 +201,92 @@
       "view_history": [
         {
           "date": "2026-09-26",
-          "views": 25,
-          "uploads": 3,
-          "cumulative_views": 25
+          "views": 3,
+          "uploads": 2,
+          "cumulative_views": 3
         },
         {
           "date": "2026-09-27",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 31
+          "cumulative_views": 9
         },
         {
           "date": "2026-09-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 32
+          "cumulative_views": 10
         },
         {
           "date": "2026-09-29",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 35
+          "cumulative_views": 13
         },
         {
           "date": "2026-09-30",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 36
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-01",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 40
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-08",
           "views": 2,
           "uploads": 2,
-          "cumulative_views": 42
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-09",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 44
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-10",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 46
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-11",
-          "views": 1,
+          "views": 0,
           "uploads": 3,
-          "cumulative_views": 47
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 50
+          "cumulative_views": 27
+        },
+        {
+          "date": "2026-10-13",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 27
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7664202031250312462",
+          "youtube_id": "Nksh8iMFkRU",
+          "title": "Every Dad Watching This Will Say\u2026 \u201cThat\u2019s Me!\u201d \u2764\ufe0f\ud83e\udd23",
+          "tiktok_views": 19900,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/Nksh8iMFkRU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-13T03:46:19Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -316,7 +336,7 @@
           "youtube_id": "oiBciIgSOwU",
           "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
           "tiktok_views": 9355,
-          "youtube_views": 1,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/oiBciIgSOwU/hqdefault.jpg",
@@ -672,20 +692,6 @@
           "thumbnail": "https://i.ytimg.com/vi/7pjs4mhwuoU/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-26T17:16:02Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7673914239257480462",
-          "youtube_id": "j68v2rHjWyk",
-          "title": "Daddy Said He\u2019s BROKE\u2026 My Toddler Thought Someone Broke Him! \ud83d\udc94",
-          "tiktok_views": 36300,
-          "youtube_views": 22,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/j68v2rHjWyk/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-26T02:08:45Z"
         }
       ],
       "runs": [
@@ -1433,6 +1439,36 @@
       ],
       "runs": [
         {
+          "id": 103,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-13",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "Dubbing failed or produced no output for 7695835620928703758. Aborting upload as requested.",
+          "created_at": "2026-10-13T07:35:13.371043+00:00"
+        },
+        {
+          "id": 102,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-13",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "Dubbing failed or produced no output for 7695835620928703758. Aborting upload as requested.",
+          "created_at": "2026-10-13T07:30:12.255017+00:00"
+        },
+        {
+          "id": 101,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-13",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "Dubbing failed or produced no output for 7695835620928703758. Aborting upload as requested.",
+          "created_at": "2026-10-13T07:25:11.396619+00:00"
+        },
+        {
           "id": 100,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1601,36 +1637,6 @@
           "video_id": null,
           "error_message": "<HttpError 401 when requesting None returned \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\". Details: \"[{'message': 'Invalid Credentials', 'domain': 'global', 'reason': 'authError', 'location': 'Authorization', 'locationType': 'header'}]\">",
           "created_at": "2026-10-08T08:02:38.816928+00:00"
-        },
-        {
-          "id": 83,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-01",
-          "status": "success",
-          "video_id": "8hVy-DxVf34",
-          "error_message": null,
-          "created_at": "2026-10-01T01:24:25.131018+00:00"
-        },
-        {
-          "id": 82,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-09-30",
-          "status": "success",
-          "video_id": "-GRed2gXLDQ",
-          "error_message": null,
-          "created_at": "2026-09-30T22:30:41.126572+00:00"
-        },
-        {
-          "id": 81,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-09-30",
-          "status": "success",
-          "video_id": "-zufAR-O6XE",
-          "error_message": null,
-          "created_at": "2026-09-30T16:25:54.798483+00:00"
         }
       ]
     },
@@ -1735,27 +1741,27 @@
         },
         {
           "date": "2026-10-10",
-          "views": 54,
+          "views": 55,
           "uploads": 3,
-          "cumulative_views": 29089
+          "cumulative_views": 29090
         },
         {
           "date": "2026-10-11",
-          "views": 70,
+          "views": 71,
           "uploads": 3,
-          "cumulative_views": 29159
+          "cumulative_views": 29161
         },
         {
           "date": "2026-10-12",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 29166
+          "cumulative_views": 29169
         },
         {
           "date": "2026-10-13",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 29166
+          "cumulative_views": 29169
         }
       ],
       "videos": [
@@ -1780,7 +1786,7 @@
           "youtube_id": "9eK7aXl3-QQ",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9eK7aXl3-QQ/hqdefault.jpg",
@@ -1836,7 +1842,7 @@
           "youtube_id": "ei5AX54nPqk",
           "title": "Forceps removing thorn from toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 22,
+          "youtube_views": 23,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -1878,7 +1884,7 @@
           "youtube_id": "0oCLrjmW11A",
           "title": "Forceps extracting nail from toe\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/0oCLrjmW11A/hqdefault.jpg",
@@ -2478,15 +2484,15 @@
         },
         {
           "date": "2026-10-10",
-          "views": 170,
+          "views": 171,
           "uploads": 3,
-          "cumulative_views": 1503
+          "cumulative_views": 1504
         },
         {
           "date": "2026-10-11",
           "views": 55,
           "uploads": 1,
-          "cumulative_views": 1558
+          "cumulative_views": 1559
         }
       ],
       "videos": [
@@ -2525,7 +2531,7 @@
           "youtube_id": "_rWFtgY6jnk",
           "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 119,
+          "youtube_views": 120,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_rWFtgY6jnk/hqdefault.jpg",
@@ -2977,6 +2983,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7664202031250312462",
+      "youtube_id": "Nksh8iMFkRU",
+      "title": "Every Dad Watching This Will Say\u2026 \u201cThat\u2019s Me!\u201d \u2764\ufe0f\ud83e\udd23",
+      "tiktok_views": 19900,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/Nksh8iMFkRU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-13T03:46:19Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1OAihLfbduADe-_8ift_xAP0EHU-uGHmp",
@@ -2997,7 +3017,7 @@
       "youtube_id": "9eK7aXl3-QQ",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9eK7aXl3-QQ/hqdefault.jpg",
@@ -3109,7 +3129,7 @@
       "youtube_id": "oiBciIgSOwU",
       "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
       "tiktok_views": 9355,
-      "youtube_views": 1,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/oiBciIgSOwU/hqdefault.jpg",
@@ -3151,7 +3171,7 @@
       "youtube_id": "ei5AX54nPqk",
       "title": "Forceps removing thorn from toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 22,
+      "youtube_views": 23,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -3305,7 +3325,7 @@
       "youtube_id": "_rWFtgY6jnk",
       "title": "Work From Home Opportunity \u2014 Hiring Now! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 119,
+      "youtube_views": 120,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_rWFtgY6jnk/hqdefault.jpg",
@@ -3319,7 +3339,7 @@
       "youtube_id": "0oCLrjmW11A",
       "title": "Forceps extracting nail from toe\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/0oCLrjmW11A/hqdefault.jpg",
@@ -4321,20 +4341,6 @@
       "uploaded_at": "2026-09-26T16:12:42Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7673914239257480462",
-      "youtube_id": "j68v2rHjWyk",
-      "title": "Daddy Said He\u2019s BROKE\u2026 My Toddler Thought Someone Broke Him! \ud83d\udc94",
-      "tiktok_views": 36300,
-      "youtube_views": 22,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/j68v2rHjWyk/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-26T02:08:45Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7649087947647634701",
@@ -4564,72 +4570,92 @@
     "view_history": [
       {
         "date": "2026-09-26",
-        "views": 25,
-        "uploads": 3,
-        "cumulative_views": 25
+        "views": 3,
+        "uploads": 2,
+        "cumulative_views": 3
       },
       {
         "date": "2026-09-27",
         "views": 6,
         "uploads": 3,
-        "cumulative_views": 31
+        "cumulative_views": 9
       },
       {
         "date": "2026-09-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 32
+        "cumulative_views": 10
       },
       {
         "date": "2026-09-29",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 35
+        "cumulative_views": 13
       },
       {
         "date": "2026-09-30",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 36
+        "cumulative_views": 14
       },
       {
         "date": "2026-10-01",
         "views": 4,
         "uploads": 1,
-        "cumulative_views": 40
+        "cumulative_views": 18
       },
       {
         "date": "2026-10-08",
         "views": 2,
         "uploads": 2,
-        "cumulative_views": 42
+        "cumulative_views": 20
       },
       {
         "date": "2026-10-09",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 44
+        "cumulative_views": 22
       },
       {
         "date": "2026-10-10",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 46
+        "cumulative_views": 24
       },
       {
         "date": "2026-10-11",
-        "views": 1,
+        "views": 0,
         "uploads": 3,
-        "cumulative_views": 47
+        "cumulative_views": 24
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 50
+        "cumulative_views": 27
+      },
+      {
+        "date": "2026-10-13",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 27
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7664202031250312462",
+        "youtube_id": "Nksh8iMFkRU",
+        "title": "Every Dad Watching This Will Say\u2026 \u201cThat\u2019s Me!\u201d \u2764\ufe0f\ud83e\udd23",
+        "tiktok_views": 19900,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/Nksh8iMFkRU/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-13T03:46:19Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4679,7 +4705,7 @@
         "youtube_id": "oiBciIgSOwU",
         "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
         "tiktok_views": 9355,
-        "youtube_views": 1,
+        "youtube_views": 0,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/oiBciIgSOwU/hqdefault.jpg",
@@ -5035,20 +5061,6 @@
         "thumbnail": "https://i.ytimg.com/vi/7pjs4mhwuoU/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-26T17:16:02Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7673914239257480462",
-        "youtube_id": "j68v2rHjWyk",
-        "title": "Daddy Said He\u2019s BROKE\u2026 My Toddler Thought Someone Broke Him! \ud83d\udc94",
-        "tiktok_views": 36300,
-        "youtube_views": 22,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/j68v2rHjWyk/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-26T02:08:45Z"
       }
     ],
     "runs": [
@@ -5488,5 +5500,5 @@
       "created_at": "2026-09-29T23:40:38.379419+00:00"
     }
   ],
-  "last_updated": "2026-10-13T03:45:57.076333+00:00"
+  "last_updated": "2026-10-13T07:35:17.755253+00:00"
 }
