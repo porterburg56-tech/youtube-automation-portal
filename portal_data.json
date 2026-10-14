@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 244,
-    "total_views": 139284,
+    "total_uploads": 245,
+    "total_views": 139291,
     "total_likes": 52,
     "total_subscribers": 86,
     "channels_count": 4,
@@ -41,116 +41,108 @@
       "total_views": 7440
     },
     {
-      "date": "2026-09-25",
-      "ch1_views": 0,
-      "ch2_views": 2,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 2
-    },
-    {
       "date": "2026-09-26",
       "ch1_views": 0,
-      "ch2_views": 30,
+      "ch2_views": 28,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 30
+      "total_views": 28
     },
     {
       "date": "2026-09-27",
       "ch1_views": 5,
-      "ch2_views": 35,
+      "ch2_views": 33,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 40
+      "total_views": 38
     },
     {
       "date": "2026-09-28",
       "ch1_views": 6,
-      "ch2_views": 68,
+      "ch2_views": 66,
       "ch3_views": 7460,
       "ch4_views": 557,
-      "total_views": 8091
+      "total_views": 8089
     },
     {
       "date": "2026-09-29",
       "ch1_views": 9,
-      "ch2_views": 110,
+      "ch2_views": 108,
       "ch3_views": 7526,
       "ch4_views": 636,
-      "total_views": 8281
+      "total_views": 8279
     },
     {
       "date": "2026-09-30",
       "ch1_views": 10,
-      "ch2_views": 167,
+      "ch2_views": 165,
       "ch3_views": 7625,
       "ch4_views": 842,
-      "total_views": 8644
+      "total_views": 8642
     },
     {
       "date": "2026-10-01",
       "ch1_views": 14,
-      "ch2_views": 175,
+      "ch2_views": 173,
       "ch3_views": 7647,
       "ch4_views": 1056,
-      "total_views": 8892
+      "total_views": 8890
     },
     {
       "date": "2026-10-08",
       "ch1_views": 18,
-      "ch2_views": 190,
+      "ch2_views": 188,
       "ch3_views": 7783,
       "ch4_views": 1102,
-      "total_views": 9093
+      "total_views": 9091
     },
     {
       "date": "2026-10-09",
       "ch1_views": 20,
-      "ch2_views": 208,
+      "ch2_views": 206,
       "ch3_views": 7810,
       "ch4_views": 1333,
-      "total_views": 9371
+      "total_views": 9369
     },
     {
       "date": "2026-10-10",
       "ch1_views": 22,
-      "ch2_views": 227,
+      "ch2_views": 225,
       "ch3_views": 7865,
       "ch4_views": 1505,
-      "total_views": 9619
+      "total_views": 9617
     },
     {
       "date": "2026-10-11",
       "ch1_views": 22,
-      "ch2_views": 239,
+      "ch2_views": 237,
       "ch3_views": 7940,
       "ch4_views": 1566,
-      "total_views": 9767
+      "total_views": 9765
     },
     {
       "date": "2026-10-12",
       "ch1_views": 25,
-      "ch2_views": 239,
+      "ch2_views": 237,
       "ch3_views": 7951,
       "ch4_views": 0,
-      "total_views": 8215
+      "total_views": 8213
     },
     {
       "date": "2026-10-13",
       "ch1_views": 25,
-      "ch2_views": 239,
+      "ch2_views": 237,
       "ch3_views": 7956,
       "ch4_views": 0,
-      "total_views": 8220
+      "total_views": 8218
     },
     {
       "date": "2026-10-14",
       "ch1_views": 25,
-      "ch2_views": 239,
+      "ch2_views": 237,
       "ch3_views": 7957,
       "ch4_views": 0,
-      "total_views": 8221
+      "total_views": 8219
     }
   ],
   "channels": {
@@ -943,91 +935,99 @@
       },
       "view_history": [
         {
-          "date": "2026-09-25",
-          "views": 2,
-          "uploads": 1,
-          "cumulative_views": 2
-        },
-        {
           "date": "2026-09-26",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 30
+          "cumulative_views": 28
         },
         {
           "date": "2026-09-27",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 35
+          "cumulative_views": 33
         },
         {
           "date": "2026-09-28",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 68
+          "cumulative_views": 66
         },
         {
           "date": "2026-09-29",
           "views": 42,
           "uploads": 3,
-          "cumulative_views": 110
+          "cumulative_views": 108
         },
         {
           "date": "2026-09-30",
           "views": 57,
           "uploads": 3,
-          "cumulative_views": 167
+          "cumulative_views": 165
         },
         {
           "date": "2026-10-01",
           "views": 8,
           "uploads": 1,
-          "cumulative_views": 175
+          "cumulative_views": 173
         },
         {
           "date": "2026-10-08",
           "views": 15,
           "uploads": 1,
-          "cumulative_views": 190
+          "cumulative_views": 188
         },
         {
           "date": "2026-10-09",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 208
+          "cumulative_views": 206
         },
         {
           "date": "2026-10-10",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 227
+          "cumulative_views": 225
         },
         {
           "date": "2026-10-11",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 239
+          "cumulative_views": 237
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 239
+          "cumulative_views": 237
         },
         {
           "date": "2026-10-13",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 239
+          "cumulative_views": 237
         },
         {
           "date": "2026-10-14",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 239
+          "uploads": 2,
+          "cumulative_views": 237
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7662452813775064334",
+          "youtube_id": "XxgeD9bU78Q",
+          "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
+          "tiktok_views": 25100,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-14T05:58:02Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1433,20 +1433,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Bg_LMovXZ8A/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-26T01:09:48Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7677286397820046606",
-          "youtube_id": "R8wHmDwaxuw",
-          "title": "Cheesy Stuffed Meat Roll with Eggs, Potatoes & Zucchini \ud83e\udd24",
-          "tiktok_views": 68700,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/R8wHmDwaxuw/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-25T22:18:06Z"
         }
       ],
       "runs": [
@@ -1667,8 +1653,8 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 44,
-      "total_views": 136165,
+      "total_uploads": 45,
+      "total_views": 136172,
       "total_likes": 36,
       "upcoming": {
         "slot1": {
@@ -2200,6 +2186,16 @@
       ],
       "runs": [
         {
+          "id": 68,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-14",
+          "status": "success",
+          "video_id": "8pUIPxdFyEQ",
+          "error_message": null,
+          "created_at": "2026-10-14T06:07:45.343778+00:00"
+        },
+        {
           "id": 67,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2388,16 +2384,6 @@
           "video_id": "8ai3JlxfoLk",
           "error_message": null,
           "created_at": "2026-09-30T22:31:03.526934+00:00"
-        },
-        {
-          "id": 48,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-09-30",
-          "status": "success",
-          "video_id": "75BbqA0vIb4",
-          "error_message": null,
-          "created_at": "2026-09-30T17:27:44.928837+00:00"
         }
       ]
     },
@@ -2994,6 +2980,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7662452813775064334",
+      "youtube_id": "XxgeD9bU78Q",
+      "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
+      "tiktok_views": 25100,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-14T05:58:02Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -4437,20 +4437,6 @@
       "uploaded_at": "2026-09-26T01:09:48Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7677286397820046606",
-      "youtube_id": "R8wHmDwaxuw",
-      "title": "Cheesy Stuffed Meat Roll with Eggs, Potatoes & Zucchini \ud83e\udd24",
-      "tiktok_views": 68700,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/R8wHmDwaxuw/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-25T22:18:06Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1GOnI6foHcAk-1sM68yVM-4pJkV3sxFbq",
@@ -5279,8 +5265,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 244,
-    "total_views": 139284,
+    "total_uploads": 245,
+    "total_views": 139291,
     "total_likes": 52,
     "videos_per_day": 12
   },
@@ -5512,5 +5498,5 @@
       "created_at": "2026-09-30T23:42:24.417378+00:00"
     }
   ],
-  "last_updated": "2026-10-14T05:57:09.637939+00:00"
+  "last_updated": "2026-10-14T06:07:49.238068+00:00"
 }
