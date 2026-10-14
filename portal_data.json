@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 242,
+    "total_uploads": 243,
     "total_views": 139284,
     "total_likes": 52,
     "total_subscribers": 86,
@@ -75,82 +75,82 @@
     {
       "date": "2026-09-29",
       "ch1_views": 10,
-      "ch2_views": 109,
+      "ch2_views": 110,
       "ch3_views": 7526,
       "ch4_views": 636,
-      "total_views": 8281
+      "total_views": 8282
     },
     {
       "date": "2026-09-30",
       "ch1_views": 11,
-      "ch2_views": 166,
+      "ch2_views": 167,
       "ch3_views": 7625,
       "ch4_views": 842,
-      "total_views": 8644
+      "total_views": 8645
     },
     {
       "date": "2026-10-01",
       "ch1_views": 15,
-      "ch2_views": 174,
+      "ch2_views": 175,
       "ch3_views": 7647,
       "ch4_views": 1056,
-      "total_views": 8892
+      "total_views": 8893
     },
     {
       "date": "2026-10-08",
       "ch1_views": 17,
-      "ch2_views": 189,
+      "ch2_views": 190,
       "ch3_views": 7783,
       "ch4_views": 1102,
-      "total_views": 9091
+      "total_views": 9092
     },
     {
       "date": "2026-10-09",
       "ch1_views": 19,
-      "ch2_views": 207,
+      "ch2_views": 208,
       "ch3_views": 7810,
       "ch4_views": 1333,
-      "total_views": 9369
+      "total_views": 9370
     },
     {
       "date": "2026-10-10",
       "ch1_views": 21,
-      "ch2_views": 226,
+      "ch2_views": 227,
       "ch3_views": 7865,
       "ch4_views": 1505,
-      "total_views": 9617
+      "total_views": 9618
     },
     {
       "date": "2026-10-11",
       "ch1_views": 21,
-      "ch2_views": 238,
+      "ch2_views": 239,
       "ch3_views": 7939,
       "ch4_views": 1565,
-      "total_views": 9763
+      "total_views": 9764
     },
     {
       "date": "2026-10-12",
       "ch1_views": 24,
-      "ch2_views": 238,
+      "ch2_views": 239,
       "ch3_views": 7950,
       "ch4_views": 0,
-      "total_views": 8212
+      "total_views": 8213
     },
     {
       "date": "2026-10-13",
       "ch1_views": 24,
-      "ch2_views": 238,
+      "ch2_views": 239,
       "ch3_views": 7954,
       "ch4_views": 0,
-      "total_views": 8216
+      "total_views": 8217
     },
     {
       "date": "2026-10-14",
       "ch1_views": 0,
-      "ch2_views": 238,
-      "ch3_views": 7954,
+      "ch2_views": 239,
+      "ch3_views": 7955,
       "ch4_views": 0,
-      "total_views": 8192
+      "total_views": 8194
     }
   ],
   "channels": {
@@ -169,7 +169,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 92,
+      "total_uploads": 93,
       "total_views": 624,
       "total_likes": 1,
       "upcoming": {
@@ -690,6 +690,16 @@
       ],
       "runs": [
         {
+          "id": 102,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-10-14",
+          "status": "success",
+          "video_id": "sE1MOk90288",
+          "error_message": null,
+          "created_at": "2026-10-14T02:05:50.009992+00:00"
+        },
+        {
           "id": 101,
           "channel_id": "channel_1",
           "slot": 1,
@@ -878,16 +888,6 @@
           "video_id": "iS0mAS3ycZU",
           "error_message": null,
           "created_at": "2026-09-30T23:42:24.417378+00:00"
-        },
-        {
-          "id": 82,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-09-30",
-          "status": "success",
-          "video_id": "DY7qd54P8xY",
-          "error_message": null,
-          "created_at": "2026-09-30T17:25:02.538836+00:00"
         }
       ]
     },
@@ -962,63 +962,63 @@
         },
         {
           "date": "2026-09-29",
-          "views": 41,
+          "views": 42,
           "uploads": 3,
-          "cumulative_views": 109
+          "cumulative_views": 110
         },
         {
           "date": "2026-09-30",
           "views": 57,
           "uploads": 3,
-          "cumulative_views": 166
+          "cumulative_views": 167
         },
         {
           "date": "2026-10-01",
           "views": 8,
           "uploads": 1,
-          "cumulative_views": 174
+          "cumulative_views": 175
         },
         {
           "date": "2026-10-08",
           "views": 15,
           "uploads": 1,
-          "cumulative_views": 189
+          "cumulative_views": 190
         },
         {
           "date": "2026-10-09",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 207
+          "cumulative_views": 208
         },
         {
           "date": "2026-10-10",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 226
+          "cumulative_views": 227
         },
         {
           "date": "2026-10-11",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 238
+          "cumulative_views": 239
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 238
+          "cumulative_views": 239
         },
         {
           "date": "2026-10-13",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 238
+          "cumulative_views": 239
         },
         {
           "date": "2026-10-14",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 238
+          "cumulative_views": 239
         }
       ],
       "videos": [
@@ -1295,7 +1295,7 @@
           "youtube_id": "c9JzQwKOhtc",
           "title": "Homemade Farmer\u2019s Cheese the Old Polish Way \u2728",
           "tiktok_views": 42600,
-          "youtube_views": 17,
+          "youtube_views": 18,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/c9JzQwKOhtc/hqdefault.jpg",
@@ -1765,9 +1765,9 @@
         },
         {
           "date": "2026-10-14",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 7954
+          "cumulative_views": 7955
         }
       ],
       "videos": [
@@ -1778,7 +1778,7 @@
           "youtube_id": "6kjJd9sXePQ",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6kjJd9sXePQ/hqdefault.jpg",
@@ -2995,7 +2995,7 @@
       "youtube_id": "6kjJd9sXePQ",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6kjJd9sXePQ/hqdefault.jpg",
@@ -4157,7 +4157,7 @@
       "youtube_id": "c9JzQwKOhtc",
       "title": "Homemade Farmer\u2019s Cheese the Old Polish Way \u2728",
       "tiktok_views": 42600,
-      "youtube_views": 17,
+      "youtube_views": 18,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/c9JzQwKOhtc/hqdefault.jpg",
@@ -4544,7 +4544,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 92,
+    "total_uploads": 93,
     "total_views": 624,
     "total_likes": 1,
     "upcoming": {
@@ -5065,6 +5065,16 @@
     ],
     "runs": [
       {
+        "id": 102,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-10-14",
+        "status": "success",
+        "video_id": "sE1MOk90288",
+        "error_message": null,
+        "created_at": "2026-10-14T02:05:50.009992+00:00"
+      },
+      {
         "id": 101,
         "channel_id": "channel_1",
         "slot": 1,
@@ -5253,21 +5263,11 @@
         "video_id": "iS0mAS3ycZU",
         "error_message": null,
         "created_at": "2026-09-30T23:42:24.417378+00:00"
-      },
-      {
-        "id": 82,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-09-30",
-        "status": "success",
-        "video_id": "DY7qd54P8xY",
-        "error_message": null,
-        "created_at": "2026-09-30T17:25:02.538836+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 242,
+    "total_uploads": 243,
     "total_views": 139284,
     "total_likes": 52,
     "videos_per_day": 12
@@ -5299,6 +5299,16 @@
     }
   },
   "runs": [
+    {
+      "id": 102,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-10-14",
+      "status": "success",
+      "video_id": "sE1MOk90288",
+      "error_message": null,
+      "created_at": "2026-10-14T02:05:50.009992+00:00"
+    },
     {
       "id": 101,
       "channel_id": "channel_1",
@@ -5488,17 +5498,7 @@
       "video_id": "iS0mAS3ycZU",
       "error_message": null,
       "created_at": "2026-09-30T23:42:24.417378+00:00"
-    },
-    {
-      "id": 82,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-09-30",
-      "status": "success",
-      "video_id": "DY7qd54P8xY",
-      "error_message": null,
-      "created_at": "2026-09-30T17:25:02.538836+00:00"
     }
   ],
-  "last_updated": "2026-10-14T01:18:31.106023+00:00"
+  "last_updated": "2026-10-14T02:05:54.285603+00:00"
 }
