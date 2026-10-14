@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 248,
+    "total_uploads": 249,
     "total_views": 139305,
     "total_likes": 27,
     "total_subscribers": 86,
@@ -50,99 +50,99 @@
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 5,
+      "ch1_views": 0,
       "ch2_views": 15,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 20
+      "total_views": 15
     },
     {
       "date": "2026-09-28",
-      "ch1_views": 6,
+      "ch1_views": 1,
       "ch2_views": 48,
       "ch3_views": 258,
       "ch4_views": 557,
-      "total_views": 869
+      "total_views": 864
     },
     {
       "date": "2026-09-29",
-      "ch1_views": 9,
+      "ch1_views": 4,
       "ch2_views": 90,
       "ch3_views": 324,
       "ch4_views": 636,
-      "total_views": 1059
+      "total_views": 1054
     },
     {
       "date": "2026-09-30",
-      "ch1_views": 10,
+      "ch1_views": 5,
       "ch2_views": 149,
       "ch3_views": 423,
       "ch4_views": 842,
-      "total_views": 1424
+      "total_views": 1419
     },
     {
       "date": "2026-10-01",
-      "ch1_views": 14,
+      "ch1_views": 9,
       "ch2_views": 157,
       "ch3_views": 445,
       "ch4_views": 1056,
-      "total_views": 1672
+      "total_views": 1667
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 18,
+      "ch1_views": 13,
       "ch2_views": 172,
       "ch3_views": 581,
       "ch4_views": 1102,
-      "total_views": 1873
+      "total_views": 1868
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 20,
+      "ch1_views": 15,
       "ch2_views": 190,
       "ch3_views": 608,
       "ch4_views": 1333,
-      "total_views": 2151
+      "total_views": 2146
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 22,
+      "ch1_views": 17,
       "ch2_views": 209,
       "ch3_views": 663,
       "ch4_views": 1505,
-      "total_views": 2399
+      "total_views": 2394
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 22,
+      "ch1_views": 17,
       "ch2_views": 221,
       "ch3_views": 739,
       "ch4_views": 1566,
-      "total_views": 2548
+      "total_views": 2543
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 25,
+      "ch1_views": 20,
       "ch2_views": 221,
       "ch3_views": 750,
       "ch4_views": 0,
-      "total_views": 996
+      "total_views": 991
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 26,
+      "ch1_views": 21,
       "ch2_views": 221,
       "ch3_views": 757,
       "ch4_views": 0,
-      "total_views": 1004
+      "total_views": 999
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 26,
+      "ch1_views": 21,
       "ch2_views": 244,
       "ch3_views": 768,
       "ch4_views": 0,
-      "total_views": 1038
+      "total_views": 1033
     }
   ],
   "channels": {
@@ -192,79 +192,87 @@
       },
       "view_history": [
         {
-          "date": "2026-09-27",
-          "views": 5,
-          "uploads": 1,
-          "cumulative_views": 5
-        },
-        {
           "date": "2026-09-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 6
+          "cumulative_views": 1
         },
         {
           "date": "2026-09-29",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 9
+          "cumulative_views": 4
         },
         {
           "date": "2026-09-30",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 10
+          "cumulative_views": 5
         },
         {
           "date": "2026-10-01",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 14
+          "cumulative_views": 9
         },
         {
           "date": "2026-10-08",
           "views": 4,
           "uploads": 2,
-          "cumulative_views": 18
+          "cumulative_views": 13
         },
         {
           "date": "2026-10-09",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-10",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-11",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 25
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 26
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-14",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 26
+          "uploads": 3,
+          "cumulative_views": 21
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7696522545113107726",
+          "youtube_id": "V-dLT3m2YJM",
+          "title": "The Toddler Saw Grandpa\u2019s Move and Said, \u201cMy Turn!\u201d \ud83d\ude02\ud83e\udd2f",
+          "tiktok_views": 22000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/V-dLT3m2YJM/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-14T20:34:40Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -670,20 +678,6 @@
           "thumbnail": "https://i.ytimg.com/vi/h6yM2xKQ700/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-28T02:09:26Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7675338879615962381",
-          "youtube_id": "qqHYm_vn-0s",
-          "title": "First the Toddler Ate Boiled Eggs\u2026 Then He Picked the WRONG Egg! \ud83e\udd5a\ud83d\udca5",
-          "tiktok_views": 34000,
-          "youtube_views": 5,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/qqHYm_vn-0s/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-27T23:40:56Z"
         }
       ],
       "runs": [
@@ -1653,7 +1647,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 45,
+      "total_uploads": 46,
       "total_views": 136172,
       "total_likes": 11,
       "upcoming": {
@@ -2186,6 +2180,16 @@
       ],
       "runs": [
         {
+          "id": 69,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-14",
+          "status": "success",
+          "video_id": "Wdf8SbNh6Uk",
+          "error_message": null,
+          "created_at": "2026-10-14T20:41:33.594145+00:00"
+        },
+        {
           "id": 68,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2374,16 +2378,6 @@
           "video_id": "IeJXmlDo-LU",
           "error_message": null,
           "created_at": "2026-10-01T01:28:56.049967+00:00"
-        },
-        {
-          "id": 49,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-09-30",
-          "status": "success",
-          "video_id": "8ai3JlxfoLk",
-          "error_message": null,
-          "created_at": "2026-09-30T22:31:03.526934+00:00"
         }
       ]
     },
@@ -2980,6 +2974,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7696522545113107726",
+      "youtube_id": "V-dLT3m2YJM",
+      "title": "The Toddler Saw Grandpa\u2019s Move and Said, \u201cMy Turn!\u201d \ud83d\ude02\ud83e\udd2f",
+      "tiktok_views": 22000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/V-dLT3m2YJM/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-14T20:34:40Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4367,20 +4375,6 @@
       "uploaded_at": "2026-09-28T01:14:52Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7675338879615962381",
-      "youtube_id": "qqHYm_vn-0s",
-      "title": "First the Toddler Ate Boiled Eggs\u2026 Then He Picked the WRONG Egg! \ud83e\udd5a\ud83d\udca5",
-      "tiktok_views": 34000,
-      "youtube_views": 5,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/qqHYm_vn-0s/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-27T23:40:56Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7675061393799793933",
@@ -4567,79 +4561,87 @@
     },
     "view_history": [
       {
-        "date": "2026-09-27",
-        "views": 5,
-        "uploads": 1,
-        "cumulative_views": 5
-      },
-      {
         "date": "2026-09-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 6
+        "cumulative_views": 1
       },
       {
         "date": "2026-09-29",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 9
+        "cumulative_views": 4
       },
       {
         "date": "2026-09-30",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 10
+        "cumulative_views": 5
       },
       {
         "date": "2026-10-01",
         "views": 4,
         "uploads": 1,
-        "cumulative_views": 14
+        "cumulative_views": 9
       },
       {
         "date": "2026-10-08",
         "views": 4,
         "uploads": 2,
-        "cumulative_views": 18
+        "cumulative_views": 13
       },
       {
         "date": "2026-10-09",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 15
       },
       {
         "date": "2026-10-10",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 17
       },
       {
         "date": "2026-10-11",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 17
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 25
+        "cumulative_views": 20
       },
       {
         "date": "2026-10-13",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 26
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-14",
         "views": 0,
-        "uploads": 2,
-        "cumulative_views": 26
+        "uploads": 3,
+        "cumulative_views": 21
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7696522545113107726",
+        "youtube_id": "V-dLT3m2YJM",
+        "title": "The Toddler Saw Grandpa\u2019s Move and Said, \u201cMy Turn!\u201d \ud83d\ude02\ud83e\udd2f",
+        "tiktok_views": 22000,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/V-dLT3m2YJM/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-14T20:34:40Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5045,20 +5047,6 @@
         "thumbnail": "https://i.ytimg.com/vi/h6yM2xKQ700/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-28T02:09:26Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7675338879615962381",
-        "youtube_id": "qqHYm_vn-0s",
-        "title": "First the Toddler Ate Boiled Eggs\u2026 Then He Picked the WRONG Egg! \ud83e\udd5a\ud83d\udca5",
-        "tiktok_views": 34000,
-        "youtube_views": 5,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/qqHYm_vn-0s/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-27T23:40:56Z"
       }
     ],
     "runs": [
@@ -5265,7 +5253,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 248,
+    "total_uploads": 249,
     "total_views": 139305,
     "total_likes": 27,
     "videos_per_day": 12
@@ -5498,5 +5486,5 @@
       "created_at": "2026-10-08T07:53:58.855919+00:00"
     }
   ],
-  "last_updated": "2026-10-14T20:34:12.834635+00:00"
+  "last_updated": "2026-10-14T20:41:38.225760+00:00"
 }
