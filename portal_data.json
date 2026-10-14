@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 249,
     "total_views": 139305,
-    "total_likes": 27,
+    "total_likes": 25,
     "total_subscribers": 86,
     "channels_count": 4,
     "videos_per_day": 12
@@ -28,17 +28,17 @@
       "date": "2026-09-22",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 149,
+      "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 149
+      "total_views": 85
     },
     {
       "date": "2026-09-23",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 238,
+      "ch3_views": 174,
       "ch4_views": 0,
-      "total_views": 238
+      "total_views": 174
     },
     {
       "date": "2026-09-26",
@@ -60,89 +60,89 @@
       "date": "2026-09-28",
       "ch1_views": 1,
       "ch2_views": 48,
-      "ch3_views": 258,
+      "ch3_views": 194,
       "ch4_views": 557,
-      "total_views": 864
+      "total_views": 800
     },
     {
       "date": "2026-09-29",
       "ch1_views": 4,
       "ch2_views": 90,
-      "ch3_views": 324,
+      "ch3_views": 260,
       "ch4_views": 636,
-      "total_views": 1054
+      "total_views": 990
     },
     {
       "date": "2026-09-30",
       "ch1_views": 5,
       "ch2_views": 149,
-      "ch3_views": 423,
+      "ch3_views": 359,
       "ch4_views": 842,
-      "total_views": 1419
+      "total_views": 1355
     },
     {
       "date": "2026-10-01",
       "ch1_views": 9,
       "ch2_views": 157,
-      "ch3_views": 445,
+      "ch3_views": 381,
       "ch4_views": 1056,
-      "total_views": 1667
+      "total_views": 1603
     },
     {
       "date": "2026-10-08",
       "ch1_views": 13,
       "ch2_views": 172,
-      "ch3_views": 581,
+      "ch3_views": 517,
       "ch4_views": 1102,
-      "total_views": 1868
+      "total_views": 1804
     },
     {
       "date": "2026-10-09",
       "ch1_views": 15,
       "ch2_views": 190,
-      "ch3_views": 608,
+      "ch3_views": 544,
       "ch4_views": 1333,
-      "total_views": 2146
+      "total_views": 2082
     },
     {
       "date": "2026-10-10",
       "ch1_views": 17,
       "ch2_views": 209,
-      "ch3_views": 663,
+      "ch3_views": 599,
       "ch4_views": 1505,
-      "total_views": 2394
+      "total_views": 2330
     },
     {
       "date": "2026-10-11",
       "ch1_views": 17,
       "ch2_views": 221,
-      "ch3_views": 739,
+      "ch3_views": 675,
       "ch4_views": 1566,
-      "total_views": 2543
+      "total_views": 2479
     },
     {
       "date": "2026-10-12",
       "ch1_views": 20,
       "ch2_views": 221,
-      "ch3_views": 750,
+      "ch3_views": 686,
       "ch4_views": 0,
-      "total_views": 991
+      "total_views": 927
     },
     {
       "date": "2026-10-13",
       "ch1_views": 21,
       "ch2_views": 221,
-      "ch3_views": 757,
+      "ch3_views": 693,
       "ch4_views": 0,
-      "total_views": 999
+      "total_views": 935
     },
     {
       "date": "2026-10-14",
       "ch1_views": 21,
       "ch2_views": 244,
-      "ch3_views": 768,
+      "ch3_views": 699,
       "ch4_views": 0,
-      "total_views": 1033
+      "total_views": 964
     }
   ],
   "channels": {
@@ -1649,7 +1649,7 @@
       "subscribers": 76,
       "total_uploads": 46,
       "total_views": 136172,
-      "total_likes": 11,
+      "total_likes": 9,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1679,84 +1679,98 @@
       "view_history": [
         {
           "date": "2026-09-22",
-          "views": 149,
-          "uploads": 2,
-          "cumulative_views": 149
+          "views": 85,
+          "uploads": 1,
+          "cumulative_views": 85
         },
         {
           "date": "2026-09-23",
           "views": 89,
           "uploads": 1,
-          "cumulative_views": 238
+          "cumulative_views": 174
         },
         {
           "date": "2026-09-28",
           "views": 20,
           "uploads": 2,
-          "cumulative_views": 258
+          "cumulative_views": 194
         },
         {
           "date": "2026-09-29",
           "views": 66,
           "uploads": 3,
-          "cumulative_views": 324
+          "cumulative_views": 260
         },
         {
           "date": "2026-09-30",
           "views": 99,
           "uploads": 3,
-          "cumulative_views": 423
+          "cumulative_views": 359
         },
         {
           "date": "2026-10-01",
           "views": 22,
           "uploads": 1,
-          "cumulative_views": 445
+          "cumulative_views": 381
         },
         {
           "date": "2026-10-08",
           "views": 136,
           "uploads": 1,
-          "cumulative_views": 581
+          "cumulative_views": 517
         },
         {
           "date": "2026-10-09",
           "views": 27,
           "uploads": 3,
-          "cumulative_views": 608
+          "cumulative_views": 544
         },
         {
           "date": "2026-10-10",
           "views": 55,
           "uploads": 3,
-          "cumulative_views": 663
+          "cumulative_views": 599
         },
         {
           "date": "2026-10-11",
           "views": 76,
           "uploads": 3,
-          "cumulative_views": 739
+          "cumulative_views": 675
         },
         {
           "date": "2026-10-12",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 750
+          "cumulative_views": 686
         },
         {
           "date": "2026-10-13",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 757
+          "cumulative_views": 693
         },
         {
           "date": "2026-10-14",
-          "views": 11,
-          "uploads": 2,
-          "cumulative_views": 768
+          "views": 6,
+          "uploads": 3,
+          "cumulative_views": 699
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1ZvC1pM1H2WR3e-apdLt4udZiA13aBzkj",
+          "youtube_id": "Wdf8SbNh6Uk",
+          "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/Wdf8SbNh6Uk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-14T20:41:59Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1764,7 +1778,7 @@
           "youtube_id": "8pUIPxdFyEQ",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 8,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8pUIPxdFyEQ/hqdefault.jpg",
@@ -2162,20 +2176,6 @@
           "thumbnail": "https://i.ytimg.com/vi/d0FdoJRRMek/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-22T22:20:15Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1MMzEsp91JXaATAZLqWrlNVM_BDPEiZFd",
-          "youtube_id": "9ID09xbf_aI",
-          "title": "Medical professional cleaning to\u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 64,
-          "youtube_likes": 2,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/9ID09xbf_aI/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-22T17:20:30Z"
         }
       ],
       "runs": [
@@ -2771,6 +2771,16 @@
       ],
       "runs": [
         {
+          "id": 62,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-10-14",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-14T20:53:45.072607+00:00"
+        },
+        {
           "id": 61,
           "channel_id": "channel_4",
           "slot": 3,
@@ -2959,21 +2969,25 @@
           "video_id": "stRwhg5nVc4",
           "error_message": null,
           "created_at": "2026-10-08T07:48:10.672658+00:00"
-        },
-        {
-          "id": 42,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-01",
-          "status": "success",
-          "video_id": "7DuHVs9JVXk",
-          "error_message": null,
-          "created_at": "2026-10-01T01:37:45.677098+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1ZvC1pM1H2WR3e-apdLt4udZiA13aBzkj",
+      "youtube_id": "Wdf8SbNh6Uk",
+      "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/Wdf8SbNh6Uk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-14T20:41:59Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -3023,7 +3037,7 @@
       "youtube_id": "8pUIPxdFyEQ",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 8,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8pUIPxdFyEQ/hqdefault.jpg",
@@ -4473,20 +4487,6 @@
       "uploaded_at": "2026-09-22T22:20:15Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1MMzEsp91JXaATAZLqWrlNVM_BDPEiZFd",
-      "youtube_id": "9ID09xbf_aI",
-      "title": "Medical professional cleaning to\u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 64,
-      "youtube_likes": 2,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/9ID09xbf_aI/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-22T17:20:30Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1GWPR-DMPrHmjWJU1NiBv80eXruvb_cRM",
@@ -5255,7 +5255,7 @@
   "kpis": {
     "total_uploads": 249,
     "total_views": 139305,
-    "total_likes": 27,
+    "total_likes": 25,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5486,5 +5486,5 @@
       "created_at": "2026-10-08T07:53:58.855919+00:00"
     }
   ],
-  "last_updated": "2026-10-14T20:41:38.225760+00:00"
+  "last_updated": "2026-10-14T20:53:49.647550+00:00"
 }
