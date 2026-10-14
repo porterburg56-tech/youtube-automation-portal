@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 241,
+    "total_uploads": 242,
     "total_views": 139284,
     "total_likes": 54,
     "total_subscribers": 86,
@@ -151,6 +151,14 @@
       "ch3_views": 8031,
       "ch4_views": 0,
       "total_views": 8293
+    },
+    {
+      "date": "2026-10-14",
+      "ch1_views": 0,
+      "ch2_views": 238,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 238
     }
   ],
   "channels": {
@@ -939,7 +947,7 @@
         {
           "date": "2026-09-25",
           "views": 2,
-          "uploads": 2,
+          "uploads": 1,
           "cumulative_views": 2
         },
         {
@@ -1013,9 +1021,29 @@
           "views": 0,
           "uploads": 1,
           "cumulative_views": 238
+        },
+        {
+          "date": "2026-10-14",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 238
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7695835620928703758",
+          "youtube_id": "EYGSlP92-M0",
+          "title": "Cheesy Meatball and Mushroom Puff Pastry Pie \u2728",
+          "tiktok_views": 225300,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/EYGSlP92-M0/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-14T01:08:06Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1421,20 +1449,6 @@
           "thumbnail": "https://i.ytimg.com/vi/R8wHmDwaxuw/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-25T22:18:06Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7678765241957633294",
-          "youtube_id": "nlMB-t3OYVI",
-          "title": "Taste & Tales \u2728",
-          "tiktok_views": 19900,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/nlMB-t3OYVI/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-25T16:13:40Z"
         }
       ],
       "runs": [
@@ -1655,7 +1669,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 43,
+      "total_uploads": 44,
       "total_views": 136165,
       "total_likes": 38,
       "upcoming": {
@@ -2188,6 +2202,16 @@
       ],
       "runs": [
         {
+          "id": 67,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-10-14",
+          "status": "success",
+          "video_id": "6kjJd9sXePQ",
+          "error_message": null,
+          "created_at": "2026-10-14T01:14:40.790577+00:00"
+        },
+        {
           "id": 66,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2376,16 +2400,6 @@
           "video_id": "75BbqA0vIb4",
           "error_message": null,
           "created_at": "2026-09-30T17:27:44.928837+00:00"
-        },
-        {
-          "id": 47,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-09-30",
-          "status": "success",
-          "video_id": "Eed4K6uI_c4",
-          "error_message": null,
-          "created_at": "2026-09-30T01:27:49.651133+00:00"
         }
       ]
     },
@@ -2982,6 +2996,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7695835620928703758",
+      "youtube_id": "EYGSlP92-M0",
+      "title": "Cheesy Meatball and Mushroom Puff Pastry Pie \u2728",
+      "tiktok_views": 225300,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/EYGSlP92-M0/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-14T01:08:06Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -4411,20 +4439,6 @@
       "uploaded_at": "2026-09-25T22:18:06Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7678765241957633294",
-      "youtube_id": "nlMB-t3OYVI",
-      "title": "Taste & Tales \u2728",
-      "tiktok_views": 19900,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/nlMB-t3OYVI/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-25T16:13:40Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1GOnI6foHcAk-1sM68yVM-4pJkV3sxFbq",
@@ -5261,7 +5275,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 241,
+    "total_uploads": 242,
     "total_views": 139284,
     "total_likes": 54,
     "videos_per_day": 12
@@ -5494,5 +5508,5 @@
       "created_at": "2026-09-30T17:25:02.538836+00:00"
     }
   ],
-  "last_updated": "2026-10-14T01:07:34.929056+00:00"
+  "last_updated": "2026-10-14T01:14:45.614269+00:00"
 }
