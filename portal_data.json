@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 243,
+    "total_uploads": 244,
     "total_views": 139284,
     "total_likes": 52,
     "total_subscribers": 86,
@@ -58,99 +58,99 @@
     },
     {
       "date": "2026-09-27",
-      "ch1_views": 6,
+      "ch1_views": 5,
       "ch2_views": 35,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 41
+      "total_views": 40
     },
     {
       "date": "2026-09-28",
-      "ch1_views": 7,
+      "ch1_views": 6,
       "ch2_views": 68,
       "ch3_views": 7460,
       "ch4_views": 557,
-      "total_views": 8092
+      "total_views": 8091
     },
     {
       "date": "2026-09-29",
-      "ch1_views": 10,
+      "ch1_views": 9,
       "ch2_views": 110,
       "ch3_views": 7526,
       "ch4_views": 636,
-      "total_views": 8282
+      "total_views": 8281
     },
     {
       "date": "2026-09-30",
-      "ch1_views": 11,
+      "ch1_views": 10,
       "ch2_views": 167,
       "ch3_views": 7625,
       "ch4_views": 842,
-      "total_views": 8645
+      "total_views": 8644
     },
     {
       "date": "2026-10-01",
-      "ch1_views": 15,
+      "ch1_views": 14,
       "ch2_views": 175,
       "ch3_views": 7647,
       "ch4_views": 1056,
-      "total_views": 8893
+      "total_views": 8892
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 17,
+      "ch1_views": 18,
       "ch2_views": 190,
       "ch3_views": 7783,
       "ch4_views": 1102,
-      "total_views": 9092
+      "total_views": 9093
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 19,
+      "ch1_views": 20,
       "ch2_views": 208,
       "ch3_views": 7810,
       "ch4_views": 1333,
-      "total_views": 9370
+      "total_views": 9371
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 21,
+      "ch1_views": 22,
       "ch2_views": 227,
       "ch3_views": 7865,
       "ch4_views": 1505,
-      "total_views": 9618
+      "total_views": 9619
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 21,
+      "ch1_views": 22,
       "ch2_views": 239,
-      "ch3_views": 7939,
-      "ch4_views": 1565,
-      "total_views": 9764
+      "ch3_views": 7940,
+      "ch4_views": 1566,
+      "total_views": 9767
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 24,
+      "ch1_views": 25,
       "ch2_views": 239,
-      "ch3_views": 7950,
+      "ch3_views": 7951,
       "ch4_views": 0,
-      "total_views": 8213
+      "total_views": 8215
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 24,
+      "ch1_views": 25,
       "ch2_views": 239,
-      "ch3_views": 7954,
+      "ch3_views": 7956,
       "ch4_views": 0,
-      "total_views": 8217
+      "total_views": 8220
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 0,
+      "ch1_views": 25,
       "ch2_views": 239,
-      "ch3_views": 7955,
+      "ch3_views": 7957,
       "ch4_views": 0,
-      "total_views": 8194
+      "total_views": 8221
     }
   ],
   "channels": {
@@ -201,72 +201,92 @@
       "view_history": [
         {
           "date": "2026-09-27",
-          "views": 6,
-          "uploads": 3,
-          "cumulative_views": 6
+          "views": 5,
+          "uploads": 2,
+          "cumulative_views": 5
         },
         {
           "date": "2026-09-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 7
+          "cumulative_views": 6
         },
         {
           "date": "2026-09-29",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 10
+          "cumulative_views": 9
         },
         {
           "date": "2026-09-30",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 11
+          "cumulative_views": 10
         },
         {
           "date": "2026-10-01",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 15
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-08",
-          "views": 2,
+          "views": 4,
           "uploads": 2,
-          "cumulative_views": 17
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-09",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-10",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-11",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 25
         },
         {
           "date": "2026-10-13",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 25
+        },
+        {
+          "date": "2026-10-14",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 25
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7676476883298438414",
+          "youtube_id": "sE1MOk90288",
+          "title": "Grandma was expecting a sweet compliment\u2026 instead, this toddler offer \ud83d\ude02",
+          "tiktok_views": 17600,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/sE1MOk90288/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-14T02:06:05Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -498,7 +518,7 @@
           "youtube_id": "yhYoebidcRo",
           "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
           "tiktok_views": 42500,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yhYoebidcRo/hqdefault.jpg",
@@ -672,20 +692,6 @@
           "thumbnail": "https://i.ytimg.com/vi/SqqK8E-Qamc/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-27T17:16:29Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7661240710963744013",
-          "youtube_id": "QpVAKqTfnG0",
-          "title": "She\u2019s Been Watching Dad VERY Closely \ud83d\ude02",
-          "tiktok_views": 34100,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/QpVAKqTfnG0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-27T02:09:17Z"
         }
       ],
       "runs": [
@@ -906,7 +912,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 86,
+      "total_uploads": 87,
       "total_views": 936,
       "total_likes": 0,
       "upcoming": {
@@ -1445,6 +1451,16 @@
       ],
       "runs": [
         {
+          "id": 106,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-14",
+          "status": "success",
+          "video_id": "XxgeD9bU78Q",
+          "error_message": null,
+          "created_at": "2026-10-14T05:57:04.525534+00:00"
+        },
+        {
           "id": 105,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1633,16 +1649,6 @@
           "video_id": "hzmuiSueGYg",
           "error_message": null,
           "created_at": "2026-10-09T07:21:16.343233+00:00"
-        },
-        {
-          "id": 86,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-09",
-          "status": "success",
-          "video_id": "_Pu0pvBsBa4",
-          "error_message": null,
-          "created_at": "2026-10-09T02:08:01.940208+00:00"
         }
       ]
     },
@@ -1747,27 +1753,27 @@
         },
         {
           "date": "2026-10-11",
-          "views": 74,
+          "views": 75,
           "uploads": 3,
-          "cumulative_views": 7939
+          "cumulative_views": 7940
         },
         {
           "date": "2026-10-12",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 7950
+          "cumulative_views": 7951
         },
         {
           "date": "2026-10-13",
-          "views": 4,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 7954
+          "cumulative_views": 7956
         },
         {
           "date": "2026-10-14",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 7955
+          "cumulative_views": 7957
         }
       ],
       "videos": [
@@ -1820,7 +1826,7 @@
           "youtube_id": "6OYe6bcwdhk",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6OYe6bcwdhk/hqdefault.jpg",
@@ -1890,7 +1896,7 @@
           "youtube_id": "ei5AX54nPqk",
           "title": "Forceps removing thorn from toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 26,
+          "youtube_views": 27,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -2496,9 +2502,9 @@
         },
         {
           "date": "2026-10-11",
-          "views": 60,
+          "views": 61,
           "uploads": 1,
-          "cumulative_views": 1565
+          "cumulative_views": 1566
         }
       ],
       "videos": [
@@ -2509,7 +2515,7 @@
           "youtube_id": "DJzCZpoyd4U",
           "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 60,
+          "youtube_views": 61,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -2989,6 +2995,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7676476883298438414",
+      "youtube_id": "sE1MOk90288",
+      "title": "Grandma was expecting a sweet compliment\u2026 instead, this toddler offer \ud83d\ude02",
+      "tiktok_views": 17600,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/sE1MOk90288/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-14T02:06:05Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1p3Fvr1ASsWaldxGSrvjrO3lHS1tesotP",
@@ -3107,7 +3127,7 @@
       "youtube_id": "6OYe6bcwdhk",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6OYe6bcwdhk/hqdefault.jpg",
@@ -3275,7 +3295,7 @@
       "youtube_id": "ei5AX54nPqk",
       "title": "Forceps removing thorn from toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 26,
+      "youtube_views": 27,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -3317,7 +3337,7 @@
       "youtube_id": "DJzCZpoyd4U",
       "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 60,
+      "youtube_views": 61,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -3723,7 +3743,7 @@
       "youtube_id": "yhYoebidcRo",
       "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
       "tiktok_views": 42500,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yhYoebidcRo/hqdefault.jpg",
@@ -4361,20 +4381,6 @@
       "uploaded_at": "2026-09-27T16:17:23Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7661240710963744013",
-      "youtube_id": "QpVAKqTfnG0",
-      "title": "She\u2019s Been Watching Dad VERY Closely \ud83d\ude02",
-      "tiktok_views": 34100,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/QpVAKqTfnG0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-27T02:09:17Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7689911106306952461",
@@ -4576,72 +4582,92 @@
     "view_history": [
       {
         "date": "2026-09-27",
-        "views": 6,
-        "uploads": 3,
-        "cumulative_views": 6
+        "views": 5,
+        "uploads": 2,
+        "cumulative_views": 5
       },
       {
         "date": "2026-09-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 7
+        "cumulative_views": 6
       },
       {
         "date": "2026-09-29",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 10
+        "cumulative_views": 9
       },
       {
         "date": "2026-09-30",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 11
+        "cumulative_views": 10
       },
       {
         "date": "2026-10-01",
         "views": 4,
         "uploads": 1,
-        "cumulative_views": 15
+        "cumulative_views": 14
       },
       {
         "date": "2026-10-08",
-        "views": 2,
+        "views": 4,
         "uploads": 2,
-        "cumulative_views": 17
+        "cumulative_views": 18
       },
       {
         "date": "2026-10-09",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 19
+        "cumulative_views": 20
       },
       {
         "date": "2026-10-10",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 22
       },
       {
         "date": "2026-10-11",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 22
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 25
       },
       {
         "date": "2026-10-13",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 25
+      },
+      {
+        "date": "2026-10-14",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 25
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7676476883298438414",
+        "youtube_id": "sE1MOk90288",
+        "title": "Grandma was expecting a sweet compliment\u2026 instead, this toddler offer \ud83d\ude02",
+        "tiktok_views": 17600,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/sE1MOk90288/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-14T02:06:05Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4873,7 +4899,7 @@
         "youtube_id": "yhYoebidcRo",
         "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
         "tiktok_views": 42500,
-        "youtube_views": 0,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/yhYoebidcRo/hqdefault.jpg",
@@ -5047,20 +5073,6 @@
         "thumbnail": "https://i.ytimg.com/vi/SqqK8E-Qamc/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-27T17:16:29Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7661240710963744013",
-        "youtube_id": "QpVAKqTfnG0",
-        "title": "She\u2019s Been Watching Dad VERY Closely \ud83d\ude02",
-        "tiktok_views": 34100,
-        "youtube_views": 1,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/QpVAKqTfnG0/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-27T02:09:17Z"
       }
     ],
     "runs": [
@@ -5267,7 +5279,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 243,
+    "total_uploads": 244,
     "total_views": 139284,
     "total_likes": 52,
     "videos_per_day": 12
@@ -5500,5 +5512,5 @@
       "created_at": "2026-09-30T23:42:24.417378+00:00"
     }
   ],
-  "last_updated": "2026-10-14T02:05:54.285603+00:00"
+  "last_updated": "2026-10-14T05:57:09.637939+00:00"
 }
