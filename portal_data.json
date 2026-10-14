@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 246,
-    "total_views": 139291,
+    "total_uploads": 247,
+    "total_views": 139305,
     "total_likes": 27,
     "total_subscribers": 86,
     "channels_count": 4,
@@ -75,74 +75,74 @@
     {
       "date": "2026-09-30",
       "ch1_views": 10,
-      "ch2_views": 165,
+      "ch2_views": 167,
       "ch3_views": 423,
       "ch4_views": 842,
-      "total_views": 1440
+      "total_views": 1442
     },
     {
       "date": "2026-10-01",
       "ch1_views": 14,
-      "ch2_views": 173,
+      "ch2_views": 175,
       "ch3_views": 445,
       "ch4_views": 1056,
-      "total_views": 1688
+      "total_views": 1690
     },
     {
       "date": "2026-10-08",
       "ch1_views": 18,
-      "ch2_views": 188,
+      "ch2_views": 190,
       "ch3_views": 581,
       "ch4_views": 1102,
-      "total_views": 1889
+      "total_views": 1891
     },
     {
       "date": "2026-10-09",
       "ch1_views": 20,
-      "ch2_views": 206,
+      "ch2_views": 208,
       "ch3_views": 608,
       "ch4_views": 1333,
-      "total_views": 2167
+      "total_views": 2169
     },
     {
       "date": "2026-10-10",
       "ch1_views": 22,
-      "ch2_views": 225,
+      "ch2_views": 227,
       "ch3_views": 663,
       "ch4_views": 1505,
-      "total_views": 2415
+      "total_views": 2417
     },
     {
       "date": "2026-10-11",
       "ch1_views": 22,
-      "ch2_views": 237,
-      "ch3_views": 738,
+      "ch2_views": 239,
+      "ch3_views": 739,
       "ch4_views": 1566,
-      "total_views": 2563
+      "total_views": 2566
     },
     {
       "date": "2026-10-12",
       "ch1_views": 25,
-      "ch2_views": 237,
-      "ch3_views": 749,
+      "ch2_views": 239,
+      "ch3_views": 750,
       "ch4_views": 0,
-      "total_views": 1011
+      "total_views": 1014
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 25,
-      "ch2_views": 237,
-      "ch3_views": 754,
+      "ch1_views": 26,
+      "ch2_views": 239,
+      "ch3_views": 757,
       "ch4_views": 0,
-      "total_views": 1016
+      "total_views": 1022
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 25,
-      "ch2_views": 237,
-      "ch3_views": 755,
+      "ch1_views": 26,
+      "ch2_views": 262,
+      "ch3_views": 768,
       "ch4_views": 0,
-      "total_views": 1017
+      "total_views": 1056
     }
   ],
   "channels": {
@@ -162,7 +162,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 94,
-      "total_views": 624,
+      "total_views": 625,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -194,7 +194,7 @@
         {
           "date": "2026-09-27",
           "views": 5,
-          "uploads": 2,
+          "uploads": 1,
           "cumulative_views": 5
         },
         {
@@ -253,18 +253,32 @@
         },
         {
           "date": "2026-10-13",
-          "views": 0,
+          "views": 1,
           "uploads": 3,
-          "cumulative_views": 25
+          "cumulative_views": 26
         },
         {
           "date": "2026-10-14",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 25
+          "uploads": 2,
+          "cumulative_views": 26
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7676137099149495566",
+          "youtube_id": "bi42osihQwQ",
+          "title": "He watched Grandpa walk once\u2026 and apparently became a professional Gr \ud83d\ude02",
+          "tiktok_views": 17200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/bi42osihQwQ/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-14T07:03:49Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -286,7 +300,7 @@
           "youtube_id": "EPD1-OTlPtM",
           "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
           "tiktok_views": 95200,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/EPD1-OTlPtM/hqdefault.jpg",
@@ -670,20 +684,6 @@
           "thumbnail": "https://i.ytimg.com/vi/qqHYm_vn-0s/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-27T23:40:56Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7690245250043890957",
-          "youtube_id": "SqqK8E-Qamc",
-          "title": "He Studied the Moves and Executed Perfectly \ud83d\udcaa\ud83d\ude02",
-          "tiktok_views": 10700,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/SqqK8E-Qamc/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-27T17:16:29Z"
         }
       ],
       "runs": [
@@ -904,8 +904,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 87,
-      "total_views": 936,
+      "total_uploads": 88,
+      "total_views": 946,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -960,57 +960,57 @@
         },
         {
           "date": "2026-09-30",
-          "views": 57,
+          "views": 59,
           "uploads": 3,
-          "cumulative_views": 165
+          "cumulative_views": 167
         },
         {
           "date": "2026-10-01",
           "views": 8,
           "uploads": 1,
-          "cumulative_views": 173
+          "cumulative_views": 175
         },
         {
           "date": "2026-10-08",
           "views": 15,
           "uploads": 1,
-          "cumulative_views": 188
+          "cumulative_views": 190
         },
         {
           "date": "2026-10-09",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 206
+          "cumulative_views": 208
         },
         {
           "date": "2026-10-10",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 225
+          "cumulative_views": 227
         },
         {
           "date": "2026-10-11",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 237
+          "cumulative_views": 239
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 237
+          "cumulative_views": 239
         },
         {
           "date": "2026-10-13",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 237
+          "cumulative_views": 239
         },
         {
           "date": "2026-10-14",
-          "views": 0,
+          "views": 23,
           "uploads": 2,
-          "cumulative_views": 237
+          "cumulative_views": 262
         }
       ],
       "videos": [
@@ -1021,7 +1021,7 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 0,
+          "youtube_views": 22,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -1035,7 +1035,7 @@
           "youtube_id": "EYGSlP92-M0",
           "title": "Cheesy Meatball and Mushroom Puff Pastry Pie \u2728",
           "tiktok_views": 225300,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/EYGSlP92-M0/hqdefault.jpg",
@@ -1231,7 +1231,7 @@
           "youtube_id": "-GRed2gXLDQ",
           "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
           "tiktok_views": 39800,
-          "youtube_views": 15,
+          "youtube_views": 17,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-GRed2gXLDQ/hqdefault.jpg",
@@ -1437,6 +1437,16 @@
       ],
       "runs": [
         {
+          "id": 107,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-10-14",
+          "status": "success",
+          "video_id": "l-VJ0AFsYUQ",
+          "error_message": null,
+          "created_at": "2026-10-14T20:13:05.727995+00:00"
+        },
+        {
           "id": 106,
           "channel_id": "channel_2",
           "slot": 3,
@@ -1625,16 +1635,6 @@
           "video_id": "ca3bS1RBvvc",
           "error_message": null,
           "created_at": "2026-10-09T20:39:54.134188+00:00"
-        },
-        {
-          "id": 87,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-09",
-          "status": "success",
-          "video_id": "hzmuiSueGYg",
-          "error_message": null,
-          "created_at": "2026-10-09T07:21:16.343233+00:00"
         }
       ]
     },
@@ -1739,27 +1739,27 @@
         },
         {
           "date": "2026-10-11",
-          "views": 75,
+          "views": 76,
           "uploads": 3,
-          "cumulative_views": 738
+          "cumulative_views": 739
         },
         {
           "date": "2026-10-12",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 749
+          "cumulative_views": 750
         },
         {
           "date": "2026-10-13",
-          "views": 5,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 754
+          "cumulative_views": 757
         },
         {
           "date": "2026-10-14",
-          "views": 1,
+          "views": 11,
           "uploads": 2,
-          "cumulative_views": 755
+          "cumulative_views": 768
         }
       ],
       "videos": [
@@ -1770,7 +1770,7 @@
           "youtube_id": "8pUIPxdFyEQ",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8pUIPxdFyEQ/hqdefault.jpg",
@@ -1784,7 +1784,7 @@
           "youtube_id": "6kjJd9sXePQ",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6kjJd9sXePQ/hqdefault.jpg",
@@ -1798,7 +1798,7 @@
           "youtube_id": "jbmeU9cMUV8",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jbmeU9cMUV8/hqdefault.jpg",
@@ -1812,7 +1812,7 @@
           "youtube_id": "WRbu8j4Cr-E",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/WRbu8j4Cr-E/hqdefault.jpg",
@@ -1896,7 +1896,7 @@
           "youtube_id": "ei5AX54nPqk",
           "title": "Forceps removing thorn from toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 27,
+          "youtube_views": 28,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -2403,7 +2403,7 @@
       "category": "Remote Work & Side Hustles",
       "subscribers": 5,
       "total_uploads": 20,
-      "total_views": 1559,
+      "total_views": 1562,
       "total_likes": 15,
       "upcoming": {
         "slot1": {
@@ -2981,13 +2981,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7676137099149495566",
+      "youtube_id": "bi42osihQwQ",
+      "title": "He watched Grandpa walk once\u2026 and apparently became a professional Gr \ud83d\ude02",
+      "tiktok_views": 17200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/bi42osihQwQ/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-14T07:03:49Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "19R0xcRE9Q07Vsyakg8-FiS-oK8V-h6R-",
       "youtube_id": "8pUIPxdFyEQ",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8pUIPxdFyEQ/hqdefault.jpg",
@@ -3001,7 +3015,7 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 0,
+      "youtube_views": 22,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -3029,7 +3043,7 @@
       "youtube_id": "6kjJd9sXePQ",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6kjJd9sXePQ/hqdefault.jpg",
@@ -3043,7 +3057,7 @@
       "youtube_id": "EYGSlP92-M0",
       "title": "Cheesy Meatball and Mushroom Puff Pastry Pie \u2728",
       "tiktok_views": 225300,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/EYGSlP92-M0/hqdefault.jpg",
@@ -3057,7 +3071,7 @@
       "youtube_id": "jbmeU9cMUV8",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jbmeU9cMUV8/hqdefault.jpg",
@@ -3071,7 +3085,7 @@
       "youtube_id": "EPD1-OTlPtM",
       "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
       "tiktok_views": 95200,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/EPD1-OTlPtM/hqdefault.jpg",
@@ -3113,7 +3127,7 @@
       "youtube_id": "WRbu8j4Cr-E",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/WRbu8j4Cr-E/hqdefault.jpg",
@@ -3309,7 +3323,7 @@
       "youtube_id": "ei5AX54nPqk",
       "title": "Forceps removing thorn from toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 27,
+      "youtube_views": 28,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
@@ -3897,7 +3911,7 @@
       "youtube_id": "-GRed2gXLDQ",
       "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
       "tiktok_views": 39800,
-      "youtube_views": 15,
+      "youtube_views": 17,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-GRed2gXLDQ/hqdefault.jpg",
@@ -4367,20 +4381,6 @@
       "uploaded_at": "2026-09-27T22:19:09Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7690245250043890957",
-      "youtube_id": "SqqK8E-Qamc",
-      "title": "He Studied the Moves and Executed Perfectly \ud83d\udcaa\ud83d\ude02",
-      "tiktok_views": 10700,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/SqqK8E-Qamc/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-27T17:16:29Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7678413260739087630",
@@ -4537,7 +4537,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 94,
-    "total_views": 624,
+    "total_views": 625,
     "total_likes": 1,
     "upcoming": {
       "slot1": {
@@ -4569,7 +4569,7 @@
       {
         "date": "2026-09-27",
         "views": 5,
-        "uploads": 2,
+        "uploads": 1,
         "cumulative_views": 5
       },
       {
@@ -4628,18 +4628,32 @@
       },
       {
         "date": "2026-10-13",
-        "views": 0,
+        "views": 1,
         "uploads": 3,
-        "cumulative_views": 25
+        "cumulative_views": 26
       },
       {
         "date": "2026-10-14",
         "views": 0,
-        "uploads": 1,
-        "cumulative_views": 25
+        "uploads": 2,
+        "cumulative_views": 26
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7676137099149495566",
+        "youtube_id": "bi42osihQwQ",
+        "title": "He watched Grandpa walk once\u2026 and apparently became a professional Gr \ud83d\ude02",
+        "tiktok_views": 17200,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/bi42osihQwQ/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-14T07:03:49Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4661,7 +4675,7 @@
         "youtube_id": "EPD1-OTlPtM",
         "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
         "tiktok_views": 95200,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/EPD1-OTlPtM/hqdefault.jpg",
@@ -5045,20 +5059,6 @@
         "thumbnail": "https://i.ytimg.com/vi/qqHYm_vn-0s/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-27T23:40:56Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7690245250043890957",
-        "youtube_id": "SqqK8E-Qamc",
-        "title": "He Studied the Moves and Executed Perfectly \ud83d\udcaa\ud83d\ude02",
-        "tiktok_views": 10700,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/SqqK8E-Qamc/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-27T17:16:29Z"
       }
     ],
     "runs": [
@@ -5265,8 +5265,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 246,
-    "total_views": 139291,
+    "total_uploads": 247,
+    "total_views": 139305,
     "total_likes": 27,
     "videos_per_day": 12
   },
@@ -5498,5 +5498,5 @@
       "created_at": "2026-10-01T02:10:21.068351+00:00"
     }
   ],
-  "last_updated": "2026-10-14T07:03:33.990595+00:00"
+  "last_updated": "2026-10-14T20:13:10.430294+00:00"
 }
