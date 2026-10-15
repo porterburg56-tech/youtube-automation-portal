@@ -36,97 +36,97 @@
       "date": "2026-09-28",
       "ch1_views": 0,
       "ch2_views": 38,
-      "ch3_views": 20,
+      "ch3_views": 5,
       "ch4_views": 557,
-      "total_views": 615
+      "total_views": 600
     },
     {
       "date": "2026-09-29",
       "ch1_views": 3,
       "ch2_views": 80,
-      "ch3_views": 86,
+      "ch3_views": 71,
       "ch4_views": 636,
-      "total_views": 805
+      "total_views": 790
     },
     {
       "date": "2026-09-30",
       "ch1_views": 4,
       "ch2_views": 139,
-      "ch3_views": 185,
+      "ch3_views": 170,
       "ch4_views": 842,
-      "total_views": 1170
+      "total_views": 1155
     },
     {
       "date": "2026-10-01",
       "ch1_views": 8,
       "ch2_views": 147,
-      "ch3_views": 207,
+      "ch3_views": 192,
       "ch4_views": 1056,
-      "total_views": 1418
+      "total_views": 1403
     },
     {
       "date": "2026-10-08",
       "ch1_views": 13,
       "ch2_views": 162,
-      "ch3_views": 343,
+      "ch3_views": 328,
       "ch4_views": 1102,
-      "total_views": 1620
+      "total_views": 1605
     },
     {
       "date": "2026-10-09",
       "ch1_views": 15,
       "ch2_views": 180,
-      "ch3_views": 370,
+      "ch3_views": 355,
       "ch4_views": 1333,
-      "total_views": 1898
+      "total_views": 1883
     },
     {
       "date": "2026-10-10",
       "ch1_views": 17,
       "ch2_views": 199,
-      "ch3_views": 425,
+      "ch3_views": 410,
       "ch4_views": 1505,
-      "total_views": 2146
+      "total_views": 2131
     },
     {
       "date": "2026-10-11",
       "ch1_views": 17,
       "ch2_views": 211,
-      "ch3_views": 501,
+      "ch3_views": 486,
       "ch4_views": 1566,
-      "total_views": 2295
+      "total_views": 2280
     },
     {
       "date": "2026-10-12",
       "ch1_views": 20,
       "ch2_views": 211,
-      "ch3_views": 515,
+      "ch3_views": 500,
       "ch4_views": 0,
-      "total_views": 746
+      "total_views": 731
     },
     {
       "date": "2026-10-13",
       "ch1_views": 21,
       "ch2_views": 212,
-      "ch3_views": 522,
+      "ch3_views": 507,
       "ch4_views": 0,
-      "total_views": 755
+      "total_views": 740
     },
     {
       "date": "2026-10-14",
       "ch1_views": 21,
-      "ch2_views": 249,
-      "ch3_views": 550,
+      "ch2_views": 251,
+      "ch3_views": 535,
       "ch4_views": 0,
-      "total_views": 820
+      "total_views": 807
     },
     {
       "date": "2026-10-15",
       "ch1_views": 21,
-      "ch2_views": 268,
-      "ch3_views": 563,
+      "ch2_views": 274,
+      "ch3_views": 548,
       "ch4_views": 0,
-      "total_views": 852
+      "total_views": 843
     }
   ],
   "channels": {
@@ -980,15 +980,15 @@
         },
         {
           "date": "2026-10-14",
-          "views": 37,
+          "views": 39,
           "uploads": 3,
-          "cumulative_views": 249
+          "cumulative_views": 251
         },
         {
           "date": "2026-10-15",
-          "views": 19,
+          "views": 23,
           "uploads": 3,
-          "cumulative_views": 268
+          "cumulative_views": 274
         }
       ],
       "videos": [
@@ -1027,7 +1027,7 @@
           "youtube_id": "xedI6HBMxic",
           "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
           "tiktok_views": 22500,
-          "youtube_views": 12,
+          "youtube_views": 16,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -1055,7 +1055,7 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 31,
+          "youtube_views": 33,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -1663,78 +1663,92 @@
       "view_history": [
         {
           "date": "2026-09-28",
-          "views": 20,
-          "uploads": 2,
-          "cumulative_views": 20
+          "views": 5,
+          "uploads": 1,
+          "cumulative_views": 5
         },
         {
           "date": "2026-09-29",
           "views": 66,
           "uploads": 3,
-          "cumulative_views": 86
+          "cumulative_views": 71
         },
         {
           "date": "2026-09-30",
           "views": 99,
           "uploads": 3,
-          "cumulative_views": 185
+          "cumulative_views": 170
         },
         {
           "date": "2026-10-01",
           "views": 22,
           "uploads": 1,
-          "cumulative_views": 207
+          "cumulative_views": 192
         },
         {
           "date": "2026-10-08",
           "views": 136,
           "uploads": 1,
-          "cumulative_views": 343
+          "cumulative_views": 328
         },
         {
           "date": "2026-10-09",
           "views": 27,
           "uploads": 3,
-          "cumulative_views": 370
+          "cumulative_views": 355
         },
         {
           "date": "2026-10-10",
           "views": 55,
           "uploads": 3,
-          "cumulative_views": 425
+          "cumulative_views": 410
         },
         {
           "date": "2026-10-11",
           "views": 76,
           "uploads": 3,
-          "cumulative_views": 501
+          "cumulative_views": 486
         },
         {
           "date": "2026-10-12",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 515
+          "cumulative_views": 500
         },
         {
           "date": "2026-10-13",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 522
+          "cumulative_views": 507
         },
         {
           "date": "2026-10-14",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 550
+          "cumulative_views": 535
         },
         {
           "date": "2026-10-15",
           "views": 13,
-          "uploads": 2,
-          "cumulative_views": 563
+          "uploads": 3,
+          "cumulative_views": 548
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1OeUq4KCG3_EIgGeTYY9aNYGd4lTbETV7",
+          "youtube_id": "GhRRy83EEsA",
+          "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/GhRRy83EEsA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-15T20:20:08Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2140,20 +2154,6 @@
           "thumbnail": "https://i.ytimg.com/vi/RRBocdziYIs/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-28T22:28:45Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1p_LWRKPtpO9O8NNmYhE0jrPMJIh7zvA1",
-          "youtube_id": "-cMGhsPZ3qM",
-          "title": "Extracting resin from fungal nail \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 15,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/-cMGhsPZ3qM/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-28T05:59:48Z"
         }
       ],
       "runs": [
@@ -2749,6 +2749,16 @@
       ],
       "runs": [
         {
+          "id": 65,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-10-15",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-15T20:29:32.130342+00:00"
+        },
+        {
           "id": 64,
           "channel_id": "channel_4",
           "slot": 3,
@@ -2937,21 +2947,25 @@
           "video_id": "9tqb3p2emOk",
           "error_message": null,
           "created_at": "2026-10-09T07:33:14.274363+00:00"
-        },
-        {
-          "id": 45,
-          "channel_id": "channel_4",
-          "slot": 2,
-          "run_date": "2026-10-09",
-          "status": "success",
-          "video_id": "2eJ5gXy-2Cs",
-          "error_message": null,
-          "created_at": "2026-10-09T02:20:09.391741+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1OeUq4KCG3_EIgGeTYY9aNYGd4lTbETV7",
+      "youtube_id": "GhRRy83EEsA",
+      "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/GhRRy83EEsA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-15T20:20:08Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -3043,7 +3057,7 @@
       "youtube_id": "xedI6HBMxic",
       "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
       "tiktok_views": 22500,
-      "youtube_views": 12,
+      "youtube_views": 16,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -3141,7 +3155,7 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 31,
+      "youtube_views": 33,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -4409,20 +4423,6 @@
       "uploaded_at": "2026-09-28T06:02:38Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1p_LWRKPtpO9O8NNmYhE0jrPMJIh7zvA1",
-      "youtube_id": "-cMGhsPZ3qM",
-      "title": "Extracting resin from fungal nail \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 15,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/-cMGhsPZ3qM/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-28T05:59:48Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7666897828190473486",
@@ -5464,5 +5464,5 @@
       "created_at": "2026-10-09T08:24:58.002627+00:00"
     }
   ],
-  "last_updated": "2026-10-15T20:19:55.245070+00:00"
+  "last_updated": "2026-10-15T20:29:36.267462+00:00"
 }
