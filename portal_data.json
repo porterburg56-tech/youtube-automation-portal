@@ -1,8 +1,8 @@
 {
   "cumulative": {
     "total_uploads": 254,
-    "total_views": 139369,
-    "total_likes": 24,
+    "total_views": 139362,
+    "total_likes": 22,
     "total_subscribers": 86,
     "channels_count": 4,
     "videos_per_day": 12
@@ -25,14 +25,6 @@
       "total_views": 230
     },
     {
-      "date": "2026-09-23",
-      "ch1_views": 0,
-      "ch2_views": 0,
-      "ch3_views": 89,
-      "ch4_views": 0,
-      "total_views": 89
-    },
-    {
       "date": "2026-09-27",
       "ch1_views": 0,
       "ch2_views": 5,
@@ -44,97 +36,97 @@
       "date": "2026-09-28",
       "ch1_views": 1,
       "ch2_views": 39,
-      "ch3_views": 109,
+      "ch3_views": 20,
       "ch4_views": 557,
-      "total_views": 706
+      "total_views": 617
     },
     {
       "date": "2026-09-29",
       "ch1_views": 4,
       "ch2_views": 81,
-      "ch3_views": 175,
+      "ch3_views": 86,
       "ch4_views": 636,
-      "total_views": 896
+      "total_views": 807
     },
     {
       "date": "2026-09-30",
       "ch1_views": 5,
       "ch2_views": 140,
-      "ch3_views": 274,
+      "ch3_views": 185,
       "ch4_views": 842,
-      "total_views": 1261
+      "total_views": 1172
     },
     {
       "date": "2026-10-01",
       "ch1_views": 9,
       "ch2_views": 148,
-      "ch3_views": 296,
+      "ch3_views": 207,
       "ch4_views": 1056,
-      "total_views": 1509
+      "total_views": 1420
     },
     {
       "date": "2026-10-08",
       "ch1_views": 14,
       "ch2_views": 163,
-      "ch3_views": 432,
+      "ch3_views": 343,
       "ch4_views": 1102,
-      "total_views": 1711
+      "total_views": 1622
     },
     {
       "date": "2026-10-09",
       "ch1_views": 16,
       "ch2_views": 181,
-      "ch3_views": 459,
+      "ch3_views": 370,
       "ch4_views": 1333,
-      "total_views": 1989
+      "total_views": 1900
     },
     {
       "date": "2026-10-10",
       "ch1_views": 18,
       "ch2_views": 200,
-      "ch3_views": 514,
+      "ch3_views": 425,
       "ch4_views": 1505,
-      "total_views": 2237
+      "total_views": 2148
     },
     {
       "date": "2026-10-11",
       "ch1_views": 18,
       "ch2_views": 212,
-      "ch3_views": 590,
+      "ch3_views": 501,
       "ch4_views": 1566,
-      "total_views": 2386
+      "total_views": 2297
     },
     {
       "date": "2026-10-12",
       "ch1_views": 21,
       "ch2_views": 212,
-      "ch3_views": 601,
+      "ch3_views": 512,
       "ch4_views": 0,
-      "total_views": 834
+      "total_views": 745
     },
     {
       "date": "2026-10-13",
       "ch1_views": 22,
       "ch2_views": 213,
-      "ch3_views": 608,
+      "ch3_views": 519,
       "ch4_views": 0,
-      "total_views": 843
+      "total_views": 754
     },
     {
       "date": "2026-10-14",
       "ch1_views": 22,
       "ch2_views": 245,
-      "ch3_views": 632,
+      "ch3_views": 543,
       "ch4_views": 0,
-      "total_views": 899
+      "total_views": 810
     },
     {
       "date": "2026-10-15",
       "ch1_views": 22,
       "ch2_views": 246,
-      "ch3_views": 632,
+      "ch3_views": 543,
       "ch4_views": 0,
-      "total_views": 900
+      "total_views": 811
     }
   ],
   "channels": {
@@ -154,7 +146,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 96,
-      "total_views": 628,
+      "total_views": 625,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -1647,7 +1639,7 @@
       "subscribers": 76,
       "total_uploads": 48,
       "total_views": 136193,
-      "total_likes": 7,
+      "total_likes": 5,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1676,85 +1668,93 @@
       },
       "view_history": [
         {
-          "date": "2026-09-23",
-          "views": 89,
-          "uploads": 1,
-          "cumulative_views": 89
-        },
-        {
           "date": "2026-09-28",
           "views": 20,
           "uploads": 2,
-          "cumulative_views": 109
+          "cumulative_views": 20
         },
         {
           "date": "2026-09-29",
           "views": 66,
           "uploads": 3,
-          "cumulative_views": 175
+          "cumulative_views": 86
         },
         {
           "date": "2026-09-30",
           "views": 99,
           "uploads": 3,
-          "cumulative_views": 274
+          "cumulative_views": 185
         },
         {
           "date": "2026-10-01",
           "views": 22,
           "uploads": 1,
-          "cumulative_views": 296
+          "cumulative_views": 207
         },
         {
           "date": "2026-10-08",
           "views": 136,
           "uploads": 1,
-          "cumulative_views": 432
+          "cumulative_views": 343
         },
         {
           "date": "2026-10-09",
           "views": 27,
           "uploads": 3,
-          "cumulative_views": 459
+          "cumulative_views": 370
         },
         {
           "date": "2026-10-10",
           "views": 55,
           "uploads": 3,
-          "cumulative_views": 514
+          "cumulative_views": 425
         },
         {
           "date": "2026-10-11",
           "views": 76,
           "uploads": 3,
-          "cumulative_views": 590
+          "cumulative_views": 501
         },
         {
           "date": "2026-10-12",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 601
+          "cumulative_views": 512
         },
         {
           "date": "2026-10-13",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 608
+          "cumulative_views": 519
         },
         {
           "date": "2026-10-14",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 632
+          "cumulative_views": 543
         },
         {
           "date": "2026-10-15",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 632
+          "uploads": 2,
+          "cumulative_views": 543
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1C5HMc85rB1zCBE4aZhP1h_7M5EFaSYT2",
+          "youtube_id": "lE-BNNNG298",
+          "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/lE-BNNNG298/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-15T05:53:50Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2160,20 +2160,6 @@
           "thumbnail": "https://i.ytimg.com/vi/-cMGhsPZ3qM/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-28T05:59:48Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1GOnI6foHcAk-1sM68yVM-4pJkV3sxFbq",
-          "youtube_id": "YJ35UWmoXh8",
-          "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
-          "tiktok_views": 0,
-          "youtube_views": 89,
-          "youtube_likes": 2,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-23T01:23:47Z"
         }
       ],
       "runs": [
@@ -2395,7 +2381,7 @@
       "category": "Remote Work & Side Hustles",
       "subscribers": 5,
       "total_uploads": 20,
-      "total_views": 1566,
+      "total_views": 1562,
       "total_likes": 15,
       "upcoming": {
         "slot1": {
@@ -2769,6 +2755,16 @@
       ],
       "runs": [
         {
+          "id": 64,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-10-15",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-15T06:00:28.773738+00:00"
+        },
+        {
           "id": 63,
           "channel_id": "channel_4",
           "slot": 2,
@@ -2957,21 +2953,25 @@
           "video_id": "2eJ5gXy-2Cs",
           "error_message": null,
           "created_at": "2026-10-09T02:20:09.391741+00:00"
-        },
-        {
-          "id": 44,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-10-08",
-          "status": "success",
-          "video_id": "-ICAQ6VlhLY",
-          "error_message": null,
-          "created_at": "2026-10-08T07:53:42.465782+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1C5HMc85rB1zCBE4aZhP1h_7M5EFaSYT2",
+      "youtube_id": "lE-BNNNG298",
+      "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/lE-BNNNG298/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-15T05:53:50Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4471,20 +4471,6 @@
       "uploaded_at": "2026-09-27T01:14:23Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1GOnI6foHcAk-1sM68yVM-4pJkV3sxFbq",
-      "youtube_id": "YJ35UWmoXh8",
-      "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
-      "tiktok_views": 0,
-      "youtube_views": 89,
-      "youtube_likes": 2,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/YJ35UWmoXh8/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-23T01:23:47Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1GWPR-DMPrHmjWJU1NiBv80eXruvb_cRM",
@@ -4529,7 +4515,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 96,
-    "total_views": 628,
+    "total_views": 625,
     "total_likes": 1,
     "upcoming": {
       "slot1": {
@@ -5258,8 +5244,8 @@
   },
   "kpis": {
     "total_uploads": 254,
-    "total_views": 139369,
-    "total_likes": 24,
+    "total_views": 139362,
+    "total_likes": 22,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5490,5 +5476,5 @@
       "created_at": "2026-10-08T08:22:02.569330+00:00"
     }
   ],
-  "last_updated": "2026-10-15T05:53:36.384385+00:00"
+  "last_updated": "2026-10-15T06:00:32.950770+00:00"
 }
