@@ -35,114 +35,114 @@
     {
       "date": "2026-09-26",
       "ch1_views": 0,
-      "ch2_views": 10,
+      "ch2_views": 6,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 10
+      "total_views": 6
     },
     {
       "date": "2026-09-27",
       "ch1_views": 0,
-      "ch2_views": 15,
+      "ch2_views": 11,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 15
+      "total_views": 11
     },
     {
       "date": "2026-09-28",
       "ch1_views": 1,
-      "ch2_views": 49,
+      "ch2_views": 45,
       "ch3_views": 109,
       "ch4_views": 557,
-      "total_views": 716
+      "total_views": 712
     },
     {
       "date": "2026-09-29",
       "ch1_views": 4,
-      "ch2_views": 91,
+      "ch2_views": 87,
       "ch3_views": 175,
       "ch4_views": 636,
-      "total_views": 906
+      "total_views": 902
     },
     {
       "date": "2026-09-30",
       "ch1_views": 5,
-      "ch2_views": 150,
+      "ch2_views": 146,
       "ch3_views": 274,
       "ch4_views": 842,
-      "total_views": 1271
+      "total_views": 1267
     },
     {
       "date": "2026-10-01",
       "ch1_views": 9,
-      "ch2_views": 158,
+      "ch2_views": 154,
       "ch3_views": 296,
       "ch4_views": 1056,
-      "total_views": 1519
+      "total_views": 1515
     },
     {
       "date": "2026-10-08",
       "ch1_views": 13,
-      "ch2_views": 173,
+      "ch2_views": 169,
       "ch3_views": 432,
       "ch4_views": 1102,
-      "total_views": 1720
+      "total_views": 1716
     },
     {
       "date": "2026-10-09",
       "ch1_views": 15,
-      "ch2_views": 191,
+      "ch2_views": 187,
       "ch3_views": 459,
       "ch4_views": 1333,
-      "total_views": 1998
+      "total_views": 1994
     },
     {
       "date": "2026-10-10",
       "ch1_views": 17,
-      "ch2_views": 210,
+      "ch2_views": 206,
       "ch3_views": 514,
       "ch4_views": 1505,
-      "total_views": 2246
+      "total_views": 2242
     },
     {
       "date": "2026-10-11",
       "ch1_views": 17,
-      "ch2_views": 222,
+      "ch2_views": 218,
       "ch3_views": 590,
       "ch4_views": 1566,
-      "total_views": 2395
+      "total_views": 2391
     },
     {
       "date": "2026-10-12",
       "ch1_views": 20,
-      "ch2_views": 222,
+      "ch2_views": 218,
       "ch3_views": 601,
       "ch4_views": 0,
-      "total_views": 843
+      "total_views": 839
     },
     {
       "date": "2026-10-13",
       "ch1_views": 21,
-      "ch2_views": 222,
+      "ch2_views": 218,
       "ch3_views": 608,
       "ch4_views": 0,
-      "total_views": 851
+      "total_views": 847
     },
     {
       "date": "2026-10-14",
       "ch1_views": 21,
-      "ch2_views": 251,
+      "ch2_views": 249,
       "ch3_views": 630,
       "ch4_views": 0,
-      "total_views": 902
+      "total_views": 900
     },
     {
       "date": "2026-10-15",
       "ch1_views": 0,
-      "ch2_views": 0,
+      "ch2_views": 249,
       "ch3_views": 630,
       "ch4_views": 0,
-      "total_views": 630
+      "total_views": 879
     }
   ],
   "channels": {
@@ -930,84 +930,104 @@
       "view_history": [
         {
           "date": "2026-09-26",
-          "views": 10,
-          "uploads": 2,
-          "cumulative_views": 10
+          "views": 6,
+          "uploads": 1,
+          "cumulative_views": 6
         },
         {
           "date": "2026-09-27",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 11
         },
         {
           "date": "2026-09-28",
           "views": 34,
           "uploads": 3,
-          "cumulative_views": 49
+          "cumulative_views": 45
         },
         {
           "date": "2026-09-29",
           "views": 42,
           "uploads": 3,
-          "cumulative_views": 91
+          "cumulative_views": 87
         },
         {
           "date": "2026-09-30",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 150
+          "cumulative_views": 146
         },
         {
           "date": "2026-10-01",
           "views": 8,
           "uploads": 1,
-          "cumulative_views": 158
+          "cumulative_views": 154
         },
         {
           "date": "2026-10-08",
           "views": 15,
           "uploads": 1,
-          "cumulative_views": 173
+          "cumulative_views": 169
         },
         {
           "date": "2026-10-09",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 191
+          "cumulative_views": 187
         },
         {
           "date": "2026-10-10",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 210
+          "cumulative_views": 206
         },
         {
           "date": "2026-10-11",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 222
+          "cumulative_views": 218
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 222
+          "cumulative_views": 218
         },
         {
           "date": "2026-10-13",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 222
+          "cumulative_views": 218
         },
         {
           "date": "2026-10-14",
-          "views": 29,
+          "views": 31,
           "uploads": 3,
-          "cumulative_views": 251
+          "cumulative_views": 249
+        },
+        {
+          "date": "2026-10-15",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 249
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7655406000119336206",
+          "youtube_id": "xedI6HBMxic",
+          "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
+          "tiktok_views": 22500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-15T00:34:18Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1029,7 +1049,7 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 26,
+          "youtube_views": 28,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -1413,20 +1433,6 @@
           "thumbnail": "https://i.ytimg.com/vi/QykSg4oh-nM/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-26T22:15:56Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7689546426736495886",
-          "youtube_id": "VoJATFCbnUE",
-          "title": "Cheesy Stuffed Minced Meat \u2728",
-          "tiktok_views": 13600,
-          "youtube_views": 4,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/VoJATFCbnUE/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-26T16:12:42Z"
         }
       ],
       "runs": [
@@ -2771,6 +2777,16 @@
       ],
       "runs": [
         {
+          "id": 63,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-10-15",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-15T00:38:26.656140+00:00"
+        },
+        {
           "id": 62,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2959,21 +2975,25 @@
           "video_id": "-ICAQ6VlhLY",
           "error_message": null,
           "created_at": "2026-10-08T07:53:42.465782+00:00"
-        },
-        {
-          "id": 43,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-08",
-          "status": "success",
-          "video_id": "stRwhg5nVc4",
-          "error_message": null,
-          "created_at": "2026-10-08T07:48:10.672658+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7655406000119336206",
+      "youtube_id": "xedI6HBMxic",
+      "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
+      "tiktok_views": 22500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-15T00:34:18Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -3065,7 +3085,7 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 26,
+      "youtube_views": 28,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -4459,20 +4479,6 @@
       "uploaded_at": "2026-09-26T22:15:56Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7689546426736495886",
-      "youtube_id": "VoJATFCbnUE",
-      "title": "Cheesy Stuffed Minced Meat \u2728",
-      "tiktok_views": 13600,
-      "youtube_views": 4,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/VoJATFCbnUE/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-26T16:12:42Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1GOnI6foHcAk-1sM68yVM-4pJkV3sxFbq",
@@ -5486,5 +5492,5 @@
       "created_at": "2026-10-08T07:53:58.855919+00:00"
     }
   ],
-  "last_updated": "2026-10-15T00:33:39.191670+00:00"
+  "last_updated": "2026-10-15T00:38:31.166886+00:00"
 }
