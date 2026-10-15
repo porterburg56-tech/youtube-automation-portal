@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 254,
-    "total_views": 139362,
+    "total_uploads": 255,
+    "total_views": 139366,
     "total_likes": 22,
     "total_subscribers": 86,
     "channels_count": 4,
@@ -115,18 +115,18 @@
     {
       "date": "2026-10-14",
       "ch1_views": 22,
-      "ch2_views": 245,
-      "ch3_views": 543,
-      "ch4_views": 0,
-      "total_views": 810
-    },
-    {
-      "date": "2026-10-15",
-      "ch1_views": 22,
       "ch2_views": 246,
       "ch3_views": 543,
       "ch4_views": 0,
       "total_views": 811
+    },
+    {
+      "date": "2026-10-15",
+      "ch1_views": 22,
+      "ch2_views": 247,
+      "ch3_views": 543,
+      "ch4_views": 0,
+      "total_views": 812
     }
   ],
   "channels": {
@@ -145,7 +145,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 96,
+      "total_uploads": 97,
       "total_views": 625,
       "total_likes": 1,
       "upcoming": {
@@ -672,6 +672,16 @@
       ],
       "runs": [
         {
+          "id": 106,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-10-15",
+          "status": "success",
+          "video_id": "o_MaOqa2jc8",
+          "error_message": null,
+          "created_at": "2026-10-15T06:54:40.464207+00:00"
+        },
+        {
           "id": 105,
           "channel_id": "channel_1",
           "slot": 2,
@@ -860,16 +870,6 @@
           "video_id": "_XFa5DxfmXg",
           "error_message": null,
           "created_at": "2026-10-09T03:03:19.826602+00:00"
-        },
-        {
-          "id": 86,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-10-08",
-          "status": "success",
-          "video_id": "mE0XSH_no08",
-          "error_message": null,
-          "created_at": "2026-10-08T08:22:02.569330+00:00"
         }
       ]
     },
@@ -986,15 +986,15 @@
         },
         {
           "date": "2026-10-14",
-          "views": 32,
+          "views": 33,
           "uploads": 3,
-          "cumulative_views": 245
+          "cumulative_views": 246
         },
         {
           "date": "2026-10-15",
           "views": 1,
           "uploads": 2,
-          "cumulative_views": 246
+          "cumulative_views": 247
         }
       ],
       "videos": [
@@ -1047,7 +1047,7 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 29,
+          "youtube_views": 30,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -2381,7 +2381,7 @@
       "category": "Remote Work & Side Hustles",
       "subscribers": 5,
       "total_uploads": 20,
-      "total_views": 1562,
+      "total_views": 1566,
       "total_likes": 15,
       "upcoming": {
         "slot1": {
@@ -3105,7 +3105,7 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 29,
+      "youtube_views": 30,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -4514,7 +4514,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 96,
+    "total_uploads": 97,
     "total_views": 625,
     "total_likes": 1,
     "upcoming": {
@@ -5041,6 +5041,16 @@
     ],
     "runs": [
       {
+        "id": 106,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-10-15",
+        "status": "success",
+        "video_id": "o_MaOqa2jc8",
+        "error_message": null,
+        "created_at": "2026-10-15T06:54:40.464207+00:00"
+      },
+      {
         "id": 105,
         "channel_id": "channel_1",
         "slot": 2,
@@ -5229,22 +5239,12 @@
         "video_id": "_XFa5DxfmXg",
         "error_message": null,
         "created_at": "2026-10-09T03:03:19.826602+00:00"
-      },
-      {
-        "id": 86,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-10-08",
-        "status": "success",
-        "video_id": "mE0XSH_no08",
-        "error_message": null,
-        "created_at": "2026-10-08T08:22:02.569330+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 254,
-    "total_views": 139362,
+    "total_uploads": 255,
+    "total_views": 139366,
     "total_likes": 22,
     "videos_per_day": 12
   },
@@ -5275,6 +5275,16 @@
     }
   },
   "runs": [
+    {
+      "id": 106,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-10-15",
+      "status": "success",
+      "video_id": "o_MaOqa2jc8",
+      "error_message": null,
+      "created_at": "2026-10-15T06:54:40.464207+00:00"
+    },
     {
       "id": 105,
       "channel_id": "channel_1",
@@ -5464,17 +5474,7 @@
       "video_id": "_XFa5DxfmXg",
       "error_message": null,
       "created_at": "2026-10-09T03:03:19.826602+00:00"
-    },
-    {
-      "id": 86,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-10-08",
-      "status": "success",
-      "video_id": "mE0XSH_no08",
-      "error_message": null,
-      "created_at": "2026-10-08T08:22:02.569330+00:00"
     }
   ],
-  "last_updated": "2026-10-15T06:00:32.950770+00:00"
+  "last_updated": "2026-10-15T06:54:45.177090+00:00"
 }
