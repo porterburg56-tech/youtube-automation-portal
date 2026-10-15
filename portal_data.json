@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 252,
-    "total_views": 139305,
-    "total_likes": 23,
+    "total_uploads": 253,
+    "total_views": 139330,
+    "total_likes": 24,
     "total_subscribers": 86,
     "channels_count": 4,
     "videos_per_day": 12
@@ -82,67 +82,67 @@
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 13,
+      "ch1_views": 14,
       "ch2_views": 169,
       "ch3_views": 432,
       "ch4_views": 1102,
-      "total_views": 1716
+      "total_views": 1717
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 15,
+      "ch1_views": 16,
       "ch2_views": 187,
       "ch3_views": 459,
       "ch4_views": 1333,
-      "total_views": 1994
+      "total_views": 1995
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 17,
+      "ch1_views": 18,
       "ch2_views": 206,
       "ch3_views": 514,
       "ch4_views": 1505,
-      "total_views": 2242
+      "total_views": 2243
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 17,
+      "ch1_views": 18,
       "ch2_views": 218,
       "ch3_views": 590,
       "ch4_views": 1566,
-      "total_views": 2391
+      "total_views": 2392
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 20,
+      "ch1_views": 21,
       "ch2_views": 218,
       "ch3_views": 601,
       "ch4_views": 0,
-      "total_views": 839
+      "total_views": 840
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 21,
-      "ch2_views": 218,
+      "ch1_views": 22,
+      "ch2_views": 219,
       "ch3_views": 608,
       "ch4_views": 0,
-      "total_views": 847
+      "total_views": 849
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 21,
-      "ch2_views": 247,
-      "ch3_views": 631,
+      "ch1_views": 22,
+      "ch2_views": 251,
+      "ch3_views": 632,
       "ch4_views": 0,
-      "total_views": 899
+      "total_views": 905
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 0,
-      "ch2_views": 247,
-      "ch3_views": 631,
+      "ch1_views": 22,
+      "ch2_views": 252,
+      "ch3_views": 632,
       "ch4_views": 0,
-      "total_views": 878
+      "total_views": 906
     }
   ],
   "channels": {
@@ -194,7 +194,7 @@
         {
           "date": "2026-09-28",
           "views": 1,
-          "uploads": 3,
+          "uploads": 2,
           "cumulative_views": 1
         },
         {
@@ -217,48 +217,68 @@
         },
         {
           "date": "2026-10-08",
-          "views": 4,
+          "views": 5,
           "uploads": 2,
-          "cumulative_views": 13
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-09",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 16
         },
         {
           "date": "2026-10-10",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-11",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-14",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 22
+        },
+        {
+          "date": "2026-10-15",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 22
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7672358849990364430",
+          "youtube_id": "CNnAHdSQYAA",
+          "title": "We watched this five times and still laughed. \ud83e\udd23",
+          "tiktok_views": 15900,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/CNnAHdSQYAA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-15T01:42:25Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -532,7 +552,7 @@
           "youtube_id": "yhYoebidcRo",
           "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
           "tiktok_views": 42500,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yhYoebidcRo/hqdefault.jpg",
@@ -664,20 +684,6 @@
           "thumbnail": "https://i.ytimg.com/vi/aInXhEJxU8g/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-28T17:24:22Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7679854748639579406",
-          "youtube_id": "h6yM2xKQ700",
-          "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet \ud83d\ude02",
-          "tiktok_views": 33000,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/h6yM2xKQ700/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-28T02:09:26Z"
         }
       ],
       "runs": [
@@ -898,9 +904,9 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 89,
+      "total_uploads": 90,
       "total_views": 946,
-      "total_likes": 0,
+      "total_likes": 1,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -996,21 +1002,21 @@
         },
         {
           "date": "2026-10-13",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 218
+          "cumulative_views": 219
         },
         {
           "date": "2026-10-14",
-          "views": 29,
+          "views": 32,
           "uploads": 3,
-          "cumulative_views": 247
+          "cumulative_views": 251
         },
         {
           "date": "2026-10-15",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 247
+          "cumulative_views": 252
         }
       ],
       "videos": [
@@ -1021,7 +1027,7 @@
           "youtube_id": "xedI6HBMxic",
           "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
           "tiktok_views": 22500,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -1049,8 +1055,8 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 26,
-          "youtube_likes": 0,
+          "youtube_views": 29,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
           "status": "uploaded",
@@ -1077,7 +1083,7 @@
           "youtube_id": "fOzphVK1Abc",
           "title": "Garlic Butter Chicken Pasta \ud83c\udf5d",
           "tiktok_views": 5302,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/fOzphVK1Abc/hqdefault.jpg",
@@ -1437,6 +1443,16 @@
       ],
       "runs": [
         {
+          "id": 109,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-15",
+          "status": "success",
+          "video_id": "jLH_dVJ-0pI",
+          "error_message": null,
+          "created_at": "2026-10-15T05:43:24.004105+00:00"
+        },
+        {
           "id": 108,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1625,16 +1641,6 @@
           "video_id": "kxIacsu0CAw",
           "error_message": null,
           "created_at": "2026-10-10T06:56:44.653224+00:00"
-        },
-        {
-          "id": 89,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-10",
-          "status": "success",
-          "video_id": "o8dXFrj3rHg",
-          "error_message": null,
-          "created_at": "2026-10-10T01:42:40.421598+00:00"
         }
       ]
     },
@@ -1654,7 +1660,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 47,
-      "total_views": 136172,
+      "total_views": 136193,
       "total_likes": 7,
       "upcoming": {
         "slot1": {
@@ -1751,15 +1757,15 @@
         },
         {
           "date": "2026-10-14",
-          "views": 23,
+          "views": 24,
           "uploads": 3,
-          "cumulative_views": 631
+          "cumulative_views": 632
         },
         {
           "date": "2026-10-15",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 631
+          "cumulative_views": 632
         }
       ],
       "videos": [
@@ -1784,7 +1790,7 @@
           "youtube_id": "Wdf8SbNh6Uk",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Wdf8SbNh6Uk/hqdefault.jpg",
@@ -2403,7 +2409,7 @@
       "category": "Remote Work & Side Hustles",
       "subscribers": 5,
       "total_uploads": 20,
-      "total_views": 1562,
+      "total_views": 1566,
       "total_likes": 15,
       "upcoming": {
         "slot1": {
@@ -2981,13 +2987,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7672358849990364430",
+      "youtube_id": "CNnAHdSQYAA",
+      "title": "We watched this five times and still laughed. \ud83e\udd23",
+      "tiktok_views": 15900,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/CNnAHdSQYAA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-15T01:42:25Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7655406000119336206",
       "youtube_id": "xedI6HBMxic",
       "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
       "tiktok_views": 22500,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -3015,7 +3035,7 @@
       "youtube_id": "Wdf8SbNh6Uk",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Wdf8SbNh6Uk/hqdefault.jpg",
@@ -3085,8 +3105,8 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 26,
-      "youtube_likes": 0,
+      "youtube_views": 29,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
       "status": "uploaded",
@@ -3169,7 +3189,7 @@
       "youtube_id": "fOzphVK1Abc",
       "title": "Garlic Butter Chicken Pasta \ud83c\udf5d",
       "tiktok_views": 5302,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/fOzphVK1Abc/hqdefault.jpg",
@@ -3841,7 +3861,7 @@
       "youtube_id": "yhYoebidcRo",
       "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
       "tiktok_views": 42500,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yhYoebidcRo/hqdefault.jpg",
@@ -4395,20 +4415,6 @@
       "uploaded_at": "2026-09-28T05:59:48Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7679854748639579406",
-      "youtube_id": "h6yM2xKQ700",
-      "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet \ud83d\ude02",
-      "tiktok_views": 33000,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/h6yM2xKQ700/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-28T02:09:26Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7666897828190473486",
@@ -4569,7 +4575,7 @@
       {
         "date": "2026-09-28",
         "views": 1,
-        "uploads": 3,
+        "uploads": 2,
         "cumulative_views": 1
       },
       {
@@ -4592,48 +4598,68 @@
       },
       {
         "date": "2026-10-08",
-        "views": 4,
+        "views": 5,
         "uploads": 2,
-        "cumulative_views": 13
+        "cumulative_views": 14
       },
       {
         "date": "2026-10-09",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 16
       },
       {
         "date": "2026-10-10",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 18
       },
       {
         "date": "2026-10-11",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 18
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-13",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 22
       },
       {
         "date": "2026-10-14",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 22
+      },
+      {
+        "date": "2026-10-15",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 22
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7672358849990364430",
+        "youtube_id": "CNnAHdSQYAA",
+        "title": "We watched this five times and still laughed. \ud83e\udd23",
+        "tiktok_views": 15900,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/CNnAHdSQYAA/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-15T01:42:25Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4907,7 +4933,7 @@
         "youtube_id": "yhYoebidcRo",
         "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
         "tiktok_views": 42500,
-        "youtube_views": 2,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/yhYoebidcRo/hqdefault.jpg",
@@ -5039,20 +5065,6 @@
         "thumbnail": "https://i.ytimg.com/vi/aInXhEJxU8g/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-28T17:24:22Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7679854748639579406",
-        "youtube_id": "h6yM2xKQ700",
-        "title": "Grandpa and His Tiny Twin Walked Into the Sunset and Won the Internet \ud83d\ude02",
-        "tiktok_views": 33000,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/h6yM2xKQ700/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-28T02:09:26Z"
       }
     ],
     "runs": [
@@ -5259,9 +5271,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 252,
-    "total_views": 139305,
-    "total_likes": 23,
+    "total_uploads": 253,
+    "total_views": 139330,
+    "total_likes": 24,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5492,5 +5504,5 @@
       "created_at": "2026-10-08T08:22:02.569330+00:00"
     }
   ],
-  "last_updated": "2026-10-15T01:42:12.660342+00:00"
+  "last_updated": "2026-10-15T05:43:28.839784+00:00"
 }
