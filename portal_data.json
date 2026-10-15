@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 255,
-    "total_views": 139366,
-    "total_likes": 22,
+    "total_uploads": 256,
+    "total_views": 139387,
+    "total_likes": 23,
     "total_subscribers": 86,
     "channels_count": 4,
     "videos_per_day": 12
@@ -27,106 +27,106 @@
     {
       "date": "2026-09-27",
       "ch1_views": 0,
-      "ch2_views": 5,
+      "ch2_views": 7,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 5
+      "total_views": 7
     },
     {
       "date": "2026-09-28",
       "ch1_views": 1,
-      "ch2_views": 39,
+      "ch2_views": 42,
       "ch3_views": 20,
       "ch4_views": 557,
-      "total_views": 617
+      "total_views": 620
     },
     {
       "date": "2026-09-29",
       "ch1_views": 4,
-      "ch2_views": 81,
+      "ch2_views": 84,
       "ch3_views": 86,
       "ch4_views": 636,
-      "total_views": 807
+      "total_views": 810
     },
     {
       "date": "2026-09-30",
       "ch1_views": 5,
-      "ch2_views": 140,
+      "ch2_views": 143,
       "ch3_views": 185,
       "ch4_views": 842,
-      "total_views": 1172
+      "total_views": 1175
     },
     {
       "date": "2026-10-01",
       "ch1_views": 9,
-      "ch2_views": 148,
+      "ch2_views": 151,
       "ch3_views": 207,
       "ch4_views": 1056,
-      "total_views": 1420
+      "total_views": 1423
     },
     {
       "date": "2026-10-08",
       "ch1_views": 14,
-      "ch2_views": 163,
+      "ch2_views": 166,
       "ch3_views": 343,
       "ch4_views": 1102,
-      "total_views": 1622
+      "total_views": 1625
     },
     {
       "date": "2026-10-09",
       "ch1_views": 16,
-      "ch2_views": 181,
+      "ch2_views": 184,
       "ch3_views": 370,
       "ch4_views": 1333,
-      "total_views": 1900
+      "total_views": 1903
     },
     {
       "date": "2026-10-10",
       "ch1_views": 18,
-      "ch2_views": 200,
+      "ch2_views": 203,
       "ch3_views": 425,
       "ch4_views": 1505,
-      "total_views": 2148
+      "total_views": 2151
     },
     {
       "date": "2026-10-11",
       "ch1_views": 18,
-      "ch2_views": 212,
+      "ch2_views": 215,
       "ch3_views": 501,
       "ch4_views": 1566,
-      "total_views": 2297
+      "total_views": 2300
     },
     {
       "date": "2026-10-12",
       "ch1_views": 21,
-      "ch2_views": 212,
-      "ch3_views": 512,
+      "ch2_views": 215,
+      "ch3_views": 515,
       "ch4_views": 0,
-      "total_views": 745
+      "total_views": 751
     },
     {
       "date": "2026-10-13",
       "ch1_views": 22,
-      "ch2_views": 213,
-      "ch3_views": 519,
+      "ch2_views": 216,
+      "ch3_views": 522,
       "ch4_views": 0,
-      "total_views": 754
+      "total_views": 760
     },
     {
       "date": "2026-10-14",
       "ch1_views": 22,
-      "ch2_views": 246,
-      "ch3_views": 543,
+      "ch2_views": 252,
+      "ch3_views": 550,
       "ch4_views": 0,
-      "total_views": 811
+      "total_views": 824
     },
     {
       "date": "2026-10-15",
       "ch1_views": 22,
-      "ch2_views": 247,
-      "ch3_views": 543,
+      "ch2_views": 273,
+      "ch3_views": 563,
       "ch4_views": 0,
-      "total_views": 812
+      "total_views": 858
     }
   ],
   "channels": {
@@ -146,7 +146,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 97,
-      "total_views": 625,
+      "total_views": 628,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -178,7 +178,7 @@
         {
           "date": "2026-09-28",
           "views": 1,
-          "uploads": 2,
+          "uploads": 1,
           "cumulative_views": 1
         },
         {
@@ -244,11 +244,25 @@
         {
           "date": "2026-10-15",
           "views": 0,
-          "uploads": 1,
+          "uploads": 2,
           "cumulative_views": 22
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7666435258211912974",
+          "youtube_id": "o_MaOqa2jc8",
+          "title": "\u2764\ufe0f Mom\u2019s Kitchen Mood in One Tiny Toddler! \ud83d\ude02",
+          "tiktok_views": 15700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/o_MaOqa2jc8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-15T06:54:59Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -654,20 +668,6 @@
           "thumbnail": "https://i.ytimg.com/vi/vLZoF2mawWY/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-28T23:46:09Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7690550277098720526",
-          "youtube_id": "aInXhEJxU8g",
-          "title": "Months Old and Already Walking Like a 76 Year Old \ud83d\ude2d\ud83d\udc80",
-          "tiktok_views": 19500,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/aInXhEJxU8g/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-28T17:24:22Z"
         }
       ],
       "runs": [
@@ -888,9 +888,9 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 90,
-      "total_views": 982,
-      "total_likes": 1,
+      "total_uploads": 91,
+      "total_views": 994,
+      "total_likes": 2,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -920,81 +920,81 @@
       "view_history": [
         {
           "date": "2026-09-27",
-          "views": 5,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 5
+          "cumulative_views": 7
         },
         {
           "date": "2026-09-28",
-          "views": 34,
+          "views": 35,
           "uploads": 3,
-          "cumulative_views": 39
+          "cumulative_views": 42
         },
         {
           "date": "2026-09-29",
           "views": 42,
           "uploads": 3,
-          "cumulative_views": 81
+          "cumulative_views": 84
         },
         {
           "date": "2026-09-30",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 140
+          "cumulative_views": 143
         },
         {
           "date": "2026-10-01",
           "views": 8,
           "uploads": 1,
-          "cumulative_views": 148
+          "cumulative_views": 151
         },
         {
           "date": "2026-10-08",
           "views": 15,
           "uploads": 1,
-          "cumulative_views": 163
+          "cumulative_views": 166
         },
         {
           "date": "2026-10-09",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 181
+          "cumulative_views": 184
         },
         {
           "date": "2026-10-10",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 200
+          "cumulative_views": 203
         },
         {
           "date": "2026-10-11",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 212
+          "cumulative_views": 215
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 212
+          "cumulative_views": 215
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 213
+          "cumulative_views": 216
         },
         {
           "date": "2026-10-14",
-          "views": 33,
+          "views": 36,
           "uploads": 3,
-          "cumulative_views": 246
+          "cumulative_views": 252
         },
         {
           "date": "2026-10-15",
-          "views": 1,
+          "views": 21,
           "uploads": 2,
-          "cumulative_views": 247
+          "cumulative_views": 273
         }
       ],
       "videos": [
@@ -1005,7 +1005,7 @@
           "youtube_id": "jLH_dVJ-0pI",
           "title": "No-Bake Chocolate Banana Roll That Melts in Your Mouth \ud83c\udf4c\ud83c\udf6b",
           "tiktok_views": 22300,
-          "youtube_views": 0,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLH_dVJ-0pI/hqdefault.jpg",
@@ -1019,8 +1019,8 @@
           "youtube_id": "xedI6HBMxic",
           "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
           "tiktok_views": 22500,
-          "youtube_views": 1,
-          "youtube_likes": 0,
+          "youtube_views": 14,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
           "status": "uploaded",
@@ -1047,7 +1047,7 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 30,
+          "youtube_views": 31,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -1061,7 +1061,7 @@
           "youtube_id": "EYGSlP92-M0",
           "title": "Cheesy Meatball and Mushroom Puff Pastry Pie \u2728",
           "tiktok_views": 225300,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/EYGSlP92-M0/hqdefault.jpg",
@@ -1369,7 +1369,7 @@
           "youtube_id": "PRdIrEcgLfI",
           "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
           "tiktok_views": 45500,
-          "youtube_views": 11,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
@@ -1411,7 +1411,7 @@
           "youtube_id": "fOkH5a4Y7no",
           "title": "Beer-Marinated Tender Beef \u2728",
           "tiktok_views": 76200,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/fOkH5a4Y7no/hqdefault.jpg",
@@ -1420,6 +1420,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 110,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-10-15",
+          "status": "success",
+          "video_id": "jzpE865wP6E",
+          "error_message": null,
+          "created_at": "2026-10-15T19:51:01.294721+00:00"
+        },
         {
           "id": 109,
           "channel_id": "channel_2",
@@ -1609,16 +1619,6 @@
           "video_id": "7-CMo4sOimA",
           "error_message": null,
           "created_at": "2026-10-10T19:47:14.718040+00:00"
-        },
-        {
-          "id": 90,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-10",
-          "status": "success",
-          "video_id": "kxIacsu0CAw",
-          "error_message": null,
-          "created_at": "2026-10-10T06:56:44.653224+00:00"
         }
       ]
     },
@@ -1638,7 +1638,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 48,
-      "total_views": 136193,
+      "total_views": 136199,
       "total_likes": 5,
       "upcoming": {
         "slot1": {
@@ -1717,27 +1717,27 @@
         },
         {
           "date": "2026-10-12",
-          "views": 11,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 512
+          "cumulative_views": 515
         },
         {
           "date": "2026-10-13",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 519
+          "cumulative_views": 522
         },
         {
           "date": "2026-10-14",
-          "views": 24,
+          "views": 28,
           "uploads": 3,
-          "cumulative_views": 543
+          "cumulative_views": 550
         },
         {
           "date": "2026-10-15",
-          "views": 0,
+          "views": 13,
           "uploads": 2,
-          "cumulative_views": 543
+          "cumulative_views": 563
         }
       ],
       "videos": [
@@ -1748,7 +1748,7 @@
           "youtube_id": "lE-BNNNG298",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lE-BNNNG298/hqdefault.jpg",
@@ -1762,7 +1762,7 @@
           "youtube_id": "av6qkqzBP40",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/av6qkqzBP40/hqdefault.jpg",
@@ -1776,7 +1776,7 @@
           "youtube_id": "Wdf8SbNh6Uk",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Wdf8SbNh6Uk/hqdefault.jpg",
@@ -1790,7 +1790,7 @@
           "youtube_id": "8pUIPxdFyEQ",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 13,
+          "youtube_views": 16,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8pUIPxdFyEQ/hqdefault.jpg",
@@ -1860,7 +1860,7 @@
           "youtube_id": "9eK7aXl3-QQ",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9eK7aXl3-QQ/hqdefault.jpg",
@@ -2959,13 +2959,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7666435258211912974",
+      "youtube_id": "o_MaOqa2jc8",
+      "title": "\u2764\ufe0f Mom\u2019s Kitchen Mood in One Tiny Toddler! \ud83d\ude02",
+      "tiktok_views": 15700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/o_MaOqa2jc8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-15T06:54:59Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1C5HMc85rB1zCBE4aZhP1h_7M5EFaSYT2",
       "youtube_id": "lE-BNNNG298",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lE-BNNNG298/hqdefault.jpg",
@@ -2979,7 +2993,7 @@
       "youtube_id": "jLH_dVJ-0pI",
       "title": "No-Bake Chocolate Banana Roll That Melts in Your Mouth \ud83c\udf4c\ud83c\udf6b",
       "tiktok_views": 22300,
-      "youtube_views": 0,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLH_dVJ-0pI/hqdefault.jpg",
@@ -3007,8 +3021,8 @@
       "youtube_id": "xedI6HBMxic",
       "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
       "tiktok_views": 22500,
-      "youtube_views": 1,
-      "youtube_likes": 0,
+      "youtube_views": 14,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
       "status": "uploaded",
@@ -3021,7 +3035,7 @@
       "youtube_id": "av6qkqzBP40",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/av6qkqzBP40/hqdefault.jpg",
@@ -3035,7 +3049,7 @@
       "youtube_id": "Wdf8SbNh6Uk",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Wdf8SbNh6Uk/hqdefault.jpg",
@@ -3091,7 +3105,7 @@
       "youtube_id": "8pUIPxdFyEQ",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 13,
+      "youtube_views": 16,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8pUIPxdFyEQ/hqdefault.jpg",
@@ -3105,7 +3119,7 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 30,
+      "youtube_views": 31,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -3147,7 +3161,7 @@
       "youtube_id": "EYGSlP92-M0",
       "title": "Cheesy Meatball and Mushroom Puff Pastry Pie \u2728",
       "tiktok_views": 225300,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/EYGSlP92-M0/hqdefault.jpg",
@@ -3259,7 +3273,7 @@
       "youtube_id": "9eK7aXl3-QQ",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9eK7aXl3-QQ/hqdefault.jpg",
@@ -4359,20 +4373,6 @@
       "uploaded_at": "2026-09-28T22:28:45Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7690550277098720526",
-      "youtube_id": "aInXhEJxU8g",
-      "title": "Months Old and Already Walking Like a 76 Year Old \ud83d\ude2d\ud83d\udc80",
-      "tiktok_views": 19500,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/aInXhEJxU8g/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-28T17:24:22Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7677653731810299150",
@@ -4421,7 +4421,7 @@
       "youtube_id": "PRdIrEcgLfI",
       "title": "Mini Banana Caramel Oreo Cakes That Melt in Your Mouth \u2728",
       "tiktok_views": 45500,
-      "youtube_views": 11,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
@@ -4463,7 +4463,7 @@
       "youtube_id": "fOkH5a4Y7no",
       "title": "Beer-Marinated Tender Beef \u2728",
       "tiktok_views": 76200,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/fOkH5a4Y7no/hqdefault.jpg",
@@ -4515,7 +4515,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 97,
-    "total_views": 625,
+    "total_views": 628,
     "total_likes": 1,
     "upcoming": {
       "slot1": {
@@ -4547,7 +4547,7 @@
       {
         "date": "2026-09-28",
         "views": 1,
-        "uploads": 2,
+        "uploads": 1,
         "cumulative_views": 1
       },
       {
@@ -4613,11 +4613,25 @@
       {
         "date": "2026-10-15",
         "views": 0,
-        "uploads": 1,
+        "uploads": 2,
         "cumulative_views": 22
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7666435258211912974",
+        "youtube_id": "o_MaOqa2jc8",
+        "title": "\u2764\ufe0f Mom\u2019s Kitchen Mood in One Tiny Toddler! \ud83d\ude02",
+        "tiktok_views": 15700,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/o_MaOqa2jc8/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-15T06:54:59Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5023,20 +5037,6 @@
         "thumbnail": "https://i.ytimg.com/vi/vLZoF2mawWY/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-28T23:46:09Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7690550277098720526",
-        "youtube_id": "aInXhEJxU8g",
-        "title": "Months Old and Already Walking Like a 76 Year Old \ud83d\ude2d\ud83d\udc80",
-        "tiktok_views": 19500,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/aInXhEJxU8g/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-28T17:24:22Z"
       }
     ],
     "runs": [
@@ -5243,9 +5243,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 255,
-    "total_views": 139366,
-    "total_likes": 22,
+    "total_uploads": 256,
+    "total_views": 139387,
+    "total_likes": 23,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5476,5 +5476,5 @@
       "created_at": "2026-10-09T03:03:19.826602+00:00"
     }
   ],
-  "last_updated": "2026-10-15T06:54:45.177090+00:00"
+  "last_updated": "2026-10-15T19:51:06.391389+00:00"
 }
