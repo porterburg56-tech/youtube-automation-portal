@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 257,
+    "total_uploads": 258,
     "total_views": 139387,
     "total_likes": 23,
     "total_subscribers": 86,
@@ -34,99 +34,99 @@
     },
     {
       "date": "2026-09-28",
-      "ch1_views": 1,
+      "ch1_views": 0,
       "ch2_views": 38,
       "ch3_views": 20,
       "ch4_views": 557,
-      "total_views": 616
+      "total_views": 615
     },
     {
       "date": "2026-09-29",
-      "ch1_views": 4,
+      "ch1_views": 3,
       "ch2_views": 80,
       "ch3_views": 86,
       "ch4_views": 636,
-      "total_views": 806
+      "total_views": 805
     },
     {
       "date": "2026-09-30",
-      "ch1_views": 5,
+      "ch1_views": 4,
       "ch2_views": 139,
       "ch3_views": 185,
       "ch4_views": 842,
-      "total_views": 1171
+      "total_views": 1170
     },
     {
       "date": "2026-10-01",
-      "ch1_views": 9,
+      "ch1_views": 8,
       "ch2_views": 147,
       "ch3_views": 207,
       "ch4_views": 1056,
-      "total_views": 1419
+      "total_views": 1418
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 14,
+      "ch1_views": 13,
       "ch2_views": 162,
       "ch3_views": 343,
       "ch4_views": 1102,
-      "total_views": 1621
+      "total_views": 1620
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 16,
+      "ch1_views": 15,
       "ch2_views": 180,
       "ch3_views": 370,
       "ch4_views": 1333,
-      "total_views": 1899
+      "total_views": 1898
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 18,
+      "ch1_views": 17,
       "ch2_views": 199,
       "ch3_views": 425,
       "ch4_views": 1505,
-      "total_views": 2147
+      "total_views": 2146
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 18,
+      "ch1_views": 17,
       "ch2_views": 211,
       "ch3_views": 501,
       "ch4_views": 1566,
-      "total_views": 2296
+      "total_views": 2295
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 21,
+      "ch1_views": 20,
       "ch2_views": 211,
       "ch3_views": 515,
       "ch4_views": 0,
-      "total_views": 747
+      "total_views": 746
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 22,
+      "ch1_views": 21,
       "ch2_views": 212,
       "ch3_views": 522,
       "ch4_views": 0,
-      "total_views": 756
+      "total_views": 755
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 22,
-      "ch2_views": 251,
+      "ch1_views": 21,
+      "ch2_views": 249,
       "ch3_views": 550,
       "ch4_views": 0,
-      "total_views": 823
+      "total_views": 820
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 22,
-      "ch2_views": 274,
+      "ch1_views": 21,
+      "ch2_views": 268,
       "ch3_views": 563,
       "ch4_views": 0,
-      "total_views": 859
+      "total_views": 852
     }
   ],
   "channels": {
@@ -176,79 +176,87 @@
       },
       "view_history": [
         {
-          "date": "2026-09-28",
-          "views": 1,
-          "uploads": 1,
-          "cumulative_views": 1
-        },
-        {
           "date": "2026-09-29",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 4
+          "cumulative_views": 3
         },
         {
           "date": "2026-09-30",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 5
+          "cumulative_views": 4
         },
         {
           "date": "2026-10-01",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 9
+          "cumulative_views": 8
         },
         {
           "date": "2026-10-08",
           "views": 5,
           "uploads": 2,
-          "cumulative_views": 14
+          "cumulative_views": 13
         },
         {
           "date": "2026-10-09",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 16
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-10",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 18
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-11",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 18
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-14",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-15",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 22
+          "uploads": 3,
+          "cumulative_views": 21
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7683187014677679373",
+          "youtube_id": "RoZ-KO4jiEA",
+          "title": "He Stopped When Grandpa Stopped and Looked Where Grandpa Looked \ud83d\udc80\ud83e\udd23",
+          "tiktok_views": 11200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/RoZ-KO4jiEA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-15T20:16:39Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -654,20 +662,6 @@
           "thumbnail": "https://i.ytimg.com/vi/wZd_mfd54VA/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-29T02:09:10Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7673545756879408398",
-          "youtube_id": "vLZoF2mawWY",
-          "title": "Nobody in the room could keep a straight face. \ud83e\udd23",
-          "tiktok_views": 30600,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/vLZoF2mawWY/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-28T23:46:09Z"
         }
       ],
       "runs": [
@@ -986,15 +980,15 @@
         },
         {
           "date": "2026-10-14",
-          "views": 39,
+          "views": 37,
           "uploads": 3,
-          "cumulative_views": 251
+          "cumulative_views": 249
         },
         {
           "date": "2026-10-15",
-          "views": 23,
+          "views": 19,
           "uploads": 3,
-          "cumulative_views": 274
+          "cumulative_views": 268
         }
       ],
       "videos": [
@@ -1033,7 +1027,7 @@
           "youtube_id": "xedI6HBMxic",
           "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
           "tiktok_views": 22500,
-          "youtube_views": 16,
+          "youtube_views": 12,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -1061,7 +1055,7 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 33,
+          "youtube_views": 31,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -1637,7 +1631,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 48,
+      "total_uploads": 49,
       "total_views": 136199,
       "total_likes": 5,
       "upcoming": {
@@ -2164,6 +2158,16 @@
       ],
       "runs": [
         {
+          "id": 72,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-15",
+          "status": "success",
+          "video_id": "GhRRy83EEsA",
+          "error_message": null,
+          "created_at": "2026-10-15T20:19:50.984233+00:00"
+        },
+        {
           "id": 71,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2352,16 +2356,6 @@
           "video_id": "XwAXRGsO1tk",
           "error_message": null,
           "created_at": "2026-10-09T07:22:00.903007+00:00"
-        },
-        {
-          "id": 52,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-09",
-          "status": "success",
-          "video_id": "uhUr5_7Z7aA",
-          "error_message": null,
-          "created_at": "2026-10-09T02:10:58.648714+00:00"
         }
       ]
     },
@@ -2959,6 +2953,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7683187014677679373",
+      "youtube_id": "RoZ-KO4jiEA",
+      "title": "He Stopped When Grandpa Stopped and Looked Where Grandpa Looked \ud83d\udc80\ud83e\udd23",
+      "tiktok_views": 11200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/RoZ-KO4jiEA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-15T20:16:39Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7696945328322366733",
@@ -3035,7 +3043,7 @@
       "youtube_id": "xedI6HBMxic",
       "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
       "tiktok_views": 22500,
-      "youtube_views": 16,
+      "youtube_views": 12,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -3133,7 +3141,7 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 33,
+      "youtube_views": 31,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -4331,20 +4339,6 @@
       "uploaded_at": "2026-09-29T01:16:59Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7673545756879408398",
-      "youtube_id": "vLZoF2mawWY",
-      "title": "Nobody in the room could keep a straight face. \ud83e\udd23",
-      "tiktok_views": 30600,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/vLZoF2mawWY/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-28T23:46:09Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1rBMyziyFDHSlSX-j3utpImBUGkyKCq7V",
@@ -4545,79 +4539,87 @@
     },
     "view_history": [
       {
-        "date": "2026-09-28",
-        "views": 1,
-        "uploads": 1,
-        "cumulative_views": 1
-      },
-      {
         "date": "2026-09-29",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 4
+        "cumulative_views": 3
       },
       {
         "date": "2026-09-30",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 5
+        "cumulative_views": 4
       },
       {
         "date": "2026-10-01",
         "views": 4,
         "uploads": 1,
-        "cumulative_views": 9
+        "cumulative_views": 8
       },
       {
         "date": "2026-10-08",
         "views": 5,
         "uploads": 2,
-        "cumulative_views": 14
+        "cumulative_views": 13
       },
       {
         "date": "2026-10-09",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 16
+        "cumulative_views": 15
       },
       {
         "date": "2026-10-10",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 18
+        "cumulative_views": 17
       },
       {
         "date": "2026-10-11",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 18
+        "cumulative_views": 17
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 20
       },
       {
         "date": "2026-10-13",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-14",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-15",
         "views": 0,
-        "uploads": 2,
-        "cumulative_views": 22
+        "uploads": 3,
+        "cumulative_views": 21
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7683187014677679373",
+        "youtube_id": "RoZ-KO4jiEA",
+        "title": "He Stopped When Grandpa Stopped and Looked Where Grandpa Looked \ud83d\udc80\ud83e\udd23",
+        "tiktok_views": 11200,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/RoZ-KO4jiEA/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-15T20:16:39Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5023,20 +5025,6 @@
         "thumbnail": "https://i.ytimg.com/vi/wZd_mfd54VA/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-29T02:09:10Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7673545756879408398",
-        "youtube_id": "vLZoF2mawWY",
-        "title": "Nobody in the room could keep a straight face. \ud83e\udd23",
-        "tiktok_views": 30600,
-        "youtube_views": 1,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/vLZoF2mawWY/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-28T23:46:09Z"
       }
     ],
     "runs": [
@@ -5243,7 +5231,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 257,
+    "total_uploads": 258,
     "total_views": 139387,
     "total_likes": 23,
     "videos_per_day": 12
@@ -5476,5 +5464,5 @@
       "created_at": "2026-10-09T08:24:58.002627+00:00"
     }
   ],
-  "last_updated": "2026-10-15T20:16:23.032810+00:00"
+  "last_updated": "2026-10-15T20:19:55.245070+00:00"
 }
