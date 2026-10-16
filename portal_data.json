@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 262,
+    "total_uploads": 263,
     "total_views": 139387,
     "total_likes": 24,
     "total_subscribers": 86,
@@ -23,14 +23,6 @@
       "ch3_views": 0,
       "ch4_views": 230,
       "total_views": 230
-    },
-    {
-      "date": "2026-09-27",
-      "ch1_views": 0,
-      "ch2_views": 0,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 0
     },
     {
       "date": "2026-09-28",
@@ -115,26 +107,26 @@
     {
       "date": "2026-10-14",
       "ch1_views": 20,
-      "ch2_views": 252,
+      "ch2_views": 253,
       "ch3_views": 530,
       "ch4_views": 0,
-      "total_views": 802
+      "total_views": 803
     },
     {
       "date": "2026-10-15",
       "ch1_views": 20,
-      "ch2_views": 282,
+      "ch2_views": 284,
       "ch3_views": 554,
       "ch4_views": 0,
-      "total_views": 856
+      "total_views": 858
     },
     {
       "date": "2026-10-16",
       "ch1_views": 20,
-      "ch2_views": 282,
+      "ch2_views": 284,
       "ch3_views": 559,
       "ch4_views": 0,
-      "total_views": 861
+      "total_views": 863
     }
   ],
   "channels": {
@@ -927,12 +919,6 @@
       },
       "view_history": [
         {
-          "date": "2026-09-27",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
-        {
           "date": "2026-09-28",
           "views": 35,
           "uploads": 3,
@@ -994,24 +980,38 @@
         },
         {
           "date": "2026-10-14",
-          "views": 43,
+          "views": 44,
           "uploads": 3,
-          "cumulative_views": 252
+          "cumulative_views": 253
         },
         {
           "date": "2026-10-15",
-          "views": 30,
+          "views": 31,
           "uploads": 3,
-          "cumulative_views": 282
+          "cumulative_views": 284
         },
         {
           "date": "2026-10-16",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 282
+          "uploads": 2,
+          "cumulative_views": 284
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7657619394935213326",
+          "youtube_id": "SQjPyQBOw9o",
+          "title": "Taste & Tales \u2728",
+          "tiktok_views": 20400,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/SQjPyQBOw9o/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-16T05:35:51Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1061,7 +1061,7 @@
           "youtube_id": "xedI6HBMxic",
           "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
           "tiktok_views": 22500,
-          "youtube_views": 20,
+          "youtube_views": 21,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -1089,7 +1089,7 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 36,
+          "youtube_views": 37,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -1417,20 +1417,6 @@
           "thumbnail": "https://i.ytimg.com/vi/PRdIrEcgLfI/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-28T01:14:52Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7675061393799793933",
-          "youtube_id": "nDVYHhw-ZQk",
-          "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
-          "tiktok_views": 48700,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/nDVYHhw-ZQk/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-27T22:19:09Z"
         }
       ],
       "runs": [
@@ -1651,7 +1637,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 50,
+      "total_uploads": 51,
       "total_views": 136199,
       "total_likes": 6,
       "upcoming": {
@@ -2178,6 +2164,16 @@
       ],
       "runs": [
         {
+          "id": 74,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-16",
+          "status": "success",
+          "video_id": "4gIvQXW6Exk",
+          "error_message": null,
+          "created_at": "2026-10-16T05:49:48.237713+00:00"
+        },
+        {
           "id": 73,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2366,16 +2362,6 @@
           "video_id": "YjCUhoIVKGM",
           "error_message": null,
           "created_at": "2026-10-10T01:46:11.635508+00:00"
-        },
-        {
-          "id": 54,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-09",
-          "status": "success",
-          "video_id": "e_uGYLvRg2s",
-          "error_message": null,
-          "created_at": "2026-10-09T21:40:04.948696+00:00"
         }
       ]
     },
@@ -2973,6 +2959,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7657619394935213326",
+      "youtube_id": "SQjPyQBOw9o",
+      "title": "Taste & Tales \u2728",
+      "tiktok_views": 20400,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/SQjPyQBOw9o/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-16T05:35:51Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7679098242201636109",
@@ -3119,7 +3119,7 @@
       "youtube_id": "xedI6HBMxic",
       "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
       "tiktok_views": 22500,
-      "youtube_views": 20,
+      "youtube_views": 21,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -3217,7 +3217,7 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 36,
+      "youtube_views": 37,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -4471,20 +4471,6 @@
       "uploaded_at": "2026-09-28T01:14:52Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7675061393799793933",
-      "youtube_id": "nDVYHhw-ZQk",
-      "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
-      "tiktok_views": 48700,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/nDVYHhw-ZQk/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-27T22:19:09Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1GWPR-DMPrHmjWJU1NiBv80eXruvb_cRM",
@@ -5257,7 +5243,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 262,
+    "total_uploads": 263,
     "total_views": 139387,
     "total_likes": 24,
     "videos_per_day": 12
@@ -5490,5 +5476,5 @@
       "created_at": "2026-10-09T21:34:42.263925+00:00"
     }
   ],
-  "last_updated": "2026-10-16T05:35:17.830627+00:00"
+  "last_updated": "2026-10-16T05:49:52.676947+00:00"
 }
