@@ -115,18 +115,18 @@
     {
       "date": "2026-10-15",
       "ch1_views": 18,
-      "ch2_views": 292,
+      "ch2_views": 295,
       "ch3_views": 501,
       "ch4_views": 0,
-      "total_views": 811
+      "total_views": 814
     },
     {
       "date": "2026-10-16",
       "ch1_views": 20,
-      "ch2_views": 294,
+      "ch2_views": 297,
       "ch3_views": 517,
       "ch4_views": 0,
-      "total_views": 831
+      "total_views": 834
     }
   ],
   "channels": {
@@ -175,12 +175,6 @@
         }
       },
       "view_history": [
-        {
-          "date": "2026-09-29",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
         {
           "date": "2026-09-30",
           "views": 1,
@@ -244,11 +238,25 @@
         {
           "date": "2026-10-16",
           "views": 2,
-          "uploads": 2,
+          "uploads": 3,
           "cumulative_views": 20
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7697280809476033806",
+          "youtube_id": "h72THWuxs_U",
+          "title": "Plot Twist \u2014 Toddler Was the Funniest Person at the BBQ \ud83d\ude02\ud83d\udd25",
+          "tiktok_views": 37300,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/h72THWuxs_U/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-16T19:53:07Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -654,20 +662,6 @@
           "thumbnail": "https://i.ytimg.com/vi/dwxSvTintxY/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-30T02:10:08Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7676519686074289422",
-          "youtube_id": "JYE1o-T-OD8",
-          "title": "Mom sneezed, baby copied her\u2026 and then the Husky decided to steal the \ud83d\ude02",
-          "tiktok_views": 29400,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/JYE1o-T-OD8/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-29T23:41:04Z"
         }
       ],
       "runs": [
@@ -986,15 +980,15 @@
         },
         {
           "date": "2026-10-15",
-          "views": 44,
+          "views": 47,
           "uploads": 3,
-          "cumulative_views": 292
+          "cumulative_views": 295
         },
         {
           "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 294
+          "cumulative_views": 297
         }
       ],
       "videos": [
@@ -1075,7 +1069,7 @@
           "youtube_id": "xedI6HBMxic",
           "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
           "tiktok_views": 22500,
-          "youtube_views": 30,
+          "youtube_views": 33,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -2164,6 +2158,16 @@
       ],
       "runs": [
         {
+          "id": 75,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-16",
+          "status": "success",
+          "video_id": "27ynTHWStTE",
+          "error_message": null,
+          "created_at": "2026-10-16T19:56:30.932064+00:00"
+        },
+        {
           "id": 74,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2352,16 +2356,6 @@
           "video_id": "0oCLrjmW11A",
           "error_message": null,
           "created_at": "2026-10-10T07:03:39.214177+00:00"
-        },
-        {
-          "id": 55,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-10",
-          "status": "success",
-          "video_id": "YjCUhoIVKGM",
-          "error_message": null,
-          "created_at": "2026-10-10T01:46:11.635508+00:00"
         }
       ]
     },
@@ -2959,6 +2953,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7697280809476033806",
+      "youtube_id": "h72THWuxs_U",
+      "title": "Plot Twist \u2014 Toddler Was the Funniest Person at the BBQ \ud83d\ude02\ud83d\udd25",
+      "tiktok_views": 37300,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/h72THWuxs_U/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-16T19:53:07Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7671354697927675150",
@@ -3161,7 +3169,7 @@
       "youtube_id": "xedI6HBMxic",
       "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
       "tiktok_views": 22500,
-      "youtube_views": 30,
+      "youtube_views": 33,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -4289,20 +4297,6 @@
       "uploaded_at": "2026-09-30T01:28:10Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7676519686074289422",
-      "youtube_id": "JYE1o-T-OD8",
-      "title": "Mom sneezed, baby copied her\u2026 and then the Husky decided to steal the \ud83d\ude02",
-      "tiktok_views": 29400,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/JYE1o-T-OD8/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-29T23:41:04Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1G_6yfUZfw_1qyfhxIu8cy4OipFcnT-0B",
@@ -4545,12 +4539,6 @@
     },
     "view_history": [
       {
-        "date": "2026-09-29",
-        "views": 0,
-        "uploads": 1,
-        "cumulative_views": 0
-      },
-      {
         "date": "2026-09-30",
         "views": 1,
         "uploads": 3,
@@ -4613,11 +4601,25 @@
       {
         "date": "2026-10-16",
         "views": 2,
-        "uploads": 2,
+        "uploads": 3,
         "cumulative_views": 20
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7697280809476033806",
+        "youtube_id": "h72THWuxs_U",
+        "title": "Plot Twist \u2014 Toddler Was the Funniest Person at the BBQ \ud83d\ude02\ud83d\udd25",
+        "tiktok_views": 37300,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/h72THWuxs_U/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-16T19:53:07Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5023,20 +5025,6 @@
         "thumbnail": "https://i.ytimg.com/vi/dwxSvTintxY/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-30T02:10:08Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7676519686074289422",
-        "youtube_id": "JYE1o-T-OD8",
-        "title": "Mom sneezed, baby copied her\u2026 and then the Husky decided to steal the \ud83d\ude02",
-        "tiktok_views": 29400,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/JYE1o-T-OD8/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-29T23:41:04Z"
       }
     ],
     "runs": [
@@ -5476,5 +5464,5 @@
       "created_at": "2026-10-10T08:01:58.559013+00:00"
     }
   ],
-  "last_updated": "2026-10-16T19:52:51.859558+00:00"
+  "last_updated": "2026-10-16T19:56:35.543473+00:00"
 }
