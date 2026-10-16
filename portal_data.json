@@ -36,97 +36,97 @@
       "date": "2026-09-29",
       "ch1_views": 2,
       "ch2_views": 77,
-      "ch3_views": 66,
+      "ch3_views": 9,
       "ch4_views": 636,
-      "total_views": 781
+      "total_views": 724
     },
     {
       "date": "2026-09-30",
       "ch1_views": 3,
       "ch2_views": 136,
-      "ch3_views": 165,
+      "ch3_views": 108,
       "ch4_views": 842,
-      "total_views": 1146
+      "total_views": 1089
     },
     {
       "date": "2026-10-01",
       "ch1_views": 7,
       "ch2_views": 144,
-      "ch3_views": 187,
+      "ch3_views": 130,
       "ch4_views": 1056,
-      "total_views": 1394
+      "total_views": 1337
     },
     {
       "date": "2026-10-08",
       "ch1_views": 12,
       "ch2_views": 159,
-      "ch3_views": 323,
+      "ch3_views": 266,
       "ch4_views": 1102,
-      "total_views": 1596
+      "total_views": 1539
     },
     {
       "date": "2026-10-09",
       "ch1_views": 14,
       "ch2_views": 177,
-      "ch3_views": 350,
+      "ch3_views": 293,
       "ch4_views": 1333,
-      "total_views": 1874
+      "total_views": 1817
     },
     {
       "date": "2026-10-10",
       "ch1_views": 16,
       "ch2_views": 196,
-      "ch3_views": 405,
+      "ch3_views": 348,
       "ch4_views": 1505,
-      "total_views": 2122
+      "total_views": 2065
     },
     {
       "date": "2026-10-11",
       "ch1_views": 16,
       "ch2_views": 208,
-      "ch3_views": 481,
+      "ch3_views": 424,
       "ch4_views": 1566,
-      "total_views": 2271
+      "total_views": 2214
     },
     {
       "date": "2026-10-12",
       "ch1_views": 19,
       "ch2_views": 208,
-      "ch3_views": 495,
+      "ch3_views": 438,
       "ch4_views": 0,
-      "total_views": 722
+      "total_views": 665
     },
     {
       "date": "2026-10-13",
       "ch1_views": 20,
       "ch2_views": 209,
-      "ch3_views": 502,
+      "ch3_views": 445,
       "ch4_views": 0,
-      "total_views": 731
+      "total_views": 674
     },
     {
       "date": "2026-10-14",
       "ch1_views": 20,
       "ch2_views": 253,
-      "ch3_views": 530,
+      "ch3_views": 473,
       "ch4_views": 0,
-      "total_views": 803
+      "total_views": 746
     },
     {
       "date": "2026-10-15",
       "ch1_views": 20,
       "ch2_views": 284,
-      "ch3_views": 554,
+      "ch3_views": 497,
       "ch4_views": 0,
-      "total_views": 858
+      "total_views": 801
     },
     {
       "date": "2026-10-16",
       "ch1_views": 20,
       "ch2_views": 284,
-      "ch3_views": 559,
+      "ch3_views": 502,
       "ch4_views": 0,
-      "total_views": 863
+      "total_views": 806
     }
   ],
   "channels": {
@@ -1669,78 +1669,92 @@
       "view_history": [
         {
           "date": "2026-09-29",
-          "views": 66,
-          "uploads": 3,
-          "cumulative_views": 66
+          "views": 9,
+          "uploads": 2,
+          "cumulative_views": 9
         },
         {
           "date": "2026-09-30",
           "views": 99,
           "uploads": 3,
-          "cumulative_views": 165
+          "cumulative_views": 108
         },
         {
           "date": "2026-10-01",
           "views": 22,
           "uploads": 1,
-          "cumulative_views": 187
+          "cumulative_views": 130
         },
         {
           "date": "2026-10-08",
           "views": 136,
           "uploads": 1,
-          "cumulative_views": 323
+          "cumulative_views": 266
         },
         {
           "date": "2026-10-09",
           "views": 27,
           "uploads": 3,
-          "cumulative_views": 350
+          "cumulative_views": 293
         },
         {
           "date": "2026-10-10",
           "views": 55,
           "uploads": 3,
-          "cumulative_views": 405
+          "cumulative_views": 348
         },
         {
           "date": "2026-10-11",
           "views": 76,
           "uploads": 3,
-          "cumulative_views": 481
+          "cumulative_views": 424
         },
         {
           "date": "2026-10-12",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 495
+          "cumulative_views": 438
         },
         {
           "date": "2026-10-13",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 502
+          "cumulative_views": 445
         },
         {
           "date": "2026-10-14",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 530
+          "cumulative_views": 473
         },
         {
           "date": "2026-10-15",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 554
+          "cumulative_views": 497
         },
         {
           "date": "2026-10-16",
           "views": 5,
-          "uploads": 1,
-          "cumulative_views": 559
+          "uploads": 2,
+          "cumulative_views": 502
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1xfQmT3RHSPN9jWwhQkQfLK5NAEJYvuja",
+          "youtube_id": "4gIvQXW6Exk",
+          "title": "Professional performing medical \u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/4gIvQXW6Exk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-16T05:50:21Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2146,20 +2160,6 @@
           "thumbnail": "https://i.ytimg.com/vi/aglMDQoisv8/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-29T17:27:32Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1JAfOpX10eTK-NUP1B2xCvH9lZal_s4Zt",
-          "youtube_id": "TJ_cOTW3394",
-          "title": "Satisfying Acrylic Nail Art & Cuticle Prep ASMR \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 57,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/TJ_cOTW3394/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-29T01:26:06Z"
         }
       ],
       "runs": [
@@ -2755,6 +2755,16 @@
       ],
       "runs": [
         {
+          "id": 67,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-10-16",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-16T05:59:08.637171+00:00"
+        },
+        {
           "id": 66,
           "channel_id": "channel_4",
           "slot": 2,
@@ -2943,21 +2953,25 @@
           "video_id": "f1ClkWECgqA",
           "error_message": null,
           "created_at": "2026-10-10T01:50:07.816296+00:00"
-        },
-        {
-          "id": 47,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-10-09",
-          "status": "success",
-          "video_id": "50qJCs438SM",
-          "error_message": null,
-          "created_at": "2026-10-09T21:50:41.730824+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1xfQmT3RHSPN9jWwhQkQfLK5NAEJYvuja",
+      "youtube_id": "4gIvQXW6Exk",
+      "title": "Professional performing medical \u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/4gIvQXW6Exk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-16T05:50:21Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4373,20 +4387,6 @@
       "uploaded_at": "2026-09-29T01:36:09Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1JAfOpX10eTK-NUP1B2xCvH9lZal_s4Zt",
-      "youtube_id": "TJ_cOTW3394",
-      "title": "Satisfying Acrylic Nail Art & Cuticle Prep ASMR \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 57,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/TJ_cOTW3394/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-29T01:26:06Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7644354241556925709",
@@ -5476,5 +5476,5 @@
       "created_at": "2026-10-09T21:34:42.263925+00:00"
     }
   ],
-  "last_updated": "2026-10-16T05:49:52.676947+00:00"
+  "last_updated": "2026-10-16T05:59:13.108260+00:00"
 }
