@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 259,
+    "total_uploads": 260,
     "total_views": 139387,
     "total_likes": 23,
     "total_subscribers": 86,
@@ -27,90 +27,90 @@
     {
       "date": "2026-09-27",
       "ch1_views": 0,
-      "ch2_views": 3,
+      "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 3
+      "total_views": 0
     },
     {
       "date": "2026-09-28",
       "ch1_views": 0,
-      "ch2_views": 38,
+      "ch2_views": 35,
       "ch3_views": 5,
       "ch4_views": 557,
-      "total_views": 600
+      "total_views": 597
     },
     {
       "date": "2026-09-29",
       "ch1_views": 3,
-      "ch2_views": 80,
+      "ch2_views": 77,
       "ch3_views": 71,
       "ch4_views": 636,
-      "total_views": 790
+      "total_views": 787
     },
     {
       "date": "2026-09-30",
       "ch1_views": 4,
-      "ch2_views": 139,
+      "ch2_views": 136,
       "ch3_views": 170,
       "ch4_views": 842,
-      "total_views": 1155
+      "total_views": 1152
     },
     {
       "date": "2026-10-01",
       "ch1_views": 8,
-      "ch2_views": 147,
+      "ch2_views": 144,
       "ch3_views": 192,
       "ch4_views": 1056,
-      "total_views": 1403
+      "total_views": 1400
     },
     {
       "date": "2026-10-08",
       "ch1_views": 13,
-      "ch2_views": 162,
+      "ch2_views": 159,
       "ch3_views": 328,
       "ch4_views": 1102,
-      "total_views": 1605
+      "total_views": 1602
     },
     {
       "date": "2026-10-09",
       "ch1_views": 15,
-      "ch2_views": 180,
+      "ch2_views": 177,
       "ch3_views": 355,
       "ch4_views": 1333,
-      "total_views": 1883
+      "total_views": 1880
     },
     {
       "date": "2026-10-10",
       "ch1_views": 17,
-      "ch2_views": 199,
+      "ch2_views": 196,
       "ch3_views": 410,
       "ch4_views": 1505,
-      "total_views": 2131
+      "total_views": 2128
     },
     {
       "date": "2026-10-11",
       "ch1_views": 17,
-      "ch2_views": 211,
+      "ch2_views": 208,
       "ch3_views": 486,
       "ch4_views": 1566,
-      "total_views": 2280
+      "total_views": 2277
     },
     {
       "date": "2026-10-12",
       "ch1_views": 20,
-      "ch2_views": 211,
+      "ch2_views": 208,
       "ch3_views": 500,
       "ch4_views": 0,
-      "total_views": 731
+      "total_views": 728
     },
     {
       "date": "2026-10-13",
       "ch1_views": 21,
-      "ch2_views": 212,
+      "ch2_views": 209,
       "ch3_views": 507,
       "ch4_views": 0,
-      "total_views": 740
+      "total_views": 737
     },
     {
       "date": "2026-10-14",
@@ -124,9 +124,17 @@
       "date": "2026-10-15",
       "ch1_views": 21,
       "ch2_views": 277,
-      "ch3_views": 555,
+      "ch3_views": 556,
       "ch4_views": 0,
-      "total_views": 853
+      "total_views": 854
+    },
+    {
+      "date": "2026-10-16",
+      "ch1_views": 0,
+      "ch2_views": 277,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 277
     }
   ],
   "channels": {
@@ -914,73 +922,73 @@
       "view_history": [
         {
           "date": "2026-09-27",
-          "views": 3,
-          "uploads": 2,
-          "cumulative_views": 3
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 0
         },
         {
           "date": "2026-09-28",
           "views": 35,
           "uploads": 3,
-          "cumulative_views": 38
+          "cumulative_views": 35
         },
         {
           "date": "2026-09-29",
           "views": 42,
           "uploads": 3,
-          "cumulative_views": 80
+          "cumulative_views": 77
         },
         {
           "date": "2026-09-30",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 139
+          "cumulative_views": 136
         },
         {
           "date": "2026-10-01",
           "views": 8,
           "uploads": 1,
-          "cumulative_views": 147
+          "cumulative_views": 144
         },
         {
           "date": "2026-10-08",
           "views": 15,
           "uploads": 1,
-          "cumulative_views": 162
+          "cumulative_views": 159
         },
         {
           "date": "2026-10-09",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 180
+          "cumulative_views": 177
         },
         {
           "date": "2026-10-10",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 199
+          "cumulative_views": 196
         },
         {
           "date": "2026-10-11",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 211
+          "cumulative_views": 208
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 211
+          "cumulative_views": 208
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 212
+          "cumulative_views": 209
         },
         {
           "date": "2026-10-14",
-          "views": 39,
+          "views": 42,
           "uploads": 3,
           "cumulative_views": 251
         },
@@ -989,9 +997,29 @@
           "views": 26,
           "uploads": 3,
           "cumulative_views": 277
+        },
+        {
+          "date": "2026-10-16",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 277
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7646489209330584846",
+          "youtube_id": "d0LEj00HEeE",
+          "title": "Crispy Cheesy Cabbage Pockets \u2728",
+          "tiktok_views": 21400,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/d0LEj00HEeE/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-16T00:21:14Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1055,7 +1083,7 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 33,
+          "youtube_views": 35,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -1069,7 +1097,7 @@
           "youtube_id": "EYGSlP92-M0",
           "title": "Cheesy Meatball and Mushroom Puff Pastry Pie \u2728",
           "tiktok_views": 225300,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/EYGSlP92-M0/hqdefault.jpg",
@@ -1397,20 +1425,6 @@
           "thumbnail": "https://i.ytimg.com/vi/nDVYHhw-ZQk/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-27T22:19:09Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7678413260739087630",
-          "youtube_id": "xdXwrdZyMgg",
-          "title": "cheesy Stuffed Meatballs with potatoes \u2728",
-          "tiktok_views": 12900,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/xdXwrdZyMgg/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-27T16:17:23Z"
         }
       ],
       "runs": [
@@ -1631,7 +1645,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 49,
+      "total_uploads": 50,
       "total_views": 136199,
       "total_likes": 5,
       "upcoming": {
@@ -1729,9 +1743,9 @@
         },
         {
           "date": "2026-10-15",
-          "views": 20,
+          "views": 21,
           "uploads": 3,
-          "cumulative_views": 555
+          "cumulative_views": 556
         }
       ],
       "videos": [
@@ -1742,7 +1756,7 @@
           "youtube_id": "GhRRy83EEsA",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/GhRRy83EEsA/hqdefault.jpg",
@@ -2158,6 +2172,16 @@
       ],
       "runs": [
         {
+          "id": 73,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-10-16",
+          "status": "success",
+          "video_id": "235EW_ZKdzg",
+          "error_message": null,
+          "created_at": "2026-10-16T00:26:10.081155+00:00"
+        },
+        {
           "id": 72,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2346,16 +2370,6 @@
           "video_id": "e_uGYLvRg2s",
           "error_message": null,
           "created_at": "2026-10-09T21:40:04.948696+00:00"
-        },
-        {
-          "id": 53,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-09",
-          "status": "success",
-          "video_id": "XwAXRGsO1tk",
-          "error_message": null,
-          "created_at": "2026-10-09T07:22:00.903007+00:00"
         }
       ]
     },
@@ -2953,13 +2967,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7646489209330584846",
+      "youtube_id": "d0LEj00HEeE",
+      "title": "Crispy Cheesy Cabbage Pockets \u2728",
+      "tiktok_views": 21400,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/d0LEj00HEeE/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-16T00:21:14Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1OeUq4KCG3_EIgGeTYY9aNYGd4lTbETV7",
       "youtube_id": "GhRRy83EEsA",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/GhRRy83EEsA/hqdefault.jpg",
@@ -3155,7 +3183,7 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 33,
+      "youtube_views": 35,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -3197,7 +3225,7 @@
       "youtube_id": "EYGSlP92-M0",
       "title": "Cheesy Meatball and Mushroom Puff Pastry Pie \u2728",
       "tiktok_views": 225300,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/EYGSlP92-M0/hqdefault.jpg",
@@ -4451,20 +4479,6 @@
       "uploaded_at": "2026-09-27T22:19:09Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7678413260739087630",
-      "youtube_id": "xdXwrdZyMgg",
-      "title": "cheesy Stuffed Meatballs with potatoes \u2728",
-      "tiktok_views": 12900,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/xdXwrdZyMgg/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-27T16:17:23Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1GWPR-DMPrHmjWJU1NiBv80eXruvb_cRM",
@@ -5231,7 +5245,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 259,
+    "total_uploads": 260,
     "total_views": 139387,
     "total_likes": 23,
     "videos_per_day": 12
@@ -5464,5 +5478,5 @@
       "created_at": "2026-10-09T08:24:58.002627+00:00"
     }
   ],
-  "last_updated": "2026-10-16T00:20:30.280820+00:00"
+  "last_updated": "2026-10-16T00:26:14.194572+00:00"
 }
