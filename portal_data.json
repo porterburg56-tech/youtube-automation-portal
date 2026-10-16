@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 261,
+    "total_uploads": 262,
     "total_views": 139387,
-    "total_likes": 23,
+    "total_likes": 24,
     "total_subscribers": 86,
     "channels_count": 4,
     "videos_per_day": 12
@@ -42,99 +42,99 @@
     },
     {
       "date": "2026-09-29",
-      "ch1_views": 3,
+      "ch1_views": 2,
       "ch2_views": 77,
       "ch3_views": 66,
       "ch4_views": 636,
-      "total_views": 782
+      "total_views": 781
     },
     {
       "date": "2026-09-30",
-      "ch1_views": 4,
+      "ch1_views": 3,
       "ch2_views": 136,
       "ch3_views": 165,
       "ch4_views": 842,
-      "total_views": 1147
+      "total_views": 1146
     },
     {
       "date": "2026-10-01",
-      "ch1_views": 8,
+      "ch1_views": 7,
       "ch2_views": 144,
       "ch3_views": 187,
       "ch4_views": 1056,
-      "total_views": 1395
+      "total_views": 1394
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 13,
+      "ch1_views": 12,
       "ch2_views": 159,
       "ch3_views": 323,
       "ch4_views": 1102,
-      "total_views": 1597
+      "total_views": 1596
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 15,
+      "ch1_views": 14,
       "ch2_views": 177,
       "ch3_views": 350,
       "ch4_views": 1333,
-      "total_views": 1875
+      "total_views": 1874
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 17,
+      "ch1_views": 16,
       "ch2_views": 196,
       "ch3_views": 405,
       "ch4_views": 1505,
-      "total_views": 2123
+      "total_views": 2122
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 17,
+      "ch1_views": 16,
       "ch2_views": 208,
       "ch3_views": 481,
       "ch4_views": 1566,
-      "total_views": 2272
+      "total_views": 2271
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 20,
+      "ch1_views": 19,
       "ch2_views": 208,
       "ch3_views": 495,
       "ch4_views": 0,
-      "total_views": 723
+      "total_views": 722
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 21,
+      "ch1_views": 20,
       "ch2_views": 209,
       "ch3_views": 502,
       "ch4_views": 0,
-      "total_views": 732
+      "total_views": 731
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 21,
-      "ch2_views": 251,
+      "ch1_views": 20,
+      "ch2_views": 252,
       "ch3_views": 530,
       "ch4_views": 0,
       "total_views": 802
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 21,
-      "ch2_views": 279,
-      "ch3_views": 552,
+      "ch1_views": 20,
+      "ch2_views": 282,
+      "ch3_views": 554,
       "ch4_views": 0,
-      "total_views": 852
+      "total_views": 856
     },
     {
       "date": "2026-10-16",
-      "ch1_views": 0,
-      "ch2_views": 279,
-      "ch3_views": 552,
+      "ch1_views": 20,
+      "ch2_views": 282,
+      "ch3_views": 559,
       "ch4_views": 0,
-      "total_views": 831
+      "total_views": 861
     }
   ],
   "channels": {
@@ -185,72 +185,92 @@
       "view_history": [
         {
           "date": "2026-09-29",
-          "views": 3,
-          "uploads": 3,
-          "cumulative_views": 3
+          "views": 2,
+          "uploads": 2,
+          "cumulative_views": 2
         },
         {
           "date": "2026-09-30",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 4
+          "cumulative_views": 3
         },
         {
           "date": "2026-10-01",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 8
+          "cumulative_views": 7
         },
         {
           "date": "2026-10-08",
           "views": 5,
           "uploads": 2,
-          "cumulative_views": 13
+          "cumulative_views": 12
         },
         {
           "date": "2026-10-09",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-10",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 16
         },
         {
           "date": "2026-10-11",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 16
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-14",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-15",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 20
+        },
+        {
+          "date": "2026-10-16",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 20
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7679098242201636109",
+          "youtube_id": "UJWTn8pr3Gw",
+          "title": "Matching Outfits Matching Walk \u2014 Internet Cannot Handle This \ud83e\udd79",
+          "tiktok_views": 15500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/UJWTn8pr3Gw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-16T01:36:35Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -656,20 +676,6 @@
           "thumbnail": "https://i.ytimg.com/vi/bDoYFeuPQfQ/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-29T17:17:16Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7678311710263889166",
-          "youtube_id": "wZd_mfd54VA",
-          "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
-          "tiktok_views": 29200,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/wZd_mfd54VA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-29T02:09:10Z"
         }
       ],
       "runs": [
@@ -890,7 +896,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 92,
+      "total_uploads": 93,
       "total_views": 994,
       "total_likes": 2,
       "upcoming": {
@@ -988,21 +994,21 @@
         },
         {
           "date": "2026-10-14",
-          "views": 42,
+          "views": 43,
           "uploads": 3,
-          "cumulative_views": 251
+          "cumulative_views": 252
         },
         {
           "date": "2026-10-15",
-          "views": 28,
+          "views": 30,
           "uploads": 3,
-          "cumulative_views": 279
+          "cumulative_views": 282
         },
         {
           "date": "2026-10-16",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 279
+          "cumulative_views": 282
         }
       ],
       "videos": [
@@ -1027,7 +1033,7 @@
           "youtube_id": "jzpE865wP6E",
           "title": "No-Bake Chocolate Banana Cream Roll \ud83c\udf6b\ud83c\udf4c",
           "tiktok_views": 18100,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jzpE865wP6E/hqdefault.jpg",
@@ -1083,7 +1089,7 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 35,
+          "youtube_views": 36,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -1429,6 +1435,16 @@
       ],
       "runs": [
         {
+          "id": 112,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-16",
+          "status": "success",
+          "video_id": "SQjPyQBOw9o",
+          "error_message": null,
+          "created_at": "2026-10-16T05:35:12.614303+00:00"
+        },
+        {
           "id": 111,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1617,16 +1633,6 @@
           "video_id": "FhY43IQbFIQ",
           "error_message": null,
           "created_at": "2026-10-11T06:59:01.655962+00:00"
-        },
-        {
-          "id": 92,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-11",
-          "status": "success",
-          "video_id": "H_YK6bpmvpI",
-          "error_message": null,
-          "created_at": "2026-10-11T01:01:38.295719+00:00"
         }
       ]
     },
@@ -1647,7 +1653,7 @@
       "subscribers": 76,
       "total_uploads": 50,
       "total_views": 136199,
-      "total_likes": 5,
+      "total_likes": 6,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1737,15 +1743,15 @@
         },
         {
           "date": "2026-10-15",
-          "views": 22,
+          "views": 24,
           "uploads": 3,
-          "cumulative_views": 552
+          "cumulative_views": 554
         },
         {
           "date": "2026-10-16",
-          "views": 0,
+          "views": 5,
           "uploads": 1,
-          "cumulative_views": 552
+          "cumulative_views": 559
         }
       ],
       "videos": [
@@ -1756,8 +1762,8 @@
           "youtube_id": "235EW_ZKdzg",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
-          "youtube_likes": 0,
+          "youtube_views": 5,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/235EW_ZKdzg/hqdefault.jpg",
           "status": "uploaded",
@@ -1784,7 +1790,7 @@
           "youtube_id": "lE-BNNNG298",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 11,
+          "youtube_views": 13,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lE-BNNNG298/hqdefault.jpg",
@@ -2967,14 +2973,28 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7679098242201636109",
+      "youtube_id": "UJWTn8pr3Gw",
+      "title": "Matching Outfits Matching Walk \u2014 Internet Cannot Handle This \ud83e\udd79",
+      "tiktok_views": 15500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/UJWTn8pr3Gw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-16T01:36:35Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1dy6xAVE6EdvRqTfEo7885xv76Iyi5X2Y",
       "youtube_id": "235EW_ZKdzg",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
+      "youtube_views": 5,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/235EW_ZKdzg/hqdefault.jpg",
       "status": "uploaded",
@@ -3029,7 +3049,7 @@
       "youtube_id": "jzpE865wP6E",
       "title": "No-Bake Chocolate Banana Cream Roll \ud83c\udf6b\ud83c\udf4c",
       "tiktok_views": 18100,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jzpE865wP6E/hqdefault.jpg",
@@ -3057,7 +3077,7 @@
       "youtube_id": "lE-BNNNG298",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 11,
+      "youtube_views": 13,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lE-BNNNG298/hqdefault.jpg",
@@ -3197,7 +3217,7 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 35,
+      "youtube_views": 36,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -4339,20 +4359,6 @@
       "uploaded_at": "2026-09-29T16:26:12Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7678311710263889166",
-      "youtube_id": "wZd_mfd54VA",
-      "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
-      "tiktok_views": 29200,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/wZd_mfd54VA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-29T02:09:10Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "195dpDeR1Mx7nQQrQZmOLQxLHRbDWM-g3",
@@ -4554,72 +4560,92 @@
     "view_history": [
       {
         "date": "2026-09-29",
-        "views": 3,
-        "uploads": 3,
-        "cumulative_views": 3
+        "views": 2,
+        "uploads": 2,
+        "cumulative_views": 2
       },
       {
         "date": "2026-09-30",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 4
+        "cumulative_views": 3
       },
       {
         "date": "2026-10-01",
         "views": 4,
         "uploads": 1,
-        "cumulative_views": 8
+        "cumulative_views": 7
       },
       {
         "date": "2026-10-08",
         "views": 5,
         "uploads": 2,
-        "cumulative_views": 13
+        "cumulative_views": 12
       },
       {
         "date": "2026-10-09",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 14
       },
       {
         "date": "2026-10-10",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 16
       },
       {
         "date": "2026-10-11",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 16
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 19
       },
       {
         "date": "2026-10-13",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 20
       },
       {
         "date": "2026-10-14",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 20
       },
       {
         "date": "2026-10-15",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 20
+      },
+      {
+        "date": "2026-10-16",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 20
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7679098242201636109",
+        "youtube_id": "UJWTn8pr3Gw",
+        "title": "Matching Outfits Matching Walk \u2014 Internet Cannot Handle This \ud83e\udd79",
+        "tiktok_views": 15500,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/UJWTn8pr3Gw/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-16T01:36:35Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5025,20 +5051,6 @@
         "thumbnail": "https://i.ytimg.com/vi/bDoYFeuPQfQ/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-29T17:17:16Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7678311710263889166",
-        "youtube_id": "wZd_mfd54VA",
-        "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
-        "tiktok_views": 29200,
-        "youtube_views": 1,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/wZd_mfd54VA/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-29T02:09:10Z"
       }
     ],
     "runs": [
@@ -5245,9 +5257,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 261,
+    "total_uploads": 262,
     "total_views": 139387,
-    "total_likes": 23,
+    "total_likes": 24,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5478,5 +5490,5 @@
       "created_at": "2026-10-09T21:34:42.263925+00:00"
     }
   ],
-  "last_updated": "2026-10-16T01:36:14.944769+00:00"
+  "last_updated": "2026-10-16T05:35:17.830627+00:00"
 }
