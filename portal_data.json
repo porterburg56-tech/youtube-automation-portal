@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 260,
+    "total_uploads": 261,
     "total_views": 139387,
     "total_likes": 23,
     "total_subscribers": 86,
@@ -123,18 +123,18 @@
     {
       "date": "2026-10-15",
       "ch1_views": 21,
-      "ch2_views": 277,
-      "ch3_views": 550,
+      "ch2_views": 279,
+      "ch3_views": 552,
       "ch4_views": 0,
-      "total_views": 848
+      "total_views": 852
     },
     {
       "date": "2026-10-16",
       "ch1_views": 0,
-      "ch2_views": 277,
-      "ch3_views": 550,
+      "ch2_views": 279,
+      "ch3_views": 552,
       "ch4_views": 0,
-      "total_views": 827
+      "total_views": 831
     }
   ],
   "channels": {
@@ -153,7 +153,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 98,
+      "total_uploads": 99,
       "total_views": 628,
       "total_likes": 1,
       "upcoming": {
@@ -674,6 +674,16 @@
       ],
       "runs": [
         {
+          "id": 108,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-10-16",
+          "status": "success",
+          "video_id": "UJWTn8pr3Gw",
+          "error_message": null,
+          "created_at": "2026-10-16T01:36:10.384923+00:00"
+        },
+        {
           "id": 107,
           "channel_id": "channel_1",
           "slot": 1,
@@ -862,16 +872,6 @@
           "video_id": "yz5X_93xju4",
           "error_message": null,
           "created_at": "2026-10-09T21:34:42.263925+00:00"
-        },
-        {
-          "id": 88,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-10-09",
-          "status": "success",
-          "video_id": "O_JpXXptDKo",
-          "error_message": null,
-          "created_at": "2026-10-09T08:24:58.002627+00:00"
         }
       ]
     },
@@ -994,15 +994,15 @@
         },
         {
           "date": "2026-10-15",
-          "views": 26,
+          "views": 28,
           "uploads": 3,
-          "cumulative_views": 277
+          "cumulative_views": 279
         },
         {
           "date": "2026-10-16",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 277
+          "cumulative_views": 279
         }
       ],
       "videos": [
@@ -1041,7 +1041,7 @@
           "youtube_id": "jLH_dVJ-0pI",
           "title": "No-Bake Chocolate Banana Roll That Melts in Your Mouth \ud83c\udf4c\ud83c\udf6b",
           "tiktok_views": 22300,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLH_dVJ-0pI/hqdefault.jpg",
@@ -1055,7 +1055,7 @@
           "youtube_id": "xedI6HBMxic",
           "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
           "tiktok_views": 22500,
-          "youtube_views": 19,
+          "youtube_views": 20,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -1737,15 +1737,15 @@
         },
         {
           "date": "2026-10-15",
-          "views": 20,
+          "views": 22,
           "uploads": 3,
-          "cumulative_views": 550
+          "cumulative_views": 552
         },
         {
           "date": "2026-10-16",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 550
+          "cumulative_views": 552
         }
       ],
       "videos": [
@@ -1770,7 +1770,7 @@
           "youtube_id": "GhRRy83EEsA",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/GhRRy83EEsA/hqdefault.jpg",
@@ -1798,7 +1798,7 @@
           "youtube_id": "av6qkqzBP40",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/av6qkqzBP40/hqdefault.jpg",
@@ -3001,7 +3001,7 @@
       "youtube_id": "GhRRy83EEsA",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/GhRRy83EEsA/hqdefault.jpg",
@@ -3071,7 +3071,7 @@
       "youtube_id": "jLH_dVJ-0pI",
       "title": "No-Bake Chocolate Banana Roll That Melts in Your Mouth \ud83c\udf4c\ud83c\udf6b",
       "tiktok_views": 22300,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLH_dVJ-0pI/hqdefault.jpg",
@@ -3099,7 +3099,7 @@
       "youtube_id": "xedI6HBMxic",
       "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
       "tiktok_views": 22500,
-      "youtube_views": 19,
+      "youtube_views": 20,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -3113,7 +3113,7 @@
       "youtube_id": "av6qkqzBP40",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/av6qkqzBP40/hqdefault.jpg",
@@ -4522,7 +4522,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 98,
+    "total_uploads": 99,
     "total_views": 628,
     "total_likes": 1,
     "upcoming": {
@@ -5043,6 +5043,16 @@
     ],
     "runs": [
       {
+        "id": 108,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-10-16",
+        "status": "success",
+        "video_id": "UJWTn8pr3Gw",
+        "error_message": null,
+        "created_at": "2026-10-16T01:36:10.384923+00:00"
+      },
+      {
         "id": 107,
         "channel_id": "channel_1",
         "slot": 1,
@@ -5231,21 +5241,11 @@
         "video_id": "yz5X_93xju4",
         "error_message": null,
         "created_at": "2026-10-09T21:34:42.263925+00:00"
-      },
-      {
-        "id": 88,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-10-09",
-        "status": "success",
-        "video_id": "O_JpXXptDKo",
-        "error_message": null,
-        "created_at": "2026-10-09T08:24:58.002627+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 260,
+    "total_uploads": 261,
     "total_views": 139387,
     "total_likes": 23,
     "videos_per_day": 12
@@ -5277,6 +5277,16 @@
     }
   },
   "runs": [
+    {
+      "id": 108,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-10-16",
+      "status": "success",
+      "video_id": "UJWTn8pr3Gw",
+      "error_message": null,
+      "created_at": "2026-10-16T01:36:10.384923+00:00"
+    },
     {
       "id": 107,
       "channel_id": "channel_1",
@@ -5466,17 +5476,7 @@
       "video_id": "yz5X_93xju4",
       "error_message": null,
       "created_at": "2026-10-09T21:34:42.263925+00:00"
-    },
-    {
-      "id": 88,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-10-09",
-      "status": "success",
-      "video_id": "O_JpXXptDKo",
-      "error_message": null,
-      "created_at": "2026-10-09T08:24:58.002627+00:00"
     }
   ],
-  "last_updated": "2026-10-16T00:31:24.684812+00:00"
+  "last_updated": "2026-10-16T01:36:14.944769+00:00"
 }
