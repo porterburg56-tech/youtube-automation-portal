@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 264,
+    "total_uploads": 265,
     "total_views": 139387,
     "total_likes": 24,
     "total_subscribers": 86,
@@ -34,99 +34,99 @@
     },
     {
       "date": "2026-09-29",
-      "ch1_views": 2,
+      "ch1_views": 0,
       "ch2_views": 77,
       "ch3_views": 9,
       "ch4_views": 636,
-      "total_views": 724
+      "total_views": 722
     },
     {
       "date": "2026-09-30",
-      "ch1_views": 3,
-      "ch2_views": 136,
+      "ch1_views": 1,
+      "ch2_views": 137,
       "ch3_views": 108,
       "ch4_views": 842,
-      "total_views": 1089
+      "total_views": 1088
     },
     {
       "date": "2026-10-01",
-      "ch1_views": 7,
-      "ch2_views": 144,
+      "ch1_views": 5,
+      "ch2_views": 145,
       "ch3_views": 130,
       "ch4_views": 1056,
-      "total_views": 1337
+      "total_views": 1336
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 12,
-      "ch2_views": 159,
+      "ch1_views": 10,
+      "ch2_views": 162,
       "ch3_views": 266,
       "ch4_views": 1102,
-      "total_views": 1539
+      "total_views": 1540
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 14,
-      "ch2_views": 177,
+      "ch1_views": 12,
+      "ch2_views": 181,
       "ch3_views": 293,
       "ch4_views": 1333,
-      "total_views": 1817
+      "total_views": 1819
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 16,
-      "ch2_views": 196,
+      "ch1_views": 14,
+      "ch2_views": 200,
       "ch3_views": 348,
       "ch4_views": 1505,
-      "total_views": 2065
+      "total_views": 2067
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 16,
-      "ch2_views": 208,
+      "ch1_views": 14,
+      "ch2_views": 212,
       "ch3_views": 424,
       "ch4_views": 1566,
-      "total_views": 2214
+      "total_views": 2216
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 19,
-      "ch2_views": 208,
+      "ch1_views": 17,
+      "ch2_views": 212,
       "ch3_views": 438,
       "ch4_views": 0,
-      "total_views": 665
+      "total_views": 667
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 20,
-      "ch2_views": 209,
+      "ch1_views": 18,
+      "ch2_views": 213,
       "ch3_views": 445,
       "ch4_views": 0,
-      "total_views": 674
+      "total_views": 676
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 20,
-      "ch2_views": 253,
+      "ch1_views": 18,
+      "ch2_views": 260,
       "ch3_views": 473,
       "ch4_views": 0,
-      "total_views": 746
+      "total_views": 751
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 20,
-      "ch2_views": 284,
-      "ch3_views": 497,
+      "ch1_views": 18,
+      "ch2_views": 304,
+      "ch3_views": 501,
       "ch4_views": 0,
-      "total_views": 801
+      "total_views": 823
     },
     {
       "date": "2026-10-16",
       "ch1_views": 20,
-      "ch2_views": 284,
-      "ch3_views": 502,
+      "ch2_views": 306,
+      "ch3_views": 517,
       "ch4_views": 0,
-      "total_views": 806
+      "total_views": 843
     }
   ],
   "channels": {
@@ -177,78 +177,92 @@
       "view_history": [
         {
           "date": "2026-09-29",
-          "views": 2,
-          "uploads": 2,
-          "cumulative_views": 2
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 0
         },
         {
           "date": "2026-09-30",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 3
+          "cumulative_views": 1
         },
         {
           "date": "2026-10-01",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 7
+          "cumulative_views": 5
         },
         {
           "date": "2026-10-08",
           "views": 5,
           "uploads": 2,
-          "cumulative_views": 12
+          "cumulative_views": 10
         },
         {
           "date": "2026-10-09",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 14
+          "cumulative_views": 12
         },
         {
           "date": "2026-10-10",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 16
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-11",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 16
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-14",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-15",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-16",
-          "views": 0,
-          "uploads": 1,
+          "views": 2,
+          "uploads": 2,
           "cumulative_views": 20
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7673189742011305230",
+          "youtube_id": "NZLyGxI0NsI",
+          "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
+          "tiktok_views": 14900,
+          "youtube_views": 2,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/NZLyGxI0NsI/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-16T06:42:08Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -654,20 +668,6 @@
           "thumbnail": "https://i.ytimg.com/vi/JYE1o-T-OD8/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-29T23:41:04Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7687585636626320654",
-          "youtube_id": "bDoYFeuPQfQ",
-          "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f",
-          "tiktok_views": 14000,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/bDoYFeuPQfQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-29T17:17:16Z"
         }
       ],
       "runs": [
@@ -888,7 +888,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 93,
+      "total_uploads": 94,
       "total_views": 994,
       "total_likes": 2,
       "upcoming": {
@@ -932,69 +932,69 @@
         },
         {
           "date": "2026-09-30",
-          "views": 59,
+          "views": 60,
           "uploads": 3,
-          "cumulative_views": 136
+          "cumulative_views": 137
         },
         {
           "date": "2026-10-01",
           "views": 8,
           "uploads": 1,
-          "cumulative_views": 144
+          "cumulative_views": 145
         },
         {
           "date": "2026-10-08",
-          "views": 15,
+          "views": 17,
           "uploads": 1,
-          "cumulative_views": 159
+          "cumulative_views": 162
         },
         {
           "date": "2026-10-09",
-          "views": 18,
+          "views": 19,
           "uploads": 3,
-          "cumulative_views": 177
+          "cumulative_views": 181
         },
         {
           "date": "2026-10-10",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 196
+          "cumulative_views": 200
         },
         {
           "date": "2026-10-11",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 208
+          "cumulative_views": 212
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 208
+          "cumulative_views": 212
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 209
+          "cumulative_views": 213
         },
         {
           "date": "2026-10-14",
-          "views": 44,
+          "views": 47,
           "uploads": 3,
-          "cumulative_views": 253
+          "cumulative_views": 260
         },
         {
           "date": "2026-10-15",
-          "views": 31,
+          "views": 44,
           "uploads": 3,
-          "cumulative_views": 284
+          "cumulative_views": 304
         },
         {
           "date": "2026-10-16",
-          "views": 0,
+          "views": 2,
           "uploads": 2,
-          "cumulative_views": 284
+          "cumulative_views": 306
         }
       ],
       "videos": [
@@ -1005,7 +1005,7 @@
           "youtube_id": "SQjPyQBOw9o",
           "title": "Taste & Tales \u2728",
           "tiktok_views": 20400,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SQjPyQBOw9o/hqdefault.jpg",
@@ -1033,7 +1033,7 @@
           "youtube_id": "jzpE865wP6E",
           "title": "No-Bake Chocolate Banana Cream Roll \ud83c\udf6b\ud83c\udf4c",
           "tiktok_views": 18100,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jzpE865wP6E/hqdefault.jpg",
@@ -1047,7 +1047,7 @@
           "youtube_id": "jLH_dVJ-0pI",
           "title": "No-Bake Chocolate Banana Roll That Melts in Your Mouth \ud83c\udf4c\ud83c\udf6b",
           "tiktok_views": 22300,
-          "youtube_views": 8,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLH_dVJ-0pI/hqdefault.jpg",
@@ -1061,7 +1061,7 @@
           "youtube_id": "xedI6HBMxic",
           "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
           "tiktok_views": 22500,
-          "youtube_views": 21,
+          "youtube_views": 30,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -1089,7 +1089,7 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 37,
+          "youtube_views": 39,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -1103,7 +1103,7 @@
           "youtube_id": "EYGSlP92-M0",
           "title": "Cheesy Meatball and Mushroom Puff Pastry Pie \u2728",
           "tiktok_views": 225300,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/EYGSlP92-M0/hqdefault.jpg",
@@ -1229,7 +1229,7 @@
           "youtube_id": "ca3bS1RBvvc",
           "title": "Creamy Garlic Butter Salmon with Mushroom Sauce \ud83c\udf4b",
           "tiktok_views": 13200,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ca3bS1RBvvc/hqdefault.jpg",
@@ -1271,7 +1271,7 @@
           "youtube_id": "MD9VcCPCjd0",
           "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
           "tiktok_views": 234700,
-          "youtube_views": 15,
+          "youtube_views": 17,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -1299,7 +1299,7 @@
           "youtube_id": "-GRed2gXLDQ",
           "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
           "tiktok_views": 39800,
-          "youtube_views": 17,
+          "youtube_views": 18,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-GRed2gXLDQ/hqdefault.jpg",
@@ -1420,6 +1420,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 113,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-10-16",
+          "status": "success",
+          "video_id": "uj8JC01qM2A",
+          "error_message": null,
+          "created_at": "2026-10-16T19:22:08.538482+00:00"
+        },
         {
           "id": 112,
           "channel_id": "channel_2",
@@ -1609,16 +1619,6 @@
           "video_id": "38jAmFk-xzU",
           "error_message": null,
           "created_at": "2026-10-11T20:05:03.055640+00:00"
-        },
-        {
-          "id": 93,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-11",
-          "status": "success",
-          "video_id": "FhY43IQbFIQ",
-          "error_message": null,
-          "created_at": "2026-10-11T06:59:01.655962+00:00"
         }
       ]
     },
@@ -1729,15 +1729,15 @@
         },
         {
           "date": "2026-10-15",
-          "views": 24,
+          "views": 28,
           "uploads": 3,
-          "cumulative_views": 497
+          "cumulative_views": 501
         },
         {
           "date": "2026-10-16",
-          "views": 5,
+          "views": 16,
           "uploads": 2,
-          "cumulative_views": 502
+          "cumulative_views": 517
         }
       ],
       "videos": [
@@ -1748,7 +1748,7 @@
           "youtube_id": "4gIvQXW6Exk",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/4gIvQXW6Exk/hqdefault.jpg",
@@ -1762,7 +1762,7 @@
           "youtube_id": "235EW_ZKdzg",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 10,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/235EW_ZKdzg/hqdefault.jpg",
@@ -1776,7 +1776,7 @@
           "youtube_id": "GhRRy83EEsA",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/GhRRy83EEsA/hqdefault.jpg",
@@ -1790,7 +1790,7 @@
           "youtube_id": "lE-BNNNG298",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 13,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lE-BNNNG298/hqdefault.jpg",
@@ -2959,13 +2959,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7673189742011305230",
+      "youtube_id": "NZLyGxI0NsI",
+      "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
+      "tiktok_views": 14900,
+      "youtube_views": 2,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/NZLyGxI0NsI/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-16T06:42:08Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1xfQmT3RHSPN9jWwhQkQfLK5NAEJYvuja",
       "youtube_id": "4gIvQXW6Exk",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/4gIvQXW6Exk/hqdefault.jpg",
@@ -2979,7 +2993,7 @@
       "youtube_id": "SQjPyQBOw9o",
       "title": "Taste & Tales \u2728",
       "tiktok_views": 20400,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SQjPyQBOw9o/hqdefault.jpg",
@@ -3007,7 +3021,7 @@
       "youtube_id": "235EW_ZKdzg",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 10,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/235EW_ZKdzg/hqdefault.jpg",
@@ -3035,7 +3049,7 @@
       "youtube_id": "GhRRy83EEsA",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/GhRRy83EEsA/hqdefault.jpg",
@@ -3063,7 +3077,7 @@
       "youtube_id": "jzpE865wP6E",
       "title": "No-Bake Chocolate Banana Cream Roll \ud83c\udf6b\ud83c\udf4c",
       "tiktok_views": 18100,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jzpE865wP6E/hqdefault.jpg",
@@ -3091,7 +3105,7 @@
       "youtube_id": "lE-BNNNG298",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 13,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lE-BNNNG298/hqdefault.jpg",
@@ -3105,7 +3119,7 @@
       "youtube_id": "jLH_dVJ-0pI",
       "title": "No-Bake Chocolate Banana Roll That Melts in Your Mouth \ud83c\udf4c\ud83c\udf6b",
       "tiktok_views": 22300,
-      "youtube_views": 8,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLH_dVJ-0pI/hqdefault.jpg",
@@ -3133,7 +3147,7 @@
       "youtube_id": "xedI6HBMxic",
       "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
       "tiktok_views": 22500,
-      "youtube_views": 21,
+      "youtube_views": 30,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -3231,7 +3245,7 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 37,
+      "youtube_views": 39,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -3273,7 +3287,7 @@
       "youtube_id": "EYGSlP92-M0",
       "title": "Cheesy Meatball and Mushroom Puff Pastry Pie \u2728",
       "tiktok_views": 225300,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/EYGSlP92-M0/hqdefault.jpg",
@@ -3833,7 +3847,7 @@
       "youtube_id": "ca3bS1RBvvc",
       "title": "Creamy Garlic Butter Salmon with Mushroom Sauce \ud83c\udf4b",
       "tiktok_views": 13200,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ca3bS1RBvvc/hqdefault.jpg",
@@ -3959,7 +3973,7 @@
       "youtube_id": "MD9VcCPCjd0",
       "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
       "tiktok_views": 234700,
-      "youtube_views": 15,
+      "youtube_views": 17,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -4127,7 +4141,7 @@
       "youtube_id": "-GRed2gXLDQ",
       "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
       "tiktok_views": 39800,
-      "youtube_views": 17,
+      "youtube_views": 18,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-GRed2gXLDQ/hqdefault.jpg",
@@ -4345,20 +4359,6 @@
       "uploaded_at": "2026-09-29T17:27:32Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7687585636626320654",
-      "youtube_id": "bDoYFeuPQfQ",
-      "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f",
-      "tiktok_views": 14000,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/bDoYFeuPQfQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-29T17:17:16Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7690660984876190989",
@@ -4546,78 +4546,92 @@
     "view_history": [
       {
         "date": "2026-09-29",
-        "views": 2,
-        "uploads": 2,
-        "cumulative_views": 2
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 0
       },
       {
         "date": "2026-09-30",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 3
+        "cumulative_views": 1
       },
       {
         "date": "2026-10-01",
         "views": 4,
         "uploads": 1,
-        "cumulative_views": 7
+        "cumulative_views": 5
       },
       {
         "date": "2026-10-08",
         "views": 5,
         "uploads": 2,
-        "cumulative_views": 12
+        "cumulative_views": 10
       },
       {
         "date": "2026-10-09",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 14
+        "cumulative_views": 12
       },
       {
         "date": "2026-10-10",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 16
+        "cumulative_views": 14
       },
       {
         "date": "2026-10-11",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 16
+        "cumulative_views": 14
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 19
+        "cumulative_views": 17
       },
       {
         "date": "2026-10-13",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 18
       },
       {
         "date": "2026-10-14",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 18
       },
       {
         "date": "2026-10-15",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 18
       },
       {
         "date": "2026-10-16",
-        "views": 0,
-        "uploads": 1,
+        "views": 2,
+        "uploads": 2,
         "cumulative_views": 20
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7673189742011305230",
+        "youtube_id": "NZLyGxI0NsI",
+        "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
+        "tiktok_views": 14900,
+        "youtube_views": 2,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/NZLyGxI0NsI/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-16T06:42:08Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5023,20 +5037,6 @@
         "thumbnail": "https://i.ytimg.com/vi/JYE1o-T-OD8/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-29T23:41:04Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7687585636626320654",
-        "youtube_id": "bDoYFeuPQfQ",
-        "title": "Grandpa Has No Idea He Just Got the Best Compliment of His Life \ud83e\udd79\u2764\ufe0f",
-        "tiktok_views": 14000,
-        "youtube_views": 2,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/bDoYFeuPQfQ/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-29T17:17:16Z"
       }
     ],
     "runs": [
@@ -5243,7 +5243,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 264,
+    "total_uploads": 265,
     "total_views": 139387,
     "total_likes": 24,
     "videos_per_day": 12
@@ -5476,5 +5476,5 @@
       "created_at": "2026-10-10T02:36:18.012152+00:00"
     }
   ],
-  "last_updated": "2026-10-16T06:41:53.178923+00:00"
+  "last_updated": "2026-10-16T19:22:13.740217+00:00"
 }
