@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 271,
-    "total_views": 139521,
+    "total_uploads": 272,
+    "total_views": 139535,
     "total_likes": 24,
     "total_subscribers": 86,
     "channels_count": 4,
@@ -43,98 +43,98 @@
     {
       "date": "2026-09-30",
       "ch1_views": 1,
-      "ch2_views": 125,
+      "ch2_views": 130,
       "ch3_views": 93,
       "ch4_views": 842,
-      "total_views": 1061
+      "total_views": 1066
     },
     {
       "date": "2026-10-01",
       "ch1_views": 5,
-      "ch2_views": 134,
+      "ch2_views": 139,
       "ch3_views": 115,
       "ch4_views": 1056,
-      "total_views": 1310
+      "total_views": 1315
     },
     {
       "date": "2026-10-08",
       "ch1_views": 10,
-      "ch2_views": 154,
+      "ch2_views": 159,
       "ch3_views": 251,
       "ch4_views": 1102,
-      "total_views": 1517
+      "total_views": 1522
     },
     {
       "date": "2026-10-09",
       "ch1_views": 12,
-      "ch2_views": 174,
+      "ch2_views": 180,
       "ch3_views": 278,
       "ch4_views": 1333,
-      "total_views": 1797
+      "total_views": 1803
     },
     {
       "date": "2026-10-10",
       "ch1_views": 14,
-      "ch2_views": 193,
+      "ch2_views": 200,
       "ch3_views": 333,
       "ch4_views": 1505,
-      "total_views": 2045
+      "total_views": 2052
     },
     {
       "date": "2026-10-11",
       "ch1_views": 15,
-      "ch2_views": 205,
+      "ch2_views": 213,
       "ch3_views": 409,
       "ch4_views": 1566,
-      "total_views": 2195
+      "total_views": 2203
     },
     {
       "date": "2026-10-12",
       "ch1_views": 18,
-      "ch2_views": 205,
+      "ch2_views": 213,
       "ch3_views": 423,
       "ch4_views": 0,
-      "total_views": 646
+      "total_views": 654
     },
     {
       "date": "2026-10-13",
       "ch1_views": 19,
-      "ch2_views": 206,
+      "ch2_views": 214,
       "ch3_views": 430,
       "ch4_views": 0,
-      "total_views": 655
+      "total_views": 663
     },
     {
       "date": "2026-10-14",
       "ch1_views": 19,
-      "ch2_views": 255,
+      "ch2_views": 265,
       "ch3_views": 459,
       "ch4_views": 0,
-      "total_views": 733
+      "total_views": 743
     },
     {
       "date": "2026-10-15",
       "ch1_views": 19,
-      "ch2_views": 305,
-      "ch3_views": 491,
+      "ch2_views": 324,
+      "ch3_views": 492,
       "ch4_views": 0,
-      "total_views": 815
+      "total_views": 835
     },
     {
       "date": "2026-10-16",
       "ch1_views": 21,
-      "ch2_views": 311,
-      "ch3_views": 511,
+      "ch2_views": 332,
+      "ch3_views": 513,
       "ch4_views": 0,
-      "total_views": 843
+      "total_views": 866
     },
     {
       "date": "2026-10-17",
       "ch1_views": 21,
       "ch2_views": 0,
-      "ch3_views": 511,
+      "ch3_views": 514,
       "ch4_views": 0,
-      "total_views": 532
+      "total_views": 535
     }
   ],
   "channels": {
@@ -186,7 +186,7 @@
         {
           "date": "2026-09-30",
           "views": 1,
-          "uploads": 2,
+          "uploads": 1,
           "cumulative_views": 1
         },
         {
@@ -252,11 +252,25 @@
         {
           "date": "2026-10-17",
           "views": 0,
-          "uploads": 1,
+          "uploads": 2,
           "cumulative_views": 21
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7671311367365872909",
+          "youtube_id": "kLfqR9So2Ew",
+          "title": "Dad After Work\u2026 According to My Toddler \ud83d\ude2d",
+          "tiktok_views": 14400,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/kLfqR9So2Ew/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-17T06:31:02Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -662,20 +676,6 @@
           "thumbnail": "https://i.ytimg.com/vi/iS0mAS3ycZU/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-30T23:42:44Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7691301397366639886",
-          "youtube_id": "DY7qd54P8xY",
-          "title": "He watched for exactly two seconds and decided he had it figured out \ud83d\ude02",
-          "tiktok_views": 4759,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/DY7qd54P8xY/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-30T17:25:24Z"
         }
       ],
       "runs": [
@@ -896,7 +896,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 94,
+      "total_uploads": 95,
       "total_views": 1068,
       "total_likes": 2,
       "upcoming": {
@@ -940,69 +940,69 @@
         },
         {
           "date": "2026-09-30",
-          "views": 60,
+          "views": 65,
           "uploads": 3,
-          "cumulative_views": 125
+          "cumulative_views": 130
         },
         {
           "date": "2026-10-01",
           "views": 9,
           "uploads": 1,
-          "cumulative_views": 134
+          "cumulative_views": 139
         },
         {
           "date": "2026-10-08",
           "views": 20,
           "uploads": 1,
-          "cumulative_views": 154
+          "cumulative_views": 159
         },
         {
           "date": "2026-10-09",
-          "views": 20,
+          "views": 21,
           "uploads": 3,
-          "cumulative_views": 174
+          "cumulative_views": 180
         },
         {
           "date": "2026-10-10",
-          "views": 19,
+          "views": 20,
           "uploads": 3,
-          "cumulative_views": 193
+          "cumulative_views": 200
         },
         {
           "date": "2026-10-11",
-          "views": 12,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 205
+          "cumulative_views": 213
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 205
+          "cumulative_views": 213
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 206
+          "cumulative_views": 214
         },
         {
           "date": "2026-10-14",
-          "views": 49,
+          "views": 51,
           "uploads": 3,
-          "cumulative_views": 255
+          "cumulative_views": 265
         },
         {
           "date": "2026-10-15",
-          "views": 50,
+          "views": 59,
           "uploads": 3,
-          "cumulative_views": 305
+          "cumulative_views": 324
         },
         {
           "date": "2026-10-16",
-          "views": 6,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 311
+          "cumulative_views": 332
         }
       ],
       "videos": [
@@ -1013,7 +1013,7 @@
           "youtube_id": "uj8JC01qM2A",
           "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
           "tiktok_views": 20400,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/uj8JC01qM2A/hqdefault.jpg",
@@ -1027,7 +1027,7 @@
           "youtube_id": "SQjPyQBOw9o",
           "title": "Taste & Tales \u2728",
           "tiktok_views": 20400,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SQjPyQBOw9o/hqdefault.jpg",
@@ -1069,7 +1069,7 @@
           "youtube_id": "jLH_dVJ-0pI",
           "title": "No-Bake Chocolate Banana Roll That Melts in Your Mouth \ud83c\udf4c\ud83c\udf6b",
           "tiktok_views": 22300,
-          "youtube_views": 11,
+          "youtube_views": 13,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jLH_dVJ-0pI/hqdefault.jpg",
@@ -1083,7 +1083,7 @@
           "youtube_id": "xedI6HBMxic",
           "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
           "tiktok_views": 22500,
-          "youtube_views": 35,
+          "youtube_views": 42,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -1097,7 +1097,7 @@
           "youtube_id": "l-VJ0AFsYUQ",
           "title": "creamy banana chocolate dessert You'll crave \ud83d\ude0b",
           "tiktok_views": 13300,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/l-VJ0AFsYUQ/hqdefault.jpg",
@@ -1195,7 +1195,7 @@
           "youtube_id": "H_YK6bpmvpI",
           "title": "cheesy Baked chicken and zucchini casserole \u2728",
           "tiktok_views": 37800,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/H_YK6bpmvpI/hqdefault.jpg",
@@ -1223,7 +1223,7 @@
           "youtube_id": "kxIacsu0CAw",
           "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
           "tiktok_views": 118500,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -1251,7 +1251,7 @@
           "youtube_id": "ca3bS1RBvvc",
           "title": "Creamy Garlic Butter Salmon with Mushroom Sauce \ud83c\udf4b",
           "tiktok_views": 13200,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ca3bS1RBvvc/hqdefault.jpg",
@@ -1349,7 +1349,7 @@
           "youtube_id": "uLU-AnYUUgo",
           "title": "Secret to Perfectly Juicy Chicken Meatballs \u2728",
           "tiktok_views": 40900,
-          "youtube_views": 23,
+          "youtube_views": 28,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/uLU-AnYUUgo/hqdefault.jpg",
@@ -1428,6 +1428,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 118,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-10-17",
+          "status": "success",
+          "video_id": "U127bm3H1rs",
+          "error_message": null,
+          "created_at": "2026-10-17T18:13:48.454911+00:00"
+        },
         {
           "id": 117,
           "channel_id": "channel_2",
@@ -1617,16 +1627,6 @@
           "video_id": null,
           "error_message": "Dubbing failed or produced no output for 7695835620928703758. Aborting upload as requested.",
           "created_at": "2026-10-12T22:46:20.546624+00:00"
-        },
-        {
-          "id": 98,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-12",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "Dubbing failed or produced no output for 7662452813775064334. Aborting upload as requested.",
-          "created_at": "2026-10-12T07:13:58.893984+00:00"
         }
       ]
     },
@@ -1646,7 +1646,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 54,
-      "total_views": 136258,
+      "total_views": 136272,
       "total_likes": 6,
       "upcoming": {
         "slot1": {
@@ -1731,21 +1731,21 @@
         },
         {
           "date": "2026-10-15",
-          "views": 32,
+          "views": 33,
           "uploads": 3,
-          "cumulative_views": 491
+          "cumulative_views": 492
         },
         {
           "date": "2026-10-16",
-          "views": 20,
+          "views": 21,
           "uploads": 3,
-          "cumulative_views": 511
+          "cumulative_views": 513
         },
         {
           "date": "2026-10-17",
-          "views": 0,
+          "views": 1,
           "uploads": 2,
-          "cumulative_views": 511
+          "cumulative_views": 514
         }
       ],
       "videos": [
@@ -1770,7 +1770,7 @@
           "youtube_id": "lT1TcL6lgzc",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lT1TcL6lgzc/hqdefault.jpg",
@@ -1812,7 +1812,7 @@
           "youtube_id": "235EW_ZKdzg",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 12,
+          "youtube_views": 13,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/235EW_ZKdzg/hqdefault.jpg",
@@ -1840,7 +1840,7 @@
           "youtube_id": "lE-BNNNG298",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 17,
+          "youtube_views": 18,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lE-BNNNG298/hqdefault.jpg",
@@ -2967,6 +2967,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7671311367365872909",
+      "youtube_id": "kLfqR9So2Ew",
+      "title": "Dad After Work\u2026 According to My Toddler \ud83d\ude2d",
+      "tiktok_views": 14400,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/kLfqR9So2Ew/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-17T06:31:02Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1eUNAfFwTUl6N_rH6Ms_qL7EPjKRtA05k",
@@ -3001,7 +3015,7 @@
       "youtube_id": "lT1TcL6lgzc",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lT1TcL6lgzc/hqdefault.jpg",
@@ -3043,7 +3057,7 @@
       "youtube_id": "uj8JC01qM2A",
       "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
       "tiktok_views": 20400,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/uj8JC01qM2A/hqdefault.jpg",
@@ -3085,7 +3099,7 @@
       "youtube_id": "SQjPyQBOw9o",
       "title": "Taste & Tales \u2728",
       "tiktok_views": 20400,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SQjPyQBOw9o/hqdefault.jpg",
@@ -3113,7 +3127,7 @@
       "youtube_id": "235EW_ZKdzg",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 12,
+      "youtube_views": 13,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/235EW_ZKdzg/hqdefault.jpg",
@@ -3197,7 +3211,7 @@
       "youtube_id": "lE-BNNNG298",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 17,
+      "youtube_views": 18,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lE-BNNNG298/hqdefault.jpg",
@@ -3211,7 +3225,7 @@
       "youtube_id": "jLH_dVJ-0pI",
       "title": "No-Bake Chocolate Banana Roll That Melts in Your Mouth \ud83c\udf4c\ud83c\udf6b",
       "tiktok_views": 22300,
-      "youtube_views": 11,
+      "youtube_views": 13,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jLH_dVJ-0pI/hqdefault.jpg",
@@ -3239,7 +3253,7 @@
       "youtube_id": "xedI6HBMxic",
       "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
       "tiktok_views": 22500,
-      "youtube_views": 35,
+      "youtube_views": 42,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -3295,7 +3309,7 @@
       "youtube_id": "l-VJ0AFsYUQ",
       "title": "creamy banana chocolate dessert You'll crave \ud83d\ude0b",
       "tiktok_views": 13300,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/l-VJ0AFsYUQ/hqdefault.jpg",
@@ -3701,7 +3715,7 @@
       "youtube_id": "H_YK6bpmvpI",
       "title": "cheesy Baked chicken and zucchini casserole \u2728",
       "tiktok_views": 37800,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/H_YK6bpmvpI/hqdefault.jpg",
@@ -3827,7 +3841,7 @@
       "youtube_id": "kxIacsu0CAw",
       "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
       "tiktok_views": 118500,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -3939,7 +3953,7 @@
       "youtube_id": "ca3bS1RBvvc",
       "title": "Creamy Garlic Butter Salmon with Mushroom Sauce \ud83c\udf4b",
       "tiktok_views": 13200,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ca3bS1RBvvc/hqdefault.jpg",
@@ -4283,20 +4297,6 @@
       "uploaded_at": "2026-09-30T17:27:59Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7691301397366639886",
-      "youtube_id": "DY7qd54P8xY",
-      "title": "He watched for exactly two seconds and decided he had it figured out \ud83d\ude02",
-      "tiktok_views": 4759,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/DY7qd54P8xY/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-30T17:25:24Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7676541447440518413",
@@ -4331,7 +4331,7 @@
       "youtube_id": "uLU-AnYUUgo",
       "title": "Secret to Perfectly Juicy Chicken Meatballs \u2728",
       "tiktok_views": 40900,
-      "youtube_views": 23,
+      "youtube_views": 28,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/uLU-AnYUUgo/hqdefault.jpg",
@@ -4555,7 +4555,7 @@
       {
         "date": "2026-09-30",
         "views": 1,
-        "uploads": 2,
+        "uploads": 1,
         "cumulative_views": 1
       },
       {
@@ -4621,11 +4621,25 @@
       {
         "date": "2026-10-17",
         "views": 0,
-        "uploads": 1,
+        "uploads": 2,
         "cumulative_views": 21
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7671311367365872909",
+        "youtube_id": "kLfqR9So2Ew",
+        "title": "Dad After Work\u2026 According to My Toddler \ud83d\ude2d",
+        "tiktok_views": 14400,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/kLfqR9So2Ew/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-17T06:31:02Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5031,20 +5045,6 @@
         "thumbnail": "https://i.ytimg.com/vi/iS0mAS3ycZU/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-30T23:42:44Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7691301397366639886",
-        "youtube_id": "DY7qd54P8xY",
-        "title": "He watched for exactly two seconds and decided he had it figured out \ud83d\ude02",
-        "tiktok_views": 4759,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/DY7qd54P8xY/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-30T17:25:24Z"
       }
     ],
     "runs": [
@@ -5251,8 +5251,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 271,
-    "total_views": 139521,
+    "total_uploads": 272,
+    "total_views": 139535,
     "total_likes": 24,
     "videos_per_day": 12
   },
@@ -5484,5 +5484,5 @@
       "created_at": "2026-10-11T02:04:51.863114+00:00"
     }
   ],
-  "last_updated": "2026-10-17T06:30:38.692004+00:00"
+  "last_updated": "2026-10-17T18:13:53.439832+00:00"
 }
