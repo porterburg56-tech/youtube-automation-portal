@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 268,
+    "total_uploads": 269,
     "total_views": 139489,
     "total_likes": 24,
     "total_subscribers": 86,
@@ -107,26 +107,26 @@
     {
       "date": "2026-10-14",
       "ch1_views": 19,
-      "ch2_views": 251,
+      "ch2_views": 252,
       "ch3_views": 465,
       "ch4_views": 0,
-      "total_views": 735
+      "total_views": 736
     },
     {
       "date": "2026-10-15",
       "ch1_views": 19,
-      "ch2_views": 301,
+      "ch2_views": 302,
       "ch3_views": 497,
       "ch4_views": 0,
-      "total_views": 817
+      "total_views": 818
     },
     {
       "date": "2026-10-16",
       "ch1_views": 21,
-      "ch2_views": 303,
+      "ch2_views": 304,
       "ch3_views": 516,
       "ch4_views": 0,
-      "total_views": 840
+      "total_views": 841
     },
     {
       "date": "2026-10-17",
@@ -153,7 +153,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 101,
+      "total_uploads": 102,
       "total_views": 629,
       "total_likes": 1,
       "upcoming": {
@@ -674,6 +674,16 @@
       ],
       "runs": [
         {
+          "id": 111,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-10-17",
+          "status": "success",
+          "video_id": "OwiEPfDW53Q",
+          "error_message": null,
+          "created_at": "2026-10-17T01:26:50.460992+00:00"
+        },
+        {
           "id": 110,
           "channel_id": "channel_1",
           "slot": 1,
@@ -862,16 +872,6 @@
           "video_id": "dXjflV4QlSQ",
           "error_message": null,
           "created_at": "2026-10-10T20:33:44.057351+00:00"
-        },
-        {
-          "id": 91,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-10-10",
-          "status": "success",
-          "video_id": "OC__RM8tf7o",
-          "error_message": null,
-          "created_at": "2026-10-10T08:01:58.559013+00:00"
         }
       ]
     },
@@ -982,21 +982,21 @@
         },
         {
           "date": "2026-10-14",
-          "views": 47,
+          "views": 48,
           "uploads": 3,
-          "cumulative_views": 251
+          "cumulative_views": 252
         },
         {
           "date": "2026-10-15",
           "views": 50,
           "uploads": 3,
-          "cumulative_views": 301
+          "cumulative_views": 302
         },
         {
           "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 303
+          "cumulative_views": 304
         }
       ],
       "videos": [
@@ -1105,7 +1105,7 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 39,
+          "youtube_views": 40,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -1764,7 +1764,7 @@
           "youtube_id": "27ynTHWStTE",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/27ynTHWStTE/hqdefault.jpg",
@@ -1792,7 +1792,7 @@
           "youtube_id": "235EW_ZKdzg",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 12,
+          "youtube_views": 11,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/235EW_ZKdzg/hqdefault.jpg",
@@ -2981,7 +2981,7 @@
       "youtube_id": "27ynTHWStTE",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/27ynTHWStTE/hqdefault.jpg",
@@ -3079,7 +3079,7 @@
       "youtube_id": "235EW_ZKdzg",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 12,
+      "youtube_views": 11,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/235EW_ZKdzg/hqdefault.jpg",
@@ -3303,7 +3303,7 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 39,
+      "youtube_views": 40,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -4516,7 +4516,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 101,
+    "total_uploads": 102,
     "total_views": 629,
     "total_likes": 1,
     "upcoming": {
@@ -5037,6 +5037,16 @@
     ],
     "runs": [
       {
+        "id": 111,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-10-17",
+        "status": "success",
+        "video_id": "OwiEPfDW53Q",
+        "error_message": null,
+        "created_at": "2026-10-17T01:26:50.460992+00:00"
+      },
+      {
         "id": 110,
         "channel_id": "channel_1",
         "slot": 1,
@@ -5225,21 +5235,11 @@
         "video_id": "dXjflV4QlSQ",
         "error_message": null,
         "created_at": "2026-10-10T20:33:44.057351+00:00"
-      },
-      {
-        "id": 91,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-10-10",
-        "status": "success",
-        "video_id": "OC__RM8tf7o",
-        "error_message": null,
-        "created_at": "2026-10-10T08:01:58.559013+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 268,
+    "total_uploads": 269,
     "total_views": 139489,
     "total_likes": 24,
     "videos_per_day": 12
@@ -5271,6 +5271,16 @@
     }
   },
   "runs": [
+    {
+      "id": 111,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-10-17",
+      "status": "success",
+      "video_id": "OwiEPfDW53Q",
+      "error_message": null,
+      "created_at": "2026-10-17T01:26:50.460992+00:00"
+    },
     {
       "id": 110,
       "channel_id": "channel_1",
@@ -5460,17 +5470,7 @@
       "video_id": "dXjflV4QlSQ",
       "error_message": null,
       "created_at": "2026-10-10T20:33:44.057351+00:00"
-    },
-    {
-      "id": 91,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-10-10",
-      "status": "success",
-      "video_id": "OC__RM8tf7o",
-      "error_message": null,
-      "created_at": "2026-10-10T08:01:58.559013+00:00"
     }
   ],
-  "last_updated": "2026-10-17T00:37:38.396855+00:00"
+  "last_updated": "2026-10-17T01:26:55.502777+00:00"
 }
