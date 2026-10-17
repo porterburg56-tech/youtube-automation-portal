@@ -59,82 +59,82 @@
     {
       "date": "2026-10-08",
       "ch1_views": 10,
-      "ch2_views": 153,
+      "ch2_views": 154,
       "ch3_views": 257,
       "ch4_views": 1102,
-      "total_views": 1522
+      "total_views": 1523
     },
     {
       "date": "2026-10-09",
       "ch1_views": 12,
-      "ch2_views": 172,
+      "ch2_views": 174,
       "ch3_views": 284,
       "ch4_views": 1333,
-      "total_views": 1801
+      "total_views": 1803
     },
     {
       "date": "2026-10-10",
       "ch1_views": 14,
-      "ch2_views": 191,
+      "ch2_views": 193,
       "ch3_views": 339,
       "ch4_views": 1505,
-      "total_views": 2049
+      "total_views": 2051
     },
     {
       "date": "2026-10-11",
       "ch1_views": 15,
-      "ch2_views": 203,
+      "ch2_views": 205,
       "ch3_views": 415,
       "ch4_views": 1566,
-      "total_views": 2199
+      "total_views": 2201
     },
     {
       "date": "2026-10-12",
       "ch1_views": 18,
-      "ch2_views": 203,
+      "ch2_views": 205,
       "ch3_views": 429,
       "ch4_views": 0,
-      "total_views": 650
+      "total_views": 652
     },
     {
       "date": "2026-10-13",
       "ch1_views": 19,
-      "ch2_views": 204,
+      "ch2_views": 206,
       "ch3_views": 436,
       "ch4_views": 0,
-      "total_views": 659
+      "total_views": 661
     },
     {
       "date": "2026-10-14",
       "ch1_views": 19,
-      "ch2_views": 252,
+      "ch2_views": 255,
       "ch3_views": 465,
       "ch4_views": 0,
-      "total_views": 736
+      "total_views": 739
     },
     {
       "date": "2026-10-15",
       "ch1_views": 19,
-      "ch2_views": 302,
+      "ch2_views": 305,
       "ch3_views": 497,
       "ch4_views": 0,
-      "total_views": 818
+      "total_views": 821
     },
     {
       "date": "2026-10-16",
       "ch1_views": 21,
-      "ch2_views": 304,
-      "ch3_views": 516,
+      "ch2_views": 311,
+      "ch3_views": 517,
       "ch4_views": 0,
-      "total_views": 841
+      "total_views": 849
     },
     {
       "date": "2026-10-17",
-      "ch1_views": 0,
+      "ch1_views": 21,
       "ch2_views": 0,
-      "ch3_views": 516,
+      "ch3_views": 517,
       "ch4_views": 0,
-      "total_views": 516
+      "total_views": 538
     }
   ],
   "channels": {
@@ -186,7 +186,7 @@
         {
           "date": "2026-09-30",
           "views": 1,
-          "uploads": 3,
+          "uploads": 2,
           "cumulative_views": 1
         },
         {
@@ -248,9 +248,29 @@
           "views": 2,
           "uploads": 3,
           "cumulative_views": 21
+        },
+        {
+          "date": "2026-10-17",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 21
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7676077769003961614",
+          "youtube_id": "OwiEPfDW53Q",
+          "title": "She thought nobody was listening to her phone calls\u2026 then the toddler \ud83d\ude02",
+          "tiktok_views": 14700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/OwiEPfDW53Q/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-17T01:27:10Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -656,20 +676,6 @@
           "thumbnail": "https://i.ytimg.com/vi/DY7qd54P8xY/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-30T17:25:24Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7680176935195954446",
-          "youtube_id": "dwxSvTintxY",
-          "title": "Grandma Got Up From the Recliner and So Did the Baby \ud83d\ude02",
-          "tiktok_views": 27500,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/dwxSvTintxY/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-30T02:10:08Z"
         }
       ],
       "runs": [
@@ -946,57 +952,57 @@
         },
         {
           "date": "2026-10-08",
-          "views": 19,
+          "views": 20,
           "uploads": 1,
-          "cumulative_views": 153
+          "cumulative_views": 154
         },
         {
           "date": "2026-10-09",
-          "views": 19,
+          "views": 20,
           "uploads": 3,
-          "cumulative_views": 172
+          "cumulative_views": 174
         },
         {
           "date": "2026-10-10",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 191
+          "cumulative_views": 193
         },
         {
           "date": "2026-10-11",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 203
+          "cumulative_views": 205
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 203
+          "cumulative_views": 205
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 204
+          "cumulative_views": 206
         },
         {
           "date": "2026-10-14",
-          "views": 48,
+          "views": 49,
           "uploads": 3,
-          "cumulative_views": 252
+          "cumulative_views": 255
         },
         {
           "date": "2026-10-15",
           "views": 50,
           "uploads": 3,
-          "cumulative_views": 302
+          "cumulative_views": 305
         },
         {
           "date": "2026-10-16",
-          "views": 2,
+          "views": 6,
           "uploads": 3,
-          "cumulative_views": 304
+          "cumulative_views": 311
         }
       ],
       "videos": [
@@ -1007,7 +1013,7 @@
           "youtube_id": "uj8JC01qM2A",
           "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
           "tiktok_views": 20400,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/uj8JC01qM2A/hqdefault.jpg",
@@ -1105,7 +1111,7 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 40,
+          "youtube_views": 41,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -1245,7 +1251,7 @@
           "youtube_id": "ca3bS1RBvvc",
           "title": "Creamy Garlic Butter Salmon with Mushroom Sauce \ud83c\udf4b",
           "tiktok_views": 13200,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ca3bS1RBvvc/hqdefault.jpg",
@@ -1287,7 +1293,7 @@
           "youtube_id": "MD9VcCPCjd0",
           "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
           "tiktok_views": 234700,
-          "youtube_views": 19,
+          "youtube_views": 20,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -1731,15 +1737,15 @@
         },
         {
           "date": "2026-10-16",
-          "views": 19,
+          "views": 20,
           "uploads": 3,
-          "cumulative_views": 516
+          "cumulative_views": 517
         },
         {
           "date": "2026-10-17",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 516
+          "cumulative_views": 517
         }
       ],
       "videos": [
@@ -1792,7 +1798,7 @@
           "youtube_id": "235EW_ZKdzg",
           "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 11,
+          "youtube_views": 12,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/235EW_ZKdzg/hqdefault.jpg",
@@ -2166,6 +2172,16 @@
       ],
       "runs": [
         {
+          "id": 77,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-17",
+          "status": "success",
+          "video_id": "G7hIsk-KANo",
+          "error_message": null,
+          "created_at": "2026-10-17T05:34:46.516772+00:00"
+        },
+        {
           "id": 76,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2354,16 +2370,6 @@
           "video_id": "jor3O-ZTvLc",
           "error_message": null,
           "created_at": "2026-10-11T01:01:15.529883+00:00"
-        },
-        {
-          "id": 57,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-10",
-          "status": "success",
-          "video_id": "nxH8mXgF1cA",
-          "error_message": null,
-          "created_at": "2026-10-10T20:34:33.995013+00:00"
         }
       ]
     },
@@ -2961,6 +2967,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7676077769003961614",
+      "youtube_id": "OwiEPfDW53Q",
+      "title": "She thought nobody was listening to her phone calls\u2026 then the toddler \ud83d\ude02",
+      "tiktok_views": 14700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/OwiEPfDW53Q/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-17T01:27:10Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1egI6guOdkmvR8O1kJMCpyvJev3e7W7yf",
@@ -3009,7 +3029,7 @@
       "youtube_id": "uj8JC01qM2A",
       "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
       "tiktok_views": 20400,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/uj8JC01qM2A/hqdefault.jpg",
@@ -3079,7 +3099,7 @@
       "youtube_id": "235EW_ZKdzg",
       "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 11,
+      "youtube_views": 12,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/235EW_ZKdzg/hqdefault.jpg",
@@ -3303,7 +3323,7 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 40,
+      "youtube_views": 41,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -3905,7 +3925,7 @@
       "youtube_id": "ca3bS1RBvvc",
       "title": "Creamy Garlic Butter Salmon with Mushroom Sauce \ud83c\udf4b",
       "tiktok_views": 13200,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ca3bS1RBvvc/hqdefault.jpg",
@@ -4031,7 +4051,7 @@
       "youtube_id": "MD9VcCPCjd0",
       "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
       "tiktok_views": 234700,
-      "youtube_views": 19,
+      "youtube_views": 20,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -4275,20 +4295,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-zufAR-O6XE/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-30T16:26:46Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7680176935195954446",
-      "youtube_id": "dwxSvTintxY",
-      "title": "Grandma Got Up From the Recliner and So Did the Baby \ud83d\ude02",
-      "tiktok_views": 27500,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/dwxSvTintxY/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-30T02:10:08Z"
     },
     {
       "channel_id": "channel_4",
@@ -4549,7 +4555,7 @@
       {
         "date": "2026-09-30",
         "views": 1,
-        "uploads": 3,
+        "uploads": 2,
         "cumulative_views": 1
       },
       {
@@ -4611,9 +4617,29 @@
         "views": 2,
         "uploads": 3,
         "cumulative_views": 21
+      },
+      {
+        "date": "2026-10-17",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 21
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7676077769003961614",
+        "youtube_id": "OwiEPfDW53Q",
+        "title": "She thought nobody was listening to her phone calls\u2026 then the toddler \ud83d\ude02",
+        "tiktok_views": 14700,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/OwiEPfDW53Q/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-17T01:27:10Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5019,20 +5045,6 @@
         "thumbnail": "https://i.ytimg.com/vi/DY7qd54P8xY/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-09-30T17:25:24Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7680176935195954446",
-        "youtube_id": "dwxSvTintxY",
-        "title": "Grandma Got Up From the Recliner and So Did the Baby \ud83d\ude02",
-        "tiktok_views": 27500,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/dwxSvTintxY/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-30T02:10:08Z"
       }
     ],
     "runs": [
@@ -5472,5 +5484,5 @@
       "created_at": "2026-10-10T20:33:44.057351+00:00"
     }
   ],
-  "last_updated": "2026-10-17T01:26:55.502777+00:00"
+  "last_updated": "2026-10-17T05:34:51.407944+00:00"
 }
