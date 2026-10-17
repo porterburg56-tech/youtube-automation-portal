@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 273,
-    "total_views": 139563,
+    "total_views": 139538,
     "total_likes": 24,
     "total_subscribers": 86,
     "channels_count": 4,
@@ -42,99 +42,99 @@
     },
     {
       "date": "2026-09-30",
-      "ch1_views": 1,
+      "ch1_views": 0,
       "ch2_views": 126,
       "ch3_views": 93,
       "ch4_views": 842,
-      "total_views": 1062
+      "total_views": 1061
     },
     {
       "date": "2026-10-01",
-      "ch1_views": 5,
+      "ch1_views": 4,
       "ch2_views": 135,
       "ch3_views": 115,
       "ch4_views": 1056,
-      "total_views": 1311
+      "total_views": 1310
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 10,
+      "ch1_views": 9,
       "ch2_views": 155,
       "ch3_views": 251,
       "ch4_views": 1102,
-      "total_views": 1518
+      "total_views": 1517
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 12,
+      "ch1_views": 11,
       "ch2_views": 176,
       "ch3_views": 278,
       "ch4_views": 1333,
-      "total_views": 1799
+      "total_views": 1798
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 14,
+      "ch1_views": 13,
       "ch2_views": 196,
       "ch3_views": 333,
       "ch4_views": 1505,
-      "total_views": 2048
+      "total_views": 2047
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 15,
+      "ch1_views": 14,
       "ch2_views": 209,
       "ch3_views": 409,
       "ch4_views": 1566,
-      "total_views": 2199
+      "total_views": 2198
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 18,
+      "ch1_views": 17,
       "ch2_views": 209,
       "ch3_views": 423,
       "ch4_views": 0,
-      "total_views": 650
+      "total_views": 649
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 19,
+      "ch1_views": 18,
       "ch2_views": 210,
       "ch3_views": 430,
       "ch4_views": 0,
-      "total_views": 659
+      "total_views": 658
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 19,
+      "ch1_views": 18,
       "ch2_views": 261,
       "ch3_views": 459,
       "ch4_views": 0,
-      "total_views": 739
+      "total_views": 738
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 19,
+      "ch1_views": 18,
       "ch2_views": 320,
       "ch3_views": 492,
       "ch4_views": 0,
-      "total_views": 831
+      "total_views": 830
     },
     {
       "date": "2026-10-16",
-      "ch1_views": 21,
-      "ch2_views": 327,
+      "ch1_views": 20,
+      "ch2_views": 328,
       "ch3_views": 513,
       "ch4_views": 0,
       "total_views": 861
     },
     {
       "date": "2026-10-17",
-      "ch1_views": 21,
-      "ch2_views": 327,
+      "ch1_views": 20,
+      "ch2_views": 329,
       "ch3_views": 514,
       "ch4_views": 0,
-      "total_views": 862
+      "total_views": 863
     }
   ],
   "channels": {
@@ -154,7 +154,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 104,
-      "total_views": 629,
+      "total_views": 632,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -184,79 +184,87 @@
       },
       "view_history": [
         {
-          "date": "2026-09-30",
-          "views": 1,
-          "uploads": 1,
-          "cumulative_views": 1
-        },
-        {
           "date": "2026-10-01",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 5
+          "cumulative_views": 4
         },
         {
           "date": "2026-10-08",
           "views": 5,
           "uploads": 2,
-          "cumulative_views": 10
+          "cumulative_views": 9
         },
         {
           "date": "2026-10-09",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 12
+          "cumulative_views": 11
         },
         {
           "date": "2026-10-10",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 14
+          "cumulative_views": 13
         },
         {
           "date": "2026-10-11",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 18
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-14",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-15",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-17",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 21
+          "uploads": 3,
+          "cumulative_views": 20
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7675016135007309070",
+          "youtube_id": "oV5Y8FjG6QU",
+          "title": "This tiny superstar understood the assignment. \ud83d\ude0e",
+          "tiktok_views": 11800,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/oV5Y8FjG6QU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-17T19:12:28Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -662,20 +670,6 @@
           "thumbnail": "https://i.ytimg.com/vi/qKTgOZbR2oM/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-01T02:10:37Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7663158194998447373",
-          "youtube_id": "iS0mAS3ycZU",
-          "title": "Juice glass fall mistakenly from the hand of kitty \ud83d\ude02",
-          "tiktok_views": 24700,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/iS0mAS3ycZU/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-30T23:42:44Z"
         }
       ],
       "runs": [
@@ -897,7 +891,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
       "total_uploads": 95,
-      "total_views": 1096,
+      "total_views": 1068,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -1000,15 +994,15 @@
         },
         {
           "date": "2026-10-16",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 327
+          "cumulative_views": 328
         },
         {
           "date": "2026-10-17",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 327
+          "cumulative_views": 329
         }
       ],
       "videos": [
@@ -1019,7 +1013,7 @@
           "youtube_id": "U127bm3H1rs",
           "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
           "tiktok_views": 2043,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -1033,7 +1027,7 @@
           "youtube_id": "uj8JC01qM2A",
           "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
           "tiktok_views": 20400,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/uj8JC01qM2A/hqdefault.jpg",
@@ -2178,6 +2172,16 @@
       ],
       "runs": [
         {
+          "id": 78,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-17",
+          "status": "success",
+          "video_id": "tcD2rb6qW3o",
+          "error_message": null,
+          "created_at": "2026-10-17T19:21:45.635465+00:00"
+        },
+        {
           "id": 77,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2366,16 +2370,6 @@
           "video_id": "ei5AX54nPqk",
           "error_message": null,
           "created_at": "2026-10-11T07:09:53.176160+00:00"
-        },
-        {
-          "id": 58,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-11",
-          "status": "success",
-          "video_id": "jor3O-ZTvLc",
-          "error_message": null,
-          "created_at": "2026-10-11T01:01:15.529883+00:00"
         }
       ]
     },
@@ -2973,13 +2967,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7675016135007309070",
+      "youtube_id": "oV5Y8FjG6QU",
+      "title": "This tiny superstar understood the assignment. \ud83d\ude0e",
+      "tiktok_views": 11800,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/oV5Y8FjG6QU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-17T19:12:28Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7697685636383264014",
       "youtube_id": "U127bm3H1rs",
       "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
       "tiktok_views": 2043,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -3077,7 +3085,7 @@
       "youtube_id": "uj8JC01qM2A",
       "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
       "tiktok_views": 20400,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/uj8JC01qM2A/hqdefault.jpg",
@@ -4233,20 +4241,6 @@
       "uploaded_at": "2026-10-01T01:25:13Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7663158194998447373",
-      "youtube_id": "iS0mAS3ycZU",
-      "title": "Juice glass fall mistakenly from the hand of kitty \ud83d\ude02",
-      "tiktok_views": 24700,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/iS0mAS3ycZU/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-30T23:42:44Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1vRih7nouoGhL9ViqMOdnPnhWR1m6-jOj",
@@ -4529,7 +4523,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 104,
-    "total_views": 629,
+    "total_views": 632,
     "total_likes": 1,
     "upcoming": {
       "slot1": {
@@ -4559,79 +4553,87 @@
     },
     "view_history": [
       {
-        "date": "2026-09-30",
-        "views": 1,
-        "uploads": 1,
-        "cumulative_views": 1
-      },
-      {
         "date": "2026-10-01",
         "views": 4,
         "uploads": 1,
-        "cumulative_views": 5
+        "cumulative_views": 4
       },
       {
         "date": "2026-10-08",
         "views": 5,
         "uploads": 2,
-        "cumulative_views": 10
+        "cumulative_views": 9
       },
       {
         "date": "2026-10-09",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 12
+        "cumulative_views": 11
       },
       {
         "date": "2026-10-10",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 14
+        "cumulative_views": 13
       },
       {
         "date": "2026-10-11",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 14
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 18
+        "cumulative_views": 17
       },
       {
         "date": "2026-10-13",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 19
+        "cumulative_views": 18
       },
       {
         "date": "2026-10-14",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 19
+        "cumulative_views": 18
       },
       {
         "date": "2026-10-15",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 19
+        "cumulative_views": 18
       },
       {
         "date": "2026-10-16",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 20
       },
       {
         "date": "2026-10-17",
         "views": 0,
-        "uploads": 2,
-        "cumulative_views": 21
+        "uploads": 3,
+        "cumulative_views": 20
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7675016135007309070",
+        "youtube_id": "oV5Y8FjG6QU",
+        "title": "This tiny superstar understood the assignment. \ud83d\ude0e",
+        "tiktok_views": 11800,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/oV5Y8FjG6QU/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-17T19:12:28Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5037,20 +5039,6 @@
         "thumbnail": "https://i.ytimg.com/vi/qKTgOZbR2oM/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-01T02:10:37Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7663158194998447373",
-        "youtube_id": "iS0mAS3ycZU",
-        "title": "Juice glass fall mistakenly from the hand of kitty \ud83d\ude02",
-        "tiktok_views": 24700,
-        "youtube_views": 1,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/iS0mAS3ycZU/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-09-30T23:42:44Z"
       }
     ],
     "runs": [
@@ -5258,7 +5246,7 @@
   },
   "kpis": {
     "total_uploads": 273,
-    "total_views": 139563,
+    "total_views": 139538,
     "total_likes": 24,
     "videos_per_day": 12
   },
@@ -5490,5 +5478,5 @@
       "created_at": "2026-10-11T08:13:59.669384+00:00"
     }
   ],
-  "last_updated": "2026-10-17T19:12:15.154398+00:00"
+  "last_updated": "2026-10-17T19:21:50.063540+00:00"
 }
