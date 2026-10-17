@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 268,
-    "total_views": 139488,
+    "total_views": 139489,
     "total_likes": 24,
     "total_subscribers": 86,
     "channels_count": 4,
@@ -107,26 +107,26 @@
     {
       "date": "2026-10-14",
       "ch1_views": 19,
-      "ch2_views": 252,
+      "ch2_views": 251,
       "ch3_views": 465,
       "ch4_views": 0,
-      "total_views": 736
+      "total_views": 735
     },
     {
       "date": "2026-10-15",
       "ch1_views": 19,
-      "ch2_views": 302,
+      "ch2_views": 301,
       "ch3_views": 497,
       "ch4_views": 0,
-      "total_views": 818
+      "total_views": 817
     },
     {
       "date": "2026-10-16",
       "ch1_views": 21,
-      "ch2_views": 305,
+      "ch2_views": 303,
       "ch3_views": 516,
       "ch4_views": 0,
-      "total_views": 842
+      "total_views": 840
     },
     {
       "date": "2026-10-17",
@@ -154,7 +154,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 101,
-      "total_views": 628,
+      "total_views": 629,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -982,21 +982,21 @@
         },
         {
           "date": "2026-10-14",
-          "views": 48,
+          "views": 47,
           "uploads": 3,
-          "cumulative_views": 252
+          "cumulative_views": 251
         },
         {
           "date": "2026-10-15",
           "views": 50,
           "uploads": 3,
-          "cumulative_views": 302
+          "cumulative_views": 301
         },
         {
           "date": "2026-10-16",
-          "views": 3,
+          "views": 2,
           "uploads": 3,
-          "cumulative_views": 305
+          "cumulative_views": 303
         }
       ],
       "videos": [
@@ -1007,7 +1007,7 @@
           "youtube_id": "uj8JC01qM2A",
           "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
           "tiktok_views": 20400,
-          "youtube_views": 1,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/uj8JC01qM2A/hqdefault.jpg",
@@ -1105,7 +1105,7 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 40,
+          "youtube_views": 39,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -2757,6 +2757,16 @@
       ],
       "runs": [
         {
+          "id": 69,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-10-17",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-17T00:37:34.035288+00:00"
+        },
+        {
           "id": 68,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2945,16 +2955,6 @@
           "video_id": "LFZ_CMcafqc",
           "error_message": null,
           "created_at": "2026-10-10T20:39:15.291223+00:00"
-        },
-        {
-          "id": 49,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-10",
-          "status": "success",
-          "video_id": "_rWFtgY6jnk",
-          "error_message": null,
-          "created_at": "2026-10-10T07:20:42.535920+00:00"
         }
       ]
     }
@@ -3009,7 +3009,7 @@
       "youtube_id": "uj8JC01qM2A",
       "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
       "tiktok_views": 20400,
-      "youtube_views": 1,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/uj8JC01qM2A/hqdefault.jpg",
@@ -3303,7 +3303,7 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 40,
+      "youtube_views": 39,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -4517,7 +4517,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 101,
-    "total_views": 628,
+    "total_views": 629,
     "total_likes": 1,
     "upcoming": {
       "slot1": {
@@ -5240,7 +5240,7 @@
   },
   "kpis": {
     "total_uploads": 268,
-    "total_views": 139488,
+    "total_views": 139489,
     "total_likes": 24,
     "videos_per_day": 12
   },
@@ -5472,5 +5472,5 @@
       "created_at": "2026-10-10T08:01:58.559013+00:00"
     }
   ],
-  "last_updated": "2026-10-17T00:32:57.162789+00:00"
+  "last_updated": "2026-10-17T00:37:38.396855+00:00"
 }
