@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 274,
+    "total_uploads": 275,
     "total_views": 139566,
-    "total_likes": 24,
+    "total_likes": 21,
     "total_subscribers": 86,
     "channels_count": 4,
     "videos_per_day": 12
@@ -44,97 +44,105 @@
       "date": "2026-09-30",
       "ch1_views": 0,
       "ch2_views": 126,
-      "ch3_views": 40,
+      "ch3_views": 0,
       "ch4_views": 842,
-      "total_views": 1008
+      "total_views": 968
     },
     {
       "date": "2026-10-01",
       "ch1_views": 4,
       "ch2_views": 135,
-      "ch3_views": 62,
+      "ch3_views": 22,
       "ch4_views": 1056,
-      "total_views": 1257
+      "total_views": 1217
     },
     {
       "date": "2026-10-08",
       "ch1_views": 9,
       "ch2_views": 157,
-      "ch3_views": 198,
+      "ch3_views": 158,
       "ch4_views": 1102,
-      "total_views": 1466
+      "total_views": 1426
     },
     {
       "date": "2026-10-09",
       "ch1_views": 11,
       "ch2_views": 178,
-      "ch3_views": 225,
+      "ch3_views": 185,
       "ch4_views": 1333,
-      "total_views": 1747
+      "total_views": 1707
     },
     {
       "date": "2026-10-10",
       "ch1_views": 13,
       "ch2_views": 198,
-      "ch3_views": 280,
+      "ch3_views": 240,
       "ch4_views": 1505,
-      "total_views": 1996
+      "total_views": 1956
     },
     {
       "date": "2026-10-11",
       "ch1_views": 14,
       "ch2_views": 211,
-      "ch3_views": 356,
+      "ch3_views": 316,
       "ch4_views": 1566,
-      "total_views": 2147
+      "total_views": 2107
     },
     {
       "date": "2026-10-12",
       "ch1_views": 17,
       "ch2_views": 211,
-      "ch3_views": 370,
+      "ch3_views": 330,
       "ch4_views": 0,
-      "total_views": 598
+      "total_views": 558
     },
     {
       "date": "2026-10-13",
       "ch1_views": 18,
       "ch2_views": 212,
-      "ch3_views": 377,
+      "ch3_views": 337,
       "ch4_views": 0,
-      "total_views": 607
+      "total_views": 567
     },
     {
       "date": "2026-10-14",
       "ch1_views": 20,
       "ch2_views": 263,
-      "ch3_views": 406,
+      "ch3_views": 366,
       "ch4_views": 0,
-      "total_views": 689
+      "total_views": 649
     },
     {
       "date": "2026-10-15",
       "ch1_views": 22,
       "ch2_views": 322,
-      "ch3_views": 439,
+      "ch3_views": 399,
       "ch4_views": 0,
-      "total_views": 783
+      "total_views": 743
     },
     {
       "date": "2026-10-16",
       "ch1_views": 24,
       "ch2_views": 330,
-      "ch3_views": 461,
+      "ch3_views": 421,
       "ch4_views": 0,
-      "total_views": 815
+      "total_views": 775
     },
     {
       "date": "2026-10-17",
       "ch1_views": 24,
-      "ch2_views": 331,
-      "ch3_views": 467,
+      "ch2_views": 332,
+      "ch3_views": 427,
       "ch4_views": 0,
-      "total_views": 822
+      "total_views": 783
+    },
+    {
+      "date": "2026-10-18",
+      "ch1_views": 0,
+      "ch2_views": 0,
+      "ch3_views": 427,
+      "ch4_views": 0,
+      "total_views": 427
     }
   ],
   "channels": {
@@ -1000,9 +1008,9 @@
         },
         {
           "date": "2026-10-17",
-          "views": 1,
+          "views": 2,
           "uploads": 1,
-          "cumulative_views": 331
+          "cumulative_views": 332
         }
       ],
       "videos": [
@@ -1013,7 +1021,7 @@
           "youtube_id": "U127bm3H1rs",
           "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
           "tiktok_views": 2043,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -1645,9 +1653,9 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 55,
+      "total_uploads": 56,
       "total_views": 136272,
-      "total_likes": 6,
+      "total_likes": 3,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1676,79 +1684,93 @@
       },
       "view_history": [
         {
-          "date": "2026-09-30",
-          "views": 40,
-          "uploads": 1,
-          "cumulative_views": 40
-        },
-        {
           "date": "2026-10-01",
           "views": 22,
           "uploads": 1,
-          "cumulative_views": 62
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-08",
           "views": 136,
           "uploads": 1,
-          "cumulative_views": 198
+          "cumulative_views": 158
         },
         {
           "date": "2026-10-09",
           "views": 27,
           "uploads": 3,
-          "cumulative_views": 225
+          "cumulative_views": 185
         },
         {
           "date": "2026-10-10",
           "views": 55,
           "uploads": 3,
-          "cumulative_views": 280
+          "cumulative_views": 240
         },
         {
           "date": "2026-10-11",
           "views": 76,
           "uploads": 3,
-          "cumulative_views": 356
+          "cumulative_views": 316
         },
         {
           "date": "2026-10-12",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 370
+          "cumulative_views": 330
         },
         {
           "date": "2026-10-13",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 377
+          "cumulative_views": 337
         },
         {
           "date": "2026-10-14",
           "views": 29,
           "uploads": 3,
-          "cumulative_views": 406
+          "cumulative_views": 366
         },
         {
           "date": "2026-10-15",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 439
+          "cumulative_views": 399
         },
         {
           "date": "2026-10-16",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 461
+          "cumulative_views": 421
         },
         {
           "date": "2026-10-17",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 467
+          "cumulative_views": 427
+        },
+        {
+          "date": "2026-10-18",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 427
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1eo7PRfUwIOn8vPUBY5eTRyQcwaR3crWz",
+          "youtube_id": "ML3NvNgF5E0",
+          "title": "Professional performing medical \u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/ML3NvNgF5E0/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-18T00:04:31Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2154,20 +2176,6 @@
           "thumbnail": "https://i.ytimg.com/vi/IeJXmlDo-LU/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-01T01:29:12Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "17tZZyypLdO0nkQFlqJ83ICka7tXO88ZD",
-          "youtube_id": "8ai3JlxfoLk",
-          "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
-          "tiktok_views": 0,
-          "youtube_views": 40,
-          "youtube_likes": 3,
-          "youtube_comments": 1,
-          "thumbnail": "https://i.ytimg.com/vi/8ai3JlxfoLk/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-30T22:31:24Z"
         }
       ],
       "runs": [
@@ -2763,6 +2771,16 @@
       ],
       "runs": [
         {
+          "id": 72,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-10-18",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-18T00:07:32.119796+00:00"
+        },
+        {
           "id": 71,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2951,21 +2969,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-11T21:03:06.196626+00:00"
-        },
-        {
-          "id": 52,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-11",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-11T07:24:05.602953+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1eo7PRfUwIOn8vPUBY5eTRyQcwaR3crWz",
+      "youtube_id": "ML3NvNgF5E0",
+      "title": "Professional performing medical \u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/ML3NvNgF5E0/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-18T00:04:31Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -3001,7 +3023,7 @@
       "youtube_id": "U127bm3H1rs",
       "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
       "tiktok_views": 2043,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -4283,20 +4305,6 @@
       "uploaded_at": "2026-09-30T22:31:32Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "17tZZyypLdO0nkQFlqJ83ICka7tXO88ZD",
-      "youtube_id": "8ai3JlxfoLk",
-      "title": "So Satisfying! Watch This Incredible Nail Makeover \ud83d\udc85\ud83d\udd25",
-      "tiktok_views": 0,
-      "youtube_views": 40,
-      "youtube_likes": 3,
-      "youtube_comments": 1,
-      "thumbnail": "https://i.ytimg.com/vi/8ai3JlxfoLk/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-30T22:31:24Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1rlTHAM2JsM3WY2Mm-hB5QU5OBACaIx4o",
@@ -5245,9 +5253,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 274,
+    "total_uploads": 275,
     "total_views": 139566,
-    "total_likes": 24,
+    "total_likes": 21,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5478,5 +5486,5 @@
       "created_at": "2026-10-11T08:13:59.669384+00:00"
     }
   ],
-  "last_updated": "2026-10-18T00:04:12.159809+00:00"
+  "last_updated": "2026-10-18T00:07:36.560265+00:00"
 }
