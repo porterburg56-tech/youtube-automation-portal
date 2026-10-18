@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 275,
+    "total_uploads": 276,
     "total_views": 139566,
     "total_likes": 21,
     "total_subscribers": 86,
@@ -66,75 +66,75 @@
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 11,
+      "ch1_views": 12,
       "ch2_views": 178,
       "ch3_views": 185,
       "ch4_views": 1333,
-      "total_views": 1707
+      "total_views": 1708
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 13,
+      "ch1_views": 14,
       "ch2_views": 198,
       "ch3_views": 240,
       "ch4_views": 1505,
-      "total_views": 1956
+      "total_views": 1957
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 14,
+      "ch1_views": 15,
       "ch2_views": 211,
       "ch3_views": 316,
       "ch4_views": 1566,
-      "total_views": 2107
+      "total_views": 2108
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 17,
+      "ch1_views": 18,
       "ch2_views": 211,
       "ch3_views": 330,
       "ch4_views": 0,
-      "total_views": 558
+      "total_views": 559
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 18,
+      "ch1_views": 19,
       "ch2_views": 212,
       "ch3_views": 337,
       "ch4_views": 0,
-      "total_views": 567
+      "total_views": 568
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 20,
+      "ch1_views": 21,
       "ch2_views": 263,
       "ch3_views": 366,
       "ch4_views": 0,
-      "total_views": 649
+      "total_views": 650
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 22,
+      "ch1_views": 23,
       "ch2_views": 322,
       "ch3_views": 399,
       "ch4_views": 0,
-      "total_views": 743
+      "total_views": 744
     },
     {
       "date": "2026-10-16",
-      "ch1_views": 24,
+      "ch1_views": 25,
       "ch2_views": 330,
       "ch3_views": 421,
       "ch4_views": 0,
-      "total_views": 775
+      "total_views": 776
     },
     {
       "date": "2026-10-17",
-      "ch1_views": 24,
-      "ch2_views": 331,
+      "ch1_views": 25,
+      "ch2_views": 332,
       "ch3_views": 427,
       "ch4_views": 0,
-      "total_views": 782
+      "total_views": 784
     },
     {
       "date": "2026-10-18",
@@ -161,7 +161,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 104,
+      "total_uploads": 105,
       "total_views": 632,
       "total_likes": 1,
       "upcoming": {
@@ -205,57 +205,57 @@
         },
         {
           "date": "2026-10-09",
-          "views": 2,
+          "views": 3,
           "uploads": 3,
-          "cumulative_views": 11
+          "cumulative_views": 12
         },
         {
           "date": "2026-10-10",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-11",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 14
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 18
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-14",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-15",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 23
         },
         {
           "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 25
         },
         {
           "date": "2026-10-17",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 25
         }
       ],
       "videos": [
@@ -616,7 +616,7 @@
           "youtube_id": "O_JpXXptDKo",
           "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
           "tiktok_views": 111200,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/O_JpXXptDKo/hqdefault.jpg",
@@ -681,6 +681,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 114,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-10-18",
+          "status": "success",
+          "video_id": "bJ-DcOXU-lw",
+          "error_message": null,
+          "created_at": "2026-10-18T01:24:32.389707+00:00"
+        },
         {
           "id": 113,
           "channel_id": "channel_1",
@@ -870,16 +880,6 @@
           "video_id": "oiBciIgSOwU",
           "error_message": null,
           "created_at": "2026-10-11T20:53:43.211057+00:00"
-        },
-        {
-          "id": 94,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-10-11",
-          "status": "success",
-          "video_id": "gRuZjiZkyz8",
-          "error_message": null,
-          "created_at": "2026-10-11T08:13:59.669384+00:00"
         }
       ]
     },
@@ -1008,9 +1008,9 @@
         },
         {
           "date": "2026-10-17",
-          "views": 1,
+          "views": 2,
           "uploads": 1,
-          "cumulative_views": 331
+          "cumulative_views": 332
         }
       ],
       "videos": [
@@ -1021,7 +1021,7 @@
           "youtube_id": "U127bm3H1rs",
           "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
           "tiktok_views": 2043,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -3023,7 +3023,7 @@
       "youtube_id": "U127bm3H1rs",
       "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
       "tiktok_views": 2043,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -4031,7 +4031,7 @@
       "youtube_id": "O_JpXXptDKo",
       "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
       "tiktok_views": 111200,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/O_JpXXptDKo/hqdefault.jpg",
@@ -4530,7 +4530,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 104,
+    "total_uploads": 105,
     "total_views": 632,
     "total_likes": 1,
     "upcoming": {
@@ -4574,57 +4574,57 @@
       },
       {
         "date": "2026-10-09",
-        "views": 2,
+        "views": 3,
         "uploads": 3,
-        "cumulative_views": 11
+        "cumulative_views": 12
       },
       {
         "date": "2026-10-10",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 14
       },
       {
         "date": "2026-10-11",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 14
+        "cumulative_views": 15
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 18
       },
       {
         "date": "2026-10-13",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 18
+        "cumulative_views": 19
       },
       {
         "date": "2026-10-14",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-15",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 23
       },
       {
         "date": "2026-10-16",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 25
       },
       {
         "date": "2026-10-17",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 25
       }
     ],
     "videos": [
@@ -4985,7 +4985,7 @@
         "youtube_id": "O_JpXXptDKo",
         "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
         "tiktok_views": 111200,
-        "youtube_views": 2,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/O_JpXXptDKo/hqdefault.jpg",
@@ -5050,6 +5050,16 @@
       }
     ],
     "runs": [
+      {
+        "id": 114,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-10-18",
+        "status": "success",
+        "video_id": "bJ-DcOXU-lw",
+        "error_message": null,
+        "created_at": "2026-10-18T01:24:32.389707+00:00"
+      },
       {
         "id": 113,
         "channel_id": "channel_1",
@@ -5239,21 +5249,11 @@
         "video_id": "oiBciIgSOwU",
         "error_message": null,
         "created_at": "2026-10-11T20:53:43.211057+00:00"
-      },
-      {
-        "id": 94,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-10-11",
-        "status": "success",
-        "video_id": "gRuZjiZkyz8",
-        "error_message": null,
-        "created_at": "2026-10-11T08:13:59.669384+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 275,
+    "total_uploads": 276,
     "total_views": 139566,
     "total_likes": 21,
     "videos_per_day": 12
@@ -5285,6 +5285,16 @@
     }
   },
   "runs": [
+    {
+      "id": 114,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-10-18",
+      "status": "success",
+      "video_id": "bJ-DcOXU-lw",
+      "error_message": null,
+      "created_at": "2026-10-18T01:24:32.389707+00:00"
+    },
     {
       "id": 113,
       "channel_id": "channel_1",
@@ -5474,17 +5484,7 @@
       "video_id": "oiBciIgSOwU",
       "error_message": null,
       "created_at": "2026-10-11T20:53:43.211057+00:00"
-    },
-    {
-      "id": 94,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-10-11",
-      "status": "success",
-      "video_id": "gRuZjiZkyz8",
-      "error_message": null,
-      "created_at": "2026-10-11T08:13:59.669384+00:00"
     }
   ],
-  "last_updated": "2026-10-18T00:11:07.213638+00:00"
+  "last_updated": "2026-10-18T01:24:37.129894+00:00"
 }
