@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 278,
-    "total_views": 139566,
+    "total_uploads": 279,
+    "total_views": 139611,
     "total_likes": 20,
     "total_subscribers": 86,
     "channels_count": 4,
@@ -58,91 +58,91 @@
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 5,
-      "ch2_views": 157,
+      "ch1_views": 2,
+      "ch2_views": 158,
       "ch3_views": 136,
       "ch4_views": 1102,
-      "total_views": 1400
+      "total_views": 1398
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 8,
-      "ch2_views": 178,
+      "ch1_views": 5,
+      "ch2_views": 181,
       "ch3_views": 163,
       "ch4_views": 1333,
       "total_views": 1682
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 10,
-      "ch2_views": 198,
+      "ch1_views": 8,
+      "ch2_views": 202,
       "ch3_views": 218,
       "ch4_views": 1505,
-      "total_views": 1931
+      "total_views": 1933
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 11,
-      "ch2_views": 211,
+      "ch1_views": 9,
+      "ch2_views": 215,
       "ch3_views": 294,
       "ch4_views": 1566,
-      "total_views": 2082
+      "total_views": 2084
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 14,
-      "ch2_views": 211,
+      "ch1_views": 12,
+      "ch2_views": 215,
       "ch3_views": 308,
       "ch4_views": 0,
-      "total_views": 533
+      "total_views": 535
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 15,
-      "ch2_views": 212,
+      "ch1_views": 13,
+      "ch2_views": 216,
       "ch3_views": 315,
       "ch4_views": 0,
-      "total_views": 542
+      "total_views": 544
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 17,
-      "ch2_views": 263,
+      "ch1_views": 15,
+      "ch2_views": 267,
       "ch3_views": 344,
       "ch4_views": 0,
-      "total_views": 624
+      "total_views": 626
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 19,
-      "ch2_views": 322,
+      "ch1_views": 17,
+      "ch2_views": 326,
       "ch3_views": 377,
       "ch4_views": 0,
-      "total_views": 718
+      "total_views": 720
     },
     {
       "date": "2026-10-16",
-      "ch1_views": 21,
-      "ch2_views": 330,
-      "ch3_views": 399,
+      "ch1_views": 19,
+      "ch2_views": 334,
+      "ch3_views": 401,
       "ch4_views": 0,
-      "total_views": 750
+      "total_views": 754
     },
     {
       "date": "2026-10-17",
       "ch1_views": 22,
-      "ch2_views": 332,
-      "ch3_views": 405,
+      "ch2_views": 336,
+      "ch3_views": 413,
       "ch4_views": 0,
-      "total_views": 759
+      "total_views": 771
     },
     {
       "date": "2026-10-18",
       "ch1_views": 22,
       "ch2_views": 0,
-      "ch3_views": 405,
+      "ch3_views": 420,
       "ch4_views": 0,
-      "total_views": 427
+      "total_views": 442
     }
   ],
   "channels": {
@@ -193,72 +193,86 @@
       "view_history": [
         {
           "date": "2026-10-08",
-          "views": 5,
-          "uploads": 2,
-          "cumulative_views": 5
+          "views": 2,
+          "uploads": 1,
+          "cumulative_views": 2
         },
         {
           "date": "2026-10-09",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 8
+          "cumulative_views": 5
         },
         {
           "date": "2026-10-10",
-          "views": 2,
+          "views": 3,
           "uploads": 3,
-          "cumulative_views": 10
+          "cumulative_views": 8
         },
         {
           "date": "2026-10-11",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 11
+          "cumulative_views": 9
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 14
+          "cumulative_views": 12
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 13
         },
         {
           "date": "2026-10-14",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-15",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-17",
-          "views": 1,
+          "views": 3,
           "uploads": 3,
           "cumulative_views": 22
         },
         {
           "date": "2026-10-18",
           "views": 0,
-          "uploads": 1,
+          "uploads": 2,
           "cumulative_views": 22
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7666459507488279821",
+          "youtube_id": "HkddvK6vXGs",
+          "title": "Why Is She More Accurate Than Dad? \ud83d\ude02",
+          "tiktok_views": 12900,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/HkddvK6vXGs/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-18T06:56:06Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -308,7 +322,7 @@
           "youtube_id": "OwiEPfDW53Q",
           "title": "She thought nobody was listening to her phone calls\u2026 then the toddler \ud83d\ude02",
           "tiktok_views": 14700,
-          "youtube_views": 1,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/OwiEPfDW53Q/hqdefault.jpg",
@@ -602,7 +616,7 @@
           "youtube_id": "dx6FAT4npYI",
           "title": "Baby Saw the Hunch and Said Same \ud83d\udc80\ud83d\ude2d",
           "tiktok_views": 58700,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dx6FAT4npYI/hqdefault.jpg",
@@ -664,20 +678,6 @@
           "thumbnail": "https://i.ytimg.com/vi/mE0XSH_no08/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-08T08:22:24Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7693890902145715470",
-          "youtube_id": "yhYoebidcRo",
-          "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
-          "tiktok_views": 42500,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/yhYoebidcRo/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-08T07:54:21Z"
         }
       ],
       "runs": [
@@ -898,8 +898,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 95,
-      "total_views": 1096,
+      "total_uploads": 96,
+      "total_views": 1132,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -954,63 +954,63 @@
         },
         {
           "date": "2026-10-08",
-          "views": 22,
+          "views": 23,
           "uploads": 1,
-          "cumulative_views": 157
+          "cumulative_views": 158
         },
         {
           "date": "2026-10-09",
-          "views": 21,
+          "views": 23,
           "uploads": 3,
-          "cumulative_views": 178
+          "cumulative_views": 181
         },
         {
           "date": "2026-10-10",
-          "views": 20,
+          "views": 21,
           "uploads": 3,
-          "cumulative_views": 198
+          "cumulative_views": 202
         },
         {
           "date": "2026-10-11",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 211
+          "cumulative_views": 215
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 211
+          "cumulative_views": 215
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 212
+          "cumulative_views": 216
         },
         {
           "date": "2026-10-14",
           "views": 51,
           "uploads": 3,
-          "cumulative_views": 263
+          "cumulative_views": 267
         },
         {
           "date": "2026-10-15",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 322
+          "cumulative_views": 326
         },
         {
           "date": "2026-10-16",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 330
+          "cumulative_views": 334
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 332
+          "cumulative_views": 336
         }
       ],
       "videos": [
@@ -1245,7 +1245,7 @@
           "youtube_id": "kxIacsu0CAw",
           "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
           "tiktok_views": 118500,
-          "youtube_views": 9,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -1273,7 +1273,7 @@
           "youtube_id": "ca3bS1RBvvc",
           "title": "Creamy Garlic Butter Salmon with Mushroom Sauce \ud83c\udf4b",
           "tiktok_views": 13200,
-          "youtube_views": 4,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ca3bS1RBvvc/hqdefault.jpg",
@@ -1315,7 +1315,7 @@
           "youtube_id": "MD9VcCPCjd0",
           "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
           "tiktok_views": 234700,
-          "youtube_views": 22,
+          "youtube_views": 23,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -1436,6 +1436,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 123,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-10-18",
+          "status": "success",
+          "video_id": "MSUbBpc4whI",
+          "error_message": null,
+          "created_at": "2026-10-18T18:35:02.681481+00:00"
+        },
         {
           "id": 122,
           "channel_id": "channel_2",
@@ -1625,16 +1635,6 @@
           "video_id": "fOzphVK1Abc",
           "error_message": null,
           "created_at": "2026-10-13T21:11:03.772927+00:00"
-        },
-        {
-          "id": 103,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-13",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "Dubbing failed or produced no output for 7695835620928703758. Aborting upload as requested.",
-          "created_at": "2026-10-13T07:35:13.371043+00:00"
         }
       ]
     },
@@ -1654,7 +1654,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 57,
-      "total_views": 136272,
+      "total_views": 136281,
       "total_likes": 3,
       "upcoming": {
         "slot1": {
@@ -1733,21 +1733,21 @@
         },
         {
           "date": "2026-10-16",
-          "views": 22,
+          "views": 24,
           "uploads": 3,
-          "cumulative_views": 399
+          "cumulative_views": 401
         },
         {
           "date": "2026-10-17",
-          "views": 6,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 405
+          "cumulative_views": 413
         },
         {
           "date": "2026-10-18",
-          "views": 0,
+          "views": 7,
           "uploads": 2,
-          "cumulative_views": 405
+          "cumulative_views": 420
         }
       ],
       "videos": [
@@ -1758,7 +1758,7 @@
           "youtube_id": "qwNhsqMH6k4",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qwNhsqMH6k4/hqdefault.jpg",
@@ -1772,7 +1772,7 @@
           "youtube_id": "ML3NvNgF5E0",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ML3NvNgF5E0/hqdefault.jpg",
@@ -1786,7 +1786,7 @@
           "youtube_id": "tcD2rb6qW3o",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tcD2rb6qW3o/hqdefault.jpg",
@@ -1800,7 +1800,7 @@
           "youtube_id": "G7hIsk-KANo",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/G7hIsk-KANo/hqdefault.jpg",
@@ -1814,7 +1814,7 @@
           "youtube_id": "lT1TcL6lgzc",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lT1TcL6lgzc/hqdefault.jpg",
@@ -1828,7 +1828,7 @@
           "youtube_id": "27ynTHWStTE",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/27ynTHWStTE/hqdefault.jpg",
@@ -2969,13 +2969,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7666459507488279821",
+      "youtube_id": "HkddvK6vXGs",
+      "title": "Why Is She More Accurate Than Dad? \ud83d\ude02",
+      "tiktok_views": 12900,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/HkddvK6vXGs/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-18T06:56:06Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1pwISPZ7Z3NOy5XPt48PlnxdWhL6-bzLd",
       "youtube_id": "qwNhsqMH6k4",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qwNhsqMH6k4/hqdefault.jpg",
@@ -3003,7 +3017,7 @@
       "youtube_id": "ML3NvNgF5E0",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ML3NvNgF5E0/hqdefault.jpg",
@@ -3017,7 +3031,7 @@
       "youtube_id": "tcD2rb6qW3o",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tcD2rb6qW3o/hqdefault.jpg",
@@ -3073,7 +3087,7 @@
       "youtube_id": "G7hIsk-KANo",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/G7hIsk-KANo/hqdefault.jpg",
@@ -3087,7 +3101,7 @@
       "youtube_id": "OwiEPfDW53Q",
       "title": "She thought nobody was listening to her phone calls\u2026 then the toddler \ud83d\ude02",
       "tiktok_views": 14700,
-      "youtube_views": 1,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/OwiEPfDW53Q/hqdefault.jpg",
@@ -3101,7 +3115,7 @@
       "youtube_id": "lT1TcL6lgzc",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lT1TcL6lgzc/hqdefault.jpg",
@@ -3115,7 +3129,7 @@
       "youtube_id": "27ynTHWStTE",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/27ynTHWStTE/hqdefault.jpg",
@@ -3927,7 +3941,7 @@
       "youtube_id": "kxIacsu0CAw",
       "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
       "tiktok_views": 118500,
-      "youtube_views": 9,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -3941,7 +3955,7 @@
       "youtube_id": "dx6FAT4npYI",
       "title": "Baby Saw the Hunch and Said Same \ud83d\udc80\ud83d\ude2d",
       "tiktok_views": 58700,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dx6FAT4npYI/hqdefault.jpg",
@@ -4039,7 +4053,7 @@
       "youtube_id": "ca3bS1RBvvc",
       "title": "Creamy Garlic Butter Salmon with Mushroom Sauce \ud83c\udf4b",
       "tiktok_views": 13200,
-      "youtube_views": 4,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ca3bS1RBvvc/hqdefault.jpg",
@@ -4165,7 +4179,7 @@
       "youtube_id": "MD9VcCPCjd0",
       "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
       "tiktok_views": 234700,
-      "youtube_views": 22,
+      "youtube_views": 23,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -4185,20 +4199,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mE0XSH_no08/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-08T08:22:24Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7693890902145715470",
-      "youtube_id": "yhYoebidcRo",
-      "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
-      "tiktok_views": 42500,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/yhYoebidcRo/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-08T07:54:21Z"
     },
     {
       "channel_id": "channel_4",
@@ -4556,72 +4556,86 @@
     "view_history": [
       {
         "date": "2026-10-08",
-        "views": 5,
-        "uploads": 2,
-        "cumulative_views": 5
+        "views": 2,
+        "uploads": 1,
+        "cumulative_views": 2
       },
       {
         "date": "2026-10-09",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 8
+        "cumulative_views": 5
       },
       {
         "date": "2026-10-10",
-        "views": 2,
+        "views": 3,
         "uploads": 3,
-        "cumulative_views": 10
+        "cumulative_views": 8
       },
       {
         "date": "2026-10-11",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 11
+        "cumulative_views": 9
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 14
+        "cumulative_views": 12
       },
       {
         "date": "2026-10-13",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 13
       },
       {
         "date": "2026-10-14",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 15
       },
       {
         "date": "2026-10-15",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 19
+        "cumulative_views": 17
       },
       {
         "date": "2026-10-16",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 19
       },
       {
         "date": "2026-10-17",
-        "views": 1,
+        "views": 3,
         "uploads": 3,
         "cumulative_views": 22
       },
       {
         "date": "2026-10-18",
         "views": 0,
-        "uploads": 1,
+        "uploads": 2,
         "cumulative_views": 22
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7666459507488279821",
+        "youtube_id": "HkddvK6vXGs",
+        "title": "Why Is She More Accurate Than Dad? \ud83d\ude02",
+        "tiktok_views": 12900,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/HkddvK6vXGs/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-18T06:56:06Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4671,7 +4685,7 @@
         "youtube_id": "OwiEPfDW53Q",
         "title": "She thought nobody was listening to her phone calls\u2026 then the toddler \ud83d\ude02",
         "tiktok_views": 14700,
-        "youtube_views": 1,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/OwiEPfDW53Q/hqdefault.jpg",
@@ -4965,7 +4979,7 @@
         "youtube_id": "dx6FAT4npYI",
         "title": "Baby Saw the Hunch and Said Same \ud83d\udc80\ud83d\ude2d",
         "tiktok_views": 58700,
-        "youtube_views": 2,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/dx6FAT4npYI/hqdefault.jpg",
@@ -5027,20 +5041,6 @@
         "thumbnail": "https://i.ytimg.com/vi/mE0XSH_no08/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-08T08:22:24Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7693890902145715470",
-        "youtube_id": "yhYoebidcRo",
-        "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
-        "tiktok_views": 42500,
-        "youtube_views": 3,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/yhYoebidcRo/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-08T07:54:21Z"
       }
     ],
     "runs": [
@@ -5247,8 +5247,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 278,
-    "total_views": 139566,
+    "total_uploads": 279,
+    "total_views": 139611,
     "total_likes": 20,
     "videos_per_day": 12
   },
@@ -5480,5 +5480,5 @@
       "created_at": "2026-10-12T02:35:59.852221+00:00"
     }
   ],
-  "last_updated": "2026-10-18T06:55:55.396790+00:00"
+  "last_updated": "2026-10-18T18:35:07.808145+00:00"
 }
