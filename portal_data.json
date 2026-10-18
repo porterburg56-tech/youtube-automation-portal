@@ -58,91 +58,91 @@
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 2,
+      "ch1_views": 0,
       "ch2_views": 139,
       "ch3_views": 136,
       "ch4_views": 1102,
-      "total_views": 1379
+      "total_views": 1377
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 5,
+      "ch1_views": 3,
       "ch2_views": 162,
       "ch3_views": 163,
       "ch4_views": 1333,
-      "total_views": 1663
+      "total_views": 1661
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 8,
+      "ch1_views": 6,
       "ch2_views": 183,
       "ch3_views": 218,
       "ch4_views": 1505,
-      "total_views": 1914
+      "total_views": 1912
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 9,
+      "ch1_views": 7,
       "ch2_views": 196,
       "ch3_views": 294,
       "ch4_views": 1566,
-      "total_views": 2065
+      "total_views": 2063
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 12,
+      "ch1_views": 10,
       "ch2_views": 196,
       "ch3_views": 308,
       "ch4_views": 0,
-      "total_views": 516
+      "total_views": 514
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 13,
+      "ch1_views": 11,
       "ch2_views": 197,
       "ch3_views": 315,
       "ch4_views": 0,
-      "total_views": 525
+      "total_views": 523
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 15,
+      "ch1_views": 13,
       "ch2_views": 248,
       "ch3_views": 344,
       "ch4_views": 0,
-      "total_views": 607
+      "total_views": 605
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 17,
+      "ch1_views": 15,
       "ch2_views": 307,
       "ch3_views": 377,
       "ch4_views": 0,
-      "total_views": 701
+      "total_views": 699
     },
     {
       "date": "2026-10-16",
-      "ch1_views": 19,
+      "ch1_views": 17,
       "ch2_views": 315,
       "ch3_views": 401,
       "ch4_views": 0,
-      "total_views": 735
+      "total_views": 733
     },
     {
       "date": "2026-10-17",
-      "ch1_views": 22,
+      "ch1_views": 20,
       "ch2_views": 317,
       "ch3_views": 413,
       "ch4_views": 0,
-      "total_views": 752
+      "total_views": 750
     },
     {
       "date": "2026-10-18",
-      "ch1_views": 22,
+      "ch1_views": 20,
       "ch2_views": 317,
       "ch3_views": 420,
       "ch4_views": 0,
-      "total_views": 759
+      "total_views": 757
     }
   ],
   "channels": {
@@ -192,73 +192,81 @@
       },
       "view_history": [
         {
-          "date": "2026-10-08",
-          "views": 2,
-          "uploads": 1,
-          "cumulative_views": 2
-        },
-        {
           "date": "2026-10-09",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 5
+          "cumulative_views": 3
         },
         {
           "date": "2026-10-10",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 8
+          "cumulative_views": 6
         },
         {
           "date": "2026-10-11",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 9
+          "cumulative_views": 7
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 12
+          "cumulative_views": 10
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 11
         },
         {
           "date": "2026-10-14",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 13
         },
         {
           "date": "2026-10-15",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-17",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-18",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 22
+          "uploads": 3,
+          "cumulative_views": 20
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7698049650502257951",
+          "youtube_id": "J8IzPmD6AhA",
+          "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
+          "tiktok_views": 10100,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/J8IzPmD6AhA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-18T19:23:22Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -664,20 +672,6 @@
           "thumbnail": "https://i.ytimg.com/vi/_XFa5DxfmXg/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-09T03:03:39Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7693215143752158478",
-          "youtube_id": "mE0XSH_no08",
-          "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
-          "tiktok_views": 995200,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/mE0XSH_no08/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-08T08:22:24Z"
         }
       ],
       "runs": [
@@ -2174,6 +2168,16 @@
       ],
       "runs": [
         {
+          "id": 81,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-18",
+          "status": "success",
+          "video_id": "moK2d4nf0kI",
+          "error_message": null,
+          "created_at": "2026-10-18T19:25:41.821045+00:00"
+        },
+        {
           "id": 80,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2362,16 +2366,6 @@
           "video_id": "rFdowK81gWE",
           "error_message": null,
           "created_at": "2026-10-12T07:19:49.982167+00:00"
-        },
-        {
-          "id": 61,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-12",
-          "status": "success",
-          "video_id": "ETadO-617ig",
-          "error_message": null,
-          "created_at": "2026-10-12T01:20:49.815429+00:00"
         }
       ]
     },
@@ -2968,6 +2962,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7698049650502257951",
+      "youtube_id": "J8IzPmD6AhA",
+      "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
+      "tiktok_views": 10100,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/J8IzPmD6AhA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-18T19:23:22Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4201,20 +4209,6 @@
       "uploaded_at": "2026-10-08T21:08:02Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7693215143752158478",
-      "youtube_id": "mE0XSH_no08",
-      "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
-      "tiktok_views": 995200,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/mE0XSH_no08/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-08T08:22:24Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1va9ZgwWc4OEwoc9Jyy5lj_2o1tYGWJf2",
@@ -4555,73 +4549,81 @@
     },
     "view_history": [
       {
-        "date": "2026-10-08",
-        "views": 2,
-        "uploads": 1,
-        "cumulative_views": 2
-      },
-      {
         "date": "2026-10-09",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 5
+        "cumulative_views": 3
       },
       {
         "date": "2026-10-10",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 8
+        "cumulative_views": 6
       },
       {
         "date": "2026-10-11",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 9
+        "cumulative_views": 7
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 12
+        "cumulative_views": 10
       },
       {
         "date": "2026-10-13",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 11
       },
       {
         "date": "2026-10-14",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 13
       },
       {
         "date": "2026-10-15",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 15
       },
       {
         "date": "2026-10-16",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 19
+        "cumulative_views": 17
       },
       {
         "date": "2026-10-17",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 20
       },
       {
         "date": "2026-10-18",
         "views": 0,
-        "uploads": 2,
-        "cumulative_views": 22
+        "uploads": 3,
+        "cumulative_views": 20
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7698049650502257951",
+        "youtube_id": "J8IzPmD6AhA",
+        "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
+        "tiktok_views": 10100,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/J8IzPmD6AhA/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-18T19:23:22Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5027,20 +5029,6 @@
         "thumbnail": "https://i.ytimg.com/vi/_XFa5DxfmXg/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-09T03:03:39Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7693215143752158478",
-        "youtube_id": "mE0XSH_no08",
-        "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
-        "tiktok_views": 995200,
-        "youtube_views": 2,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/mE0XSH_no08/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-08T08:22:24Z"
       }
     ],
     "runs": [
@@ -5480,5 +5468,5 @@
       "created_at": "2026-10-12T08:30:13.209335+00:00"
     }
   ],
-  "last_updated": "2026-10-18T19:23:10.769126+00:00"
+  "last_updated": "2026-10-18T19:25:45.844772+00:00"
 }
