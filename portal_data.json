@@ -1437,6 +1437,36 @@
       ],
       "runs": [
         {
+          "id": 122,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-18",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "Dubbing exception for 7650572669154348301: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmpi8pt5p9x/retimed_video_only.mp4', '-i', '/tmp/tmpi8pt5p9x/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7650572669154348301_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
+          "created_at": "2026-10-18T06:26:01.272105+00:00"
+        },
+        {
+          "id": 121,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-18",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "Dubbing exception for 7650572669154348301: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmpn3vpugww/retimed_video_only.mp4', '-i', '/tmp/tmpn3vpugww/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7650572669154348301_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
+          "created_at": "2026-10-18T06:05:14.490750+00:00"
+        },
+        {
+          "id": 120,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-18",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "Dubbing exception for 7650572669154348301: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmp0wokt8le/retimed_video_only.mp4', '-i', '/tmp/tmp0wokt8le/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7650572669154348301_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
+          "created_at": "2026-10-18T05:44:27.054005+00:00"
+        },
+        {
           "id": 119,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1605,36 +1635,6 @@
           "video_id": null,
           "error_message": "Dubbing failed or produced no output for 7695835620928703758. Aborting upload as requested.",
           "created_at": "2026-10-13T07:35:13.371043+00:00"
-        },
-        {
-          "id": 102,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-13",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "Dubbing failed or produced no output for 7695835620928703758. Aborting upload as requested.",
-          "created_at": "2026-10-13T07:30:12.255017+00:00"
-        },
-        {
-          "id": 101,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-13",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "Dubbing failed or produced no output for 7695835620928703758. Aborting upload as requested.",
-          "created_at": "2026-10-13T07:25:11.396619+00:00"
-        },
-        {
-          "id": 100,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-13",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "Dubbing failed or produced no output for 7695835620928703758. Aborting upload as requested.",
-          "created_at": "2026-10-13T02:58:56.016418+00:00"
         }
       ]
     },
@@ -5480,5 +5480,5 @@
       "created_at": "2026-10-11T20:53:43.211057+00:00"
     }
   ],
-  "last_updated": "2026-10-18T06:08:12.215191+00:00"
+  "last_updated": "2026-10-18T06:26:05.419390+00:00"
 }
