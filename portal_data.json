@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 276,
     "total_views": 139566,
-    "total_likes": 21,
+    "total_likes": 20,
     "total_subscribers": 86,
     "channels_count": 4,
     "videos_per_day": 12
@@ -50,99 +50,99 @@
     },
     {
       "date": "2026-10-01",
-      "ch1_views": 4,
+      "ch1_views": 0,
       "ch2_views": 135,
       "ch3_views": 22,
       "ch4_views": 1056,
-      "total_views": 1217
+      "total_views": 1213
     },
     {
       "date": "2026-10-08",
-      "ch1_views": 9,
+      "ch1_views": 5,
       "ch2_views": 157,
       "ch3_views": 158,
       "ch4_views": 1102,
-      "total_views": 1426
+      "total_views": 1422
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 12,
+      "ch1_views": 8,
       "ch2_views": 178,
       "ch3_views": 185,
       "ch4_views": 1333,
-      "total_views": 1708
+      "total_views": 1704
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 14,
+      "ch1_views": 10,
       "ch2_views": 198,
       "ch3_views": 240,
       "ch4_views": 1505,
-      "total_views": 1957
+      "total_views": 1953
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 15,
+      "ch1_views": 11,
       "ch2_views": 211,
       "ch3_views": 316,
       "ch4_views": 1566,
-      "total_views": 2108
+      "total_views": 2104
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 18,
+      "ch1_views": 14,
       "ch2_views": 211,
       "ch3_views": 330,
       "ch4_views": 0,
-      "total_views": 559
+      "total_views": 555
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 19,
+      "ch1_views": 15,
       "ch2_views": 212,
       "ch3_views": 337,
       "ch4_views": 0,
-      "total_views": 568
+      "total_views": 564
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 21,
+      "ch1_views": 17,
       "ch2_views": 263,
       "ch3_views": 366,
       "ch4_views": 0,
-      "total_views": 650
+      "total_views": 646
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 23,
+      "ch1_views": 19,
       "ch2_views": 322,
       "ch3_views": 399,
       "ch4_views": 0,
-      "total_views": 744
+      "total_views": 740
     },
     {
       "date": "2026-10-16",
-      "ch1_views": 25,
+      "ch1_views": 21,
       "ch2_views": 330,
       "ch3_views": 421,
       "ch4_views": 0,
-      "total_views": 776
+      "total_views": 772
     },
     {
       "date": "2026-10-17",
-      "ch1_views": 25,
+      "ch1_views": 22,
       "ch2_views": 332,
       "ch3_views": 427,
       "ch4_views": 0,
-      "total_views": 784
+      "total_views": 781
     },
     {
       "date": "2026-10-18",
-      "ch1_views": 0,
+      "ch1_views": 22,
       "ch2_views": 0,
       "ch3_views": 427,
       "ch4_views": 0,
-      "total_views": 427
+      "total_views": 449
     }
   ],
   "channels": {
@@ -163,7 +163,7 @@
       "subscribers": 0,
       "total_uploads": 105,
       "total_views": 632,
-      "total_likes": 1,
+      "total_likes": 0,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -192,73 +192,87 @@
       },
       "view_history": [
         {
-          "date": "2026-10-01",
-          "views": 4,
-          "uploads": 1,
-          "cumulative_views": 4
-        },
-        {
           "date": "2026-10-08",
           "views": 5,
           "uploads": 2,
-          "cumulative_views": 9
+          "cumulative_views": 5
         },
         {
           "date": "2026-10-09",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 12
+          "cumulative_views": 8
         },
         {
           "date": "2026-10-10",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 14
+          "cumulative_views": 10
         },
         {
           "date": "2026-10-11",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 11
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 18
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-14",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-15",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 23
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 25
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-17",
-          "views": 0,
+          "views": 1,
           "uploads": 3,
-          "cumulative_views": 25
+          "cumulative_views": 22
+        },
+        {
+          "date": "2026-10-18",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 22
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7667222414182419726",
+          "youtube_id": "bJ-DcOXU-lw",
+          "title": "The Way She Dropped the Work Bag \ud83d\ude2d\ud83d\ude02",
+          "tiktok_views": 13600,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/bJ-DcOXU-lw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-18T01:24:53Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -294,7 +308,7 @@
           "youtube_id": "OwiEPfDW53Q",
           "title": "She thought nobody was listening to her phone calls\u2026 then the toddler \ud83d\ude02",
           "tiktok_views": 14700,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/OwiEPfDW53Q/hqdefault.jpg",
@@ -664,20 +678,6 @@
           "thumbnail": "https://i.ytimg.com/vi/yhYoebidcRo/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-08T07:54:21Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7675388961170230541",
-          "youtube_id": "qKTgOZbR2oM",
-          "title": "He watched Grandpa walk once\u2026 and apparently became a professional Gr \ud83d\ude02",
-          "tiktok_views": 24200,
-          "youtube_views": 4,
-          "youtube_likes": 1,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/qKTgOZbR2oM/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-01T02:10:37Z"
         }
       ],
       "runs": [
@@ -2180,6 +2180,16 @@
       ],
       "runs": [
         {
+          "id": 80,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-18",
+          "status": "success",
+          "video_id": "qwNhsqMH6k4",
+          "error_message": null,
+          "created_at": "2026-10-18T05:52:30.570424+00:00"
+        },
+        {
           "id": 79,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2368,16 +2378,6 @@
           "video_id": "ETadO-617ig",
           "error_message": null,
           "created_at": "2026-10-12T01:20:49.815429+00:00"
-        },
-        {
-          "id": 60,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-11",
-          "status": "success",
-          "video_id": "_zVtCB5Fy5o",
-          "error_message": null,
-          "created_at": "2026-10-11T20:58:17.986724+00:00"
         }
       ]
     },
@@ -2975,6 +2975,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7667222414182419726",
+      "youtube_id": "bJ-DcOXU-lw",
+      "title": "The Way She Dropped the Work Bag \ud83d\ude2d\ud83d\ude02",
+      "tiktok_views": 13600,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/bJ-DcOXU-lw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-18T01:24:53Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1eo7PRfUwIOn8vPUBY5eTRyQcwaR3crWz",
@@ -3065,7 +3079,7 @@
       "youtube_id": "OwiEPfDW53Q",
       "title": "She thought nobody was listening to her phone calls\u2026 then the toddler \ud83d\ude02",
       "tiktok_views": 14700,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/OwiEPfDW53Q/hqdefault.jpg",
@@ -4221,20 +4235,6 @@
       "uploaded_at": "2026-10-08T07:48:28Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7675388961170230541",
-      "youtube_id": "qKTgOZbR2oM",
-      "title": "He watched Grandpa walk once\u2026 and apparently became a professional Gr \ud83d\ude02",
-      "tiktok_views": 24200,
-      "youtube_views": 4,
-      "youtube_likes": 1,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/qKTgOZbR2oM/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-01T02:10:37Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1VCoYqbhIV7A6aBo12URbBtDhQZXjBYR5",
@@ -4532,7 +4532,7 @@
     "subscribers": 0,
     "total_uploads": 105,
     "total_views": 632,
-    "total_likes": 1,
+    "total_likes": 0,
     "upcoming": {
       "slot1": {
         "slot": 1,
@@ -4561,73 +4561,87 @@
     },
     "view_history": [
       {
-        "date": "2026-10-01",
-        "views": 4,
-        "uploads": 1,
-        "cumulative_views": 4
-      },
-      {
         "date": "2026-10-08",
         "views": 5,
         "uploads": 2,
-        "cumulative_views": 9
+        "cumulative_views": 5
       },
       {
         "date": "2026-10-09",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 12
+        "cumulative_views": 8
       },
       {
         "date": "2026-10-10",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 14
+        "cumulative_views": 10
       },
       {
         "date": "2026-10-11",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 11
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 18
+        "cumulative_views": 14
       },
       {
         "date": "2026-10-13",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 19
+        "cumulative_views": 15
       },
       {
         "date": "2026-10-14",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 17
       },
       {
         "date": "2026-10-15",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 23
+        "cumulative_views": 19
       },
       {
         "date": "2026-10-16",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 25
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-17",
-        "views": 0,
+        "views": 1,
         "uploads": 3,
-        "cumulative_views": 25
+        "cumulative_views": 22
+      },
+      {
+        "date": "2026-10-18",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 22
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7667222414182419726",
+        "youtube_id": "bJ-DcOXU-lw",
+        "title": "The Way She Dropped the Work Bag \ud83d\ude2d\ud83d\ude02",
+        "tiktok_views": 13600,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/bJ-DcOXU-lw/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-18T01:24:53Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4663,7 +4677,7 @@
         "youtube_id": "OwiEPfDW53Q",
         "title": "She thought nobody was listening to her phone calls\u2026 then the toddler \ud83d\ude02",
         "tiktok_views": 14700,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/OwiEPfDW53Q/hqdefault.jpg",
@@ -5033,20 +5047,6 @@
         "thumbnail": "https://i.ytimg.com/vi/yhYoebidcRo/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-08T07:54:21Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7675388961170230541",
-        "youtube_id": "qKTgOZbR2oM",
-        "title": "He watched Grandpa walk once\u2026 and apparently became a professional Gr \ud83d\ude02",
-        "tiktok_views": 24200,
-        "youtube_views": 4,
-        "youtube_likes": 1,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/qKTgOZbR2oM/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-01T02:10:37Z"
       }
     ],
     "runs": [
@@ -5255,7 +5255,7 @@
   "kpis": {
     "total_uploads": 276,
     "total_views": 139566,
-    "total_likes": 21,
+    "total_likes": 20,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5486,5 +5486,5 @@
       "created_at": "2026-10-11T20:53:43.211057+00:00"
     }
   ],
-  "last_updated": "2026-10-18T01:24:37.129894+00:00"
+  "last_updated": "2026-10-18T05:52:34.836006+00:00"
 }
