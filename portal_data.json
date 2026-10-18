@@ -59,82 +59,82 @@
     {
       "date": "2026-10-08",
       "ch1_views": 9,
-      "ch2_views": 155,
+      "ch2_views": 157,
       "ch3_views": 198,
       "ch4_views": 1102,
-      "total_views": 1464
+      "total_views": 1466
     },
     {
       "date": "2026-10-09",
       "ch1_views": 11,
-      "ch2_views": 176,
+      "ch2_views": 178,
       "ch3_views": 225,
       "ch4_views": 1333,
-      "total_views": 1745
+      "total_views": 1747
     },
     {
       "date": "2026-10-10",
       "ch1_views": 13,
-      "ch2_views": 196,
+      "ch2_views": 198,
       "ch3_views": 280,
       "ch4_views": 1505,
-      "total_views": 1994
+      "total_views": 1996
     },
     {
       "date": "2026-10-11",
       "ch1_views": 14,
-      "ch2_views": 209,
+      "ch2_views": 211,
       "ch3_views": 356,
       "ch4_views": 1566,
-      "total_views": 2145
+      "total_views": 2147
     },
     {
       "date": "2026-10-12",
       "ch1_views": 17,
-      "ch2_views": 209,
+      "ch2_views": 211,
       "ch3_views": 370,
       "ch4_views": 0,
-      "total_views": 596
+      "total_views": 598
     },
     {
       "date": "2026-10-13",
       "ch1_views": 18,
-      "ch2_views": 210,
+      "ch2_views": 212,
       "ch3_views": 377,
       "ch4_views": 0,
-      "total_views": 605
+      "total_views": 607
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 18,
-      "ch2_views": 261,
+      "ch1_views": 20,
+      "ch2_views": 263,
       "ch3_views": 406,
       "ch4_views": 0,
-      "total_views": 685
+      "total_views": 689
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 18,
-      "ch2_views": 320,
+      "ch1_views": 22,
+      "ch2_views": 322,
       "ch3_views": 439,
       "ch4_views": 0,
-      "total_views": 777
+      "total_views": 783
     },
     {
       "date": "2026-10-16",
-      "ch1_views": 20,
-      "ch2_views": 328,
-      "ch3_views": 460,
+      "ch1_views": 24,
+      "ch2_views": 330,
+      "ch3_views": 461,
       "ch4_views": 0,
-      "total_views": 808
+      "total_views": 815
     },
     {
       "date": "2026-10-17",
-      "ch1_views": 20,
-      "ch2_views": 328,
-      "ch3_views": 461,
+      "ch1_views": 24,
+      "ch2_views": 331,
+      "ch3_views": 467,
       "ch4_views": 0,
-      "total_views": 809
+      "total_views": 822
     }
   ],
   "channels": {
@@ -227,27 +227,27 @@
         },
         {
           "date": "2026-10-14",
-          "views": 0,
-          "uploads": 3,
-          "cumulative_views": 18
-        },
-        {
-          "date": "2026-10-15",
-          "views": 0,
-          "uploads": 3,
-          "cumulative_views": 18
-        },
-        {
-          "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
           "cumulative_views": 20
         },
         {
+          "date": "2026-10-15",
+          "views": 2,
+          "uploads": 3,
+          "cumulative_views": 22
+        },
+        {
+          "date": "2026-10-16",
+          "views": 2,
+          "uploads": 3,
+          "cumulative_views": 24
+        },
+        {
           "date": "2026-10-17",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 24
         }
       ],
       "videos": [
@@ -370,7 +370,7 @@
           "youtube_id": "CNnAHdSQYAA",
           "title": "We watched this five times and still laughed. \ud83e\udd23",
           "tiktok_views": 15900,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CNnAHdSQYAA/hqdefault.jpg",
@@ -384,7 +384,7 @@
           "youtube_id": "V-dLT3m2YJM",
           "title": "The Toddler Saw Grandpa\u2019s Move and Said, \u201cMy Turn!\u201d \ud83d\ude02\ud83e\udd2f",
           "tiktok_views": 22000,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/V-dLT3m2YJM/hqdefault.jpg",
@@ -946,63 +946,63 @@
         },
         {
           "date": "2026-10-08",
-          "views": 20,
+          "views": 22,
           "uploads": 1,
-          "cumulative_views": 155
+          "cumulative_views": 157
         },
         {
           "date": "2026-10-09",
           "views": 21,
           "uploads": 3,
-          "cumulative_views": 176
+          "cumulative_views": 178
         },
         {
           "date": "2026-10-10",
           "views": 20,
           "uploads": 3,
-          "cumulative_views": 196
+          "cumulative_views": 198
         },
         {
           "date": "2026-10-11",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 209
+          "cumulative_views": 211
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 209
+          "cumulative_views": 211
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 210
+          "cumulative_views": 212
         },
         {
           "date": "2026-10-14",
           "views": 51,
           "uploads": 3,
-          "cumulative_views": 261
+          "cumulative_views": 263
         },
         {
           "date": "2026-10-15",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 320
+          "cumulative_views": 322
         },
         {
           "date": "2026-10-16",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 328
+          "cumulative_views": 330
         },
         {
           "date": "2026-10-17",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 328
+          "cumulative_views": 331
         }
       ],
       "videos": [
@@ -1013,7 +1013,7 @@
           "youtube_id": "U127bm3H1rs",
           "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
           "tiktok_views": 2043,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -1307,7 +1307,7 @@
           "youtube_id": "MD9VcCPCjd0",
           "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
           "tiktok_views": 234700,
-          "youtube_views": 20,
+          "youtube_views": 22,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -1737,15 +1737,15 @@
         },
         {
           "date": "2026-10-16",
-          "views": 21,
+          "views": 22,
           "uploads": 3,
-          "cumulative_views": 460
+          "cumulative_views": 461
         },
         {
           "date": "2026-10-17",
-          "views": 1,
+          "views": 6,
           "uploads": 3,
-          "cumulative_views": 461
+          "cumulative_views": 467
         }
       ],
       "videos": [
@@ -1756,7 +1756,7 @@
           "youtube_id": "tcD2rb6qW3o",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tcD2rb6qW3o/hqdefault.jpg",
@@ -1770,7 +1770,7 @@
           "youtube_id": "G7hIsk-KANo",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/G7hIsk-KANo/hqdefault.jpg",
@@ -1798,7 +1798,7 @@
           "youtube_id": "27ynTHWStTE",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/27ynTHWStTE/hqdefault.jpg",
@@ -2172,6 +2172,16 @@
       ],
       "runs": [
         {
+          "id": 79,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-10-18",
+          "status": "success",
+          "video_id": "ML3NvNgF5E0",
+          "error_message": null,
+          "created_at": "2026-10-18T00:04:07.488935+00:00"
+        },
+        {
           "id": 78,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2360,16 +2370,6 @@
           "video_id": "_zVtCB5Fy5o",
           "error_message": null,
           "created_at": "2026-10-11T20:58:17.986724+00:00"
-        },
-        {
-          "id": 59,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-11",
-          "status": "success",
-          "video_id": "ei5AX54nPqk",
-          "error_message": null,
-          "created_at": "2026-10-11T07:09:53.176160+00:00"
         }
       ]
     },
@@ -2973,7 +2973,7 @@
       "youtube_id": "tcD2rb6qW3o",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tcD2rb6qW3o/hqdefault.jpg",
@@ -3001,7 +3001,7 @@
       "youtube_id": "U127bm3H1rs",
       "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
       "tiktok_views": 2043,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -3029,7 +3029,7 @@
       "youtube_id": "G7hIsk-KANo",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/G7hIsk-KANo/hqdefault.jpg",
@@ -3071,7 +3071,7 @@
       "youtube_id": "27ynTHWStTE",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/27ynTHWStTE/hqdefault.jpg",
@@ -3281,7 +3281,7 @@
       "youtube_id": "CNnAHdSQYAA",
       "title": "We watched this five times and still laughed. \ud83e\udd23",
       "tiktok_views": 15900,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CNnAHdSQYAA/hqdefault.jpg",
@@ -3337,7 +3337,7 @@
       "youtube_id": "V-dLT3m2YJM",
       "title": "The Toddler Saw Grandpa\u2019s Move and Said, \u201cMy Turn!\u201d \ud83d\ude02\ud83e\udd2f",
       "tiktok_views": 22000,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/V-dLT3m2YJM/hqdefault.jpg",
@@ -4121,7 +4121,7 @@
       "youtube_id": "MD9VcCPCjd0",
       "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
       "tiktok_views": 234700,
-      "youtube_views": 20,
+      "youtube_views": 22,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -4596,27 +4596,27 @@
       },
       {
         "date": "2026-10-14",
-        "views": 0,
-        "uploads": 3,
-        "cumulative_views": 18
-      },
-      {
-        "date": "2026-10-15",
-        "views": 0,
-        "uploads": 3,
-        "cumulative_views": 18
-      },
-      {
-        "date": "2026-10-16",
         "views": 2,
         "uploads": 3,
         "cumulative_views": 20
       },
       {
+        "date": "2026-10-15",
+        "views": 2,
+        "uploads": 3,
+        "cumulative_views": 22
+      },
+      {
+        "date": "2026-10-16",
+        "views": 2,
+        "uploads": 3,
+        "cumulative_views": 24
+      },
+      {
         "date": "2026-10-17",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 24
       }
     ],
     "videos": [
@@ -4739,7 +4739,7 @@
         "youtube_id": "CNnAHdSQYAA",
         "title": "We watched this five times and still laughed. \ud83e\udd23",
         "tiktok_views": 15900,
-        "youtube_views": 0,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/CNnAHdSQYAA/hqdefault.jpg",
@@ -4753,7 +4753,7 @@
         "youtube_id": "V-dLT3m2YJM",
         "title": "The Toddler Saw Grandpa\u2019s Move and Said, \u201cMy Turn!\u201d \ud83d\ude02\ud83e\udd2f",
         "tiktok_views": 22000,
-        "youtube_views": 0,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/V-dLT3m2YJM/hqdefault.jpg",
@@ -5478,5 +5478,5 @@
       "created_at": "2026-10-11T08:13:59.669384+00:00"
     }
   ],
-  "last_updated": "2026-10-17T19:38:29.897622+00:00"
+  "last_updated": "2026-10-18T00:04:12.159809+00:00"
 }
