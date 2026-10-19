@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 284,
-    "total_views": 139630,
+    "total_views": 139647,
     "total_likes": 18,
     "total_subscribers": 86,
     "channels_count": 4,
@@ -35,122 +35,122 @@
     {
       "date": "2026-09-29",
       "ch1_views": 0,
-      "ch2_views": 42,
+      "ch2_views": 24,
       "ch3_views": 0,
       "ch4_views": 636,
-      "total_views": 678
+      "total_views": 660
     },
     {
       "date": "2026-09-30",
       "ch1_views": 0,
-      "ch2_views": 107,
+      "ch2_views": 89,
       "ch3_views": 0,
       "ch4_views": 842,
-      "total_views": 949
+      "total_views": 931
     },
     {
       "date": "2026-10-01",
       "ch1_views": 0,
-      "ch2_views": 116,
+      "ch2_views": 98,
       "ch3_views": 0,
       "ch4_views": 1056,
-      "total_views": 1172
+      "total_views": 1154
     },
     {
       "date": "2026-10-08",
       "ch1_views": 0,
-      "ch2_views": 139,
+      "ch2_views": 121,
       "ch3_views": 0,
       "ch4_views": 1102,
-      "total_views": 1241
+      "total_views": 1223
     },
     {
       "date": "2026-10-09",
       "ch1_views": 3,
-      "ch2_views": 162,
+      "ch2_views": 144,
       "ch3_views": 18,
       "ch4_views": 1333,
-      "total_views": 1516
+      "total_views": 1498
     },
     {
       "date": "2026-10-10",
       "ch1_views": 6,
-      "ch2_views": 187,
+      "ch2_views": 169,
       "ch3_views": 73,
       "ch4_views": 1505,
-      "total_views": 1771
+      "total_views": 1753
     },
     {
       "date": "2026-10-11",
       "ch1_views": 7,
-      "ch2_views": 200,
+      "ch2_views": 182,
       "ch3_views": 149,
       "ch4_views": 1566,
-      "total_views": 1922
+      "total_views": 1904
     },
     {
       "date": "2026-10-12",
       "ch1_views": 10,
-      "ch2_views": 200,
+      "ch2_views": 182,
       "ch3_views": 163,
       "ch4_views": 0,
-      "total_views": 373
+      "total_views": 355
     },
     {
       "date": "2026-10-13",
       "ch1_views": 11,
-      "ch2_views": 201,
+      "ch2_views": 183,
       "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 382
+      "total_views": 364
     },
     {
       "date": "2026-10-14",
       "ch1_views": 13,
-      "ch2_views": 252,
+      "ch2_views": 234,
       "ch3_views": 199,
       "ch4_views": 0,
-      "total_views": 464
+      "total_views": 446
     },
     {
       "date": "2026-10-15",
       "ch1_views": 15,
-      "ch2_views": 311,
+      "ch2_views": 293,
       "ch3_views": 232,
       "ch4_views": 0,
-      "total_views": 558
+      "total_views": 540
     },
     {
       "date": "2026-10-16",
       "ch1_views": 17,
-      "ch2_views": 319,
+      "ch2_views": 301,
       "ch3_views": 256,
       "ch4_views": 0,
-      "total_views": 592
+      "total_views": 574
     },
     {
       "date": "2026-10-17",
       "ch1_views": 20,
-      "ch2_views": 321,
+      "ch2_views": 303,
       "ch3_views": 268,
       "ch4_views": 0,
-      "total_views": 609
+      "total_views": 591
     },
     {
       "date": "2026-10-18",
       "ch1_views": 22,
-      "ch2_views": 324,
+      "ch2_views": 306,
       "ch3_views": 277,
       "ch4_views": 0,
-      "total_views": 623
+      "total_views": 605
     },
     {
       "date": "2026-10-19",
       "ch1_views": 23,
-      "ch2_views": 0,
-      "ch3_views": 283,
+      "ch2_views": 306,
+      "ch3_views": 284,
       "ch4_views": 0,
-      "total_views": 306
+      "total_views": 613
     }
   ],
   "channels": {
@@ -938,90 +938,110 @@
       "view_history": [
         {
           "date": "2026-09-29",
-          "views": 42,
-          "uploads": 3,
-          "cumulative_views": 42
+          "views": 24,
+          "uploads": 2,
+          "cumulative_views": 24
         },
         {
           "date": "2026-09-30",
           "views": 65,
           "uploads": 3,
-          "cumulative_views": 107
+          "cumulative_views": 89
         },
         {
           "date": "2026-10-01",
           "views": 9,
           "uploads": 1,
-          "cumulative_views": 116
+          "cumulative_views": 98
         },
         {
           "date": "2026-10-08",
           "views": 23,
           "uploads": 1,
-          "cumulative_views": 139
+          "cumulative_views": 121
         },
         {
           "date": "2026-10-09",
           "views": 23,
           "uploads": 3,
-          "cumulative_views": 162
+          "cumulative_views": 144
         },
         {
           "date": "2026-10-10",
           "views": 25,
           "uploads": 3,
-          "cumulative_views": 187
+          "cumulative_views": 169
         },
         {
           "date": "2026-10-11",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 200
+          "cumulative_views": 182
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 200
+          "cumulative_views": 182
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 201
+          "cumulative_views": 183
         },
         {
           "date": "2026-10-14",
           "views": 51,
           "uploads": 3,
-          "cumulative_views": 252
+          "cumulative_views": 234
         },
         {
           "date": "2026-10-15",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 311
+          "cumulative_views": 293
         },
         {
           "date": "2026-10-16",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 319
+          "cumulative_views": 301
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 321
+          "cumulative_views": 303
         },
         {
           "date": "2026-10-18",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 324
+          "cumulative_views": 306
+        },
+        {
+          "date": "2026-10-19",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 306
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7650572669154348301",
+          "youtube_id": "2iMxW-fAkPQ",
+          "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
+          "tiktok_views": 20200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-19T05:54:29Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1427,20 +1447,6 @@
           "thumbnail": "https://i.ytimg.com/vi/K12i9Nrqekg/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-29T16:26:12Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7644354241556925709",
-          "youtube_id": "c9JzQwKOhtc",
-          "title": "Homemade Farmer\u2019s Cheese the Old Polish Way \u2728",
-          "tiktok_views": 42600,
-          "youtube_views": 18,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/c9JzQwKOhtc/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-29T01:16:59Z"
         }
       ],
       "runs": [
@@ -1662,7 +1668,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 59,
-      "total_views": 136281,
+      "total_views": 136298,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -1753,9 +1759,9 @@
         },
         {
           "date": "2026-10-19",
-          "views": 6,
+          "views": 7,
           "uploads": 1,
-          "cumulative_views": 283
+          "cumulative_views": 284
         }
       ],
       "videos": [
@@ -1766,7 +1772,7 @@
           "youtube_id": "1U-cjk22cW8",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/1U-cjk22cW8/hqdefault.jpg",
@@ -2182,6 +2188,16 @@
       ],
       "runs": [
         {
+          "id": 83,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-19",
+          "status": "success",
+          "video_id": "EjHxmcf2Tsk",
+          "error_message": null,
+          "created_at": "2026-10-19T06:10:21.845247+00:00"
+        },
+        {
           "id": 82,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2370,16 +2386,6 @@
           "video_id": "6OYe6bcwdhk",
           "error_message": null,
           "created_at": "2026-10-13T03:03:59.527503+00:00"
-        },
-        {
-          "id": 63,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-12",
-          "status": "success",
-          "video_id": "9eK7aXl3-QQ",
-          "error_message": null,
-          "created_at": "2026-10-12T23:37:35.117649+00:00"
         }
       ]
     },
@@ -2977,6 +2983,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7650572669154348301",
+      "youtube_id": "2iMxW-fAkPQ",
+      "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
+      "tiktok_views": 20200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-19T05:54:29Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7674647839951064334",
@@ -2997,7 +3017,7 @@
       "youtube_id": "1U-cjk22cW8",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/1U-cjk22cW8/hqdefault.jpg",
@@ -4447,20 +4467,6 @@
       "uploaded_at": "2026-09-29T01:36:09Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7644354241556925709",
-      "youtube_id": "c9JzQwKOhtc",
-      "title": "Homemade Farmer\u2019s Cheese the Old Polish Way \u2728",
-      "tiktok_views": 42600,
-      "youtube_views": 18,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/c9JzQwKOhtc/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-29T01:16:59Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1rBMyziyFDHSlSX-j3utpImBUGkyKCq7V",
@@ -5256,7 +5262,7 @@
   },
   "kpis": {
     "total_uploads": 284,
-    "total_views": 139630,
+    "total_views": 139647,
     "total_likes": 18,
     "videos_per_day": 12
   },
@@ -5488,5 +5494,5 @@
       "created_at": "2026-10-12T23:35:15.479956+00:00"
     }
   ],
-  "last_updated": "2026-10-19T05:53:44.478566+00:00"
+  "last_updated": "2026-10-19T06:10:26.755099+00:00"
 }
