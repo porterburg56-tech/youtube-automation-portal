@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 283,
-    "total_views": 139617,
+    "total_uploads": 284,
+    "total_views": 139630,
     "total_likes": 18,
     "total_subscribers": 86,
     "channels_count": 4,
@@ -75,82 +75,82 @@
     {
       "date": "2026-10-10",
       "ch1_views": 6,
-      "ch2_views": 185,
+      "ch2_views": 187,
       "ch3_views": 73,
       "ch4_views": 1505,
-      "total_views": 1769
+      "total_views": 1771
     },
     {
       "date": "2026-10-11",
       "ch1_views": 7,
-      "ch2_views": 198,
+      "ch2_views": 200,
       "ch3_views": 149,
       "ch4_views": 1566,
-      "total_views": 1920
+      "total_views": 1922
     },
     {
       "date": "2026-10-12",
       "ch1_views": 10,
-      "ch2_views": 198,
+      "ch2_views": 200,
       "ch3_views": 163,
       "ch4_views": 0,
-      "total_views": 371
+      "total_views": 373
     },
     {
       "date": "2026-10-13",
       "ch1_views": 11,
-      "ch2_views": 199,
+      "ch2_views": 201,
       "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 380
+      "total_views": 382
     },
     {
       "date": "2026-10-14",
       "ch1_views": 13,
-      "ch2_views": 250,
+      "ch2_views": 252,
       "ch3_views": 199,
       "ch4_views": 0,
-      "total_views": 462
+      "total_views": 464
     },
     {
       "date": "2026-10-15",
       "ch1_views": 15,
-      "ch2_views": 309,
+      "ch2_views": 311,
       "ch3_views": 232,
       "ch4_views": 0,
-      "total_views": 556
+      "total_views": 558
     },
     {
       "date": "2026-10-16",
       "ch1_views": 17,
-      "ch2_views": 317,
+      "ch2_views": 319,
       "ch3_views": 256,
       "ch4_views": 0,
-      "total_views": 590
+      "total_views": 592
     },
     {
       "date": "2026-10-17",
       "ch1_views": 20,
-      "ch2_views": 319,
+      "ch2_views": 321,
       "ch3_views": 268,
       "ch4_views": 0,
-      "total_views": 607
+      "total_views": 609
     },
     {
       "date": "2026-10-18",
-      "ch1_views": 20,
-      "ch2_views": 321,
-      "ch3_views": 276,
+      "ch1_views": 22,
+      "ch2_views": 324,
+      "ch3_views": 277,
       "ch4_views": 0,
-      "total_views": 617
+      "total_views": 623
     },
     {
       "date": "2026-10-19",
-      "ch1_views": 0,
+      "ch1_views": 23,
       "ch2_views": 0,
-      "ch3_views": 276,
+      "ch3_views": 283,
       "ch4_views": 0,
-      "total_views": 276
+      "total_views": 306
     }
   ],
   "channels": {
@@ -170,7 +170,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 108,
-      "total_views": 638,
+      "total_views": 641,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -202,7 +202,7 @@
         {
           "date": "2026-10-09",
           "views": 3,
-          "uploads": 3,
+          "uploads": 2,
           "cumulative_views": 3
         },
         {
@@ -255,12 +255,32 @@
         },
         {
           "date": "2026-10-18",
-          "views": 0,
+          "views": 2,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 22
+        },
+        {
+          "date": "2026-10-19",
+          "views": 1,
+          "uploads": 1,
+          "cumulative_views": 23
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7674647839951064334",
+          "youtube_id": "aCyIeXr22yY",
+          "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
+          "tiktok_views": 12600,
+          "youtube_views": 1,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/aCyIeXr22yY/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-19T01:32:49Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -268,7 +288,7 @@
           "youtube_id": "J8IzPmD6AhA",
           "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
           "tiktok_views": 10100,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/J8IzPmD6AhA/hqdefault.jpg",
@@ -666,20 +686,6 @@
           "thumbnail": "https://i.ytimg.com/vi/O_JpXXptDKo/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-09T08:25:20Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7692812575070817550",
-          "youtube_id": "_XFa5DxfmXg",
-          "title": "Months Old and Already Walking Like a 76 Year Old \ud83d\ude2d\ud83d\udc80",
-          "tiktok_views": 118900,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/_XFa5DxfmXg/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-09T03:03:39Z"
         }
       ],
       "runs": [
@@ -900,8 +906,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 96,
-      "total_views": 1132,
+      "total_uploads": 97,
+      "total_views": 1142,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -962,57 +968,57 @@
         },
         {
           "date": "2026-10-10",
-          "views": 23,
+          "views": 25,
           "uploads": 3,
-          "cumulative_views": 185
+          "cumulative_views": 187
         },
         {
           "date": "2026-10-11",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 198
+          "cumulative_views": 200
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 198
+          "cumulative_views": 200
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 199
+          "cumulative_views": 201
         },
         {
           "date": "2026-10-14",
           "views": 51,
           "uploads": 3,
-          "cumulative_views": 250
+          "cumulative_views": 252
         },
         {
           "date": "2026-10-15",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 309
+          "cumulative_views": 311
         },
         {
           "date": "2026-10-16",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 317
+          "cumulative_views": 319
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 319
+          "cumulative_views": 321
         },
         {
           "date": "2026-10-18",
-          "views": 2,
+          "views": 3,
           "uploads": 1,
-          "cumulative_views": 321
+          "cumulative_views": 324
         }
       ],
       "videos": [
@@ -1023,7 +1029,7 @@
           "youtube_id": "MSUbBpc4whI",
           "title": "Chocolate-Filled Baked Apples with Caramel & Ice Cream \ud83c\udf4e\ud83c\udf6b",
           "tiktok_views": 6300,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MSUbBpc4whI/hqdefault.jpg",
@@ -1261,7 +1267,7 @@
           "youtube_id": "kxIacsu0CAw",
           "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
           "tiktok_views": 118500,
-          "youtube_views": 12,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -1438,6 +1444,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 125,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-19",
+          "status": "success",
+          "video_id": "2iMxW-fAkPQ",
+          "error_message": null,
+          "created_at": "2026-10-19T05:53:39.767693+00:00"
+        },
         {
           "id": 124,
           "channel_id": "channel_2",
@@ -1627,16 +1643,6 @@
           "video_id": "XxgeD9bU78Q",
           "error_message": null,
           "created_at": "2026-10-14T05:57:04.525534+00:00"
-        },
-        {
-          "id": 105,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-14",
-          "status": "success",
-          "video_id": "EYGSlP92-M0",
-          "error_message": null,
-          "created_at": "2026-10-14T01:07:30.180816+00:00"
         }
       ]
     },
@@ -1741,15 +1747,15 @@
         },
         {
           "date": "2026-10-18",
-          "views": 8,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 276
+          "cumulative_views": 277
         },
         {
           "date": "2026-10-19",
-          "views": 0,
+          "views": 6,
           "uploads": 1,
-          "cumulative_views": 276
+          "cumulative_views": 283
         }
       ],
       "videos": [
@@ -1760,7 +1766,7 @@
           "youtube_id": "1U-cjk22cW8",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/1U-cjk22cW8/hqdefault.jpg",
@@ -1788,7 +1794,7 @@
           "youtube_id": "qwNhsqMH6k4",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qwNhsqMH6k4/hqdefault.jpg",
@@ -2971,13 +2977,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7674647839951064334",
+      "youtube_id": "aCyIeXr22yY",
+      "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
+      "tiktok_views": 12600,
+      "youtube_views": 1,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/aCyIeXr22yY/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-19T01:32:49Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "13OndIbXOyxsuiTnBSA2sWsuTYd7E7jqg",
       "youtube_id": "1U-cjk22cW8",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/1U-cjk22cW8/hqdefault.jpg",
@@ -3005,7 +3025,7 @@
       "youtube_id": "J8IzPmD6AhA",
       "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
       "tiktok_views": 10100,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/J8IzPmD6AhA/hqdefault.jpg",
@@ -3019,7 +3039,7 @@
       "youtube_id": "MSUbBpc4whI",
       "title": "Chocolate-Filled Baked Apples with Caramel & Ice Cream \ud83c\udf4e\ud83c\udf6b",
       "tiktok_views": 6300,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MSUbBpc4whI/hqdefault.jpg",
@@ -3047,7 +3067,7 @@
       "youtube_id": "qwNhsqMH6k4",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qwNhsqMH6k4/hqdefault.jpg",
@@ -3999,7 +4019,7 @@
       "youtube_id": "kxIacsu0CAw",
       "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
       "tiktok_views": 118500,
-      "youtube_views": 12,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -4173,20 +4193,6 @@
       "thumbnail": "https://i.ytimg.com/vi/hzmuiSueGYg/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-09T07:21:41Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7692812575070817550",
-      "youtube_id": "_XFa5DxfmXg",
-      "title": "Months Old and Already Walking Like a 76 Year Old \ud83d\ude2d\ud83d\udc80",
-      "tiktok_views": 118900,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/_XFa5DxfmXg/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-09T03:03:39Z"
     },
     {
       "channel_id": "channel_4",
@@ -4527,7 +4533,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 108,
-    "total_views": 638,
+    "total_views": 641,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -4559,7 +4565,7 @@
       {
         "date": "2026-10-09",
         "views": 3,
-        "uploads": 3,
+        "uploads": 2,
         "cumulative_views": 3
       },
       {
@@ -4612,12 +4618,32 @@
       },
       {
         "date": "2026-10-18",
-        "views": 0,
+        "views": 2,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 22
+      },
+      {
+        "date": "2026-10-19",
+        "views": 1,
+        "uploads": 1,
+        "cumulative_views": 23
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7674647839951064334",
+        "youtube_id": "aCyIeXr22yY",
+        "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
+        "tiktok_views": 12600,
+        "youtube_views": 1,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/aCyIeXr22yY/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-19T01:32:49Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4625,7 +4651,7 @@
         "youtube_id": "J8IzPmD6AhA",
         "title": "Grandpa Turned Around and Could Not Believe His Eyes \ud83e\udd79\ud83d\ude02",
         "tiktok_views": 10100,
-        "youtube_views": 0,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/J8IzPmD6AhA/hqdefault.jpg",
@@ -5023,20 +5049,6 @@
         "thumbnail": "https://i.ytimg.com/vi/O_JpXXptDKo/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-09T08:25:20Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7692812575070817550",
-        "youtube_id": "_XFa5DxfmXg",
-        "title": "Months Old and Already Walking Like a 76 Year Old \ud83d\ude2d\ud83d\udc80",
-        "tiktok_views": 118900,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/_XFa5DxfmXg/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-09T03:03:39Z"
       }
     ],
     "runs": [
@@ -5243,8 +5255,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 283,
-    "total_views": 139617,
+    "total_uploads": 284,
+    "total_views": 139630,
     "total_likes": 18,
     "videos_per_day": 12
   },
@@ -5476,5 +5488,5 @@
       "created_at": "2026-10-12T23:35:15.479956+00:00"
     }
   ],
-  "last_updated": "2026-10-19T01:32:28.638379+00:00"
+  "last_updated": "2026-10-19T05:53:44.478566+00:00"
 }
