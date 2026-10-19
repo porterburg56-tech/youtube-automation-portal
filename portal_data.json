@@ -75,74 +75,74 @@
     {
       "date": "2026-10-10",
       "ch1_views": 6,
-      "ch2_views": 183,
+      "ch2_views": 185,
       "ch3_views": 82,
       "ch4_views": 1505,
-      "total_views": 1776
+      "total_views": 1778
     },
     {
       "date": "2026-10-11",
       "ch1_views": 7,
-      "ch2_views": 196,
+      "ch2_views": 198,
       "ch3_views": 158,
       "ch4_views": 1566,
-      "total_views": 1927
+      "total_views": 1929
     },
     {
       "date": "2026-10-12",
       "ch1_views": 10,
-      "ch2_views": 196,
+      "ch2_views": 198,
       "ch3_views": 172,
       "ch4_views": 0,
-      "total_views": 378
+      "total_views": 380
     },
     {
       "date": "2026-10-13",
       "ch1_views": 11,
-      "ch2_views": 197,
+      "ch2_views": 199,
       "ch3_views": 179,
       "ch4_views": 0,
-      "total_views": 387
+      "total_views": 389
     },
     {
       "date": "2026-10-14",
       "ch1_views": 13,
-      "ch2_views": 248,
+      "ch2_views": 250,
       "ch3_views": 208,
       "ch4_views": 0,
-      "total_views": 469
+      "total_views": 471
     },
     {
       "date": "2026-10-15",
       "ch1_views": 15,
-      "ch2_views": 307,
+      "ch2_views": 309,
       "ch3_views": 241,
       "ch4_views": 0,
-      "total_views": 563
+      "total_views": 565
     },
     {
       "date": "2026-10-16",
       "ch1_views": 17,
-      "ch2_views": 315,
+      "ch2_views": 317,
       "ch3_views": 265,
       "ch4_views": 0,
-      "total_views": 597
+      "total_views": 599
     },
     {
       "date": "2026-10-17",
       "ch1_views": 20,
-      "ch2_views": 317,
+      "ch2_views": 319,
       "ch3_views": 277,
       "ch4_views": 0,
-      "total_views": 614
+      "total_views": 616
     },
     {
       "date": "2026-10-18",
       "ch1_views": 20,
-      "ch2_views": 317,
-      "ch3_views": 284,
+      "ch2_views": 321,
+      "ch3_views": 285,
       "ch4_views": 0,
-      "total_views": 621
+      "total_views": 626
     }
   ],
   "channels": {
@@ -954,57 +954,57 @@
         },
         {
           "date": "2026-10-10",
-          "views": 21,
+          "views": 23,
           "uploads": 3,
-          "cumulative_views": 183
+          "cumulative_views": 185
         },
         {
           "date": "2026-10-11",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 196
+          "cumulative_views": 198
         },
         {
           "date": "2026-10-12",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 196
+          "cumulative_views": 198
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 197
+          "cumulative_views": 199
         },
         {
           "date": "2026-10-14",
           "views": 51,
           "uploads": 3,
-          "cumulative_views": 248
+          "cumulative_views": 250
         },
         {
           "date": "2026-10-15",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 307
+          "cumulative_views": 309
         },
         {
           "date": "2026-10-16",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 315
+          "cumulative_views": 317
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 317
+          "cumulative_views": 319
         },
         {
           "date": "2026-10-18",
-          "views": 0,
+          "views": 2,
           "uploads": 1,
-          "cumulative_views": 317
+          "cumulative_views": 321
         }
       ],
       "videos": [
@@ -1015,7 +1015,7 @@
           "youtube_id": "MSUbBpc4whI",
           "title": "Chocolate-Filled Baked Apples with Caramel & Ice Cream \ud83c\udf4e\ud83c\udf6b",
           "tiktok_views": 6300,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MSUbBpc4whI/hqdefault.jpg",
@@ -1253,7 +1253,7 @@
           "youtube_id": "kxIacsu0CAw",
           "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
           "tiktok_views": 118500,
-          "youtube_views": 10,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -1733,9 +1733,9 @@
         },
         {
           "date": "2026-10-18",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 284
+          "cumulative_views": 285
         }
       ],
       "videos": [
@@ -1760,7 +1760,7 @@
           "youtube_id": "qwNhsqMH6k4",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qwNhsqMH6k4/hqdefault.jpg",
@@ -2162,6 +2162,16 @@
       ],
       "runs": [
         {
+          "id": 82,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-10-19",
+          "status": "success",
+          "video_id": "1U-cjk22cW8",
+          "error_message": null,
+          "created_at": "2026-10-19T00:14:05.343776+00:00"
+        },
+        {
           "id": 81,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2350,16 +2360,6 @@
           "video_id": "9eK7aXl3-QQ",
           "error_message": null,
           "created_at": "2026-10-12T23:37:35.117649+00:00"
-        },
-        {
-          "id": 62,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-12",
-          "status": "success",
-          "video_id": "rFdowK81gWE",
-          "error_message": null,
-          "created_at": "2026-10-12T07:19:49.982167+00:00"
         }
       ]
     },
@@ -2991,7 +2991,7 @@
       "youtube_id": "MSUbBpc4whI",
       "title": "Chocolate-Filled Baked Apples with Caramel & Ice Cream \ud83c\udf4e\ud83c\udf6b",
       "tiktok_views": 6300,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MSUbBpc4whI/hqdefault.jpg",
@@ -3019,7 +3019,7 @@
       "youtube_id": "qwNhsqMH6k4",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qwNhsqMH6k4/hqdefault.jpg",
@@ -3971,7 +3971,7 @@
       "youtube_id": "kxIacsu0CAw",
       "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
       "tiktok_views": 118500,
-      "youtube_views": 10,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -5462,5 +5462,5 @@
       "created_at": "2026-10-12T08:30:13.209335+00:00"
     }
   ],
-  "last_updated": "2026-10-18T19:33:54.363073+00:00"
+  "last_updated": "2026-10-19T00:14:10.241989+00:00"
 }
