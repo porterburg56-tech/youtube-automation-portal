@@ -131,26 +131,26 @@
     {
       "date": "2026-10-17",
       "ch1_views": 18,
-      "ch2_views": 291,
+      "ch2_views": 292,
       "ch3_views": 256,
       "ch4_views": 0,
-      "total_views": 565
+      "total_views": 566
     },
     {
       "date": "2026-10-18",
       "ch1_views": 20,
-      "ch2_views": 294,
+      "ch2_views": 295,
       "ch3_views": 267,
       "ch4_views": 0,
-      "total_views": 581
+      "total_views": 582
     },
     {
       "date": "2026-10-19",
       "ch1_views": 21,
-      "ch2_views": 295,
+      "ch2_views": 296,
       "ch3_views": 277,
       "ch4_views": 0,
-      "total_views": 593
+      "total_views": 594
     }
   ],
   "channels": {
@@ -199,12 +199,6 @@
         }
       },
       "view_history": [
-        {
-          "date": "2026-10-09",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
         {
           "date": "2026-10-10",
           "views": 3,
@@ -262,11 +256,25 @@
         {
           "date": "2026-10-19",
           "views": 1,
-          "uploads": 2,
+          "uploads": 3,
           "cumulative_views": 21
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7698369801294531853",
+          "youtube_id": "TMM0MzcDR4s",
+          "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
+          "tiktok_views": 83600,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/TMM0MzcDR4s/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-19T21:26:02Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -672,20 +680,6 @@
           "thumbnail": "https://i.ytimg.com/vi/dx6FAT4npYI/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-10T02:36:33Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7694666348546362637",
-          "youtube_id": "yz5X_93xju4",
-          "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
-          "tiktok_views": 23100,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/yz5X_93xju4/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-09T21:35:04Z"
         }
       ],
       "runs": [
@@ -1010,21 +1004,21 @@
         },
         {
           "date": "2026-10-17",
-          "views": 1,
+          "views": 2,
           "uploads": 1,
-          "cumulative_views": 291
+          "cumulative_views": 292
         },
         {
           "date": "2026-10-18",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 294
+          "cumulative_views": 295
         },
         {
           "date": "2026-10-19",
           "views": 1,
           "uploads": 2,
-          "cumulative_views": 295
+          "cumulative_views": 296
         }
       ],
       "videos": [
@@ -1077,7 +1071,7 @@
           "youtube_id": "U127bm3H1rs",
           "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
           "tiktok_views": 2043,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -2188,6 +2182,16 @@
       ],
       "runs": [
         {
+          "id": 84,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-19",
+          "status": "success",
+          "video_id": "zJSiWR0EhLw",
+          "error_message": null,
+          "created_at": "2026-10-19T21:31:25.488974+00:00"
+        },
+        {
           "id": 83,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2376,16 +2380,6 @@
           "video_id": "WRbu8j4Cr-E",
           "error_message": null,
           "created_at": "2026-10-13T07:41:29.316851+00:00"
-        },
-        {
-          "id": 64,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-13",
-          "status": "success",
-          "video_id": "6OYe6bcwdhk",
-          "error_message": null,
-          "created_at": "2026-10-13T03:03:59.527503+00:00"
         }
       ]
     },
@@ -2983,6 +2977,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7698369801294531853",
+      "youtube_id": "TMM0MzcDR4s",
+      "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
+      "tiktok_views": 83600,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/TMM0MzcDR4s/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-19T21:26:02Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7698429741501517070",
@@ -3199,7 +3207,7 @@
       "youtube_id": "U127bm3H1rs",
       "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
       "tiktok_views": 2043,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -4173,20 +4181,6 @@
       "uploaded_at": "2026-10-09T21:40:26Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7694666348546362637",
-      "youtube_id": "yz5X_93xju4",
-      "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
-      "tiktok_views": 23100,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/yz5X_93xju4/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-09T21:35:04Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7694715761255779598",
@@ -4569,12 +4563,6 @@
     },
     "view_history": [
       {
-        "date": "2026-10-09",
-        "views": 0,
-        "uploads": 1,
-        "cumulative_views": 0
-      },
-      {
         "date": "2026-10-10",
         "views": 3,
         "uploads": 3,
@@ -4631,11 +4619,25 @@
       {
         "date": "2026-10-19",
         "views": 1,
-        "uploads": 2,
+        "uploads": 3,
         "cumulative_views": 21
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7698369801294531853",
+        "youtube_id": "TMM0MzcDR4s",
+        "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
+        "tiktok_views": 83600,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/TMM0MzcDR4s/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-19T21:26:02Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5041,20 +5043,6 @@
         "thumbnail": "https://i.ytimg.com/vi/dx6FAT4npYI/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-10T02:36:33Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7694666348546362637",
-        "youtube_id": "yz5X_93xju4",
-        "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
-        "tiktok_views": 23100,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/yz5X_93xju4/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-09T21:35:04Z"
       }
     ],
     "runs": [
@@ -5494,5 +5482,5 @@
       "created_at": "2026-10-13T08:53:53.426150+00:00"
     }
   ],
-  "last_updated": "2026-10-19T21:25:38.543205+00:00"
+  "last_updated": "2026-10-19T21:31:30.291286+00:00"
 }
