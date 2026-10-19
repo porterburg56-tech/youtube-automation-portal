@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 281,
+    "total_uploads": 282,
     "total_views": 139617,
     "total_likes": 18,
     "total_subscribers": 86,
@@ -68,81 +68,89 @@
       "date": "2026-10-09",
       "ch1_views": 3,
       "ch2_views": 162,
-      "ch3_views": 27,
+      "ch3_views": 18,
       "ch4_views": 1333,
-      "total_views": 1525
+      "total_views": 1516
     },
     {
       "date": "2026-10-10",
       "ch1_views": 6,
       "ch2_views": 185,
-      "ch3_views": 82,
+      "ch3_views": 73,
       "ch4_views": 1505,
-      "total_views": 1778
+      "total_views": 1769
     },
     {
       "date": "2026-10-11",
       "ch1_views": 7,
       "ch2_views": 198,
-      "ch3_views": 158,
+      "ch3_views": 149,
       "ch4_views": 1566,
-      "total_views": 1929
+      "total_views": 1920
     },
     {
       "date": "2026-10-12",
       "ch1_views": 10,
       "ch2_views": 198,
-      "ch3_views": 172,
+      "ch3_views": 163,
       "ch4_views": 0,
-      "total_views": 380
+      "total_views": 371
     },
     {
       "date": "2026-10-13",
       "ch1_views": 11,
       "ch2_views": 199,
-      "ch3_views": 179,
+      "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 389
+      "total_views": 380
     },
     {
       "date": "2026-10-14",
       "ch1_views": 13,
       "ch2_views": 250,
-      "ch3_views": 208,
+      "ch3_views": 199,
       "ch4_views": 0,
-      "total_views": 471
+      "total_views": 462
     },
     {
       "date": "2026-10-15",
       "ch1_views": 15,
       "ch2_views": 309,
-      "ch3_views": 241,
+      "ch3_views": 232,
       "ch4_views": 0,
-      "total_views": 565
+      "total_views": 556
     },
     {
       "date": "2026-10-16",
       "ch1_views": 17,
       "ch2_views": 317,
-      "ch3_views": 265,
+      "ch3_views": 256,
       "ch4_views": 0,
-      "total_views": 599
+      "total_views": 590
     },
     {
       "date": "2026-10-17",
       "ch1_views": 20,
       "ch2_views": 319,
-      "ch3_views": 277,
+      "ch3_views": 268,
       "ch4_views": 0,
-      "total_views": 616
+      "total_views": 607
     },
     {
       "date": "2026-10-18",
       "ch1_views": 20,
       "ch2_views": 321,
-      "ch3_views": 285,
+      "ch3_views": 276,
       "ch4_views": 0,
-      "total_views": 626
+      "total_views": 617
+    },
+    {
+      "date": "2026-10-19",
+      "ch1_views": 0,
+      "ch2_views": 0,
+      "ch3_views": 276,
+      "ch4_views": 0,
+      "total_views": 276
     }
   ],
   "channels": {
@@ -1647,7 +1655,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 58,
+      "total_uploads": 59,
       "total_views": 136281,
       "total_likes": 1,
       "upcoming": {
@@ -1679,66 +1687,86 @@
       "view_history": [
         {
           "date": "2026-10-09",
-          "views": 27,
-          "uploads": 3,
-          "cumulative_views": 27
+          "views": 18,
+          "uploads": 2,
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-10",
           "views": 55,
           "uploads": 3,
-          "cumulative_views": 82
+          "cumulative_views": 73
         },
         {
           "date": "2026-10-11",
           "views": 76,
           "uploads": 3,
-          "cumulative_views": 158
+          "cumulative_views": 149
         },
         {
           "date": "2026-10-12",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 172
+          "cumulative_views": 163
         },
         {
           "date": "2026-10-13",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 179
+          "cumulative_views": 170
         },
         {
           "date": "2026-10-14",
           "views": 29,
           "uploads": 3,
-          "cumulative_views": 208
+          "cumulative_views": 199
         },
         {
           "date": "2026-10-15",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 241
+          "cumulative_views": 232
         },
         {
           "date": "2026-10-16",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 265
+          "cumulative_views": 256
         },
         {
           "date": "2026-10-17",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 277
+          "cumulative_views": 268
         },
         {
           "date": "2026-10-18",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 285
+          "cumulative_views": 276
+        },
+        {
+          "date": "2026-10-19",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 276
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "13OndIbXOyxsuiTnBSA2sWsuTYd7E7jqg",
+          "youtube_id": "1U-cjk22cW8",
+          "title": "Professional performing medical \u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/1U-cjk22cW8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-19T00:14:23Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2144,20 +2172,6 @@
           "thumbnail": "https://i.ytimg.com/vi/XwAXRGsO1tk/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-09T07:22:23Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1_x5uD070D9KPwomdpOE__qN5gYFuKDUf",
-          "youtube_id": "uhUr5_7Z7aA",
-          "title": "Forceps extracting glass from to\u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 9,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/uhUr5_7Z7aA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-09T02:11:17Z"
         }
       ],
       "runs": [
@@ -2753,6 +2767,16 @@
       ],
       "runs": [
         {
+          "id": 75,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-10-19",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-19T00:17:21.128901+00:00"
+        },
+        {
           "id": 74,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2941,21 +2965,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-12T23:44:26.356657+00:00"
-        },
-        {
-          "id": 55,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-12",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-12T07:33:00.809560+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "13OndIbXOyxsuiTnBSA2sWsuTYd7E7jqg",
+      "youtube_id": "1U-cjk22cW8",
+      "title": "Professional performing medical \u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/1U-cjk22cW8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-19T00:14:23Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -4175,20 +4203,6 @@
       "uploaded_at": "2026-10-09T02:20:30Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1_x5uD070D9KPwomdpOE__qN5gYFuKDUf",
-      "youtube_id": "uhUr5_7Z7aA",
-      "title": "Forceps extracting glass from to\u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 9,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/uhUr5_7Z7aA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-09T02:11:17Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7693615367947668750",
@@ -5229,7 +5243,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 281,
+    "total_uploads": 282,
     "total_views": 139617,
     "total_likes": 18,
     "videos_per_day": 12
@@ -5462,5 +5476,5 @@
       "created_at": "2026-10-12T08:30:13.209335+00:00"
     }
   ],
-  "last_updated": "2026-10-19T00:14:10.241989+00:00"
+  "last_updated": "2026-10-19T00:17:25.245236+00:00"
 }
