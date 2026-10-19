@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 286,
+    "total_uploads": 287,
     "total_views": 139647,
     "total_likes": 18,
     "total_subscribers": 86,
@@ -66,91 +66,91 @@
     },
     {
       "date": "2026-10-09",
-      "ch1_views": 3,
+      "ch1_views": 0,
       "ch2_views": 144,
       "ch3_views": 6,
       "ch4_views": 1333,
-      "total_views": 1486
+      "total_views": 1483
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 6,
-      "ch2_views": 169,
+      "ch1_views": 3,
+      "ch2_views": 170,
       "ch3_views": 61,
       "ch4_views": 1505,
-      "total_views": 1741
+      "total_views": 1739
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 7,
-      "ch2_views": 182,
+      "ch1_views": 5,
+      "ch2_views": 184,
       "ch3_views": 137,
-      "ch4_views": 1566,
-      "total_views": 1892
+      "ch4_views": 1567,
+      "total_views": 1893
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 10,
-      "ch2_views": 182,
+      "ch1_views": 8,
+      "ch2_views": 185,
       "ch3_views": 151,
       "ch4_views": 0,
-      "total_views": 343
+      "total_views": 344
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 11,
-      "ch2_views": 183,
+      "ch1_views": 9,
+      "ch2_views": 186,
       "ch3_views": 158,
       "ch4_views": 0,
-      "total_views": 352
+      "total_views": 353
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 13,
-      "ch2_views": 234,
+      "ch1_views": 11,
+      "ch2_views": 237,
       "ch3_views": 187,
       "ch4_views": 0,
-      "total_views": 434
+      "total_views": 435
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 15,
-      "ch2_views": 293,
+      "ch1_views": 13,
+      "ch2_views": 296,
       "ch3_views": 220,
       "ch4_views": 0,
-      "total_views": 528
+      "total_views": 529
     },
     {
       "date": "2026-10-16",
-      "ch1_views": 17,
-      "ch2_views": 301,
+      "ch1_views": 15,
+      "ch2_views": 305,
       "ch3_views": 244,
       "ch4_views": 0,
-      "total_views": 562
+      "total_views": 564
     },
     {
       "date": "2026-10-17",
-      "ch1_views": 20,
-      "ch2_views": 303,
+      "ch1_views": 18,
+      "ch2_views": 307,
       "ch3_views": 256,
       "ch4_views": 0,
-      "total_views": 579
+      "total_views": 581
     },
     {
       "date": "2026-10-18",
-      "ch1_views": 22,
-      "ch2_views": 306,
-      "ch3_views": 265,
+      "ch1_views": 20,
+      "ch2_views": 310,
+      "ch3_views": 267,
       "ch4_views": 0,
-      "total_views": 593
+      "total_views": 597
     },
     {
       "date": "2026-10-19",
-      "ch1_views": 23,
-      "ch2_views": 306,
-      "ch3_views": 271,
+      "ch1_views": 21,
+      "ch2_views": 311,
+      "ch3_views": 277,
       "ch4_views": 0,
-      "total_views": 600
+      "total_views": 609
     }
   ],
   "channels": {
@@ -201,72 +201,86 @@
       "view_history": [
         {
           "date": "2026-10-09",
-          "views": 3,
-          "uploads": 2,
-          "cumulative_views": 3
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 0
         },
         {
           "date": "2026-10-10",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 6
+          "cumulative_views": 3
         },
         {
           "date": "2026-10-11",
-          "views": 1,
+          "views": 2,
           "uploads": 3,
-          "cumulative_views": 7
+          "cumulative_views": 5
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 10
+          "cumulative_views": 8
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 11
+          "cumulative_views": 9
         },
         {
           "date": "2026-10-14",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 11
         },
         {
           "date": "2026-10-15",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 13
         },
         {
           "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-17",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-18",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-19",
           "views": 1,
-          "uploads": 1,
-          "cumulative_views": 23
+          "uploads": 2,
+          "cumulative_views": 21
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7674270089172094222",
+          "youtube_id": "gs2SRvX9dTk",
+          "title": "We weren\u2019t ready for that ending. \ud83d\ude02",
+          "tiktok_views": 12200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/gs2SRvX9dTk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-19T07:15:30Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -582,7 +596,7 @@
           "youtube_id": "oiBciIgSOwU",
           "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
           "tiktok_views": 9355,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/oiBciIgSOwU/hqdefault.jpg",
@@ -672,20 +686,6 @@
           "thumbnail": "https://i.ytimg.com/vi/yz5X_93xju4/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-09T21:35:04Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7692070903294790926",
-          "youtube_id": "O_JpXXptDKo",
-          "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
-          "tiktok_views": 111200,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/O_JpXXptDKo/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-09T08:25:20Z"
         }
       ],
       "runs": [
@@ -906,7 +906,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 97,
+      "total_uploads": 98,
       "total_views": 1142,
       "total_likes": 2,
       "upcoming": {
@@ -968,63 +968,63 @@
         },
         {
           "date": "2026-10-10",
-          "views": 25,
+          "views": 26,
           "uploads": 3,
-          "cumulative_views": 169
+          "cumulative_views": 170
         },
         {
           "date": "2026-10-11",
-          "views": 13,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 182
+          "cumulative_views": 184
         },
         {
           "date": "2026-10-12",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 182
+          "cumulative_views": 185
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 183
+          "cumulative_views": 186
         },
         {
           "date": "2026-10-14",
           "views": 51,
           "uploads": 3,
-          "cumulative_views": 234
+          "cumulative_views": 237
         },
         {
           "date": "2026-10-15",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 293
+          "cumulative_views": 296
         },
         {
           "date": "2026-10-16",
-          "views": 8,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 301
+          "cumulative_views": 305
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 303
+          "cumulative_views": 307
         },
         {
           "date": "2026-10-18",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 306
+          "cumulative_views": 310
         },
         {
           "date": "2026-10-19",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 306
+          "cumulative_views": 311
         }
       ],
       "videos": [
@@ -1035,7 +1035,7 @@
           "youtube_id": "2iMxW-fAkPQ",
           "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
           "tiktok_views": 20200,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
@@ -1091,7 +1091,7 @@
           "youtube_id": "SQjPyQBOw9o",
           "title": "Taste & Tales \u2728",
           "tiktok_views": 20400,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SQjPyQBOw9o/hqdefault.jpg",
@@ -1217,7 +1217,7 @@
           "youtube_id": "1kBN7vwWcjk",
           "title": "Lithuanian Grandma\u2019s Secret Homemade Cheese \u2728",
           "tiktok_views": 27700,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/1kBN7vwWcjk/hqdefault.jpg",
@@ -1245,7 +1245,7 @@
           "youtube_id": "FhY43IQbFIQ",
           "title": "Golden Berry & Apple Puff Pastry Hand Pies \u2728",
           "tiktok_views": 34400,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/FhY43IQbFIQ/hqdefault.jpg",
@@ -1287,7 +1287,7 @@
           "youtube_id": "kxIacsu0CAw",
           "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
           "tiktok_views": 118500,
-          "youtube_views": 14,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -1450,6 +1450,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 126,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-10-19",
+          "status": "success",
+          "video_id": "ooHXqhZwflc",
+          "error_message": null,
+          "created_at": "2026-10-19T21:04:42.633166+00:00"
+        },
         {
           "id": 125,
           "channel_id": "channel_2",
@@ -1639,16 +1649,6 @@
           "video_id": "l-VJ0AFsYUQ",
           "error_message": null,
           "created_at": "2026-10-14T20:13:05.727995+00:00"
-        },
-        {
-          "id": 106,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-14",
-          "status": "success",
-          "video_id": "XxgeD9bU78Q",
-          "error_message": null,
-          "created_at": "2026-10-14T05:57:04.525534+00:00"
         }
       ]
     },
@@ -1753,15 +1753,15 @@
         },
         {
           "date": "2026-10-18",
-          "views": 9,
+          "views": 11,
           "uploads": 3,
-          "cumulative_views": 265
+          "cumulative_views": 267
         },
         {
           "date": "2026-10-19",
-          "views": 6,
+          "views": 10,
           "uploads": 2,
-          "cumulative_views": 271
+          "cumulative_views": 277
         }
       ],
       "videos": [
@@ -1772,7 +1772,7 @@
           "youtube_id": "EjHxmcf2Tsk",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/EjHxmcf2Tsk/hqdefault.jpg",
@@ -1786,7 +1786,7 @@
           "youtube_id": "1U-cjk22cW8",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/1U-cjk22cW8/hqdefault.jpg",
@@ -1800,7 +1800,7 @@
           "youtube_id": "moK2d4nf0kI",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/moK2d4nf0kI/hqdefault.jpg",
@@ -1814,7 +1814,7 @@
           "youtube_id": "qwNhsqMH6k4",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qwNhsqMH6k4/hqdefault.jpg",
@@ -2490,9 +2490,9 @@
         },
         {
           "date": "2026-10-11",
-          "views": 61,
+          "views": 62,
           "uploads": 1,
-          "cumulative_views": 1566
+          "cumulative_views": 1567
         }
       ],
       "videos": [
@@ -2503,7 +2503,7 @@
           "youtube_id": "DJzCZpoyd4U",
           "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 61,
+          "youtube_views": 62,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -2983,13 +2983,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7674270089172094222",
+      "youtube_id": "gs2SRvX9dTk",
+      "title": "We weren\u2019t ready for that ending. \ud83d\ude02",
+      "tiktok_views": 12200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/gs2SRvX9dTk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-19T07:15:30Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1wAVwVD50HjUPAjlaVYHulC89rFWwd72L",
       "youtube_id": "EjHxmcf2Tsk",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/EjHxmcf2Tsk/hqdefault.jpg",
@@ -3003,7 +3017,7 @@
       "youtube_id": "2iMxW-fAkPQ",
       "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
       "tiktok_views": 20200,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
@@ -3031,7 +3045,7 @@
       "youtube_id": "1U-cjk22cW8",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/1U-cjk22cW8/hqdefault.jpg",
@@ -3045,7 +3059,7 @@
       "youtube_id": "moK2d4nf0kI",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/moK2d4nf0kI/hqdefault.jpg",
@@ -3101,7 +3115,7 @@
       "youtube_id": "qwNhsqMH6k4",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qwNhsqMH6k4/hqdefault.jpg",
@@ -3311,7 +3325,7 @@
       "youtube_id": "SQjPyQBOw9o",
       "title": "Taste & Tales \u2728",
       "tiktok_views": 20400,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SQjPyQBOw9o/hqdefault.jpg",
@@ -3787,7 +3801,7 @@
       "youtube_id": "1kBN7vwWcjk",
       "title": "Lithuanian Grandma\u2019s Secret Homemade Cheese \u2728",
       "tiktok_views": 27700,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/1kBN7vwWcjk/hqdefault.jpg",
@@ -3829,7 +3843,7 @@
       "youtube_id": "oiBciIgSOwU",
       "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
       "tiktok_views": 9355,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/oiBciIgSOwU/hqdefault.jpg",
@@ -3885,7 +3899,7 @@
       "youtube_id": "FhY43IQbFIQ",
       "title": "Golden Berry & Apple Puff Pastry Hand Pies \u2728",
       "tiktok_views": 34400,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/FhY43IQbFIQ/hqdefault.jpg",
@@ -3913,7 +3927,7 @@
       "youtube_id": "DJzCZpoyd4U",
       "title": "Remote Job Alert \u2014 Student working remotely on laptop! \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 61,
+      "youtube_views": 62,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/DJzCZpoyd4U/hqdefault.jpg",
@@ -4053,7 +4067,7 @@
       "youtube_id": "kxIacsu0CAw",
       "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
       "tiktok_views": 118500,
-      "youtube_views": 14,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -4171,20 +4185,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ca3bS1RBvvc/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-09T20:40:31Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7692070903294790926",
-      "youtube_id": "O_JpXXptDKo",
-      "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
-      "tiktok_views": 111200,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/O_JpXXptDKo/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-09T08:25:20Z"
     },
     {
       "channel_id": "channel_4",
@@ -4570,72 +4570,86 @@
     "view_history": [
       {
         "date": "2026-10-09",
-        "views": 3,
-        "uploads": 2,
-        "cumulative_views": 3
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 0
       },
       {
         "date": "2026-10-10",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 6
+        "cumulative_views": 3
       },
       {
         "date": "2026-10-11",
-        "views": 1,
+        "views": 2,
         "uploads": 3,
-        "cumulative_views": 7
+        "cumulative_views": 5
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 10
+        "cumulative_views": 8
       },
       {
         "date": "2026-10-13",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 11
+        "cumulative_views": 9
       },
       {
         "date": "2026-10-14",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 11
       },
       {
         "date": "2026-10-15",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 13
       },
       {
         "date": "2026-10-16",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 15
       },
       {
         "date": "2026-10-17",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 18
       },
       {
         "date": "2026-10-18",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 20
       },
       {
         "date": "2026-10-19",
         "views": 1,
-        "uploads": 1,
-        "cumulative_views": 23
+        "uploads": 2,
+        "cumulative_views": 21
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7674270089172094222",
+        "youtube_id": "gs2SRvX9dTk",
+        "title": "We weren\u2019t ready for that ending. \ud83d\ude02",
+        "tiktok_views": 12200,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/gs2SRvX9dTk/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-19T07:15:30Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4951,7 +4965,7 @@
         "youtube_id": "oiBciIgSOwU",
         "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
         "tiktok_views": 9355,
-        "youtube_views": 1,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/oiBciIgSOwU/hqdefault.jpg",
@@ -5041,20 +5055,6 @@
         "thumbnail": "https://i.ytimg.com/vi/yz5X_93xju4/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-09T21:35:04Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7692070903294790926",
-        "youtube_id": "O_JpXXptDKo",
-        "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
-        "tiktok_views": 111200,
-        "youtube_views": 3,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/O_JpXXptDKo/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-09T08:25:20Z"
       }
     ],
     "runs": [
@@ -5261,7 +5261,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 286,
+    "total_uploads": 287,
     "total_views": 139647,
     "total_likes": 18,
     "videos_per_day": 12
@@ -5494,5 +5494,5 @@
       "created_at": "2026-10-13T03:45:52.806422+00:00"
     }
   ],
-  "last_updated": "2026-10-19T07:15:19.724555+00:00"
+  "last_updated": "2026-10-19T21:04:48.141743+00:00"
 }
