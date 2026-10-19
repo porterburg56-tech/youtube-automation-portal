@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 288,
+    "total_uploads": 289,
     "total_views": 139647,
     "total_likes": 18,
     "total_subscribers": 86,
@@ -43,114 +43,114 @@
     {
       "date": "2026-09-30",
       "ch1_views": 0,
-      "ch2_views": 74,
+      "ch2_views": 75,
       "ch3_views": 0,
       "ch4_views": 842,
-      "total_views": 916
+      "total_views": 917
     },
     {
       "date": "2026-10-01",
       "ch1_views": 0,
-      "ch2_views": 83,
+      "ch2_views": 84,
       "ch3_views": 0,
       "ch4_views": 1056,
-      "total_views": 1139
+      "total_views": 1140
     },
     {
       "date": "2026-10-08",
       "ch1_views": 0,
-      "ch2_views": 106,
+      "ch2_views": 107,
       "ch3_views": 0,
       "ch4_views": 1102,
-      "total_views": 1208
+      "total_views": 1209
     },
     {
       "date": "2026-10-09",
       "ch1_views": 0,
-      "ch2_views": 129,
-      "ch3_views": 6,
+      "ch2_views": 130,
+      "ch3_views": 0,
       "ch4_views": 1333,
-      "total_views": 1468
+      "total_views": 1463
     },
     {
       "date": "2026-10-10",
       "ch1_views": 3,
-      "ch2_views": 155,
-      "ch3_views": 61,
+      "ch2_views": 156,
+      "ch3_views": 55,
       "ch4_views": 1505,
-      "total_views": 1724
+      "total_views": 1719
     },
     {
       "date": "2026-10-11",
       "ch1_views": 5,
-      "ch2_views": 169,
-      "ch3_views": 137,
+      "ch2_views": 170,
+      "ch3_views": 131,
       "ch4_views": 1567,
-      "total_views": 1878
+      "total_views": 1873
     },
     {
       "date": "2026-10-12",
       "ch1_views": 8,
-      "ch2_views": 170,
-      "ch3_views": 151,
+      "ch2_views": 171,
+      "ch3_views": 145,
       "ch4_views": 0,
-      "total_views": 329
+      "total_views": 324
     },
     {
       "date": "2026-10-13",
       "ch1_views": 9,
-      "ch2_views": 171,
-      "ch3_views": 158,
+      "ch2_views": 172,
+      "ch3_views": 152,
       "ch4_views": 0,
-      "total_views": 338
+      "total_views": 333
     },
     {
       "date": "2026-10-14",
       "ch1_views": 11,
-      "ch2_views": 222,
-      "ch3_views": 187,
+      "ch2_views": 223,
+      "ch3_views": 181,
       "ch4_views": 0,
-      "total_views": 420
+      "total_views": 415
     },
     {
       "date": "2026-10-15",
       "ch1_views": 13,
-      "ch2_views": 281,
-      "ch3_views": 220,
+      "ch2_views": 282,
+      "ch3_views": 214,
       "ch4_views": 0,
-      "total_views": 514
+      "total_views": 509
     },
     {
       "date": "2026-10-16",
       "ch1_views": 15,
-      "ch2_views": 290,
-      "ch3_views": 244,
+      "ch2_views": 291,
+      "ch3_views": 238,
       "ch4_views": 0,
-      "total_views": 549
+      "total_views": 544
     },
     {
       "date": "2026-10-17",
       "ch1_views": 18,
       "ch2_views": 292,
-      "ch3_views": 256,
+      "ch3_views": 250,
       "ch4_views": 0,
-      "total_views": 566
+      "total_views": 560
     },
     {
       "date": "2026-10-18",
       "ch1_views": 20,
       "ch2_views": 295,
-      "ch3_views": 267,
+      "ch3_views": 261,
       "ch4_views": 0,
-      "total_views": 582
+      "total_views": 576
     },
     {
       "date": "2026-10-19",
       "ch1_views": 21,
       "ch2_views": 296,
-      "ch3_views": 277,
+      "ch3_views": 271,
       "ch4_views": 0,
-      "total_views": 594
+      "total_views": 588
     }
   ],
   "channels": {
@@ -938,73 +938,73 @@
         },
         {
           "date": "2026-09-30",
-          "views": 65,
+          "views": 66,
           "uploads": 3,
-          "cumulative_views": 74
+          "cumulative_views": 75
         },
         {
           "date": "2026-10-01",
           "views": 9,
           "uploads": 1,
-          "cumulative_views": 83
+          "cumulative_views": 84
         },
         {
           "date": "2026-10-08",
           "views": 23,
           "uploads": 1,
-          "cumulative_views": 106
+          "cumulative_views": 107
         },
         {
           "date": "2026-10-09",
           "views": 23,
           "uploads": 3,
-          "cumulative_views": 129
+          "cumulative_views": 130
         },
         {
           "date": "2026-10-10",
           "views": 26,
           "uploads": 3,
-          "cumulative_views": 155
+          "cumulative_views": 156
         },
         {
           "date": "2026-10-11",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 169
+          "cumulative_views": 170
         },
         {
           "date": "2026-10-12",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 170
+          "cumulative_views": 171
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 171
+          "cumulative_views": 172
         },
         {
           "date": "2026-10-14",
           "views": 51,
           "uploads": 3,
-          "cumulative_views": 222
+          "cumulative_views": 223
         },
         {
           "date": "2026-10-15",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 281
+          "cumulative_views": 282
         },
         {
           "date": "2026-10-16",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 290
+          "cumulative_views": 291
         },
         {
           "date": "2026-10-17",
-          "views": 2,
+          "views": 1,
           "uploads": 1,
           "cumulative_views": 292
         },
@@ -1071,7 +1071,7 @@
           "youtube_id": "U127bm3H1rs",
           "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
           "tiktok_views": 2043,
-          "youtube_views": 2,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -1407,7 +1407,7 @@
           "youtube_id": "-zufAR-O6XE",
           "title": "cheesy Sausage Puff Pastry Buns \u2728",
           "tiktok_views": 12800,
-          "youtube_views": 19,
+          "youtube_views": 20,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-zufAR-O6XE/hqdefault.jpg",
@@ -1661,7 +1661,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 60,
+      "total_uploads": 61,
       "total_views": 136298,
       "total_likes": 1,
       "upcoming": {
@@ -1692,73 +1692,81 @@
       },
       "view_history": [
         {
-          "date": "2026-10-09",
-          "views": 6,
-          "uploads": 1,
-          "cumulative_views": 6
-        },
-        {
           "date": "2026-10-10",
           "views": 55,
           "uploads": 3,
-          "cumulative_views": 61
+          "cumulative_views": 55
         },
         {
           "date": "2026-10-11",
           "views": 76,
           "uploads": 3,
-          "cumulative_views": 137
+          "cumulative_views": 131
         },
         {
           "date": "2026-10-12",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 151
+          "cumulative_views": 145
         },
         {
           "date": "2026-10-13",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 158
+          "cumulative_views": 152
         },
         {
           "date": "2026-10-14",
           "views": 29,
           "uploads": 3,
-          "cumulative_views": 187
+          "cumulative_views": 181
         },
         {
           "date": "2026-10-15",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 220
+          "cumulative_views": 214
         },
         {
           "date": "2026-10-16",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 244
+          "cumulative_views": 238
         },
         {
           "date": "2026-10-17",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 256
+          "cumulative_views": 250
         },
         {
           "date": "2026-10-18",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 267
+          "cumulative_views": 261
         },
         {
           "date": "2026-10-19",
           "views": 10,
-          "uploads": 2,
-          "cumulative_views": 277
+          "uploads": 3,
+          "cumulative_views": 271
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1TSB7n0RjOPQxTG-o3V2opoumHEpSnY31",
+          "youtube_id": "zJSiWR0EhLw",
+          "title": "Professional performing medical \u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/zJSiWR0EhLw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-19T21:31:44Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2164,20 +2172,6 @@
           "thumbnail": "https://i.ytimg.com/vi/YjCUhoIVKGM/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-10T01:46:30Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "11esiQfsoFt3TpKDpm1s6_aMzKPAL_eY8",
-          "youtube_id": "e_uGYLvRg2s",
-          "title": "Forceps extracting metal from to\u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 6,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/e_uGYLvRg2s/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-09T21:40:26Z"
         }
       ],
       "runs": [
@@ -2773,6 +2767,16 @@
       ],
       "runs": [
         {
+          "id": 77,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-10-19",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-19T21:40:58.733683+00:00"
+        },
+        {
           "id": 76,
           "channel_id": "channel_4",
           "slot": 3,
@@ -2961,21 +2965,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-13T07:52:37.862648+00:00"
-        },
-        {
-          "id": 57,
-          "channel_id": "channel_4",
-          "slot": 2,
-          "run_date": "2026-10-13",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-13T03:05:44.671516+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1TSB7n0RjOPQxTG-o3V2opoumHEpSnY31",
+      "youtube_id": "zJSiWR0EhLw",
+      "title": "Professional performing medical \u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/zJSiWR0EhLw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-19T21:31:44Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -3207,7 +3215,7 @@
       "youtube_id": "U127bm3H1rs",
       "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
       "tiktok_views": 2043,
-      "youtube_views": 2,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -4167,20 +4175,6 @@
       "uploaded_at": "2026-10-09T21:50:59Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "11esiQfsoFt3TpKDpm1s6_aMzKPAL_eY8",
-      "youtube_id": "e_uGYLvRg2s",
-      "title": "Forceps extracting metal from to\u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 6,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/e_uGYLvRg2s/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-09T21:40:26Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7694715761255779598",
@@ -4369,7 +4363,7 @@
       "youtube_id": "-zufAR-O6XE",
       "title": "cheesy Sausage Puff Pastry Buns \u2728",
       "tiktok_views": 12800,
-      "youtube_views": 19,
+      "youtube_views": 20,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-zufAR-O6XE/hqdefault.jpg",
@@ -5249,7 +5243,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 288,
+    "total_uploads": 289,
     "total_views": 139647,
     "total_likes": 18,
     "videos_per_day": 12
@@ -5482,5 +5476,5 @@
       "created_at": "2026-10-13T08:53:53.426150+00:00"
     }
   ],
-  "last_updated": "2026-10-19T21:31:30.291286+00:00"
+  "last_updated": "2026-10-19T21:41:03.003879+00:00"
 }
