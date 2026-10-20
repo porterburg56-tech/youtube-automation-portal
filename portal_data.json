@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 293,
-    "total_views": 139655,
+    "total_views": 139663,
     "total_likes": 18,
     "total_subscribers": 86,
     "channels_count": 4,
@@ -43,122 +43,122 @@
     {
       "date": "2026-09-30",
       "ch1_views": 0,
-      "ch2_views": 67,
+      "ch2_views": 38,
       "ch3_views": 0,
       "ch4_views": 842,
-      "total_views": 909
+      "total_views": 880
     },
     {
       "date": "2026-10-01",
       "ch1_views": 0,
-      "ch2_views": 76,
+      "ch2_views": 47,
       "ch3_views": 0,
       "ch4_views": 1056,
-      "total_views": 1132
+      "total_views": 1103
     },
     {
       "date": "2026-10-08",
       "ch1_views": 0,
-      "ch2_views": 99,
+      "ch2_views": 70,
       "ch3_views": 0,
       "ch4_views": 1102,
-      "total_views": 1201
+      "total_views": 1172
     },
     {
       "date": "2026-10-09",
       "ch1_views": 0,
-      "ch2_views": 122,
+      "ch2_views": 93,
       "ch3_views": 0,
       "ch4_views": 1333,
-      "total_views": 1455
+      "total_views": 1426
     },
     {
       "date": "2026-10-10",
       "ch1_views": 0,
-      "ch2_views": 151,
+      "ch2_views": 122,
       "ch3_views": 46,
       "ch4_views": 1505,
-      "total_views": 1702
+      "total_views": 1673
     },
     {
       "date": "2026-10-11",
       "ch1_views": 2,
-      "ch2_views": 166,
+      "ch2_views": 137,
       "ch3_views": 122,
       "ch4_views": 1567,
-      "total_views": 1857
+      "total_views": 1828
     },
     {
       "date": "2026-10-12",
       "ch1_views": 5,
-      "ch2_views": 167,
+      "ch2_views": 138,
       "ch3_views": 136,
       "ch4_views": 0,
-      "total_views": 308
+      "total_views": 279
     },
     {
       "date": "2026-10-13",
       "ch1_views": 6,
-      "ch2_views": 168,
+      "ch2_views": 139,
       "ch3_views": 143,
       "ch4_views": 0,
-      "total_views": 317
+      "total_views": 288
     },
     {
       "date": "2026-10-14",
       "ch1_views": 8,
-      "ch2_views": 219,
+      "ch2_views": 190,
       "ch3_views": 172,
       "ch4_views": 0,
-      "total_views": 399
+      "total_views": 370
     },
     {
       "date": "2026-10-15",
       "ch1_views": 10,
-      "ch2_views": 279,
+      "ch2_views": 250,
       "ch3_views": 205,
       "ch4_views": 0,
-      "total_views": 494
+      "total_views": 465
     },
     {
       "date": "2026-10-16",
       "ch1_views": 12,
-      "ch2_views": 288,
+      "ch2_views": 259,
       "ch3_views": 229,
       "ch4_views": 0,
-      "total_views": 529
+      "total_views": 500
     },
     {
       "date": "2026-10-17",
       "ch1_views": 16,
-      "ch2_views": 289,
+      "ch2_views": 260,
       "ch3_views": 241,
       "ch4_views": 0,
-      "total_views": 546
+      "total_views": 517
     },
     {
       "date": "2026-10-18",
       "ch1_views": 18,
-      "ch2_views": 293,
+      "ch2_views": 264,
       "ch3_views": 252,
       "ch4_views": 0,
-      "total_views": 563
+      "total_views": 534
     },
     {
       "date": "2026-10-19",
       "ch1_views": 20,
-      "ch2_views": 295,
+      "ch2_views": 266,
       "ch3_views": 263,
       "ch4_views": 0,
-      "total_views": 578
+      "total_views": 549
     },
     {
       "date": "2026-10-20",
       "ch1_views": 20,
-      "ch2_views": 295,
+      "ch2_views": 266,
       "ch3_views": 264,
       "ch4_views": 0,
-      "total_views": 579
+      "total_views": 550
     }
   ],
   "channels": {
@@ -915,7 +915,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
       "total_uploads": 100,
-      "total_views": 1149,
+      "total_views": 1157,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -946,96 +946,110 @@
       "view_history": [
         {
           "date": "2026-09-30",
-          "views": 67,
-          "uploads": 3,
-          "cumulative_views": 67
+          "views": 38,
+          "uploads": 2,
+          "cumulative_views": 38
         },
         {
           "date": "2026-10-01",
           "views": 9,
           "uploads": 1,
-          "cumulative_views": 76
+          "cumulative_views": 47
         },
         {
           "date": "2026-10-08",
           "views": 23,
           "uploads": 1,
-          "cumulative_views": 99
+          "cumulative_views": 70
         },
         {
           "date": "2026-10-09",
           "views": 23,
           "uploads": 3,
-          "cumulative_views": 122
+          "cumulative_views": 93
         },
         {
           "date": "2026-10-10",
           "views": 29,
           "uploads": 3,
-          "cumulative_views": 151
+          "cumulative_views": 122
         },
         {
           "date": "2026-10-11",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 166
+          "cumulative_views": 137
         },
         {
           "date": "2026-10-12",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 167
+          "cumulative_views": 138
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 168
+          "cumulative_views": 139
         },
         {
           "date": "2026-10-14",
           "views": 51,
           "uploads": 3,
-          "cumulative_views": 219
+          "cumulative_views": 190
         },
         {
           "date": "2026-10-15",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 279
+          "cumulative_views": 250
         },
         {
           "date": "2026-10-16",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 288
+          "cumulative_views": 259
         },
         {
           "date": "2026-10-17",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 289
+          "cumulative_views": 260
         },
         {
           "date": "2026-10-18",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 293
+          "cumulative_views": 264
         },
         {
           "date": "2026-10-19",
           "views": 2,
           "uploads": 2,
-          "cumulative_views": 295
+          "cumulative_views": 266
         },
         {
           "date": "2026-10-20",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 295
+          "uploads": 2,
+          "cumulative_views": 266
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7644726238321347853",
+          "youtube_id": "pAUzjkAQAPw",
+          "title": "Caramel Banana Chocolate Roll That Melts in Your Mouth \u2728",
+          "tiktok_views": 15500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/pAUzjkAQAPw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-20T05:55:38Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1441,20 +1455,6 @@
           "thumbnail": "https://i.ytimg.com/vi/-zufAR-O6XE/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-30T16:26:46Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7654249707484531982",
-          "youtube_id": "uLU-AnYUUgo",
-          "title": "Secret to Perfectly Juicy Chicken Meatballs \u2728",
-          "tiktok_views": 40900,
-          "youtube_views": 29,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/uLU-AnYUUgo/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-30T01:32:41Z"
         }
       ],
       "runs": [
@@ -2196,6 +2196,16 @@
       ],
       "runs": [
         {
+          "id": 86,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-20",
+          "status": "success",
+          "video_id": "9SDtjEvNU1c",
+          "error_message": null,
+          "created_at": "2026-10-20T06:00:12.344429+00:00"
+        },
+        {
           "id": 85,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2384,16 +2394,6 @@
           "video_id": "6kjJd9sXePQ",
           "error_message": null,
           "created_at": "2026-10-14T01:14:40.790577+00:00"
-        },
-        {
-          "id": 66,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-13",
-          "status": "success",
-          "video_id": "jbmeU9cMUV8",
-          "error_message": null,
-          "created_at": "2026-10-13T21:50:32.705791+00:00"
         }
       ]
     },
@@ -2990,6 +2990,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7644726238321347853",
+      "youtube_id": "pAUzjkAQAPw",
+      "title": "Caramel Banana Chocolate Roll That Melts in Your Mouth \u2728",
+      "tiktok_views": 15500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/pAUzjkAQAPw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-20T05:55:38Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -4419,20 +4433,6 @@
       "uploaded_at": "2026-09-30T01:37:12Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7654249707484531982",
-      "youtube_id": "uLU-AnYUUgo",
-      "title": "Secret to Perfectly Juicy Chicken Meatballs \u2728",
-      "tiktok_views": 40900,
-      "youtube_views": 29,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/uLU-AnYUUgo/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-30T01:32:41Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1G_6yfUZfw_1qyfhxIu8cy4OipFcnT-0B",
@@ -5270,7 +5270,7 @@
   },
   "kpis": {
     "total_uploads": 293,
-    "total_views": 139655,
+    "total_views": 139663,
     "total_likes": 18,
     "videos_per_day": 12
   },
@@ -5502,5 +5502,5 @@
       "created_at": "2026-10-13T21:48:14.271259+00:00"
     }
   ],
-  "last_updated": "2026-10-20T05:54:45.612177+00:00"
+  "last_updated": "2026-10-20T06:00:17.516071+00:00"
 }
