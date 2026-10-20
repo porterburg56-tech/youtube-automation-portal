@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 292,
+    "total_uploads": 293,
     "total_views": 139655,
     "total_likes": 18,
     "total_subscribers": 86,
@@ -43,122 +43,122 @@
     {
       "date": "2026-09-30",
       "ch1_views": 0,
-      "ch2_views": 66,
+      "ch2_views": 67,
       "ch3_views": 0,
       "ch4_views": 842,
-      "total_views": 908
+      "total_views": 909
     },
     {
       "date": "2026-10-01",
       "ch1_views": 0,
-      "ch2_views": 75,
+      "ch2_views": 76,
       "ch3_views": 0,
       "ch4_views": 1056,
-      "total_views": 1131
+      "total_views": 1132
     },
     {
       "date": "2026-10-08",
       "ch1_views": 0,
-      "ch2_views": 98,
+      "ch2_views": 99,
       "ch3_views": 0,
       "ch4_views": 1102,
-      "total_views": 1200
+      "total_views": 1201
     },
     {
       "date": "2026-10-09",
       "ch1_views": 0,
-      "ch2_views": 121,
+      "ch2_views": 122,
       "ch3_views": 0,
       "ch4_views": 1333,
-      "total_views": 1454
+      "total_views": 1455
     },
     {
       "date": "2026-10-10",
-      "ch1_views": 3,
-      "ch2_views": 147,
+      "ch1_views": 0,
+      "ch2_views": 151,
       "ch3_views": 46,
       "ch4_views": 1505,
-      "total_views": 1701
+      "total_views": 1702
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 5,
-      "ch2_views": 162,
+      "ch1_views": 2,
+      "ch2_views": 166,
       "ch3_views": 122,
       "ch4_views": 1567,
-      "total_views": 1856
+      "total_views": 1857
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 8,
-      "ch2_views": 163,
+      "ch1_views": 5,
+      "ch2_views": 167,
       "ch3_views": 136,
       "ch4_views": 0,
-      "total_views": 307
+      "total_views": 308
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 9,
-      "ch2_views": 164,
+      "ch1_views": 6,
+      "ch2_views": 168,
       "ch3_views": 143,
       "ch4_views": 0,
-      "total_views": 316
+      "total_views": 317
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 11,
-      "ch2_views": 215,
+      "ch1_views": 8,
+      "ch2_views": 219,
       "ch3_views": 172,
       "ch4_views": 0,
-      "total_views": 398
+      "total_views": 399
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 13,
-      "ch2_views": 274,
+      "ch1_views": 10,
+      "ch2_views": 279,
       "ch3_views": 205,
       "ch4_views": 0,
-      "total_views": 492
+      "total_views": 494
     },
     {
       "date": "2026-10-16",
-      "ch1_views": 15,
-      "ch2_views": 283,
+      "ch1_views": 12,
+      "ch2_views": 288,
       "ch3_views": 229,
       "ch4_views": 0,
-      "total_views": 527
+      "total_views": 529
     },
     {
       "date": "2026-10-17",
-      "ch1_views": 18,
-      "ch2_views": 284,
+      "ch1_views": 16,
+      "ch2_views": 289,
       "ch3_views": 241,
       "ch4_views": 0,
-      "total_views": 543
+      "total_views": 546
     },
     {
       "date": "2026-10-18",
-      "ch1_views": 20,
-      "ch2_views": 288,
+      "ch1_views": 18,
+      "ch2_views": 293,
       "ch3_views": 252,
       "ch4_views": 0,
-      "total_views": 560
+      "total_views": 563
     },
     {
       "date": "2026-10-19",
-      "ch1_views": 22,
-      "ch2_views": 289,
+      "ch1_views": 20,
+      "ch2_views": 295,
       "ch3_views": 263,
       "ch4_views": 0,
-      "total_views": 574
+      "total_views": 578
     },
     {
       "date": "2026-10-20",
-      "ch1_views": 0,
-      "ch2_views": 289,
-      "ch3_views": 263,
+      "ch1_views": 20,
+      "ch2_views": 295,
+      "ch3_views": 264,
       "ch4_views": 0,
-      "total_views": 552
+      "total_views": 579
     }
   ],
   "channels": {
@@ -209,66 +209,86 @@
       "view_history": [
         {
           "date": "2026-10-10",
-          "views": 3,
-          "uploads": 3,
-          "cumulative_views": 3
+          "views": 0,
+          "uploads": 2,
+          "cumulative_views": 0
         },
         {
           "date": "2026-10-11",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 5
+          "cumulative_views": 2
         },
         {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 8
+          "cumulative_views": 5
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 9
+          "cumulative_views": 6
         },
         {
           "date": "2026-10-14",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 11
+          "cumulative_views": 8
         },
         {
           "date": "2026-10-15",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 10
         },
         {
           "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 12
         },
         {
           "date": "2026-10-17",
-          "views": 3,
+          "views": 4,
           "uploads": 3,
-          "cumulative_views": 18
+          "cumulative_views": 16
         },
         {
           "date": "2026-10-18",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-19",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 20
+        },
+        {
+          "date": "2026-10-20",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 20
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7672007467844308237",
+          "youtube_id": "6fNIHrFkNt8",
+          "title": "he Became a Whole Dad in 15 Seconds \ud83d\ude2d",
+          "tiktok_views": 11700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/6fNIHrFkNt8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-20T02:01:46Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -388,7 +408,7 @@
           "youtube_id": "OwiEPfDW53Q",
           "title": "She thought nobody was listening to her phone calls\u2026 then the toddler \ud83d\ude02",
           "tiktok_views": 14700,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/OwiEPfDW53Q/hqdefault.jpg",
@@ -674,20 +694,6 @@
           "thumbnail": "https://i.ytimg.com/vi/OC__RM8tf7o/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-10T08:02:16Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7693582407009570062",
-          "youtube_id": "dx6FAT4npYI",
-          "title": "Baby Saw the Hunch and Said Same \ud83d\udc80\ud83d\ude2d",
-          "tiktok_views": 58700,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/dx6FAT4npYI/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-10T02:36:33Z"
         }
       ],
       "runs": [
@@ -908,7 +914,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 99,
+      "total_uploads": 100,
       "total_views": 1149,
       "total_likes": 2,
       "upcoming": {
@@ -940,93 +946,93 @@
       "view_history": [
         {
           "date": "2026-09-30",
-          "views": 66,
+          "views": 67,
           "uploads": 3,
-          "cumulative_views": 66
+          "cumulative_views": 67
         },
         {
           "date": "2026-10-01",
           "views": 9,
           "uploads": 1,
-          "cumulative_views": 75
+          "cumulative_views": 76
         },
         {
           "date": "2026-10-08",
           "views": 23,
           "uploads": 1,
-          "cumulative_views": 98
+          "cumulative_views": 99
         },
         {
           "date": "2026-10-09",
           "views": 23,
           "uploads": 3,
-          "cumulative_views": 121
+          "cumulative_views": 122
         },
         {
           "date": "2026-10-10",
-          "views": 26,
+          "views": 29,
           "uploads": 3,
-          "cumulative_views": 147
+          "cumulative_views": 151
         },
         {
           "date": "2026-10-11",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 162
+          "cumulative_views": 166
         },
         {
           "date": "2026-10-12",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 163
+          "cumulative_views": 167
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 164
+          "cumulative_views": 168
         },
         {
           "date": "2026-10-14",
           "views": 51,
           "uploads": 3,
-          "cumulative_views": 215
+          "cumulative_views": 219
         },
         {
           "date": "2026-10-15",
-          "views": 59,
+          "views": 60,
           "uploads": 3,
-          "cumulative_views": 274
+          "cumulative_views": 279
         },
         {
           "date": "2026-10-16",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 283
+          "cumulative_views": 288
         },
         {
           "date": "2026-10-17",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 284
+          "cumulative_views": 289
         },
         {
           "date": "2026-10-18",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 288
+          "cumulative_views": 293
         },
         {
           "date": "2026-10-19",
-          "views": 1,
+          "views": 2,
           "uploads": 2,
-          "cumulative_views": 289
+          "cumulative_views": 295
         },
         {
           "date": "2026-10-20",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 289
+          "cumulative_views": 295
         }
       ],
       "videos": [
@@ -1065,7 +1071,7 @@
           "youtube_id": "2iMxW-fAkPQ",
           "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
           "tiktok_views": 20200,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
@@ -1177,7 +1183,7 @@
           "youtube_id": "xedI6HBMxic",
           "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
           "tiktok_views": 22500,
-          "youtube_views": 42,
+          "youtube_views": 43,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -1317,7 +1323,7 @@
           "youtube_id": "kxIacsu0CAw",
           "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
           "tiktok_views": 118500,
-          "youtube_views": 15,
+          "youtube_views": 17,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -1331,7 +1337,7 @@
           "youtube_id": "o8dXFrj3rHg",
           "title": "Tender Beer-Braised Beef & Creamy Mashed Potatoes \u2728",
           "tiktok_views": 156500,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/o8dXFrj3rHg/hqdefault.jpg",
@@ -1443,7 +1449,7 @@
           "youtube_id": "uLU-AnYUUgo",
           "title": "Secret to Perfectly Juicy Chicken Meatballs \u2728",
           "tiktok_views": 40900,
-          "youtube_views": 28,
+          "youtube_views": 29,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/uLU-AnYUUgo/hqdefault.jpg",
@@ -1452,6 +1458,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 128,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-20",
+          "status": "success",
+          "video_id": "pAUzjkAQAPw",
+          "error_message": null,
+          "created_at": "2026-10-20T05:54:40.384279+00:00"
+        },
         {
           "id": 127,
           "channel_id": "channel_2",
@@ -1641,16 +1657,6 @@
           "video_id": "jLH_dVJ-0pI",
           "error_message": null,
           "created_at": "2026-10-15T05:43:24.004105+00:00"
-        },
-        {
-          "id": 108,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-15",
-          "status": "success",
-          "video_id": "xedI6HBMxic",
-          "error_message": null,
-          "created_at": "2026-10-15T00:33:34.922556+00:00"
         }
       ]
     },
@@ -1761,9 +1767,9 @@
         },
         {
           "date": "2026-10-20",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 263
+          "cumulative_views": 264
         }
       ],
       "videos": [
@@ -1774,7 +1780,7 @@
           "youtube_id": "Mq_wyq3Iblg",
           "title": "Professional performing medical \u2026(1) \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Mq_wyq3Iblg/hqdefault.jpg",
@@ -2985,6 +2991,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7672007467844308237",
+      "youtube_id": "6fNIHrFkNt8",
+      "title": "he Became a Whole Dad in 15 Seconds \ud83d\ude2d",
+      "tiktok_views": 11700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/6fNIHrFkNt8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-20T02:01:46Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7660221928916978957",
@@ -3005,7 +3025,7 @@
       "youtube_id": "Mq_wyq3Iblg",
       "title": "Professional performing medical \u2026(1) \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Mq_wyq3Iblg/hqdefault.jpg",
@@ -3089,7 +3109,7 @@
       "youtube_id": "2iMxW-fAkPQ",
       "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
       "tiktok_views": 20200,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
@@ -3299,7 +3319,7 @@
       "youtube_id": "OwiEPfDW53Q",
       "title": "She thought nobody was listening to her phone calls\u2026 then the toddler \ud83d\ude02",
       "tiktok_views": 14700,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/OwiEPfDW53Q/hqdefault.jpg",
@@ -3551,7 +3571,7 @@
       "youtube_id": "xedI6HBMxic",
       "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
       "tiktok_views": 22500,
-      "youtube_views": 42,
+      "youtube_views": 43,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
@@ -4139,26 +4159,12 @@
       "youtube_id": "kxIacsu0CAw",
       "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
       "tiktok_views": 118500,
-      "youtube_views": 15,
+      "youtube_views": 17,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-10T06:57:46Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7693582407009570062",
-      "youtube_id": "dx6FAT4npYI",
-      "title": "Baby Saw the Hunch and Said Same \ud83d\udc80\ud83d\ude2d",
-      "tiktok_views": 58700,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/dx6FAT4npYI/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-10T02:36:33Z"
     },
     {
       "channel_id": "channel_4",
@@ -4181,7 +4187,7 @@
       "youtube_id": "o8dXFrj3rHg",
       "title": "Tender Beer-Braised Beef & Creamy Mashed Potatoes \u2728",
       "tiktok_views": 156500,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/o8dXFrj3rHg/hqdefault.jpg",
@@ -4419,7 +4425,7 @@
       "youtube_id": "uLU-AnYUUgo",
       "title": "Secret to Perfectly Juicy Chicken Meatballs \u2728",
       "tiktok_views": 40900,
-      "youtube_views": 28,
+      "youtube_views": 29,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/uLU-AnYUUgo/hqdefault.jpg",
@@ -4572,66 +4578,86 @@
     "view_history": [
       {
         "date": "2026-10-10",
-        "views": 3,
-        "uploads": 3,
-        "cumulative_views": 3
+        "views": 0,
+        "uploads": 2,
+        "cumulative_views": 0
       },
       {
         "date": "2026-10-11",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 5
+        "cumulative_views": 2
       },
       {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 8
+        "cumulative_views": 5
       },
       {
         "date": "2026-10-13",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 9
+        "cumulative_views": 6
       },
       {
         "date": "2026-10-14",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 11
+        "cumulative_views": 8
       },
       {
         "date": "2026-10-15",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 10
       },
       {
         "date": "2026-10-16",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 12
       },
       {
         "date": "2026-10-17",
-        "views": 3,
+        "views": 4,
         "uploads": 3,
-        "cumulative_views": 18
+        "cumulative_views": 16
       },
       {
         "date": "2026-10-18",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 18
       },
       {
         "date": "2026-10-19",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 20
+      },
+      {
+        "date": "2026-10-20",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 20
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7672007467844308237",
+        "youtube_id": "6fNIHrFkNt8",
+        "title": "he Became a Whole Dad in 15 Seconds \ud83d\ude2d",
+        "tiktok_views": 11700,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/6fNIHrFkNt8/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-20T02:01:46Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4751,7 +4777,7 @@
         "youtube_id": "OwiEPfDW53Q",
         "title": "She thought nobody was listening to her phone calls\u2026 then the toddler \ud83d\ude02",
         "tiktok_views": 14700,
-        "youtube_views": 3,
+        "youtube_views": 4,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/OwiEPfDW53Q/hqdefault.jpg",
@@ -5037,20 +5063,6 @@
         "thumbnail": "https://i.ytimg.com/vi/OC__RM8tf7o/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-10T08:02:16Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7693582407009570062",
-        "youtube_id": "dx6FAT4npYI",
-        "title": "Baby Saw the Hunch and Said Same \ud83d\udc80\ud83d\ude2d",
-        "tiktok_views": 58700,
-        "youtube_views": 3,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/dx6FAT4npYI/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-10T02:36:33Z"
       }
     ],
     "runs": [
@@ -5257,7 +5269,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 292,
+    "total_uploads": 293,
     "total_views": 139655,
     "total_likes": 18,
     "videos_per_day": 12
@@ -5490,5 +5502,5 @@
       "created_at": "2026-10-13T21:48:14.271259+00:00"
     }
   ],
-  "last_updated": "2026-10-20T02:01:21.933003+00:00"
+  "last_updated": "2026-10-20T05:54:45.612177+00:00"
 }
