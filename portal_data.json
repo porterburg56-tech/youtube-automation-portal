@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 291,
+    "total_uploads": 292,
     "total_views": 139655,
     "total_likes": 18,
     "total_subscribers": 86,
@@ -35,130 +35,130 @@
     {
       "date": "2026-09-29",
       "ch1_views": 0,
-      "ch2_views": 9,
+      "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 636,
-      "total_views": 645
+      "total_views": 636
     },
     {
       "date": "2026-09-30",
       "ch1_views": 0,
-      "ch2_views": 75,
+      "ch2_views": 66,
       "ch3_views": 0,
       "ch4_views": 842,
-      "total_views": 917
+      "total_views": 908
     },
     {
       "date": "2026-10-01",
       "ch1_views": 0,
-      "ch2_views": 84,
+      "ch2_views": 75,
       "ch3_views": 0,
       "ch4_views": 1056,
-      "total_views": 1140
+      "total_views": 1131
     },
     {
       "date": "2026-10-08",
       "ch1_views": 0,
-      "ch2_views": 107,
+      "ch2_views": 98,
       "ch3_views": 0,
       "ch4_views": 1102,
-      "total_views": 1209
+      "total_views": 1200
     },
     {
       "date": "2026-10-09",
       "ch1_views": 0,
-      "ch2_views": 130,
+      "ch2_views": 121,
       "ch3_views": 0,
       "ch4_views": 1333,
-      "total_views": 1463
+      "total_views": 1454
     },
     {
       "date": "2026-10-10",
       "ch1_views": 3,
-      "ch2_views": 156,
+      "ch2_views": 147,
       "ch3_views": 46,
       "ch4_views": 1505,
-      "total_views": 1710
+      "total_views": 1701
     },
     {
       "date": "2026-10-11",
       "ch1_views": 5,
-      "ch2_views": 171,
+      "ch2_views": 162,
       "ch3_views": 122,
       "ch4_views": 1567,
-      "total_views": 1865
+      "total_views": 1856
     },
     {
       "date": "2026-10-12",
       "ch1_views": 8,
-      "ch2_views": 172,
+      "ch2_views": 163,
       "ch3_views": 136,
       "ch4_views": 0,
-      "total_views": 316
+      "total_views": 307
     },
     {
       "date": "2026-10-13",
       "ch1_views": 9,
-      "ch2_views": 173,
+      "ch2_views": 164,
       "ch3_views": 143,
       "ch4_views": 0,
-      "total_views": 325
+      "total_views": 316
     },
     {
       "date": "2026-10-14",
       "ch1_views": 11,
-      "ch2_views": 224,
+      "ch2_views": 215,
       "ch3_views": 172,
       "ch4_views": 0,
-      "total_views": 407
+      "total_views": 398
     },
     {
       "date": "2026-10-15",
       "ch1_views": 13,
-      "ch2_views": 283,
+      "ch2_views": 274,
       "ch3_views": 205,
       "ch4_views": 0,
-      "total_views": 501
+      "total_views": 492
     },
     {
       "date": "2026-10-16",
       "ch1_views": 15,
-      "ch2_views": 292,
+      "ch2_views": 283,
       "ch3_views": 229,
       "ch4_views": 0,
-      "total_views": 536
+      "total_views": 527
     },
     {
       "date": "2026-10-17",
       "ch1_views": 18,
-      "ch2_views": 293,
+      "ch2_views": 284,
       "ch3_views": 241,
       "ch4_views": 0,
-      "total_views": 552
+      "total_views": 543
     },
     {
       "date": "2026-10-18",
       "ch1_views": 20,
-      "ch2_views": 297,
+      "ch2_views": 288,
       "ch3_views": 252,
       "ch4_views": 0,
-      "total_views": 569
+      "total_views": 560
     },
     {
       "date": "2026-10-19",
-      "ch1_views": 21,
-      "ch2_views": 299,
+      "ch1_views": 22,
+      "ch2_views": 289,
       "ch3_views": 263,
       "ch4_views": 0,
-      "total_views": 583
+      "total_views": 574
     },
     {
       "date": "2026-10-20",
       "ch1_views": 0,
-      "ch2_views": 0,
+      "ch2_views": 289,
       "ch3_views": 263,
       "ch4_views": 0,
-      "total_views": 263
+      "total_views": 552
     }
   ],
   "channels": {
@@ -177,7 +177,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 110,
+      "total_uploads": 111,
       "total_views": 641,
       "total_likes": 0,
       "upcoming": {
@@ -263,9 +263,9 @@
         },
         {
           "date": "2026-10-19",
-          "views": 1,
+          "views": 2,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 22
         }
       ],
       "videos": [
@@ -304,7 +304,7 @@
           "youtube_id": "aCyIeXr22yY",
           "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
           "tiktok_views": 12600,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/aCyIeXr22yY/hqdefault.jpg",
@@ -692,6 +692,16 @@
       ],
       "runs": [
         {
+          "id": 120,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-10-20",
+          "status": "success",
+          "video_id": "6fNIHrFkNt8",
+          "error_message": null,
+          "created_at": "2026-10-20T02:01:17.354909+00:00"
+        },
+        {
           "id": 119,
           "channel_id": "channel_1",
           "slot": 1,
@@ -880,16 +890,6 @@
           "video_id": "EPD1-OTlPtM",
           "error_message": null,
           "created_at": "2026-10-13T21:48:14.271259+00:00"
-        },
-        {
-          "id": 100,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-10-13",
-          "status": "success",
-          "video_id": "cmCwnMtsjOQ",
-          "error_message": null,
-          "created_at": "2026-10-13T08:53:53.426150+00:00"
         }
       ]
     },
@@ -939,97 +939,111 @@
       },
       "view_history": [
         {
-          "date": "2026-09-29",
-          "views": 9,
-          "uploads": 1,
-          "cumulative_views": 9
-        },
-        {
           "date": "2026-09-30",
           "views": 66,
           "uploads": 3,
-          "cumulative_views": 75
+          "cumulative_views": 66
         },
         {
           "date": "2026-10-01",
           "views": 9,
           "uploads": 1,
-          "cumulative_views": 84
+          "cumulative_views": 75
         },
         {
           "date": "2026-10-08",
           "views": 23,
           "uploads": 1,
-          "cumulative_views": 107
+          "cumulative_views": 98
         },
         {
           "date": "2026-10-09",
           "views": 23,
           "uploads": 3,
-          "cumulative_views": 130
+          "cumulative_views": 121
         },
         {
           "date": "2026-10-10",
           "views": 26,
           "uploads": 3,
-          "cumulative_views": 156
+          "cumulative_views": 147
         },
         {
           "date": "2026-10-11",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 171
+          "cumulative_views": 162
         },
         {
           "date": "2026-10-12",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 172
+          "cumulative_views": 163
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 173
+          "cumulative_views": 164
         },
         {
           "date": "2026-10-14",
           "views": 51,
           "uploads": 3,
-          "cumulative_views": 224
+          "cumulative_views": 215
         },
         {
           "date": "2026-10-15",
           "views": 59,
           "uploads": 3,
-          "cumulative_views": 283
+          "cumulative_views": 274
         },
         {
           "date": "2026-10-16",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 292
+          "cumulative_views": 283
         },
         {
           "date": "2026-10-17",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 293
+          "cumulative_views": 284
         },
         {
           "date": "2026-10-18",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 297
+          "cumulative_views": 288
         },
         {
           "date": "2026-10-19",
-          "views": 2,
+          "views": 1,
           "uploads": 2,
-          "cumulative_views": 299
+          "cumulative_views": 289
+        },
+        {
+          "date": "2026-10-20",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 289
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7660221928916978957",
+          "youtube_id": "yzSnALdYapw",
+          "title": "Strawberry Coffee Dessert Cups That Melt in Your Mouth \ud83c\udf53\u2615",
+          "tiktok_views": 19800,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/yzSnALdYapw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-20T01:14:50Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1051,7 +1065,7 @@
           "youtube_id": "2iMxW-fAkPQ",
           "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
           "tiktok_views": 20200,
-          "youtube_views": 2,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
@@ -1435,20 +1449,6 @@
           "thumbnail": "https://i.ytimg.com/vi/uLU-AnYUUgo/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-30T01:32:41Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7670618989113904398",
-          "youtube_id": "RCyKMx4yVxA",
-          "title": "creamy No-Bake Chocolate Biscuit dessert \u2728",
-          "tiktok_views": 42200,
-          "youtube_views": 9,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/RCyKMx4yVxA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-29T22:30:09Z"
         }
       ],
       "runs": [
@@ -2985,6 +2985,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7660221928916978957",
+      "youtube_id": "yzSnALdYapw",
+      "title": "Strawberry Coffee Dessert Cups That Melt in Your Mouth \ud83c\udf53\u2615",
+      "tiktok_views": 19800,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/yzSnALdYapw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-20T01:14:50Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1g3kqlfNiyivl4EJweBiBJIiGWBiij7W5",
@@ -3075,7 +3089,7 @@
       "youtube_id": "2iMxW-fAkPQ",
       "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
       "tiktok_views": 20200,
-      "youtube_views": 2,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
@@ -3089,7 +3103,7 @@
       "youtube_id": "aCyIeXr22yY",
       "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
       "tiktok_views": 12600,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/aCyIeXr22yY/hqdefault.jpg",
@@ -4427,20 +4441,6 @@
       "uploaded_at": "2026-09-29T22:36:28Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7670618989113904398",
-      "youtube_id": "RCyKMx4yVxA",
-      "title": "creamy No-Bake Chocolate Biscuit dessert \u2728",
-      "tiktok_views": 42200,
-      "youtube_views": 9,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/RCyKMx4yVxA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-29T22:30:09Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1mjirRqip2HtDVKisqIVfZSGjljn90Weo",
@@ -4540,7 +4540,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 110,
+    "total_uploads": 111,
     "total_views": 641,
     "total_likes": 0,
     "upcoming": {
@@ -4626,9 +4626,9 @@
       },
       {
         "date": "2026-10-19",
-        "views": 1,
+        "views": 2,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 22
       }
     ],
     "videos": [
@@ -4667,7 +4667,7 @@
         "youtube_id": "aCyIeXr22yY",
         "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
         "tiktok_views": 12600,
-        "youtube_views": 1,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/aCyIeXr22yY/hqdefault.jpg",
@@ -5055,6 +5055,16 @@
     ],
     "runs": [
       {
+        "id": 120,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-10-20",
+        "status": "success",
+        "video_id": "6fNIHrFkNt8",
+        "error_message": null,
+        "created_at": "2026-10-20T02:01:17.354909+00:00"
+      },
+      {
         "id": 119,
         "channel_id": "channel_1",
         "slot": 1,
@@ -5243,21 +5253,11 @@
         "video_id": "EPD1-OTlPtM",
         "error_message": null,
         "created_at": "2026-10-13T21:48:14.271259+00:00"
-      },
-      {
-        "id": 100,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-10-13",
-        "status": "success",
-        "video_id": "cmCwnMtsjOQ",
-        "error_message": null,
-        "created_at": "2026-10-13T08:53:53.426150+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 291,
+    "total_uploads": 292,
     "total_views": 139655,
     "total_likes": 18,
     "videos_per_day": 12
@@ -5289,6 +5289,16 @@
     }
   },
   "runs": [
+    {
+      "id": 120,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-10-20",
+      "status": "success",
+      "video_id": "6fNIHrFkNt8",
+      "error_message": null,
+      "created_at": "2026-10-20T02:01:17.354909+00:00"
+    },
     {
       "id": 119,
       "channel_id": "channel_1",
@@ -5478,17 +5488,7 @@
       "video_id": "EPD1-OTlPtM",
       "error_message": null,
       "created_at": "2026-10-13T21:48:14.271259+00:00"
-    },
-    {
-      "id": 100,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-10-13",
-      "status": "success",
-      "video_id": "cmCwnMtsjOQ",
-      "error_message": null,
-      "created_at": "2026-10-13T08:53:53.426150+00:00"
     }
   ],
-  "last_updated": "2026-10-20T01:14:17.669933+00:00"
+  "last_updated": "2026-10-20T02:01:21.933003+00:00"
 }
