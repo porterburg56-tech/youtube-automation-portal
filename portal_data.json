@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 294,
-    "total_views": 139663,
+    "total_uploads": 295,
+    "total_views": 139680,
     "total_likes": 18,
     "total_subscribers": 86,
     "channels_count": 4,
@@ -177,8 +177,8 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 111,
-      "total_views": 641,
+      "total_uploads": 112,
+      "total_views": 645,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -698,6 +698,16 @@
       ],
       "runs": [
         {
+          "id": 121,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-10-20",
+          "status": "success",
+          "video_id": "rhUX2NdpHfQ",
+          "error_message": null,
+          "created_at": "2026-10-20T07:04:15.455374+00:00"
+        },
+        {
           "id": 120,
           "channel_id": "channel_1",
           "slot": 2,
@@ -886,16 +896,6 @@
           "video_id": "sE1MOk90288",
           "error_message": null,
           "created_at": "2026-10-14T02:05:50.009992+00:00"
-        },
-        {
-          "id": 101,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-10-13",
-          "status": "success",
-          "video_id": "EPD1-OTlPtM",
-          "error_message": null,
-          "created_at": "2026-10-13T21:48:14.271259+00:00"
         }
       ]
     },
@@ -1676,7 +1676,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 63,
-      "total_views": 136299,
+      "total_views": 136312,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -4546,8 +4546,8 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 111,
-    "total_views": 641,
+    "total_uploads": 112,
+    "total_views": 645,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5067,6 +5067,16 @@
     ],
     "runs": [
       {
+        "id": 121,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-10-20",
+        "status": "success",
+        "video_id": "rhUX2NdpHfQ",
+        "error_message": null,
+        "created_at": "2026-10-20T07:04:15.455374+00:00"
+      },
+      {
         "id": 120,
         "channel_id": "channel_1",
         "slot": 2,
@@ -5255,22 +5265,12 @@
         "video_id": "sE1MOk90288",
         "error_message": null,
         "created_at": "2026-10-14T02:05:50.009992+00:00"
-      },
-      {
-        "id": 101,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-10-13",
-        "status": "success",
-        "video_id": "EPD1-OTlPtM",
-        "error_message": null,
-        "created_at": "2026-10-13T21:48:14.271259+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 294,
-    "total_views": 139663,
+    "total_uploads": 295,
+    "total_views": 139680,
     "total_likes": 18,
     "videos_per_day": 12
   },
@@ -5301,6 +5301,16 @@
     }
   },
   "runs": [
+    {
+      "id": 121,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-10-20",
+      "status": "success",
+      "video_id": "rhUX2NdpHfQ",
+      "error_message": null,
+      "created_at": "2026-10-20T07:04:15.455374+00:00"
+    },
     {
       "id": 120,
       "channel_id": "channel_1",
@@ -5490,17 +5500,7 @@
       "video_id": "sE1MOk90288",
       "error_message": null,
       "created_at": "2026-10-14T02:05:50.009992+00:00"
-    },
-    {
-      "id": 101,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-10-13",
-      "status": "success",
-      "video_id": "EPD1-OTlPtM",
-      "error_message": null,
-      "created_at": "2026-10-13T21:48:14.271259+00:00"
     }
   ],
-  "last_updated": "2026-10-20T06:11:27.758017+00:00"
+  "last_updated": "2026-10-20T07:04:19.797300+00:00"
 }
