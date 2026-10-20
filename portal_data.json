@@ -156,9 +156,9 @@
       "date": "2026-10-20",
       "ch1_views": 20,
       "ch2_views": 264,
-      "ch3_views": 267,
+      "ch3_views": 268,
       "ch4_views": 0,
-      "total_views": 551
+      "total_views": 552
     }
   ],
   "channels": {
@@ -207,12 +207,6 @@
         }
       },
       "view_history": [
-        {
-          "date": "2026-10-10",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
         {
           "date": "2026-10-11",
           "views": 2,
@@ -270,11 +264,25 @@
         {
           "date": "2026-10-20",
           "views": 0,
-          "uploads": 2,
+          "uploads": 3,
           "cumulative_views": 20
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7674223599842053389",
+          "youtube_id": "qBfYcmJ1NUk",
+          "title": "Every second just kept getting better. \u2764\ufe0f\ud83e\udd23",
+          "tiktok_views": 10200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/qBfYcmJ1NUk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-20T20:26:18Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -680,20 +688,6 @@
           "thumbnail": "https://i.ytimg.com/vi/R3zIQhqREAs/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-11T02:05:08Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7695014196232129806",
-          "youtube_id": "dXjflV4QlSQ",
-          "title": "The Whole Family Lost It When They Saw This Baby \ud83e\udd23",
-          "tiktok_views": 60900,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/dXjflV4QlSQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-10T20:34:09Z"
         }
       ],
       "runs": [
@@ -1767,9 +1761,9 @@
         },
         {
           "date": "2026-10-20",
-          "views": 7,
+          "views": 8,
           "uploads": 2,
-          "cumulative_views": 267
+          "cumulative_views": 268
         }
       ],
       "videos": [
@@ -1794,7 +1788,7 @@
           "youtube_id": "Mq_wyq3Iblg",
           "title": "Professional performing medical \u2026(1) \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Mq_wyq3Iblg/hqdefault.jpg",
@@ -2196,6 +2190,16 @@
       ],
       "runs": [
         {
+          "id": 87,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-20",
+          "status": "success",
+          "video_id": "b57e1hdftHc",
+          "error_message": null,
+          "created_at": "2026-10-20T20:34:32.991120+00:00"
+        },
+        {
           "id": 86,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2384,16 +2388,6 @@
           "video_id": "8pUIPxdFyEQ",
           "error_message": null,
           "created_at": "2026-10-14T06:07:45.343778+00:00"
-        },
-        {
-          "id": 67,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-14",
-          "status": "success",
-          "video_id": "6kjJd9sXePQ",
-          "error_message": null,
-          "created_at": "2026-10-14T01:14:40.790577+00:00"
         }
       ]
     },
@@ -2991,6 +2985,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7674223599842053389",
+      "youtube_id": "qBfYcmJ1NUk",
+      "title": "Every second just kept getting better. \u2764\ufe0f\ud83e\udd23",
+      "tiktok_views": 10200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/qBfYcmJ1NUk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-20T20:26:18Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7698803805827206414",
@@ -3081,7 +3089,7 @@
       "youtube_id": "Mq_wyq3Iblg",
       "title": "Professional performing medical \u2026(1) \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Mq_wyq3Iblg/hqdefault.jpg",
@@ -4139,20 +4147,6 @@
       "uploaded_at": "2026-10-10T20:34:47Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7695014196232129806",
-      "youtube_id": "dXjflV4QlSQ",
-      "title": "The Whole Family Lost It When They Saw This Baby \ud83e\udd23",
-      "tiktok_views": 60900,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/dXjflV4QlSQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-10T20:34:09Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7695086834581343502",
@@ -4577,12 +4571,6 @@
     },
     "view_history": [
       {
-        "date": "2026-10-10",
-        "views": 0,
-        "uploads": 1,
-        "cumulative_views": 0
-      },
-      {
         "date": "2026-10-11",
         "views": 2,
         "uploads": 3,
@@ -4639,11 +4627,25 @@
       {
         "date": "2026-10-20",
         "views": 0,
-        "uploads": 2,
+        "uploads": 3,
         "cumulative_views": 20
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7674223599842053389",
+        "youtube_id": "qBfYcmJ1NUk",
+        "title": "Every second just kept getting better. \u2764\ufe0f\ud83e\udd23",
+        "tiktok_views": 10200,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/qBfYcmJ1NUk/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-20T20:26:18Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5049,20 +5051,6 @@
         "thumbnail": "https://i.ytimg.com/vi/R3zIQhqREAs/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-11T02:05:08Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7695014196232129806",
-        "youtube_id": "dXjflV4QlSQ",
-        "title": "The Whole Family Lost It When They Saw This Baby \ud83e\udd23",
-        "tiktok_views": 60900,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/dXjflV4QlSQ/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-10T20:34:09Z"
       }
     ],
     "runs": [
@@ -5502,5 +5490,5 @@
       "created_at": "2026-10-14T07:03:28.898374+00:00"
     }
   ],
-  "last_updated": "2026-10-20T20:26:00.951210+00:00"
+  "last_updated": "2026-10-20T20:34:37.833796+00:00"
 }
