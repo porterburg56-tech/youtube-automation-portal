@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 295,
+    "total_uploads": 296,
     "total_views": 139680,
-    "total_likes": 18,
+    "total_likes": 19,
     "total_subscribers": 86,
     "channels_count": 4,
     "videos_per_day": 12
@@ -43,122 +43,122 @@
     {
       "date": "2026-09-30",
       "ch1_views": 0,
-      "ch2_views": 38,
+      "ch2_views": 39,
       "ch3_views": 0,
       "ch4_views": 842,
-      "total_views": 880
+      "total_views": 881
     },
     {
       "date": "2026-10-01",
       "ch1_views": 0,
-      "ch2_views": 47,
+      "ch2_views": 48,
       "ch3_views": 0,
       "ch4_views": 1056,
-      "total_views": 1103
+      "total_views": 1104
     },
     {
       "date": "2026-10-08",
       "ch1_views": 0,
-      "ch2_views": 70,
+      "ch2_views": 71,
       "ch3_views": 0,
       "ch4_views": 1102,
-      "total_views": 1172
+      "total_views": 1173
     },
     {
       "date": "2026-10-09",
       "ch1_views": 0,
-      "ch2_views": 93,
+      "ch2_views": 96,
       "ch3_views": 0,
       "ch4_views": 1333,
-      "total_views": 1426
+      "total_views": 1429
     },
     {
       "date": "2026-10-10",
       "ch1_views": 0,
-      "ch2_views": 122,
+      "ch2_views": 125,
       "ch3_views": 41,
       "ch4_views": 1505,
-      "total_views": 1668
+      "total_views": 1671
     },
     {
       "date": "2026-10-11",
       "ch1_views": 2,
-      "ch2_views": 137,
+      "ch2_views": 140,
       "ch3_views": 117,
       "ch4_views": 1567,
-      "total_views": 1823
+      "total_views": 1826
     },
     {
       "date": "2026-10-12",
       "ch1_views": 5,
-      "ch2_views": 138,
+      "ch2_views": 142,
       "ch3_views": 131,
       "ch4_views": 0,
-      "total_views": 274
+      "total_views": 278
     },
     {
       "date": "2026-10-13",
       "ch1_views": 6,
-      "ch2_views": 139,
+      "ch2_views": 143,
       "ch3_views": 138,
       "ch4_views": 0,
-      "total_views": 283
+      "total_views": 287
     },
     {
       "date": "2026-10-14",
       "ch1_views": 8,
-      "ch2_views": 190,
+      "ch2_views": 194,
       "ch3_views": 167,
       "ch4_views": 0,
-      "total_views": 365
+      "total_views": 369
     },
     {
       "date": "2026-10-15",
       "ch1_views": 10,
-      "ch2_views": 250,
+      "ch2_views": 254,
       "ch3_views": 200,
       "ch4_views": 0,
-      "total_views": 460
+      "total_views": 464
     },
     {
       "date": "2026-10-16",
       "ch1_views": 12,
-      "ch2_views": 259,
+      "ch2_views": 264,
       "ch3_views": 224,
       "ch4_views": 0,
-      "total_views": 495
+      "total_views": 500
     },
     {
       "date": "2026-10-17",
       "ch1_views": 16,
-      "ch2_views": 260,
+      "ch2_views": 266,
       "ch3_views": 236,
       "ch4_views": 0,
-      "total_views": 512
+      "total_views": 518
     },
     {
       "date": "2026-10-18",
       "ch1_views": 18,
-      "ch2_views": 264,
+      "ch2_views": 272,
       "ch3_views": 247,
       "ch4_views": 0,
-      "total_views": 529
+      "total_views": 537
     },
     {
       "date": "2026-10-19",
       "ch1_views": 20,
-      "ch2_views": 266,
-      "ch3_views": 258,
+      "ch2_views": 279,
+      "ch3_views": 260,
       "ch4_views": 0,
-      "total_views": 544
+      "total_views": 559
     },
     {
       "date": "2026-10-20",
       "ch1_views": 20,
-      "ch2_views": 266,
-      "ch3_views": 259,
+      "ch2_views": 285,
+      "ch3_views": 267,
       "ch4_views": 0,
-      "total_views": 545
+      "total_views": 572
     }
   ],
   "channels": {
@@ -210,7 +210,7 @@
         {
           "date": "2026-10-10",
           "views": 0,
-          "uploads": 2,
+          "uploads": 1,
           "cumulative_views": 0
         },
         {
@@ -270,11 +270,25 @@
         {
           "date": "2026-10-20",
           "views": 0,
-          "uploads": 1,
+          "uploads": 2,
           "cumulative_views": 20
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7666808830868589838",
+          "youtube_id": "rhUX2NdpHfQ",
+          "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
+          "tiktok_views": 10400,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-20T07:04:34Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -680,20 +694,6 @@
           "thumbnail": "https://i.ytimg.com/vi/dXjflV4QlSQ/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-10T20:34:09Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7692498690094681357",
-          "youtube_id": "OC__RM8tf7o",
-          "title": "Baby Saw the Hunch and Said Same \ud83d\udc80\ud83d\ude2d",
-          "tiktok_views": 58100,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/OC__RM8tf7o/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-10T08:02:16Z"
         }
       ],
       "runs": [
@@ -914,9 +914,9 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 100,
+      "total_uploads": 101,
       "total_views": 1157,
-      "total_likes": 2,
+      "total_likes": 3,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -946,93 +946,93 @@
       "view_history": [
         {
           "date": "2026-09-30",
-          "views": 38,
+          "views": 39,
           "uploads": 2,
-          "cumulative_views": 38
+          "cumulative_views": 39
         },
         {
           "date": "2026-10-01",
           "views": 9,
           "uploads": 1,
-          "cumulative_views": 47
+          "cumulative_views": 48
         },
         {
           "date": "2026-10-08",
           "views": 23,
           "uploads": 1,
-          "cumulative_views": 70
+          "cumulative_views": 71
         },
         {
           "date": "2026-10-09",
-          "views": 23,
+          "views": 25,
           "uploads": 3,
-          "cumulative_views": 93
+          "cumulative_views": 96
         },
         {
           "date": "2026-10-10",
           "views": 29,
           "uploads": 3,
-          "cumulative_views": 122
+          "cumulative_views": 125
         },
         {
           "date": "2026-10-11",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 137
+          "cumulative_views": 140
         },
         {
           "date": "2026-10-12",
-          "views": 1,
+          "views": 2,
           "uploads": 1,
-          "cumulative_views": 138
+          "cumulative_views": 142
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 139
+          "cumulative_views": 143
         },
         {
           "date": "2026-10-14",
           "views": 51,
           "uploads": 3,
-          "cumulative_views": 190
+          "cumulative_views": 194
         },
         {
           "date": "2026-10-15",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 250
+          "cumulative_views": 254
         },
         {
           "date": "2026-10-16",
-          "views": 9,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 259
-        },
-        {
-          "date": "2026-10-17",
-          "views": 1,
-          "uploads": 1,
-          "cumulative_views": 260
-        },
-        {
-          "date": "2026-10-18",
-          "views": 4,
-          "uploads": 1,
           "cumulative_views": 264
         },
         {
-          "date": "2026-10-19",
+          "date": "2026-10-17",
           "views": 2,
-          "uploads": 2,
+          "uploads": 1,
           "cumulative_views": 266
         },
         {
-          "date": "2026-10-20",
-          "views": 0,
+          "date": "2026-10-18",
+          "views": 6,
+          "uploads": 1,
+          "cumulative_views": 272
+        },
+        {
+          "date": "2026-10-19",
+          "views": 7,
           "uploads": 2,
-          "cumulative_views": 266
+          "cumulative_views": 279
+        },
+        {
+          "date": "2026-10-20",
+          "views": 6,
+          "uploads": 2,
+          "cumulative_views": 285
         }
       ],
       "videos": [
@@ -1043,7 +1043,7 @@
           "youtube_id": "pAUzjkAQAPw",
           "title": "Caramel Banana Chocolate Roll That Melts in Your Mouth \u2728",
           "tiktok_views": 15500,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/pAUzjkAQAPw/hqdefault.jpg",
@@ -1057,7 +1057,7 @@
           "youtube_id": "yzSnALdYapw",
           "title": "Strawberry Coffee Dessert Cups That Melt in Your Mouth \ud83c\udf53\u2615",
           "tiktok_views": 19800,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yzSnALdYapw/hqdefault.jpg",
@@ -1085,7 +1085,7 @@
           "youtube_id": "2iMxW-fAkPQ",
           "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
           "tiktok_views": 20200,
-          "youtube_views": 2,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
@@ -1099,8 +1099,8 @@
           "youtube_id": "MSUbBpc4whI",
           "title": "Chocolate-Filled Baked Apples with Caramel & Ice Cream \ud83c\udf4e\ud83c\udf6b",
           "tiktok_views": 6300,
-          "youtube_views": 4,
-          "youtube_likes": 0,
+          "youtube_views": 6,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MSUbBpc4whI/hqdefault.jpg",
           "status": "uploaded",
@@ -1113,7 +1113,7 @@
           "youtube_id": "U127bm3H1rs",
           "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
           "tiktok_views": 2043,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -1127,7 +1127,7 @@
           "youtube_id": "uj8JC01qM2A",
           "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
           "tiktok_views": 20400,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/uj8JC01qM2A/hqdefault.jpg",
@@ -1267,7 +1267,7 @@
           "youtube_id": "1kBN7vwWcjk",
           "title": "Lithuanian Grandma\u2019s Secret Homemade Cheese \u2728",
           "tiktok_views": 27700,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/1kBN7vwWcjk/hqdefault.jpg",
@@ -1365,7 +1365,7 @@
           "youtube_id": "ca3bS1RBvvc",
           "title": "Creamy Garlic Butter Salmon with Mushroom Sauce \ud83c\udf4b",
           "tiktok_views": 13200,
-          "youtube_views": 6,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ca3bS1RBvvc/hqdefault.jpg",
@@ -1449,7 +1449,7 @@
           "youtube_id": "-zufAR-O6XE",
           "title": "cheesy Sausage Puff Pastry Buns \u2728",
           "tiktok_views": 12800,
-          "youtube_views": 20,
+          "youtube_views": 21,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-zufAR-O6XE/hqdefault.jpg",
@@ -1458,6 +1458,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 129,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-10-20",
+          "status": "success",
+          "video_id": "Iza2ltweH_c",
+          "error_message": null,
+          "created_at": "2026-10-20T20:03:15.090028+00:00"
+        },
         {
           "id": 128,
           "channel_id": "channel_2",
@@ -1647,16 +1657,6 @@
           "video_id": "jzpE865wP6E",
           "error_message": null,
           "created_at": "2026-10-15T19:51:01.294721+00:00"
-        },
-        {
-          "id": 109,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-15",
-          "status": "success",
-          "video_id": "jLH_dVJ-0pI",
-          "error_message": null,
-          "created_at": "2026-10-15T05:43:24.004105+00:00"
         }
       ]
     },
@@ -1761,15 +1761,15 @@
         },
         {
           "date": "2026-10-19",
-          "views": 11,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 258
+          "cumulative_views": 260
         },
         {
           "date": "2026-10-20",
-          "views": 1,
+          "views": 7,
           "uploads": 2,
-          "cumulative_views": 259
+          "cumulative_views": 267
         }
       ],
       "videos": [
@@ -1780,7 +1780,7 @@
           "youtube_id": "9SDtjEvNU1c",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9SDtjEvNU1c/hqdefault.jpg",
@@ -1794,7 +1794,7 @@
           "youtube_id": "Mq_wyq3Iblg",
           "title": "Professional performing medical \u2026(1) \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Mq_wyq3Iblg/hqdefault.jpg",
@@ -1836,7 +1836,7 @@
           "youtube_id": "1U-cjk22cW8",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 10,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/1U-cjk22cW8/hqdefault.jpg",
@@ -2991,13 +2991,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7666808830868589838",
+      "youtube_id": "rhUX2NdpHfQ",
+      "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
+      "tiktok_views": 10400,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-20T07:04:34Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1ujMsLP1Sd6EDMAFmb9Euq7g_14RbVh57",
       "youtube_id": "9SDtjEvNU1c",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9SDtjEvNU1c/hqdefault.jpg",
@@ -3011,7 +3025,7 @@
       "youtube_id": "pAUzjkAQAPw",
       "title": "Caramel Banana Chocolate Roll That Melts in Your Mouth \u2728",
       "tiktok_views": 15500,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/pAUzjkAQAPw/hqdefault.jpg",
@@ -3039,7 +3053,7 @@
       "youtube_id": "yzSnALdYapw",
       "title": "Strawberry Coffee Dessert Cups That Melt in Your Mouth \ud83c\udf53\u2615",
       "tiktok_views": 19800,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yzSnALdYapw/hqdefault.jpg",
@@ -3053,7 +3067,7 @@
       "youtube_id": "Mq_wyq3Iblg",
       "title": "Professional performing medical \u2026(1) \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Mq_wyq3Iblg/hqdefault.jpg",
@@ -3137,7 +3151,7 @@
       "youtube_id": "2iMxW-fAkPQ",
       "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
       "tiktok_views": 20200,
-      "youtube_views": 2,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
@@ -3165,7 +3179,7 @@
       "youtube_id": "1U-cjk22cW8",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 10,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/1U-cjk22cW8/hqdefault.jpg",
@@ -3207,8 +3221,8 @@
       "youtube_id": "MSUbBpc4whI",
       "title": "Chocolate-Filled Baked Apples with Caramel & Ice Cream \ud83c\udf4e\ud83c\udf6b",
       "tiktok_views": 6300,
-      "youtube_views": 4,
-      "youtube_likes": 0,
+      "youtube_views": 6,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MSUbBpc4whI/hqdefault.jpg",
       "status": "uploaded",
@@ -3305,7 +3319,7 @@
       "youtube_id": "U127bm3H1rs",
       "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
       "tiktok_views": 2043,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -3403,7 +3417,7 @@
       "youtube_id": "uj8JC01qM2A",
       "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
       "tiktok_views": 20400,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/uj8JC01qM2A/hqdefault.jpg",
@@ -3921,7 +3935,7 @@
       "youtube_id": "1kBN7vwWcjk",
       "title": "Lithuanian Grandma\u2019s Secret Homemade Cheese \u2728",
       "tiktok_views": 27700,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/1kBN7vwWcjk/hqdefault.jpg",
@@ -4139,20 +4153,6 @@
       "uploaded_at": "2026-10-10T19:47:55Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7692498690094681357",
-      "youtube_id": "OC__RM8tf7o",
-      "title": "Baby Saw the Hunch and Said Same \ud83d\udc80\ud83d\ude2d",
-      "tiktok_views": 58100,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/OC__RM8tf7o/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-10T08:02:16Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1HbclGIy9beUbyVJVS7Oq3zqgOawYT4SV",
@@ -4229,7 +4229,7 @@
       "youtube_id": "ca3bS1RBvvc",
       "title": "Creamy Garlic Butter Salmon with Mushroom Sauce \ud83c\udf4b",
       "tiktok_views": 13200,
-      "youtube_views": 6,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ca3bS1RBvvc/hqdefault.jpg",
@@ -4411,7 +4411,7 @@
       "youtube_id": "-zufAR-O6XE",
       "title": "cheesy Sausage Puff Pastry Buns \u2728",
       "tiktok_views": 12800,
-      "youtube_views": 20,
+      "youtube_views": 21,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-zufAR-O6XE/hqdefault.jpg",
@@ -4579,7 +4579,7 @@
       {
         "date": "2026-10-10",
         "views": 0,
-        "uploads": 2,
+        "uploads": 1,
         "cumulative_views": 0
       },
       {
@@ -4639,11 +4639,25 @@
       {
         "date": "2026-10-20",
         "views": 0,
-        "uploads": 1,
+        "uploads": 2,
         "cumulative_views": 20
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7666808830868589838",
+        "youtube_id": "rhUX2NdpHfQ",
+        "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
+        "tiktok_views": 10400,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-20T07:04:34Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5049,20 +5063,6 @@
         "thumbnail": "https://i.ytimg.com/vi/dXjflV4QlSQ/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-10T20:34:09Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7692498690094681357",
-        "youtube_id": "OC__RM8tf7o",
-        "title": "Baby Saw the Hunch and Said Same \ud83d\udc80\ud83d\ude2d",
-        "tiktok_views": 58100,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/OC__RM8tf7o/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-10T08:02:16Z"
       }
     ],
     "runs": [
@@ -5269,9 +5269,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 295,
+    "total_uploads": 296,
     "total_views": 139680,
-    "total_likes": 18,
+    "total_likes": 19,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5502,5 +5502,5 @@
       "created_at": "2026-10-14T02:05:50.009992+00:00"
     }
   ],
-  "last_updated": "2026-10-20T07:04:19.797300+00:00"
+  "last_updated": "2026-10-20T20:03:20.203002+00:00"
 }
