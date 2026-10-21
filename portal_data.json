@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 301,
+    "total_uploads": 302,
     "total_views": 139680,
     "total_likes": 19,
     "total_subscribers": 86,
@@ -162,11 +162,11 @@
     },
     {
       "date": "2026-10-21",
-      "ch1_views": 0,
+      "ch1_views": 20,
       "ch2_views": 251,
       "ch3_views": 216,
       "ch4_views": 0,
-      "total_views": 467
+      "total_views": 487
     }
   ],
   "channels": {
@@ -218,7 +218,7 @@
         {
           "date": "2026-10-11",
           "views": 2,
-          "uploads": 3,
+          "uploads": 2,
           "cumulative_views": 2
         },
         {
@@ -274,9 +274,29 @@
           "views": 0,
           "uploads": 3,
           "cumulative_views": 20
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 20
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7665738549227982094",
+          "youtube_id": "re3Apr51YDA",
+          "title": "\ud83d\ude02 The Most Relatable Kitchen Mom Ever!",
+          "tiktok_views": 9741,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/re3Apr51YDA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-21T01:54:56Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -682,20 +702,6 @@
           "thumbnail": "https://i.ytimg.com/vi/gRuZjiZkyz8/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-11T08:14:21Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7691015084323130638",
-          "youtube_id": "R3zIQhqREAs",
-          "title": "He didn't miss a single detail and that's what got us \ud83d\ude02",
-          "tiktok_views": 37300,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/R3zIQhqREAs/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-11T02:05:08Z"
         }
       ],
       "runs": [
@@ -916,7 +922,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 5,
-      "total_uploads": 102,
+      "total_uploads": 103,
       "total_views": 1157,
       "total_likes": 3,
       "upcoming": {
@@ -1461,6 +1467,16 @@
       ],
       "runs": [
         {
+          "id": 131,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-21",
+          "status": "success",
+          "video_id": "ayQRr1rtLA8",
+          "error_message": null,
+          "created_at": "2026-10-21T06:00:34.381149+00:00"
+        },
+        {
           "id": 130,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1649,16 +1665,6 @@
           "video_id": "SQjPyQBOw9o",
           "error_message": null,
           "created_at": "2026-10-16T05:35:12.614303+00:00"
-        },
-        {
-          "id": 111,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-16",
-          "status": "success",
-          "video_id": "d0LEj00HEeE",
-          "error_message": null,
-          "created_at": "2026-10-16T00:20:25.599525+00:00"
         }
       ]
     },
@@ -2993,6 +2999,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7665738549227982094",
+      "youtube_id": "re3Apr51YDA",
+      "title": "\ud83d\ude02 The Most Relatable Kitchen Mom Ever!",
+      "tiktok_views": 9741,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/re3Apr51YDA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-21T01:54:56Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7660588704481807629",
@@ -4113,20 +4133,6 @@
       "uploaded_at": "2026-10-11T06:59:32Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7691015084323130638",
-      "youtube_id": "R3zIQhqREAs",
-      "title": "He didn't miss a single detail and that's what got us \ud83d\ude02",
-      "tiktok_views": 37300,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/R3zIQhqREAs/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-11T02:05:08Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -4581,7 +4587,7 @@
       {
         "date": "2026-10-11",
         "views": 2,
-        "uploads": 3,
+        "uploads": 2,
         "cumulative_views": 2
       },
       {
@@ -4637,9 +4643,29 @@
         "views": 0,
         "uploads": 3,
         "cumulative_views": 20
+      },
+      {
+        "date": "2026-10-21",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 20
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7665738549227982094",
+        "youtube_id": "re3Apr51YDA",
+        "title": "\ud83d\ude02 The Most Relatable Kitchen Mom Ever!",
+        "tiktok_views": 9741,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/re3Apr51YDA/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-21T01:54:56Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5045,20 +5071,6 @@
         "thumbnail": "https://i.ytimg.com/vi/gRuZjiZkyz8/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-11T08:14:21Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7691015084323130638",
-        "youtube_id": "R3zIQhqREAs",
-        "title": "He didn't miss a single detail and that's what got us \ud83d\ude02",
-        "tiktok_views": 37300,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/R3zIQhqREAs/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-11T02:05:08Z"
       }
     ],
     "runs": [
@@ -5265,7 +5277,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 301,
+    "total_uploads": 302,
     "total_views": 139680,
     "total_likes": 19,
     "videos_per_day": 12
@@ -5498,5 +5510,5 @@
       "created_at": "2026-10-14T20:34:08.158134+00:00"
     }
   ],
-  "last_updated": "2026-10-21T01:54:31.035111+00:00"
+  "last_updated": "2026-10-21T06:00:39.550012+00:00"
 }
