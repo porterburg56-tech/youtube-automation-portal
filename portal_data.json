@@ -43,130 +43,130 @@
     {
       "date": "2026-09-30",
       "ch1_views": 0,
-      "ch2_views": 18,
+      "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 842,
-      "total_views": 860
+      "total_views": 842
     },
     {
       "date": "2026-10-01",
       "ch1_views": 0,
-      "ch2_views": 27,
+      "ch2_views": 9,
       "ch3_views": 0,
       "ch4_views": 1056,
-      "total_views": 1083
+      "total_views": 1065
     },
     {
       "date": "2026-10-08",
       "ch1_views": 0,
-      "ch2_views": 51,
+      "ch2_views": 33,
       "ch3_views": 0,
       "ch4_views": 1102,
-      "total_views": 1153
+      "total_views": 1135
     },
     {
       "date": "2026-10-09",
       "ch1_views": 0,
-      "ch2_views": 76,
+      "ch2_views": 58,
       "ch3_views": 0,
       "ch4_views": 1333,
-      "total_views": 1409
+      "total_views": 1391
     },
     {
       "date": "2026-10-10",
       "ch1_views": 0,
-      "ch2_views": 106,
+      "ch2_views": 88,
       "ch3_views": 0,
       "ch4_views": 1505,
-      "total_views": 1611
+      "total_views": 1593
     },
     {
       "date": "2026-10-11",
       "ch1_views": 2,
-      "ch2_views": 121,
+      "ch2_views": 103,
       "ch3_views": 61,
       "ch4_views": 1567,
-      "total_views": 1751
+      "total_views": 1733
     },
     {
       "date": "2026-10-12",
       "ch1_views": 5,
-      "ch2_views": 123,
+      "ch2_views": 105,
       "ch3_views": 75,
       "ch4_views": 0,
-      "total_views": 203
+      "total_views": 185
     },
     {
       "date": "2026-10-13",
       "ch1_views": 6,
-      "ch2_views": 124,
+      "ch2_views": 106,
       "ch3_views": 82,
       "ch4_views": 0,
-      "total_views": 212
+      "total_views": 194
     },
     {
       "date": "2026-10-14",
       "ch1_views": 8,
-      "ch2_views": 175,
+      "ch2_views": 157,
       "ch3_views": 111,
       "ch4_views": 0,
-      "total_views": 294
+      "total_views": 276
     },
     {
       "date": "2026-10-15",
       "ch1_views": 10,
-      "ch2_views": 235,
+      "ch2_views": 217,
       "ch3_views": 144,
       "ch4_views": 0,
-      "total_views": 389
+      "total_views": 371
     },
     {
       "date": "2026-10-16",
       "ch1_views": 12,
-      "ch2_views": 245,
+      "ch2_views": 227,
       "ch3_views": 168,
       "ch4_views": 0,
-      "total_views": 425
+      "total_views": 407
     },
     {
       "date": "2026-10-17",
       "ch1_views": 16,
-      "ch2_views": 247,
+      "ch2_views": 229,
       "ch3_views": 180,
       "ch4_views": 0,
-      "total_views": 443
+      "total_views": 425
     },
     {
       "date": "2026-10-18",
       "ch1_views": 18,
-      "ch2_views": 253,
+      "ch2_views": 235,
       "ch3_views": 191,
       "ch4_views": 0,
-      "total_views": 462
+      "total_views": 444
     },
     {
       "date": "2026-10-19",
       "ch1_views": 20,
-      "ch2_views": 261,
+      "ch2_views": 243,
       "ch3_views": 206,
       "ch4_views": 0,
-      "total_views": 487
+      "total_views": 469
     },
     {
       "date": "2026-10-20",
       "ch1_views": 20,
-      "ch2_views": 269,
+      "ch2_views": 251,
       "ch3_views": 216,
       "ch4_views": 0,
-      "total_views": 505
+      "total_views": 487
     },
     {
       "date": "2026-10-21",
       "ch1_views": 0,
-      "ch2_views": 0,
+      "ch2_views": 251,
       "ch3_views": 216,
       "ch4_views": 0,
-      "total_views": 216
+      "total_views": 467
     }
   ],
   "channels": {
@@ -947,97 +947,111 @@
       },
       "view_history": [
         {
-          "date": "2026-09-30",
-          "views": 18,
-          "uploads": 1,
-          "cumulative_views": 18
-        },
-        {
           "date": "2026-10-01",
           "views": 9,
           "uploads": 1,
-          "cumulative_views": 27
+          "cumulative_views": 9
         },
         {
           "date": "2026-10-08",
           "views": 24,
           "uploads": 1,
-          "cumulative_views": 51
+          "cumulative_views": 33
         },
         {
           "date": "2026-10-09",
           "views": 25,
           "uploads": 3,
-          "cumulative_views": 76
+          "cumulative_views": 58
         },
         {
           "date": "2026-10-10",
           "views": 30,
           "uploads": 3,
-          "cumulative_views": 106
+          "cumulative_views": 88
         },
         {
           "date": "2026-10-11",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 121
+          "cumulative_views": 103
         },
         {
           "date": "2026-10-12",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 123
+          "cumulative_views": 105
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 124
+          "cumulative_views": 106
         },
         {
           "date": "2026-10-14",
           "views": 51,
           "uploads": 3,
-          "cumulative_views": 175
+          "cumulative_views": 157
         },
         {
           "date": "2026-10-15",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 235
+          "cumulative_views": 217
         },
         {
           "date": "2026-10-16",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 245
+          "cumulative_views": 227
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 247
+          "cumulative_views": 229
         },
         {
           "date": "2026-10-18",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 253
+          "cumulative_views": 235
         },
         {
           "date": "2026-10-19",
           "views": 8,
           "uploads": 2,
-          "cumulative_views": 261
+          "cumulative_views": 243
         },
         {
           "date": "2026-10-20",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 269
+          "cumulative_views": 251
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 251
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7660588704481807629",
+          "youtube_id": "YYS9GsqQmxE",
+          "title": "Berry Cream Puff Pastry Cups That Melt in Your Mouth \ud83e\uded0\ud83c\udf53",
+          "tiktok_views": 14500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/YYS9GsqQmxE/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-21T00:42:10Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1443,20 +1457,6 @@
           "thumbnail": "https://i.ytimg.com/vi/8hVy-DxVf34/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-01T01:25:13Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7640915995560840462",
-          "youtube_id": "-GRed2gXLDQ",
-          "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
-          "tiktok_views": 39800,
-          "youtube_views": 18,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/-GRed2gXLDQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-09-30T22:31:32Z"
         }
       ],
       "runs": [
@@ -2789,6 +2789,16 @@
       ],
       "runs": [
         {
+          "id": 81,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-10-21",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-21T00:42:58.001551+00:00"
+        },
+        {
           "id": 80,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2977,21 +2987,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-14T20:53:45.072607+00:00"
-        },
-        {
-          "id": 61,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-14",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-14T06:18:47.275480+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7660588704481807629",
+      "youtube_id": "YYS9GsqQmxE",
+      "title": "Berry Cream Puff Pastry Cups That Melt in Your Mouth \ud83e\uded0\ud83c\udf53",
+      "tiktok_views": 14500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/YYS9GsqQmxE/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-21T00:42:10Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -4393,20 +4407,6 @@
       "uploaded_at": "2026-09-30T22:37:57Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7640915995560840462",
-      "youtube_id": "-GRed2gXLDQ",
-      "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
-      "tiktok_views": 39800,
-      "youtube_views": 18,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/-GRed2gXLDQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-09-30T22:31:32Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1rlTHAM2JsM3WY2Mm-hB5QU5OBACaIx4o",
@@ -5498,5 +5498,5 @@
       "created_at": "2026-10-14T07:03:28.898374+00:00"
     }
   ],
-  "last_updated": "2026-10-21T00:41:06.875421+00:00"
+  "last_updated": "2026-10-21T00:43:01.888301+00:00"
 }
