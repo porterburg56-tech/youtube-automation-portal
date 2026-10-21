@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 302,
-    "total_views": 139697,
+    "total_uploads": 303,
+    "total_views": 139703,
     "total_likes": 19,
     "total_subscribers": 86,
     "channels_count": 4,
@@ -51,122 +51,122 @@
     {
       "date": "2026-10-01",
       "ch1_views": 0,
-      "ch2_views": 9,
+      "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 1056,
-      "total_views": 1065
+      "total_views": 1056
     },
     {
       "date": "2026-10-08",
       "ch1_views": 0,
-      "ch2_views": 33,
+      "ch2_views": 24,
       "ch3_views": 0,
       "ch4_views": 1102,
-      "total_views": 1135
+      "total_views": 1126
     },
     {
       "date": "2026-10-09",
       "ch1_views": 0,
-      "ch2_views": 58,
+      "ch2_views": 49,
       "ch3_views": 0,
       "ch4_views": 1333,
-      "total_views": 1391
+      "total_views": 1382
     },
     {
       "date": "2026-10-10",
       "ch1_views": 0,
-      "ch2_views": 88,
+      "ch2_views": 79,
       "ch3_views": 0,
       "ch4_views": 1505,
-      "total_views": 1593
+      "total_views": 1584
     },
     {
       "date": "2026-10-11",
       "ch1_views": 2,
-      "ch2_views": 103,
-      "ch3_views": 61,
+      "ch2_views": 94,
+      "ch3_views": 33,
       "ch4_views": 1567,
-      "total_views": 1733
+      "total_views": 1696
     },
     {
       "date": "2026-10-12",
       "ch1_views": 5,
-      "ch2_views": 105,
-      "ch3_views": 75,
+      "ch2_views": 96,
+      "ch3_views": 47,
       "ch4_views": 0,
-      "total_views": 185
+      "total_views": 148
     },
     {
       "date": "2026-10-13",
       "ch1_views": 6,
-      "ch2_views": 106,
-      "ch3_views": 82,
+      "ch2_views": 97,
+      "ch3_views": 54,
       "ch4_views": 0,
-      "total_views": 194
+      "total_views": 157
     },
     {
       "date": "2026-10-14",
       "ch1_views": 8,
-      "ch2_views": 157,
-      "ch3_views": 111,
+      "ch2_views": 148,
+      "ch3_views": 83,
       "ch4_views": 0,
-      "total_views": 276
+      "total_views": 239
     },
     {
       "date": "2026-10-15",
       "ch1_views": 10,
-      "ch2_views": 217,
-      "ch3_views": 144,
+      "ch2_views": 208,
+      "ch3_views": 116,
       "ch4_views": 0,
-      "total_views": 371
+      "total_views": 334
     },
     {
       "date": "2026-10-16",
       "ch1_views": 12,
-      "ch2_views": 227,
-      "ch3_views": 168,
+      "ch2_views": 218,
+      "ch3_views": 140,
       "ch4_views": 0,
-      "total_views": 407
+      "total_views": 370
     },
     {
       "date": "2026-10-17",
       "ch1_views": 16,
-      "ch2_views": 229,
-      "ch3_views": 180,
+      "ch2_views": 220,
+      "ch3_views": 152,
       "ch4_views": 0,
-      "total_views": 425
+      "total_views": 388
     },
     {
       "date": "2026-10-18",
       "ch1_views": 18,
-      "ch2_views": 235,
-      "ch3_views": 191,
+      "ch2_views": 226,
+      "ch3_views": 163,
       "ch4_views": 0,
-      "total_views": 444
+      "total_views": 407
     },
     {
       "date": "2026-10-19",
       "ch1_views": 20,
-      "ch2_views": 243,
-      "ch3_views": 206,
+      "ch2_views": 234,
+      "ch3_views": 178,
       "ch4_views": 0,
-      "total_views": 469
+      "total_views": 432
     },
     {
       "date": "2026-10-20",
       "ch1_views": 20,
-      "ch2_views": 251,
-      "ch3_views": 216,
+      "ch2_views": 242,
+      "ch3_views": 188,
       "ch4_views": 0,
-      "total_views": 487
+      "total_views": 450
     },
     {
       "date": "2026-10-21",
       "ch1_views": 20,
-      "ch2_views": 251,
-      "ch3_views": 216,
+      "ch2_views": 242,
+      "ch3_views": 188,
       "ch4_views": 0,
-      "total_views": 487
+      "total_views": 450
     }
   ],
   "channels": {
@@ -186,7 +186,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 114,
-      "total_views": 645,
+      "total_views": 647,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -953,97 +953,105 @@
       },
       "view_history": [
         {
-          "date": "2026-10-01",
-          "views": 9,
-          "uploads": 1,
-          "cumulative_views": 9
-        },
-        {
           "date": "2026-10-08",
           "views": 24,
           "uploads": 1,
-          "cumulative_views": 33
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-09",
           "views": 25,
           "uploads": 3,
-          "cumulative_views": 58
+          "cumulative_views": 49
         },
         {
           "date": "2026-10-10",
           "views": 30,
           "uploads": 3,
-          "cumulative_views": 88
+          "cumulative_views": 79
         },
         {
           "date": "2026-10-11",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 103
+          "cumulative_views": 94
         },
         {
           "date": "2026-10-12",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 105
+          "cumulative_views": 96
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 106
+          "cumulative_views": 97
         },
         {
           "date": "2026-10-14",
           "views": 51,
           "uploads": 3,
-          "cumulative_views": 157
+          "cumulative_views": 148
         },
         {
           "date": "2026-10-15",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 217
+          "cumulative_views": 208
         },
         {
           "date": "2026-10-16",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 227
+          "cumulative_views": 218
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 229
+          "cumulative_views": 220
         },
         {
           "date": "2026-10-18",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 235
+          "cumulative_views": 226
         },
         {
           "date": "2026-10-19",
           "views": 8,
           "uploads": 2,
-          "cumulative_views": 243
+          "cumulative_views": 234
         },
         {
           "date": "2026-10-20",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 251
+          "cumulative_views": 242
         },
         {
           "date": "2026-10-21",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 251
+          "uploads": 2,
+          "cumulative_views": 242
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7652075854129827085",
+          "youtube_id": "ayQRr1rtLA8",
+          "title": "The Secret to the Juiciest Beef Liver Cabbage Bake \u2728",
+          "tiktok_views": 14100,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/ayQRr1rtLA8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-21T06:01:29Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1449,20 +1457,6 @@
           "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-08T21:08:02Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7691388896445238542",
-          "youtube_id": "8hVy-DxVf34",
-          "title": "Cheesy Stuffed Meat & Potato Bake \u2728",
-          "tiktok_views": 38600,
-          "youtube_views": 9,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/8hVy-DxVf34/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-01T01:25:13Z"
         }
       ],
       "runs": [
@@ -1683,8 +1677,8 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 65,
-      "total_views": 136312,
+      "total_uploads": 66,
+      "total_views": 136315,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -1715,72 +1709,86 @@
       "view_history": [
         {
           "date": "2026-10-11",
-          "views": 61,
-          "uploads": 2,
-          "cumulative_views": 61
+          "views": 33,
+          "uploads": 1,
+          "cumulative_views": 33
         },
         {
           "date": "2026-10-12",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 75
+          "cumulative_views": 47
         },
         {
           "date": "2026-10-13",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 82
+          "cumulative_views": 54
         },
         {
           "date": "2026-10-14",
           "views": 29,
           "uploads": 3,
-          "cumulative_views": 111
+          "cumulative_views": 83
         },
         {
           "date": "2026-10-15",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 144
+          "cumulative_views": 116
         },
         {
           "date": "2026-10-16",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 168
+          "cumulative_views": 140
         },
         {
           "date": "2026-10-17",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 180
+          "cumulative_views": 152
         },
         {
           "date": "2026-10-18",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 191
+          "cumulative_views": 163
         },
         {
           "date": "2026-10-19",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 206
+          "cumulative_views": 178
         },
         {
           "date": "2026-10-20",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 216
+          "cumulative_views": 188
         },
         {
           "date": "2026-10-21",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 216
+          "uploads": 2,
+          "cumulative_views": 188
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "116XbV47my82kETqOZaTZ46vCLsp0qfLf",
+          "youtube_id": "BtA_lcZ1mzU",
+          "title": "Professional performing medical \u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/BtA_lcZ1mzU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-21T06:00:52Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2186,20 +2194,6 @@
           "thumbnail": "https://i.ytimg.com/vi/_zVtCB5Fy5o/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-11T20:58:37Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1njVUZ6znewVz2SKtr2yMdgJnsW_wQIPL",
-          "youtube_id": "ei5AX54nPqk",
-          "title": "Forceps removing thorn from toenail \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 28,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-11T07:10:06Z"
         }
       ],
       "runs": [
@@ -2421,7 +2415,7 @@
       "category": "Remote Work & Side Hustles",
       "subscribers": 5,
       "total_uploads": 20,
-      "total_views": 1566,
+      "total_views": 1567,
       "total_likes": 15,
       "upcoming": {
         "slot1": {
@@ -2795,6 +2789,16 @@
       ],
       "runs": [
         {
+          "id": 82,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-10-21",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-21T06:09:44.633759+00:00"
+        },
+        {
           "id": 81,
           "channel_id": "channel_4",
           "slot": 2,
@@ -2983,21 +2987,39 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-15T00:38:26.656140+00:00"
-        },
-        {
-          "id": 62,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-10-14",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-14T20:53:45.072607+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7652075854129827085",
+      "youtube_id": "ayQRr1rtLA8",
+      "title": "The Secret to the Juiciest Beef Liver Cabbage Bake \u2728",
+      "tiktok_views": 14100,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/ayQRr1rtLA8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-21T06:01:29Z"
+    },
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "116XbV47my82kETqOZaTZ46vCLsp0qfLf",
+      "youtube_id": "BtA_lcZ1mzU",
+      "title": "Professional performing medical \u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/BtA_lcZ1mzU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-21T06:00:52Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -4105,20 +4127,6 @@
       "uploaded_at": "2026-10-11T08:14:21Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1njVUZ6znewVz2SKtr2yMdgJnsW_wQIPL",
-      "youtube_id": "ei5AX54nPqk",
-      "title": "Forceps removing thorn from toenail \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 28,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/ei5AX54nPqk/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-11T07:10:06Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7651326904666049806",
@@ -4385,20 +4393,6 @@
       "uploaded_at": "2026-10-01T01:38:00Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7691388896445238542",
-      "youtube_id": "8hVy-DxVf34",
-      "title": "Cheesy Stuffed Meat & Potato Bake \u2728",
-      "tiktok_views": 38600,
-      "youtube_views": 9,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/8hVy-DxVf34/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-01T01:25:13Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1vRih7nouoGhL9ViqMOdnPnhWR1m6-jOj",
@@ -4555,7 +4549,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 114,
-    "total_views": 645,
+    "total_views": 647,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5277,8 +5271,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 302,
-    "total_views": 139697,
+    "total_uploads": 303,
+    "total_views": 139703,
     "total_likes": 19,
     "videos_per_day": 12
   },
@@ -5510,5 +5504,5 @@
       "created_at": "2026-10-14T20:34:08.158134+00:00"
     }
   ],
-  "last_updated": "2026-10-21T06:00:44.227746+00:00"
+  "last_updated": "2026-10-21T06:09:48.431404+00:00"
 }
