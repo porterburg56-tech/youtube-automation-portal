@@ -82,91 +82,91 @@
     },
     {
       "date": "2026-10-11",
-      "ch1_views": 2,
+      "ch1_views": 0,
       "ch2_views": 75,
       "ch3_views": 33,
       "ch4_views": 1567,
-      "total_views": 1677
+      "total_views": 1675
     },
     {
       "date": "2026-10-12",
-      "ch1_views": 5,
+      "ch1_views": 3,
       "ch2_views": 77,
       "ch3_views": 47,
       "ch4_views": 0,
-      "total_views": 129
+      "total_views": 127
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 7,
+      "ch1_views": 5,
       "ch2_views": 78,
       "ch3_views": 54,
       "ch4_views": 0,
-      "total_views": 139
+      "total_views": 137
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 9,
+      "ch1_views": 7,
       "ch2_views": 130,
       "ch3_views": 83,
       "ch4_views": 0,
-      "total_views": 222
+      "total_views": 220
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 11,
+      "ch1_views": 9,
       "ch2_views": 190,
       "ch3_views": 116,
       "ch4_views": 0,
-      "total_views": 317
+      "total_views": 315
     },
     {
       "date": "2026-10-16",
-      "ch1_views": 13,
+      "ch1_views": 11,
       "ch2_views": 200,
       "ch3_views": 140,
       "ch4_views": 0,
-      "total_views": 353
+      "total_views": 351
     },
     {
       "date": "2026-10-17",
-      "ch1_views": 17,
+      "ch1_views": 15,
       "ch2_views": 202,
       "ch3_views": 152,
       "ch4_views": 0,
-      "total_views": 371
+      "total_views": 369
     },
     {
       "date": "2026-10-18",
-      "ch1_views": 19,
+      "ch1_views": 17,
       "ch2_views": 208,
       "ch3_views": 163,
       "ch4_views": 0,
-      "total_views": 390
+      "total_views": 388
     },
     {
       "date": "2026-10-19",
-      "ch1_views": 21,
+      "ch1_views": 19,
       "ch2_views": 218,
       "ch3_views": 179,
       "ch4_views": 0,
-      "total_views": 418
+      "total_views": 416
     },
     {
       "date": "2026-10-20",
-      "ch1_views": 21,
+      "ch1_views": 19,
       "ch2_views": 227,
       "ch3_views": 195,
       "ch4_views": 0,
-      "total_views": 443
+      "total_views": 441
     },
     {
       "date": "2026-10-21",
-      "ch1_views": 21,
+      "ch1_views": 19,
       "ch2_views": 231,
       "ch3_views": 198,
       "ch4_views": 0,
-      "total_views": 450
+      "total_views": 448
     }
   ],
   "channels": {
@@ -216,73 +216,81 @@
       },
       "view_history": [
         {
-          "date": "2026-10-11",
-          "views": 2,
-          "uploads": 1,
-          "cumulative_views": 2
-        },
-        {
           "date": "2026-10-12",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 5
+          "cumulative_views": 3
         },
         {
           "date": "2026-10-13",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 7
+          "cumulative_views": 5
         },
         {
           "date": "2026-10-14",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 9
+          "cumulative_views": 7
         },
         {
           "date": "2026-10-15",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 11
+          "cumulative_views": 9
         },
         {
           "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 11
         },
         {
           "date": "2026-10-17",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-18",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-19",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-20",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-21",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 21
+          "uploads": 3,
+          "cumulative_views": 19
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7673133248737791245",
+          "youtube_id": "qNiLZXw8-44",
+          "title": "The serious face made everything funnier. \ud83e\udd2d",
+          "tiktok_views": 6571,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/qNiLZXw8-44/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-21T20:31:58Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -688,20 +696,6 @@
           "thumbnail": "https://i.ytimg.com/vi/LyvSs6dOwMU/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-12T02:36:17Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7695416744529153293",
-          "youtube_id": "oiBciIgSOwU",
-          "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
-          "tiktok_views": 9355,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/oiBciIgSOwU/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-11T20:54:09Z"
         }
       ],
       "runs": [
@@ -2192,6 +2186,16 @@
       ],
       "runs": [
         {
+          "id": 90,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-21",
+          "status": "success",
+          "video_id": "ZBB38thwV8M",
+          "error_message": null,
+          "created_at": "2026-10-21T20:37:02.220828+00:00"
+        },
+        {
           "id": 89,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2380,16 +2384,6 @@
           "video_id": "lE-BNNNG298",
           "error_message": null,
           "created_at": "2026-10-15T05:53:31.965377+00:00"
-        },
-        {
-          "id": 70,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-15",
-          "status": "success",
-          "video_id": "av6qkqzBP40",
-          "error_message": null,
-          "created_at": "2026-10-15T00:32:13.657448+00:00"
         }
       ]
     },
@@ -2986,6 +2980,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7673133248737791245",
+      "youtube_id": "qNiLZXw8-44",
+      "title": "The serious face made everything funnier. \ud83e\udd2d",
+      "tiktok_views": 6571,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/qNiLZXw8-44/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-21T20:31:58Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4107,20 +4115,6 @@
       "uploaded_at": "2026-10-11T20:58:37Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7695416744529153293",
-      "youtube_id": "oiBciIgSOwU",
-      "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
-      "tiktok_views": 9355,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/oiBciIgSOwU/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-11T20:54:09Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7695449801269202190",
@@ -4573,73 +4567,81 @@
     },
     "view_history": [
       {
-        "date": "2026-10-11",
-        "views": 2,
-        "uploads": 1,
-        "cumulative_views": 2
-      },
-      {
         "date": "2026-10-12",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 5
+        "cumulative_views": 3
       },
       {
         "date": "2026-10-13",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 7
+        "cumulative_views": 5
       },
       {
         "date": "2026-10-14",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 9
+        "cumulative_views": 7
       },
       {
         "date": "2026-10-15",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 11
+        "cumulative_views": 9
       },
       {
         "date": "2026-10-16",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 11
       },
       {
         "date": "2026-10-17",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 15
       },
       {
         "date": "2026-10-18",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 19
+        "cumulative_views": 17
       },
       {
         "date": "2026-10-19",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 19
       },
       {
         "date": "2026-10-20",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 19
       },
       {
         "date": "2026-10-21",
         "views": 0,
-        "uploads": 2,
-        "cumulative_views": 21
+        "uploads": 3,
+        "cumulative_views": 19
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7673133248737791245",
+        "youtube_id": "qNiLZXw8-44",
+        "title": "The serious face made everything funnier. \ud83e\udd2d",
+        "tiktok_views": 6571,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/qNiLZXw8-44/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-21T20:31:58Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5045,20 +5047,6 @@
         "thumbnail": "https://i.ytimg.com/vi/LyvSs6dOwMU/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-12T02:36:17Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7695416744529153293",
-        "youtube_id": "oiBciIgSOwU",
-        "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
-        "tiktok_views": 9355,
-        "youtube_views": 2,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/oiBciIgSOwU/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-11T20:54:09Z"
       }
     ],
     "runs": [
@@ -5498,5 +5486,5 @@
       "created_at": "2026-10-15T06:54:40.464207+00:00"
     }
   ],
-  "last_updated": "2026-10-21T20:31:41.579447+00:00"
+  "last_updated": "2026-10-21T20:37:06.401552+00:00"
 }
