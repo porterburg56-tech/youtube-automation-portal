@@ -1,9 +1,9 @@
 {
   "cumulative": {
-    "total_uploads": 304,
+    "total_uploads": 305,
     "total_views": 139703,
     "total_likes": 19,
-    "total_subscribers": 86,
+    "total_subscribers": 87,
     "channels_count": 4,
     "videos_per_day": 12
   },
@@ -75,98 +75,98 @@
     {
       "date": "2026-10-10",
       "ch1_views": 0,
-      "ch2_views": 79,
+      "ch2_views": 83,
       "ch3_views": 0,
       "ch4_views": 1505,
-      "total_views": 1584
+      "total_views": 1588
     },
     {
       "date": "2026-10-11",
       "ch1_views": 2,
-      "ch2_views": 94,
+      "ch2_views": 99,
       "ch3_views": 33,
       "ch4_views": 1567,
-      "total_views": 1696
+      "total_views": 1701
     },
     {
       "date": "2026-10-12",
       "ch1_views": 5,
-      "ch2_views": 96,
+      "ch2_views": 101,
       "ch3_views": 47,
       "ch4_views": 0,
-      "total_views": 148
+      "total_views": 153
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 6,
-      "ch2_views": 97,
+      "ch1_views": 7,
+      "ch2_views": 102,
       "ch3_views": 54,
       "ch4_views": 0,
-      "total_views": 157
+      "total_views": 163
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 8,
-      "ch2_views": 148,
+      "ch1_views": 9,
+      "ch2_views": 154,
       "ch3_views": 83,
       "ch4_views": 0,
-      "total_views": 239
+      "total_views": 246
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 10,
-      "ch2_views": 208,
+      "ch1_views": 11,
+      "ch2_views": 214,
       "ch3_views": 116,
       "ch4_views": 0,
-      "total_views": 334
+      "total_views": 341
     },
     {
       "date": "2026-10-16",
-      "ch1_views": 12,
-      "ch2_views": 218,
+      "ch1_views": 13,
+      "ch2_views": 224,
       "ch3_views": 140,
       "ch4_views": 0,
-      "total_views": 370
+      "total_views": 377
     },
     {
       "date": "2026-10-17",
-      "ch1_views": 16,
-      "ch2_views": 220,
+      "ch1_views": 17,
+      "ch2_views": 226,
       "ch3_views": 152,
       "ch4_views": 0,
-      "total_views": 388
+      "total_views": 395
     },
     {
       "date": "2026-10-18",
-      "ch1_views": 18,
-      "ch2_views": 226,
+      "ch1_views": 19,
+      "ch2_views": 232,
       "ch3_views": 163,
       "ch4_views": 0,
-      "total_views": 407
+      "total_views": 414
     },
     {
       "date": "2026-10-19",
-      "ch1_views": 20,
-      "ch2_views": 234,
-      "ch3_views": 178,
+      "ch1_views": 21,
+      "ch2_views": 242,
+      "ch3_views": 179,
       "ch4_views": 0,
-      "total_views": 432
+      "total_views": 442
     },
     {
       "date": "2026-10-20",
-      "ch1_views": 20,
-      "ch2_views": 242,
-      "ch3_views": 188,
+      "ch1_views": 21,
+      "ch2_views": 251,
+      "ch3_views": 195,
       "ch4_views": 0,
-      "total_views": 450
+      "total_views": 467
     },
     {
       "date": "2026-10-21",
-      "ch1_views": 20,
-      "ch2_views": 242,
-      "ch3_views": 188,
+      "ch1_views": 21,
+      "ch2_views": 253,
+      "ch3_views": 198,
       "ch4_views": 0,
-      "total_views": 450
+      "total_views": 472
     }
   ],
   "channels": {
@@ -218,7 +218,7 @@
         {
           "date": "2026-10-11",
           "views": 2,
-          "uploads": 2,
+          "uploads": 1,
           "cumulative_views": 2
         },
         {
@@ -229,60 +229,74 @@
         },
         {
           "date": "2026-10-13",
-          "views": 1,
+          "views": 2,
           "uploads": 3,
-          "cumulative_views": 6
+          "cumulative_views": 7
         },
         {
           "date": "2026-10-14",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 8
+          "cumulative_views": 9
         },
         {
           "date": "2026-10-15",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 10
+          "cumulative_views": 11
         },
         {
           "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 12
+          "cumulative_views": 13
         },
         {
           "date": "2026-10-17",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 16
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-18",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 18
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-19",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-20",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-21",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 20
+          "uploads": 2,
+          "cumulative_views": 21
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7670943434244394253",
+          "youtube_id": "cm_-qXXsihA",
+          "title": "POV: Dad Walks In After Work \ud83d\ude02",
+          "tiktok_views": 9726,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/cm_-qXXsihA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-21T06:58:12Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -626,7 +640,7 @@
           "youtube_id": "Nksh8iMFkRU",
           "title": "Every Dad Watching This Will Say\u2026 \u201cThat\u2019s Me!\u201d \u2764\ufe0f\ud83e\udd23",
           "tiktok_views": 19900,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Nksh8iMFkRU/hqdefault.jpg",
@@ -688,20 +702,6 @@
           "thumbnail": "https://i.ytimg.com/vi/oiBciIgSOwU/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-11T20:54:09Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7692826797771083022",
-          "youtube_id": "gRuZjiZkyz8",
-          "title": "Nobody Told Him He Was Being Copied \ud83e\udd23",
-          "tiktok_views": 27400,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/gRuZjiZkyz8/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-11T08:14:21Z"
         }
       ],
       "runs": [
@@ -921,8 +921,8 @@
       "avatar": "https://yt3.ggpht.com/BzfrtPYNdc_HaeUp-BzMgQYBKQzMy8kzHQwtG7rtTR2XGjy4qb_K_Q2gI9A4HwplzX5C5ZrCzQ=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
-      "subscribers": 5,
-      "total_uploads": 103,
+      "subscribers": 6,
+      "total_uploads": 104,
       "total_views": 1174,
       "total_likes": 3,
       "upcoming": {
@@ -966,75 +966,75 @@
         },
         {
           "date": "2026-10-10",
-          "views": 30,
+          "views": 34,
           "uploads": 3,
-          "cumulative_views": 79
+          "cumulative_views": 83
         },
         {
           "date": "2026-10-11",
-          "views": 15,
+          "views": 16,
           "uploads": 3,
-          "cumulative_views": 94
+          "cumulative_views": 99
         },
         {
           "date": "2026-10-12",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 96
+          "cumulative_views": 101
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 97
+          "cumulative_views": 102
         },
         {
           "date": "2026-10-14",
-          "views": 51,
+          "views": 52,
           "uploads": 3,
-          "cumulative_views": 148
+          "cumulative_views": 154
         },
         {
           "date": "2026-10-15",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 208
+          "cumulative_views": 214
         },
         {
           "date": "2026-10-16",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 218
+          "cumulative_views": 224
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 220
+          "cumulative_views": 226
         },
         {
           "date": "2026-10-18",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 226
+          "cumulative_views": 232
         },
         {
           "date": "2026-10-19",
-          "views": 8,
+          "views": 10,
           "uploads": 2,
-          "cumulative_views": 234
+          "cumulative_views": 242
         },
         {
           "date": "2026-10-20",
-          "views": 8,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 242
+          "cumulative_views": 251
         },
         {
           "date": "2026-10-21",
-          "views": 0,
+          "views": 2,
           "uploads": 2,
-          "cumulative_views": 242
+          "cumulative_views": 253
         }
       ],
       "videos": [
@@ -1045,7 +1045,7 @@
           "youtube_id": "ayQRr1rtLA8",
           "title": "The Secret to the Juiciest Beef Liver Cabbage Bake \u2728",
           "tiktok_views": 14100,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ayQRr1rtLA8/hqdefault.jpg",
@@ -1059,7 +1059,7 @@
           "youtube_id": "YYS9GsqQmxE",
           "title": "Berry Cream Puff Pastry Cups That Melt in Your Mouth \ud83e\uded0\ud83c\udf53",
           "tiktok_views": 14500,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YYS9GsqQmxE/hqdefault.jpg",
@@ -1073,7 +1073,7 @@
           "youtube_id": "Iza2ltweH_c",
           "title": "No-Bake Nutella Cheesecake \ud83c\udf6b",
           "tiktok_views": 4355,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Iza2ltweH_c/hqdefault.jpg",
@@ -1129,7 +1129,7 @@
           "youtube_id": "2iMxW-fAkPQ",
           "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
           "tiktok_views": 20200,
-          "youtube_views": 8,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
@@ -1269,7 +1269,7 @@
           "youtube_id": "XxgeD9bU78Q",
           "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
           "tiktok_views": 25100,
-          "youtube_views": 41,
+          "youtube_views": 42,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -1353,7 +1353,7 @@
           "youtube_id": "H_YK6bpmvpI",
           "title": "cheesy Baked chicken and zucchini casserole \u2728",
           "tiktok_views": 37800,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/H_YK6bpmvpI/hqdefault.jpg",
@@ -1381,7 +1381,7 @@
           "youtube_id": "kxIacsu0CAw",
           "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
           "tiktok_views": 118500,
-          "youtube_views": 18,
+          "youtube_views": 22,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -1460,6 +1460,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 132,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-10-21",
+          "status": "success",
+          "video_id": "iC_7bG9Rtac",
+          "error_message": null,
+          "created_at": "2026-10-21T20:02:57.773818+00:00"
+        },
         {
           "id": 131,
           "channel_id": "channel_2",
@@ -1649,16 +1659,6 @@
           "video_id": "uj8JC01qM2A",
           "error_message": null,
           "created_at": "2026-10-16T19:22:08.538482+00:00"
-        },
-        {
-          "id": 112,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-16",
-          "status": "success",
-          "video_id": "SQjPyQBOw9o",
-          "error_message": null,
-          "created_at": "2026-10-16T05:35:12.614303+00:00"
         }
       ]
     },
@@ -1757,21 +1757,21 @@
         },
         {
           "date": "2026-10-19",
-          "views": 15,
+          "views": 16,
           "uploads": 3,
-          "cumulative_views": 178
+          "cumulative_views": 179
         },
         {
           "date": "2026-10-20",
-          "views": 10,
+          "views": 16,
           "uploads": 3,
-          "cumulative_views": 188
+          "cumulative_views": 195
         },
         {
           "date": "2026-10-21",
-          "views": 0,
+          "views": 3,
           "uploads": 2,
-          "cumulative_views": 188
+          "cumulative_views": 198
         }
       ],
       "videos": [
@@ -1782,7 +1782,7 @@
           "youtube_id": "BtA_lcZ1mzU",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BtA_lcZ1mzU/hqdefault.jpg",
@@ -1810,7 +1810,7 @@
           "youtube_id": "b57e1hdftHc",
           "title": "Professional performing medical \u2026(1) \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/b57e1hdftHc/hqdefault.jpg",
@@ -1824,7 +1824,7 @@
           "youtube_id": "9SDtjEvNU1c",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9SDtjEvNU1c/hqdefault.jpg",
@@ -1838,7 +1838,7 @@
           "youtube_id": "Mq_wyq3Iblg",
           "title": "Professional performing medical \u2026(1) \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Mq_wyq3Iblg/hqdefault.jpg",
@@ -1880,7 +1880,7 @@
           "youtube_id": "1U-cjk22cW8",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 12,
+          "youtube_views": 13,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/1U-cjk22cW8/hqdefault.jpg",
@@ -2993,13 +2993,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7670943434244394253",
+      "youtube_id": "cm_-qXXsihA",
+      "title": "POV: Dad Walks In After Work \ud83d\ude02",
+      "tiktok_views": 9726,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/cm_-qXXsihA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-21T06:58:12Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7652075854129827085",
       "youtube_id": "ayQRr1rtLA8",
       "title": "The Secret to the Juiciest Beef Liver Cabbage Bake \u2728",
       "tiktok_views": 14100,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ayQRr1rtLA8/hqdefault.jpg",
@@ -3013,7 +3027,7 @@
       "youtube_id": "BtA_lcZ1mzU",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BtA_lcZ1mzU/hqdefault.jpg",
@@ -3041,7 +3055,7 @@
       "youtube_id": "YYS9GsqQmxE",
       "title": "Berry Cream Puff Pastry Cups That Melt in Your Mouth \ud83e\uded0\ud83c\udf53",
       "tiktok_views": 14500,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YYS9GsqQmxE/hqdefault.jpg",
@@ -3069,7 +3083,7 @@
       "youtube_id": "b57e1hdftHc",
       "title": "Professional performing medical \u2026(1) \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/b57e1hdftHc/hqdefault.jpg",
@@ -3097,7 +3111,7 @@
       "youtube_id": "Iza2ltweH_c",
       "title": "No-Bake Nutella Cheesecake \ud83c\udf6b",
       "tiktok_views": 4355,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Iza2ltweH_c/hqdefault.jpg",
@@ -3125,7 +3139,7 @@
       "youtube_id": "9SDtjEvNU1c",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9SDtjEvNU1c/hqdefault.jpg",
@@ -3181,7 +3195,7 @@
       "youtube_id": "Mq_wyq3Iblg",
       "title": "Professional performing medical \u2026(1) \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Mq_wyq3Iblg/hqdefault.jpg",
@@ -3265,7 +3279,7 @@
       "youtube_id": "2iMxW-fAkPQ",
       "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
       "tiktok_views": 20200,
-      "youtube_views": 8,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
@@ -3293,7 +3307,7 @@
       "youtube_id": "1U-cjk22cW8",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 12,
+      "youtube_views": 13,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/1U-cjk22cW8/hqdefault.jpg",
@@ -3825,7 +3839,7 @@
       "youtube_id": "XxgeD9bU78Q",
       "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
       "tiktok_views": 25100,
-      "youtube_views": 41,
+      "youtube_views": 42,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
@@ -3951,7 +3965,7 @@
       "youtube_id": "Nksh8iMFkRU",
       "title": "Every Dad Watching This Will Say\u2026 \u201cThat\u2019s Me!\u201d \u2764\ufe0f\ud83e\udd23",
       "tiktok_views": 19900,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Nksh8iMFkRU/hqdefault.jpg",
@@ -4113,20 +4127,6 @@
       "uploaded_at": "2026-10-11T20:05:33Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7692826797771083022",
-      "youtube_id": "gRuZjiZkyz8",
-      "title": "Nobody Told Him He Was Being Copied \ud83e\udd23",
-      "tiktok_views": 27400,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/gRuZjiZkyz8/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-11T08:14:21Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7651326904666049806",
@@ -4161,7 +4161,7 @@
       "youtube_id": "H_YK6bpmvpI",
       "title": "cheesy Baked chicken and zucchini casserole \u2728",
       "tiktok_views": 37800,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/H_YK6bpmvpI/hqdefault.jpg",
@@ -4217,7 +4217,7 @@
       "youtube_id": "kxIacsu0CAw",
       "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
       "tiktok_views": 118500,
-      "youtube_views": 18,
+      "youtube_views": 22,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -4581,7 +4581,7 @@
       {
         "date": "2026-10-11",
         "views": 2,
-        "uploads": 2,
+        "uploads": 1,
         "cumulative_views": 2
       },
       {
@@ -4592,60 +4592,74 @@
       },
       {
         "date": "2026-10-13",
-        "views": 1,
+        "views": 2,
         "uploads": 3,
-        "cumulative_views": 6
+        "cumulative_views": 7
       },
       {
         "date": "2026-10-14",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 8
+        "cumulative_views": 9
       },
       {
         "date": "2026-10-15",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 10
+        "cumulative_views": 11
       },
       {
         "date": "2026-10-16",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 12
+        "cumulative_views": 13
       },
       {
         "date": "2026-10-17",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 16
+        "cumulative_views": 17
       },
       {
         "date": "2026-10-18",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 18
+        "cumulative_views": 19
       },
       {
         "date": "2026-10-19",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-20",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-21",
         "views": 0,
-        "uploads": 1,
-        "cumulative_views": 20
+        "uploads": 2,
+        "cumulative_views": 21
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7670943434244394253",
+        "youtube_id": "cm_-qXXsihA",
+        "title": "POV: Dad Walks In After Work \ud83d\ude02",
+        "tiktok_views": 9726,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/cm_-qXXsihA/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-21T06:58:12Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4989,7 +5003,7 @@
         "youtube_id": "Nksh8iMFkRU",
         "title": "Every Dad Watching This Will Say\u2026 \u201cThat\u2019s Me!\u201d \u2764\ufe0f\ud83e\udd23",
         "tiktok_views": 19900,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/Nksh8iMFkRU/hqdefault.jpg",
@@ -5051,20 +5065,6 @@
         "thumbnail": "https://i.ytimg.com/vi/oiBciIgSOwU/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-11T20:54:09Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7692826797771083022",
-        "youtube_id": "gRuZjiZkyz8",
-        "title": "Nobody Told Him He Was Being Copied \ud83e\udd23",
-        "tiktok_views": 27400,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/gRuZjiZkyz8/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-11T08:14:21Z"
       }
     ],
     "runs": [
@@ -5271,7 +5271,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 304,
+    "total_uploads": 305,
     "total_views": 139703,
     "total_likes": 19,
     "videos_per_day": 12
@@ -5504,5 +5504,5 @@
       "created_at": "2026-10-15T01:42:08.146974+00:00"
     }
   ],
-  "last_updated": "2026-10-21T06:57:55.775684+00:00"
+  "last_updated": "2026-10-21T20:03:03.963277+00:00"
 }
