@@ -59,106 +59,106 @@
     {
       "date": "2026-10-08",
       "ch1_views": 0,
-      "ch2_views": 50,
+      "ch2_views": 51,
       "ch3_views": 0,
       "ch4_views": 1102,
-      "total_views": 1152
+      "total_views": 1153
     },
     {
       "date": "2026-10-09",
       "ch1_views": 0,
-      "ch2_views": 75,
+      "ch2_views": 76,
       "ch3_views": 0,
       "ch4_views": 1333,
-      "total_views": 1408
+      "total_views": 1409
     },
     {
       "date": "2026-10-10",
       "ch1_views": 0,
-      "ch2_views": 104,
+      "ch2_views": 106,
       "ch3_views": 0,
       "ch4_views": 1505,
-      "total_views": 1609
+      "total_views": 1611
     },
     {
       "date": "2026-10-11",
       "ch1_views": 2,
-      "ch2_views": 119,
+      "ch2_views": 121,
       "ch3_views": 76,
       "ch4_views": 1567,
-      "total_views": 1764
+      "total_views": 1766
     },
     {
       "date": "2026-10-12",
       "ch1_views": 5,
-      "ch2_views": 121,
+      "ch2_views": 123,
       "ch3_views": 90,
       "ch4_views": 0,
-      "total_views": 216
+      "total_views": 218
     },
     {
       "date": "2026-10-13",
       "ch1_views": 6,
-      "ch2_views": 122,
+      "ch2_views": 124,
       "ch3_views": 97,
       "ch4_views": 0,
-      "total_views": 225
+      "total_views": 227
     },
     {
       "date": "2026-10-14",
       "ch1_views": 8,
-      "ch2_views": 173,
+      "ch2_views": 175,
       "ch3_views": 126,
       "ch4_views": 0,
-      "total_views": 307
+      "total_views": 309
     },
     {
       "date": "2026-10-15",
       "ch1_views": 10,
-      "ch2_views": 233,
+      "ch2_views": 235,
       "ch3_views": 159,
       "ch4_views": 0,
-      "total_views": 402
+      "total_views": 404
     },
     {
       "date": "2026-10-16",
       "ch1_views": 12,
-      "ch2_views": 243,
+      "ch2_views": 245,
       "ch3_views": 183,
       "ch4_views": 0,
-      "total_views": 438
+      "total_views": 440
     },
     {
       "date": "2026-10-17",
       "ch1_views": 16,
-      "ch2_views": 245,
+      "ch2_views": 247,
       "ch3_views": 195,
       "ch4_views": 0,
-      "total_views": 456
+      "total_views": 458
     },
     {
       "date": "2026-10-18",
       "ch1_views": 18,
-      "ch2_views": 251,
+      "ch2_views": 253,
       "ch3_views": 206,
       "ch4_views": 0,
-      "total_views": 475
+      "total_views": 477
     },
     {
       "date": "2026-10-19",
       "ch1_views": 20,
-      "ch2_views": 258,
-      "ch3_views": 219,
+      "ch2_views": 261,
+      "ch3_views": 221,
       "ch4_views": 0,
-      "total_views": 497
+      "total_views": 502
     },
     {
       "date": "2026-10-20",
       "ch1_views": 20,
-      "ch2_views": 264,
-      "ch3_views": 227,
+      "ch2_views": 268,
+      "ch3_views": 231,
       "ch4_views": 0,
-      "total_views": 511
+      "total_views": 519
     }
   ],
   "channels": {
@@ -952,81 +952,81 @@
         },
         {
           "date": "2026-10-08",
-          "views": 23,
+          "views": 24,
           "uploads": 1,
-          "cumulative_views": 50
+          "cumulative_views": 51
         },
         {
           "date": "2026-10-09",
           "views": 25,
           "uploads": 3,
-          "cumulative_views": 75
+          "cumulative_views": 76
         },
         {
           "date": "2026-10-10",
-          "views": 29,
+          "views": 30,
           "uploads": 3,
-          "cumulative_views": 104
+          "cumulative_views": 106
         },
         {
           "date": "2026-10-11",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 119
+          "cumulative_views": 121
         },
         {
           "date": "2026-10-12",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 121
+          "cumulative_views": 123
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 122
+          "cumulative_views": 124
         },
         {
           "date": "2026-10-14",
           "views": 51,
           "uploads": 3,
-          "cumulative_views": 173
+          "cumulative_views": 175
         },
         {
           "date": "2026-10-15",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 233
+          "cumulative_views": 235
         },
         {
           "date": "2026-10-16",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 243
+          "cumulative_views": 245
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 245
+          "cumulative_views": 247
         },
         {
           "date": "2026-10-18",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 251
+          "cumulative_views": 253
         },
         {
           "date": "2026-10-19",
-          "views": 7,
+          "views": 8,
           "uploads": 2,
-          "cumulative_views": 258
+          "cumulative_views": 261
         },
         {
           "date": "2026-10-20",
-          "views": 6,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 264
+          "cumulative_views": 268
         }
       ],
       "videos": [
@@ -1065,7 +1065,7 @@
           "youtube_id": "yzSnALdYapw",
           "title": "Strawberry Coffee Dessert Cups That Melt in Your Mouth \ud83c\udf53\u2615",
           "tiktok_views": 19800,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yzSnALdYapw/hqdefault.jpg",
@@ -1093,7 +1093,7 @@
           "youtube_id": "2iMxW-fAkPQ",
           "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
           "tiktok_views": 20200,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
@@ -1345,7 +1345,7 @@
           "youtube_id": "kxIacsu0CAw",
           "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
           "tiktok_views": 118500,
-          "youtube_views": 17,
+          "youtube_views": 18,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -1415,7 +1415,7 @@
           "youtube_id": "MD9VcCPCjd0",
           "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
           "tiktok_views": 234700,
-          "youtube_views": 23,
+          "youtube_views": 24,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -1749,15 +1749,15 @@
         },
         {
           "date": "2026-10-19",
-          "views": 13,
+          "views": 15,
           "uploads": 3,
-          "cumulative_views": 219
+          "cumulative_views": 221
         },
         {
           "date": "2026-10-20",
-          "views": 8,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 227
+          "cumulative_views": 231
         }
       ],
       "videos": [
@@ -1782,7 +1782,7 @@
           "youtube_id": "9SDtjEvNU1c",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9SDtjEvNU1c/hqdefault.jpg",
@@ -1796,7 +1796,7 @@
           "youtube_id": "Mq_wyq3Iblg",
           "title": "Professional performing medical \u2026(1) \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Mq_wyq3Iblg/hqdefault.jpg",
@@ -1824,7 +1824,7 @@
           "youtube_id": "EjHxmcf2Tsk",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/EjHxmcf2Tsk/hqdefault.jpg",
@@ -2184,6 +2184,16 @@
       ],
       "runs": [
         {
+          "id": 88,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-10-21",
+          "status": "success",
+          "video_id": "XpaZoUSYVdY",
+          "error_message": null,
+          "created_at": "2026-10-21T00:38:20.683283+00:00"
+        },
+        {
           "id": 87,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2372,16 +2382,6 @@
           "video_id": "Wdf8SbNh6Uk",
           "error_message": null,
           "created_at": "2026-10-14T20:41:33.594145+00:00"
-        },
-        {
-          "id": 68,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-14",
-          "status": "success",
-          "video_id": "8pUIPxdFyEQ",
-          "error_message": null,
-          "created_at": "2026-10-14T06:07:45.343778+00:00"
         }
       ]
     },
@@ -3041,7 +3041,7 @@
       "youtube_id": "9SDtjEvNU1c",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9SDtjEvNU1c/hqdefault.jpg",
@@ -3083,7 +3083,7 @@
       "youtube_id": "yzSnALdYapw",
       "title": "Strawberry Coffee Dessert Cups That Melt in Your Mouth \ud83c\udf53\u2615",
       "tiktok_views": 19800,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yzSnALdYapw/hqdefault.jpg",
@@ -3097,7 +3097,7 @@
       "youtube_id": "Mq_wyq3Iblg",
       "title": "Professional performing medical \u2026(1) \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Mq_wyq3Iblg/hqdefault.jpg",
@@ -3167,7 +3167,7 @@
       "youtube_id": "EjHxmcf2Tsk",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/EjHxmcf2Tsk/hqdefault.jpg",
@@ -3181,7 +3181,7 @@
       "youtube_id": "2iMxW-fAkPQ",
       "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
       "tiktok_views": 20200,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
@@ -4175,7 +4175,7 @@
       "youtube_id": "kxIacsu0CAw",
       "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
       "tiktok_views": 118500,
-      "youtube_views": 17,
+      "youtube_views": 18,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
@@ -4301,7 +4301,7 @@
       "youtube_id": "MD9VcCPCjd0",
       "title": "Strawberry Raspberry Puff Pastry Tart \u2728",
       "tiktok_views": 234700,
-      "youtube_views": 23,
+      "youtube_views": 24,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MD9VcCPCjd0/hqdefault.jpg",
@@ -5484,5 +5484,5 @@
       "created_at": "2026-10-14T07:03:28.898374+00:00"
     }
   ],
-  "last_updated": "2026-10-20T20:48:05.411524+00:00"
+  "last_updated": "2026-10-21T00:38:25.716935+00:00"
 }
