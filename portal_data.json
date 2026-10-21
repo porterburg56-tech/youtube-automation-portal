@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 306,
+    "total_uploads": 307,
     "total_views": 139703,
     "total_likes": 19,
     "total_subscribers": 87,
@@ -84,89 +84,89 @@
       "date": "2026-10-11",
       "ch1_views": 0,
       "ch2_views": 75,
-      "ch3_views": 33,
+      "ch3_views": 0,
       "ch4_views": 1567,
-      "total_views": 1675
+      "total_views": 1642
     },
     {
       "date": "2026-10-12",
       "ch1_views": 3,
       "ch2_views": 77,
-      "ch3_views": 47,
+      "ch3_views": 14,
       "ch4_views": 0,
-      "total_views": 127
+      "total_views": 94
     },
     {
       "date": "2026-10-13",
       "ch1_views": 5,
       "ch2_views": 78,
-      "ch3_views": 54,
+      "ch3_views": 21,
       "ch4_views": 0,
-      "total_views": 137
+      "total_views": 104
     },
     {
       "date": "2026-10-14",
       "ch1_views": 7,
       "ch2_views": 130,
-      "ch3_views": 83,
+      "ch3_views": 50,
       "ch4_views": 0,
-      "total_views": 220
+      "total_views": 187
     },
     {
       "date": "2026-10-15",
       "ch1_views": 9,
       "ch2_views": 190,
-      "ch3_views": 116,
+      "ch3_views": 83,
       "ch4_views": 0,
-      "total_views": 315
+      "total_views": 282
     },
     {
       "date": "2026-10-16",
       "ch1_views": 11,
       "ch2_views": 200,
-      "ch3_views": 140,
+      "ch3_views": 107,
       "ch4_views": 0,
-      "total_views": 351
+      "total_views": 318
     },
     {
       "date": "2026-10-17",
       "ch1_views": 15,
       "ch2_views": 202,
-      "ch3_views": 152,
+      "ch3_views": 119,
       "ch4_views": 0,
-      "total_views": 369
+      "total_views": 336
     },
     {
       "date": "2026-10-18",
       "ch1_views": 17,
       "ch2_views": 208,
-      "ch3_views": 163,
+      "ch3_views": 130,
       "ch4_views": 0,
-      "total_views": 388
+      "total_views": 355
     },
     {
       "date": "2026-10-19",
       "ch1_views": 19,
       "ch2_views": 218,
-      "ch3_views": 179,
+      "ch3_views": 146,
       "ch4_views": 0,
-      "total_views": 416
+      "total_views": 383
     },
     {
       "date": "2026-10-20",
       "ch1_views": 19,
       "ch2_views": 227,
-      "ch3_views": 195,
+      "ch3_views": 162,
       "ch4_views": 0,
-      "total_views": 441
+      "total_views": 408
     },
     {
       "date": "2026-10-21",
       "ch1_views": 19,
-      "ch2_views": 231,
-      "ch3_views": 198,
+      "ch2_views": 233,
+      "ch3_views": 165,
       "ch4_views": 0,
-      "total_views": 448
+      "total_views": 417
     }
   ],
   "channels": {
@@ -1020,9 +1020,9 @@
         },
         {
           "date": "2026-10-21",
-          "views": 4,
+          "views": 6,
           "uploads": 3,
-          "cumulative_views": 231
+          "cumulative_views": 233
         }
       ],
       "videos": [
@@ -1061,7 +1061,7 @@
           "youtube_id": "YYS9GsqQmxE",
           "title": "Berry Cream Puff Pastry Cups That Melt in Your Mouth \ud83e\uded0\ud83c\udf53",
           "tiktok_views": 14500,
-          "youtube_views": 3,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/YYS9GsqQmxE/hqdefault.jpg",
@@ -1665,7 +1665,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 66,
+      "total_uploads": 67,
       "total_views": 136315,
       "total_likes": 1,
       "upcoming": {
@@ -1696,73 +1696,81 @@
       },
       "view_history": [
         {
-          "date": "2026-10-11",
-          "views": 33,
-          "uploads": 1,
-          "cumulative_views": 33
-        },
-        {
           "date": "2026-10-12",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 47
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-13",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 54
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-14",
           "views": 29,
           "uploads": 3,
-          "cumulative_views": 83
+          "cumulative_views": 50
         },
         {
           "date": "2026-10-15",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 116
+          "cumulative_views": 83
         },
         {
           "date": "2026-10-16",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 140
+          "cumulative_views": 107
         },
         {
           "date": "2026-10-17",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 152
+          "cumulative_views": 119
         },
         {
           "date": "2026-10-18",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 163
+          "cumulative_views": 130
         },
         {
           "date": "2026-10-19",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 179
+          "cumulative_views": 146
         },
         {
           "date": "2026-10-20",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 195
+          "cumulative_views": 162
         },
         {
           "date": "2026-10-21",
           "views": 3,
-          "uploads": 2,
-          "cumulative_views": 198
+          "uploads": 3,
+          "cumulative_views": 165
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1gK7WifhEUlx_x0B_iqc3qs6GB29PW74a",
+          "youtube_id": "ZBB38thwV8M",
+          "title": "Professional performing medical \u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/ZBB38thwV8M/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-21T20:37:17Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2168,20 +2176,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ETadO-617ig/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-12T01:21:11Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1-eTvyhCAq2UBVm6jCneS8HLRx7vxwheN",
-          "youtube_id": "_zVtCB5Fy5o",
-          "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 33,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/_zVtCB5Fy5o/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-11T20:58:37Z"
         }
       ],
       "runs": [
@@ -2777,6 +2771,16 @@
       ],
       "runs": [
         {
+          "id": 83,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-10-21",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-21T20:49:46.421183+00:00"
+        },
+        {
           "id": 82,
           "channel_id": "channel_4",
           "slot": 3,
@@ -2965,21 +2969,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-15T06:00:28.773738+00:00"
-        },
-        {
-          "id": 63,
-          "channel_id": "channel_4",
-          "slot": 2,
-          "run_date": "2026-10-15",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-15T00:38:26.656140+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1gK7WifhEUlx_x0B_iqc3qs6GB29PW74a",
+      "youtube_id": "ZBB38thwV8M",
+      "title": "Professional performing medical \u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/ZBB38thwV8M/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-21T20:37:17Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -3071,7 +3079,7 @@
       "youtube_id": "YYS9GsqQmxE",
       "title": "Berry Cream Puff Pastry Cups That Melt in Your Mouth \ud83e\uded0\ud83c\udf53",
       "tiktok_views": 14500,
-      "youtube_views": 3,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/YYS9GsqQmxE/hqdefault.jpg",
@@ -4099,20 +4107,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ETadO-617ig/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-12T01:21:11Z"
-    },
-    {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1-eTvyhCAq2UBVm6jCneS8HLRx7vxwheN",
-      "youtube_id": "_zVtCB5Fy5o",
-      "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 33,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/_zVtCB5Fy5o/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-11T20:58:37Z"
     },
     {
       "channel_id": "channel_2",
@@ -5253,7 +5247,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 306,
+    "total_uploads": 307,
     "total_views": 139703,
     "total_likes": 19,
     "videos_per_day": 12
@@ -5486,5 +5480,5 @@
       "created_at": "2026-10-15T06:54:40.464207+00:00"
     }
   ],
-  "last_updated": "2026-10-21T20:37:06.401552+00:00"
+  "last_updated": "2026-10-21T20:49:51.201109+00:00"
 }
