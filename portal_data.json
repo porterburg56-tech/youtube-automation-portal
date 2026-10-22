@@ -67,114 +67,114 @@
     {
       "date": "2026-10-09",
       "ch1_views": 0,
-      "ch2_views": 8,
+      "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 1333,
-      "total_views": 1341
+      "total_views": 1333
     },
     {
       "date": "2026-10-10",
       "ch1_views": 0,
-      "ch2_views": 45,
+      "ch2_views": 37,
       "ch3_views": 0,
       "ch4_views": 1505,
-      "total_views": 1550
+      "total_views": 1542
     },
     {
       "date": "2026-10-11",
       "ch1_views": 0,
-      "ch2_views": 61,
+      "ch2_views": 53,
       "ch3_views": 0,
       "ch4_views": 1567,
-      "total_views": 1628
+      "total_views": 1620
     },
     {
       "date": "2026-10-12",
       "ch1_views": 0,
-      "ch2_views": 63,
+      "ch2_views": 55,
       "ch3_views": 6,
       "ch4_views": 0,
-      "total_views": 69
+      "total_views": 61
     },
     {
       "date": "2026-10-13",
       "ch1_views": 3,
-      "ch2_views": 64,
+      "ch2_views": 56,
       "ch3_views": 13,
       "ch4_views": 0,
-      "total_views": 80
+      "total_views": 72
     },
     {
       "date": "2026-10-14",
       "ch1_views": 5,
-      "ch2_views": 116,
+      "ch2_views": 108,
       "ch3_views": 42,
       "ch4_views": 0,
-      "total_views": 163
+      "total_views": 155
     },
     {
       "date": "2026-10-15",
       "ch1_views": 7,
-      "ch2_views": 176,
+      "ch2_views": 168,
       "ch3_views": 75,
       "ch4_views": 0,
-      "total_views": 258
+      "total_views": 250
     },
     {
       "date": "2026-10-16",
       "ch1_views": 9,
-      "ch2_views": 186,
+      "ch2_views": 178,
       "ch3_views": 99,
       "ch4_views": 0,
-      "total_views": 294
+      "total_views": 286
     },
     {
       "date": "2026-10-17",
       "ch1_views": 13,
-      "ch2_views": 188,
+      "ch2_views": 180,
       "ch3_views": 111,
       "ch4_views": 0,
-      "total_views": 312
+      "total_views": 304
     },
     {
       "date": "2026-10-18",
       "ch1_views": 15,
-      "ch2_views": 194,
+      "ch2_views": 186,
       "ch3_views": 122,
       "ch4_views": 0,
-      "total_views": 331
+      "total_views": 323
     },
     {
       "date": "2026-10-19",
       "ch1_views": 17,
-      "ch2_views": 204,
+      "ch2_views": 196,
       "ch3_views": 138,
       "ch4_views": 0,
-      "total_views": 359
+      "total_views": 351
     },
     {
       "date": "2026-10-20",
       "ch1_views": 23,
-      "ch2_views": 214,
+      "ch2_views": 206,
       "ch3_views": 154,
       "ch4_views": 0,
-      "total_views": 391
+      "total_views": 383
     },
     {
       "date": "2026-10-21",
       "ch1_views": 24,
-      "ch2_views": 227,
+      "ch2_views": 220,
       "ch3_views": 162,
       "ch4_views": 0,
-      "total_views": 413
+      "total_views": 406
     },
     {
       "date": "2026-10-22",
       "ch1_views": 24,
-      "ch2_views": 228,
+      "ch2_views": 223,
       "ch3_views": 168,
       "ch4_views": 0,
-      "total_views": 420
+      "total_views": 415
     }
   ],
   "channels": {
@@ -961,91 +961,99 @@
       },
       "view_history": [
         {
-          "date": "2026-10-09",
-          "views": 8,
-          "uploads": 1,
-          "cumulative_views": 8
-        },
-        {
           "date": "2026-10-10",
           "views": 37,
           "uploads": 3,
-          "cumulative_views": 45
+          "cumulative_views": 37
         },
         {
           "date": "2026-10-11",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 61
+          "cumulative_views": 53
         },
         {
           "date": "2026-10-12",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 63
+          "cumulative_views": 55
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 64
+          "cumulative_views": 56
         },
         {
           "date": "2026-10-14",
           "views": 52,
           "uploads": 3,
-          "cumulative_views": 116
+          "cumulative_views": 108
         },
         {
           "date": "2026-10-15",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 176
+          "cumulative_views": 168
         },
         {
           "date": "2026-10-16",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 186
+          "cumulative_views": 178
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 188
+          "cumulative_views": 180
         },
         {
           "date": "2026-10-18",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 194
+          "cumulative_views": 186
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 204
+          "cumulative_views": 196
         },
         {
           "date": "2026-10-20",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 214
+          "cumulative_views": 206
         },
         {
           "date": "2026-10-21",
-          "views": 13,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 227
+          "cumulative_views": 220
         },
         {
           "date": "2026-10-22",
-          "views": 1,
-          "uploads": 2,
-          "cumulative_views": 228
+          "views": 3,
+          "uploads": 3,
+          "cumulative_views": 223
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7699541605694311693",
+          "youtube_id": "1ZKxJOtIU-4",
+          "title": "Puff Pastry Stuffed Apples with Chocolate Sauce \ud83c\udf4e\ud83c\udf6b",
+          "tiktok_views": 5587,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/1ZKxJOtIU-4/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-22T19:56:03Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1053,7 +1061,7 @@
           "youtube_id": "dlBMmGb0sc4",
           "title": "Strawberry Caramel Nutella Dessert Cups That Melt in Your Mouth \ud83c\udf53\ud83c\udf6b",
           "tiktok_views": 13400,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dlBMmGb0sc4/hqdefault.jpg",
@@ -1095,7 +1103,7 @@
           "youtube_id": "ayQRr1rtLA8",
           "title": "The Secret to the Juiciest Beef Liver Cabbage Bake \u2728",
           "tiktok_views": 14100,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ayQRr1rtLA8/hqdefault.jpg",
@@ -1451,20 +1459,6 @@
           "thumbnail": "https://i.ytimg.com/vi/o8dXFrj3rHg/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-10T01:43:09Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7694715761255779598",
-          "youtube_id": "ca3bS1RBvvc",
-          "title": "Creamy Garlic Butter Salmon with Mushroom Sauce \ud83c\udf4b",
-          "tiktok_views": 13200,
-          "youtube_views": 8,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/ca3bS1RBvvc/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-09T20:40:31Z"
         }
       ],
       "runs": [
@@ -2206,6 +2200,16 @@
       ],
       "runs": [
         {
+          "id": 93,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-22",
+          "status": "success",
+          "video_id": "SyOYQmt4O6Y",
+          "error_message": null,
+          "created_at": "2026-10-22T20:33:53.254545+00:00"
+        },
+        {
           "id": 92,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2394,16 +2398,6 @@
           "video_id": "4gIvQXW6Exk",
           "error_message": null,
           "created_at": "2026-10-16T05:49:48.237713+00:00"
-        },
-        {
-          "id": 73,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-16",
-          "status": "success",
-          "video_id": "235EW_ZKdzg",
-          "error_message": null,
-          "created_at": "2026-10-16T00:26:10.081155+00:00"
         }
       ]
     },
@@ -3001,6 +2995,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7699541605694311693",
+      "youtube_id": "1ZKxJOtIU-4",
+      "title": "Puff Pastry Stuffed Apples with Chocolate Sauce \ud83c\udf4e\ud83c\udf6b",
+      "tiktok_views": 5587,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/1ZKxJOtIU-4/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-22T19:56:03Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7666855116401560846",
@@ -3035,7 +3043,7 @@
       "youtube_id": "dlBMmGb0sc4",
       "title": "Strawberry Caramel Nutella Dessert Cups That Melt in Your Mouth \ud83c\udf53\ud83c\udf6b",
       "tiktok_views": 13400,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dlBMmGb0sc4/hqdefault.jpg",
@@ -3147,7 +3155,7 @@
       "youtube_id": "ayQRr1rtLA8",
       "title": "The Secret to the Juiciest Beef Liver Cabbage Bake \u2728",
       "tiktok_views": 14100,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ayQRr1rtLA8/hqdefault.jpg",
@@ -4315,20 +4323,6 @@
       "thumbnail": "https://i.ytimg.com/vi/50qJCs438SM/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-09T21:50:59Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7694715761255779598",
-      "youtube_id": "ca3bS1RBvvc",
-      "title": "Creamy Garlic Butter Salmon with Mushroom Sauce \ud83c\udf4b",
-      "tiktok_views": 13200,
-      "youtube_views": 8,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/ca3bS1RBvvc/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-09T20:40:31Z"
     },
     {
       "channel_id": "channel_4",
@@ -5512,5 +5506,5 @@
       "created_at": "2026-10-16T01:36:10.384923+00:00"
     }
   ],
-  "last_updated": "2026-10-22T19:55:22.949181+00:00"
+  "last_updated": "2026-10-22T20:33:58.551806+00:00"
 }
