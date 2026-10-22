@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 314,
+    "total_uploads": 315,
     "total_views": 139813,
     "total_likes": 20,
     "total_subscribers": 87,
@@ -92,89 +92,89 @@
       "date": "2026-10-12",
       "ch1_views": 0,
       "ch2_views": 55,
-      "ch3_views": 6,
+      "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 61
+      "total_views": 55
     },
     {
       "date": "2026-10-13",
       "ch1_views": 3,
       "ch2_views": 56,
-      "ch3_views": 13,
+      "ch3_views": 7,
       "ch4_views": 0,
-      "total_views": 72
+      "total_views": 66
     },
     {
       "date": "2026-10-14",
       "ch1_views": 5,
       "ch2_views": 108,
-      "ch3_views": 42,
+      "ch3_views": 36,
       "ch4_views": 0,
-      "total_views": 155
+      "total_views": 149
     },
     {
       "date": "2026-10-15",
       "ch1_views": 7,
       "ch2_views": 168,
-      "ch3_views": 75,
+      "ch3_views": 69,
       "ch4_views": 0,
-      "total_views": 250
+      "total_views": 244
     },
     {
       "date": "2026-10-16",
       "ch1_views": 9,
       "ch2_views": 178,
-      "ch3_views": 99,
+      "ch3_views": 93,
       "ch4_views": 0,
-      "total_views": 286
+      "total_views": 280
     },
     {
       "date": "2026-10-17",
       "ch1_views": 13,
       "ch2_views": 180,
-      "ch3_views": 111,
+      "ch3_views": 105,
       "ch4_views": 0,
-      "total_views": 304
+      "total_views": 298
     },
     {
       "date": "2026-10-18",
       "ch1_views": 15,
       "ch2_views": 186,
-      "ch3_views": 122,
+      "ch3_views": 116,
       "ch4_views": 0,
-      "total_views": 323
+      "total_views": 317
     },
     {
       "date": "2026-10-19",
       "ch1_views": 17,
       "ch2_views": 196,
-      "ch3_views": 138,
+      "ch3_views": 132,
       "ch4_views": 0,
-      "total_views": 351
+      "total_views": 345
     },
     {
       "date": "2026-10-20",
       "ch1_views": 23,
       "ch2_views": 206,
-      "ch3_views": 154,
+      "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 383
+      "total_views": 377
     },
     {
       "date": "2026-10-21",
       "ch1_views": 24,
-      "ch2_views": 220,
-      "ch3_views": 162,
+      "ch2_views": 219,
+      "ch3_views": 156,
       "ch4_views": 0,
-      "total_views": 406
+      "total_views": 399
     },
     {
       "date": "2026-10-22",
       "ch1_views": 24,
-      "ch2_views": 223,
-      "ch3_views": 168,
+      "ch2_views": 220,
+      "ch3_views": 164,
       "ch4_views": 0,
-      "total_views": 415
+      "total_views": 408
     }
   ],
   "channels": {
@@ -1028,15 +1028,15 @@
         },
         {
           "date": "2026-10-21",
-          "views": 14,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 220
+          "cumulative_views": 219
         },
         {
           "date": "2026-10-22",
-          "views": 3,
+          "views": 1,
           "uploads": 3,
-          "cumulative_views": 223
+          "cumulative_views": 220
         }
       ],
       "videos": [
@@ -1061,7 +1061,7 @@
           "youtube_id": "dlBMmGb0sc4",
           "title": "Strawberry Caramel Nutella Dessert Cups That Melt in Your Mouth \ud83c\udf53\ud83c\udf6b",
           "tiktok_views": 13400,
-          "youtube_views": 2,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dlBMmGb0sc4/hqdefault.jpg",
@@ -1103,7 +1103,7 @@
           "youtube_id": "ayQRr1rtLA8",
           "title": "The Secret to the Juiciest Beef Liver Cabbage Bake \u2728",
           "tiktok_views": 14100,
-          "youtube_views": 8,
+          "youtube_views": 7,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ayQRr1rtLA8/hqdefault.jpg",
@@ -1679,7 +1679,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 69,
+      "total_uploads": 70,
       "total_views": 136352,
       "total_likes": 1,
       "upcoming": {
@@ -1710,73 +1710,81 @@
       },
       "view_history": [
         {
-          "date": "2026-10-12",
-          "views": 6,
-          "uploads": 1,
-          "cumulative_views": 6
-        },
-        {
           "date": "2026-10-13",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 7
         },
         {
           "date": "2026-10-14",
           "views": 29,
           "uploads": 3,
-          "cumulative_views": 42
+          "cumulative_views": 36
         },
         {
           "date": "2026-10-15",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 75
+          "cumulative_views": 69
         },
         {
           "date": "2026-10-16",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 99
+          "cumulative_views": 93
         },
         {
           "date": "2026-10-17",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 111
+          "cumulative_views": 105
         },
         {
           "date": "2026-10-18",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 122
+          "cumulative_views": 116
         },
         {
           "date": "2026-10-19",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 138
+          "cumulative_views": 132
         },
         {
           "date": "2026-10-20",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 154
+          "cumulative_views": 148
         },
         {
           "date": "2026-10-21",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 162
+          "cumulative_views": 156
         },
         {
           "date": "2026-10-22",
-          "views": 6,
-          "uploads": 2,
-          "cumulative_views": 168
+          "views": 8,
+          "uploads": 3,
+          "cumulative_views": 164
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "13s6sawMchXEcMI-dhpd3L8O9sM_NWFhy",
+          "youtube_id": "SyOYQmt4O6Y",
+          "title": "Professional removing nail growth \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/SyOYQmt4O6Y/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-22T20:34:10Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1784,7 +1792,7 @@
           "youtube_id": "JE_SlJn0ZH0",
           "title": "Professional removing hard and s\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/JE_SlJn0ZH0/hqdefault.jpg",
@@ -2182,20 +2190,6 @@
           "thumbnail": "https://i.ytimg.com/vi/6OYe6bcwdhk/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-13T03:04:24Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1DFNVlwGCqhKZssDkXFC6itbbT76siNrA",
-          "youtube_id": "9eK7aXl3-QQ",
-          "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 6,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/9eK7aXl3-QQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-12T23:37:57Z"
         }
       ],
       "runs": [
@@ -2791,6 +2785,16 @@
       ],
       "runs": [
         {
+          "id": 86,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-10-22",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-22T20:46:50.454232+00:00"
+        },
+        {
           "id": 85,
           "channel_id": "channel_4",
           "slot": 3,
@@ -2979,21 +2983,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-16T05:59:08.637171+00:00"
-        },
-        {
-          "id": 66,
-          "channel_id": "channel_4",
-          "slot": 2,
-          "run_date": "2026-10-16",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-16T00:31:18.805277+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "13s6sawMchXEcMI-dhpd3L8O9sM_NWFhy",
+      "youtube_id": "SyOYQmt4O6Y",
+      "title": "Professional removing nail growth \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/SyOYQmt4O6Y/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-22T20:34:10Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -3029,7 +3037,7 @@
       "youtube_id": "JE_SlJn0ZH0",
       "title": "Professional removing hard and s\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/JE_SlJn0ZH0/hqdefault.jpg",
@@ -3043,7 +3051,7 @@
       "youtube_id": "dlBMmGb0sc4",
       "title": "Strawberry Caramel Nutella Dessert Cups That Melt in Your Mouth \ud83c\udf53\ud83c\udf6b",
       "tiktok_views": 13400,
-      "youtube_views": 2,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dlBMmGb0sc4/hqdefault.jpg",
@@ -3155,7 +3163,7 @@
       "youtube_id": "ayQRr1rtLA8",
       "title": "The Secret to the Juiciest Beef Liver Cabbage Bake \u2728",
       "tiktok_views": 14100,
-      "youtube_views": 8,
+      "youtube_views": 7,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ayQRr1rtLA8/hqdefault.jpg",
@@ -4127,20 +4135,6 @@
       "thumbnail": "https://i.ytimg.com/vi/6OYe6bcwdhk/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-13T03:04:24Z"
-    },
-    {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1DFNVlwGCqhKZssDkXFC6itbbT76siNrA",
-      "youtube_id": "9eK7aXl3-QQ",
-      "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 6,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/9eK7aXl3-QQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-12T23:37:57Z"
     },
     {
       "channel_id": "channel_1",
@@ -5273,7 +5267,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 314,
+    "total_uploads": 315,
     "total_views": 139813,
     "total_likes": 20,
     "videos_per_day": 12
@@ -5506,5 +5500,5 @@
       "created_at": "2026-10-16T01:36:10.384923+00:00"
     }
   ],
-  "last_updated": "2026-10-22T20:33:58.551806+00:00"
+  "last_updated": "2026-10-22T20:46:55.652786+00:00"
 }
