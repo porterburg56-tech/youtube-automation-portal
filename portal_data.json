@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 312,
-    "total_views": 139791,
+    "total_uploads": 313,
+    "total_views": 139788,
     "total_likes": 19,
     "total_subscribers": 87,
     "channels_count": 4,
@@ -154,27 +154,27 @@
     },
     {
       "date": "2026-10-20",
-      "ch1_views": 23,
+      "ch1_views": 24,
       "ch2_views": 210,
       "ch3_views": 154,
       "ch4_views": 0,
-      "total_views": 387
+      "total_views": 388
     },
     {
       "date": "2026-10-21",
-      "ch1_views": 23,
+      "ch1_views": 24,
       "ch2_views": 218,
       "ch3_views": 162,
       "ch4_views": 0,
-      "total_views": 403
+      "total_views": 404
     },
     {
       "date": "2026-10-22",
-      "ch1_views": 23,
+      "ch1_views": 24,
       "ch2_views": 218,
       "ch3_views": 167,
       "ch4_views": 0,
-      "total_views": 408
+      "total_views": 409
     }
   ],
   "channels": {
@@ -193,8 +193,8 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 117,
-      "total_views": 650,
+      "total_uploads": 118,
+      "total_views": 647,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -273,21 +273,21 @@
         },
         {
           "date": "2026-10-20",
-          "views": 3,
+          "views": 4,
           "uploads": 3,
-          "cumulative_views": 23
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-21",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 23
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-22",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 23
+          "cumulative_views": 24
         }
       ],
       "videos": [
@@ -368,7 +368,7 @@
           "youtube_id": "rhUX2NdpHfQ",
           "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
           "tiktok_views": 10400,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
@@ -714,6 +714,16 @@
       ],
       "runs": [
         {
+          "id": 127,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-10-22",
+          "status": "success",
+          "video_id": "zSPdfEp7wgA",
+          "error_message": null,
+          "created_at": "2026-10-22T07:01:48.838471+00:00"
+        },
+        {
           "id": 126,
           "channel_id": "channel_1",
           "slot": 2,
@@ -902,16 +912,6 @@
           "video_id": "UJWTn8pr3Gw",
           "error_message": null,
           "created_at": "2026-10-16T01:36:10.384923+00:00"
-        },
-        {
-          "id": 107,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-10-15",
-          "status": "success",
-          "video_id": "RoZ-KO4jiEA",
-          "error_message": null,
-          "created_at": "2026-10-15T20:16:18.391831+00:00"
         }
       ]
     },
@@ -3245,7 +3245,7 @@
       "youtube_id": "rhUX2NdpHfQ",
       "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
       "tiktok_views": 10400,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
@@ -4556,8 +4556,8 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 117,
-    "total_views": 650,
+    "total_uploads": 118,
+    "total_views": 647,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -4636,21 +4636,21 @@
       },
       {
         "date": "2026-10-20",
-        "views": 3,
+        "views": 4,
         "uploads": 3,
-        "cumulative_views": 23
+        "cumulative_views": 24
       },
       {
         "date": "2026-10-21",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 23
+        "cumulative_views": 24
       },
       {
         "date": "2026-10-22",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 23
+        "cumulative_views": 24
       }
     ],
     "videos": [
@@ -4731,7 +4731,7 @@
         "youtube_id": "rhUX2NdpHfQ",
         "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
         "tiktok_views": 10400,
-        "youtube_views": 3,
+        "youtube_views": 4,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
@@ -5077,6 +5077,16 @@
     ],
     "runs": [
       {
+        "id": 127,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-10-22",
+        "status": "success",
+        "video_id": "zSPdfEp7wgA",
+        "error_message": null,
+        "created_at": "2026-10-22T07:01:48.838471+00:00"
+      },
+      {
         "id": 126,
         "channel_id": "channel_1",
         "slot": 2,
@@ -5265,22 +5275,12 @@
         "video_id": "UJWTn8pr3Gw",
         "error_message": null,
         "created_at": "2026-10-16T01:36:10.384923+00:00"
-      },
-      {
-        "id": 107,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-10-15",
-        "status": "success",
-        "video_id": "RoZ-KO4jiEA",
-        "error_message": null,
-        "created_at": "2026-10-15T20:16:18.391831+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 312,
-    "total_views": 139791,
+    "total_uploads": 313,
+    "total_views": 139788,
     "total_likes": 19,
     "videos_per_day": 12
   },
@@ -5311,6 +5311,16 @@
     }
   },
   "runs": [
+    {
+      "id": 127,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-10-22",
+      "status": "success",
+      "video_id": "zSPdfEp7wgA",
+      "error_message": null,
+      "created_at": "2026-10-22T07:01:48.838471+00:00"
+    },
     {
       "id": 126,
       "channel_id": "channel_1",
@@ -5500,17 +5510,7 @@
       "video_id": "UJWTn8pr3Gw",
       "error_message": null,
       "created_at": "2026-10-16T01:36:10.384923+00:00"
-    },
-    {
-      "id": 107,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-10-15",
-      "status": "success",
-      "video_id": "RoZ-KO4jiEA",
-      "error_message": null,
-      "created_at": "2026-10-15T20:16:18.391831+00:00"
     }
   ],
-  "last_updated": "2026-10-22T06:13:33.513225+00:00"
+  "last_updated": "2026-10-22T07:01:53.165721+00:00"
 }
