@@ -67,106 +67,114 @@
     {
       "date": "2026-10-09",
       "ch1_views": 0,
-      "ch2_views": 25,
+      "ch2_views": 18,
       "ch3_views": 0,
       "ch4_views": 1333,
-      "total_views": 1358
+      "total_views": 1351
     },
     {
       "date": "2026-10-10",
       "ch1_views": 0,
-      "ch2_views": 59,
+      "ch2_views": 52,
       "ch3_views": 0,
       "ch4_views": 1505,
-      "total_views": 1564
+      "total_views": 1557
     },
     {
       "date": "2026-10-11",
       "ch1_views": 0,
-      "ch2_views": 75,
+      "ch2_views": 68,
       "ch3_views": 0,
       "ch4_views": 1567,
-      "total_views": 1642
+      "total_views": 1635
     },
     {
       "date": "2026-10-12",
       "ch1_views": 3,
-      "ch2_views": 77,
+      "ch2_views": 70,
       "ch3_views": 14,
       "ch4_views": 0,
-      "total_views": 94
+      "total_views": 87
     },
     {
       "date": "2026-10-13",
       "ch1_views": 6,
-      "ch2_views": 78,
+      "ch2_views": 71,
       "ch3_views": 21,
       "ch4_views": 0,
-      "total_views": 105
+      "total_views": 98
     },
     {
       "date": "2026-10-14",
       "ch1_views": 8,
-      "ch2_views": 130,
+      "ch2_views": 123,
       "ch3_views": 50,
       "ch4_views": 0,
-      "total_views": 188
+      "total_views": 181
     },
     {
       "date": "2026-10-15",
       "ch1_views": 10,
-      "ch2_views": 190,
+      "ch2_views": 183,
       "ch3_views": 83,
       "ch4_views": 0,
-      "total_views": 283
+      "total_views": 276
     },
     {
       "date": "2026-10-16",
       "ch1_views": 12,
-      "ch2_views": 200,
+      "ch2_views": 193,
       "ch3_views": 107,
       "ch4_views": 0,
-      "total_views": 319
+      "total_views": 312
     },
     {
       "date": "2026-10-17",
       "ch1_views": 16,
-      "ch2_views": 202,
+      "ch2_views": 195,
       "ch3_views": 119,
       "ch4_views": 0,
-      "total_views": 337
+      "total_views": 330
     },
     {
       "date": "2026-10-18",
       "ch1_views": 18,
-      "ch2_views": 208,
+      "ch2_views": 201,
       "ch3_views": 130,
       "ch4_views": 0,
-      "total_views": 356
+      "total_views": 349
     },
     {
       "date": "2026-10-19",
       "ch1_views": 20,
-      "ch2_views": 218,
+      "ch2_views": 211,
       "ch3_views": 146,
       "ch4_views": 0,
-      "total_views": 384
+      "total_views": 377
     },
     {
       "date": "2026-10-20",
       "ch1_views": 20,
-      "ch2_views": 227,
+      "ch2_views": 220,
       "ch3_views": 162,
       "ch4_views": 0,
-      "total_views": 409
+      "total_views": 402
     },
     {
       "date": "2026-10-21",
       "ch1_views": 20,
-      "ch2_views": 235,
+      "ch2_views": 228,
       "ch3_views": 165,
       "ch4_views": 0,
-      "total_views": 420
+      "total_views": 413
+    },
+    {
+      "date": "2026-10-22",
+      "ch1_views": 0,
+      "ch2_views": 228,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 228
     }
   ],
   "channels": {
@@ -948,84 +956,104 @@
       "view_history": [
         {
           "date": "2026-10-09",
-          "views": 25,
-          "uploads": 3,
-          "cumulative_views": 25
+          "views": 18,
+          "uploads": 2,
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-10",
           "views": 34,
           "uploads": 3,
-          "cumulative_views": 59
+          "cumulative_views": 52
         },
         {
           "date": "2026-10-11",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 75
+          "cumulative_views": 68
         },
         {
           "date": "2026-10-12",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 77
+          "cumulative_views": 70
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 78
+          "cumulative_views": 71
         },
         {
           "date": "2026-10-14",
           "views": 52,
           "uploads": 3,
-          "cumulative_views": 130
+          "cumulative_views": 123
         },
         {
           "date": "2026-10-15",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 190
+          "cumulative_views": 183
         },
         {
           "date": "2026-10-16",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 200
+          "cumulative_views": 193
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 202
+          "cumulative_views": 195
         },
         {
           "date": "2026-10-18",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 208
+          "cumulative_views": 201
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 218
+          "cumulative_views": 211
         },
         {
           "date": "2026-10-20",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 227
+          "cumulative_views": 220
         },
         {
           "date": "2026-10-21",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 235
+          "cumulative_views": 228
+        },
+        {
+          "date": "2026-10-22",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 228
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7669131389664562446",
+          "youtube_id": "D-lA8Mt0VWA",
+          "title": "Quick & Easy Recipe Idea You'll Love \ud83c\udf7d\ufe0f\ud83d\udd25",
+          "tiktok_views": 13800,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/D-lA8Mt0VWA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-22T00:41:39Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1431,20 +1459,6 @@
           "thumbnail": "https://i.ytimg.com/vi/hzmuiSueGYg/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-09T07:21:41Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7693615367947668750",
-          "youtube_id": "_Pu0pvBsBa4",
-          "title": "Creamy Garlic Parmesan Salmon with Mashed Potatoes \u2728",
-          "tiktok_views": 618100,
-          "youtube_views": 7,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/_Pu0pvBsBa4/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-09T02:09:06Z"
         }
       ],
       "runs": [
@@ -2180,6 +2194,16 @@
       ],
       "runs": [
         {
+          "id": 91,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-10-22",
+          "status": "success",
+          "video_id": "KfFwDrs8VNs",
+          "error_message": null,
+          "created_at": "2026-10-22T00:42:28.384815+00:00"
+        },
+        {
           "id": 90,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2368,16 +2392,6 @@
           "video_id": "GhRRy83EEsA",
           "error_message": null,
           "created_at": "2026-10-15T20:19:50.984233+00:00"
-        },
-        {
-          "id": 71,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-15",
-          "status": "success",
-          "video_id": "lE-BNNNG298",
-          "error_message": null,
-          "created_at": "2026-10-15T05:53:31.965377+00:00"
         }
       ]
     },
@@ -2974,6 +2988,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7669131389664562446",
+      "youtube_id": "D-lA8Mt0VWA",
+      "title": "Quick & Easy Recipe Idea You'll Love \ud83c\udf7d\ufe0f\ud83d\udd25",
+      "tiktok_views": 13800,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/D-lA8Mt0VWA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-22T00:41:39Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -4319,20 +4347,6 @@
       "uploaded_at": "2026-10-09T02:20:30Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7693615367947668750",
-      "youtube_id": "_Pu0pvBsBa4",
-      "title": "Creamy Garlic Parmesan Salmon with Mashed Potatoes \u2728",
-      "tiktok_views": 618100,
-      "youtube_views": 7,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/_Pu0pvBsBa4/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-09T02:09:06Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1va9ZgwWc4OEwoc9Jyy5lj_2o1tYGWJf2",
@@ -5480,5 +5494,5 @@
       "created_at": "2026-10-15T06:54:40.464207+00:00"
     }
   ],
-  "last_updated": "2026-10-22T00:41:04.707682+00:00"
+  "last_updated": "2026-10-22T00:42:33.086911+00:00"
 }
