@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 320,
-    "total_views": 139814,
+    "total_uploads": 319,
+    "total_views": 139834,
     "total_likes": 20,
     "total_subscribers": 87,
     "channels_count": 4,
@@ -75,114 +75,114 @@
     {
       "date": "2026-10-10",
       "ch1_views": 0,
-      "ch2_views": 35,
+      "ch2_views": 8,
       "ch3_views": 0,
       "ch4_views": 1505,
-      "total_views": 1540
+      "total_views": 1513
     },
     {
       "date": "2026-10-11",
       "ch1_views": 0,
-      "ch2_views": 51,
+      "ch2_views": 24,
       "ch3_views": 0,
       "ch4_views": 1567,
-      "total_views": 1618
+      "total_views": 1591
     },
     {
       "date": "2026-10-12",
       "ch1_views": 0,
-      "ch2_views": 53,
+      "ch2_views": 26,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 53
+      "total_views": 26
     },
     {
       "date": "2026-10-13",
       "ch1_views": 1,
-      "ch2_views": 54,
+      "ch2_views": 27,
       "ch3_views": 3,
       "ch4_views": 0,
-      "total_views": 58
+      "total_views": 31
     },
     {
       "date": "2026-10-14",
       "ch1_views": 3,
-      "ch2_views": 106,
+      "ch2_views": 79,
       "ch3_views": 32,
       "ch4_views": 0,
-      "total_views": 141
+      "total_views": 114
     },
     {
       "date": "2026-10-15",
       "ch1_views": 5,
-      "ch2_views": 166,
+      "ch2_views": 139,
       "ch3_views": 65,
       "ch4_views": 0,
-      "total_views": 236
+      "total_views": 209
     },
     {
       "date": "2026-10-16",
       "ch1_views": 7,
-      "ch2_views": 177,
+      "ch2_views": 150,
       "ch3_views": 89,
       "ch4_views": 0,
-      "total_views": 273
+      "total_views": 246
     },
     {
       "date": "2026-10-17",
       "ch1_views": 11,
-      "ch2_views": 179,
+      "ch2_views": 152,
       "ch3_views": 101,
       "ch4_views": 0,
-      "total_views": 291
+      "total_views": 264
     },
     {
       "date": "2026-10-18",
       "ch1_views": 13,
-      "ch2_views": 185,
+      "ch2_views": 158,
       "ch3_views": 112,
       "ch4_views": 0,
-      "total_views": 310
+      "total_views": 283
     },
     {
       "date": "2026-10-19",
       "ch1_views": 15,
-      "ch2_views": 195,
+      "ch2_views": 168,
       "ch3_views": 128,
       "ch4_views": 0,
-      "total_views": 338
+      "total_views": 311
     },
     {
       "date": "2026-10-20",
       "ch1_views": 21,
-      "ch2_views": 206,
+      "ch2_views": 179,
       "ch3_views": 144,
       "ch4_views": 0,
-      "total_views": 371
+      "total_views": 344
     },
     {
       "date": "2026-10-21",
       "ch1_views": 22,
-      "ch2_views": 220,
+      "ch2_views": 193,
       "ch3_views": 152,
       "ch4_views": 0,
-      "total_views": 394
+      "total_views": 367
     },
     {
       "date": "2026-10-22",
       "ch1_views": 22,
-      "ch2_views": 225,
-      "ch3_views": 167,
+      "ch2_views": 198,
+      "ch3_views": 168,
       "ch4_views": 0,
-      "total_views": 414
+      "total_views": 388
     },
     {
       "date": "2026-10-23",
       "ch1_views": 22,
-      "ch2_views": 225,
-      "ch3_views": 167,
+      "ch2_views": 198,
+      "ch3_views": 177,
       "ch4_views": 0,
-      "total_views": 414
+      "total_views": 397
     }
   ],
   "channels": {
@@ -202,7 +202,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 120,
-      "total_views": 657,
+      "total_views": 656,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -939,7 +939,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 6,
       "total_uploads": 109,
-      "total_views": 1238,
+      "total_views": 1259,
       "total_likes": 4,
       "upcoming": {
         "slot1": {
@@ -970,90 +970,104 @@
       "view_history": [
         {
           "date": "2026-10-10",
-          "views": 35,
-          "uploads": 2,
-          "cumulative_views": 35
+          "views": 8,
+          "uploads": 1,
+          "cumulative_views": 8
         },
         {
           "date": "2026-10-11",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 51
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-12",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 53
+          "cumulative_views": 26
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 54
+          "cumulative_views": 27
         },
         {
           "date": "2026-10-14",
           "views": 52,
           "uploads": 3,
-          "cumulative_views": 106
+          "cumulative_views": 79
         },
         {
           "date": "2026-10-15",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 166
+          "cumulative_views": 139
         },
         {
           "date": "2026-10-16",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 177
+          "cumulative_views": 150
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 179
+          "cumulative_views": 152
         },
         {
           "date": "2026-10-18",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 185
+          "cumulative_views": 158
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 195
+          "cumulative_views": 168
         },
         {
           "date": "2026-10-20",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 206
+          "cumulative_views": 179
         },
         {
           "date": "2026-10-21",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 220
+          "cumulative_views": 193
         },
         {
           "date": "2026-10-22",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 225
+          "cumulative_views": 198
         },
         {
           "date": "2026-10-23",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 225
+          "uploads": 2,
+          "cumulative_views": 198
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7659097536761777421",
+          "youtube_id": "lTN_iKsKog0",
+          "title": "Chef's Secret Stuffed Chicken Rolls with Creamy Butter Sauce \u2728",
+          "tiktok_views": 12900,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/lTN_iKsKog0/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-23T06:00:09Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1459,20 +1473,6 @@
           "thumbnail": "https://i.ytimg.com/vi/7-CMo4sOimA/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-10T19:47:55Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7693233750603271437",
-          "youtube_id": "kxIacsu0CAw",
-          "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
-          "tiktok_views": 118500,
-          "youtube_views": 27,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-10T06:57:46Z"
         }
       ],
       "runs": [
@@ -1693,7 +1693,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 71,
+      "total_uploads": 70,
       "total_views": 136352,
       "total_likes": 1,
       "upcoming": {
@@ -1779,15 +1779,15 @@
         },
         {
           "date": "2026-10-22",
-          "views": 15,
+          "views": 16,
           "uploads": 3,
-          "cumulative_views": 167
+          "cumulative_views": 168
         },
         {
           "date": "2026-10-23",
-          "views": 0,
+          "views": 9,
           "uploads": 1,
-          "cumulative_views": 167
+          "cumulative_views": 177
         }
       ],
       "videos": [
@@ -1798,7 +1798,7 @@
           "youtube_id": "WRMpYZheRwc",
           "title": "Professional removing stone depo\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/WRMpYZheRwc/hqdefault.jpg",
@@ -1812,7 +1812,7 @@
           "youtube_id": "SyOYQmt4O6Y",
           "title": "Professional removing nail growth \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SyOYQmt4O6Y/hqdefault.jpg",
@@ -2805,6 +2805,16 @@
       ],
       "runs": [
         {
+          "id": 88,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-10-23",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-23T06:08:25.148192+00:00"
+        },
+        {
           "id": 87,
           "channel_id": "channel_4",
           "slot": 2,
@@ -2993,21 +3003,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-17T00:37:34.035288+00:00"
-        },
-        {
-          "id": 68,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-10-16",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-16T20:02:06.917859+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7659097536761777421",
+      "youtube_id": "lTN_iKsKog0",
+      "title": "Chef's Secret Stuffed Chicken Rolls with Creamy Butter Sauce \u2728",
+      "tiktok_views": 12900,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/lTN_iKsKog0/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-23T06:00:09Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -3029,7 +3043,7 @@
       "youtube_id": "WRMpYZheRwc",
       "title": "Professional removing stone depo\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/WRMpYZheRwc/hqdefault.jpg",
@@ -3071,7 +3085,7 @@
       "youtube_id": "SyOYQmt4O6Y",
       "title": "Professional removing nail growth \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SyOYQmt4O6Y/hqdefault.jpg",
@@ -4297,20 +4311,6 @@
       "uploaded_at": "2026-10-10T07:21:01Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7693233750603271437",
-      "youtube_id": "kxIacsu0CAw",
-      "title": "Bacon-Wrapped Stuffed Cabbage with Chicken & Potatoes \u2728",
-      "tiktok_views": 118500,
-      "youtube_views": 27,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-10T06:57:46Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1Etv_GEWyun4k2pWi0GZn_pxDxZiY0N_B",
@@ -4565,7 +4565,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 120,
-    "total_views": 657,
+    "total_views": 656,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5287,8 +5287,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 320,
-    "total_views": 139814,
+    "total_uploads": 319,
+    "total_views": 139834,
     "total_likes": 20,
     "videos_per_day": 12
   },
@@ -5520,5 +5520,5 @@
       "created_at": "2026-10-16T19:52:47.083555+00:00"
     }
   ],
-  "last_updated": "2026-10-23T05:59:06.905510+00:00"
+  "last_updated": "2026-10-23T06:08:29.838372+00:00"
 }
