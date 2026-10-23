@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 319,
-    "total_views": 139834,
+    "total_uploads": 320,
+    "total_views": 139838,
     "total_likes": 20,
     "total_subscribers": 87,
     "channels_count": 4,
@@ -1693,8 +1693,8 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 70,
-      "total_views": 136352,
+      "total_uploads": 71,
+      "total_views": 136356,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -2214,6 +2214,16 @@
       ],
       "runs": [
         {
+          "id": 95,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-23",
+          "status": "success",
+          "video_id": "eWnmzCi8MjM",
+          "error_message": null,
+          "created_at": "2026-10-23T06:28:30.070217+00:00"
+        },
+        {
           "id": 94,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2402,16 +2412,6 @@
           "video_id": "lT1TcL6lgzc",
           "error_message": null,
           "created_at": "2026-10-17T00:30:15.106024+00:00"
-        },
-        {
-          "id": 75,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-16",
-          "status": "success",
-          "video_id": "27ynTHWStTE",
-          "error_message": null,
-          "created_at": "2026-10-16T19:56:30.932064+00:00"
         }
       ]
     },
@@ -5287,8 +5287,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 319,
-    "total_views": 139834,
+    "total_uploads": 320,
+    "total_views": 139838,
     "total_likes": 20,
     "videos_per_day": 12
   },
@@ -5520,5 +5520,5 @@
       "created_at": "2026-10-16T19:52:47.083555+00:00"
     }
   ],
-  "last_updated": "2026-10-23T06:08:29.838372+00:00"
+  "last_updated": "2026-10-23T06:28:34.557082+00:00"
 }
