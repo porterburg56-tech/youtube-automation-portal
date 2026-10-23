@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 324,
+    "total_uploads": 325,
     "total_views": 139850,
     "total_likes": 20,
     "total_subscribers": 87,
@@ -91,96 +91,96 @@
     {
       "date": "2026-10-12",
       "ch1_views": 0,
+      "ch2_views": 18,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 18
+    },
+    {
+      "date": "2026-10-13",
+      "ch1_views": 0,
       "ch2_views": 19,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 19
     },
     {
-      "date": "2026-10-13",
-      "ch1_views": 0,
-      "ch2_views": 20,
-      "ch3_views": 1,
-      "ch4_views": 0,
-      "total_views": 21
-    },
-    {
       "date": "2026-10-14",
       "ch1_views": 2,
-      "ch2_views": 72,
-      "ch3_views": 30,
+      "ch2_views": 71,
+      "ch3_views": 29,
       "ch4_views": 0,
-      "total_views": 104
+      "total_views": 102
     },
     {
       "date": "2026-10-15",
       "ch1_views": 4,
-      "ch2_views": 132,
-      "ch3_views": 63,
+      "ch2_views": 131,
+      "ch3_views": 62,
       "ch4_views": 0,
-      "total_views": 199
+      "total_views": 197
     },
     {
       "date": "2026-10-16",
       "ch1_views": 6,
-      "ch2_views": 143,
-      "ch3_views": 87,
+      "ch2_views": 142,
+      "ch3_views": 86,
       "ch4_views": 0,
-      "total_views": 236
+      "total_views": 234
     },
     {
       "date": "2026-10-17",
       "ch1_views": 10,
-      "ch2_views": 145,
-      "ch3_views": 99,
+      "ch2_views": 144,
+      "ch3_views": 98,
       "ch4_views": 0,
-      "total_views": 254
+      "total_views": 252
     },
     {
       "date": "2026-10-18",
       "ch1_views": 12,
-      "ch2_views": 151,
-      "ch3_views": 110,
+      "ch2_views": 150,
+      "ch3_views": 109,
       "ch4_views": 0,
-      "total_views": 273
+      "total_views": 271
     },
     {
       "date": "2026-10-19",
       "ch1_views": 14,
-      "ch2_views": 161,
-      "ch3_views": 126,
+      "ch2_views": 160,
+      "ch3_views": 125,
       "ch4_views": 0,
-      "total_views": 301
+      "total_views": 299
     },
     {
       "date": "2026-10-20",
       "ch1_views": 21,
-      "ch2_views": 173,
-      "ch3_views": 144,
+      "ch2_views": 172,
+      "ch3_views": 143,
       "ch4_views": 0,
-      "total_views": 338
+      "total_views": 336
     },
     {
       "date": "2026-10-21",
       "ch1_views": 22,
-      "ch2_views": 187,
-      "ch3_views": 152,
+      "ch2_views": 186,
+      "ch3_views": 151,
       "ch4_views": 0,
-      "total_views": 361
+      "total_views": 359
     },
     {
       "date": "2026-10-22",
       "ch1_views": 22,
-      "ch2_views": 193,
+      "ch2_views": 192,
       "ch3_views": 173,
       "ch4_views": 0,
-      "total_views": 388
+      "total_views": 387
     },
     {
       "date": "2026-10-23",
       "ch1_views": 22,
-      "ch2_views": 197,
-      "ch3_views": 188,
+      "ch2_views": 196,
+      "ch3_views": 189,
       "ch4_views": 0,
       "total_views": 407
     }
@@ -970,75 +970,75 @@
         },
         {
           "date": "2026-10-12",
-          "views": 3,
+          "views": 2,
           "uploads": 1,
-          "cumulative_views": 19
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 20
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-14",
           "views": 52,
           "uploads": 3,
-          "cumulative_views": 72
+          "cumulative_views": 71
         },
         {
           "date": "2026-10-15",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 132
+          "cumulative_views": 131
         },
         {
           "date": "2026-10-16",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 143
+          "cumulative_views": 142
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 145
+          "cumulative_views": 144
         },
         {
           "date": "2026-10-18",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 151
+          "cumulative_views": 150
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 161
+          "cumulative_views": 160
         },
         {
           "date": "2026-10-20",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 173
+          "cumulative_views": 172
         },
         {
           "date": "2026-10-21",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 187
+          "cumulative_views": 186
         },
         {
           "date": "2026-10-22",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 193
+          "cumulative_views": 192
         },
         {
           "date": "2026-10-23",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 197
+          "cumulative_views": 196
         }
       ],
       "videos": [
@@ -1413,7 +1413,7 @@
           "youtube_id": "1kBN7vwWcjk",
           "title": "Lithuanian Grandma\u2019s Secret Homemade Cheese \u2728",
           "tiktok_views": 27700,
-          "youtube_views": 3,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/1kBN7vwWcjk/hqdefault.jpg",
@@ -1681,7 +1681,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 72,
+      "total_uploads": 73,
       "total_views": 136363,
       "total_likes": 1,
       "upcoming": {
@@ -1712,73 +1712,81 @@
       },
       "view_history": [
         {
-          "date": "2026-10-13",
-          "views": 1,
-          "uploads": 1,
-          "cumulative_views": 1
-        },
-        {
           "date": "2026-10-14",
           "views": 29,
           "uploads": 3,
-          "cumulative_views": 30
+          "cumulative_views": 29
         },
         {
           "date": "2026-10-15",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 63
+          "cumulative_views": 62
         },
         {
           "date": "2026-10-16",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 87
+          "cumulative_views": 86
         },
         {
           "date": "2026-10-17",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 99
+          "cumulative_views": 98
         },
         {
           "date": "2026-10-18",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 110
+          "cumulative_views": 109
         },
         {
           "date": "2026-10-19",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 126
+          "cumulative_views": 125
         },
         {
           "date": "2026-10-20",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 144
+          "cumulative_views": 143
         },
         {
           "date": "2026-10-21",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 152
+          "cumulative_views": 151
         },
         {
           "date": "2026-10-22",
-          "views": 21,
+          "views": 22,
           "uploads": 3,
           "cumulative_views": 173
         },
         {
           "date": "2026-10-23",
-          "views": 15,
-          "uploads": 2,
-          "cumulative_views": 188
+          "views": 16,
+          "uploads": 3,
+          "cumulative_views": 189
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1YNcsAI-0rGlUORTpykSXcXOsC2eFoGWA",
+          "youtube_id": "dAiy2lbo13M",
+          "title": "Professional scraping calcified \u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/dAiy2lbo13M/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-23T20:26:37Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1800,7 +1808,7 @@
           "youtube_id": "WRMpYZheRwc",
           "title": "Professional removing stone depo\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 15,
+          "youtube_views": 16,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/WRMpYZheRwc/hqdefault.jpg",
@@ -1814,7 +1822,7 @@
           "youtube_id": "SyOYQmt4O6Y",
           "title": "Professional removing nail growth \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 12,
+          "youtube_views": 13,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SyOYQmt4O6Y/hqdefault.jpg",
@@ -2184,20 +2192,6 @@
           "thumbnail": "https://i.ytimg.com/vi/6kjJd9sXePQ/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-14T01:14:55Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1DJxn_BvX4P712tvVPbPh8NApGmwLkbFr",
-          "youtube_id": "jbmeU9cMUV8",
-          "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/jbmeU9cMUV8/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-13T21:50:50Z"
         }
       ],
       "runs": [
@@ -2793,6 +2787,16 @@
       ],
       "runs": [
         {
+          "id": 89,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-10-23",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-23T20:35:46.379064+00:00"
+        },
+        {
           "id": 88,
           "channel_id": "channel_4",
           "slot": 3,
@@ -2981,21 +2985,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-17T05:44:53.794960+00:00"
-        },
-        {
-          "id": 69,
-          "channel_id": "channel_4",
-          "slot": 2,
-          "run_date": "2026-10-17",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-17T00:37:34.035288+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1YNcsAI-0rGlUORTpykSXcXOsC2eFoGWA",
+      "youtube_id": "dAiy2lbo13M",
+      "title": "Professional scraping calcified \u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/dAiy2lbo13M/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-23T20:26:37Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -3087,7 +3095,7 @@
       "youtube_id": "WRMpYZheRwc",
       "title": "Professional removing stone depo\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 15,
+      "youtube_views": 16,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/WRMpYZheRwc/hqdefault.jpg",
@@ -3129,7 +3137,7 @@
       "youtube_id": "SyOYQmt4O6Y",
       "title": "Professional removing nail growth \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 12,
+      "youtube_views": 13,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SyOYQmt4O6Y/hqdefault.jpg",
@@ -4173,20 +4181,6 @@
       "uploaded_at": "2026-10-14T01:08:06Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1DJxn_BvX4P712tvVPbPh8NApGmwLkbFr",
-      "youtube_id": "jbmeU9cMUV8",
-      "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/jbmeU9cMUV8/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-13T21:50:50Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7696221550223150350",
@@ -4207,7 +4201,7 @@
       "youtube_id": "1kBN7vwWcjk",
       "title": "Lithuanian Grandma\u2019s Secret Homemade Cheese \u2728",
       "tiktok_views": 27700,
-      "youtube_views": 3,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/1kBN7vwWcjk/hqdefault.jpg",
@@ -5269,7 +5263,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 324,
+    "total_uploads": 325,
     "total_views": 139850,
     "total_likes": 20,
     "videos_per_day": 12
@@ -5502,5 +5496,5 @@
       "created_at": "2026-10-17T06:30:34.995676+00:00"
     }
   ],
-  "last_updated": "2026-10-23T20:26:22.135944+00:00"
+  "last_updated": "2026-10-23T20:35:50.287614+00:00"
 }
