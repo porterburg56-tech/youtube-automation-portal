@@ -91,98 +91,98 @@
     {
       "date": "2026-10-12",
       "ch1_views": 0,
-      "ch2_views": 18,
+      "ch2_views": 19,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 18
+      "total_views": 19
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 1,
-      "ch2_views": 19,
+      "ch1_views": 0,
+      "ch2_views": 20,
       "ch3_views": 1,
       "ch4_views": 0,
       "total_views": 21
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 3,
-      "ch2_views": 71,
+      "ch1_views": 2,
+      "ch2_views": 72,
       "ch3_views": 30,
       "ch4_views": 0,
       "total_views": 104
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 5,
-      "ch2_views": 131,
+      "ch1_views": 4,
+      "ch2_views": 132,
       "ch3_views": 63,
       "ch4_views": 0,
       "total_views": 199
     },
     {
       "date": "2026-10-16",
-      "ch1_views": 7,
-      "ch2_views": 142,
+      "ch1_views": 6,
+      "ch2_views": 143,
       "ch3_views": 87,
       "ch4_views": 0,
       "total_views": 236
     },
     {
       "date": "2026-10-17",
-      "ch1_views": 11,
-      "ch2_views": 144,
+      "ch1_views": 10,
+      "ch2_views": 145,
       "ch3_views": 99,
       "ch4_views": 0,
       "total_views": 254
     },
     {
       "date": "2026-10-18",
-      "ch1_views": 13,
-      "ch2_views": 150,
+      "ch1_views": 12,
+      "ch2_views": 151,
       "ch3_views": 110,
       "ch4_views": 0,
       "total_views": 273
     },
     {
       "date": "2026-10-19",
-      "ch1_views": 15,
-      "ch2_views": 160,
+      "ch1_views": 14,
+      "ch2_views": 161,
       "ch3_views": 126,
       "ch4_views": 0,
       "total_views": 301
     },
     {
       "date": "2026-10-20",
-      "ch1_views": 22,
-      "ch2_views": 172,
+      "ch1_views": 21,
+      "ch2_views": 173,
       "ch3_views": 144,
       "ch4_views": 0,
       "total_views": 338
     },
     {
       "date": "2026-10-21",
-      "ch1_views": 23,
-      "ch2_views": 186,
+      "ch1_views": 22,
+      "ch2_views": 187,
       "ch3_views": 152,
       "ch4_views": 0,
       "total_views": 361
     },
     {
       "date": "2026-10-22",
-      "ch1_views": 23,
-      "ch2_views": 192,
-      "ch3_views": 174,
+      "ch1_views": 22,
+      "ch2_views": 193,
+      "ch3_views": 173,
       "ch4_views": 0,
-      "total_views": 389
+      "total_views": 388
     },
     {
       "date": "2026-10-23",
-      "ch1_views": 23,
+      "ch1_views": 22,
       "ch2_views": 197,
-      "ch3_views": 189,
+      "ch3_views": 188,
       "ch4_views": 0,
-      "total_views": 409
+      "total_views": 407
     }
   ],
   "channels": {
@@ -232,73 +232,81 @@
       },
       "view_history": [
         {
-          "date": "2026-10-13",
-          "views": 1,
-          "uploads": 1,
-          "cumulative_views": 1
-        },
-        {
           "date": "2026-10-14",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 3
+          "cumulative_views": 2
         },
         {
           "date": "2026-10-15",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 5
+          "cumulative_views": 4
         },
         {
           "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 7
+          "cumulative_views": 6
         },
         {
           "date": "2026-10-17",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 11
+          "cumulative_views": 10
         },
         {
           "date": "2026-10-18",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 12
         },
         {
           "date": "2026-10-19",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-20",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-21",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 23
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-22",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 23
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-23",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 23
+          "uploads": 3,
+          "cumulative_views": 22
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7672739307945315598",
+          "youtube_id": "h9Yz6NAgXNA",
+          "title": "Pure innocence mixed with perfect comedy. \u2764\ufe0f \ud83d\ude02",
+          "tiktok_views": 6528,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/h9Yz6NAgXNA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-23T20:18:36Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -704,20 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/sE1MOk90288/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-14T02:06:05Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7696189595825851661",
-          "youtube_id": "EPD1-OTlPtM",
-          "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
-          "tiktok_views": 95200,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/EPD1-OTlPtM/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-13T21:48:30Z"
         }
       ],
       "runs": [
@@ -976,73 +970,73 @@
         },
         {
           "date": "2026-10-12",
-          "views": 2,
+          "views": 3,
           "uploads": 1,
-          "cumulative_views": 18
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 19
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-14",
           "views": 52,
           "uploads": 3,
-          "cumulative_views": 71
+          "cumulative_views": 72
         },
         {
           "date": "2026-10-15",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 131
+          "cumulative_views": 132
         },
         {
           "date": "2026-10-16",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 142
+          "cumulative_views": 143
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 144
+          "cumulative_views": 145
         },
         {
           "date": "2026-10-18",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 150
+          "cumulative_views": 151
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 160
+          "cumulative_views": 161
         },
         {
           "date": "2026-10-20",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 172
+          "cumulative_views": 173
         },
         {
           "date": "2026-10-21",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 186
+          "cumulative_views": 187
         },
         {
           "date": "2026-10-22",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 192
+          "cumulative_views": 193
         },
         {
           "date": "2026-10-23",
-          "views": 5,
+          "views": 4,
           "uploads": 3,
           "cumulative_views": 197
         }
@@ -1083,7 +1077,7 @@
           "youtube_id": "MIr9QJEVZV4",
           "title": "Creamy No-Bake Nutella Cheesecake Dessert You'll Make Again \u2728",
           "tiktok_views": 13200,
-          "youtube_views": 3,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MIr9QJEVZV4/hqdefault.jpg",
@@ -1419,7 +1413,7 @@
           "youtube_id": "1kBN7vwWcjk",
           "title": "Lithuanian Grandma\u2019s Secret Homemade Cheese \u2728",
           "tiktok_views": 27700,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/1kBN7vwWcjk/hqdefault.jpg",
@@ -1773,15 +1767,15 @@
         },
         {
           "date": "2026-10-22",
-          "views": 22,
+          "views": 21,
           "uploads": 3,
-          "cumulative_views": 174
+          "cumulative_views": 173
         },
         {
           "date": "2026-10-23",
           "views": 15,
           "uploads": 2,
-          "cumulative_views": 189
+          "cumulative_views": 188
         }
       ],
       "videos": [
@@ -1820,7 +1814,7 @@
           "youtube_id": "SyOYQmt4O6Y",
           "title": "Professional removing nail growth \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 13,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SyOYQmt4O6Y/hqdefault.jpg",
@@ -2208,6 +2202,16 @@
       ],
       "runs": [
         {
+          "id": 96,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-23",
+          "status": "success",
+          "video_id": "dAiy2lbo13M",
+          "error_message": null,
+          "created_at": "2026-10-23T20:26:17.059735+00:00"
+        },
+        {
           "id": 95,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2396,16 +2400,6 @@
           "video_id": "G7hIsk-KANo",
           "error_message": null,
           "created_at": "2026-10-17T05:34:46.516772+00:00"
-        },
-        {
-          "id": 76,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-17",
-          "status": "success",
-          "video_id": "lT1TcL6lgzc",
-          "error_message": null,
-          "created_at": "2026-10-17T00:30:15.106024+00:00"
         }
       ]
     },
@@ -3003,6 +2997,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7672739307945315598",
+      "youtube_id": "h9Yz6NAgXNA",
+      "title": "Pure innocence mixed with perfect comedy. \u2764\ufe0f \ud83d\ude02",
+      "tiktok_views": 6528,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/h9Yz6NAgXNA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-23T20:18:36Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7699920297431977230",
@@ -3093,7 +3101,7 @@
       "youtube_id": "MIr9QJEVZV4",
       "title": "Creamy No-Bake Nutella Cheesecake Dessert You'll Make Again \u2728",
       "tiktok_views": 13200,
-      "youtube_views": 3,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MIr9QJEVZV4/hqdefault.jpg",
@@ -3121,7 +3129,7 @@
       "youtube_id": "SyOYQmt4O6Y",
       "title": "Professional removing nail growth \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 13,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SyOYQmt4O6Y/hqdefault.jpg",
@@ -4179,20 +4187,6 @@
       "uploaded_at": "2026-10-13T21:50:50Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7696189595825851661",
-      "youtube_id": "EPD1-OTlPtM",
-      "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
-      "tiktok_views": 95200,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/EPD1-OTlPtM/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-13T21:48:30Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7696221550223150350",
@@ -4213,7 +4207,7 @@
       "youtube_id": "1kBN7vwWcjk",
       "title": "Lithuanian Grandma\u2019s Secret Homemade Cheese \u2728",
       "tiktok_views": 27700,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/1kBN7vwWcjk/hqdefault.jpg",
@@ -4589,73 +4583,81 @@
     },
     "view_history": [
       {
-        "date": "2026-10-13",
-        "views": 1,
-        "uploads": 1,
-        "cumulative_views": 1
-      },
-      {
         "date": "2026-10-14",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 3
+        "cumulative_views": 2
       },
       {
         "date": "2026-10-15",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 5
+        "cumulative_views": 4
       },
       {
         "date": "2026-10-16",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 7
+        "cumulative_views": 6
       },
       {
         "date": "2026-10-17",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 11
+        "cumulative_views": 10
       },
       {
         "date": "2026-10-18",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 12
       },
       {
         "date": "2026-10-19",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 14
       },
       {
         "date": "2026-10-20",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-21",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 23
+        "cumulative_views": 22
       },
       {
         "date": "2026-10-22",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 23
+        "cumulative_views": 22
       },
       {
         "date": "2026-10-23",
         "views": 0,
-        "uploads": 2,
-        "cumulative_views": 23
+        "uploads": 3,
+        "cumulative_views": 22
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7672739307945315598",
+        "youtube_id": "h9Yz6NAgXNA",
+        "title": "Pure innocence mixed with perfect comedy. \u2764\ufe0f \ud83d\ude02",
+        "tiktok_views": 6528,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/h9Yz6NAgXNA/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-23T20:18:36Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5061,20 +5063,6 @@
         "thumbnail": "https://i.ytimg.com/vi/sE1MOk90288/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-14T02:06:05Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7696189595825851661",
-        "youtube_id": "EPD1-OTlPtM",
-        "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
-        "tiktok_views": 95200,
-        "youtube_views": 1,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/EPD1-OTlPtM/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-13T21:48:30Z"
       }
     ],
     "runs": [
@@ -5514,5 +5502,5 @@
       "created_at": "2026-10-17T06:30:34.995676+00:00"
     }
   ],
-  "last_updated": "2026-10-23T20:18:21.764274+00:00"
+  "last_updated": "2026-10-23T20:26:22.135944+00:00"
 }
