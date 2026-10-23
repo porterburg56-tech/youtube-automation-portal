@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 323,
-    "total_views": 139847,
+    "total_uploads": 324,
+    "total_views": 139850,
     "total_likes": 20,
     "total_subscribers": 87,
     "channels_count": 4,
@@ -75,114 +75,114 @@
     {
       "date": "2026-10-10",
       "ch1_views": 0,
-      "ch2_views": 8,
+      "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 1505,
-      "total_views": 1513
+      "total_views": 1505
     },
     {
       "date": "2026-10-11",
       "ch1_views": 0,
-      "ch2_views": 24,
+      "ch2_views": 16,
       "ch3_views": 0,
       "ch4_views": 1567,
-      "total_views": 1591
+      "total_views": 1583
     },
     {
       "date": "2026-10-12",
       "ch1_views": 0,
-      "ch2_views": 26,
+      "ch2_views": 18,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 26
+      "total_views": 18
     },
     {
       "date": "2026-10-13",
       "ch1_views": 1,
-      "ch2_views": 27,
+      "ch2_views": 19,
       "ch3_views": 1,
       "ch4_views": 0,
-      "total_views": 29
+      "total_views": 21
     },
     {
       "date": "2026-10-14",
       "ch1_views": 3,
-      "ch2_views": 79,
+      "ch2_views": 71,
       "ch3_views": 30,
       "ch4_views": 0,
-      "total_views": 112
+      "total_views": 104
     },
     {
       "date": "2026-10-15",
       "ch1_views": 5,
-      "ch2_views": 139,
+      "ch2_views": 131,
       "ch3_views": 63,
       "ch4_views": 0,
-      "total_views": 207
+      "total_views": 199
     },
     {
       "date": "2026-10-16",
       "ch1_views": 7,
-      "ch2_views": 150,
+      "ch2_views": 142,
       "ch3_views": 87,
       "ch4_views": 0,
-      "total_views": 244
+      "total_views": 236
     },
     {
       "date": "2026-10-17",
       "ch1_views": 11,
-      "ch2_views": 152,
+      "ch2_views": 144,
       "ch3_views": 99,
       "ch4_views": 0,
-      "total_views": 262
+      "total_views": 254
     },
     {
       "date": "2026-10-18",
       "ch1_views": 13,
-      "ch2_views": 158,
+      "ch2_views": 150,
       "ch3_views": 110,
       "ch4_views": 0,
-      "total_views": 281
+      "total_views": 273
     },
     {
       "date": "2026-10-19",
       "ch1_views": 15,
-      "ch2_views": 168,
+      "ch2_views": 160,
       "ch3_views": 126,
       "ch4_views": 0,
-      "total_views": 309
+      "total_views": 301
     },
     {
       "date": "2026-10-20",
       "ch1_views": 22,
-      "ch2_views": 180,
+      "ch2_views": 172,
       "ch3_views": 144,
       "ch4_views": 0,
-      "total_views": 346
+      "total_views": 338
     },
     {
       "date": "2026-10-21",
       "ch1_views": 23,
-      "ch2_views": 194,
+      "ch2_views": 186,
       "ch3_views": 152,
       "ch4_views": 0,
-      "total_views": 369
+      "total_views": 361
     },
     {
       "date": "2026-10-22",
       "ch1_views": 23,
-      "ch2_views": 200,
+      "ch2_views": 192,
       "ch3_views": 174,
       "ch4_views": 0,
-      "total_views": 397
+      "total_views": 389
     },
     {
       "date": "2026-10-23",
       "ch1_views": 23,
-      "ch2_views": 204,
+      "ch2_views": 197,
       "ch3_views": 189,
       "ch4_views": 0,
-      "total_views": 416
+      "total_views": 409
     }
   ],
   "channels": {
@@ -201,7 +201,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 121,
+      "total_uploads": 122,
       "total_views": 658,
       "total_likes": 0,
       "upcoming": {
@@ -722,6 +722,16 @@
       ],
       "runs": [
         {
+          "id": 131,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-10-23",
+          "status": "success",
+          "video_id": "h9Yz6NAgXNA",
+          "error_message": null,
+          "created_at": "2026-10-23T20:18:16.578248+00:00"
+        },
+        {
           "id": 130,
           "channel_id": "channel_1",
           "slot": 3,
@@ -910,16 +920,6 @@
           "video_id": "kLfqR9So2Ew",
           "error_message": null,
           "created_at": "2026-10-17T06:30:34.995676+00:00"
-        },
-        {
-          "id": 111,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-10-17",
-          "status": "success",
-          "video_id": "OwiEPfDW53Q",
-          "error_message": null,
-          "created_at": "2026-10-17T01:26:50.460992+00:00"
         }
       ]
     },
@@ -939,7 +939,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 6,
       "total_uploads": 110,
-      "total_views": 1259,
+      "total_views": 1262,
       "total_likes": 4,
       "upcoming": {
         "slot1": {
@@ -969,91 +969,99 @@
       },
       "view_history": [
         {
-          "date": "2026-10-10",
-          "views": 8,
-          "uploads": 1,
-          "cumulative_views": 8
-        },
-        {
           "date": "2026-10-11",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 16
         },
         {
           "date": "2026-10-12",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 26
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 27
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-14",
           "views": 52,
           "uploads": 3,
-          "cumulative_views": 79
+          "cumulative_views": 71
         },
         {
           "date": "2026-10-15",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 139
+          "cumulative_views": 131
         },
         {
           "date": "2026-10-16",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 150
+          "cumulative_views": 142
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 152
+          "cumulative_views": 144
         },
         {
           "date": "2026-10-18",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 158
+          "cumulative_views": 150
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 168
+          "cumulative_views": 160
         },
         {
           "date": "2026-10-20",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 180
+          "cumulative_views": 172
         },
         {
           "date": "2026-10-21",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 194
+          "cumulative_views": 186
         },
         {
           "date": "2026-10-22",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 200
+          "cumulative_views": 192
         },
         {
           "date": "2026-10-23",
-          "views": 4,
-          "uploads": 2,
-          "cumulative_views": 204
+          "views": 5,
+          "uploads": 3,
+          "cumulative_views": 197
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7699920297431977230",
+          "youtube_id": "-xmbdVXYM78",
+          "title": "Crispy Stuffed Cabbage Rolls \u2728",
+          "tiktok_views": 5000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/-xmbdVXYM78/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-23T20:00:26Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1075,7 +1083,7 @@
           "youtube_id": "MIr9QJEVZV4",
           "title": "Creamy No-Bake Nutella Cheesecake Dessert You'll Make Again \u2728",
           "tiktok_views": 13200,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MIr9QJEVZV4/hqdefault.jpg",
@@ -1459,20 +1467,6 @@
           "thumbnail": "https://i.ytimg.com/vi/H_YK6bpmvpI/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-11T01:02:23Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7695086834581343502",
-          "youtube_id": "7-CMo4sOimA",
-          "title": "Cheesy Cabbage and Minced Meat Bake \u2728",
-          "tiktok_views": 9682,
-          "youtube_views": 8,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/7-CMo4sOimA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-10T19:47:55Z"
         }
       ],
       "runs": [
@@ -3009,6 +3003,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7699920297431977230",
+      "youtube_id": "-xmbdVXYM78",
+      "title": "Crispy Stuffed Cabbage Rolls \u2728",
+      "tiktok_views": 5000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/-xmbdVXYM78/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-23T20:00:26Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7663522240276827406",
@@ -3085,7 +3093,7 @@
       "youtube_id": "MIr9QJEVZV4",
       "title": "Creamy No-Bake Nutella Cheesecake Dessert You'll Make Again \u2728",
       "tiktok_views": 13200,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MIr9QJEVZV4/hqdefault.jpg",
@@ -4283,20 +4291,6 @@
       "uploaded_at": "2026-10-10T20:39:31Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7695086834581343502",
-      "youtube_id": "7-CMo4sOimA",
-      "title": "Cheesy Cabbage and Minced Meat Bake \u2728",
-      "tiktok_views": 9682,
-      "youtube_views": 8,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/7-CMo4sOimA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-10T19:47:55Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1HbclGIy9beUbyVJVS7Oq3zqgOawYT4SV",
@@ -4564,7 +4558,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 121,
+    "total_uploads": 122,
     "total_views": 658,
     "total_likes": 0,
     "upcoming": {
@@ -5085,6 +5079,16 @@
     ],
     "runs": [
       {
+        "id": 131,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-10-23",
+        "status": "success",
+        "video_id": "h9Yz6NAgXNA",
+        "error_message": null,
+        "created_at": "2026-10-23T20:18:16.578248+00:00"
+      },
+      {
         "id": 130,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5273,22 +5277,12 @@
         "video_id": "kLfqR9So2Ew",
         "error_message": null,
         "created_at": "2026-10-17T06:30:34.995676+00:00"
-      },
-      {
-        "id": 111,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-10-17",
-        "status": "success",
-        "video_id": "OwiEPfDW53Q",
-        "error_message": null,
-        "created_at": "2026-10-17T01:26:50.460992+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 323,
-    "total_views": 139847,
+    "total_uploads": 324,
+    "total_views": 139850,
     "total_likes": 20,
     "videos_per_day": 12
   },
@@ -5319,6 +5313,16 @@
     }
   },
   "runs": [
+    {
+      "id": 131,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-10-23",
+      "status": "success",
+      "video_id": "h9Yz6NAgXNA",
+      "error_message": null,
+      "created_at": "2026-10-23T20:18:16.578248+00:00"
+    },
     {
       "id": 130,
       "channel_id": "channel_1",
@@ -5508,17 +5512,7 @@
       "video_id": "kLfqR9So2Ew",
       "error_message": null,
       "created_at": "2026-10-17T06:30:34.995676+00:00"
-    },
-    {
-      "id": 111,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-10-17",
-      "status": "success",
-      "video_id": "OwiEPfDW53Q",
-      "error_message": null,
-      "created_at": "2026-10-17T01:26:50.460992+00:00"
     }
   ],
-  "last_updated": "2026-10-23T19:59:41.678490+00:00"
+  "last_updated": "2026-10-23T20:18:21.764274+00:00"
 }
