@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 319,
-    "total_views": 139813,
+    "total_uploads": 320,
+    "total_views": 139814,
     "total_likes": 20,
     "total_subscribers": 87,
     "channels_count": 4,
@@ -98,91 +98,91 @@
     },
     {
       "date": "2026-10-13",
-      "ch1_views": 3,
+      "ch1_views": 1,
       "ch2_views": 54,
       "ch3_views": 3,
       "ch4_views": 0,
-      "total_views": 60
+      "total_views": 58
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 5,
+      "ch1_views": 3,
       "ch2_views": 106,
       "ch3_views": 32,
       "ch4_views": 0,
-      "total_views": 143
+      "total_views": 141
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 7,
+      "ch1_views": 5,
       "ch2_views": 166,
       "ch3_views": 65,
       "ch4_views": 0,
-      "total_views": 238
+      "total_views": 236
     },
     {
       "date": "2026-10-16",
-      "ch1_views": 9,
+      "ch1_views": 7,
       "ch2_views": 177,
       "ch3_views": 89,
       "ch4_views": 0,
-      "total_views": 275
+      "total_views": 273
     },
     {
       "date": "2026-10-17",
-      "ch1_views": 13,
+      "ch1_views": 11,
       "ch2_views": 179,
       "ch3_views": 101,
       "ch4_views": 0,
-      "total_views": 293
+      "total_views": 291
     },
     {
       "date": "2026-10-18",
-      "ch1_views": 15,
+      "ch1_views": 13,
       "ch2_views": 185,
       "ch3_views": 112,
       "ch4_views": 0,
-      "total_views": 312
+      "total_views": 310
     },
     {
       "date": "2026-10-19",
-      "ch1_views": 17,
+      "ch1_views": 15,
       "ch2_views": 195,
       "ch3_views": 128,
       "ch4_views": 0,
-      "total_views": 340
+      "total_views": 338
     },
     {
       "date": "2026-10-20",
-      "ch1_views": 23,
-      "ch2_views": 205,
+      "ch1_views": 21,
+      "ch2_views": 206,
       "ch3_views": 144,
       "ch4_views": 0,
-      "total_views": 372
+      "total_views": 371
     },
     {
       "date": "2026-10-21",
-      "ch1_views": 24,
-      "ch2_views": 219,
+      "ch1_views": 22,
+      "ch2_views": 220,
       "ch3_views": 152,
       "ch4_views": 0,
-      "total_views": 395
+      "total_views": 394
     },
     {
       "date": "2026-10-22",
-      "ch1_views": 24,
-      "ch2_views": 223,
-      "ch3_views": 161,
+      "ch1_views": 22,
+      "ch2_views": 225,
+      "ch3_views": 167,
       "ch4_views": 0,
-      "total_views": 408
+      "total_views": 414
     },
     {
       "date": "2026-10-23",
-      "ch1_views": 0,
-      "ch2_views": 223,
-      "ch3_views": 161,
+      "ch1_views": 22,
+      "ch2_views": 225,
+      "ch3_views": 167,
       "ch4_views": 0,
-      "total_views": 384
+      "total_views": 414
     }
   ],
   "channels": {
@@ -202,7 +202,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 120,
-      "total_views": 656,
+      "total_views": 657,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -233,66 +233,86 @@
       "view_history": [
         {
           "date": "2026-10-13",
-          "views": 3,
-          "uploads": 3,
-          "cumulative_views": 3
+          "views": 1,
+          "uploads": 2,
+          "cumulative_views": 1
         },
         {
           "date": "2026-10-14",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 5
+          "cumulative_views": 3
         },
         {
           "date": "2026-10-15",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 7
+          "cumulative_views": 5
         },
         {
           "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 9
+          "cumulative_views": 7
         },
         {
           "date": "2026-10-17",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 11
         },
         {
           "date": "2026-10-18",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 13
         },
         {
           "date": "2026-10-19",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-20",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 23
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-21",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-22",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 22
+        },
+        {
+          "date": "2026-10-23",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 22
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7672780144100117774",
+          "youtube_id": "_IyOIA-X-pQ",
+          "title": "We watched this five times and still laughed. \ud83e\udd23",
+          "tiktok_views": 8931,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/_IyOIA-X-pQ/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-23T01:47:06Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -698,20 +718,6 @@
           "thumbnail": "https://i.ytimg.com/vi/cmCwnMtsjOQ/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-13T08:54:17Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7664202031250312462",
-          "youtube_id": "Nksh8iMFkRU",
-          "title": "Every Dad Watching This Will Say\u2026 \u201cThat\u2019s Me!\u201d \u2764\ufe0f\ud83e\udd23",
-          "tiktok_views": 19900,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/Nksh8iMFkRU/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-13T03:46:19Z"
         }
       ],
       "runs": [
@@ -932,7 +938,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 6,
-      "total_uploads": 108,
+      "total_uploads": 109,
       "total_views": 1238,
       "total_likes": 4,
       "upcoming": {
@@ -1024,27 +1030,27 @@
         },
         {
           "date": "2026-10-20",
-          "views": 10,
+          "views": 11,
           "uploads": 3,
-          "cumulative_views": 205
+          "cumulative_views": 206
         },
         {
           "date": "2026-10-21",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 219
+          "cumulative_views": 220
         },
         {
           "date": "2026-10-22",
-          "views": 4,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 223
+          "cumulative_views": 225
         },
         {
           "date": "2026-10-23",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 223
+          "cumulative_views": 225
         }
       ],
       "videos": [
@@ -1097,7 +1103,7 @@
           "youtube_id": "D-lA8Mt0VWA",
           "title": "Quick & Easy Recipe Idea You'll Love \ud83c\udf7d\ufe0f\ud83d\udd25",
           "tiktok_views": 13800,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/D-lA8Mt0VWA/hqdefault.jpg",
@@ -1181,7 +1187,7 @@
           "youtube_id": "yzSnALdYapw",
           "title": "Strawberry Coffee Dessert Cups That Melt in Your Mouth \ud83c\udf53\u2615",
           "tiktok_views": 19800,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yzSnALdYapw/hqdefault.jpg",
@@ -1471,6 +1477,16 @@
       ],
       "runs": [
         {
+          "id": 137,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-23",
+          "status": "success",
+          "video_id": "lTN_iKsKog0",
+          "error_message": null,
+          "created_at": "2026-10-23T05:59:02.596924+00:00"
+        },
+        {
           "id": 136,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1659,16 +1675,6 @@
           "video_id": "U127bm3H1rs",
           "error_message": null,
           "created_at": "2026-10-17T18:13:48.454911+00:00"
-        },
-        {
-          "id": 117,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-17",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "Dubbing exception for 7650572669154348301: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmptvid9y4x/retimed_video_only.mp4', '-i', '/tmp/tmptvid9y4x/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7650572669154348301_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
-          "created_at": "2026-10-17T06:21:01.736032+00:00"
         }
       ]
     },
@@ -1773,15 +1779,15 @@
         },
         {
           "date": "2026-10-22",
-          "views": 9,
+          "views": 15,
           "uploads": 3,
-          "cumulative_views": 161
+          "cumulative_views": 167
         },
         {
           "date": "2026-10-23",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 161
+          "cumulative_views": 167
         }
       ],
       "videos": [
@@ -1806,7 +1812,7 @@
           "youtube_id": "SyOYQmt4O6Y",
           "title": "Professional removing nail growth \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SyOYQmt4O6Y/hqdefault.jpg",
@@ -3003,6 +3009,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7672780144100117774",
+      "youtube_id": "_IyOIA-X-pQ",
+      "title": "We watched this five times and still laughed. \ud83e\udd23",
+      "tiktok_views": 8931,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/_IyOIA-X-pQ/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-23T01:47:06Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1Sqhv7hCbJyYnpavZ78vNseUorR-vfeWJ",
@@ -3051,7 +3071,7 @@
       "youtube_id": "SyOYQmt4O6Y",
       "title": "Professional removing nail growth \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SyOYQmt4O6Y/hqdefault.jpg",
@@ -3149,7 +3169,7 @@
       "youtube_id": "D-lA8Mt0VWA",
       "title": "Quick & Easy Recipe Idea You'll Love \ud83c\udf7d\ufe0f\ud83d\udd25",
       "tiktok_views": 13800,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/D-lA8Mt0VWA/hqdefault.jpg",
@@ -3387,7 +3407,7 @@
       "youtube_id": "yzSnALdYapw",
       "title": "Strawberry Coffee Dessert Cups That Melt in Your Mouth \ud83c\udf53\u2615",
       "tiktok_views": 19800,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yzSnALdYapw/hqdefault.jpg",
@@ -4165,20 +4185,6 @@
       "uploaded_at": "2026-10-13T07:41:46Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7664202031250312462",
-      "youtube_id": "Nksh8iMFkRU",
-      "title": "Every Dad Watching This Will Say\u2026 \u201cThat\u2019s Me!\u201d \u2764\ufe0f\ud83e\udd23",
-      "tiktok_views": 19900,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/Nksh8iMFkRU/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-13T03:46:19Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7643152138582985997",
@@ -4559,7 +4565,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 120,
-    "total_views": 656,
+    "total_views": 657,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -4590,66 +4596,86 @@
     "view_history": [
       {
         "date": "2026-10-13",
-        "views": 3,
-        "uploads": 3,
-        "cumulative_views": 3
+        "views": 1,
+        "uploads": 2,
+        "cumulative_views": 1
       },
       {
         "date": "2026-10-14",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 5
+        "cumulative_views": 3
       },
       {
         "date": "2026-10-15",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 7
+        "cumulative_views": 5
       },
       {
         "date": "2026-10-16",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 9
+        "cumulative_views": 7
       },
       {
         "date": "2026-10-17",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 11
       },
       {
         "date": "2026-10-18",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 13
       },
       {
         "date": "2026-10-19",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 15
       },
       {
         "date": "2026-10-20",
         "views": 6,
         "uploads": 3,
-        "cumulative_views": 23
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-21",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 22
       },
       {
         "date": "2026-10-22",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 22
+      },
+      {
+        "date": "2026-10-23",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 22
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7672780144100117774",
+        "youtube_id": "_IyOIA-X-pQ",
+        "title": "We watched this five times and still laughed. \ud83e\udd23",
+        "tiktok_views": 8931,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/_IyOIA-X-pQ/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-23T01:47:06Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5055,20 +5081,6 @@
         "thumbnail": "https://i.ytimg.com/vi/cmCwnMtsjOQ/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-13T08:54:17Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7664202031250312462",
-        "youtube_id": "Nksh8iMFkRU",
-        "title": "Every Dad Watching This Will Say\u2026 \u201cThat\u2019s Me!\u201d \u2764\ufe0f\ud83e\udd23",
-        "tiktok_views": 19900,
-        "youtube_views": 2,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/Nksh8iMFkRU/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-13T03:46:19Z"
       }
     ],
     "runs": [
@@ -5275,8 +5287,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 319,
-    "total_views": 139813,
+    "total_uploads": 320,
+    "total_views": 139814,
     "total_likes": 20,
     "videos_per_day": 12
   },
@@ -5508,5 +5520,5 @@
       "created_at": "2026-10-16T19:52:47.083555+00:00"
     }
   ],
-  "last_updated": "2026-10-23T01:46:45.595623+00:00"
+  "last_updated": "2026-10-23T05:59:06.905510+00:00"
 }
