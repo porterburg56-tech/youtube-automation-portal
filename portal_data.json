@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 317,
+    "total_uploads": 316,
     "total_views": 139813,
     "total_likes": 20,
     "total_subscribers": 87,
@@ -75,106 +75,114 @@
     {
       "date": "2026-10-10",
       "ch1_views": 0,
-      "ch2_views": 43,
+      "ch2_views": 35,
       "ch3_views": 0,
       "ch4_views": 1505,
-      "total_views": 1548
+      "total_views": 1540
     },
     {
       "date": "2026-10-11",
       "ch1_views": 0,
-      "ch2_views": 59,
+      "ch2_views": 51,
       "ch3_views": 0,
       "ch4_views": 1567,
-      "total_views": 1626
+      "total_views": 1618
     },
     {
       "date": "2026-10-12",
       "ch1_views": 0,
-      "ch2_views": 61,
+      "ch2_views": 53,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 61
+      "total_views": 53
     },
     {
       "date": "2026-10-13",
       "ch1_views": 3,
-      "ch2_views": 62,
+      "ch2_views": 54,
       "ch3_views": 7,
       "ch4_views": 0,
-      "total_views": 72
+      "total_views": 64
     },
     {
       "date": "2026-10-14",
       "ch1_views": 5,
-      "ch2_views": 114,
+      "ch2_views": 106,
       "ch3_views": 36,
       "ch4_views": 0,
-      "total_views": 155
+      "total_views": 147
     },
     {
       "date": "2026-10-15",
       "ch1_views": 7,
-      "ch2_views": 174,
+      "ch2_views": 166,
       "ch3_views": 69,
       "ch4_views": 0,
-      "total_views": 250
+      "total_views": 242
     },
     {
       "date": "2026-10-16",
       "ch1_views": 9,
-      "ch2_views": 185,
+      "ch2_views": 177,
       "ch3_views": 93,
       "ch4_views": 0,
-      "total_views": 287
+      "total_views": 279
     },
     {
       "date": "2026-10-17",
       "ch1_views": 13,
-      "ch2_views": 187,
+      "ch2_views": 179,
       "ch3_views": 105,
       "ch4_views": 0,
-      "total_views": 305
+      "total_views": 297
     },
     {
       "date": "2026-10-18",
       "ch1_views": 15,
-      "ch2_views": 193,
+      "ch2_views": 185,
       "ch3_views": 116,
       "ch4_views": 0,
-      "total_views": 324
+      "total_views": 316
     },
     {
       "date": "2026-10-19",
       "ch1_views": 17,
-      "ch2_views": 203,
+      "ch2_views": 195,
       "ch3_views": 132,
       "ch4_views": 0,
-      "total_views": 352
+      "total_views": 344
     },
     {
       "date": "2026-10-20",
       "ch1_views": 23,
-      "ch2_views": 213,
+      "ch2_views": 205,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 384
+      "total_views": 376
     },
     {
       "date": "2026-10-21",
       "ch1_views": 24,
-      "ch2_views": 227,
+      "ch2_views": 219,
       "ch3_views": 156,
       "ch4_views": 0,
-      "total_views": 407
+      "total_views": 399
     },
     {
       "date": "2026-10-22",
       "ch1_views": 24,
-      "ch2_views": 231,
+      "ch2_views": 223,
       "ch3_views": 165,
       "ch4_views": 0,
-      "total_views": 420
+      "total_views": 412
+    },
+    {
+      "date": "2026-10-23",
+      "ch1_views": 0,
+      "ch2_views": 223,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 223
     }
   ],
   "channels": {
@@ -956,84 +964,104 @@
       "view_history": [
         {
           "date": "2026-10-10",
-          "views": 43,
-          "uploads": 3,
-          "cumulative_views": 43
+          "views": 35,
+          "uploads": 2,
+          "cumulative_views": 35
         },
         {
           "date": "2026-10-11",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 59
+          "cumulative_views": 51
         },
         {
           "date": "2026-10-12",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 61
+          "cumulative_views": 53
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 62
+          "cumulative_views": 54
         },
         {
           "date": "2026-10-14",
           "views": 52,
           "uploads": 3,
-          "cumulative_views": 114
+          "cumulative_views": 106
         },
         {
           "date": "2026-10-15",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 174
+          "cumulative_views": 166
         },
         {
           "date": "2026-10-16",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 185
+          "cumulative_views": 177
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 187
+          "cumulative_views": 179
         },
         {
           "date": "2026-10-18",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 193
+          "cumulative_views": 185
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 203
+          "cumulative_views": 195
         },
         {
           "date": "2026-10-20",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 213
+          "cumulative_views": 205
         },
         {
           "date": "2026-10-21",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 227
+          "cumulative_views": 219
         },
         {
           "date": "2026-10-22",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 231
+          "cumulative_views": 223
+        },
+        {
+          "date": "2026-10-23",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 223
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7664751072392629518",
+          "youtube_id": "MIr9QJEVZV4",
+          "title": "Creamy No-Bake Nutella Cheesecake Dessert You'll Make Again \u2728",
+          "tiktok_views": 13200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/MIr9QJEVZV4/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-23T00:40:37Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1439,20 +1467,6 @@
           "thumbnail": "https://i.ytimg.com/vi/kxIacsu0CAw/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-10T06:57:46Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7692147398096833805",
-          "youtube_id": "o8dXFrj3rHg",
-          "title": "Tender Beer-Braised Beef & Creamy Mashed Potatoes \u2728",
-          "tiktok_views": 156500,
-          "youtube_views": 8,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/o8dXFrj3rHg/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-10T01:43:09Z"
         }
       ],
       "runs": [
@@ -1673,7 +1687,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 70,
+      "total_uploads": 69,
       "total_views": 136352,
       "total_likes": 1,
       "upcoming": {
@@ -2779,6 +2793,16 @@
       ],
       "runs": [
         {
+          "id": 87,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-10-23",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-23T00:45:43.086433+00:00"
+        },
+        {
           "id": 86,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2967,21 +2991,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-16T20:02:06.917859+00:00"
-        },
-        {
-          "id": 67,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-16",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-16T05:59:08.637171+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7664751072392629518",
+      "youtube_id": "MIr9QJEVZV4",
+      "title": "Creamy No-Bake Nutella Cheesecake Dessert You'll Make Again \u2728",
+      "tiktok_views": 13200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/MIr9QJEVZV4/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-23T00:40:37Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -4285,20 +4313,6 @@
       "uploaded_at": "2026-10-10T01:50:25Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7692147398096833805",
-      "youtube_id": "o8dXFrj3rHg",
-      "title": "Tender Beer-Braised Beef & Creamy Mashed Potatoes \u2728",
-      "tiktok_views": 156500,
-      "youtube_views": 8,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/o8dXFrj3rHg/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-10T01:43:09Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1aeD5Jj8OF5u-gQ844amesh7iAUR0RuE1",
@@ -5255,7 +5269,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 317,
+    "total_uploads": 316,
     "total_views": 139813,
     "total_likes": 20,
     "videos_per_day": 12
@@ -5488,5 +5502,5 @@
       "created_at": "2026-10-16T06:41:48.767191+00:00"
     }
   ],
-  "last_updated": "2026-10-23T00:40:08.128350+00:00"
+  "last_updated": "2026-10-23T00:45:47.526225+00:00"
 }
