@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 328,
-    "total_views": 139850,
+    "total_uploads": 329,
+    "total_views": 139869,
     "total_likes": 20,
     "total_subscribers": 87,
     "channels_count": 4,
@@ -156,9 +156,9 @@
       "date": "2026-10-20",
       "ch1_views": 21,
       "ch2_views": 168,
-      "ch3_views": 138,
+      "ch3_views": 137,
       "ch4_views": 0,
-      "total_views": 327
+      "total_views": 326
     },
     {
       "date": "2026-10-21",
@@ -180,17 +180,17 @@
       "date": "2026-10-23",
       "ch1_views": 23,
       "ch2_views": 197,
-      "ch3_views": 188,
+      "ch3_views": 192,
       "ch4_views": 0,
-      "total_views": 408
+      "total_views": 412
     },
     {
       "date": "2026-10-24",
-      "ch1_views": 0,
+      "ch1_views": 23,
       "ch2_views": 197,
-      "ch3_views": 188,
+      "ch3_views": 192,
       "ch4_views": 0,
-      "total_views": 385
+      "total_views": 412
     }
   ],
   "channels": {
@@ -242,7 +242,7 @@
         {
           "date": "2026-10-14",
           "views": 2,
-          "uploads": 3,
+          "uploads": 2,
           "cumulative_views": 2
         },
         {
@@ -298,9 +298,29 @@
           "views": 0,
           "uploads": 3,
           "cumulative_views": 23
+        },
+        {
+          "date": "2026-10-24",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 23
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7669445566920756494",
+          "youtube_id": "WE6efn5Ri9E",
+          "title": "This Is the Most Relatable Dad Video Ever \ud83d\ude2d",
+          "tiktok_views": 8508,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/WE6efn5Ri9E/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-24T01:51:24Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -706,20 +726,6 @@
           "thumbnail": "https://i.ytimg.com/vi/bi42osihQwQ/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-14T07:03:49Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7676476883298438414",
-          "youtube_id": "sE1MOk90288",
-          "title": "Grandma was expecting a sweet compliment\u2026 instead, this toddler offer \ud83d\ude02",
-          "tiktok_views": 17600,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/sE1MOk90288/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-14T02:06:05Z"
         }
       ],
       "runs": [
@@ -940,8 +946,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 6,
-      "total_uploads": 111,
-      "total_views": 1262,
+      "total_uploads": 112,
+      "total_views": 1281,
       "total_likes": 4,
       "upcoming": {
         "slot1": {
@@ -1479,6 +1485,16 @@
       ],
       "runs": [
         {
+          "id": 140,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-24",
+          "status": "success",
+          "video_id": "OkF08MTZViQ",
+          "error_message": null,
+          "created_at": "2026-10-24T05:40:10.867435+00:00"
+        },
+        {
           "id": 139,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1667,16 +1683,6 @@
           "video_id": null,
           "error_message": "Dubbing exception for 7650572669154348301: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmpn3vpugww/retimed_video_only.mp4', '-i', '/tmp/tmpn3vpugww/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7650572669154348301_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
           "created_at": "2026-10-18T06:05:14.490750+00:00"
-        },
-        {
-          "id": 120,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-18",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "Dubbing exception for 7650572669154348301: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmp0wokt8le/retimed_video_only.mp4', '-i', '/tmp/tmp0wokt8le/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7650572669154348301_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
-          "created_at": "2026-10-18T05:44:27.054005+00:00"
         }
       ]
     },
@@ -1763,13 +1769,13 @@
         },
         {
           "date": "2026-10-20",
-          "views": 18,
+          "views": 17,
           "uploads": 3,
-          "cumulative_views": 138
+          "cumulative_views": 137
         },
         {
           "date": "2026-10-21",
-          "views": 8,
+          "views": 9,
           "uploads": 3,
           "cumulative_views": 146
         },
@@ -1781,15 +1787,15 @@
         },
         {
           "date": "2026-10-23",
-          "views": 18,
+          "views": 22,
           "uploads": 3,
-          "cumulative_views": 188
+          "cumulative_views": 192
         },
         {
           "date": "2026-10-24",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 188
+          "cumulative_views": 192
         }
       ],
       "videos": [
@@ -1842,7 +1848,7 @@
           "youtube_id": "WRMpYZheRwc",
           "title": "Professional removing stone depo\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 18,
+          "youtube_views": 22,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/WRMpYZheRwc/hqdefault.jpg",
@@ -1912,7 +1918,7 @@
           "youtube_id": "BtA_lcZ1mzU",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BtA_lcZ1mzU/hqdefault.jpg",
@@ -1968,7 +1974,7 @@
           "youtube_id": "Mq_wyq3Iblg",
           "title": "Professional performing medical \u2026(1) \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 8,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Mq_wyq3Iblg/hqdefault.jpg",
@@ -3011,6 +3017,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7669445566920756494",
+      "youtube_id": "WE6efn5Ri9E",
+      "title": "This Is the Most Relatable Dad Video Ever \ud83d\ude2d",
+      "tiktok_views": 8508,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/WE6efn5Ri9E/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-24T01:51:24Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1JEp9MxPM9_pPMEYM5f6llrB2ZgbOK9Wj",
@@ -3143,7 +3163,7 @@
       "youtube_id": "WRMpYZheRwc",
       "title": "Professional removing stone depo\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 18,
+      "youtube_views": 22,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/WRMpYZheRwc/hqdefault.jpg",
@@ -3367,7 +3387,7 @@
       "youtube_id": "BtA_lcZ1mzU",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BtA_lcZ1mzU/hqdefault.jpg",
@@ -3535,7 +3555,7 @@
       "youtube_id": "Mq_wyq3Iblg",
       "title": "Professional performing medical \u2026(1) \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 8,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Mq_wyq3Iblg/hqdefault.jpg",
@@ -4187,20 +4207,6 @@
       "uploaded_at": "2026-10-14T05:58:02Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7676476883298438414",
-      "youtube_id": "sE1MOk90288",
-      "title": "Grandma was expecting a sweet compliment\u2026 instead, this toddler offer \ud83d\ude02",
-      "tiktok_views": 17600,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/sE1MOk90288/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-14T02:06:05Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7695835620928703758",
@@ -4599,7 +4605,7 @@
       {
         "date": "2026-10-14",
         "views": 2,
-        "uploads": 3,
+        "uploads": 2,
         "cumulative_views": 2
       },
       {
@@ -4655,9 +4661,29 @@
         "views": 0,
         "uploads": 3,
         "cumulative_views": 23
+      },
+      {
+        "date": "2026-10-24",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 23
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7669445566920756494",
+        "youtube_id": "WE6efn5Ri9E",
+        "title": "This Is the Most Relatable Dad Video Ever \ud83d\ude2d",
+        "tiktok_views": 8508,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/WE6efn5Ri9E/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-24T01:51:24Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5063,20 +5089,6 @@
         "thumbnail": "https://i.ytimg.com/vi/bi42osihQwQ/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-14T07:03:49Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7676476883298438414",
-        "youtube_id": "sE1MOk90288",
-        "title": "Grandma was expecting a sweet compliment\u2026 instead, this toddler offer \ud83d\ude02",
-        "tiktok_views": 17600,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/sE1MOk90288/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-14T02:06:05Z"
       }
     ],
     "runs": [
@@ -5283,8 +5295,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 328,
-    "total_views": 139850,
+    "total_uploads": 329,
+    "total_views": 139869,
     "total_likes": 20,
     "videos_per_day": 12
   },
@@ -5516,5 +5528,5 @@
       "created_at": "2026-10-17T19:12:10.249760+00:00"
     }
   ],
-  "last_updated": "2026-10-24T01:51:00.736223+00:00"
+  "last_updated": "2026-10-24T05:40:16.074994+00:00"
 }
