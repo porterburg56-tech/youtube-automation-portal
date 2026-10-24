@@ -106,88 +106,88 @@
     },
     {
       "date": "2026-10-14",
-      "ch1_views": 2,
+      "ch1_views": 0,
       "ch2_views": 57,
       "ch3_views": 8,
       "ch4_views": 0,
-      "total_views": 67
+      "total_views": 65
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 4,
+      "ch1_views": 2,
       "ch2_views": 117,
       "ch3_views": 41,
       "ch4_views": 0,
-      "total_views": 162
+      "total_views": 160
     },
     {
       "date": "2026-10-16",
-      "ch1_views": 6,
+      "ch1_views": 4,
       "ch2_views": 128,
       "ch3_views": 65,
       "ch4_views": 0,
-      "total_views": 199
+      "total_views": 197
     },
     {
       "date": "2026-10-17",
-      "ch1_views": 10,
+      "ch1_views": 8,
       "ch2_views": 130,
       "ch3_views": 77,
       "ch4_views": 0,
-      "total_views": 217
+      "total_views": 215
     },
     {
       "date": "2026-10-18",
-      "ch1_views": 12,
+      "ch1_views": 10,
       "ch2_views": 136,
       "ch3_views": 88,
       "ch4_views": 0,
-      "total_views": 236
+      "total_views": 234
     },
     {
       "date": "2026-10-19",
-      "ch1_views": 14,
+      "ch1_views": 12,
       "ch2_views": 146,
       "ch3_views": 104,
       "ch4_views": 0,
-      "total_views": 264
+      "total_views": 262
     },
     {
       "date": "2026-10-20",
-      "ch1_views": 21,
+      "ch1_views": 19,
       "ch2_views": 159,
       "ch3_views": 122,
       "ch4_views": 0,
-      "total_views": 302
+      "total_views": 300
     },
     {
       "date": "2026-10-21",
-      "ch1_views": 22,
+      "ch1_views": 20,
       "ch2_views": 174,
       "ch3_views": 132,
       "ch4_views": 0,
-      "total_views": 328
+      "total_views": 326
     },
     {
       "date": "2026-10-22",
-      "ch1_views": 24,
+      "ch1_views": 22,
       "ch2_views": 182,
       "ch3_views": 156,
       "ch4_views": 0,
-      "total_views": 362
+      "total_views": 360
     },
     {
       "date": "2026-10-23",
-      "ch1_views": 24,
-      "ch2_views": 195,
+      "ch1_views": 22,
+      "ch2_views": 196,
       "ch3_views": 179,
       "ch4_views": 0,
-      "total_views": 398
+      "total_views": 397
     },
     {
       "date": "2026-10-24",
-      "ch1_views": 26,
-      "ch2_views": 204,
+      "ch1_views": 24,
+      "ch2_views": 206,
       "ch3_views": 184,
       "ch4_views": 0,
       "total_views": 414
@@ -240,73 +240,81 @@
       },
       "view_history": [
         {
-          "date": "2026-10-14",
-          "views": 2,
-          "uploads": 1,
-          "cumulative_views": 2
-        },
-        {
           "date": "2026-10-15",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 4
+          "cumulative_views": 2
         },
         {
           "date": "2026-10-16",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 6
+          "cumulative_views": 4
         },
         {
           "date": "2026-10-17",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 10
+          "cumulative_views": 8
         },
         {
           "date": "2026-10-18",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 12
+          "cumulative_views": 10
         },
         {
           "date": "2026-10-19",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 14
+          "cumulative_views": 12
         },
         {
           "date": "2026-10-20",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-21",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-22",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-23",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-24",
           "views": 2,
-          "uploads": 2,
-          "cumulative_views": 26
+          "uploads": 3,
+          "cumulative_views": 24
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7671641120501271821",
+          "youtube_id": "zrvSpO4QlJY",
+          "title": "This Is Literally Dad Every Evening \ud83d\ude02",
+          "tiktok_views": 6552,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/zrvSpO4QlJY/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-24T19:23:58Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -712,20 +720,6 @@
           "thumbnail": "https://i.ytimg.com/vi/CNnAHdSQYAA/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-15T01:42:25Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7696522545113107726",
-          "youtube_id": "V-dLT3m2YJM",
-          "title": "The Toddler Saw Grandpa\u2019s Move and Said, \u201cMy Turn!\u201d \ud83d\ude02\ud83e\udd2f",
-          "tiktok_views": 22000,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/V-dLT3m2YJM/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-14T20:34:40Z"
         }
       ],
       "runs": [
@@ -1044,15 +1038,15 @@
         },
         {
           "date": "2026-10-23",
-          "views": 13,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 195
+          "cumulative_views": 196
         },
         {
           "date": "2026-10-24",
-          "views": 9,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 204
+          "cumulative_views": 206
         }
       ],
       "videos": [
@@ -1077,7 +1071,7 @@
           "youtube_id": "OkF08MTZViQ",
           "title": "Cheesy Broccoli Omelette with Crispy Bacon \u2728",
           "tiktok_views": 11800,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/OkF08MTZViQ/hqdefault.jpg",
@@ -1105,7 +1099,7 @@
           "youtube_id": "-xmbdVXYM78",
           "title": "Crispy Stuffed Cabbage Rolls \u2728",
           "tiktok_views": 5000,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-xmbdVXYM78/hqdefault.jpg",
@@ -2216,6 +2210,16 @@
       ],
       "runs": [
         {
+          "id": 99,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-24",
+          "status": "success",
+          "video_id": "m35wNsYWFT8",
+          "error_message": null,
+          "created_at": "2026-10-24T19:28:52.420060+00:00"
+        },
+        {
           "id": 98,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2404,16 +2408,6 @@
           "video_id": "qwNhsqMH6k4",
           "error_message": null,
           "created_at": "2026-10-18T05:52:30.570424+00:00"
-        },
-        {
-          "id": 79,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-18",
-          "status": "success",
-          "video_id": "ML3NvNgF5E0",
-          "error_message": null,
-          "created_at": "2026-10-18T00:04:07.488935+00:00"
         }
       ]
     },
@@ -3011,6 +3005,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7671641120501271821",
+      "youtube_id": "zrvSpO4QlJY",
+      "title": "This Is Literally Dad Every Evening \ud83d\ude02",
+      "tiktok_views": 6552,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/zrvSpO4QlJY/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-24T19:23:58Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7700290375663095054",
@@ -3059,7 +3067,7 @@
       "youtube_id": "OkF08MTZViQ",
       "title": "Cheesy Broccoli Omelette with Crispy Bacon \u2728",
       "tiktok_views": 11800,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/OkF08MTZViQ/hqdefault.jpg",
@@ -3143,7 +3151,7 @@
       "youtube_id": "-xmbdVXYM78",
       "title": "Crispy Stuffed Cabbage Rolls \u2728",
       "tiktok_views": 5000,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-xmbdVXYM78/hqdefault.jpg",
@@ -4187,20 +4195,6 @@
       "uploaded_at": "2026-10-14T20:41:59Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7696522545113107726",
-      "youtube_id": "V-dLT3m2YJM",
-      "title": "The Toddler Saw Grandpa\u2019s Move and Said, \u201cMy Turn!\u201d \ud83d\ude02\ud83e\udd2f",
-      "tiktok_views": 22000,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/V-dLT3m2YJM/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-14T20:34:40Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7674190994618846478",
@@ -4597,73 +4591,81 @@
     },
     "view_history": [
       {
-        "date": "2026-10-14",
-        "views": 2,
-        "uploads": 1,
-        "cumulative_views": 2
-      },
-      {
         "date": "2026-10-15",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 4
+        "cumulative_views": 2
       },
       {
         "date": "2026-10-16",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 6
+        "cumulative_views": 4
       },
       {
         "date": "2026-10-17",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 10
+        "cumulative_views": 8
       },
       {
         "date": "2026-10-18",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 12
+        "cumulative_views": 10
       },
       {
         "date": "2026-10-19",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 14
+        "cumulative_views": 12
       },
       {
         "date": "2026-10-20",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 19
       },
       {
         "date": "2026-10-21",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 20
       },
       {
         "date": "2026-10-22",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 22
       },
       {
         "date": "2026-10-23",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 22
       },
       {
         "date": "2026-10-24",
         "views": 2,
-        "uploads": 2,
-        "cumulative_views": 26
+        "uploads": 3,
+        "cumulative_views": 24
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7671641120501271821",
+        "youtube_id": "zrvSpO4QlJY",
+        "title": "This Is Literally Dad Every Evening \ud83d\ude02",
+        "tiktok_views": 6552,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/zrvSpO4QlJY/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-24T19:23:58Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5069,20 +5071,6 @@
         "thumbnail": "https://i.ytimg.com/vi/CNnAHdSQYAA/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-15T01:42:25Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7696522545113107726",
-        "youtube_id": "V-dLT3m2YJM",
-        "title": "The Toddler Saw Grandpa\u2019s Move and Said, \u201cMy Turn!\u201d \ud83d\ude02\ud83e\udd2f",
-        "tiktok_views": 22000,
-        "youtube_views": 2,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/V-dLT3m2YJM/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-14T20:34:40Z"
       }
     ],
     "runs": [
@@ -5522,5 +5510,5 @@
       "created_at": "2026-10-18T06:55:51.161797+00:00"
     }
   ],
-  "last_updated": "2026-10-24T19:23:42.141868+00:00"
+  "last_updated": "2026-10-24T19:28:56.643077+00:00"
 }
