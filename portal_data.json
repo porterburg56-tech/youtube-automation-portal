@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 325,
+    "total_uploads": 326,
     "total_views": 139850,
     "total_likes": 20,
     "total_subscribers": 87,
@@ -91,98 +91,98 @@
     {
       "date": "2026-10-12",
       "ch1_views": 0,
-      "ch2_views": 18,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 18
-    },
-    {
-      "date": "2026-10-13",
-      "ch1_views": 0,
       "ch2_views": 19,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 19
     },
     {
+      "date": "2026-10-13",
+      "ch1_views": 0,
+      "ch2_views": 20,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 20
+    },
+    {
       "date": "2026-10-14",
       "ch1_views": 2,
-      "ch2_views": 71,
+      "ch2_views": 72,
       "ch3_views": 29,
       "ch4_views": 0,
-      "total_views": 102
+      "total_views": 103
     },
     {
       "date": "2026-10-15",
       "ch1_views": 4,
-      "ch2_views": 131,
+      "ch2_views": 132,
       "ch3_views": 62,
       "ch4_views": 0,
-      "total_views": 197
+      "total_views": 198
     },
     {
       "date": "2026-10-16",
       "ch1_views": 6,
-      "ch2_views": 142,
+      "ch2_views": 143,
       "ch3_views": 86,
       "ch4_views": 0,
-      "total_views": 234
+      "total_views": 235
     },
     {
       "date": "2026-10-17",
       "ch1_views": 10,
-      "ch2_views": 144,
+      "ch2_views": 145,
       "ch3_views": 98,
       "ch4_views": 0,
-      "total_views": 252
+      "total_views": 253
     },
     {
       "date": "2026-10-18",
       "ch1_views": 12,
-      "ch2_views": 150,
+      "ch2_views": 151,
       "ch3_views": 109,
       "ch4_views": 0,
-      "total_views": 271
+      "total_views": 272
     },
     {
       "date": "2026-10-19",
       "ch1_views": 14,
-      "ch2_views": 160,
+      "ch2_views": 161,
       "ch3_views": 125,
       "ch4_views": 0,
-      "total_views": 299
+      "total_views": 300
     },
     {
       "date": "2026-10-20",
       "ch1_views": 21,
-      "ch2_views": 172,
+      "ch2_views": 173,
       "ch3_views": 143,
       "ch4_views": 0,
-      "total_views": 336
+      "total_views": 337
     },
     {
       "date": "2026-10-21",
       "ch1_views": 22,
-      "ch2_views": 186,
+      "ch2_views": 187,
       "ch3_views": 151,
       "ch4_views": 0,
-      "total_views": 359
+      "total_views": 360
     },
     {
       "date": "2026-10-22",
-      "ch1_views": 22,
+      "ch1_views": 23,
       "ch2_views": 192,
-      "ch3_views": 173,
+      "ch3_views": 175,
       "ch4_views": 0,
-      "total_views": 387
+      "total_views": 390
     },
     {
       "date": "2026-10-23",
-      "ch1_views": 22,
-      "ch2_views": 196,
-      "ch3_views": 189,
+      "ch1_views": 23,
+      "ch2_views": 201,
+      "ch3_views": 197,
       "ch4_views": 0,
-      "total_views": 407
+      "total_views": 421
     }
   ],
   "channels": {
@@ -281,15 +281,15 @@
         },
         {
           "date": "2026-10-22",
-          "views": 0,
+          "views": 1,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 23
         },
         {
           "date": "2026-10-23",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 23
         }
       ],
       "videos": [
@@ -370,7 +370,7 @@
           "youtube_id": "bEp7IDEhuEA",
           "title": "Is This REALLY How Every Dad Comes Home After Work? \ud83d\ude02",
           "tiktok_views": 9736,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/bEp7IDEhuEA/hqdefault.jpg",
@@ -932,7 +932,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 6,
-      "total_uploads": 110,
+      "total_uploads": 111,
       "total_views": 1262,
       "total_likes": 4,
       "upcoming": {
@@ -970,75 +970,75 @@
         },
         {
           "date": "2026-10-12",
-          "views": 2,
+          "views": 3,
           "uploads": 1,
-          "cumulative_views": 18
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 19
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-14",
           "views": 52,
           "uploads": 3,
-          "cumulative_views": 71
+          "cumulative_views": 72
         },
         {
           "date": "2026-10-15",
           "views": 60,
           "uploads": 3,
-          "cumulative_views": 131
+          "cumulative_views": 132
         },
         {
           "date": "2026-10-16",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 142
+          "cumulative_views": 143
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 144
+          "cumulative_views": 145
         },
         {
           "date": "2026-10-18",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 150
+          "cumulative_views": 151
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 160
+          "cumulative_views": 161
         },
         {
           "date": "2026-10-20",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 172
+          "cumulative_views": 173
         },
         {
           "date": "2026-10-21",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 186
+          "cumulative_views": 187
         },
         {
           "date": "2026-10-22",
-          "views": 6,
+          "views": 5,
           "uploads": 3,
           "cumulative_views": 192
         },
         {
           "date": "2026-10-23",
-          "views": 4,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 196
+          "cumulative_views": 201
         }
       ],
       "videos": [
@@ -1049,7 +1049,7 @@
           "youtube_id": "-xmbdVXYM78",
           "title": "Crispy Stuffed Cabbage Rolls \u2728",
           "tiktok_views": 5000,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/-xmbdVXYM78/hqdefault.jpg",
@@ -1077,7 +1077,7 @@
           "youtube_id": "MIr9QJEVZV4",
           "title": "Creamy No-Bake Nutella Cheesecake Dessert You'll Make Again \u2728",
           "tiktok_views": 13200,
-          "youtube_views": 2,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MIr9QJEVZV4/hqdefault.jpg",
@@ -1105,7 +1105,7 @@
           "youtube_id": "dlBMmGb0sc4",
           "title": "Strawberry Caramel Nutella Dessert Cups That Melt in Your Mouth \ud83c\udf53\ud83c\udf6b",
           "tiktok_views": 13400,
-          "youtube_views": 3,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dlBMmGb0sc4/hqdefault.jpg",
@@ -1413,7 +1413,7 @@
           "youtube_id": "1kBN7vwWcjk",
           "title": "Lithuanian Grandma\u2019s Secret Homemade Cheese \u2728",
           "tiktok_views": 27700,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/1kBN7vwWcjk/hqdefault.jpg",
@@ -1464,6 +1464,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 139,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-10-24",
+          "status": "success",
+          "video_id": "epwZeDcvWh8",
+          "error_message": null,
+          "created_at": "2026-10-24T00:31:41.729383+00:00"
+        },
         {
           "id": 138,
           "channel_id": "channel_2",
@@ -1653,16 +1663,6 @@
           "video_id": null,
           "error_message": "Dubbing exception for 7650572669154348301: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmp0wokt8le/retimed_video_only.mp4', '-i', '/tmp/tmp0wokt8le/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7650572669154348301_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
           "created_at": "2026-10-18T05:44:27.054005+00:00"
-        },
-        {
-          "id": 119,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-17",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "Dubbing exception for 7650572669154348301: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmpez_bn82a/retimed_video_only.mp4', '-i', '/tmp/tmpez_bn82a/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7650572669154348301_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
-          "created_at": "2026-10-18T00:11:02.558954+00:00"
         }
       ]
     },
@@ -1761,15 +1761,15 @@
         },
         {
           "date": "2026-10-22",
-          "views": 22,
+          "views": 24,
           "uploads": 3,
-          "cumulative_views": 173
+          "cumulative_views": 175
         },
         {
           "date": "2026-10-23",
-          "views": 16,
+          "views": 22,
           "uploads": 3,
-          "cumulative_views": 189
+          "cumulative_views": 197
         }
       ],
       "videos": [
@@ -1808,7 +1808,7 @@
           "youtube_id": "WRMpYZheRwc",
           "title": "Professional removing stone depo\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 16,
+          "youtube_views": 22,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/WRMpYZheRwc/hqdefault.jpg",
@@ -1822,7 +1822,7 @@
           "youtube_id": "SyOYQmt4O6Y",
           "title": "Professional removing nail growth \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 13,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SyOYQmt4O6Y/hqdefault.jpg",
@@ -1850,7 +1850,7 @@
           "youtube_id": "KfFwDrs8VNs",
           "title": "Professional removing growth fro\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KfFwDrs8VNs/hqdefault.jpg",
@@ -3025,7 +3025,7 @@
       "youtube_id": "-xmbdVXYM78",
       "title": "Crispy Stuffed Cabbage Rolls \u2728",
       "tiktok_views": 5000,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/-xmbdVXYM78/hqdefault.jpg",
@@ -3095,7 +3095,7 @@
       "youtube_id": "WRMpYZheRwc",
       "title": "Professional removing stone depo\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 16,
+      "youtube_views": 22,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/WRMpYZheRwc/hqdefault.jpg",
@@ -3109,7 +3109,7 @@
       "youtube_id": "MIr9QJEVZV4",
       "title": "Creamy No-Bake Nutella Cheesecake Dessert You'll Make Again \u2728",
       "tiktok_views": 13200,
-      "youtube_views": 2,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MIr9QJEVZV4/hqdefault.jpg",
@@ -3137,7 +3137,7 @@
       "youtube_id": "SyOYQmt4O6Y",
       "title": "Professional removing nail growth \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 13,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SyOYQmt4O6Y/hqdefault.jpg",
@@ -3193,7 +3193,7 @@
       "youtube_id": "dlBMmGb0sc4",
       "title": "Strawberry Caramel Nutella Dessert Cups That Melt in Your Mouth \ud83c\udf53\ud83c\udf6b",
       "tiktok_views": 13400,
-      "youtube_views": 3,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dlBMmGb0sc4/hqdefault.jpg",
@@ -3207,7 +3207,7 @@
       "youtube_id": "bEp7IDEhuEA",
       "title": "Is This REALLY How Every Dad Comes Home After Work? \ud83d\ude02",
       "tiktok_views": 9736,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/bEp7IDEhuEA/hqdefault.jpg",
@@ -3221,7 +3221,7 @@
       "youtube_id": "KfFwDrs8VNs",
       "title": "Professional removing growth fro\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KfFwDrs8VNs/hqdefault.jpg",
@@ -4201,7 +4201,7 @@
       "youtube_id": "1kBN7vwWcjk",
       "title": "Lithuanian Grandma\u2019s Secret Homemade Cheese \u2728",
       "tiktok_views": 27700,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/1kBN7vwWcjk/hqdefault.jpg",
@@ -4626,15 +4626,15 @@
       },
       {
         "date": "2026-10-22",
-        "views": 0,
+        "views": 1,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 23
       },
       {
         "date": "2026-10-23",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 23
       }
     ],
     "videos": [
@@ -4715,7 +4715,7 @@
         "youtube_id": "bEp7IDEhuEA",
         "title": "Is This REALLY How Every Dad Comes Home After Work? \ud83d\ude02",
         "tiktok_views": 9736,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/bEp7IDEhuEA/hqdefault.jpg",
@@ -5263,7 +5263,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 325,
+    "total_uploads": 326,
     "total_views": 139850,
     "total_likes": 20,
     "videos_per_day": 12
@@ -5496,5 +5496,5 @@
       "created_at": "2026-10-17T06:30:34.995676+00:00"
     }
   ],
-  "last_updated": "2026-10-23T20:35:50.287614+00:00"
+  "last_updated": "2026-10-24T00:31:46.496290+00:00"
 }
