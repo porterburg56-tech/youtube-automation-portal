@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 329,
-    "total_views": 139899,
+    "total_uploads": 330,
+    "total_views": 139897,
     "total_likes": 20,
     "total_subscribers": 87,
     "channels_count": 4,
@@ -108,89 +108,89 @@
       "date": "2026-10-14",
       "ch1_views": 2,
       "ch2_views": 61,
-      "ch3_views": 24,
+      "ch3_views": 8,
       "ch4_views": 0,
-      "total_views": 87
+      "total_views": 71
     },
     {
       "date": "2026-10-15",
       "ch1_views": 4,
       "ch2_views": 121,
-      "ch3_views": 57,
+      "ch3_views": 41,
       "ch4_views": 0,
-      "total_views": 182
+      "total_views": 166
     },
     {
       "date": "2026-10-16",
       "ch1_views": 6,
       "ch2_views": 132,
-      "ch3_views": 81,
+      "ch3_views": 65,
       "ch4_views": 0,
-      "total_views": 219
+      "total_views": 203
     },
     {
       "date": "2026-10-17",
       "ch1_views": 10,
       "ch2_views": 134,
-      "ch3_views": 93,
+      "ch3_views": 77,
       "ch4_views": 0,
-      "total_views": 237
+      "total_views": 221
     },
     {
       "date": "2026-10-18",
       "ch1_views": 12,
       "ch2_views": 140,
-      "ch3_views": 104,
+      "ch3_views": 88,
       "ch4_views": 0,
-      "total_views": 256
+      "total_views": 240
     },
     {
       "date": "2026-10-19",
       "ch1_views": 14,
       "ch2_views": 150,
-      "ch3_views": 120,
+      "ch3_views": 104,
       "ch4_views": 0,
-      "total_views": 284
+      "total_views": 268
     },
     {
       "date": "2026-10-20",
       "ch1_views": 21,
       "ch2_views": 162,
-      "ch3_views": 137,
+      "ch3_views": 122,
       "ch4_views": 0,
-      "total_views": 320
+      "total_views": 305
     },
     {
       "date": "2026-10-21",
       "ch1_views": 22,
       "ch2_views": 176,
-      "ch3_views": 146,
+      "ch3_views": 132,
       "ch4_views": 0,
-      "total_views": 344
+      "total_views": 330
     },
     {
       "date": "2026-10-22",
       "ch1_views": 23,
       "ch2_views": 181,
-      "ch3_views": 170,
+      "ch3_views": 156,
       "ch4_views": 0,
-      "total_views": 374
+      "total_views": 360
     },
     {
       "date": "2026-10-23",
       "ch1_views": 23,
       "ch2_views": 191,
-      "ch3_views": 192,
+      "ch3_views": 178,
       "ch4_views": 0,
-      "total_views": 406
+      "total_views": 392
     },
     {
       "date": "2026-10-24",
       "ch1_views": 23,
       "ch2_views": 191,
-      "ch3_views": 192,
+      "ch3_views": 178,
       "ch4_views": 0,
-      "total_views": 406
+      "total_views": 392
     }
   ],
   "channels": {
@@ -210,7 +210,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 123,
-      "total_views": 660,
+      "total_views": 658,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1701,7 +1701,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 74,
+      "total_uploads": 75,
       "total_views": 136391,
       "total_likes": 1,
       "upcoming": {
@@ -1733,72 +1733,86 @@
       "view_history": [
         {
           "date": "2026-10-14",
-          "views": 24,
-          "uploads": 2,
-          "cumulative_views": 24
+          "views": 8,
+          "uploads": 1,
+          "cumulative_views": 8
         },
         {
           "date": "2026-10-15",
           "views": 33,
           "uploads": 3,
-          "cumulative_views": 57
+          "cumulative_views": 41
         },
         {
           "date": "2026-10-16",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 81
+          "cumulative_views": 65
         },
         {
           "date": "2026-10-17",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 93
+          "cumulative_views": 77
         },
         {
           "date": "2026-10-18",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 104
+          "cumulative_views": 88
         },
         {
           "date": "2026-10-19",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 120
+          "cumulative_views": 104
         },
         {
           "date": "2026-10-20",
-          "views": 17,
+          "views": 18,
           "uploads": 3,
-          "cumulative_views": 137
+          "cumulative_views": 122
         },
         {
           "date": "2026-10-21",
-          "views": 9,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 146
+          "cumulative_views": 132
         },
         {
           "date": "2026-10-22",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 170
+          "cumulative_views": 156
         },
         {
           "date": "2026-10-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 192
+          "cumulative_views": 178
         },
         {
           "date": "2026-10-24",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 192
+          "uploads": 2,
+          "cumulative_views": 178
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1obDgotBZHkdCeWQDzAOO7TYoQlbhy-UL",
+          "youtube_id": "m4_o8lVwmZo",
+          "title": "Professional scraping crystallin\u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/m4_o8lVwmZo/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-24T05:48:38Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1918,7 +1932,7 @@
           "youtube_id": "BtA_lcZ1mzU",
           "title": "Professional performing medical \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 9,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/BtA_lcZ1mzU/hqdefault.jpg",
@@ -1974,7 +1988,7 @@
           "youtube_id": "Mq_wyq3Iblg",
           "title": "Professional performing medical \u2026(1) \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Mq_wyq3Iblg/hqdefault.jpg",
@@ -2204,20 +2218,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Wdf8SbNh6Uk/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-14T20:41:59Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "19R0xcRE9Q07Vsyakg8-FiS-oK8V-h6R-",
-          "youtube_id": "8pUIPxdFyEQ",
-          "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 16,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/8pUIPxdFyEQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-14T06:08:00Z"
         }
       ],
       "runs": [
@@ -2813,6 +2813,16 @@
       ],
       "runs": [
         {
+          "id": 91,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-10-24",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-24T06:03:45.596493+00:00"
+        },
+        {
           "id": 90,
           "channel_id": "channel_4",
           "slot": 2,
@@ -3001,21 +3011,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-18T00:07:32.119796+00:00"
-        },
-        {
-          "id": 71,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-10-17",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-17T19:38:25.893408+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1obDgotBZHkdCeWQDzAOO7TYoQlbhy-UL",
+      "youtube_id": "m4_o8lVwmZo",
+      "title": "Professional scraping crystallin\u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/m4_o8lVwmZo/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-24T05:48:38Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -3401,7 +3415,7 @@
       "youtube_id": "BtA_lcZ1mzU",
       "title": "Professional performing medical \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 9,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/BtA_lcZ1mzU/hqdefault.jpg",
@@ -3569,7 +3583,7 @@
       "youtube_id": "Mq_wyq3Iblg",
       "title": "Professional performing medical \u2026(1) \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Mq_wyq3Iblg/hqdefault.jpg",
@@ -4193,20 +4207,6 @@
       "uploaded_at": "2026-10-14T07:03:49Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "19R0xcRE9Q07Vsyakg8-FiS-oK8V-h6R-",
-      "youtube_id": "8pUIPxdFyEQ",
-      "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 16,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/8pUIPxdFyEQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-14T06:08:00Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7662452813775064334",
@@ -4573,7 +4573,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 123,
-    "total_views": 660,
+    "total_views": 658,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5295,8 +5295,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 329,
-    "total_views": 139899,
+    "total_uploads": 330,
+    "total_views": 139897,
     "total_likes": 20,
     "videos_per_day": 12
   },
@@ -5528,5 +5528,5 @@
       "created_at": "2026-10-17T19:12:10.249760+00:00"
     }
   ],
-  "last_updated": "2026-10-24T05:48:24.128416+00:00"
+  "last_updated": "2026-10-24T06:03:50.029765+00:00"
 }
