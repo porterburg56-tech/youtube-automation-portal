@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 335,
+    "total_uploads": 336,
     "total_views": 139925,
     "total_likes": 20,
     "total_subscribers": 87,
@@ -108,89 +108,89 @@
       "date": "2026-10-15",
       "ch1_views": 2,
       "ch2_views": 115,
-      "ch3_views": 33,
+      "ch3_views": 26,
       "ch4_views": 0,
-      "total_views": 150
+      "total_views": 143
     },
     {
       "date": "2026-10-16",
       "ch1_views": 4,
       "ch2_views": 126,
-      "ch3_views": 57,
+      "ch3_views": 50,
       "ch4_views": 0,
-      "total_views": 187
+      "total_views": 180
     },
     {
       "date": "2026-10-17",
       "ch1_views": 8,
       "ch2_views": 128,
-      "ch3_views": 69,
+      "ch3_views": 62,
       "ch4_views": 0,
-      "total_views": 205
+      "total_views": 198
     },
     {
       "date": "2026-10-18",
       "ch1_views": 10,
       "ch2_views": 135,
-      "ch3_views": 80,
+      "ch3_views": 73,
       "ch4_views": 0,
-      "total_views": 225
+      "total_views": 218
     },
     {
       "date": "2026-10-19",
       "ch1_views": 12,
       "ch2_views": 145,
-      "ch3_views": 96,
+      "ch3_views": 89,
       "ch4_views": 0,
-      "total_views": 253
+      "total_views": 246
     },
     {
       "date": "2026-10-20",
-      "ch1_views": 21,
+      "ch1_views": 22,
       "ch2_views": 158,
-      "ch3_views": 114,
+      "ch3_views": 107,
       "ch4_views": 0,
-      "total_views": 293
+      "total_views": 287
     },
     {
       "date": "2026-10-21",
-      "ch1_views": 22,
+      "ch1_views": 23,
       "ch2_views": 173,
-      "ch3_views": 124,
+      "ch3_views": 117,
       "ch4_views": 0,
-      "total_views": 319
+      "total_views": 313
     },
     {
       "date": "2026-10-22",
-      "ch1_views": 24,
+      "ch1_views": 25,
       "ch2_views": 181,
-      "ch3_views": 148,
+      "ch3_views": 141,
       "ch4_views": 0,
-      "total_views": 353
+      "total_views": 347
     },
     {
       "date": "2026-10-23",
-      "ch1_views": 24,
+      "ch1_views": 25,
       "ch2_views": 196,
-      "ch3_views": 172,
+      "ch3_views": 165,
       "ch4_views": 0,
-      "total_views": 392
+      "total_views": 386
     },
     {
       "date": "2026-10-24",
-      "ch1_views": 29,
-      "ch2_views": 208,
-      "ch3_views": 178,
+      "ch1_views": 30,
+      "ch2_views": 210,
+      "ch3_views": 171,
       "ch4_views": 0,
-      "total_views": 415
+      "total_views": 411
     },
     {
       "date": "2026-10-25",
       "ch1_views": 0,
-      "ch2_views": 208,
-      "ch3_views": 0,
+      "ch2_views": 210,
+      "ch3_views": 171,
       "ch4_views": 0,
-      "total_views": 208
+      "total_views": 381
     }
   ],
   "channels": {
@@ -271,33 +271,33 @@
         },
         {
           "date": "2026-10-20",
-          "views": 9,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-21",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 23
         },
         {
           "date": "2026-10-22",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 25
         },
         {
           "date": "2026-10-23",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 25
         },
         {
           "date": "2026-10-24",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 29
+          "cumulative_views": 30
         }
       ],
       "videos": [
@@ -490,7 +490,7 @@
           "youtube_id": "rhUX2NdpHfQ",
           "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
           "tiktok_views": 10400,
-          "youtube_views": 9,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
@@ -1038,15 +1038,15 @@
         },
         {
           "date": "2026-10-24",
-          "views": 12,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 208
+          "cumulative_views": 210
         },
         {
           "date": "2026-10-25",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 208
+          "cumulative_views": 210
         }
       ],
       "videos": [
@@ -1099,7 +1099,7 @@
           "youtube_id": "epwZeDcvWh8",
           "title": "The Easiest Cheesy Chicken Tortilla Bake You\u2019ll Ever Make \u2728",
           "tiktok_views": 12300,
-          "youtube_views": 10,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/epwZeDcvWh8/hqdefault.jpg",
@@ -1689,7 +1689,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 76,
+      "total_uploads": 77,
       "total_views": 136402,
       "total_likes": 1,
       "upcoming": {
@@ -1721,66 +1721,86 @@
       "view_history": [
         {
           "date": "2026-10-15",
-          "views": 33,
-          "uploads": 3,
-          "cumulative_views": 33
+          "views": 26,
+          "uploads": 2,
+          "cumulative_views": 26
         },
         {
           "date": "2026-10-16",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 57
+          "cumulative_views": 50
         },
         {
           "date": "2026-10-17",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 69
+          "cumulative_views": 62
         },
         {
           "date": "2026-10-18",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 80
+          "cumulative_views": 73
         },
         {
           "date": "2026-10-19",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 96
+          "cumulative_views": 89
         },
         {
           "date": "2026-10-20",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 114
+          "cumulative_views": 107
         },
         {
           "date": "2026-10-21",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 124
+          "cumulative_views": 117
         },
         {
           "date": "2026-10-22",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 148
+          "cumulative_views": 141
         },
         {
           "date": "2026-10-23",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 172
+          "cumulative_views": 165
         },
         {
           "date": "2026-10-24",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 178
+          "cumulative_views": 171
+        },
+        {
+          "date": "2026-10-25",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 171
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1w-67WZHGTfzfAJXXoTjHRH9eXcu7cYUE",
+          "youtube_id": "VzwFVRogy1o",
+          "title": "Surgical forceps extracting nail \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/VzwFVRogy1o/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-25T00:21:35Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2186,20 +2206,6 @@
           "thumbnail": "https://i.ytimg.com/vi/lE-BNNNG298/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-15T05:53:50Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1PC-KuBw_r7MMEFWEwKRDKwM35XiG9v9M",
-          "youtube_id": "av6qkqzBP40",
-          "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 7,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/av6qkqzBP40/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-15T00:32:34Z"
         }
       ],
       "runs": [
@@ -2795,6 +2801,16 @@
       ],
       "runs": [
         {
+          "id": 93,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-10-25",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-25T00:24:41.389613+00:00"
+        },
+        {
           "id": 92,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2983,21 +2999,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-18T19:33:50.048196+00:00"
-        },
-        {
-          "id": 73,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-18",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-18T06:08:08.512423+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1w-67WZHGTfzfAJXXoTjHRH9eXcu7cYUE",
+      "youtube_id": "VzwFVRogy1o",
+      "title": "Surgical forceps extracting nail \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/VzwFVRogy1o/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-25T00:21:35Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -3131,7 +3151,7 @@
       "youtube_id": "epwZeDcvWh8",
       "title": "The Easiest Cheesy Chicken Tortilla Bake You\u2019ll Ever Make \u2728",
       "tiktok_views": 12300,
-      "youtube_views": 10,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/epwZeDcvWh8/hqdefault.jpg",
@@ -3565,7 +3585,7 @@
       "youtube_id": "rhUX2NdpHfQ",
       "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
       "tiktok_views": 10400,
-      "youtube_views": 9,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
@@ -4189,20 +4209,6 @@
       "uploaded_at": "2026-10-15T00:34:18Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1PC-KuBw_r7MMEFWEwKRDKwM35XiG9v9M",
-      "youtube_id": "av6qkqzBP40",
-      "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 7,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/av6qkqzBP40/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-15T00:32:34Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7674190994618846478",
@@ -4616,33 +4622,33 @@
       },
       {
         "date": "2026-10-20",
-        "views": 9,
+        "views": 10,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 22
       },
       {
         "date": "2026-10-21",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 23
       },
       {
         "date": "2026-10-22",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 25
       },
       {
         "date": "2026-10-23",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 25
       },
       {
         "date": "2026-10-24",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 29
+        "cumulative_views": 30
       }
     ],
     "videos": [
@@ -4835,7 +4841,7 @@
         "youtube_id": "rhUX2NdpHfQ",
         "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
         "tiktok_views": 10400,
-        "youtube_views": 9,
+        "youtube_views": 10,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
@@ -5271,7 +5277,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 335,
+    "total_uploads": 336,
     "total_views": 139925,
     "total_likes": 20,
     "videos_per_day": 12
@@ -5504,5 +5510,5 @@
       "created_at": "2026-10-18T06:55:51.161797+00:00"
     }
   ],
-  "last_updated": "2026-10-25T00:21:16.860220+00:00"
+  "last_updated": "2026-10-25T00:24:45.715865+00:00"
 }
