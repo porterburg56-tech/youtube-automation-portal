@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 336,
+    "total_uploads": 337,
     "total_views": 139925,
     "total_likes": 20,
     "total_subscribers": 87,
@@ -146,43 +146,43 @@
     },
     {
       "date": "2026-10-20",
-      "ch1_views": 22,
+      "ch1_views": 21,
       "ch2_views": 158,
       "ch3_views": 107,
       "ch4_views": 0,
-      "total_views": 287
+      "total_views": 286
     },
     {
       "date": "2026-10-21",
-      "ch1_views": 23,
+      "ch1_views": 22,
       "ch2_views": 173,
       "ch3_views": 117,
       "ch4_views": 0,
-      "total_views": 313
+      "total_views": 312
     },
     {
       "date": "2026-10-22",
-      "ch1_views": 25,
+      "ch1_views": 24,
       "ch2_views": 181,
       "ch3_views": 141,
       "ch4_views": 0,
-      "total_views": 347
+      "total_views": 346
     },
     {
       "date": "2026-10-23",
-      "ch1_views": 25,
+      "ch1_views": 24,
       "ch2_views": 196,
       "ch3_views": 165,
       "ch4_views": 0,
-      "total_views": 386
+      "total_views": 385
     },
     {
       "date": "2026-10-24",
-      "ch1_views": 30,
+      "ch1_views": 29,
       "ch2_views": 210,
       "ch3_views": 171,
       "ch4_views": 0,
-      "total_views": 411
+      "total_views": 410
     },
     {
       "date": "2026-10-25",
@@ -209,7 +209,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 125,
+      "total_uploads": 126,
       "total_views": 661,
       "total_likes": 0,
       "upcoming": {
@@ -271,33 +271,33 @@
         },
         {
           "date": "2026-10-20",
-          "views": 10,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-21",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 23
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-22",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 25
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-23",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 25
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-24",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 30
+          "cumulative_views": 29
         }
       ],
       "videos": [
@@ -490,7 +490,7 @@
           "youtube_id": "rhUX2NdpHfQ",
           "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
           "tiktok_views": 10400,
-          "youtube_views": 10,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
@@ -724,6 +724,16 @@
       ],
       "runs": [
         {
+          "id": 135,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-10-25",
+          "status": "success",
+          "video_id": "U7GCzsFTwM8",
+          "error_message": null,
+          "created_at": "2026-10-25T01:27:22.323236+00:00"
+        },
+        {
           "id": 134,
           "channel_id": "channel_1",
           "slot": 1,
@@ -912,16 +922,6 @@
           "video_id": "J8IzPmD6AhA",
           "error_message": null,
           "created_at": "2026-10-18T19:23:05.678016+00:00"
-        },
-        {
-          "id": 115,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-10-18",
-          "status": "success",
-          "video_id": "HkddvK6vXGs",
-          "error_message": null,
-          "created_at": "2026-10-18T06:55:51.161797+00:00"
         }
       ]
     },
@@ -3585,7 +3585,7 @@
       "youtube_id": "rhUX2NdpHfQ",
       "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
       "tiktok_views": 10400,
-      "youtube_views": 10,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
@@ -4560,7 +4560,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 125,
+    "total_uploads": 126,
     "total_views": 661,
     "total_likes": 0,
     "upcoming": {
@@ -4622,33 +4622,33 @@
       },
       {
         "date": "2026-10-20",
-        "views": 10,
+        "views": 9,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-21",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 23
+        "cumulative_views": 22
       },
       {
         "date": "2026-10-22",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 25
+        "cumulative_views": 24
       },
       {
         "date": "2026-10-23",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 25
+        "cumulative_views": 24
       },
       {
         "date": "2026-10-24",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 30
+        "cumulative_views": 29
       }
     ],
     "videos": [
@@ -4841,7 +4841,7 @@
         "youtube_id": "rhUX2NdpHfQ",
         "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
         "tiktok_views": 10400,
-        "youtube_views": 10,
+        "youtube_views": 9,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
@@ -5075,6 +5075,16 @@
     ],
     "runs": [
       {
+        "id": 135,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-10-25",
+        "status": "success",
+        "video_id": "U7GCzsFTwM8",
+        "error_message": null,
+        "created_at": "2026-10-25T01:27:22.323236+00:00"
+      },
+      {
         "id": 134,
         "channel_id": "channel_1",
         "slot": 1,
@@ -5263,21 +5273,11 @@
         "video_id": "J8IzPmD6AhA",
         "error_message": null,
         "created_at": "2026-10-18T19:23:05.678016+00:00"
-      },
-      {
-        "id": 115,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-10-18",
-        "status": "success",
-        "video_id": "HkddvK6vXGs",
-        "error_message": null,
-        "created_at": "2026-10-18T06:55:51.161797+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 336,
+    "total_uploads": 337,
     "total_views": 139925,
     "total_likes": 20,
     "videos_per_day": 12
@@ -5309,6 +5309,16 @@
     }
   },
   "runs": [
+    {
+      "id": 135,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-10-25",
+      "status": "success",
+      "video_id": "U7GCzsFTwM8",
+      "error_message": null,
+      "created_at": "2026-10-25T01:27:22.323236+00:00"
+    },
     {
       "id": 134,
       "channel_id": "channel_1",
@@ -5498,17 +5508,7 @@
       "video_id": "J8IzPmD6AhA",
       "error_message": null,
       "created_at": "2026-10-18T19:23:05.678016+00:00"
-    },
-    {
-      "id": 115,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-10-18",
-      "status": "success",
-      "video_id": "HkddvK6vXGs",
-      "error_message": null,
-      "created_at": "2026-10-18T06:55:51.161797+00:00"
     }
   ],
-  "last_updated": "2026-10-25T00:24:45.715865+00:00"
+  "last_updated": "2026-10-25T01:27:27.365938+00:00"
 }
