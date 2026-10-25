@@ -89,108 +89,108 @@
       "total_views": 1567
     },
     {
-      "date": "2026-10-12",
-      "ch1_views": 0,
-      "ch2_views": 3,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 3
-    },
-    {
       "date": "2026-10-13",
       "ch1_views": 0,
-      "ch2_views": 4,
+      "ch2_views": 1,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 4
+      "total_views": 1
     },
     {
       "date": "2026-10-14",
       "ch1_views": 0,
-      "ch2_views": 57,
+      "ch2_views": 54,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 57
+      "total_views": 54
     },
     {
       "date": "2026-10-15",
       "ch1_views": 2,
-      "ch2_views": 118,
+      "ch2_views": 115,
       "ch3_views": 33,
       "ch4_views": 0,
-      "total_views": 153
+      "total_views": 150
     },
     {
       "date": "2026-10-16",
       "ch1_views": 4,
-      "ch2_views": 129,
+      "ch2_views": 126,
       "ch3_views": 57,
       "ch4_views": 0,
-      "total_views": 190
+      "total_views": 187
     },
     {
       "date": "2026-10-17",
       "ch1_views": 8,
-      "ch2_views": 131,
+      "ch2_views": 128,
       "ch3_views": 69,
       "ch4_views": 0,
-      "total_views": 208
+      "total_views": 205
     },
     {
       "date": "2026-10-18",
       "ch1_views": 10,
-      "ch2_views": 137,
+      "ch2_views": 135,
       "ch3_views": 80,
       "ch4_views": 0,
-      "total_views": 227
+      "total_views": 225
     },
     {
       "date": "2026-10-19",
       "ch1_views": 12,
-      "ch2_views": 147,
+      "ch2_views": 145,
       "ch3_views": 96,
       "ch4_views": 0,
-      "total_views": 255
+      "total_views": 253
     },
     {
       "date": "2026-10-20",
       "ch1_views": 21,
-      "ch2_views": 160,
+      "ch2_views": 158,
       "ch3_views": 114,
       "ch4_views": 0,
-      "total_views": 295
+      "total_views": 293
     },
     {
       "date": "2026-10-21",
       "ch1_views": 22,
-      "ch2_views": 175,
+      "ch2_views": 173,
       "ch3_views": 124,
       "ch4_views": 0,
-      "total_views": 321
+      "total_views": 319
     },
     {
       "date": "2026-10-22",
       "ch1_views": 24,
-      "ch2_views": 183,
+      "ch2_views": 181,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 355
+      "total_views": 353
     },
     {
       "date": "2026-10-23",
       "ch1_views": 24,
-      "ch2_views": 198,
+      "ch2_views": 196,
       "ch3_views": 172,
       "ch4_views": 0,
-      "total_views": 394
+      "total_views": 392
     },
     {
       "date": "2026-10-24",
       "ch1_views": 29,
-      "ch2_views": 210,
+      "ch2_views": 208,
       "ch3_views": 178,
       "ch4_views": 0,
-      "total_views": 417
+      "total_views": 415
+    },
+    {
+      "date": "2026-10-25",
+      "ch1_views": 0,
+      "ch2_views": 208,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 208
     }
   ],
   "channels": {
@@ -971,85 +971,99 @@
       },
       "view_history": [
         {
-          "date": "2026-10-12",
-          "views": 3,
-          "uploads": 1,
-          "cumulative_views": 3
-        },
-        {
           "date": "2026-10-13",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 4
+          "cumulative_views": 1
         },
         {
           "date": "2026-10-14",
           "views": 53,
           "uploads": 3,
-          "cumulative_views": 57
+          "cumulative_views": 54
         },
         {
           "date": "2026-10-15",
           "views": 61,
           "uploads": 3,
-          "cumulative_views": 118
+          "cumulative_views": 115
         },
         {
           "date": "2026-10-16",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 129
+          "cumulative_views": 126
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 131
+          "cumulative_views": 128
         },
         {
           "date": "2026-10-18",
-          "views": 6,
+          "views": 7,
           "uploads": 1,
-          "cumulative_views": 137
+          "cumulative_views": 135
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 147
+          "cumulative_views": 145
         },
         {
           "date": "2026-10-20",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 160
+          "cumulative_views": 158
         },
         {
           "date": "2026-10-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 175
+          "cumulative_views": 173
         },
         {
           "date": "2026-10-22",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 183
+          "cumulative_views": 181
         },
         {
           "date": "2026-10-23",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 198
+          "cumulative_views": 196
         },
         {
           "date": "2026-10-24",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 210
+          "cumulative_views": 208
+        },
+        {
+          "date": "2026-10-25",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 208
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7648350386532748557",
+          "youtube_id": "QavAtLr2WsA",
+          "title": "No-Bake Chocolate Banana Delight \ud83c\udf4c\ud83c\udf6b",
+          "tiktok_views": 11700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/QavAtLr2WsA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-25T00:15:04Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1295,7 +1309,7 @@
           "youtube_id": "MSUbBpc4whI",
           "title": "Chocolate-Filled Baked Apples with Caramel & Ice Cream \ud83c\udf4e\ud83c\udf6b",
           "tiktok_views": 6300,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MSUbBpc4whI/hqdefault.jpg",
@@ -1455,20 +1469,6 @@
           "thumbnail": "https://i.ytimg.com/vi/fOzphVK1Abc/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-13T21:12:01Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7643152138582985997",
-          "youtube_id": "1kBN7vwWcjk",
-          "title": "Lithuanian Grandma\u2019s Secret Homemade Cheese \u2728",
-          "tiktok_views": 27700,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/1kBN7vwWcjk/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-12T01:24:12Z"
         }
       ],
       "runs": [
@@ -2204,6 +2204,16 @@
       ],
       "runs": [
         {
+          "id": 100,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-10-25",
+          "status": "success",
+          "video_id": "VzwFVRogy1o",
+          "error_message": null,
+          "created_at": "2026-10-25T00:21:12.982691+00:00"
+        },
+        {
           "id": 99,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2392,16 +2402,6 @@
           "video_id": "moK2d4nf0kI",
           "error_message": null,
           "created_at": "2026-10-18T19:25:41.821045+00:00"
-        },
-        {
-          "id": 80,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-18",
-          "status": "success",
-          "video_id": "qwNhsqMH6k4",
-          "error_message": null,
-          "created_at": "2026-10-18T05:52:30.570424+00:00"
         }
       ]
     },
@@ -2998,6 +2998,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7648350386532748557",
+      "youtube_id": "QavAtLr2WsA",
+      "title": "No-Bake Chocolate Banana Delight \ud83c\udf4c\ud83c\udf6b",
+      "tiktok_views": 11700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/QavAtLr2WsA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-25T00:15:04Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -3775,7 +3789,7 @@
       "youtube_id": "MSUbBpc4whI",
       "title": "Chocolate-Filled Baked Apples with Caramel & Ice Cream \ud83c\udf4e\ud83c\udf6b",
       "tiktok_views": 6300,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MSUbBpc4whI/hqdefault.jpg",
@@ -4243,20 +4257,6 @@
       "thumbnail": "https://i.ytimg.com/vi/fOzphVK1Abc/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-13T21:12:01Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7643152138582985997",
-      "youtube_id": "1kBN7vwWcjk",
-      "title": "Lithuanian Grandma\u2019s Secret Homemade Cheese \u2728",
-      "tiktok_views": 27700,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/1kBN7vwWcjk/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-12T01:24:12Z"
     },
     {
       "channel_id": "channel_4",
@@ -5504,5 +5504,5 @@
       "created_at": "2026-10-18T06:55:51.161797+00:00"
     }
   ],
-  "last_updated": "2026-10-25T00:14:11.974246+00:00"
+  "last_updated": "2026-10-25T00:21:16.860220+00:00"
 }
