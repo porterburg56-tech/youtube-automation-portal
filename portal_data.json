@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 342,
-    "total_views": 139968,
+    "total_uploads": 343,
+    "total_views": 139985,
     "total_likes": 20,
     "total_subscribers": 87,
     "channels_count": 4,
@@ -100,89 +100,89 @@
       "date": "2026-10-15",
       "ch1_views": 0,
       "ch2_views": 108,
-      "ch3_views": 8,
+      "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 116
+      "total_views": 108
     },
     {
       "date": "2026-10-16",
       "ch1_views": 4,
       "ch2_views": 121,
-      "ch3_views": 32,
+      "ch3_views": 24,
       "ch4_views": 0,
-      "total_views": 157
+      "total_views": 149
     },
     {
       "date": "2026-10-17",
       "ch1_views": 8,
       "ch2_views": 123,
-      "ch3_views": 44,
+      "ch3_views": 36,
       "ch4_views": 0,
-      "total_views": 175
+      "total_views": 167
     },
     {
       "date": "2026-10-18",
       "ch1_views": 10,
       "ch2_views": 130,
-      "ch3_views": 55,
+      "ch3_views": 47,
       "ch4_views": 0,
-      "total_views": 195
+      "total_views": 187
     },
     {
       "date": "2026-10-19",
       "ch1_views": 12,
       "ch2_views": 140,
-      "ch3_views": 71,
+      "ch3_views": 63,
       "ch4_views": 0,
-      "total_views": 223
+      "total_views": 215
     },
     {
       "date": "2026-10-20",
       "ch1_views": 22,
       "ch2_views": 153,
-      "ch3_views": 89,
+      "ch3_views": 81,
       "ch4_views": 0,
-      "total_views": 264
+      "total_views": 256
     },
     {
       "date": "2026-10-21",
       "ch1_views": 23,
       "ch2_views": 168,
-      "ch3_views": 99,
+      "ch3_views": 91,
       "ch4_views": 0,
-      "total_views": 290
+      "total_views": 282
     },
     {
       "date": "2026-10-22",
       "ch1_views": 25,
       "ch2_views": 176,
-      "ch3_views": 127,
+      "ch3_views": 119,
       "ch4_views": 0,
-      "total_views": 328
+      "total_views": 320
     },
     {
       "date": "2026-10-23",
       "ch1_views": 25,
-      "ch2_views": 194,
-      "ch3_views": 151,
+      "ch2_views": 193,
+      "ch3_views": 143,
       "ch4_views": 0,
-      "total_views": 370
+      "total_views": 361
     },
     {
       "date": "2026-10-24",
       "ch1_views": 32,
-      "ch2_views": 210,
-      "ch3_views": 166,
+      "ch2_views": 209,
+      "ch3_views": 158,
       "ch4_views": 0,
-      "total_views": 408
+      "total_views": 399
     },
     {
       "date": "2026-10-25",
       "ch1_views": 32,
-      "ch2_views": 210,
-      "ch3_views": 166,
+      "ch2_views": 209,
+      "ch3_views": 159,
       "ch4_views": 0,
-      "total_views": 408
+      "total_views": 400
     }
   ],
   "channels": {
@@ -1018,21 +1018,21 @@
         },
         {
           "date": "2026-10-23",
-          "views": 18,
+          "views": 17,
           "uploads": 3,
-          "cumulative_views": 194
+          "cumulative_views": 193
         },
         {
           "date": "2026-10-24",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 210
+          "cumulative_views": 209
         },
         {
           "date": "2026-10-25",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 210
+          "cumulative_views": 209
         }
       ],
       "videos": [
@@ -1155,7 +1155,7 @@
           "youtube_id": "MIr9QJEVZV4",
           "title": "Creamy No-Bake Nutella Cheesecake Dessert You'll Make Again \u2728",
           "tiktok_views": 13200,
-          "youtube_views": 10,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MIr9QJEVZV4/hqdefault.jpg",
@@ -1675,8 +1675,8 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 78,
-      "total_views": 136402,
+      "total_uploads": 79,
+      "total_views": 136419,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -1706,73 +1706,81 @@
       },
       "view_history": [
         {
-          "date": "2026-10-15",
-          "views": 8,
-          "uploads": 1,
-          "cumulative_views": 8
-        },
-        {
           "date": "2026-10-16",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 32
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-17",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 44
+          "cumulative_views": 36
         },
         {
           "date": "2026-10-18",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 55
+          "cumulative_views": 47
         },
         {
           "date": "2026-10-19",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 71
+          "cumulative_views": 63
         },
         {
           "date": "2026-10-20",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 89
+          "cumulative_views": 81
         },
         {
           "date": "2026-10-21",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 99
+          "cumulative_views": 91
         },
         {
           "date": "2026-10-22",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 127
+          "cumulative_views": 119
         },
         {
           "date": "2026-10-23",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 151
+          "cumulative_views": 143
         },
         {
           "date": "2026-10-24",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 166
+          "cumulative_views": 158
         },
         {
           "date": "2026-10-25",
-          "views": 0,
-          "uploads": 2,
-          "cumulative_views": 166
+          "views": 1,
+          "uploads": 3,
+          "cumulative_views": 159
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1HQ_Nz9vNkS0kfFTK9IHq7uGp__8e_iuX",
+          "youtube_id": "4GN6y58rOgo",
+          "title": "Surgical tool extracts metal staple \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/4GN6y58rOgo/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-25T19:36:05Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1780,7 +1788,7 @@
           "youtube_id": "Kww1g3bS0_w",
           "title": "Surgical forceps extracting wood\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Kww1g3bS0_w/hqdefault.jpg",
@@ -2178,20 +2186,6 @@
           "thumbnail": "https://i.ytimg.com/vi/235EW_ZKdzg/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-16T00:26:27Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1OeUq4KCG3_EIgGeTYY9aNYGd4lTbETV7",
-          "youtube_id": "GhRRy83EEsA",
-          "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 8,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/GhRRy83EEsA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-15T20:20:08Z"
         }
       ],
       "runs": [
@@ -2787,6 +2781,16 @@
       ],
       "runs": [
         {
+          "id": 95,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-10-25",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-25T19:53:10.296230+00:00"
+        },
+        {
           "id": 94,
           "channel_id": "channel_4",
           "slot": 3,
@@ -2975,21 +2979,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-19T06:22:41.152755+00:00"
-        },
-        {
-          "id": 75,
-          "channel_id": "channel_4",
-          "slot": 2,
-          "run_date": "2026-10-19",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-19T00:17:21.128901+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1HQ_Nz9vNkS0kfFTK9IHq7uGp__8e_iuX",
+      "youtube_id": "4GN6y58rOgo",
+      "title": "Surgical tool extracts metal staple \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/4GN6y58rOgo/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-25T19:36:05Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -3039,7 +3047,7 @@
       "youtube_id": "Kww1g3bS0_w",
       "title": "Surgical forceps extracting wood\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Kww1g3bS0_w/hqdefault.jpg",
@@ -3347,7 +3355,7 @@
       "youtube_id": "MIr9QJEVZV4",
       "title": "Creamy No-Bake Nutella Cheesecake Dessert You'll Make Again \u2728",
       "tiktok_views": 13200,
-      "youtube_views": 10,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MIr9QJEVZV4/hqdefault.jpg",
@@ -4165,20 +4173,6 @@
       "thumbnail": "https://i.ytimg.com/vi/d0LEj00HEeE/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-16T00:21:14Z"
-    },
-    {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1OeUq4KCG3_EIgGeTYY9aNYGd4lTbETV7",
-      "youtube_id": "GhRRy83EEsA",
-      "title": "Professional cleaning damaged to\u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 8,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/GhRRy83EEsA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-15T20:20:08Z"
     },
     {
       "channel_id": "channel_2",
@@ -5263,8 +5257,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 342,
-    "total_views": 139968,
+    "total_uploads": 343,
+    "total_views": 139985,
     "total_likes": 20,
     "videos_per_day": 12
   },
@@ -5496,5 +5490,5 @@
       "created_at": "2026-10-19T07:15:15.451537+00:00"
     }
   ],
-  "last_updated": "2026-10-25T19:35:39.771398+00:00"
+  "last_updated": "2026-10-25T19:53:14.305632+00:00"
 }
