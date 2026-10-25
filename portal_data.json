@@ -89,106 +89,98 @@
       "total_views": 1567
     },
     {
-      "date": "2026-10-13",
-      "ch1_views": 0,
-      "ch2_views": 1,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 1
-    },
-    {
       "date": "2026-10-14",
       "ch1_views": 0,
-      "ch2_views": 54,
+      "ch2_views": 53,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 54
+      "total_views": 53
     },
     {
       "date": "2026-10-15",
       "ch1_views": 0,
-      "ch2_views": 115,
+      "ch2_views": 114,
       "ch3_views": 26,
       "ch4_views": 0,
-      "total_views": 141
+      "total_views": 140
     },
     {
       "date": "2026-10-16",
       "ch1_views": 4,
-      "ch2_views": 126,
+      "ch2_views": 125,
       "ch3_views": 50,
       "ch4_views": 0,
-      "total_views": 180
+      "total_views": 179
     },
     {
       "date": "2026-10-17",
       "ch1_views": 8,
-      "ch2_views": 128,
+      "ch2_views": 127,
       "ch3_views": 62,
       "ch4_views": 0,
-      "total_views": 198
+      "total_views": 197
     },
     {
       "date": "2026-10-18",
       "ch1_views": 10,
-      "ch2_views": 135,
+      "ch2_views": 134,
       "ch3_views": 73,
       "ch4_views": 0,
-      "total_views": 218
+      "total_views": 217
     },
     {
       "date": "2026-10-19",
       "ch1_views": 12,
-      "ch2_views": 145,
+      "ch2_views": 144,
       "ch3_views": 89,
       "ch4_views": 0,
-      "total_views": 246
+      "total_views": 245
     },
     {
       "date": "2026-10-20",
       "ch1_views": 22,
-      "ch2_views": 158,
+      "ch2_views": 157,
       "ch3_views": 107,
       "ch4_views": 0,
-      "total_views": 287
+      "total_views": 286
     },
     {
       "date": "2026-10-21",
       "ch1_views": 23,
-      "ch2_views": 173,
+      "ch2_views": 172,
       "ch3_views": 117,
       "ch4_views": 0,
-      "total_views": 313
+      "total_views": 312
     },
     {
       "date": "2026-10-22",
       "ch1_views": 25,
-      "ch2_views": 181,
+      "ch2_views": 180,
       "ch3_views": 145,
       "ch4_views": 0,
-      "total_views": 351
+      "total_views": 350
     },
     {
       "date": "2026-10-23",
       "ch1_views": 25,
-      "ch2_views": 197,
+      "ch2_views": 196,
       "ch3_views": 169,
       "ch4_views": 0,
-      "total_views": 391
+      "total_views": 390
     },
     {
       "date": "2026-10-24",
       "ch1_views": 30,
-      "ch2_views": 212,
-      "ch3_views": 182,
+      "ch2_views": 211,
+      "ch3_views": 183,
       "ch4_views": 0,
       "total_views": 424
     },
     {
       "date": "2026-10-25",
       "ch1_views": 30,
-      "ch2_views": 212,
-      "ch3_views": 182,
+      "ch2_views": 211,
+      "ch3_views": 183,
       "ch4_views": 0,
       "total_views": 424
     }
@@ -977,85 +969,93 @@
       },
       "view_history": [
         {
-          "date": "2026-10-13",
-          "views": 1,
-          "uploads": 1,
-          "cumulative_views": 1
-        },
-        {
           "date": "2026-10-14",
           "views": 53,
           "uploads": 3,
-          "cumulative_views": 54
+          "cumulative_views": 53
         },
         {
           "date": "2026-10-15",
           "views": 61,
           "uploads": 3,
-          "cumulative_views": 115
+          "cumulative_views": 114
         },
         {
           "date": "2026-10-16",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 126
+          "cumulative_views": 125
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 128
+          "cumulative_views": 127
         },
         {
           "date": "2026-10-18",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 135
+          "cumulative_views": 134
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 145
+          "cumulative_views": 144
         },
         {
           "date": "2026-10-20",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 158
+          "cumulative_views": 157
         },
         {
           "date": "2026-10-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 173
+          "cumulative_views": 172
         },
         {
           "date": "2026-10-22",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 181
+          "cumulative_views": 180
         },
         {
           "date": "2026-10-23",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 197
+          "cumulative_views": 196
         },
         {
           "date": "2026-10-24",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 212
+          "cumulative_views": 211
         },
         {
           "date": "2026-10-25",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 212
+          "uploads": 2,
+          "cumulative_views": 211
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7648725152276008206",
+          "youtube_id": "O9_m30NbN6M",
+          "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
+          "tiktok_views": 11400,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/O9_m30NbN6M/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-25T05:57:53Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1461,20 +1461,6 @@
           "thumbnail": "https://i.ytimg.com/vi/EYGSlP92-M0/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-14T01:08:06Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7696221550223150350",
-          "youtube_id": "fOzphVK1Abc",
-          "title": "Garlic Butter Chicken Pasta \ud83c\udf5d",
-          "tiktok_views": 5302,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/fOzphVK1Abc/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-13T21:12:01Z"
         }
       ],
       "runs": [
@@ -1781,15 +1767,15 @@
         },
         {
           "date": "2026-10-24",
-          "views": 13,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 182
+          "cumulative_views": 183
         },
         {
           "date": "2026-10-25",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 182
+          "cumulative_views": 183
         }
       ],
       "videos": [
@@ -1828,7 +1814,7 @@
           "youtube_id": "m4_o8lVwmZo",
           "title": "Professional scraping crystallin\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/m4_o8lVwmZo/hqdefault.jpg",
@@ -2216,6 +2202,16 @@
       ],
       "runs": [
         {
+          "id": 101,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-25",
+          "status": "success",
+          "video_id": "Kww1g3bS0_w",
+          "error_message": null,
+          "created_at": "2026-10-25T06:04:27.099281+00:00"
+        },
+        {
           "id": 100,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2404,16 +2400,6 @@
           "video_id": "1U-cjk22cW8",
           "error_message": null,
           "created_at": "2026-10-19T00:14:05.343776+00:00"
-        },
-        {
-          "id": 81,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-18",
-          "status": "success",
-          "video_id": "moK2d4nf0kI",
-          "error_message": null,
-          "created_at": "2026-10-18T19:25:41.821045+00:00"
         }
       ]
     },
@@ -3011,6 +2997,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7648725152276008206",
+      "youtube_id": "O9_m30NbN6M",
+      "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
+      "tiktok_views": 11400,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/O9_m30NbN6M/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-25T05:57:53Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7664571943957318925",
@@ -3115,7 +3115,7 @@
       "youtube_id": "m4_o8lVwmZo",
       "title": "Professional scraping crystallin\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/m4_o8lVwmZo/hqdefault.jpg",
@@ -4255,20 +4255,6 @@
       "thumbnail": "https://i.ytimg.com/vi/EYGSlP92-M0/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-14T01:08:06Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7696221550223150350",
-      "youtube_id": "fOzphVK1Abc",
-      "title": "Garlic Butter Chicken Pasta \ud83c\udf5d",
-      "tiktok_views": 5302,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/fOzphVK1Abc/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-13T21:12:01Z"
     },
     {
       "channel_id": "channel_4",
@@ -5522,5 +5508,5 @@
       "created_at": "2026-10-18T19:23:05.678016+00:00"
     }
   ],
-  "last_updated": "2026-10-25T05:57:08.593691+00:00"
+  "last_updated": "2026-10-25T06:04:32.165955+00:00"
 }
