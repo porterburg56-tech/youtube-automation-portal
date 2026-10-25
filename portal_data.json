@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 340,
-    "total_views": 139925,
+    "total_uploads": 341,
+    "total_views": 139968,
     "total_likes": 20,
     "total_subscribers": 87,
     "channels_count": 4,
@@ -91,98 +91,98 @@
     {
       "date": "2026-10-14",
       "ch1_views": 0,
-      "ch2_views": 53,
+      "ch2_views": 54,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 53
+      "total_views": 54
     },
     {
       "date": "2026-10-15",
       "ch1_views": 0,
-      "ch2_views": 114,
+      "ch2_views": 115,
       "ch3_views": 8,
       "ch4_views": 0,
-      "total_views": 122
+      "total_views": 123
     },
     {
       "date": "2026-10-16",
       "ch1_views": 4,
-      "ch2_views": 125,
+      "ch2_views": 128,
       "ch3_views": 32,
       "ch4_views": 0,
-      "total_views": 161
+      "total_views": 164
     },
     {
       "date": "2026-10-17",
       "ch1_views": 8,
-      "ch2_views": 127,
+      "ch2_views": 130,
       "ch3_views": 44,
       "ch4_views": 0,
-      "total_views": 179
+      "total_views": 182
     },
     {
       "date": "2026-10-18",
       "ch1_views": 10,
-      "ch2_views": 134,
+      "ch2_views": 137,
       "ch3_views": 55,
       "ch4_views": 0,
-      "total_views": 199
+      "total_views": 202
     },
     {
       "date": "2026-10-19",
       "ch1_views": 12,
-      "ch2_views": 144,
+      "ch2_views": 147,
       "ch3_views": 71,
       "ch4_views": 0,
-      "total_views": 227
+      "total_views": 230
     },
     {
       "date": "2026-10-20",
       "ch1_views": 22,
-      "ch2_views": 157,
+      "ch2_views": 160,
       "ch3_views": 89,
       "ch4_views": 0,
-      "total_views": 268
+      "total_views": 271
     },
     {
       "date": "2026-10-21",
       "ch1_views": 23,
-      "ch2_views": 172,
+      "ch2_views": 175,
       "ch3_views": 99,
       "ch4_views": 0,
-      "total_views": 294
+      "total_views": 297
     },
     {
       "date": "2026-10-22",
       "ch1_views": 25,
-      "ch2_views": 180,
+      "ch2_views": 183,
       "ch3_views": 127,
       "ch4_views": 0,
-      "total_views": 332
+      "total_views": 335
     },
     {
       "date": "2026-10-23",
       "ch1_views": 25,
-      "ch2_views": 196,
+      "ch2_views": 200,
       "ch3_views": 151,
       "ch4_views": 0,
-      "total_views": 372
+      "total_views": 376
     },
     {
       "date": "2026-10-24",
-      "ch1_views": 30,
-      "ch2_views": 211,
-      "ch3_views": 165,
+      "ch1_views": 32,
+      "ch2_views": 216,
+      "ch3_views": 166,
       "ch4_views": 0,
-      "total_views": 406
+      "total_views": 414
     },
     {
       "date": "2026-10-25",
-      "ch1_views": 30,
-      "ch2_views": 211,
-      "ch3_views": 165,
+      "ch1_views": 32,
+      "ch2_views": 216,
+      "ch3_views": 166,
       "ch4_views": 0,
-      "total_views": 406
+      "total_views": 414
     }
   ],
   "channels": {
@@ -202,7 +202,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 127,
-      "total_views": 661,
+      "total_views": 674,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -234,7 +234,7 @@
         {
           "date": "2026-10-15",
           "views": 0,
-          "uploads": 2,
+          "uploads": 1,
           "cumulative_views": 0
         },
         {
@@ -287,18 +287,32 @@
         },
         {
           "date": "2026-10-24",
-          "views": 5,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 30
+          "cumulative_views": 32
         },
         {
           "date": "2026-10-25",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 30
+          "uploads": 2,
+          "cumulative_views": 32
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7669820668778663181",
+          "youtube_id": "LquLkixKH7c",
+          "title": "Dad Came Home From Work\u2026 But My Toddler Somehow Became Him! \ud83e\udd23",
+          "tiktok_views": 7709,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/LquLkixKH7c/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-25T07:14:23Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -334,7 +348,7 @@
           "youtube_id": "SNZSwLPW3yE",
           "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
           "tiktok_views": 8259,
-          "youtube_views": 5,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SNZSwLPW3yE/hqdefault.jpg",
@@ -704,20 +718,6 @@
           "thumbnail": "https://i.ytimg.com/vi/RoZ-KO4jiEA/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-15T20:16:39Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7666435258211912974",
-          "youtube_id": "o_MaOqa2jc8",
-          "title": "\u2764\ufe0f Mom\u2019s Kitchen Mood in One Tiny Toddler! \ud83d\ude02",
-          "tiktok_views": 15700,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/o_MaOqa2jc8/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-15T06:54:59Z"
         }
       ],
       "runs": [
@@ -938,8 +938,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 6,
-      "total_uploads": 115,
-      "total_views": 1295,
+      "total_uploads": 116,
+      "total_views": 1325,
       "total_likes": 4,
       "upcoming": {
         "slot1": {
@@ -970,75 +970,75 @@
       "view_history": [
         {
           "date": "2026-10-14",
-          "views": 53,
+          "views": 54,
           "uploads": 3,
-          "cumulative_views": 53
+          "cumulative_views": 54
         },
         {
           "date": "2026-10-15",
           "views": 61,
           "uploads": 3,
-          "cumulative_views": 114
+          "cumulative_views": 115
         },
         {
           "date": "2026-10-16",
-          "views": 11,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 125
+          "cumulative_views": 128
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 127
+          "cumulative_views": 130
         },
         {
           "date": "2026-10-18",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 134
+          "cumulative_views": 137
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 144
+          "cumulative_views": 147
         },
         {
           "date": "2026-10-20",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 157
+          "cumulative_views": 160
         },
         {
           "date": "2026-10-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 172
+          "cumulative_views": 175
         },
         {
           "date": "2026-10-22",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 180
+          "cumulative_views": 183
         },
         {
           "date": "2026-10-23",
-          "views": 16,
+          "views": 17,
           "uploads": 3,
-          "cumulative_views": 196
+          "cumulative_views": 200
         },
         {
           "date": "2026-10-24",
-          "views": 15,
+          "views": 16,
           "uploads": 3,
-          "cumulative_views": 211
+          "cumulative_views": 216
         },
         {
           "date": "2026-10-25",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 211
+          "cumulative_views": 216
         }
       ],
       "videos": [
@@ -1091,7 +1091,7 @@
           "youtube_id": "OkF08MTZViQ",
           "title": "Cheesy Broccoli Omelette with Crispy Bacon \u2728",
           "tiktok_views": 11800,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/OkF08MTZViQ/hqdefault.jpg",
@@ -1133,7 +1133,7 @@
           "youtube_id": "lTN_iKsKog0",
           "title": "Chef's Secret Stuffed Chicken Rolls with Creamy Butter Sauce \u2728",
           "tiktok_views": 12900,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lTN_iKsKog0/hqdefault.jpg",
@@ -1357,7 +1357,7 @@
           "youtube_id": "SQjPyQBOw9o",
           "title": "Taste & Tales \u2728",
           "tiktok_views": 20400,
-          "youtube_views": 4,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SQjPyQBOw9o/hqdefault.jpg",
@@ -1455,7 +1455,7 @@
           "youtube_id": "EYGSlP92-M0",
           "title": "Cheesy Meatball and Mushroom Puff Pastry Pie \u2728",
           "tiktok_views": 225300,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/EYGSlP92-M0/hqdefault.jpg",
@@ -1464,6 +1464,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 144,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-10-25",
+          "status": "success",
+          "video_id": "coXCtp7qNGQ",
+          "error_message": null,
+          "created_at": "2026-10-25T18:52:17.783201+00:00"
+        },
         {
           "id": 143,
           "channel_id": "channel_2",
@@ -1653,16 +1663,6 @@
           "video_id": "2iMxW-fAkPQ",
           "error_message": null,
           "created_at": "2026-10-19T05:53:39.767693+00:00"
-        },
-        {
-          "id": 124,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-18",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "Dubbing exception for 7650572669154348301: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmp8j13166x/retimed_video_only.mp4', '-i', '/tmp/tmp8j13166x/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7650572669154348301_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
-          "created_at": "2026-10-19T00:18:52.713221+00:00"
         }
       ]
     },
@@ -1767,15 +1767,15 @@
         },
         {
           "date": "2026-10-24",
-          "views": 14,
+          "views": 15,
           "uploads": 3,
-          "cumulative_views": 165
+          "cumulative_views": 166
         },
         {
           "date": "2026-10-25",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 165
+          "cumulative_views": 166
         }
       ],
       "videos": [
@@ -1828,7 +1828,7 @@
           "youtube_id": "m4_o8lVwmZo",
           "title": "Professional scraping crystallin\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/m4_o8lVwmZo/hqdefault.jpg",
@@ -2997,6 +2997,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7669820668778663181",
+      "youtube_id": "LquLkixKH7c",
+      "title": "Dad Came Home From Work\u2026 But My Toddler Somehow Became Him! \ud83e\udd23",
+      "tiktok_views": 7709,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/LquLkixKH7c/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-25T07:14:23Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1uVPB6e0Xyr1h5pCRm52_KS-9bAEEMec0",
@@ -3115,7 +3129,7 @@
       "youtube_id": "SNZSwLPW3yE",
       "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
       "tiktok_views": 8259,
-      "youtube_views": 5,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SNZSwLPW3yE/hqdefault.jpg",
@@ -3129,7 +3143,7 @@
       "youtube_id": "m4_o8lVwmZo",
       "title": "Professional scraping crystallin\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/m4_o8lVwmZo/hqdefault.jpg",
@@ -3143,7 +3157,7 @@
       "youtube_id": "OkF08MTZViQ",
       "title": "Cheesy Broccoli Omelette with Crispy Bacon \u2728",
       "tiktok_views": 11800,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/OkF08MTZViQ/hqdefault.jpg",
@@ -3269,7 +3283,7 @@
       "youtube_id": "lTN_iKsKog0",
       "title": "Chef's Secret Stuffed Chicken Rolls with Creamy Butter Sauce \u2728",
       "tiktok_views": 12900,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lTN_iKsKog0/hqdefault.jpg",
@@ -4081,7 +4095,7 @@
       "youtube_id": "SQjPyQBOw9o",
       "title": "Taste & Tales \u2728",
       "tiktok_views": 20400,
-      "youtube_views": 4,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SQjPyQBOw9o/hqdefault.jpg",
@@ -4173,20 +4187,6 @@
       "uploaded_at": "2026-10-15T19:51:48Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7666435258211912974",
-      "youtube_id": "o_MaOqa2jc8",
-      "title": "\u2764\ufe0f Mom\u2019s Kitchen Mood in One Tiny Toddler! \ud83d\ude02",
-      "tiktok_views": 15700,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/o_MaOqa2jc8/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-15T06:54:59Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7666143901224307982",
@@ -4249,7 +4249,7 @@
       "youtube_id": "EYGSlP92-M0",
       "title": "Cheesy Meatball and Mushroom Puff Pastry Pie \u2728",
       "tiktok_views": 225300,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/EYGSlP92-M0/hqdefault.jpg",
@@ -4553,7 +4553,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 127,
-    "total_views": 661,
+    "total_views": 674,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -4585,7 +4585,7 @@
       {
         "date": "2026-10-15",
         "views": 0,
-        "uploads": 2,
+        "uploads": 1,
         "cumulative_views": 0
       },
       {
@@ -4638,18 +4638,32 @@
       },
       {
         "date": "2026-10-24",
-        "views": 5,
+        "views": 7,
         "uploads": 3,
-        "cumulative_views": 30
+        "cumulative_views": 32
       },
       {
         "date": "2026-10-25",
         "views": 0,
-        "uploads": 1,
-        "cumulative_views": 30
+        "uploads": 2,
+        "cumulative_views": 32
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7669820668778663181",
+        "youtube_id": "LquLkixKH7c",
+        "title": "Dad Came Home From Work\u2026 But My Toddler Somehow Became Him! \ud83e\udd23",
+        "tiktok_views": 7709,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/LquLkixKH7c/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-25T07:14:23Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4685,7 +4699,7 @@
         "youtube_id": "SNZSwLPW3yE",
         "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
         "tiktok_views": 8259,
-        "youtube_views": 5,
+        "youtube_views": 7,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/SNZSwLPW3yE/hqdefault.jpg",
@@ -5055,20 +5069,6 @@
         "thumbnail": "https://i.ytimg.com/vi/RoZ-KO4jiEA/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-15T20:16:39Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7666435258211912974",
-        "youtube_id": "o_MaOqa2jc8",
-        "title": "\u2764\ufe0f Mom\u2019s Kitchen Mood in One Tiny Toddler! \ud83d\ude02",
-        "tiktok_views": 15700,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/o_MaOqa2jc8/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-15T06:54:59Z"
       }
     ],
     "runs": [
@@ -5275,8 +5275,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 340,
-    "total_views": 139925,
+    "total_uploads": 341,
+    "total_views": 139968,
     "total_likes": 20,
     "videos_per_day": 12
   },
@@ -5508,5 +5508,5 @@
       "created_at": "2026-10-19T01:32:23.254650+00:00"
     }
   ],
-  "last_updated": "2026-10-25T07:14:05.765435+00:00"
+  "last_updated": "2026-10-25T18:52:22.554504+00:00"
 }
