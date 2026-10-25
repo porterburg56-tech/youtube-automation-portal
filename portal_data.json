@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 337,
+    "total_uploads": 338,
     "total_views": 139925,
     "total_likes": 20,
     "total_subscribers": 87,
@@ -106,11 +106,11 @@
     },
     {
       "date": "2026-10-15",
-      "ch1_views": 2,
+      "ch1_views": 0,
       "ch2_views": 115,
       "ch3_views": 26,
       "ch4_views": 0,
-      "total_views": 143
+      "total_views": 141
     },
     {
       "date": "2026-10-16",
@@ -146,51 +146,51 @@
     },
     {
       "date": "2026-10-20",
-      "ch1_views": 21,
+      "ch1_views": 22,
       "ch2_views": 158,
       "ch3_views": 107,
       "ch4_views": 0,
-      "total_views": 286
+      "total_views": 287
     },
     {
       "date": "2026-10-21",
-      "ch1_views": 22,
+      "ch1_views": 23,
       "ch2_views": 173,
       "ch3_views": 117,
       "ch4_views": 0,
-      "total_views": 312
+      "total_views": 313
     },
     {
       "date": "2026-10-22",
-      "ch1_views": 24,
+      "ch1_views": 25,
       "ch2_views": 181,
-      "ch3_views": 141,
+      "ch3_views": 145,
       "ch4_views": 0,
-      "total_views": 346
+      "total_views": 351
     },
     {
       "date": "2026-10-23",
-      "ch1_views": 24,
-      "ch2_views": 196,
-      "ch3_views": 165,
+      "ch1_views": 25,
+      "ch2_views": 197,
+      "ch3_views": 169,
       "ch4_views": 0,
-      "total_views": 385
+      "total_views": 391
     },
     {
       "date": "2026-10-24",
-      "ch1_views": 29,
-      "ch2_views": 210,
-      "ch3_views": 171,
+      "ch1_views": 30,
+      "ch2_views": 212,
+      "ch3_views": 182,
       "ch4_views": 0,
-      "total_views": 410
+      "total_views": 424
     },
     {
       "date": "2026-10-25",
-      "ch1_views": 0,
-      "ch2_views": 210,
-      "ch3_views": 171,
+      "ch1_views": 30,
+      "ch2_views": 212,
+      "ch3_views": 182,
       "ch4_views": 0,
-      "total_views": 381
+      "total_views": 424
     }
   ],
   "channels": {
@@ -241,13 +241,13 @@
       "view_history": [
         {
           "date": "2026-10-15",
-          "views": 2,
-          "uploads": 3,
-          "cumulative_views": 2
+          "views": 0,
+          "uploads": 2,
+          "cumulative_views": 0
         },
         {
           "date": "2026-10-16",
-          "views": 2,
+          "views": 4,
           "uploads": 3,
           "cumulative_views": 4
         },
@@ -271,36 +271,56 @@
         },
         {
           "date": "2026-10-20",
-          "views": 9,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-21",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 23
         },
         {
           "date": "2026-10-22",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 25
         },
         {
           "date": "2026-10-23",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 25
         },
         {
           "date": "2026-10-24",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 29
+          "cumulative_views": 30
+        },
+        {
+          "date": "2026-10-25",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 30
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7664571943957318925",
+          "youtube_id": "U7GCzsFTwM8",
+          "title": "\ud83d\ude02 The Most Relatable Kitchen Mom Ever!",
+          "tiktok_views": 7891,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/U7GCzsFTwM8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-25T01:27:48Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -490,7 +510,7 @@
           "youtube_id": "rhUX2NdpHfQ",
           "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
           "tiktok_views": 10400,
-          "youtube_views": 9,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
@@ -658,7 +678,7 @@
           "youtube_id": "NZLyGxI0NsI",
           "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
           "tiktok_views": 14900,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/NZLyGxI0NsI/hqdefault.jpg",
@@ -706,20 +726,6 @@
           "thumbnail": "https://i.ytimg.com/vi/o_MaOqa2jc8/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-15T06:54:59Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7672358849990364430",
-          "youtube_id": "CNnAHdSQYAA",
-          "title": "We watched this five times and still laughed. \ud83e\udd23",
-          "tiktok_views": 15900,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/CNnAHdSQYAA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-15T01:42:25Z"
         }
       ],
       "runs": [
@@ -940,7 +946,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 6,
-      "total_uploads": 114,
+      "total_uploads": 115,
       "total_views": 1295,
       "total_likes": 4,
       "upcoming": {
@@ -1032,21 +1038,21 @@
         },
         {
           "date": "2026-10-23",
-          "views": 15,
+          "views": 16,
           "uploads": 3,
-          "cumulative_views": 196
+          "cumulative_views": 197
         },
         {
           "date": "2026-10-24",
-          "views": 14,
+          "views": 15,
           "uploads": 3,
-          "cumulative_views": 210
+          "cumulative_views": 212
         },
         {
           "date": "2026-10-25",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 210
+          "cumulative_views": 212
         }
       ],
       "videos": [
@@ -1085,7 +1091,7 @@
           "youtube_id": "OkF08MTZViQ",
           "title": "Cheesy Broccoli Omelette with Crispy Bacon \u2728",
           "tiktok_views": 11800,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/OkF08MTZViQ/hqdefault.jpg",
@@ -1127,7 +1133,7 @@
           "youtube_id": "lTN_iKsKog0",
           "title": "Chef's Secret Stuffed Chicken Rolls with Creamy Butter Sauce \u2728",
           "tiktok_views": 12900,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lTN_iKsKog0/hqdefault.jpg",
@@ -1473,6 +1479,16 @@
       ],
       "runs": [
         {
+          "id": 143,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-25",
+          "status": "success",
+          "video_id": "O9_m30NbN6M",
+          "error_message": null,
+          "created_at": "2026-10-25T05:57:04.056143+00:00"
+        },
+        {
           "id": 142,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1661,16 +1677,6 @@
           "video_id": null,
           "error_message": "Dubbing exception for 7650572669154348301: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmp8j13166x/retimed_video_only.mp4', '-i', '/tmp/tmp8j13166x/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7650572669154348301_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
           "created_at": "2026-10-19T00:18:52.713221+00:00"
-        },
-        {
-          "id": 123,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-10-18",
-          "status": "success",
-          "video_id": "MSUbBpc4whI",
-          "error_message": null,
-          "created_at": "2026-10-18T18:35:02.681481+00:00"
         }
       ]
     },
@@ -1763,27 +1769,27 @@
         },
         {
           "date": "2026-10-22",
-          "views": 24,
+          "views": 28,
           "uploads": 3,
-          "cumulative_views": 141
+          "cumulative_views": 145
         },
         {
           "date": "2026-10-23",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 165
+          "cumulative_views": 169
         },
         {
           "date": "2026-10-24",
-          "views": 6,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 171
+          "cumulative_views": 182
         },
         {
           "date": "2026-10-25",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 171
+          "cumulative_views": 182
         }
       ],
       "videos": [
@@ -1822,7 +1828,7 @@
           "youtube_id": "m4_o8lVwmZo",
           "title": "Professional scraping crystallin\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/m4_o8lVwmZo/hqdefault.jpg",
@@ -1836,7 +1842,7 @@
           "youtube_id": "mRc0BLTXHb4",
           "title": "Professional scraping crystallin\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 2,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/mRc0BLTXHb4/hqdefault.jpg",
@@ -1892,7 +1898,7 @@
           "youtube_id": "SyOYQmt4O6Y",
           "title": "Professional removing nail growth \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 14,
+          "youtube_views": 18,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/SyOYQmt4O6Y/hqdefault.jpg",
@@ -3005,6 +3011,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7664571943957318925",
+      "youtube_id": "U7GCzsFTwM8",
+      "title": "\ud83d\ude02 The Most Relatable Kitchen Mom Ever!",
+      "tiktok_views": 7891,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/U7GCzsFTwM8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-25T01:27:48Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1w-67WZHGTfzfAJXXoTjHRH9eXcu7cYUE",
@@ -3095,7 +3115,7 @@
       "youtube_id": "m4_o8lVwmZo",
       "title": "Professional scraping crystallin\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/m4_o8lVwmZo/hqdefault.jpg",
@@ -3109,7 +3129,7 @@
       "youtube_id": "OkF08MTZViQ",
       "title": "Cheesy Broccoli Omelette with Crispy Bacon \u2728",
       "tiktok_views": 11800,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/OkF08MTZViQ/hqdefault.jpg",
@@ -3137,7 +3157,7 @@
       "youtube_id": "mRc0BLTXHb4",
       "title": "Professional scraping crystallin\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 2,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/mRc0BLTXHb4/hqdefault.jpg",
@@ -3235,7 +3255,7 @@
       "youtube_id": "lTN_iKsKog0",
       "title": "Chef's Secret Stuffed Chicken Rolls with Creamy Butter Sauce \u2728",
       "tiktok_views": 12900,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lTN_iKsKog0/hqdefault.jpg",
@@ -3305,7 +3325,7 @@
       "youtube_id": "SyOYQmt4O6Y",
       "title": "Professional removing nail growth \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 14,
+      "youtube_views": 18,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/SyOYQmt4O6Y/hqdefault.jpg",
@@ -3585,7 +3605,7 @@
       "youtube_id": "rhUX2NdpHfQ",
       "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
       "tiktok_views": 10400,
-      "youtube_views": 9,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
@@ -4019,7 +4039,7 @@
       "youtube_id": "NZLyGxI0NsI",
       "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
       "tiktok_views": 14900,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/NZLyGxI0NsI/hqdefault.jpg",
@@ -4179,20 +4199,6 @@
       "thumbnail": "https://i.ytimg.com/vi/jLH_dVJ-0pI/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-15T05:44:12Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7672358849990364430",
-      "youtube_id": "CNnAHdSQYAA",
-      "title": "We watched this five times and still laughed. \ud83e\udd23",
-      "tiktok_views": 15900,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/CNnAHdSQYAA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-15T01:42:25Z"
     },
     {
       "channel_id": "channel_2",
@@ -4592,13 +4598,13 @@
     "view_history": [
       {
         "date": "2026-10-15",
-        "views": 2,
-        "uploads": 3,
-        "cumulative_views": 2
+        "views": 0,
+        "uploads": 2,
+        "cumulative_views": 0
       },
       {
         "date": "2026-10-16",
-        "views": 2,
+        "views": 4,
         "uploads": 3,
         "cumulative_views": 4
       },
@@ -4622,36 +4628,56 @@
       },
       {
         "date": "2026-10-20",
-        "views": 9,
+        "views": 10,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 22
       },
       {
         "date": "2026-10-21",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 23
       },
       {
         "date": "2026-10-22",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 25
       },
       {
         "date": "2026-10-23",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 25
       },
       {
         "date": "2026-10-24",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 29
+        "cumulative_views": 30
+      },
+      {
+        "date": "2026-10-25",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 30
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7664571943957318925",
+        "youtube_id": "U7GCzsFTwM8",
+        "title": "\ud83d\ude02 The Most Relatable Kitchen Mom Ever!",
+        "tiktok_views": 7891,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/U7GCzsFTwM8/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-25T01:27:48Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4841,7 +4867,7 @@
         "youtube_id": "rhUX2NdpHfQ",
         "title": "I Said \u201cShow Me Daddy\u201d and She Did THIS \ud83d\ude2d",
         "tiktok_views": 10400,
-        "youtube_views": 9,
+        "youtube_views": 10,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/rhUX2NdpHfQ/hqdefault.jpg",
@@ -5009,7 +5035,7 @@
         "youtube_id": "NZLyGxI0NsI",
         "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
         "tiktok_views": 14900,
-        "youtube_views": 2,
+        "youtube_views": 4,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/NZLyGxI0NsI/hqdefault.jpg",
@@ -5057,20 +5083,6 @@
         "thumbnail": "https://i.ytimg.com/vi/o_MaOqa2jc8/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-15T06:54:59Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7672358849990364430",
-        "youtube_id": "CNnAHdSQYAA",
-        "title": "We watched this five times and still laughed. \ud83e\udd23",
-        "tiktok_views": 15900,
-        "youtube_views": 2,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/CNnAHdSQYAA/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-15T01:42:25Z"
       }
     ],
     "runs": [
@@ -5277,7 +5289,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 337,
+    "total_uploads": 338,
     "total_views": 139925,
     "total_likes": 20,
     "videos_per_day": 12
@@ -5510,5 +5522,5 @@
       "created_at": "2026-10-18T19:23:05.678016+00:00"
     }
   ],
-  "last_updated": "2026-10-25T01:27:27.365938+00:00"
+  "last_updated": "2026-10-25T05:57:08.593691+00:00"
 }
