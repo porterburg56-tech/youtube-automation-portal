@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 346,
+    "total_uploads": 347,
     "total_views": 139985,
     "total_likes": 18,
     "total_subscribers": 87,
@@ -108,89 +108,89 @@
       "date": "2026-10-16",
       "ch1_views": 4,
       "ch2_views": 78,
-      "ch3_views": 11,
+      "ch3_views": 4,
       "ch4_views": 0,
-      "total_views": 93
+      "total_views": 86
     },
     {
       "date": "2026-10-17",
       "ch1_views": 8,
       "ch2_views": 80,
-      "ch3_views": 23,
+      "ch3_views": 16,
       "ch4_views": 0,
-      "total_views": 111
+      "total_views": 104
     },
     {
       "date": "2026-10-18",
       "ch1_views": 10,
       "ch2_views": 92,
-      "ch3_views": 34,
+      "ch3_views": 27,
       "ch4_views": 0,
-      "total_views": 136
+      "total_views": 129
     },
     {
       "date": "2026-10-19",
       "ch1_views": 12,
       "ch2_views": 102,
-      "ch3_views": 50,
+      "ch3_views": 43,
       "ch4_views": 0,
-      "total_views": 164
+      "total_views": 157
     },
     {
       "date": "2026-10-20",
       "ch1_views": 22,
       "ch2_views": 116,
-      "ch3_views": 68,
+      "ch3_views": 61,
       "ch4_views": 0,
-      "total_views": 206
+      "total_views": 199
     },
     {
       "date": "2026-10-21",
       "ch1_views": 23,
       "ch2_views": 131,
-      "ch3_views": 78,
+      "ch3_views": 71,
       "ch4_views": 0,
-      "total_views": 232
+      "total_views": 225
     },
     {
       "date": "2026-10-22",
       "ch1_views": 25,
       "ch2_views": 139,
-      "ch3_views": 106,
+      "ch3_views": 99,
       "ch4_views": 0,
-      "total_views": 270
+      "total_views": 263
     },
     {
       "date": "2026-10-23",
       "ch1_views": 25,
       "ch2_views": 157,
-      "ch3_views": 130,
+      "ch3_views": 123,
       "ch4_views": 0,
-      "total_views": 312
+      "total_views": 305
     },
     {
       "date": "2026-10-24",
       "ch1_views": 32,
       "ch2_views": 173,
-      "ch3_views": 145,
+      "ch3_views": 138,
       "ch4_views": 0,
-      "total_views": 350
+      "total_views": 343
     },
     {
       "date": "2026-10-25",
       "ch1_views": 32,
       "ch2_views": 174,
-      "ch3_views": 148,
+      "ch3_views": 141,
       "ch4_views": 0,
-      "total_views": 354
+      "total_views": 347
     },
     {
       "date": "2026-10-26",
       "ch1_views": 32,
       "ch2_views": 174,
-      "ch3_views": 151,
+      "ch3_views": 144,
       "ch4_views": 0,
-      "total_views": 357
+      "total_views": 350
     }
   ],
   "channels": {
@@ -1695,7 +1695,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 80,
+      "total_uploads": 81,
       "total_views": 136419,
       "total_likes": 0,
       "upcoming": {
@@ -1727,72 +1727,86 @@
       "view_history": [
         {
           "date": "2026-10-16",
-          "views": 11,
-          "uploads": 2,
-          "cumulative_views": 11
+          "views": 4,
+          "uploads": 1,
+          "cumulative_views": 4
         },
         {
           "date": "2026-10-17",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 23
+          "cumulative_views": 16
         },
         {
           "date": "2026-10-18",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 34
+          "cumulative_views": 27
         },
         {
           "date": "2026-10-19",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 50
+          "cumulative_views": 43
         },
         {
           "date": "2026-10-20",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 68
+          "cumulative_views": 61
         },
         {
           "date": "2026-10-21",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 78
+          "cumulative_views": 71
         },
         {
           "date": "2026-10-22",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 106
+          "cumulative_views": 99
         },
         {
           "date": "2026-10-23",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 130
+          "cumulative_views": 123
         },
         {
           "date": "2026-10-24",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 145
+          "cumulative_views": 138
         },
         {
           "date": "2026-10-25",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 148
+          "cumulative_views": 141
         },
         {
           "date": "2026-10-26",
           "views": 3,
-          "uploads": 1,
-          "cumulative_views": 151
+          "uploads": 2,
+          "cumulative_views": 144
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "19xxaXlIFQpmXPKFzLn5GJFckTfrjiS9D",
+          "youtube_id": "FZNYZPmDCZc",
+          "title": "Tweezers extracting splinter fro\u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/FZNYZPmDCZc/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-26T06:09:39Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2198,20 +2212,6 @@
           "thumbnail": "https://i.ytimg.com/vi/27ynTHWStTE/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-16T19:56:54Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1xfQmT3RHSPN9jWwhQkQfLK5NAEJYvuja",
-          "youtube_id": "4gIvQXW6Exk",
-          "title": "Professional performing medical \u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 7,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/4gIvQXW6Exk/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-16T05:50:21Z"
         }
       ],
       "runs": [
@@ -2807,6 +2807,16 @@
       ],
       "runs": [
         {
+          "id": 97,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-10-26",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-26T06:31:04.801181+00:00"
+        },
+        {
           "id": 96,
           "channel_id": "channel_4",
           "slot": 2,
@@ -2995,21 +3005,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-20T01:08:07.895553+00:00"
-        },
-        {
-          "id": 77,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-10-19",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-19T21:40:58.733683+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "19xxaXlIFQpmXPKFzLn5GJFckTfrjiS9D",
+      "youtube_id": "FZNYZPmDCZc",
+      "title": "Tweezers extracting splinter fro\u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/FZNYZPmDCZc/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-26T06:09:39Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4173,20 +4187,6 @@
       "uploaded_at": "2026-10-16T06:42:08Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1xfQmT3RHSPN9jWwhQkQfLK5NAEJYvuja",
-      "youtube_id": "4gIvQXW6Exk",
-      "title": "Professional performing medical \u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 7,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/4gIvQXW6Exk/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-16T05:50:21Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7657619394935213326",
@@ -5289,7 +5289,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 346,
+    "total_uploads": 347,
     "total_views": 139985,
     "total_likes": 18,
     "videos_per_day": 12
@@ -5522,5 +5522,5 @@
       "created_at": "2026-10-19T21:25:33.225452+00:00"
     }
   ],
-  "last_updated": "2026-10-26T06:09:27.504808+00:00"
+  "last_updated": "2026-10-26T06:31:09.100660+00:00"
 }
