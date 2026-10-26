@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 345,
+    "total_uploads": 346,
     "total_views": 139985,
     "total_likes": 19,
     "total_subscribers": 87,
@@ -123,74 +123,74 @@
     {
       "date": "2026-10-18",
       "ch1_views": 10,
-      "ch2_views": 133,
+      "ch2_views": 135,
       "ch3_views": 34,
       "ch4_views": 0,
-      "total_views": 177
+      "total_views": 179
     },
     {
       "date": "2026-10-19",
       "ch1_views": 12,
-      "ch2_views": 143,
+      "ch2_views": 145,
       "ch3_views": 50,
       "ch4_views": 0,
-      "total_views": 205
+      "total_views": 207
     },
     {
       "date": "2026-10-20",
       "ch1_views": 22,
-      "ch2_views": 157,
+      "ch2_views": 159,
       "ch3_views": 68,
       "ch4_views": 0,
-      "total_views": 247
+      "total_views": 249
     },
     {
       "date": "2026-10-21",
       "ch1_views": 23,
-      "ch2_views": 172,
+      "ch2_views": 174,
       "ch3_views": 78,
       "ch4_views": 0,
-      "total_views": 273
+      "total_views": 275
     },
     {
       "date": "2026-10-22",
       "ch1_views": 25,
-      "ch2_views": 180,
+      "ch2_views": 182,
       "ch3_views": 106,
       "ch4_views": 0,
-      "total_views": 311
+      "total_views": 313
     },
     {
       "date": "2026-10-23",
       "ch1_views": 25,
-      "ch2_views": 198,
+      "ch2_views": 200,
       "ch3_views": 130,
       "ch4_views": 0,
-      "total_views": 353
+      "total_views": 355
     },
     {
       "date": "2026-10-24",
       "ch1_views": 32,
-      "ch2_views": 214,
+      "ch2_views": 216,
       "ch3_views": 145,
-      "ch4_views": 0,
-      "total_views": 391
-    },
-    {
-      "date": "2026-10-25",
-      "ch1_views": 32,
-      "ch2_views": 214,
-      "ch3_views": 147,
       "ch4_views": 0,
       "total_views": 393
     },
     {
-      "date": "2026-10-26",
-      "ch1_views": 0,
-      "ch2_views": 0,
-      "ch3_views": 150,
+      "date": "2026-10-25",
+      "ch1_views": 32,
+      "ch2_views": 217,
+      "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 150
+      "total_views": 397
+    },
+    {
+      "date": "2026-10-26",
+      "ch1_views": 32,
+      "ch2_views": 0,
+      "ch3_views": 151,
+      "ch4_views": 0,
+      "total_views": 183
     }
   ],
   "channels": {
@@ -242,7 +242,7 @@
         {
           "date": "2026-10-16",
           "views": 4,
-          "uploads": 3,
+          "uploads": 2,
           "cumulative_views": 4
         },
         {
@@ -298,9 +298,29 @@
           "views": 0,
           "uploads": 3,
           "cumulative_views": 32
+        },
+        {
+          "date": "2026-10-26",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 32
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7664948958216621325",
+          "youtube_id": "vwQ41SxBdc4",
+          "title": "\ud83e\udd23 Dad\u2019s Evening Routine Explained!",
+          "tiktok_views": 7616,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/vwQ41SxBdc4/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-26T01:31:21Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -706,20 +726,6 @@
           "thumbnail": "https://i.ytimg.com/vi/NZLyGxI0NsI/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-16T06:42:08Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7679098242201636109",
-          "youtube_id": "UJWTn8pr3Gw",
-          "title": "Matching Outfits Matching Walk \u2014 Internet Cannot Handle This \ud83e\udd79",
-          "tiktok_views": 15500,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/UJWTn8pr3Gw/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-16T01:36:35Z"
         }
       ],
       "runs": [
@@ -940,7 +946,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 6,
-      "total_uploads": 116,
+      "total_uploads": 117,
       "total_views": 1325,
       "total_likes": 4,
       "upcoming": {
@@ -996,51 +1002,51 @@
         },
         {
           "date": "2026-10-18",
-          "views": 10,
+          "views": 12,
           "uploads": 1,
-          "cumulative_views": 133
+          "cumulative_views": 135
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 143
+          "cumulative_views": 145
         },
         {
           "date": "2026-10-20",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 157
+          "cumulative_views": 159
         },
         {
           "date": "2026-10-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 172
+          "cumulative_views": 174
         },
         {
           "date": "2026-10-22",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 180
+          "cumulative_views": 182
         },
         {
           "date": "2026-10-23",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 198
+          "cumulative_views": 200
         },
         {
           "date": "2026-10-24",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 214
+          "cumulative_views": 216
         },
         {
           "date": "2026-10-25",
-          "views": 0,
+          "views": 1,
           "uploads": 3,
-          "cumulative_views": 214
+          "cumulative_views": 217
         }
       ],
       "videos": [
@@ -1051,7 +1057,7 @@
           "youtube_id": "coXCtp7qNGQ",
           "title": "Chocolate Cream Dessert Cups \ud83c\udf6b",
           "tiktok_views": 2851,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/coXCtp7qNGQ/hqdefault.jpg",
@@ -1331,7 +1337,7 @@
           "youtube_id": "MSUbBpc4whI",
           "title": "Chocolate-Filled Baked Apples with Caramel & Ice Cream \ud83c\udf4e\ud83c\udf6b",
           "tiktok_views": 6300,
-          "youtube_views": 10,
+          "youtube_views": 12,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MSUbBpc4whI/hqdefault.jpg",
@@ -1466,6 +1472,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 145,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-26",
+          "status": "success",
+          "video_id": "PGwJxiNFXuE",
+          "error_message": null,
+          "created_at": "2026-10-26T05:56:01.658304+00:00"
+        },
         {
           "id": 144,
           "channel_id": "channel_2",
@@ -1655,16 +1671,6 @@
           "video_id": "ooHXqhZwflc",
           "error_message": null,
           "created_at": "2026-10-19T21:04:42.633166+00:00"
-        },
-        {
-          "id": 125,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-19",
-          "status": "success",
-          "video_id": "2iMxW-fAkPQ",
-          "error_message": null,
-          "created_at": "2026-10-19T05:53:39.767693+00:00"
         }
       ]
     },
@@ -1769,15 +1775,15 @@
         },
         {
           "date": "2026-10-25",
-          "views": 2,
+          "views": 3,
           "uploads": 3,
-          "cumulative_views": 147
+          "cumulative_views": 148
         },
         {
           "date": "2026-10-26",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 150
+          "cumulative_views": 151
         }
       ],
       "videos": [
@@ -1802,7 +1808,7 @@
           "youtube_id": "4GN6y58rOgo",
           "title": "Surgical tool extracts metal staple \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/4GN6y58rOgo/hqdefault.jpg",
@@ -2999,6 +3005,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7664948958216621325",
+      "youtube_id": "vwQ41SxBdc4",
+      "title": "\ud83e\udd23 Dad\u2019s Evening Routine Explained!",
+      "tiktok_views": 7616,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/vwQ41SxBdc4/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-26T01:31:21Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1DIn_3fZ13iPT0r62O2A2D7WH4ehLQ5as",
@@ -3019,7 +3039,7 @@
       "youtube_id": "4GN6y58rOgo",
       "title": "Surgical tool extracts metal staple \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/4GN6y58rOgo/hqdefault.jpg",
@@ -3047,7 +3067,7 @@
       "youtube_id": "coXCtp7qNGQ",
       "title": "Chocolate Cream Dessert Cups \ud83c\udf6b",
       "tiktok_views": 2851,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/coXCtp7qNGQ/hqdefault.jpg",
@@ -3915,7 +3935,7 @@
       "youtube_id": "MSUbBpc4whI",
       "title": "Chocolate-Filled Baked Apples with Caramel & Ice Cream \ud83c\udf4e\ud83c\udf6b",
       "tiktok_views": 6300,
-      "youtube_views": 10,
+      "youtube_views": 12,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MSUbBpc4whI/hqdefault.jpg",
@@ -4159,20 +4179,6 @@
       "thumbnail": "https://i.ytimg.com/vi/SQjPyQBOw9o/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-16T05:35:51Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7679098242201636109",
-      "youtube_id": "UJWTn8pr3Gw",
-      "title": "Matching Outfits Matching Walk \u2014 Internet Cannot Handle This \ud83e\udd79",
-      "tiktok_views": 15500,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/UJWTn8pr3Gw/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-16T01:36:35Z"
     },
     {
       "channel_id": "channel_2",
@@ -4587,7 +4593,7 @@
       {
         "date": "2026-10-16",
         "views": 4,
-        "uploads": 3,
+        "uploads": 2,
         "cumulative_views": 4
       },
       {
@@ -4643,9 +4649,29 @@
         "views": 0,
         "uploads": 3,
         "cumulative_views": 32
+      },
+      {
+        "date": "2026-10-26",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 32
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7664948958216621325",
+        "youtube_id": "vwQ41SxBdc4",
+        "title": "\ud83e\udd23 Dad\u2019s Evening Routine Explained!",
+        "tiktok_views": 7616,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/vwQ41SxBdc4/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-26T01:31:21Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5051,20 +5077,6 @@
         "thumbnail": "https://i.ytimg.com/vi/NZLyGxI0NsI/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-16T06:42:08Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7679098242201636109",
-        "youtube_id": "UJWTn8pr3Gw",
-        "title": "Matching Outfits Matching Walk \u2014 Internet Cannot Handle This \ud83e\udd79",
-        "tiktok_views": 15500,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/UJWTn8pr3Gw/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-16T01:36:35Z"
       }
     ],
     "runs": [
@@ -5271,7 +5283,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 345,
+    "total_uploads": 346,
     "total_views": 139985,
     "total_likes": 19,
     "videos_per_day": 12
@@ -5504,5 +5516,5 @@
       "created_at": "2026-10-19T21:25:33.225452+00:00"
     }
   ],
-  "last_updated": "2026-10-26T01:31:07.963953+00:00"
+  "last_updated": "2026-10-26T05:56:06.082506+00:00"
 }
