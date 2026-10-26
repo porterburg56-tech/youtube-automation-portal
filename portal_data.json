@@ -232,12 +232,6 @@
       },
       "view_history": [
         {
-          "date": "2026-10-16",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
-        {
           "date": "2026-10-17",
           "views": 4,
           "uploads": 3,
@@ -294,11 +288,25 @@
         {
           "date": "2026-10-26",
           "views": 0,
-          "uploads": 2,
+          "uploads": 3,
           "cumulative_views": 28
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7671297957064477965",
+          "youtube_id": "I2AgncW9XCc",
+          "title": "Toddler Doing Dad After Work Is Sending Me \ud83d\ude02",
+          "tiktok_views": 4779,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/I2AgncW9XCc/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-26T21:33:14Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -704,20 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/OwiEPfDW53Q/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-17T01:27:10Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7697280809476033806",
-          "youtube_id": "h72THWuxs_U",
-          "title": "Plot Twist \u2014 Toddler Was the Funniest Person at the BBQ \ud83d\ude02\ud83d\udd25",
-          "tiktok_views": 37300,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/h72THWuxs_U/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-16T19:53:07Z"
         }
       ],
       "runs": [
@@ -2202,6 +2196,16 @@
       ],
       "runs": [
         {
+          "id": 105,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-26",
+          "status": "success",
+          "video_id": "dLCskoONG-8",
+          "error_message": null,
+          "created_at": "2026-10-26T21:38:42.090591+00:00"
+        },
+        {
           "id": 104,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2390,16 +2394,6 @@
           "video_id": "9SDtjEvNU1c",
           "error_message": null,
           "created_at": "2026-10-20T06:00:12.344429+00:00"
-        },
-        {
-          "id": 85,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-20",
-          "status": "success",
-          "video_id": "Mq_wyq3Iblg",
-          "error_message": null,
-          "created_at": "2026-10-20T01:06:45.690512+00:00"
         }
       ]
     },
@@ -2996,6 +2990,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7671297957064477965",
+      "youtube_id": "I2AgncW9XCc",
+      "title": "Toddler Doing Dad After Work Is Sending Me \ud83d\ude02",
+      "tiktok_views": 4779,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/I2AgncW9XCc/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-26T21:33:14Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4159,20 +4167,6 @@
       "uploaded_at": "2026-10-16T19:56:54Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7697280809476033806",
-      "youtube_id": "h72THWuxs_U",
-      "title": "Plot Twist \u2014 Toddler Was the Funniest Person at the BBQ \ud83d\ude02\ud83d\udd25",
-      "tiktok_views": 37300,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/h72THWuxs_U/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-16T19:53:07Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7671354697927675150",
@@ -4583,12 +4577,6 @@
     },
     "view_history": [
       {
-        "date": "2026-10-16",
-        "views": 0,
-        "uploads": 1,
-        "cumulative_views": 0
-      },
-      {
         "date": "2026-10-17",
         "views": 4,
         "uploads": 3,
@@ -4645,11 +4633,25 @@
       {
         "date": "2026-10-26",
         "views": 0,
-        "uploads": 2,
+        "uploads": 3,
         "cumulative_views": 28
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7671297957064477965",
+        "youtube_id": "I2AgncW9XCc",
+        "title": "Toddler Doing Dad After Work Is Sending Me \ud83d\ude02",
+        "tiktok_views": 4779,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/I2AgncW9XCc/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-26T21:33:14Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5055,20 +5057,6 @@
         "thumbnail": "https://i.ytimg.com/vi/OwiEPfDW53Q/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-17T01:27:10Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7697280809476033806",
-        "youtube_id": "h72THWuxs_U",
-        "title": "Plot Twist \u2014 Toddler Was the Funniest Person at the BBQ \ud83d\ude02\ud83d\udd25",
-        "tiktok_views": 37300,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/h72THWuxs_U/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-16T19:53:07Z"
       }
     ],
     "runs": [
@@ -5508,5 +5496,5 @@
       "created_at": "2026-10-20T07:04:15.455374+00:00"
     }
   ],
-  "last_updated": "2026-10-26T21:33:02.249984+00:00"
+  "last_updated": "2026-10-26T21:38:46.811566+00:00"
 }
