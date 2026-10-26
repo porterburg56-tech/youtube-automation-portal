@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 346,
     "total_views": 139985,
-    "total_likes": 19,
+    "total_likes": 18,
     "total_subscribers": 87,
     "channels_count": 4,
     "videos_per_day": 12
@@ -91,106 +91,106 @@
     {
       "date": "2026-10-14",
       "ch1_views": 0,
-      "ch2_views": 47,
+      "ch2_views": 4,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 47
+      "total_views": 4
     },
     {
       "date": "2026-10-15",
       "ch1_views": 0,
-      "ch2_views": 108,
+      "ch2_views": 65,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 108
+      "total_views": 65
     },
     {
       "date": "2026-10-16",
       "ch1_views": 4,
-      "ch2_views": 121,
+      "ch2_views": 78,
       "ch3_views": 11,
       "ch4_views": 0,
-      "total_views": 136
+      "total_views": 93
     },
     {
       "date": "2026-10-17",
       "ch1_views": 8,
-      "ch2_views": 123,
+      "ch2_views": 80,
       "ch3_views": 23,
       "ch4_views": 0,
-      "total_views": 154
+      "total_views": 111
     },
     {
       "date": "2026-10-18",
       "ch1_views": 10,
-      "ch2_views": 135,
+      "ch2_views": 92,
       "ch3_views": 34,
       "ch4_views": 0,
-      "total_views": 179
+      "total_views": 136
     },
     {
       "date": "2026-10-19",
       "ch1_views": 12,
-      "ch2_views": 145,
+      "ch2_views": 102,
       "ch3_views": 50,
       "ch4_views": 0,
-      "total_views": 207
+      "total_views": 164
     },
     {
       "date": "2026-10-20",
       "ch1_views": 22,
-      "ch2_views": 159,
+      "ch2_views": 116,
       "ch3_views": 68,
       "ch4_views": 0,
-      "total_views": 249
+      "total_views": 206
     },
     {
       "date": "2026-10-21",
       "ch1_views": 23,
-      "ch2_views": 174,
+      "ch2_views": 131,
       "ch3_views": 78,
       "ch4_views": 0,
-      "total_views": 275
+      "total_views": 232
     },
     {
       "date": "2026-10-22",
       "ch1_views": 25,
-      "ch2_views": 182,
+      "ch2_views": 139,
       "ch3_views": 106,
       "ch4_views": 0,
-      "total_views": 313
+      "total_views": 270
     },
     {
       "date": "2026-10-23",
       "ch1_views": 25,
-      "ch2_views": 200,
+      "ch2_views": 157,
       "ch3_views": 130,
       "ch4_views": 0,
-      "total_views": 355
+      "total_views": 312
     },
     {
       "date": "2026-10-24",
       "ch1_views": 32,
-      "ch2_views": 216,
+      "ch2_views": 173,
       "ch3_views": 145,
       "ch4_views": 0,
-      "total_views": 393
+      "total_views": 350
     },
     {
       "date": "2026-10-25",
       "ch1_views": 32,
-      "ch2_views": 217,
+      "ch2_views": 174,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 397
+      "total_views": 354
     },
     {
       "date": "2026-10-26",
       "ch1_views": 32,
-      "ch2_views": 0,
+      "ch2_views": 174,
       "ch3_views": 151,
       "ch4_views": 0,
-      "total_views": 183
+      "total_views": 357
     }
   ],
   "channels": {
@@ -948,7 +948,7 @@
       "subscribers": 6,
       "total_uploads": 117,
       "total_views": 1325,
-      "total_likes": 4,
+      "total_likes": 3,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -978,78 +978,98 @@
       "view_history": [
         {
           "date": "2026-10-14",
-          "views": 47,
-          "uploads": 2,
-          "cumulative_views": 47
+          "views": 4,
+          "uploads": 1,
+          "cumulative_views": 4
         },
         {
           "date": "2026-10-15",
           "views": 61,
           "uploads": 3,
-          "cumulative_views": 108
+          "cumulative_views": 65
         },
         {
           "date": "2026-10-16",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 121
+          "cumulative_views": 78
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 123
+          "cumulative_views": 80
         },
         {
           "date": "2026-10-18",
           "views": 12,
           "uploads": 1,
-          "cumulative_views": 135
+          "cumulative_views": 92
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 145
+          "cumulative_views": 102
         },
         {
           "date": "2026-10-20",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 159
+          "cumulative_views": 116
         },
         {
           "date": "2026-10-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 174
+          "cumulative_views": 131
         },
         {
           "date": "2026-10-22",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 182
+          "cumulative_views": 139
         },
         {
           "date": "2026-10-23",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 200
+          "cumulative_views": 157
         },
         {
           "date": "2026-10-24",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 216
+          "cumulative_views": 173
         },
         {
           "date": "2026-10-25",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 217
+          "cumulative_views": 174
+        },
+        {
+          "date": "2026-10-26",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 174
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7656514943025466638",
+          "youtube_id": "PGwJxiNFXuE",
+          "title": "The Secret to the Crispiest Cheesy Chicken Patty \u2728",
+          "tiktok_views": 11200,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/PGwJxiNFXuE/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-26T05:57:19Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1455,20 +1475,6 @@
           "thumbnail": "https://i.ytimg.com/vi/l-VJ0AFsYUQ/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-14T20:13:45Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7662452813775064334",
-          "youtube_id": "XxgeD9bU78Q",
-          "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
-          "tiktok_views": 25100,
-          "youtube_views": 43,
-          "youtube_likes": 1,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-14T05:58:02Z"
         }
       ],
       "runs": [
@@ -2210,6 +2216,16 @@
       ],
       "runs": [
         {
+          "id": 104,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-26",
+          "status": "success",
+          "video_id": "FZNYZPmDCZc",
+          "error_message": null,
+          "created_at": "2026-10-26T06:09:22.920736+00:00"
+        },
+        {
           "id": 103,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2398,16 +2414,6 @@
           "video_id": "Mq_wyq3Iblg",
           "error_message": null,
           "created_at": "2026-10-20T01:06:45.690512+00:00"
-        },
-        {
-          "id": 84,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-19",
-          "status": "success",
-          "video_id": "zJSiWR0EhLw",
-          "error_message": null,
-          "created_at": "2026-10-19T21:31:25.488974+00:00"
         }
       ]
     },
@@ -3004,6 +3010,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7656514943025466638",
+      "youtube_id": "PGwJxiNFXuE",
+      "title": "The Secret to the Crispiest Cheesy Chicken Patty \u2728",
+      "tiktok_views": 11200,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/PGwJxiNFXuE/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-26T05:57:19Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -4251,20 +4271,6 @@
       "uploaded_at": "2026-10-14T20:13:45Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7662452813775064334",
-      "youtube_id": "XxgeD9bU78Q",
-      "title": "Chocolate Caramel Peanut Mousse Cake That Looks Bakery-Made \ud83c\udf6b\u2728",
-      "tiktok_views": 25100,
-      "youtube_views": 43,
-      "youtube_likes": 1,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/XxgeD9bU78Q/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-14T05:58:02Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -5285,7 +5291,7 @@
   "kpis": {
     "total_uploads": 346,
     "total_views": 139985,
-    "total_likes": 19,
+    "total_likes": 18,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5516,5 +5522,5 @@
       "created_at": "2026-10-19T21:25:33.225452+00:00"
     }
   ],
-  "last_updated": "2026-10-26T05:56:06.082506+00:00"
+  "last_updated": "2026-10-26T06:09:27.504808+00:00"
 }
