@@ -2190,6 +2190,16 @@
       ],
       "runs": [
         {
+          "id": 103,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-10-26",
+          "status": "success",
+          "video_id": "AJBzJf-DFhg",
+          "error_message": null,
+          "created_at": "2026-10-26T00:36:18.391485+00:00"
+        },
+        {
           "id": 102,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2378,16 +2388,6 @@
           "video_id": "zJSiWR0EhLw",
           "error_message": null,
           "created_at": "2026-10-19T21:31:25.488974+00:00"
-        },
-        {
-          "id": 83,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-19",
-          "status": "success",
-          "video_id": "EjHxmcf2Tsk",
-          "error_message": null,
-          "created_at": "2026-10-19T06:10:21.845247+00:00"
         }
       ]
     },
@@ -5490,5 +5490,5 @@
       "created_at": "2026-10-19T07:15:15.451537+00:00"
     }
   ],
-  "last_updated": "2026-10-26T00:30:42.527268+00:00"
+  "last_updated": "2026-10-26T00:36:23.327131+00:00"
 }
