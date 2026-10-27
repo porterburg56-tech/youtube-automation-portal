@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 354,
+    "total_uploads": 356,
     "total_views": 140016,
     "total_likes": 17,
     "total_subscribers": 87,
@@ -108,89 +108,89 @@
       "date": "2026-10-17",
       "ch1_views": 0,
       "ch2_views": 34,
-      "ch3_views": 9,
+      "ch3_views": 3,
       "ch4_views": 0,
-      "total_views": 43
+      "total_views": 37
     },
     {
       "date": "2026-10-18",
       "ch1_views": 2,
       "ch2_views": 47,
-      "ch3_views": 20,
+      "ch3_views": 14,
       "ch4_views": 0,
-      "total_views": 69
+      "total_views": 63
     },
     {
       "date": "2026-10-19",
       "ch1_views": 4,
       "ch2_views": 57,
-      "ch3_views": 36,
+      "ch3_views": 30,
       "ch4_views": 0,
-      "total_views": 97
+      "total_views": 91
     },
     {
       "date": "2026-10-20",
       "ch1_views": 14,
       "ch2_views": 71,
-      "ch3_views": 54,
+      "ch3_views": 48,
       "ch4_views": 0,
-      "total_views": 139
+      "total_views": 133
     },
     {
       "date": "2026-10-21",
       "ch1_views": 15,
       "ch2_views": 86,
-      "ch3_views": 64,
+      "ch3_views": 58,
       "ch4_views": 0,
-      "total_views": 165
+      "total_views": 159
     },
     {
       "date": "2026-10-22",
       "ch1_views": 17,
       "ch2_views": 95,
-      "ch3_views": 92,
+      "ch3_views": 86,
       "ch4_views": 0,
-      "total_views": 204
+      "total_views": 198
     },
     {
       "date": "2026-10-23",
       "ch1_views": 17,
       "ch2_views": 114,
-      "ch3_views": 116,
+      "ch3_views": 110,
       "ch4_views": 0,
-      "total_views": 247
+      "total_views": 241
     },
     {
       "date": "2026-10-24",
       "ch1_views": 24,
       "ch2_views": 133,
-      "ch3_views": 131,
+      "ch3_views": 125,
       "ch4_views": 0,
-      "total_views": 288
+      "total_views": 282
     },
     {
       "date": "2026-10-25",
       "ch1_views": 24,
       "ch2_views": 135,
-      "ch3_views": 136,
+      "ch3_views": 130,
       "ch4_views": 0,
-      "total_views": 295
+      "total_views": 289
     },
     {
       "date": "2026-10-26",
       "ch1_views": 25,
       "ch2_views": 143,
-      "ch3_views": 143,
+      "ch3_views": 137,
       "ch4_views": 0,
-      "total_views": 311
+      "total_views": 305
     },
     {
       "date": "2026-10-27",
       "ch1_views": 26,
       "ch2_views": 143,
-      "ch3_views": 143,
+      "ch3_views": 137,
       "ch4_views": 0,
-      "total_views": 312
+      "total_views": 306
     }
   ],
   "channels": {
@@ -946,7 +946,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 6,
-      "total_uploads": 119,
+      "total_uploads": 120,
       "total_views": 1342,
       "total_likes": 2,
       "upcoming": {
@@ -1479,6 +1479,16 @@
       ],
       "runs": [
         {
+          "id": 148,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-27",
+          "status": "success",
+          "video_id": "CVWeFv92x2o",
+          "error_message": null,
+          "created_at": "2026-10-27T06:17:06.831717+00:00"
+        },
+        {
           "id": 147,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1667,16 +1677,6 @@
           "video_id": "Iza2ltweH_c",
           "error_message": null,
           "created_at": "2026-10-20T20:03:15.090028+00:00"
-        },
-        {
-          "id": 128,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-20",
-          "status": "success",
-          "video_id": "pAUzjkAQAPw",
-          "error_message": null,
-          "created_at": "2026-10-20T05:54:40.384279+00:00"
         }
       ]
     },
@@ -1695,7 +1695,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 83,
+      "total_uploads": 84,
       "total_views": 136431,
       "total_likes": 0,
       "upcoming": {
@@ -1727,72 +1727,86 @@
       "view_history": [
         {
           "date": "2026-10-17",
-          "views": 9,
-          "uploads": 2,
-          "cumulative_views": 9
+          "views": 3,
+          "uploads": 1,
+          "cumulative_views": 3
         },
         {
           "date": "2026-10-18",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-19",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 36
+          "cumulative_views": 30
         },
         {
           "date": "2026-10-20",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 54
+          "cumulative_views": 48
         },
         {
           "date": "2026-10-21",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 64
+          "cumulative_views": 58
         },
         {
           "date": "2026-10-22",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 92
+          "cumulative_views": 86
         },
         {
           "date": "2026-10-23",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 116
+          "cumulative_views": 110
         },
         {
           "date": "2026-10-24",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 131
+          "cumulative_views": 125
         },
         {
           "date": "2026-10-25",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 136
+          "cumulative_views": 130
         },
         {
           "date": "2026-10-26",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 143
+          "cumulative_views": 137
         },
         {
           "date": "2026-10-27",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 143
+          "uploads": 2,
+          "cumulative_views": 137
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1VIILGu-Boy5ZJJ6Nrd4bWT2iQNy2cwLI",
+          "youtube_id": "Gi5hirr4P2Q",
+          "title": "Gloved hands treating toenail \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/Gi5hirr4P2Q/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-27T06:15:20Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2198,20 +2212,6 @@
           "thumbnail": "https://i.ytimg.com/vi/tcD2rb6qW3o/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-17T19:22:05Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1eUNAfFwTUl6N_rH6Ms_qL7EPjKRtA05k",
-          "youtube_id": "G7hIsk-KANo",
-          "title": "Professional performing medical \u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 6,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/G7hIsk-KANo/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-17T05:35:10Z"
         }
       ],
       "runs": [
@@ -3010,6 +3010,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1VIILGu-Boy5ZJJ6Nrd4bWT2iQNy2cwLI",
+      "youtube_id": "Gi5hirr4P2Q",
+      "title": "Gloved hands treating toenail \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/Gi5hirr4P2Q/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-27T06:15:20Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -4187,20 +4201,6 @@
       "uploaded_at": "2026-10-17T06:31:02Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1eUNAfFwTUl6N_rH6Ms_qL7EPjKRtA05k",
-      "youtube_id": "G7hIsk-KANo",
-      "title": "Professional performing medical \u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 6,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/G7hIsk-KANo/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-17T05:35:10Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7671354697927675150",
@@ -5289,7 +5289,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 354,
+    "total_uploads": 356,
     "total_views": 140016,
     "total_likes": 17,
     "videos_per_day": 12
@@ -5522,5 +5522,5 @@
       "created_at": "2026-10-20T20:25:55.780928+00:00"
     }
   ],
-  "last_updated": "2026-10-27T06:15:05.334430+00:00"
+  "last_updated": "2026-10-27T06:17:11.718196+00:00"
 }
