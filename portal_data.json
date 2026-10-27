@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 351,
+    "total_uploads": 352,
     "total_views": 140016,
     "total_likes": 18,
     "total_subscribers": 87,
@@ -147,42 +147,42 @@
     {
       "date": "2026-10-22",
       "ch1_views": 21,
-      "ch2_views": 137,
+      "ch2_views": 138,
       "ch3_views": 95,
       "ch4_views": 0,
-      "total_views": 253
+      "total_views": 254
     },
     {
       "date": "2026-10-23",
       "ch1_views": 21,
-      "ch2_views": 155,
+      "ch2_views": 157,
       "ch3_views": 119,
       "ch4_views": 0,
-      "total_views": 295
+      "total_views": 297
     },
     {
       "date": "2026-10-24",
       "ch1_views": 28,
-      "ch2_views": 173,
+      "ch2_views": 176,
       "ch3_views": 134,
       "ch4_views": 0,
-      "total_views": 335
+      "total_views": 338
     },
     {
       "date": "2026-10-25",
       "ch1_views": 28,
-      "ch2_views": 175,
+      "ch2_views": 178,
       "ch3_views": 139,
       "ch4_views": 0,
-      "total_views": 342
+      "total_views": 345
     },
     {
       "date": "2026-10-26",
       "ch1_views": 28,
-      "ch2_views": 178,
+      "ch2_views": 184,
       "ch3_views": 145,
       "ch4_views": 0,
-      "total_views": 351
+      "total_views": 357
     }
   ],
   "channels": {
@@ -932,7 +932,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 6,
-      "total_uploads": 118,
+      "total_uploads": 119,
       "total_views": 1342,
       "total_likes": 3,
       "upcoming": {
@@ -1006,33 +1006,33 @@
         },
         {
           "date": "2026-10-22",
-          "views": 8,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 137
+          "cumulative_views": 138
         },
         {
           "date": "2026-10-23",
-          "views": 18,
+          "views": 19,
           "uploads": 3,
-          "cumulative_views": 155
+          "cumulative_views": 157
         },
         {
           "date": "2026-10-24",
-          "views": 18,
+          "views": 19,
           "uploads": 3,
-          "cumulative_views": 173
+          "cumulative_views": 176
         },
         {
           "date": "2026-10-25",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 175
+          "cumulative_views": 178
         },
         {
           "date": "2026-10-26",
-          "views": 3,
+          "views": 6,
           "uploads": 2,
-          "cumulative_views": 178
+          "cumulative_views": 184
         }
       ],
       "videos": [
@@ -1043,7 +1043,7 @@
           "youtube_id": "2TZ8anAXE5I",
           "title": "No-Bake Oreo Strawberry Banana Dessert Roll \ud83c\udf53\ud83c\udf4c",
           "tiktok_views": 13600,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2TZ8anAXE5I/hqdefault.jpg",
@@ -1127,7 +1127,7 @@
           "youtube_id": "OkF08MTZViQ",
           "title": "Cheesy Broccoli Omelette with Crispy Bacon \u2728",
           "tiktok_views": 11800,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/OkF08MTZViQ/hqdefault.jpg",
@@ -1169,7 +1169,7 @@
           "youtube_id": "lTN_iKsKog0",
           "title": "Chef's Secret Stuffed Chicken Rolls with Creamy Butter Sauce \u2728",
           "tiktok_views": 12900,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lTN_iKsKog0/hqdefault.jpg",
@@ -1197,7 +1197,7 @@
           "youtube_id": "1ZKxJOtIU-4",
           "title": "Puff Pastry Stuffed Apples with Chocolate Sauce \ud83c\udf4e\ud83c\udf6b",
           "tiktok_views": 5587,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/1ZKxJOtIU-4/hqdefault.jpg",
@@ -1459,6 +1459,16 @@
       ],
       "runs": [
         {
+          "id": 147,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-10-27",
+          "status": "success",
+          "video_id": "8FuHOr7V-q0",
+          "error_message": null,
+          "created_at": "2026-10-27T01:32:07.977811+00:00"
+        },
+        {
           "id": 146,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1647,16 +1657,6 @@
           "video_id": "pAUzjkAQAPw",
           "error_message": null,
           "created_at": "2026-10-20T05:54:40.384279+00:00"
-        },
-        {
-          "id": 127,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-20",
-          "status": "success",
-          "video_id": "yzSnALdYapw",
-          "error_message": null,
-          "created_at": "2026-10-20T01:14:12.736853+00:00"
         }
       ]
     },
@@ -3019,7 +3019,7 @@
       "youtube_id": "2TZ8anAXE5I",
       "title": "No-Bake Oreo Strawberry Banana Dessert Roll \ud83c\udf53\ud83c\udf4c",
       "tiktok_views": 13600,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2TZ8anAXE5I/hqdefault.jpg",
@@ -3299,7 +3299,7 @@
       "youtube_id": "OkF08MTZViQ",
       "title": "Cheesy Broccoli Omelette with Crispy Bacon \u2728",
       "tiktok_views": 11800,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/OkF08MTZViQ/hqdefault.jpg",
@@ -3425,7 +3425,7 @@
       "youtube_id": "lTN_iKsKog0",
       "title": "Chef's Secret Stuffed Chicken Rolls with Creamy Butter Sauce \u2728",
       "tiktok_views": 12900,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lTN_iKsKog0/hqdefault.jpg",
@@ -3509,7 +3509,7 @@
       "youtube_id": "1ZKxJOtIU-4",
       "title": "Puff Pastry Stuffed Apples with Chocolate Sauce \ud83c\udf4e\ud83c\udf6b",
       "tiktok_views": 5587,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/1ZKxJOtIU-4/hqdefault.jpg",
@@ -5257,7 +5257,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 351,
+    "total_uploads": 352,
     "total_views": 140016,
     "total_likes": 18,
     "videos_per_day": 12
@@ -5490,5 +5490,5 @@
       "created_at": "2026-10-20T07:04:15.455374+00:00"
     }
   ],
-  "last_updated": "2026-10-26T21:47:11.115619+00:00"
+  "last_updated": "2026-10-27T01:32:13.552319+00:00"
 }
