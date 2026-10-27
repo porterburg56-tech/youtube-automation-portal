@@ -232,12 +232,6 @@
       },
       "view_history": [
         {
-          "date": "2026-10-17",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
-        {
           "date": "2026-10-18",
           "views": 2,
           "uploads": 3,
@@ -294,11 +288,25 @@
         {
           "date": "2026-10-27",
           "views": 4,
-          "uploads": 2,
+          "uploads": 3,
           "cumulative_views": 30
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7670567785298136333",
+          "youtube_id": "cE2Ln6Wt4T0",
+          "title": "The way they copied every little habit had the whole house laughing \ud83d\ude02",
+          "tiktok_views": 4842,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/cE2Ln6Wt4T0/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-27T21:13:21Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -704,20 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/bJ-DcOXU-lw/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-18T01:24:53Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7675016135007309070",
-          "youtube_id": "oV5Y8FjG6QU",
-          "title": "This tiny superstar understood the assignment. \ud83d\ude0e",
-          "tiktok_views": 11800,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/oV5Y8FjG6QU/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-17T19:12:28Z"
         }
       ],
       "runs": [
@@ -2202,6 +2196,16 @@
       ],
       "runs": [
         {
+          "id": 108,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-27",
+          "status": "success",
+          "video_id": "GxotkhHSMRU",
+          "error_message": null,
+          "created_at": "2026-10-27T21:17:30.804823+00:00"
+        },
+        {
           "id": 107,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2390,16 +2394,6 @@
           "video_id": "BtA_lcZ1mzU",
           "error_message": null,
           "created_at": "2026-10-21T06:00:35.175078+00:00"
-        },
-        {
-          "id": 88,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-21",
-          "status": "success",
-          "video_id": "XpaZoUSYVdY",
-          "error_message": null,
-          "created_at": "2026-10-21T00:38:20.683283+00:00"
         }
       ]
     },
@@ -2996,6 +2990,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7670567785298136333",
+      "youtube_id": "cE2Ln6Wt4T0",
+      "title": "The way they copied every little habit had the whole house laughing \ud83d\ude02",
+      "tiktok_views": 4842,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/cE2Ln6Wt4T0/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-27T21:13:21Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4187,20 +4195,6 @@
       "uploaded_at": "2026-10-17T19:22:05Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7675016135007309070",
-      "youtube_id": "oV5Y8FjG6QU",
-      "title": "This tiny superstar understood the assignment. \ud83d\ude0e",
-      "tiktok_views": 11800,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/oV5Y8FjG6QU/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-17T19:12:28Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7697685636383264014",
@@ -4583,12 +4577,6 @@
     },
     "view_history": [
       {
-        "date": "2026-10-17",
-        "views": 0,
-        "uploads": 1,
-        "cumulative_views": 0
-      },
-      {
         "date": "2026-10-18",
         "views": 2,
         "uploads": 3,
@@ -4645,11 +4633,25 @@
       {
         "date": "2026-10-27",
         "views": 4,
-        "uploads": 2,
+        "uploads": 3,
         "cumulative_views": 30
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7670567785298136333",
+        "youtube_id": "cE2Ln6Wt4T0",
+        "title": "The way they copied every little habit had the whole house laughing \ud83d\ude02",
+        "tiktok_views": 4842,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/cE2Ln6Wt4T0/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-27T21:13:21Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5055,20 +5057,6 @@
         "thumbnail": "https://i.ytimg.com/vi/bJ-DcOXU-lw/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-18T01:24:53Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7675016135007309070",
-        "youtube_id": "oV5Y8FjG6QU",
-        "title": "This tiny superstar understood the assignment. \ud83d\ude0e",
-        "tiktok_views": 11800,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/oV5Y8FjG6QU/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-17T19:12:28Z"
       }
     ],
     "runs": [
@@ -5508,5 +5496,5 @@
       "created_at": "2026-10-21T06:57:50.917328+00:00"
     }
   ],
-  "last_updated": "2026-10-27T21:13:03.916737+00:00"
+  "last_updated": "2026-10-27T21:17:34.942223+00:00"
 }
