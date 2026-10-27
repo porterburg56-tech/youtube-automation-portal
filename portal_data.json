@@ -2,7 +2,7 @@
   "cumulative": {
     "total_uploads": 352,
     "total_views": 140016,
-    "total_likes": 18,
+    "total_likes": 17,
     "total_subscribers": 87,
     "channels_count": 4,
     "videos_per_day": 12
@@ -91,98 +91,106 @@
     {
       "date": "2026-10-15",
       "ch1_views": 0,
-      "ch2_views": 62,
+      "ch2_views": 19,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 62
+      "total_views": 19
     },
     {
       "date": "2026-10-16",
       "ch1_views": 0,
-      "ch2_views": 75,
+      "ch2_views": 32,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 75
+      "total_views": 32
     },
     {
       "date": "2026-10-17",
       "ch1_views": 4,
-      "ch2_views": 77,
+      "ch2_views": 34,
       "ch3_views": 12,
       "ch4_views": 0,
-      "total_views": 93
+      "total_views": 50
     },
     {
       "date": "2026-10-18",
       "ch1_views": 6,
-      "ch2_views": 90,
+      "ch2_views": 47,
       "ch3_views": 23,
       "ch4_views": 0,
-      "total_views": 119
+      "total_views": 76
     },
     {
       "date": "2026-10-19",
       "ch1_views": 8,
-      "ch2_views": 100,
+      "ch2_views": 57,
       "ch3_views": 39,
       "ch4_views": 0,
-      "total_views": 147
+      "total_views": 104
     },
     {
       "date": "2026-10-20",
       "ch1_views": 18,
-      "ch2_views": 114,
+      "ch2_views": 71,
       "ch3_views": 57,
       "ch4_views": 0,
-      "total_views": 189
+      "total_views": 146
     },
     {
       "date": "2026-10-21",
       "ch1_views": 19,
-      "ch2_views": 129,
+      "ch2_views": 86,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 215
+      "total_views": 172
     },
     {
       "date": "2026-10-22",
       "ch1_views": 21,
-      "ch2_views": 138,
+      "ch2_views": 95,
       "ch3_views": 95,
       "ch4_views": 0,
-      "total_views": 254
+      "total_views": 211
     },
     {
       "date": "2026-10-23",
       "ch1_views": 21,
-      "ch2_views": 157,
+      "ch2_views": 114,
       "ch3_views": 119,
       "ch4_views": 0,
-      "total_views": 297
+      "total_views": 254
     },
     {
       "date": "2026-10-24",
       "ch1_views": 28,
-      "ch2_views": 176,
+      "ch2_views": 133,
       "ch3_views": 134,
       "ch4_views": 0,
-      "total_views": 338
+      "total_views": 295
     },
     {
       "date": "2026-10-25",
       "ch1_views": 28,
-      "ch2_views": 178,
+      "ch2_views": 135,
       "ch3_views": 139,
       "ch4_views": 0,
-      "total_views": 345
+      "total_views": 302
     },
     {
       "date": "2026-10-26",
       "ch1_views": 28,
-      "ch2_views": 184,
+      "ch2_views": 141,
       "ch3_views": 145,
       "ch4_views": 0,
-      "total_views": 357
+      "total_views": 314
+    },
+    {
+      "date": "2026-10-27",
+      "ch1_views": 0,
+      "ch2_views": 141,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 141
     }
   ],
   "channels": {
@@ -934,7 +942,7 @@
       "subscribers": 6,
       "total_uploads": 119,
       "total_views": 1342,
-      "total_likes": 3,
+      "total_likes": 2,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -964,78 +972,98 @@
       "view_history": [
         {
           "date": "2026-10-15",
-          "views": 62,
-          "uploads": 3,
-          "cumulative_views": 62
+          "views": 19,
+          "uploads": 2,
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-16",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 75
+          "cumulative_views": 32
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 77
+          "cumulative_views": 34
         },
         {
           "date": "2026-10-18",
           "views": 13,
           "uploads": 1,
-          "cumulative_views": 90
+          "cumulative_views": 47
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 100
+          "cumulative_views": 57
         },
         {
           "date": "2026-10-20",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 114
+          "cumulative_views": 71
         },
         {
           "date": "2026-10-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 129
+          "cumulative_views": 86
         },
         {
           "date": "2026-10-22",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 138
+          "cumulative_views": 95
         },
         {
           "date": "2026-10-23",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 157
+          "cumulative_views": 114
         },
         {
           "date": "2026-10-24",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 176
+          "cumulative_views": 133
         },
         {
           "date": "2026-10-25",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 178
+          "cumulative_views": 135
         },
         {
           "date": "2026-10-26",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 184
+          "cumulative_views": 141
+        },
+        {
+          "date": "2026-10-27",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 141
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7647693233996303629",
+          "youtube_id": "8FuHOr7V-q0",
+          "title": "Crispy Parmesan Chicken That\u2019s Impossible to Resist \u2728",
+          "tiktok_views": 11000,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/8FuHOr7V-q0/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-27T01:33:10Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1441,20 +1469,6 @@
           "thumbnail": "https://i.ytimg.com/vi/jLH_dVJ-0pI/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-15T05:44:12Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7655406000119336206",
-          "youtube_id": "xedI6HBMxic",
-          "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
-          "tiktok_views": 22500,
-          "youtube_views": 43,
-          "youtube_likes": 1,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-15T00:34:18Z"
         }
       ],
       "runs": [
@@ -2190,6 +2204,16 @@
       ],
       "runs": [
         {
+          "id": 106,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-10-27",
+          "status": "success",
+          "video_id": "A6oak1RD_oE",
+          "error_message": null,
+          "created_at": "2026-10-27T01:57:28.602330+00:00"
+        },
+        {
           "id": 105,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2378,16 +2402,6 @@
           "video_id": "b57e1hdftHc",
           "error_message": null,
           "created_at": "2026-10-20T20:34:32.991120+00:00"
-        },
-        {
-          "id": 86,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-20",
-          "status": "success",
-          "video_id": "9SDtjEvNU1c",
-          "error_message": null,
-          "created_at": "2026-10-20T06:00:12.344429+00:00"
         }
       ]
     },
@@ -2984,6 +2998,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7647693233996303629",
+      "youtube_id": "8FuHOr7V-q0",
+      "title": "Crispy Parmesan Chicken That\u2019s Impossible to Resist \u2728",
+      "tiktok_views": 11000,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/8FuHOr7V-q0/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-27T01:33:10Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -4231,20 +4259,6 @@
       "uploaded_at": "2026-10-15T05:44:12Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7655406000119336206",
-      "youtube_id": "xedI6HBMxic",
-      "title": "No-Bake Nutella Cheesecake That Melts in Your Mouth \u2728",
-      "tiktok_views": 22500,
-      "youtube_views": 43,
-      "youtube_likes": 1,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/xedI6HBMxic/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-15T00:34:18Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -5259,7 +5273,7 @@
   "kpis": {
     "total_uploads": 352,
     "total_views": 140016,
-    "total_likes": 18,
+    "total_likes": 17,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5490,5 +5504,5 @@
       "created_at": "2026-10-20T07:04:15.455374+00:00"
     }
   ],
-  "last_updated": "2026-10-27T01:33:04.428884+00:00"
+  "last_updated": "2026-10-27T01:57:32.900858+00:00"
 }
