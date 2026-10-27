@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 358,
+    "total_uploads": 359,
     "total_views": 140036,
     "total_likes": 17,
     "total_subscribers": 88,
@@ -89,108 +89,100 @@
       "total_views": 1567
     },
     {
-      "date": "2026-10-15",
-      "ch1_views": 0,
-      "ch2_views": 6,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 6
-    },
-    {
       "date": "2026-10-16",
       "ch1_views": 0,
-      "ch2_views": 19,
+      "ch2_views": 13,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 19
+      "total_views": 13
     },
     {
       "date": "2026-10-17",
       "ch1_views": 0,
-      "ch2_views": 21,
+      "ch2_views": 15,
       "ch3_views": 3,
       "ch4_views": 0,
-      "total_views": 24
+      "total_views": 18
     },
     {
       "date": "2026-10-18",
       "ch1_views": 2,
-      "ch2_views": 38,
+      "ch2_views": 32,
       "ch3_views": 14,
       "ch4_views": 0,
-      "total_views": 54
+      "total_views": 48
     },
     {
       "date": "2026-10-19",
       "ch1_views": 4,
-      "ch2_views": 48,
+      "ch2_views": 42,
       "ch3_views": 30,
       "ch4_views": 0,
-      "total_views": 82
+      "total_views": 76
     },
     {
       "date": "2026-10-20",
       "ch1_views": 14,
-      "ch2_views": 62,
+      "ch2_views": 56,
       "ch3_views": 48,
       "ch4_views": 0,
-      "total_views": 124
+      "total_views": 118
     },
     {
       "date": "2026-10-21",
       "ch1_views": 15,
-      "ch2_views": 77,
+      "ch2_views": 71,
       "ch3_views": 58,
       "ch4_views": 0,
-      "total_views": 150
+      "total_views": 144
     },
     {
       "date": "2026-10-22",
       "ch1_views": 17,
-      "ch2_views": 86,
+      "ch2_views": 80,
       "ch3_views": 86,
       "ch4_views": 0,
-      "total_views": 189
+      "total_views": 183
     },
     {
       "date": "2026-10-23",
       "ch1_views": 17,
-      "ch2_views": 105,
+      "ch2_views": 99,
       "ch3_views": 110,
       "ch4_views": 0,
-      "total_views": 232
+      "total_views": 226
     },
     {
       "date": "2026-10-24",
       "ch1_views": 24,
-      "ch2_views": 124,
+      "ch2_views": 118,
       "ch3_views": 125,
       "ch4_views": 0,
-      "total_views": 273
+      "total_views": 267
     },
     {
       "date": "2026-10-25",
       "ch1_views": 24,
-      "ch2_views": 126,
+      "ch2_views": 120,
       "ch3_views": 130,
       "ch4_views": 0,
-      "total_views": 280
+      "total_views": 274
     },
     {
       "date": "2026-10-26",
       "ch1_views": 26,
-      "ch2_views": 139,
+      "ch2_views": 133,
       "ch3_views": 137,
       "ch4_views": 0,
-      "total_views": 302
+      "total_views": 296
     },
     {
       "date": "2026-10-27",
       "ch1_views": 30,
-      "ch2_views": 143,
+      "ch2_views": 137,
       "ch3_views": 142,
       "ch4_views": 0,
-      "total_views": 315
+      "total_views": 309
     }
   ],
   "channels": {
@@ -209,7 +201,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 133,
+      "total_uploads": 134,
       "total_views": 676,
       "total_likes": 0,
       "upcoming": {
@@ -730,6 +722,16 @@
       ],
       "runs": [
         {
+          "id": 143,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-10-27",
+          "status": "success",
+          "video_id": "cE2Ln6Wt4T0",
+          "error_message": null,
+          "created_at": "2026-10-27T21:12:59.338469+00:00"
+        },
+        {
           "id": 142,
           "channel_id": "channel_1",
           "slot": 3,
@@ -918,16 +920,6 @@
           "video_id": "cm_-qXXsihA",
           "error_message": null,
           "created_at": "2026-10-21T06:57:50.917328+00:00"
-        },
-        {
-          "id": 123,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-10-21",
-          "status": "success",
-          "video_id": "re3Apr51YDA",
-          "error_message": null,
-          "created_at": "2026-10-21T01:54:26.113947+00:00"
         }
       ]
     },
@@ -977,85 +969,93 @@
       },
       "view_history": [
         {
-          "date": "2026-10-15",
-          "views": 6,
-          "uploads": 1,
-          "cumulative_views": 6
-        },
-        {
           "date": "2026-10-16",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 13
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 21
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-18",
           "views": 17,
           "uploads": 1,
-          "cumulative_views": 38
+          "cumulative_views": 32
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 48
+          "cumulative_views": 42
         },
         {
           "date": "2026-10-20",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 62
+          "cumulative_views": 56
         },
         {
           "date": "2026-10-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 77
+          "cumulative_views": 71
         },
         {
           "date": "2026-10-22",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 86
+          "cumulative_views": 80
         },
         {
           "date": "2026-10-23",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 105
+          "cumulative_views": 99
         },
         {
           "date": "2026-10-24",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 124
+          "cumulative_views": 118
         },
         {
           "date": "2026-10-25",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 126
+          "cumulative_views": 120
         },
         {
           "date": "2026-10-26",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 139
+          "cumulative_views": 133
         },
         {
           "date": "2026-10-27",
           "views": 4,
-          "uploads": 2,
-          "cumulative_views": 143
+          "uploads": 3,
+          "cumulative_views": 137
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7701417855341923598",
+          "youtube_id": "zLTAOL7vgh4",
+          "title": "Chocolate Caramel Stuffed Baked Apples \ud83c\udf4e",
+          "tiktok_views": 4199,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/zLTAOL7vgh4/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-27T20:38:46Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1461,20 +1461,6 @@
           "thumbnail": "https://i.ytimg.com/vi/d0LEj00HEeE/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-16T00:21:14Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7696945328322366733",
-          "youtube_id": "jzpE865wP6E",
-          "title": "No-Bake Chocolate Banana Cream Roll \ud83c\udf6b\ud83c\udf4c",
-          "tiktok_views": 18100,
-          "youtube_views": 6,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/jzpE865wP6E/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-15T19:51:48Z"
         }
       ],
       "runs": [
@@ -3011,6 +2997,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7701417855341923598",
+      "youtube_id": "zLTAOL7vgh4",
+      "title": "Chocolate Caramel Stuffed Baked Apples \ud83c\udf4e",
+      "tiktok_views": 4199,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/zLTAOL7vgh4/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-27T20:38:46Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7667539230976986382",
@@ -4257,20 +4257,6 @@
       "uploaded_at": "2026-10-16T00:21:14Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7696945328322366733",
-      "youtube_id": "jzpE865wP6E",
-      "title": "No-Bake Chocolate Banana Cream Roll \ud83c\udf6b\ud83c\udf4c",
-      "tiktok_views": 18100,
-      "youtube_views": 6,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/jzpE865wP6E/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-15T19:51:48Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -4566,7 +4552,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 133,
+    "total_uploads": 134,
     "total_views": 676,
     "total_likes": 0,
     "upcoming": {
@@ -5087,6 +5073,16 @@
     ],
     "runs": [
       {
+        "id": 143,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-10-27",
+        "status": "success",
+        "video_id": "cE2Ln6Wt4T0",
+        "error_message": null,
+        "created_at": "2026-10-27T21:12:59.338469+00:00"
+      },
+      {
         "id": 142,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5275,21 +5271,11 @@
         "video_id": "cm_-qXXsihA",
         "error_message": null,
         "created_at": "2026-10-21T06:57:50.917328+00:00"
-      },
-      {
-        "id": 123,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-10-21",
-        "status": "success",
-        "video_id": "re3Apr51YDA",
-        "error_message": null,
-        "created_at": "2026-10-21T01:54:26.113947+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 358,
+    "total_uploads": 359,
     "total_views": 140036,
     "total_likes": 17,
     "videos_per_day": 12
@@ -5321,6 +5307,16 @@
     }
   },
   "runs": [
+    {
+      "id": 143,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-10-27",
+      "status": "success",
+      "video_id": "cE2Ln6Wt4T0",
+      "error_message": null,
+      "created_at": "2026-10-27T21:12:59.338469+00:00"
+    },
     {
       "id": 142,
       "channel_id": "channel_1",
@@ -5510,17 +5506,7 @@
       "video_id": "cm_-qXXsihA",
       "error_message": null,
       "created_at": "2026-10-21T06:57:50.917328+00:00"
-    },
-    {
-      "id": 123,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-10-21",
-      "status": "success",
-      "video_id": "re3Apr51YDA",
-      "error_message": null,
-      "created_at": "2026-10-21T01:54:26.113947+00:00"
     }
   ],
-  "last_updated": "2026-10-27T20:38:27.935725+00:00"
+  "last_updated": "2026-10-27T21:13:03.916737+00:00"
 }
