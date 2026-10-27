@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 359,
+    "total_uploads": 360,
     "total_views": 140036,
     "total_likes": 17,
     "total_subscribers": 88,
@@ -100,89 +100,89 @@
       "date": "2026-10-17",
       "ch1_views": 0,
       "ch2_views": 15,
-      "ch3_views": 3,
+      "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 18
+      "total_views": 15
     },
     {
       "date": "2026-10-18",
       "ch1_views": 2,
       "ch2_views": 32,
-      "ch3_views": 14,
+      "ch3_views": 11,
       "ch4_views": 0,
-      "total_views": 48
+      "total_views": 45
     },
     {
       "date": "2026-10-19",
       "ch1_views": 4,
       "ch2_views": 42,
-      "ch3_views": 30,
+      "ch3_views": 27,
       "ch4_views": 0,
-      "total_views": 76
+      "total_views": 73
     },
     {
       "date": "2026-10-20",
       "ch1_views": 14,
       "ch2_views": 56,
-      "ch3_views": 48,
+      "ch3_views": 45,
       "ch4_views": 0,
-      "total_views": 118
+      "total_views": 115
     },
     {
       "date": "2026-10-21",
       "ch1_views": 15,
       "ch2_views": 71,
-      "ch3_views": 58,
+      "ch3_views": 55,
       "ch4_views": 0,
-      "total_views": 144
+      "total_views": 141
     },
     {
       "date": "2026-10-22",
       "ch1_views": 17,
       "ch2_views": 80,
-      "ch3_views": 86,
+      "ch3_views": 83,
       "ch4_views": 0,
-      "total_views": 183
+      "total_views": 180
     },
     {
       "date": "2026-10-23",
       "ch1_views": 17,
       "ch2_views": 99,
-      "ch3_views": 110,
+      "ch3_views": 107,
       "ch4_views": 0,
-      "total_views": 226
+      "total_views": 223
     },
     {
       "date": "2026-10-24",
       "ch1_views": 24,
       "ch2_views": 118,
-      "ch3_views": 125,
+      "ch3_views": 122,
       "ch4_views": 0,
-      "total_views": 267
+      "total_views": 264
     },
     {
       "date": "2026-10-25",
       "ch1_views": 24,
       "ch2_views": 120,
-      "ch3_views": 130,
+      "ch3_views": 127,
       "ch4_views": 0,
-      "total_views": 274
+      "total_views": 271
     },
     {
       "date": "2026-10-26",
       "ch1_views": 26,
       "ch2_views": 133,
-      "ch3_views": 137,
+      "ch3_views": 134,
       "ch4_views": 0,
-      "total_views": 296
+      "total_views": 293
     },
     {
       "date": "2026-10-27",
       "ch1_views": 30,
       "ch2_views": 137,
-      "ch3_views": 142,
+      "ch3_views": 139,
       "ch4_views": 0,
-      "total_views": 309
+      "total_views": 306
     }
   ],
   "channels": {
@@ -1675,7 +1675,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 84,
+      "total_uploads": 85,
       "total_views": 136431,
       "total_likes": 0,
       "upcoming": {
@@ -1706,73 +1706,81 @@
       },
       "view_history": [
         {
-          "date": "2026-10-17",
-          "views": 3,
-          "uploads": 1,
-          "cumulative_views": 3
-        },
-        {
           "date": "2026-10-18",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 14
+          "cumulative_views": 11
         },
         {
           "date": "2026-10-19",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 30
+          "cumulative_views": 27
         },
         {
           "date": "2026-10-20",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 48
+          "cumulative_views": 45
         },
         {
           "date": "2026-10-21",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 58
+          "cumulative_views": 55
         },
         {
           "date": "2026-10-22",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 86
+          "cumulative_views": 83
         },
         {
           "date": "2026-10-23",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 110
+          "cumulative_views": 107
         },
         {
           "date": "2026-10-24",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 125
+          "cumulative_views": 122
         },
         {
           "date": "2026-10-25",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 130
+          "cumulative_views": 127
         },
         {
           "date": "2026-10-26",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 137
+          "cumulative_views": 134
         },
         {
           "date": "2026-10-27",
           "views": 5,
-          "uploads": 2,
-          "cumulative_views": 142
+          "uploads": 3,
+          "cumulative_views": 139
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1a7JzQgsDsq4IzkR5mFOdY0-sDFiEAJym",
+          "youtube_id": "GxotkhHSMRU",
+          "title": "Hands extracting gel from nail \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/GxotkhHSMRU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-27T21:17:54Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2178,20 +2186,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ML3NvNgF5E0/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-18T00:04:31Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1GLsxlVx30IA6S_4vayYTO3E6e0rtEJ9j",
-          "youtube_id": "tcD2rb6qW3o",
-          "title": "Professional performing medical \u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/tcD2rb6qW3o/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-17T19:22:05Z"
         }
       ],
       "runs": [
@@ -2787,6 +2781,16 @@
       ],
       "runs": [
         {
+          "id": 101,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-10-27",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-27T21:27:44.435574+00:00"
+        },
+        {
           "id": 100,
           "channel_id": "channel_4",
           "slot": 3,
@@ -2975,21 +2979,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-21T06:09:44.633759+00:00"
-        },
-        {
-          "id": 81,
-          "channel_id": "channel_4",
-          "slot": 2,
-          "run_date": "2026-10-21",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-21T00:42:58.001551+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1a7JzQgsDsq4IzkR5mFOdY0-sDFiEAJym",
+      "youtube_id": "GxotkhHSMRU",
+      "title": "Hands extracting gel from nail \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/GxotkhHSMRU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-27T21:17:54Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -4181,20 +4189,6 @@
       "uploaded_at": "2026-10-18T00:04:31Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1GLsxlVx30IA6S_4vayYTO3E6e0rtEJ9j",
-      "youtube_id": "tcD2rb6qW3o",
-      "title": "Professional performing medical \u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/tcD2rb6qW3o/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-17T19:22:05Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7697685636383264014",
@@ -5263,7 +5257,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 359,
+    "total_uploads": 360,
     "total_views": 140036,
     "total_likes": 17,
     "videos_per_day": 12
@@ -5496,5 +5490,5 @@
       "created_at": "2026-10-21T06:57:50.917328+00:00"
     }
   ],
-  "last_updated": "2026-10-27T21:17:34.942223+00:00"
+  "last_updated": "2026-10-27T21:27:48.864876+00:00"
 }
