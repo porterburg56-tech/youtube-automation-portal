@@ -1,9 +1,9 @@
 {
   "cumulative": {
-    "total_uploads": 357,
+    "total_uploads": 358,
     "total_views": 140036,
     "total_likes": 17,
-    "total_subscribers": 87,
+    "total_subscribers": 88,
     "channels_count": 4,
     "videos_per_day": 12
   },
@@ -115,82 +115,82 @@
     {
       "date": "2026-10-18",
       "ch1_views": 2,
-      "ch2_views": 34,
+      "ch2_views": 38,
       "ch3_views": 14,
       "ch4_views": 0,
-      "total_views": 50
+      "total_views": 54
     },
     {
       "date": "2026-10-19",
       "ch1_views": 4,
-      "ch2_views": 44,
+      "ch2_views": 48,
       "ch3_views": 30,
       "ch4_views": 0,
-      "total_views": 78
+      "total_views": 82
     },
     {
       "date": "2026-10-20",
       "ch1_views": 14,
-      "ch2_views": 58,
+      "ch2_views": 62,
       "ch3_views": 48,
       "ch4_views": 0,
-      "total_views": 120
+      "total_views": 124
     },
     {
       "date": "2026-10-21",
       "ch1_views": 15,
-      "ch2_views": 73,
+      "ch2_views": 77,
       "ch3_views": 58,
       "ch4_views": 0,
-      "total_views": 146
+      "total_views": 150
     },
     {
       "date": "2026-10-22",
       "ch1_views": 17,
-      "ch2_views": 82,
+      "ch2_views": 86,
       "ch3_views": 86,
       "ch4_views": 0,
-      "total_views": 185
+      "total_views": 189
     },
     {
       "date": "2026-10-23",
       "ch1_views": 17,
-      "ch2_views": 101,
+      "ch2_views": 105,
       "ch3_views": 110,
       "ch4_views": 0,
-      "total_views": 228
+      "total_views": 232
     },
     {
       "date": "2026-10-24",
       "ch1_views": 24,
-      "ch2_views": 120,
+      "ch2_views": 124,
       "ch3_views": 125,
       "ch4_views": 0,
-      "total_views": 269
+      "total_views": 273
     },
     {
       "date": "2026-10-25",
       "ch1_views": 24,
-      "ch2_views": 122,
+      "ch2_views": 126,
       "ch3_views": 130,
       "ch4_views": 0,
-      "total_views": 276
+      "total_views": 280
     },
     {
       "date": "2026-10-26",
-      "ch1_views": 25,
-      "ch2_views": 130,
+      "ch1_views": 26,
+      "ch2_views": 139,
       "ch3_views": 137,
       "ch4_views": 0,
-      "total_views": 292
+      "total_views": 302
     },
     {
       "date": "2026-10-27",
-      "ch1_views": 27,
-      "ch2_views": 130,
-      "ch3_views": 137,
+      "ch1_views": 30,
+      "ch2_views": 143,
+      "ch3_views": 142,
       "ch4_views": 0,
-      "total_views": 294
+      "total_views": 315
     }
   ],
   "channels": {
@@ -242,7 +242,7 @@
         {
           "date": "2026-10-17",
           "views": 0,
-          "uploads": 2,
+          "uploads": 1,
           "cumulative_views": 0
         },
         {
@@ -295,18 +295,32 @@
         },
         {
           "date": "2026-10-26",
-          "views": 1,
+          "views": 2,
           "uploads": 3,
-          "cumulative_views": 25
+          "cumulative_views": 26
         },
         {
           "date": "2026-10-27",
-          "views": 2,
-          "uploads": 1,
-          "cumulative_views": 27
+          "views": 4,
+          "uploads": 2,
+          "cumulative_views": 30
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7667539230976986382",
+          "youtube_id": "eCa-5yqbQ7c",
+          "title": "She Became a Whole Dad in 15 Seconds \ud83d\ude2d",
+          "tiktok_views": 6531,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/eCa-5yqbQ7c/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-27T07:14:39Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -314,7 +328,7 @@
           "youtube_id": "NtZuz8Vb5rI",
           "title": "Mom Couldn\u2019t Hold Back Her Tears When Their Toddler Finally Recognize \ud83d\ude02",
           "tiktok_views": 6638,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/NtZuz8Vb5rI/hqdefault.jpg",
@@ -328,7 +342,7 @@
           "youtube_id": "I2AgncW9XCc",
           "title": "Toddler Doing Dad After Work Is Sending Me \ud83d\ude02",
           "tiktok_views": 4779,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/I2AgncW9XCc/hqdefault.jpg",
@@ -712,20 +726,6 @@
           "thumbnail": "https://i.ytimg.com/vi/oV5Y8FjG6QU/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-17T19:12:28Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7671311367365872909",
-          "youtube_id": "kLfqR9So2Ew",
-          "title": "Dad After Work\u2026 According to My Toddler \ud83d\ude2d",
-          "tiktok_views": 14400,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/kLfqR9So2Ew/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-17T06:31:02Z"
         }
       ],
       "runs": [
@@ -945,8 +945,8 @@
       "avatar": "https://yt3.ggpht.com/BzfrtPYNdc_HaeUp-BzMgQYBKQzMy8kzHQwtG7rtTR2XGjy4qb_K_Q2gI9A4HwplzX5C5ZrCzQ=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
-      "subscribers": 6,
-      "total_uploads": 120,
+      "subscribers": 7,
+      "total_uploads": 121,
       "total_views": 1362,
       "total_likes": 2,
       "upcoming": {
@@ -996,63 +996,63 @@
         },
         {
           "date": "2026-10-18",
-          "views": 13,
+          "views": 17,
           "uploads": 1,
-          "cumulative_views": 34
+          "cumulative_views": 38
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 44
+          "cumulative_views": 48
         },
         {
           "date": "2026-10-20",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 58
+          "cumulative_views": 62
         },
         {
           "date": "2026-10-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 73
+          "cumulative_views": 77
         },
         {
           "date": "2026-10-22",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 82
+          "cumulative_views": 86
         },
         {
           "date": "2026-10-23",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 101
+          "cumulative_views": 105
         },
         {
           "date": "2026-10-24",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 120
+          "cumulative_views": 124
         },
         {
           "date": "2026-10-25",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 122
+          "cumulative_views": 126
         },
         {
           "date": "2026-10-26",
-          "views": 8,
+          "views": 13,
           "uploads": 2,
-          "cumulative_views": 130
+          "cumulative_views": 139
         },
         {
           "date": "2026-10-27",
-          "views": 0,
+          "views": 4,
           "uploads": 2,
-          "cumulative_views": 130
+          "cumulative_views": 143
         }
       ],
       "videos": [
@@ -1063,7 +1063,7 @@
           "youtube_id": "CVWeFv92x2o",
           "title": "Caramel Banana Oreo Roll Cake \ud83c\udf4c\u2728",
           "tiktok_views": 10700,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CVWeFv92x2o/hqdefault.jpg",
@@ -1091,7 +1091,7 @@
           "youtube_id": "2TZ8anAXE5I",
           "title": "No-Bake Oreo Strawberry Banana Dessert Roll \ud83c\udf53\ud83c\udf4c",
           "tiktok_views": 13600,
-          "youtube_views": 5,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2TZ8anAXE5I/hqdefault.jpg",
@@ -1399,7 +1399,7 @@
           "youtube_id": "MSUbBpc4whI",
           "title": "Chocolate-Filled Baked Apples with Caramel & Ice Cream \ud83c\udf4e\ud83c\udf6b",
           "tiktok_views": 6300,
-          "youtube_views": 13,
+          "youtube_views": 17,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MSUbBpc4whI/hqdefault.jpg",
@@ -1478,6 +1478,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 149,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-10-27",
+          "status": "success",
+          "video_id": "zLTAOL7vgh4",
+          "error_message": null,
+          "created_at": "2026-10-27T20:38:23.454939+00:00"
+        },
         {
           "id": 148,
           "channel_id": "channel_2",
@@ -1667,16 +1677,6 @@
           "video_id": "YYS9GsqQmxE",
           "error_message": null,
           "created_at": "2026-10-21T00:41:01.935258+00:00"
-        },
-        {
-          "id": 129,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-10-20",
-          "status": "success",
-          "video_id": "Iza2ltweH_c",
-          "error_message": null,
-          "created_at": "2026-10-20T20:03:15.090028+00:00"
         }
       ]
     },
@@ -1787,9 +1787,9 @@
         },
         {
           "date": "2026-10-27",
-          "views": 0,
+          "views": 5,
           "uploads": 2,
-          "cumulative_views": 137
+          "cumulative_views": 142
         }
       ],
       "videos": [
@@ -1800,7 +1800,7 @@
           "youtube_id": "Gi5hirr4P2Q",
           "title": "Gloved hands treating toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Gi5hirr4P2Q/hqdefault.jpg",
@@ -1814,7 +1814,7 @@
           "youtube_id": "A6oak1RD_oE",
           "title": "Gloved hands cleaning toenail de\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/A6oak1RD_oE/hqdefault.jpg",
@@ -3011,13 +3011,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7667539230976986382",
+      "youtube_id": "eCa-5yqbQ7c",
+      "title": "She Became a Whole Dad in 15 Seconds \ud83d\ude2d",
+      "tiktok_views": 6531,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/eCa-5yqbQ7c/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-27T07:14:39Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7646867314851302670",
       "youtube_id": "CVWeFv92x2o",
       "title": "Caramel Banana Oreo Roll Cake \ud83c\udf4c\u2728",
       "tiktok_views": 10700,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CVWeFv92x2o/hqdefault.jpg",
@@ -3031,7 +3045,7 @@
       "youtube_id": "Gi5hirr4P2Q",
       "title": "Gloved hands treating toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Gi5hirr4P2Q/hqdefault.jpg",
@@ -3045,7 +3059,7 @@
       "youtube_id": "NtZuz8Vb5rI",
       "title": "Mom Couldn\u2019t Hold Back Her Tears When Their Toddler Finally Recognize \ud83d\ude02",
       "tiktok_views": 6638,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/NtZuz8Vb5rI/hqdefault.jpg",
@@ -3059,7 +3073,7 @@
       "youtube_id": "A6oak1RD_oE",
       "title": "Gloved hands cleaning toenail de\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/A6oak1RD_oE/hqdefault.jpg",
@@ -3101,7 +3115,7 @@
       "youtube_id": "I2AgncW9XCc",
       "title": "Toddler Doing Dad After Work Is Sending Me \ud83d\ude02",
       "tiktok_views": 4779,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/I2AgncW9XCc/hqdefault.jpg",
@@ -3115,7 +3129,7 @@
       "youtube_id": "2TZ8anAXE5I",
       "title": "No-Bake Oreo Strawberry Banana Dessert Roll \ud83c\udf53\ud83c\udf4c",
       "tiktok_views": 13600,
-      "youtube_views": 5,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2TZ8anAXE5I/hqdefault.jpg",
@@ -4095,7 +4109,7 @@
       "youtube_id": "MSUbBpc4whI",
       "title": "Chocolate-Filled Baked Apples with Caramel & Ice Cream \ud83c\udf4e\ud83c\udf6b",
       "tiktok_views": 6300,
-      "youtube_views": 13,
+      "youtube_views": 17,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MSUbBpc4whI/hqdefault.jpg",
@@ -4199,20 +4213,6 @@
       "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-17T18:14:34Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7671311367365872909",
-      "youtube_id": "kLfqR9So2Ew",
-      "title": "Dad After Work\u2026 According to My Toddler \ud83d\ude2d",
-      "tiktok_views": 14400,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/kLfqR9So2Ew/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-17T06:31:02Z"
     },
     {
       "channel_id": "channel_2",
@@ -4599,7 +4599,7 @@
       {
         "date": "2026-10-17",
         "views": 0,
-        "uploads": 2,
+        "uploads": 1,
         "cumulative_views": 0
       },
       {
@@ -4652,18 +4652,32 @@
       },
       {
         "date": "2026-10-26",
-        "views": 1,
+        "views": 2,
         "uploads": 3,
-        "cumulative_views": 25
+        "cumulative_views": 26
       },
       {
         "date": "2026-10-27",
-        "views": 2,
-        "uploads": 1,
-        "cumulative_views": 27
+        "views": 4,
+        "uploads": 2,
+        "cumulative_views": 30
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7667539230976986382",
+        "youtube_id": "eCa-5yqbQ7c",
+        "title": "She Became a Whole Dad in 15 Seconds \ud83d\ude2d",
+        "tiktok_views": 6531,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/eCa-5yqbQ7c/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-27T07:14:39Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4671,7 +4685,7 @@
         "youtube_id": "NtZuz8Vb5rI",
         "title": "Mom Couldn\u2019t Hold Back Her Tears When Their Toddler Finally Recognize \ud83d\ude02",
         "tiktok_views": 6638,
-        "youtube_views": 2,
+        "youtube_views": 4,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/NtZuz8Vb5rI/hqdefault.jpg",
@@ -4685,7 +4699,7 @@
         "youtube_id": "I2AgncW9XCc",
         "title": "Toddler Doing Dad After Work Is Sending Me \ud83d\ude02",
         "tiktok_views": 4779,
-        "youtube_views": 1,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/I2AgncW9XCc/hqdefault.jpg",
@@ -5069,20 +5083,6 @@
         "thumbnail": "https://i.ytimg.com/vi/oV5Y8FjG6QU/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-17T19:12:28Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7671311367365872909",
-        "youtube_id": "kLfqR9So2Ew",
-        "title": "Dad After Work\u2026 According to My Toddler \ud83d\ude2d",
-        "tiktok_views": 14400,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/kLfqR9So2Ew/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-17T06:31:02Z"
       }
     ],
     "runs": [
@@ -5289,7 +5289,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 357,
+    "total_uploads": 358,
     "total_views": 140036,
     "total_likes": 17,
     "videos_per_day": 12
@@ -5522,5 +5522,5 @@
       "created_at": "2026-10-21T01:54:26.113947+00:00"
     }
   ],
-  "last_updated": "2026-10-27T07:14:20.974417+00:00"
+  "last_updated": "2026-10-27T20:38:27.935725+00:00"
 }
