@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 356,
-    "total_views": 140016,
+    "total_views": 140036,
     "total_likes": 17,
     "total_subscribers": 87,
     "channels_count": 4,
@@ -91,106 +91,106 @@
     {
       "date": "2026-10-15",
       "ch1_views": 0,
+      "ch2_views": 6,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 6
+    },
+    {
+      "date": "2026-10-16",
+      "ch1_views": 0,
       "ch2_views": 19,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 19
     },
     {
-      "date": "2026-10-16",
-      "ch1_views": 0,
-      "ch2_views": 32,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 32
-    },
-    {
       "date": "2026-10-17",
       "ch1_views": 0,
-      "ch2_views": 34,
+      "ch2_views": 21,
       "ch3_views": 3,
       "ch4_views": 0,
-      "total_views": 37
+      "total_views": 24
     },
     {
       "date": "2026-10-18",
       "ch1_views": 2,
-      "ch2_views": 47,
+      "ch2_views": 34,
       "ch3_views": 14,
       "ch4_views": 0,
-      "total_views": 63
+      "total_views": 50
     },
     {
       "date": "2026-10-19",
       "ch1_views": 4,
-      "ch2_views": 57,
+      "ch2_views": 44,
       "ch3_views": 30,
       "ch4_views": 0,
-      "total_views": 91
+      "total_views": 78
     },
     {
       "date": "2026-10-20",
       "ch1_views": 14,
-      "ch2_views": 71,
+      "ch2_views": 58,
       "ch3_views": 48,
       "ch4_views": 0,
-      "total_views": 133
+      "total_views": 120
     },
     {
       "date": "2026-10-21",
       "ch1_views": 15,
-      "ch2_views": 86,
+      "ch2_views": 73,
       "ch3_views": 58,
       "ch4_views": 0,
-      "total_views": 159
+      "total_views": 146
     },
     {
       "date": "2026-10-22",
       "ch1_views": 17,
-      "ch2_views": 95,
+      "ch2_views": 82,
       "ch3_views": 86,
       "ch4_views": 0,
-      "total_views": 198
+      "total_views": 185
     },
     {
       "date": "2026-10-23",
       "ch1_views": 17,
-      "ch2_views": 114,
+      "ch2_views": 101,
       "ch3_views": 110,
       "ch4_views": 0,
-      "total_views": 241
+      "total_views": 228
     },
     {
       "date": "2026-10-24",
       "ch1_views": 24,
-      "ch2_views": 133,
+      "ch2_views": 120,
       "ch3_views": 125,
       "ch4_views": 0,
-      "total_views": 282
+      "total_views": 269
     },
     {
       "date": "2026-10-25",
       "ch1_views": 24,
-      "ch2_views": 135,
+      "ch2_views": 122,
       "ch3_views": 130,
       "ch4_views": 0,
-      "total_views": 289
+      "total_views": 276
     },
     {
       "date": "2026-10-26",
       "ch1_views": 25,
-      "ch2_views": 143,
+      "ch2_views": 130,
       "ch3_views": 137,
       "ch4_views": 0,
-      "total_views": 305
+      "total_views": 292
     },
     {
       "date": "2026-10-27",
       "ch1_views": 26,
-      "ch2_views": 143,
+      "ch2_views": 130,
       "ch3_views": 137,
       "ch4_views": 0,
-      "total_views": 306
+      "total_views": 293
     }
   ],
   "channels": {
@@ -947,7 +947,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 6,
       "total_uploads": 120,
-      "total_views": 1342,
+      "total_views": 1362,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -978,84 +978,98 @@
       "view_history": [
         {
           "date": "2026-10-15",
-          "views": 19,
-          "uploads": 2,
-          "cumulative_views": 19
+          "views": 6,
+          "uploads": 1,
+          "cumulative_views": 6
         },
         {
           "date": "2026-10-16",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 32
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-17",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 34
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-18",
           "views": 13,
           "uploads": 1,
-          "cumulative_views": 47
+          "cumulative_views": 34
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 57
+          "cumulative_views": 44
         },
         {
           "date": "2026-10-20",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 71
+          "cumulative_views": 58
         },
         {
           "date": "2026-10-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 86
+          "cumulative_views": 73
         },
         {
           "date": "2026-10-22",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 95
+          "cumulative_views": 82
         },
         {
           "date": "2026-10-23",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 114
+          "cumulative_views": 101
         },
         {
           "date": "2026-10-24",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 133
+          "cumulative_views": 120
         },
         {
           "date": "2026-10-25",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 135
+          "cumulative_views": 122
         },
         {
           "date": "2026-10-26",
           "views": 8,
           "uploads": 2,
-          "cumulative_views": 143
+          "cumulative_views": 130
         },
         {
           "date": "2026-10-27",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 143
+          "uploads": 2,
+          "cumulative_views": 130
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7646867314851302670",
+          "youtube_id": "CVWeFv92x2o",
+          "title": "Caramel Banana Oreo Roll Cake \ud83c\udf4c\u2728",
+          "tiktok_views": 10700,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/CVWeFv92x2o/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-27T06:18:04Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1461,20 +1475,6 @@
           "thumbnail": "https://i.ytimg.com/vi/jzpE865wP6E/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-15T19:51:48Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7666143901224307982",
-          "youtube_id": "jLH_dVJ-0pI",
-          "title": "No-Bake Chocolate Banana Roll That Melts in Your Mouth \ud83c\udf4c\ud83c\udf6b",
-          "tiktok_views": 22300,
-          "youtube_views": 13,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/jLH_dVJ-0pI/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-15T05:44:12Z"
         }
       ],
       "runs": [
@@ -2807,6 +2807,16 @@
       ],
       "runs": [
         {
+          "id": 100,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-10-27",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-27T06:28:43.185544+00:00"
+        },
+        {
           "id": 99,
           "channel_id": "channel_4",
           "slot": 2,
@@ -2995,21 +3005,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-21T00:42:58.001551+00:00"
-        },
-        {
-          "id": 80,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-10-20",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-20T20:48:00.516524+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7646867314851302670",
+      "youtube_id": "CVWeFv92x2o",
+      "title": "Caramel Banana Oreo Roll Cake \ud83c\udf4c\u2728",
+      "tiktok_views": 10700,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/CVWeFv92x2o/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-27T06:18:04Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -4257,20 +4271,6 @@
       "uploaded_at": "2026-10-15T19:51:48Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7666143901224307982",
-      "youtube_id": "jLH_dVJ-0pI",
-      "title": "No-Bake Chocolate Banana Roll That Melts in Your Mouth \ud83c\udf4c\ud83c\udf6b",
-      "tiktok_views": 22300,
-      "youtube_views": 13,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/jLH_dVJ-0pI/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-15T05:44:12Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -5290,7 +5290,7 @@
   },
   "kpis": {
     "total_uploads": 356,
-    "total_views": 140016,
+    "total_views": 140036,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5522,5 +5522,5 @@
       "created_at": "2026-10-20T20:25:55.780928+00:00"
     }
   ],
-  "last_updated": "2026-10-27T06:17:11.718196+00:00"
+  "last_updated": "2026-10-27T06:28:47.323179+00:00"
 }
