@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 361,
+    "total_uploads": 363,
     "total_views": 140037,
     "total_likes": 17,
     "total_subscribers": 88,
@@ -99,98 +99,98 @@
     {
       "date": "2026-10-17",
       "ch1_views": 0,
-      "ch2_views": 14,
+      "ch2_views": 15,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 14
+      "total_views": 15
     },
     {
       "date": "2026-10-18",
       "ch1_views": 2,
-      "ch2_views": 31,
+      "ch2_views": 32,
       "ch3_views": 7,
       "ch4_views": 0,
-      "total_views": 40
+      "total_views": 41
     },
     {
       "date": "2026-10-19",
       "ch1_views": 4,
-      "ch2_views": 41,
+      "ch2_views": 42,
       "ch3_views": 23,
       "ch4_views": 0,
-      "total_views": 68
+      "total_views": 69
     },
     {
       "date": "2026-10-20",
       "ch1_views": 14,
-      "ch2_views": 55,
+      "ch2_views": 56,
       "ch3_views": 41,
       "ch4_views": 0,
-      "total_views": 110
+      "total_views": 111
     },
     {
       "date": "2026-10-21",
       "ch1_views": 15,
-      "ch2_views": 70,
+      "ch2_views": 71,
       "ch3_views": 51,
       "ch4_views": 0,
-      "total_views": 136
+      "total_views": 137
     },
     {
       "date": "2026-10-22",
       "ch1_views": 17,
-      "ch2_views": 79,
+      "ch2_views": 80,
       "ch3_views": 79,
       "ch4_views": 0,
-      "total_views": 175
+      "total_views": 176
     },
     {
       "date": "2026-10-23",
       "ch1_views": 17,
-      "ch2_views": 98,
+      "ch2_views": 99,
       "ch3_views": 103,
       "ch4_views": 0,
-      "total_views": 218
+      "total_views": 219
     },
     {
       "date": "2026-10-24",
       "ch1_views": 24,
-      "ch2_views": 117,
+      "ch2_views": 118,
       "ch3_views": 118,
       "ch4_views": 0,
-      "total_views": 259
+      "total_views": 260
     },
     {
       "date": "2026-10-25",
       "ch1_views": 24,
-      "ch2_views": 119,
+      "ch2_views": 120,
       "ch3_views": 123,
       "ch4_views": 0,
-      "total_views": 266
+      "total_views": 267
     },
     {
       "date": "2026-10-26",
       "ch1_views": 26,
-      "ch2_views": 132,
+      "ch2_views": 133,
       "ch3_views": 130,
       "ch4_views": 0,
-      "total_views": 288
+      "total_views": 289
     },
     {
       "date": "2026-10-27",
       "ch1_views": 30,
-      "ch2_views": 137,
+      "ch2_views": 140,
       "ch3_views": 136,
       "ch4_views": 0,
-      "total_views": 303
+      "total_views": 306
     },
     {
       "date": "2026-10-28",
       "ch1_views": 0,
-      "ch2_views": 137,
+      "ch2_views": 140,
       "ch3_views": 136,
       "ch4_views": 0,
-      "total_views": 273
+      "total_views": 276
     }
   ],
   "channels": {
@@ -209,7 +209,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 134,
+      "total_uploads": 135,
       "total_views": 676,
       "total_likes": 0,
       "upcoming": {
@@ -724,6 +724,16 @@
       ],
       "runs": [
         {
+          "id": 144,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-10-28",
+          "status": "success",
+          "video_id": "0dqhXEmNWSg",
+          "error_message": null,
+          "created_at": "2026-10-28T02:32:12.047669+00:00"
+        },
+        {
           "id": 143,
           "channel_id": "channel_1",
           "slot": 1,
@@ -912,16 +922,6 @@
           "video_id": "qNiLZXw8-44",
           "error_message": null,
           "created_at": "2026-10-21T20:31:36.129328+00:00"
-        },
-        {
-          "id": 124,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-10-21",
-          "status": "success",
-          "video_id": "cm_-qXXsihA",
-          "error_message": null,
-          "created_at": "2026-10-21T06:57:50.917328+00:00"
         }
       ]
     },
@@ -978,75 +978,75 @@
         },
         {
           "date": "2026-10-17",
-          "views": 2,
+          "views": 3,
           "uploads": 1,
-          "cumulative_views": 14
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-18",
           "views": 17,
           "uploads": 1,
-          "cumulative_views": 31
+          "cumulative_views": 32
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 41
+          "cumulative_views": 42
         },
         {
           "date": "2026-10-20",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 55
+          "cumulative_views": 56
         },
         {
           "date": "2026-10-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 70
+          "cumulative_views": 71
         },
         {
           "date": "2026-10-22",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 79
+          "cumulative_views": 80
         },
         {
           "date": "2026-10-23",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 98
+          "cumulative_views": 99
         },
         {
           "date": "2026-10-24",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 117
+          "cumulative_views": 118
         },
         {
           "date": "2026-10-25",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 119
+          "cumulative_views": 120
         },
         {
           "date": "2026-10-26",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 132
+          "cumulative_views": 133
         },
         {
           "date": "2026-10-27",
-          "views": 5,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 137
+          "cumulative_views": 140
         },
         {
           "date": "2026-10-28",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 137
+          "cumulative_views": 140
         }
       ],
       "videos": [
@@ -1085,7 +1085,7 @@
           "youtube_id": "CVWeFv92x2o",
           "title": "Caramel Banana Oreo Roll Cake \ud83c\udf4c\u2728",
           "tiktok_views": 10700,
-          "youtube_views": 5,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CVWeFv92x2o/hqdefault.jpg",
@@ -1435,7 +1435,7 @@
           "youtube_id": "U127bm3H1rs",
           "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
           "tiktok_views": 2043,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -1689,7 +1689,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 85,
+      "total_uploads": 86,
       "total_views": 136432,
       "total_likes": 0,
       "upcoming": {
@@ -3095,7 +3095,7 @@
       "youtube_id": "CVWeFv92x2o",
       "title": "Caramel Banana Oreo Roll Cake \ud83c\udf4c\u2728",
       "tiktok_views": 10700,
-      "youtube_views": 5,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CVWeFv92x2o/hqdefault.jpg",
@@ -4229,7 +4229,7 @@
       "youtube_id": "U127bm3H1rs",
       "title": "Oreo Blueberry Caramel Dessert Roll \ud83c\udf6b\ud83c\udf4c",
       "tiktok_views": 2043,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/U127bm3H1rs/hqdefault.jpg",
@@ -4560,7 +4560,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 134,
+    "total_uploads": 135,
     "total_views": 676,
     "total_likes": 0,
     "upcoming": {
@@ -5075,6 +5075,16 @@
     ],
     "runs": [
       {
+        "id": 144,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-10-28",
+        "status": "success",
+        "video_id": "0dqhXEmNWSg",
+        "error_message": null,
+        "created_at": "2026-10-28T02:32:12.047669+00:00"
+      },
+      {
         "id": 143,
         "channel_id": "channel_1",
         "slot": 1,
@@ -5263,21 +5273,11 @@
         "video_id": "qNiLZXw8-44",
         "error_message": null,
         "created_at": "2026-10-21T20:31:36.129328+00:00"
-      },
-      {
-        "id": 124,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-10-21",
-        "status": "success",
-        "video_id": "cm_-qXXsihA",
-        "error_message": null,
-        "created_at": "2026-10-21T06:57:50.917328+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 361,
+    "total_uploads": 363,
     "total_views": 140037,
     "total_likes": 17,
     "videos_per_day": 12
@@ -5309,6 +5309,16 @@
     }
   },
   "runs": [
+    {
+      "id": 144,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-10-28",
+      "status": "success",
+      "video_id": "0dqhXEmNWSg",
+      "error_message": null,
+      "created_at": "2026-10-28T02:32:12.047669+00:00"
+    },
     {
       "id": 143,
       "channel_id": "channel_1",
@@ -5498,17 +5508,7 @@
       "video_id": "qNiLZXw8-44",
       "error_message": null,
       "created_at": "2026-10-21T20:31:36.129328+00:00"
-    },
-    {
-      "id": 124,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-10-21",
-      "status": "success",
-      "video_id": "cm_-qXXsihA",
-      "error_message": null,
-      "created_at": "2026-10-21T06:57:50.917328+00:00"
     }
   ],
-  "last_updated": "2026-10-28T01:29:50.529507+00:00"
+  "last_updated": "2026-10-28T02:32:18.836113+00:00"
 }
