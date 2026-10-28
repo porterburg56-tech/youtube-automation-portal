@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 365,
-    "total_views": 140076,
+    "total_views": 140083,
     "total_likes": 17,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -91,106 +91,106 @@
     {
       "date": "2026-10-16",
       "ch1_views": 0,
-      "ch2_views": 12,
+      "ch2_views": 6,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 12
+      "total_views": 6
     },
     {
       "date": "2026-10-17",
       "ch1_views": 0,
-      "ch2_views": 15,
+      "ch2_views": 9,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 15
+      "total_views": 9
     },
     {
       "date": "2026-10-18",
       "ch1_views": 2,
-      "ch2_views": 32,
+      "ch2_views": 26,
       "ch3_views": 1,
       "ch4_views": 0,
-      "total_views": 35
+      "total_views": 29
     },
     {
       "date": "2026-10-19",
       "ch1_views": 4,
-      "ch2_views": 42,
+      "ch2_views": 36,
       "ch3_views": 17,
       "ch4_views": 0,
-      "total_views": 63
+      "total_views": 57
     },
     {
       "date": "2026-10-20",
       "ch1_views": 14,
-      "ch2_views": 56,
+      "ch2_views": 50,
       "ch3_views": 35,
       "ch4_views": 0,
-      "total_views": 105
+      "total_views": 99
     },
     {
       "date": "2026-10-21",
       "ch1_views": 15,
-      "ch2_views": 71,
+      "ch2_views": 65,
       "ch3_views": 45,
       "ch4_views": 0,
-      "total_views": 131
+      "total_views": 125
     },
     {
       "date": "2026-10-22",
       "ch1_views": 17,
-      "ch2_views": 80,
+      "ch2_views": 74,
       "ch3_views": 73,
       "ch4_views": 0,
-      "total_views": 170
+      "total_views": 164
     },
     {
       "date": "2026-10-23",
       "ch1_views": 17,
-      "ch2_views": 99,
+      "ch2_views": 93,
       "ch3_views": 97,
       "ch4_views": 0,
-      "total_views": 213
+      "total_views": 207
     },
     {
       "date": "2026-10-24",
       "ch1_views": 24,
-      "ch2_views": 118,
+      "ch2_views": 112,
       "ch3_views": 112,
       "ch4_views": 0,
-      "total_views": 254
+      "total_views": 248
     },
     {
       "date": "2026-10-25",
       "ch1_views": 24,
-      "ch2_views": 120,
+      "ch2_views": 114,
       "ch3_views": 117,
       "ch4_views": 0,
-      "total_views": 261
+      "total_views": 255
     },
     {
       "date": "2026-10-26",
       "ch1_views": 26,
-      "ch2_views": 133,
+      "ch2_views": 127,
       "ch3_views": 124,
       "ch4_views": 0,
-      "total_views": 283
+      "total_views": 277
     },
     {
       "date": "2026-10-27",
       "ch1_views": 30,
-      "ch2_views": 140,
+      "ch2_views": 134,
       "ch3_views": 134,
       "ch4_views": 0,
-      "total_views": 304
+      "total_views": 298
     },
     {
       "date": "2026-10-28",
       "ch1_views": 30,
-      "ch2_views": 140,
+      "ch2_views": 134,
       "ch3_views": 134,
       "ch4_views": 0,
-      "total_views": 304
+      "total_views": 298
     }
   ],
   "channels": {
@@ -210,7 +210,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 135,
-      "total_views": 676,
+      "total_views": 683,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -978,84 +978,98 @@
       "view_history": [
         {
           "date": "2026-10-16",
-          "views": 12,
-          "uploads": 2,
-          "cumulative_views": 12
+          "views": 6,
+          "uploads": 1,
+          "cumulative_views": 6
         },
         {
           "date": "2026-10-17",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 15
+          "cumulative_views": 9
         },
         {
           "date": "2026-10-18",
           "views": 17,
           "uploads": 1,
-          "cumulative_views": 32
+          "cumulative_views": 26
         },
         {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 42
+          "cumulative_views": 36
         },
         {
           "date": "2026-10-20",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 56
+          "cumulative_views": 50
         },
         {
           "date": "2026-10-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 71
+          "cumulative_views": 65
         },
         {
           "date": "2026-10-22",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 80
+          "cumulative_views": 74
         },
         {
           "date": "2026-10-23",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 99
+          "cumulative_views": 93
         },
         {
           "date": "2026-10-24",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 118
+          "cumulative_views": 112
         },
         {
           "date": "2026-10-25",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 120
+          "cumulative_views": 114
         },
         {
           "date": "2026-10-26",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 133
+          "cumulative_views": 127
         },
         {
           "date": "2026-10-27",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 140
+          "cumulative_views": 134
         },
         {
           "date": "2026-10-28",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 140
+          "uploads": 2,
+          "cumulative_views": 134
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7668763444560055565",
+          "youtube_id": "nUlvHOdp9-U",
+          "title": "No Bake chocolate Caramel cake that's Melt in Your Mouth \u2728",
+          "tiktok_views": 9929,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/nUlvHOdp9-U/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-28T06:55:39Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1461,20 +1475,6 @@
           "thumbnail": "https://i.ytimg.com/vi/uj8JC01qM2A/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-16T19:23:10Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7657619394935213326",
-          "youtube_id": "SQjPyQBOw9o",
-          "title": "Taste & Tales \u2728",
-          "tiktok_views": 20400,
-          "youtube_views": 6,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/SQjPyQBOw9o/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-16T05:35:51Z"
         }
       ],
       "runs": [
@@ -2807,6 +2807,16 @@
       ],
       "runs": [
         {
+          "id": 103,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-10-28",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-28T06:57:37.633799+00:00"
+        },
+        {
           "id": 102,
           "channel_id": "channel_4",
           "slot": 2,
@@ -2995,21 +3005,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-22T00:46:39.489982+00:00"
-        },
-        {
-          "id": 83,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-10-21",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-21T20:49:46.421183+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7668763444560055565",
+      "youtube_id": "nUlvHOdp9-U",
+      "title": "No Bake chocolate Caramel cake that's Melt in Your Mouth \u2728",
+      "tiktok_views": 9929,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/nUlvHOdp9-U/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-28T06:55:39Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -4257,20 +4271,6 @@
       "uploaded_at": "2026-10-16T19:23:10Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7657619394935213326",
-      "youtube_id": "SQjPyQBOw9o",
-      "title": "Taste & Tales \u2728",
-      "tiktok_views": 20400,
-      "youtube_views": 6,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/SQjPyQBOw9o/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-16T05:35:51Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -4567,7 +4567,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 135,
-    "total_views": 676,
+    "total_views": 683,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5290,7 +5290,7 @@
   },
   "kpis": {
     "total_uploads": 365,
-    "total_views": 140076,
+    "total_views": 140083,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5522,5 +5522,5 @@
       "created_at": "2026-10-21T20:31:36.129328+00:00"
     }
   ],
-  "last_updated": "2026-10-28T06:54:58.942454+00:00"
+  "last_updated": "2026-10-28T06:57:41.907053+00:00"
 }
