@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 363,
-    "total_views": 140037,
+    "total_views": 140076,
     "total_likes": 17,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -180,17 +180,17 @@
       "date": "2026-10-27",
       "ch1_views": 30,
       "ch2_views": 140,
-      "ch3_views": 136,
+      "ch3_views": 140,
       "ch4_views": 0,
-      "total_views": 306
+      "total_views": 310
     },
     {
       "date": "2026-10-28",
-      "ch1_views": 0,
+      "ch1_views": 30,
       "ch2_views": 140,
-      "ch3_views": 136,
+      "ch3_views": 140,
       "ch4_views": 0,
-      "total_views": 276
+      "total_views": 310
     }
   ],
   "channels": {
@@ -242,7 +242,7 @@
         {
           "date": "2026-10-18",
           "views": 2,
-          "uploads": 3,
+          "uploads": 2,
           "cumulative_views": 2
         },
         {
@@ -298,9 +298,29 @@
           "views": 4,
           "uploads": 3,
           "cumulative_views": 30
+        },
+        {
+          "date": "2026-10-28",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 30
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7667580595429543181",
+          "youtube_id": "0dqhXEmNWSg",
+          "title": "The Ending Had the Whole Family Laughing! \ud83d\ude02",
+          "tiktok_views": 5589,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/0dqhXEmNWSg/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-28T02:32:38Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -706,20 +726,6 @@
           "thumbnail": "https://i.ytimg.com/vi/HkddvK6vXGs/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-18T06:56:06Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7667222414182419726",
-          "youtube_id": "bJ-DcOXU-lw",
-          "title": "The Way She Dropped the Work Bag \ud83d\ude2d\ud83d\ude02",
-          "tiktok_views": 13600,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/bJ-DcOXU-lw/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-18T01:24:53Z"
         }
       ],
       "runs": [
@@ -941,7 +947,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
       "total_uploads": 122,
-      "total_views": 1362,
+      "total_views": 1396,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -1690,7 +1696,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 86,
-      "total_views": 136432,
+      "total_views": 136437,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1775,15 +1781,15 @@
         },
         {
           "date": "2026-10-27",
-          "views": 6,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 136
+          "cumulative_views": 140
         },
         {
           "date": "2026-10-28",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 136
+          "cumulative_views": 140
         }
       ],
       "videos": [
@@ -1822,7 +1828,7 @@
           "youtube_id": "Gi5hirr4P2Q",
           "title": "Gloved hands treating toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Gi5hirr4P2Q/hqdefault.jpg",
@@ -1836,7 +1842,7 @@
           "youtube_id": "A6oak1RD_oE",
           "title": "Gloved hands cleaning toenail de\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/A6oak1RD_oE/hqdefault.jpg",
@@ -2210,6 +2216,16 @@
       ],
       "runs": [
         {
+          "id": 110,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-28",
+          "status": "success",
+          "video_id": "ySTHlZPy5R0",
+          "error_message": null,
+          "created_at": "2026-10-28T06:50:48.791429+00:00"
+        },
+        {
           "id": 109,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2398,16 +2414,6 @@
           "video_id": "KfFwDrs8VNs",
           "error_message": null,
           "created_at": "2026-10-22T00:42:28.384815+00:00"
-        },
-        {
-          "id": 90,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-21",
-          "status": "success",
-          "video_id": "ZBB38thwV8M",
-          "error_message": null,
-          "created_at": "2026-10-21T20:37:02.220828+00:00"
         }
       ]
     },
@@ -3005,6 +3011,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7667580595429543181",
+      "youtube_id": "0dqhXEmNWSg",
+      "title": "The Ending Had the Whole Family Laughing! \ud83d\ude02",
+      "tiktok_views": 5589,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/0dqhXEmNWSg/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-28T02:32:38Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1aqSyhs9gn-AxosN5CqIDgidc51QlITlA",
@@ -3109,7 +3129,7 @@
       "youtube_id": "Gi5hirr4P2Q",
       "title": "Gloved hands treating toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Gi5hirr4P2Q/hqdefault.jpg",
@@ -3137,7 +3157,7 @@
       "youtube_id": "A6oak1RD_oE",
       "title": "Gloved hands cleaning toenail de\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/A6oak1RD_oE/hqdefault.jpg",
@@ -4209,20 +4229,6 @@
       "uploaded_at": "2026-10-18T05:52:55Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7667222414182419726",
-      "youtube_id": "bJ-DcOXU-lw",
-      "title": "The Way She Dropped the Work Bag \ud83d\ude2d\ud83d\ude02",
-      "tiktok_views": 13600,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/bJ-DcOXU-lw/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-18T01:24:53Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7697685636383264014",
@@ -4593,7 +4599,7 @@
       {
         "date": "2026-10-18",
         "views": 2,
-        "uploads": 3,
+        "uploads": 2,
         "cumulative_views": 2
       },
       {
@@ -4649,9 +4655,29 @@
         "views": 4,
         "uploads": 3,
         "cumulative_views": 30
+      },
+      {
+        "date": "2026-10-28",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 30
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7667580595429543181",
+        "youtube_id": "0dqhXEmNWSg",
+        "title": "The Ending Had the Whole Family Laughing! \ud83d\ude02",
+        "tiktok_views": 5589,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/0dqhXEmNWSg/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-28T02:32:38Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5057,20 +5083,6 @@
         "thumbnail": "https://i.ytimg.com/vi/HkddvK6vXGs/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-18T06:56:06Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7667222414182419726",
-        "youtube_id": "bJ-DcOXU-lw",
-        "title": "The Way She Dropped the Work Bag \ud83d\ude2d\ud83d\ude02",
-        "tiktok_views": 13600,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/bJ-DcOXU-lw/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-18T01:24:53Z"
       }
     ],
     "runs": [
@@ -5278,7 +5290,7 @@
   },
   "kpis": {
     "total_uploads": 363,
-    "total_views": 140037,
+    "total_views": 140076,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5510,5 +5522,5 @@
       "created_at": "2026-10-21T20:31:36.129328+00:00"
     }
   ],
-  "last_updated": "2026-10-28T02:32:18.836113+00:00"
+  "last_updated": "2026-10-28T06:50:53.483872+00:00"
 }
