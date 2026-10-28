@@ -2,83 +2,91 @@
   "cumulative": {
     "total_uploads": 361,
     "total_views": 140037,
-    "total_likes": 14,
+    "total_likes": 17,
     "total_subscribers": 88,
     "channels_count": 4,
     "videos_per_day": 12
   },
   "master_view_history": [
     {
+      "date": "2026-09-19",
+      "ch1_views": 0,
+      "ch2_views": 0,
+      "ch3_views": 0,
+      "ch4_views": 67,
+      "total_views": 67
+    },
+    {
       "date": "2026-09-20",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 163,
-      "total_views": 163
+      "ch4_views": 230,
+      "total_views": 230
     },
     {
       "date": "2026-09-28",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 490,
-      "total_views": 490
+      "ch4_views": 557,
+      "total_views": 557
     },
     {
       "date": "2026-09-29",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 569,
-      "total_views": 569
+      "ch4_views": 636,
+      "total_views": 636
     },
     {
       "date": "2026-09-30",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 775,
-      "total_views": 775
+      "ch4_views": 842,
+      "total_views": 842
     },
     {
       "date": "2026-10-01",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 989,
-      "total_views": 989
+      "ch4_views": 1056,
+      "total_views": 1056
     },
     {
       "date": "2026-10-08",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 1035,
-      "total_views": 1035
+      "ch4_views": 1102,
+      "total_views": 1102
     },
     {
       "date": "2026-10-09",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 1266,
-      "total_views": 1266
+      "ch4_views": 1333,
+      "total_views": 1333
     },
     {
       "date": "2026-10-10",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 1438,
-      "total_views": 1438
+      "ch4_views": 1505,
+      "total_views": 1505
     },
     {
       "date": "2026-10-11",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 1500,
-      "total_views": 1500
+      "ch4_views": 1567,
+      "total_views": 1567
     },
     {
       "date": "2026-10-16",
@@ -100,89 +108,89 @@
       "date": "2026-10-18",
       "ch1_views": 2,
       "ch2_views": 31,
-      "ch3_views": 11,
+      "ch3_views": 7,
       "ch4_views": 0,
-      "total_views": 44
+      "total_views": 40
     },
     {
       "date": "2026-10-19",
       "ch1_views": 4,
       "ch2_views": 41,
-      "ch3_views": 27,
+      "ch3_views": 23,
       "ch4_views": 0,
-      "total_views": 72
+      "total_views": 68
     },
     {
       "date": "2026-10-20",
       "ch1_views": 14,
       "ch2_views": 55,
-      "ch3_views": 45,
+      "ch3_views": 41,
       "ch4_views": 0,
-      "total_views": 114
+      "total_views": 110
     },
     {
       "date": "2026-10-21",
       "ch1_views": 15,
       "ch2_views": 70,
-      "ch3_views": 55,
+      "ch3_views": 51,
       "ch4_views": 0,
-      "total_views": 140
+      "total_views": 136
     },
     {
       "date": "2026-10-22",
       "ch1_views": 17,
       "ch2_views": 79,
-      "ch3_views": 83,
+      "ch3_views": 79,
       "ch4_views": 0,
-      "total_views": 179
+      "total_views": 175
     },
     {
       "date": "2026-10-23",
       "ch1_views": 17,
       "ch2_views": 98,
-      "ch3_views": 107,
+      "ch3_views": 103,
       "ch4_views": 0,
-      "total_views": 222
+      "total_views": 218
     },
     {
       "date": "2026-10-24",
       "ch1_views": 24,
       "ch2_views": 117,
-      "ch3_views": 122,
+      "ch3_views": 118,
       "ch4_views": 0,
-      "total_views": 263
+      "total_views": 259
     },
     {
       "date": "2026-10-25",
       "ch1_views": 24,
       "ch2_views": 119,
-      "ch3_views": 127,
+      "ch3_views": 123,
       "ch4_views": 0,
-      "total_views": 270
+      "total_views": 266
     },
     {
       "date": "2026-10-26",
       "ch1_views": 26,
       "ch2_views": 132,
-      "ch3_views": 134,
+      "ch3_views": 130,
       "ch4_views": 0,
-      "total_views": 292
+      "total_views": 288
     },
     {
       "date": "2026-10-27",
       "ch1_views": 30,
       "ch2_views": 137,
-      "ch3_views": 140,
+      "ch3_views": 136,
       "ch4_views": 0,
-      "total_views": 307
+      "total_views": 303
     },
     {
       "date": "2026-10-28",
       "ch1_views": 0,
       "ch2_views": 137,
-      "ch3_views": 0,
+      "ch3_views": 136,
       "ch4_views": 0,
-      "total_views": 137
+      "total_views": 273
     }
   ],
   "channels": {
@@ -1713,66 +1721,86 @@
       "view_history": [
         {
           "date": "2026-10-18",
-          "views": 11,
-          "uploads": 3,
-          "cumulative_views": 11
+          "views": 7,
+          "uploads": 2,
+          "cumulative_views": 7
         },
         {
           "date": "2026-10-19",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 27
+          "cumulative_views": 23
         },
         {
           "date": "2026-10-20",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 45
+          "cumulative_views": 41
         },
         {
           "date": "2026-10-21",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 55
+          "cumulative_views": 51
         },
         {
           "date": "2026-10-22",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 83
+          "cumulative_views": 79
         },
         {
           "date": "2026-10-23",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 107
+          "cumulative_views": 103
         },
         {
           "date": "2026-10-24",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 122
+          "cumulative_views": 118
         },
         {
           "date": "2026-10-25",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 127
+          "cumulative_views": 123
         },
         {
           "date": "2026-10-26",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 134
+          "cumulative_views": 130
         },
         {
           "date": "2026-10-27",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 140
+          "cumulative_views": 136
+        },
+        {
+          "date": "2026-10-28",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 136
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1aqSyhs9gn-AxosN5CqIDgidc51QlITlA",
+          "youtube_id": "VH02Fabt7qI",
+          "title": "Hands extracting gel from nail \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/VH02Fabt7qI/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-28T01:23:26Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2178,20 +2206,6 @@
           "thumbnail": "https://i.ytimg.com/vi/qwNhsqMH6k4/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-18T05:52:55Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1eo7PRfUwIOn8vPUBY5eTRyQcwaR3crWz",
-          "youtube_id": "ML3NvNgF5E0",
-          "title": "Professional performing medical \u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 4,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/ML3NvNgF5E0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-18T00:04:31Z"
         }
       ],
       "runs": [
@@ -2414,7 +2428,7 @@
       "subscribers": 5,
       "total_uploads": 20,
       "total_views": 1567,
-      "total_likes": 12,
+      "total_likes": 15,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -2443,58 +2457,64 @@
       },
       "view_history": [
         {
+          "date": "2026-09-19",
+          "views": 67,
+          "uploads": 1,
+          "cumulative_views": 67
+        },
+        {
           "date": "2026-09-20",
           "views": 163,
           "uploads": 1,
-          "cumulative_views": 163
+          "cumulative_views": 230
         },
         {
           "date": "2026-09-28",
           "views": 327,
           "uploads": 2,
-          "cumulative_views": 490
+          "cumulative_views": 557
         },
         {
           "date": "2026-09-29",
           "views": 79,
           "uploads": 3,
-          "cumulative_views": 569
+          "cumulative_views": 636
         },
         {
           "date": "2026-09-30",
           "views": 206,
           "uploads": 3,
-          "cumulative_views": 775
+          "cumulative_views": 842
         },
         {
           "date": "2026-10-01",
           "views": 214,
           "uploads": 1,
-          "cumulative_views": 989
+          "cumulative_views": 1056
         },
         {
           "date": "2026-10-08",
           "views": 46,
           "uploads": 2,
-          "cumulative_views": 1035
+          "cumulative_views": 1102
         },
         {
           "date": "2026-10-09",
           "views": 231,
           "uploads": 3,
-          "cumulative_views": 1266
+          "cumulative_views": 1333
         },
         {
           "date": "2026-10-10",
           "views": 172,
           "uploads": 3,
-          "cumulative_views": 1438
+          "cumulative_views": 1505
         },
         {
           "date": "2026-10-11",
           "views": 62,
           "uploads": 1,
-          "cumulative_views": 1500
+          "cumulative_views": 1567
         }
       ],
       "videos": [
@@ -2763,9 +2783,33 @@
           "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-09-20T10:23:34Z"
+        },
+        {
+          "channel_id": "channel_4",
+          "channel_name": "Remote Jobs WFH",
+          "tiktok_id": "oK9BYnEj4Ew",
+          "youtube_id": "oK9BYnEj4Ew",
+          "title": "Work From Anywhere $22/HR",
+          "tiktok_views": 0,
+          "youtube_views": 67,
+          "youtube_likes": 3,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/oK9BYnEj4Ew/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-09-19T12:57:40Z"
         }
       ],
       "runs": [
+        {
+          "id": 102,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-10-28",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-28T01:29:45.635017+00:00"
+        },
         {
           "id": 101,
           "channel_id": "channel_4",
@@ -2955,21 +2999,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-21T20:49:46.421183+00:00"
-        },
-        {
-          "id": 82,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-21",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-21T06:09:44.633759+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1aqSyhs9gn-AxosN5CqIDgidc51QlITlA",
+      "youtube_id": "VH02Fabt7qI",
+      "title": "Hands extracting gel from nail \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/VH02Fabt7qI/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-28T01:23:26Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4175,20 +4223,6 @@
       "uploaded_at": "2026-10-18T01:24:53Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1eo7PRfUwIOn8vPUBY5eTRyQcwaR3crWz",
-      "youtube_id": "ML3NvNgF5E0",
-      "title": "Professional performing medical \u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 4,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/ML3NvNgF5E0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-18T00:04:31Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7697685636383264014",
@@ -4495,6 +4529,20 @@
       "thumbnail": "https://i.ytimg.com/vi/SOoUHtAQ7rg/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-09-20T10:23:34Z"
+    },
+    {
+      "channel_id": "channel_4",
+      "channel_name": "Remote Jobs WFH",
+      "tiktok_id": "oK9BYnEj4Ew",
+      "youtube_id": "oK9BYnEj4Ew",
+      "title": "Work From Anywhere $22/HR",
+      "tiktok_views": 0,
+      "youtube_views": 67,
+      "youtube_likes": 3,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/oK9BYnEj4Ew/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-09-19T12:57:40Z"
     }
   ],
   "channel": {
@@ -5231,7 +5279,7 @@
   "kpis": {
     "total_uploads": 361,
     "total_views": 140037,
-    "total_likes": 14,
+    "total_likes": 17,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5462,5 +5510,5 @@
       "created_at": "2026-10-21T06:57:50.917328+00:00"
     }
   ],
-  "last_updated": "2026-10-28T01:23:20.281716+00:00"
+  "last_updated": "2026-10-28T01:29:50.529507+00:00"
 }
