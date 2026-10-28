@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 366,
-    "total_views": 140083,
+    "total_uploads": 367,
+    "total_views": 140089,
     "total_likes": 17,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -45,48 +45,48 @@
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 842,
-      "total_views": 842
+      "ch4_views": 843,
+      "total_views": 843
     },
     {
       "date": "2026-10-01",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 1056,
-      "total_views": 1056
+      "ch4_views": 1057,
+      "total_views": 1057
     },
     {
       "date": "2026-10-08",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 1102,
-      "total_views": 1102
+      "ch4_views": 1103,
+      "total_views": 1103
     },
     {
       "date": "2026-10-09",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 1333,
-      "total_views": 1333
+      "ch4_views": 1334,
+      "total_views": 1334
     },
     {
       "date": "2026-10-10",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 1505,
-      "total_views": 1505
+      "ch4_views": 1506,
+      "total_views": 1506
     },
     {
       "date": "2026-10-11",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 1567,
-      "total_views": 1567
+      "ch4_views": 1568,
+      "total_views": 1568
     },
     {
       "date": "2026-10-16",
@@ -147,50 +147,50 @@
     {
       "date": "2026-10-23",
       "ch1_views": 17,
-      "ch2_views": 93,
+      "ch2_views": 94,
       "ch3_views": 97,
       "ch4_views": 0,
-      "total_views": 207
+      "total_views": 208
     },
     {
       "date": "2026-10-24",
       "ch1_views": 24,
-      "ch2_views": 112,
+      "ch2_views": 113,
       "ch3_views": 112,
       "ch4_views": 0,
-      "total_views": 248
+      "total_views": 249
     },
     {
       "date": "2026-10-25",
       "ch1_views": 24,
-      "ch2_views": 114,
-      "ch3_views": 117,
+      "ch2_views": 115,
+      "ch3_views": 118,
       "ch4_views": 0,
-      "total_views": 255
+      "total_views": 257
     },
     {
       "date": "2026-10-26",
       "ch1_views": 26,
-      "ch2_views": 127,
-      "ch3_views": 124,
+      "ch2_views": 131,
+      "ch3_views": 125,
       "ch4_views": 0,
-      "total_views": 277
+      "total_views": 282
     },
     {
       "date": "2026-10-27",
       "ch1_views": 30,
-      "ch2_views": 134,
-      "ch3_views": 134,
+      "ch2_views": 140,
+      "ch3_views": 137,
       "ch4_views": 0,
-      "total_views": 298
+      "total_views": 307
     },
     {
       "date": "2026-10-28",
       "ch1_views": 30,
-      "ch2_views": 135,
-      "ch3_views": 134,
+      "ch2_views": 144,
+      "ch3_views": 141,
       "ch4_views": 0,
-      "total_views": 299
+      "total_views": 315
     }
   ],
   "channels": {
@@ -242,7 +242,7 @@
         {
           "date": "2026-10-18",
           "views": 2,
-          "uploads": 2,
+          "uploads": 1,
           "cumulative_views": 2
         },
         {
@@ -302,11 +302,25 @@
         {
           "date": "2026-10-28",
           "views": 0,
-          "uploads": 1,
+          "uploads": 2,
           "cumulative_views": 30
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7666060005489003790",
+          "youtube_id": "2BTOUgwmqH8",
+          "title": "She Exposed Dad in Front of the Whole Family \ud83d\ude02",
+          "tiktok_views": 5546,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/2BTOUgwmqH8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-28T07:52:59Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -712,20 +726,6 @@
           "thumbnail": "https://i.ytimg.com/vi/J8IzPmD6AhA/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-18T19:23:22Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7666459507488279821",
-          "youtube_id": "HkddvK6vXGs",
-          "title": "Why Is She More Accurate Than Dad? \ud83d\ude02",
-          "tiktok_views": 12900,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/HkddvK6vXGs/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-18T06:56:06Z"
         }
       ],
       "runs": [
@@ -946,7 +946,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
-      "total_uploads": 123,
+      "total_uploads": 124,
       "total_views": 1396,
       "total_likes": 2,
       "upcoming": {
@@ -1020,39 +1020,39 @@
         },
         {
           "date": "2026-10-23",
-          "views": 19,
+          "views": 20,
           "uploads": 3,
-          "cumulative_views": 93
+          "cumulative_views": 94
         },
         {
           "date": "2026-10-24",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 112
+          "cumulative_views": 113
         },
         {
           "date": "2026-10-25",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 114
+          "cumulative_views": 115
         },
         {
           "date": "2026-10-26",
-          "views": 13,
+          "views": 16,
           "uploads": 2,
-          "cumulative_views": 127
+          "cumulative_views": 131
         },
         {
           "date": "2026-10-27",
-          "views": 7,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 134
+          "cumulative_views": 140
         },
         {
           "date": "2026-10-28",
-          "views": 1,
+          "views": 4,
           "uploads": 2,
-          "cumulative_views": 135
+          "cumulative_views": 144
         }
       ],
       "videos": [
@@ -1063,7 +1063,7 @@
           "youtube_id": "nUlvHOdp9-U",
           "title": "No Bake chocolate Caramel cake that's Melt in Your Mouth \u2728",
           "tiktok_views": 9929,
-          "youtube_views": 1,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nUlvHOdp9-U/hqdefault.jpg",
@@ -1091,7 +1091,7 @@
           "youtube_id": "zLTAOL7vgh4",
           "title": "Chocolate Caramel Stuffed Baked Apples \ud83c\udf4e",
           "tiktok_views": 4199,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/zLTAOL7vgh4/hqdefault.jpg",
@@ -1105,7 +1105,7 @@
           "youtube_id": "CVWeFv92x2o",
           "title": "Caramel Banana Oreo Roll Cake \ud83c\udf4c\u2728",
           "tiktok_views": 10700,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CVWeFv92x2o/hqdefault.jpg",
@@ -1133,7 +1133,7 @@
           "youtube_id": "2TZ8anAXE5I",
           "title": "No-Bake Oreo Strawberry Banana Dessert Roll \ud83c\udf53\ud83c\udf4c",
           "tiktok_views": 13600,
-          "youtube_views": 10,
+          "youtube_views": 13,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2TZ8anAXE5I/hqdefault.jpg",
@@ -1259,7 +1259,7 @@
           "youtube_id": "lTN_iKsKog0",
           "title": "Chef's Secret Stuffed Chicken Rolls with Creamy Butter Sauce \u2728",
           "tiktok_views": 12900,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lTN_iKsKog0/hqdefault.jpg",
@@ -1479,6 +1479,16 @@
       ],
       "runs": [
         {
+          "id": 152,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-10-28",
+          "status": "success",
+          "video_id": "uYpvxi_VgBw",
+          "error_message": null,
+          "created_at": "2026-10-28T20:59:19.382295+00:00"
+        },
+        {
           "id": 151,
           "channel_id": "channel_2",
           "slot": 3,
@@ -1667,16 +1677,6 @@
           "video_id": "D-lA8Mt0VWA",
           "error_message": null,
           "created_at": "2026-10-22T00:40:59.564460+00:00"
-        },
-        {
-          "id": 132,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-10-21",
-          "status": "success",
-          "video_id": "iC_7bG9Rtac",
-          "error_message": null,
-          "created_at": "2026-10-21T20:02:57.773818+00:00"
         }
       ]
     },
@@ -1696,7 +1696,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 87,
-      "total_views": 136437,
+      "total_views": 136443,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1769,27 +1769,27 @@
         },
         {
           "date": "2026-10-25",
-          "views": 5,
+          "views": 6,
           "uploads": 3,
-          "cumulative_views": 117
+          "cumulative_views": 118
         },
         {
           "date": "2026-10-26",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 124
+          "cumulative_views": 125
         },
         {
           "date": "2026-10-27",
-          "views": 10,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 134
+          "cumulative_views": 137
         },
         {
           "date": "2026-10-28",
-          "views": 0,
+          "views": 4,
           "uploads": 2,
-          "cumulative_views": 134
+          "cumulative_views": 141
         }
       ],
       "videos": [
@@ -1800,7 +1800,7 @@
           "youtube_id": "ySTHlZPy5R0",
           "title": "Hands extracting paste from nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ySTHlZPy5R0/hqdefault.jpg",
@@ -1828,7 +1828,7 @@
           "youtube_id": "GxotkhHSMRU",
           "title": "Hands extracting gel from nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/GxotkhHSMRU/hqdefault.jpg",
@@ -1856,7 +1856,7 @@
           "youtube_id": "A6oak1RD_oE",
           "title": "Gloved hands cleaning toenail de\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/A6oak1RD_oE/hqdefault.jpg",
@@ -1912,7 +1912,7 @@
           "youtube_id": "4GN6y58rOgo",
           "title": "Surgical tool extracts metal staple \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/4GN6y58rOgo/hqdefault.jpg",
@@ -2488,39 +2488,39 @@
         },
         {
           "date": "2026-09-30",
-          "views": 206,
+          "views": 207,
           "uploads": 3,
-          "cumulative_views": 842
+          "cumulative_views": 843
         },
         {
           "date": "2026-10-01",
           "views": 214,
           "uploads": 1,
-          "cumulative_views": 1056
+          "cumulative_views": 1057
         },
         {
           "date": "2026-10-08",
           "views": 46,
           "uploads": 2,
-          "cumulative_views": 1102
+          "cumulative_views": 1103
         },
         {
           "date": "2026-10-09",
           "views": 231,
           "uploads": 3,
-          "cumulative_views": 1333
+          "cumulative_views": 1334
         },
         {
           "date": "2026-10-10",
           "views": 172,
           "uploads": 3,
-          "cumulative_views": 1505
+          "cumulative_views": 1506
         },
         {
           "date": "2026-10-11",
           "views": 62,
           "uploads": 1,
-          "cumulative_views": 1567
+          "cumulative_views": 1568
         }
       ],
       "videos": [
@@ -2685,7 +2685,7 @@
           "youtube_id": "nyF_x7_XbtE",
           "title": "Legit Work From Home Job Opening \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 107,
+          "youtube_views": 108,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nyF_x7_XbtE/hqdefault.jpg",
@@ -3011,13 +3011,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7666060005489003790",
+      "youtube_id": "2BTOUgwmqH8",
+      "title": "She Exposed Dad in Front of the Whole Family \ud83d\ude02",
+      "tiktok_views": 5546,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/2BTOUgwmqH8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-28T07:52:59Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7668763444560055565",
       "youtube_id": "nUlvHOdp9-U",
       "title": "No Bake chocolate Caramel cake that's Melt in Your Mouth \u2728",
       "tiktok_views": 9929,
-      "youtube_views": 1,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nUlvHOdp9-U/hqdefault.jpg",
@@ -3031,7 +3045,7 @@
       "youtube_id": "ySTHlZPy5R0",
       "title": "Hands extracting paste from nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ySTHlZPy5R0/hqdefault.jpg",
@@ -3087,7 +3101,7 @@
       "youtube_id": "GxotkhHSMRU",
       "title": "Hands extracting gel from nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/GxotkhHSMRU/hqdefault.jpg",
@@ -3115,7 +3129,7 @@
       "youtube_id": "zLTAOL7vgh4",
       "title": "Chocolate Caramel Stuffed Baked Apples \ud83c\udf4e",
       "tiktok_views": 4199,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/zLTAOL7vgh4/hqdefault.jpg",
@@ -3143,7 +3157,7 @@
       "youtube_id": "CVWeFv92x2o",
       "title": "Caramel Banana Oreo Roll Cake \ud83c\udf4c\u2728",
       "tiktok_views": 10700,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CVWeFv92x2o/hqdefault.jpg",
@@ -3185,7 +3199,7 @@
       "youtube_id": "A6oak1RD_oE",
       "title": "Gloved hands cleaning toenail de\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/A6oak1RD_oE/hqdefault.jpg",
@@ -3241,7 +3255,7 @@
       "youtube_id": "2TZ8anAXE5I",
       "title": "No-Bake Oreo Strawberry Banana Dessert Roll \ud83c\udf53\ud83c\udf4c",
       "tiktok_views": 13600,
-      "youtube_views": 10,
+      "youtube_views": 13,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2TZ8anAXE5I/hqdefault.jpg",
@@ -3325,7 +3339,7 @@
       "youtube_id": "4GN6y58rOgo",
       "title": "Surgical tool extracts metal staple \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/4GN6y58rOgo/hqdefault.jpg",
@@ -3647,7 +3661,7 @@
       "youtube_id": "lTN_iKsKog0",
       "title": "Chef's Secret Stuffed Chicken Rolls with Creamy Butter Sauce \u2728",
       "tiktok_views": 12900,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lTN_iKsKog0/hqdefault.jpg",
@@ -4229,20 +4243,6 @@
       "uploaded_at": "2026-10-18T18:36:29Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7666459507488279821",
-      "youtube_id": "HkddvK6vXGs",
-      "title": "Why Is She More Accurate Than Dad? \ud83d\ude02",
-      "tiktok_views": 12900,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/HkddvK6vXGs/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-18T06:56:06Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7697685636383264014",
@@ -4431,7 +4431,7 @@
       "youtube_id": "nyF_x7_XbtE",
       "title": "Legit Work From Home Job Opening \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 107,
+      "youtube_views": 108,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nyF_x7_XbtE/hqdefault.jpg",
@@ -4599,7 +4599,7 @@
       {
         "date": "2026-10-18",
         "views": 2,
-        "uploads": 2,
+        "uploads": 1,
         "cumulative_views": 2
       },
       {
@@ -4659,11 +4659,25 @@
       {
         "date": "2026-10-28",
         "views": 0,
-        "uploads": 1,
+        "uploads": 2,
         "cumulative_views": 30
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7666060005489003790",
+        "youtube_id": "2BTOUgwmqH8",
+        "title": "She Exposed Dad in Front of the Whole Family \ud83d\ude02",
+        "tiktok_views": 5546,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/2BTOUgwmqH8/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-28T07:52:59Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5069,20 +5083,6 @@
         "thumbnail": "https://i.ytimg.com/vi/J8IzPmD6AhA/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-18T19:23:22Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7666459507488279821",
-        "youtube_id": "HkddvK6vXGs",
-        "title": "Why Is She More Accurate Than Dad? \ud83d\ude02",
-        "tiktok_views": 12900,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/HkddvK6vXGs/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-18T06:56:06Z"
       }
     ],
     "runs": [
@@ -5289,8 +5289,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 366,
-    "total_views": 140083,
+    "total_uploads": 367,
+    "total_views": 140089,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5522,5 +5522,5 @@
       "created_at": "2026-10-22T01:43:53.835436+00:00"
     }
   ],
-  "last_updated": "2026-10-28T07:52:47.712887+00:00"
+  "last_updated": "2026-10-28T20:59:24.522190+00:00"
 }
