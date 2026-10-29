@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 372,
-    "total_views": 140099,
+    "total_uploads": 373,
+    "total_views": 140109,
     "total_likes": 17,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -98,91 +98,91 @@
     },
     {
       "date": "2026-10-19",
-      "ch1_views": 2,
+      "ch1_views": 0,
       "ch2_views": 27,
       "ch3_views": 3,
       "ch4_views": 0,
-      "total_views": 32
+      "total_views": 30
     },
     {
       "date": "2026-10-20",
-      "ch1_views": 12,
+      "ch1_views": 10,
       "ch2_views": 41,
       "ch3_views": 21,
       "ch4_views": 0,
-      "total_views": 74
+      "total_views": 72
     },
     {
       "date": "2026-10-21",
-      "ch1_views": 13,
+      "ch1_views": 11,
       "ch2_views": 56,
       "ch3_views": 31,
       "ch4_views": 0,
-      "total_views": 100
+      "total_views": 98
     },
     {
       "date": "2026-10-22",
-      "ch1_views": 17,
+      "ch1_views": 15,
       "ch2_views": 65,
       "ch3_views": 59,
       "ch4_views": 0,
-      "total_views": 141
+      "total_views": 139
     },
     {
       "date": "2026-10-23",
-      "ch1_views": 17,
+      "ch1_views": 15,
       "ch2_views": 87,
       "ch3_views": 83,
       "ch4_views": 0,
-      "total_views": 187
+      "total_views": 185
     },
     {
       "date": "2026-10-24",
-      "ch1_views": 24,
+      "ch1_views": 22,
       "ch2_views": 106,
       "ch3_views": 98,
       "ch4_views": 0,
-      "total_views": 228
+      "total_views": 226
     },
     {
       "date": "2026-10-25",
-      "ch1_views": 24,
+      "ch1_views": 22,
       "ch2_views": 108,
       "ch3_views": 104,
       "ch4_views": 0,
-      "total_views": 236
+      "total_views": 234
     },
     {
       "date": "2026-10-26",
-      "ch1_views": 26,
+      "ch1_views": 24,
       "ch2_views": 124,
-      "ch3_views": 111,
+      "ch3_views": 112,
       "ch4_views": 0,
-      "total_views": 261
+      "total_views": 260
     },
     {
       "date": "2026-10-27",
-      "ch1_views": 30,
+      "ch1_views": 28,
       "ch2_views": 133,
-      "ch3_views": 123,
+      "ch3_views": 124,
       "ch4_views": 0,
-      "total_views": 286
+      "total_views": 285
     },
     {
       "date": "2026-10-28",
-      "ch1_views": 30,
-      "ch2_views": 138,
-      "ch3_views": 131,
+      "ch1_views": 28,
+      "ch2_views": 139,
+      "ch3_views": 134,
       "ch4_views": 0,
-      "total_views": 299
+      "total_views": 301
     },
     {
       "date": "2026-10-29",
-      "ch1_views": 0,
-      "ch2_views": 138,
-      "ch3_views": 131,
+      "ch1_views": 28,
+      "ch2_views": 139,
+      "ch3_views": 134,
       "ch4_views": 0,
-      "total_views": 269
+      "total_views": 301
     }
   ],
   "channels": {
@@ -202,7 +202,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 138,
-      "total_views": 683,
+      "total_views": 686,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -233,66 +233,86 @@
       "view_history": [
         {
           "date": "2026-10-19",
-          "views": 2,
-          "uploads": 3,
-          "cumulative_views": 2
+          "views": 0,
+          "uploads": 2,
+          "cumulative_views": 0
         },
         {
           "date": "2026-10-20",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 12
+          "cumulative_views": 10
         },
         {
           "date": "2026-10-21",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 11
         },
         {
           "date": "2026-10-22",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-23",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-24",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-25",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-26",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 26
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-27",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 30
+          "cumulative_views": 28
         },
         {
           "date": "2026-10-28",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 30
+          "cumulative_views": 28
+        },
+        {
+          "date": "2026-10-29",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 28
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7669404459067264269",
+          "youtube_id": "8DjbBDadtBk",
+          "title": "POV: Mom After Cooking Dinner \ud83d\ude02",
+          "tiktok_views": 5514,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/8DjbBDadtBk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-29T02:41:02Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -698,20 +718,6 @@
           "thumbnail": "https://i.ytimg.com/vi/gs2SRvX9dTk/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-19T07:15:30Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7674647839951064334",
-          "youtube_id": "aCyIeXr22yY",
-          "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
-          "tiktok_views": 12600,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/aCyIeXr22yY/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-19T01:32:49Z"
         }
       ],
       "runs": [
@@ -932,7 +938,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
-      "total_uploads": 125,
+      "total_uploads": 126,
       "total_views": 1406,
       "total_likes": 2,
       "upcoming": {
@@ -1024,15 +1030,15 @@
         },
         {
           "date": "2026-10-28",
-          "views": 5,
+          "views": 6,
           "uploads": 3,
-          "cumulative_views": 138
+          "cumulative_views": 139
         },
         {
           "date": "2026-10-29",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 138
+          "cumulative_views": 139
         }
       ],
       "videos": [
@@ -1057,7 +1063,7 @@
           "youtube_id": "uYpvxi_VgBw",
           "title": "Taste & Tales \u2728",
           "tiktok_views": 9039,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/uYpvxi_VgBw/hqdefault.jpg",
@@ -1459,6 +1465,16 @@
       ],
       "runs": [
         {
+          "id": 154,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-10-29",
+          "status": "success",
+          "video_id": "dPBtaS6-wAY",
+          "error_message": null,
+          "created_at": "2026-10-29T06:59:51.591029+00:00"
+        },
+        {
           "id": 153,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1647,16 +1663,6 @@
           "video_id": "1ZKxJOtIU-4",
           "error_message": null,
           "created_at": "2026-10-22T19:55:17.909806+00:00"
-        },
-        {
-          "id": 134,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-22",
-          "status": "success",
-          "video_id": "dlBMmGb0sc4",
-          "error_message": null,
-          "created_at": "2026-10-22T06:02:50.949720+00:00"
         }
       ]
     },
@@ -1676,7 +1682,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 89,
-      "total_views": 136443,
+      "total_views": 136449,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1749,27 +1755,27 @@
         },
         {
           "date": "2026-10-26",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 111
+          "cumulative_views": 112
         },
         {
           "date": "2026-10-27",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 123
+          "cumulative_views": 124
         },
         {
           "date": "2026-10-28",
-          "views": 8,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 131
+          "cumulative_views": 134
         },
         {
           "date": "2026-10-29",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 131
+          "cumulative_views": 134
         }
       ],
       "videos": [
@@ -1808,7 +1814,7 @@
           "youtube_id": "ySTHlZPy5R0",
           "title": "Hands extracting paste from nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ySTHlZPy5R0/hqdefault.jpg",
@@ -1878,7 +1884,7 @@
           "youtube_id": "dLCskoONG-8",
           "title": "Tweezers extracting splinter fro\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dLCskoONG-8/hqdefault.jpg",
@@ -2413,7 +2419,7 @@
       "category": "Remote Work & Side Hustles",
       "subscribers": 5,
       "total_uploads": 20,
-      "total_views": 1567,
+      "total_views": 1568,
       "total_likes": 15,
       "upcoming": {
         "slot1": {
@@ -2991,6 +2997,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7669404459067264269",
+      "youtube_id": "8DjbBDadtBk",
+      "title": "POV: Mom After Cooking Dinner \ud83d\ude02",
+      "tiktok_views": 5514,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/8DjbBDadtBk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-29T02:41:02Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7654002823310413070",
@@ -3053,7 +3073,7 @@
       "youtube_id": "uYpvxi_VgBw",
       "title": "Taste & Tales \u2728",
       "tiktok_views": 9039,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/uYpvxi_VgBw/hqdefault.jpg",
@@ -3095,7 +3115,7 @@
       "youtube_id": "ySTHlZPy5R0",
       "title": "Hands extracting paste from nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ySTHlZPy5R0/hqdefault.jpg",
@@ -3277,7 +3297,7 @@
       "youtube_id": "dLCskoONG-8",
       "title": "Tweezers extracting splinter fro\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dLCskoONG-8/hqdefault.jpg",
@@ -4223,20 +4243,6 @@
       "uploaded_at": "2026-10-19T05:54:29Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7674647839951064334",
-      "youtube_id": "aCyIeXr22yY",
-      "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
-      "tiktok_views": 12600,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/aCyIeXr22yY/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-19T01:32:49Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7698058157007883534",
@@ -4547,7 +4553,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 138,
-    "total_views": 683,
+    "total_views": 686,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -4578,66 +4584,86 @@
     "view_history": [
       {
         "date": "2026-10-19",
-        "views": 2,
-        "uploads": 3,
-        "cumulative_views": 2
+        "views": 0,
+        "uploads": 2,
+        "cumulative_views": 0
       },
       {
         "date": "2026-10-20",
         "views": 10,
         "uploads": 3,
-        "cumulative_views": 12
+        "cumulative_views": 10
       },
       {
         "date": "2026-10-21",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 11
       },
       {
         "date": "2026-10-22",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 15
       },
       {
         "date": "2026-10-23",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 15
       },
       {
         "date": "2026-10-24",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 22
       },
       {
         "date": "2026-10-25",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 22
       },
       {
         "date": "2026-10-26",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 26
+        "cumulative_views": 24
       },
       {
         "date": "2026-10-27",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 30
+        "cumulative_views": 28
       },
       {
         "date": "2026-10-28",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 30
+        "cumulative_views": 28
+      },
+      {
+        "date": "2026-10-29",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 28
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7669404459067264269",
+        "youtube_id": "8DjbBDadtBk",
+        "title": "POV: Mom After Cooking Dinner \ud83d\ude02",
+        "tiktok_views": 5514,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/8DjbBDadtBk/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-29T02:41:02Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5043,20 +5069,6 @@
         "thumbnail": "https://i.ytimg.com/vi/gs2SRvX9dTk/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-19T07:15:30Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7674647839951064334",
-        "youtube_id": "aCyIeXr22yY",
-        "title": "He heard his baby sibling crying and immediately became the sweetest \ud83d\ude02",
-        "tiktok_views": 12600,
-        "youtube_views": 2,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/aCyIeXr22yY/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-19T01:32:49Z"
       }
     ],
     "runs": [
@@ -5263,8 +5275,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 372,
-    "total_views": 140099,
+    "total_uploads": 373,
+    "total_views": 140109,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5496,5 +5508,5 @@
       "created_at": "2026-10-22T21:08:53.973585+00:00"
     }
   ],
-  "last_updated": "2026-10-29T02:40:45.862997+00:00"
+  "last_updated": "2026-10-29T06:59:55.946239+00:00"
 }
