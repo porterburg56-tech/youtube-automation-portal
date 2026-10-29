@@ -224,12 +224,6 @@
       },
       "view_history": [
         {
-          "date": "2026-10-19",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
-        {
           "date": "2026-10-20",
           "views": 10,
           "uploads": 3,
@@ -286,11 +280,25 @@
         {
           "date": "2026-10-29",
           "views": 0,
-          "uploads": 2,
+          "uploads": 3,
           "cumulative_views": 28
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7669776402090085646",
+          "youtube_id": "1Z67fogg0xw",
+          "title": "She Did the Full Dad Routine and I\u2019m Crying \ud83d\ude02",
+          "tiktok_views": 3566,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/1Z67fogg0xw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-29T21:44:11Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -696,20 +704,6 @@
           "thumbnail": "https://i.ytimg.com/vi/6fNIHrFkNt8/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-20T02:01:46Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7698369801294531853",
-          "youtube_id": "TMM0MzcDR4s",
-          "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
-          "tiktok_views": 83600,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/TMM0MzcDR4s/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-19T21:26:02Z"
         }
       ],
       "runs": [
@@ -2188,6 +2182,16 @@
       ],
       "runs": [
         {
+          "id": 114,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-29",
+          "status": "success",
+          "video_id": "CzKbzL6SIYI",
+          "error_message": null,
+          "created_at": "2026-10-29T21:46:58.283327+00:00"
+        },
+        {
           "id": 113,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2376,16 +2380,6 @@
           "video_id": "eWnmzCi8MjM",
           "error_message": null,
           "created_at": "2026-10-23T06:28:30.070217+00:00"
-        },
-        {
-          "id": 94,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-23",
-          "status": "success",
-          "video_id": "WRMpYZheRwc",
-          "error_message": null,
-          "created_at": "2026-10-23T01:09:28.434369+00:00"
         }
       ]
     },
@@ -2982,6 +2976,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7669776402090085646",
+      "youtube_id": "1Z67fogg0xw",
+      "title": "She Did the Full Dad Routine and I\u2019m Crying \ud83d\ude02",
+      "tiktok_views": 3566,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/1Z67fogg0xw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-29T21:44:11Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4215,20 +4223,6 @@
       "uploaded_at": "2026-10-19T21:31:44Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7698369801294531853",
-      "youtube_id": "TMM0MzcDR4s",
-      "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
-      "tiktok_views": 83600,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/TMM0MzcDR4s/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-19T21:26:02Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7698429741501517070",
@@ -4569,12 +4563,6 @@
     },
     "view_history": [
       {
-        "date": "2026-10-19",
-        "views": 0,
-        "uploads": 1,
-        "cumulative_views": 0
-      },
-      {
         "date": "2026-10-20",
         "views": 10,
         "uploads": 3,
@@ -4631,11 +4619,25 @@
       {
         "date": "2026-10-29",
         "views": 0,
-        "uploads": 2,
+        "uploads": 3,
         "cumulative_views": 28
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7669776402090085646",
+        "youtube_id": "1Z67fogg0xw",
+        "title": "She Did the Full Dad Routine and I\u2019m Crying \ud83d\ude02",
+        "tiktok_views": 3566,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/1Z67fogg0xw/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-29T21:44:11Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5041,20 +5043,6 @@
         "thumbnail": "https://i.ytimg.com/vi/6fNIHrFkNt8/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-20T02:01:46Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7698369801294531853",
-        "youtube_id": "TMM0MzcDR4s",
-        "title": "When Your 1 Year Old Clowns Grandpa Better Than Anyone \ud83d\ude2d\ud83d\ude02",
-        "tiktok_views": 83600,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/TMM0MzcDR4s/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-19T21:26:02Z"
       }
     ],
     "runs": [
@@ -5494,5 +5482,5 @@
       "created_at": "2026-10-23T06:54:13.042701+00:00"
     }
   ],
-  "last_updated": "2026-10-29T21:43:44.694430+00:00"
+  "last_updated": "2026-10-29T21:47:03.071891+00:00"
 }
