@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 369,
+    "total_uploads": 370,
     "total_views": 140099,
     "total_likes": 17,
     "total_subscribers": 88,
@@ -108,81 +108,89 @@
       "date": "2026-10-19",
       "ch1_views": 2,
       "ch2_views": 30,
-      "ch3_views": 16,
+      "ch3_views": 3,
       "ch4_views": 0,
-      "total_views": 48
+      "total_views": 35
     },
     {
       "date": "2026-10-20",
       "ch1_views": 12,
       "ch2_views": 44,
-      "ch3_views": 34,
+      "ch3_views": 21,
       "ch4_views": 0,
-      "total_views": 90
+      "total_views": 77
     },
     {
       "date": "2026-10-21",
       "ch1_views": 13,
       "ch2_views": 59,
-      "ch3_views": 44,
+      "ch3_views": 31,
       "ch4_views": 0,
-      "total_views": 116
+      "total_views": 103
     },
     {
       "date": "2026-10-22",
       "ch1_views": 17,
       "ch2_views": 68,
-      "ch3_views": 72,
+      "ch3_views": 59,
       "ch4_views": 0,
-      "total_views": 157
+      "total_views": 144
     },
     {
       "date": "2026-10-23",
       "ch1_views": 17,
       "ch2_views": 90,
-      "ch3_views": 96,
+      "ch3_views": 83,
       "ch4_views": 0,
-      "total_views": 203
+      "total_views": 190
     },
     {
       "date": "2026-10-24",
       "ch1_views": 24,
       "ch2_views": 109,
-      "ch3_views": 111,
+      "ch3_views": 98,
       "ch4_views": 0,
-      "total_views": 244
+      "total_views": 231
     },
     {
       "date": "2026-10-25",
       "ch1_views": 24,
       "ch2_views": 111,
-      "ch3_views": 117,
+      "ch3_views": 104,
       "ch4_views": 0,
-      "total_views": 252
+      "total_views": 239
     },
     {
       "date": "2026-10-26",
       "ch1_views": 26,
       "ch2_views": 127,
-      "ch3_views": 124,
+      "ch3_views": 112,
       "ch4_views": 0,
-      "total_views": 277
+      "total_views": 265
     },
     {
       "date": "2026-10-27",
       "ch1_views": 30,
       "ch2_views": 136,
-      "ch3_views": 136,
+      "ch3_views": 124,
       "ch4_views": 0,
-      "total_views": 302
+      "total_views": 290
     },
     {
       "date": "2026-10-28",
       "ch1_views": 30,
       "ch2_views": 141,
-      "ch3_views": 144,
+      "ch3_views": 131,
       "ch4_views": 0,
-      "total_views": 315
+      "total_views": 302
+    },
+    {
+      "date": "2026-10-29",
+      "ch1_views": 0,
+      "ch2_views": 0,
+      "ch3_views": 131,
+      "ch4_views": 0,
+      "total_views": 131
     }
   ],
   "channels": {
@@ -1675,7 +1683,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 88,
+      "total_uploads": 89,
       "total_views": 136443,
       "total_likes": 0,
       "upcoming": {
@@ -1707,66 +1715,86 @@
       "view_history": [
         {
           "date": "2026-10-19",
-          "views": 16,
-          "uploads": 3,
-          "cumulative_views": 16
+          "views": 3,
+          "uploads": 2,
+          "cumulative_views": 3
         },
         {
           "date": "2026-10-20",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 34
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-21",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 44
+          "cumulative_views": 31
         },
         {
           "date": "2026-10-22",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 72
+          "cumulative_views": 59
         },
         {
           "date": "2026-10-23",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 96
+          "cumulative_views": 83
         },
         {
           "date": "2026-10-24",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 111
+          "cumulative_views": 98
         },
         {
           "date": "2026-10-25",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 117
+          "cumulative_views": 104
         },
         {
           "date": "2026-10-26",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 124
+          "cumulative_views": 112
         },
         {
           "date": "2026-10-27",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 136
+          "cumulative_views": 124
         },
         {
           "date": "2026-10-28",
-          "views": 8,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 144
+          "cumulative_views": 131
+        },
+        {
+          "date": "2026-10-29",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 131
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1x7BKpZWlhdTPu-07fzFw8hZRLfAFgaQz",
+          "youtube_id": "n4Ol_vXLTxg",
+          "title": "Hands removing fluid from nail \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/n4Ol_vXLTxg/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-29T01:49:22Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1788,7 +1816,7 @@
           "youtube_id": "ySTHlZPy5R0",
           "title": "Hands extracting paste from nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ySTHlZPy5R0/hqdefault.jpg",
@@ -1858,7 +1886,7 @@
           "youtube_id": "dLCskoONG-8",
           "title": "Tweezers extracting splinter fro\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dLCskoONG-8/hqdefault.jpg",
@@ -2172,20 +2200,6 @@
           "thumbnail": "https://i.ytimg.com/vi/EjHxmcf2Tsk/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-19T06:10:38Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "13OndIbXOyxsuiTnBSA2sWsuTYd7E7jqg",
-          "youtube_id": "1U-cjk22cW8",
-          "title": "Professional performing medical \u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 13,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/1U-cjk22cW8/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-19T00:14:23Z"
         }
       ],
       "runs": [
@@ -2781,6 +2795,16 @@
       ],
       "runs": [
         {
+          "id": 105,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-10-29",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-29T01:53:06.626854+00:00"
+        },
+        {
           "id": 104,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2969,21 +2993,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-22T20:46:50.454232+00:00"
-        },
-        {
-          "id": 85,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-22",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-22T06:13:29.420422+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1x7BKpZWlhdTPu-07fzFw8hZRLfAFgaQz",
+      "youtube_id": "n4Ol_vXLTxg",
+      "title": "Hands removing fluid from nail \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/n4Ol_vXLTxg/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-29T01:49:22Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -3061,7 +3089,7 @@
       "youtube_id": "ySTHlZPy5R0",
       "title": "Hands extracting paste from nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ySTHlZPy5R0/hqdefault.jpg",
@@ -3243,7 +3271,7 @@
       "youtube_id": "dLCskoONG-8",
       "title": "Tweezers extracting splinter fro\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dLCskoONG-8/hqdefault.jpg",
@@ -4201,20 +4229,6 @@
       "thumbnail": "https://i.ytimg.com/vi/aCyIeXr22yY/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-19T01:32:49Z"
-    },
-    {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "13OndIbXOyxsuiTnBSA2sWsuTYd7E7jqg",
-      "youtube_id": "1U-cjk22cW8",
-      "title": "Professional performing medical \u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 13,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/1U-cjk22cW8/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-19T00:14:23Z"
     },
     {
       "channel_id": "channel_2",
@@ -5257,7 +5271,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 369,
+    "total_uploads": 370,
     "total_views": 140099,
     "total_likes": 17,
     "videos_per_day": 12
@@ -5490,5 +5504,5 @@
       "created_at": "2026-10-22T07:01:48.838471+00:00"
     }
   ],
-  "last_updated": "2026-10-29T01:49:10.450115+00:00"
+  "last_updated": "2026-10-29T01:53:11.809682+00:00"
 }
