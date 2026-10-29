@@ -1,8 +1,8 @@
 {
   "cumulative": {
     "total_uploads": 373,
-    "total_views": 140109,
-    "total_likes": 17,
+    "total_views": 140126,
+    "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
     "videos_per_day": 12
@@ -89,100 +89,92 @@
       "total_views": 1568
     },
     {
-      "date": "2026-10-18",
-      "ch1_views": 0,
-      "ch2_views": 17,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 17
-    },
-    {
       "date": "2026-10-19",
       "ch1_views": 0,
-      "ch2_views": 27,
+      "ch2_views": 10,
       "ch3_views": 3,
       "ch4_views": 0,
-      "total_views": 30
+      "total_views": 13
     },
     {
       "date": "2026-10-20",
       "ch1_views": 10,
-      "ch2_views": 41,
+      "ch2_views": 24,
       "ch3_views": 21,
       "ch4_views": 0,
-      "total_views": 72
+      "total_views": 55
     },
     {
       "date": "2026-10-21",
       "ch1_views": 11,
-      "ch2_views": 56,
+      "ch2_views": 39,
       "ch3_views": 31,
       "ch4_views": 0,
-      "total_views": 98
+      "total_views": 81
     },
     {
       "date": "2026-10-22",
       "ch1_views": 15,
-      "ch2_views": 65,
+      "ch2_views": 48,
       "ch3_views": 59,
       "ch4_views": 0,
-      "total_views": 139
+      "total_views": 122
     },
     {
       "date": "2026-10-23",
       "ch1_views": 15,
-      "ch2_views": 87,
+      "ch2_views": 70,
       "ch3_views": 83,
       "ch4_views": 0,
-      "total_views": 185
+      "total_views": 168
     },
     {
       "date": "2026-10-24",
       "ch1_views": 22,
-      "ch2_views": 106,
+      "ch2_views": 89,
       "ch3_views": 98,
       "ch4_views": 0,
-      "total_views": 226
+      "total_views": 209
     },
     {
       "date": "2026-10-25",
       "ch1_views": 22,
-      "ch2_views": 108,
+      "ch2_views": 91,
       "ch3_views": 104,
       "ch4_views": 0,
-      "total_views": 234
+      "total_views": 217
     },
     {
       "date": "2026-10-26",
       "ch1_views": 24,
-      "ch2_views": 124,
+      "ch2_views": 107,
       "ch3_views": 112,
       "ch4_views": 0,
-      "total_views": 260
+      "total_views": 243
     },
     {
       "date": "2026-10-27",
       "ch1_views": 28,
-      "ch2_views": 133,
+      "ch2_views": 116,
       "ch3_views": 124,
       "ch4_views": 0,
-      "total_views": 285
+      "total_views": 268
     },
     {
       "date": "2026-10-28",
       "ch1_views": 28,
-      "ch2_views": 139,
+      "ch2_views": 122,
       "ch3_views": 134,
       "ch4_views": 0,
-      "total_views": 301
+      "total_views": 284
     },
     {
       "date": "2026-10-29",
       "ch1_views": 28,
-      "ch2_views": 139,
+      "ch2_views": 122,
       "ch3_views": 134,
       "ch4_views": 0,
-      "total_views": 301
+      "total_views": 284
     }
   ],
   "channels": {
@@ -939,8 +931,8 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
       "total_uploads": 126,
-      "total_views": 1406,
-      "total_likes": 2,
+      "total_views": 1424,
+      "total_likes": 1,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -969,79 +961,87 @@
       },
       "view_history": [
         {
-          "date": "2026-10-18",
-          "views": 17,
-          "uploads": 1,
-          "cumulative_views": 17
-        },
-        {
           "date": "2026-10-19",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 27
+          "cumulative_views": 10
         },
         {
           "date": "2026-10-20",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 41
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 56
+          "cumulative_views": 39
         },
         {
           "date": "2026-10-22",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 65
+          "cumulative_views": 48
         },
         {
           "date": "2026-10-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 87
+          "cumulative_views": 70
         },
         {
           "date": "2026-10-24",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 106
+          "cumulative_views": 89
         },
         {
           "date": "2026-10-25",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 108
+          "cumulative_views": 91
         },
         {
           "date": "2026-10-26",
           "views": 16,
           "uploads": 2,
-          "cumulative_views": 124
+          "cumulative_views": 107
         },
         {
           "date": "2026-10-27",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 133
+          "cumulative_views": 116
         },
         {
           "date": "2026-10-28",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 139
+          "cumulative_views": 122
         },
         {
           "date": "2026-10-29",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 139
+          "uploads": 2,
+          "cumulative_views": 122
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7659488803605794062",
+          "youtube_id": "dPBtaS6-wAY",
+          "title": "Taste & Tales \u2728",
+          "tiktok_views": 9450,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/dPBtaS6-wAY/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-29T07:00:40Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1447,20 +1447,6 @@
           "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-19T05:54:29Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7698058157007883534",
-          "youtube_id": "MSUbBpc4whI",
-          "title": "Chocolate-Filled Baked Apples with Caramel & Ice Cream \ud83c\udf4e\ud83c\udf6b",
-          "tiktok_views": 6300,
-          "youtube_views": 17,
-          "youtube_likes": 1,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/MSUbBpc4whI/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-18T18:36:29Z"
         }
       ],
       "runs": [
@@ -2202,6 +2188,16 @@
       ],
       "runs": [
         {
+          "id": 113,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-29",
+          "status": "success",
+          "video_id": "5BZ5vZ2p71Y",
+          "error_message": null,
+          "created_at": "2026-10-29T07:02:13.796864+00:00"
+        },
+        {
           "id": 112,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2390,16 +2386,6 @@
           "video_id": "WRMpYZheRwc",
           "error_message": null,
           "created_at": "2026-10-23T01:09:28.434369+00:00"
-        },
-        {
-          "id": 93,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-22",
-          "status": "success",
-          "video_id": "SyOYQmt4O6Y",
-          "error_message": null,
-          "created_at": "2026-10-22T20:33:53.254545+00:00"
         }
       ]
     },
@@ -2419,7 +2405,7 @@
       "category": "Remote Work & Side Hustles",
       "subscribers": 5,
       "total_uploads": 20,
-      "total_views": 1568,
+      "total_views": 1567,
       "total_likes": 15,
       "upcoming": {
         "slot1": {
@@ -2996,6 +2982,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7659488803605794062",
+      "youtube_id": "dPBtaS6-wAY",
+      "title": "Taste & Tales \u2728",
+      "tiktok_views": 9450,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/dPBtaS6-wAY/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-29T07:00:40Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -4243,20 +4243,6 @@
       "uploaded_at": "2026-10-19T05:54:29Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7698058157007883534",
-      "youtube_id": "MSUbBpc4whI",
-      "title": "Chocolate-Filled Baked Apples with Caramel & Ice Cream \ud83c\udf4e\ud83c\udf6b",
-      "tiktok_views": 6300,
-      "youtube_views": 17,
-      "youtube_likes": 1,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/MSUbBpc4whI/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-18T18:36:29Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -5276,8 +5262,8 @@
   },
   "kpis": {
     "total_uploads": 373,
-    "total_views": 140109,
-    "total_likes": 17,
+    "total_views": 140126,
+    "total_likes": 16,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5508,5 +5494,5 @@
       "created_at": "2026-10-22T21:08:53.973585+00:00"
     }
   ],
-  "last_updated": "2026-10-29T06:59:55.946239+00:00"
+  "last_updated": "2026-10-29T07:02:17.979345+00:00"
 }
