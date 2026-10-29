@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 376,
+    "total_uploads": 377,
     "total_views": 140143,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -91,90 +91,90 @@
     {
       "date": "2026-10-19",
       "ch1_views": 0,
-      "ch2_views": 10,
+      "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 10
+      "total_views": 0
     },
     {
       "date": "2026-10-20",
       "ch1_views": 10,
-      "ch2_views": 25,
+      "ch2_views": 15,
       "ch3_views": 18,
       "ch4_views": 0,
-      "total_views": 53
+      "total_views": 43
     },
     {
       "date": "2026-10-21",
       "ch1_views": 11,
-      "ch2_views": 40,
+      "ch2_views": 30,
       "ch3_views": 28,
       "ch4_views": 0,
-      "total_views": 79
+      "total_views": 69
     },
     {
       "date": "2026-10-22",
       "ch1_views": 15,
-      "ch2_views": 49,
+      "ch2_views": 39,
       "ch3_views": 56,
       "ch4_views": 0,
-      "total_views": 120
+      "total_views": 110
     },
     {
       "date": "2026-10-23",
       "ch1_views": 15,
-      "ch2_views": 71,
+      "ch2_views": 61,
       "ch3_views": 80,
       "ch4_views": 0,
-      "total_views": 166
+      "total_views": 156
     },
     {
       "date": "2026-10-24",
       "ch1_views": 22,
-      "ch2_views": 90,
+      "ch2_views": 80,
       "ch3_views": 95,
       "ch4_views": 0,
-      "total_views": 207
+      "total_views": 197
     },
     {
       "date": "2026-10-25",
       "ch1_views": 22,
-      "ch2_views": 92,
+      "ch2_views": 82,
       "ch3_views": 101,
       "ch4_views": 0,
-      "total_views": 215
+      "total_views": 205
     },
     {
       "date": "2026-10-26",
       "ch1_views": 24,
-      "ch2_views": 108,
+      "ch2_views": 98,
       "ch3_views": 109,
       "ch4_views": 0,
-      "total_views": 241
+      "total_views": 231
     },
     {
       "date": "2026-10-27",
       "ch1_views": 28,
-      "ch2_views": 119,
+      "ch2_views": 109,
       "ch3_views": 121,
       "ch4_views": 0,
-      "total_views": 268
+      "total_views": 258
     },
     {
       "date": "2026-10-28",
       "ch1_views": 28,
-      "ch2_views": 124,
-      "ch3_views": 137,
+      "ch2_views": 114,
+      "ch3_views": 138,
       "ch4_views": 0,
-      "total_views": 289
+      "total_views": 280
     },
     {
       "date": "2026-10-29",
       "ch1_views": 28,
-      "ch2_views": 124,
-      "ch3_views": 141,
+      "ch2_views": 114,
+      "ch3_views": 142,
       "ch4_views": 0,
-      "total_views": 293
+      "total_views": 284
     }
   ],
   "channels": {
@@ -193,7 +193,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 139,
+      "total_uploads": 140,
       "total_views": 687,
       "total_likes": 0,
       "upcoming": {
@@ -714,6 +714,16 @@
       ],
       "runs": [
         {
+          "id": 149,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-10-29",
+          "status": "success",
+          "video_id": "1Z67fogg0xw",
+          "error_message": null,
+          "created_at": "2026-10-29T21:43:39.953819+00:00"
+        },
+        {
           "id": 148,
           "channel_id": "channel_1",
           "slot": 3,
@@ -902,16 +912,6 @@
           "video_id": "oiSUKZ9olMg",
           "error_message": null,
           "created_at": "2026-10-23T06:54:13.042701+00:00"
-        },
-        {
-          "id": 129,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-10-23",
-          "status": "success",
-          "video_id": "_IyOIA-X-pQ",
-          "error_message": null,
-          "created_at": "2026-10-23T01:46:40.794222+00:00"
         }
       ]
     },
@@ -962,72 +962,86 @@
       "view_history": [
         {
           "date": "2026-10-19",
-          "views": 10,
-          "uploads": 2,
-          "cumulative_views": 10
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 0
         },
         {
           "date": "2026-10-20",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 25
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 40
+          "cumulative_views": 30
         },
         {
           "date": "2026-10-22",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 49
+          "cumulative_views": 39
         },
         {
           "date": "2026-10-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 71
+          "cumulative_views": 61
         },
         {
           "date": "2026-10-24",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 90
+          "cumulative_views": 80
         },
         {
           "date": "2026-10-25",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 92
+          "cumulative_views": 82
         },
         {
           "date": "2026-10-26",
           "views": 16,
           "uploads": 2,
-          "cumulative_views": 108
+          "cumulative_views": 98
         },
         {
           "date": "2026-10-27",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 119
+          "cumulative_views": 109
         },
         {
           "date": "2026-10-28",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 124
+          "cumulative_views": 114
         },
         {
           "date": "2026-10-29",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 124
+          "uploads": 3,
+          "cumulative_views": 114
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7702150933655915789",
+          "youtube_id": "GBWIp4y-uro",
+          "title": "Snickers-Stuffed Baked Apples with Caramel & Ice Cream \ud83c\udf4e",
+          "tiktok_views": 1367,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/GBWIp4y-uro/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-29T20:59:12Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1433,20 +1447,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ooHXqhZwflc/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-19T21:05:28Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7650572669154348301",
-          "youtube_id": "2iMxW-fAkPQ",
-          "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
-          "tiktok_views": 20200,
-          "youtube_views": 10,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-19T05:54:29Z"
         }
       ],
       "runs": [
@@ -1753,15 +1753,15 @@
         },
         {
           "date": "2026-10-28",
-          "views": 16,
+          "views": 17,
           "uploads": 3,
-          "cumulative_views": 137
+          "cumulative_views": 138
         },
         {
           "date": "2026-10-29",
           "views": 4,
           "uploads": 2,
-          "cumulative_views": 141
+          "cumulative_views": 142
         }
       ],
       "videos": [
@@ -1814,7 +1814,7 @@
           "youtube_id": "ySTHlZPy5R0",
           "title": "Hands extracting paste from nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ySTHlZPy5R0/hqdefault.jpg",
@@ -2983,6 +2983,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7702150933655915789",
+      "youtube_id": "GBWIp4y-uro",
+      "title": "Snickers-Stuffed Baked Apples with Caramel & Ice Cream \ud83c\udf4e",
+      "tiktok_views": 1367,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/GBWIp4y-uro/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-29T20:59:12Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7664996407186607374",
@@ -3143,7 +3157,7 @@
       "youtube_id": "ySTHlZPy5R0",
       "title": "Hands extracting paste from nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ySTHlZPy5R0/hqdefault.jpg",
@@ -4229,20 +4243,6 @@
       "uploaded_at": "2026-10-19T21:05:28Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7650572669154348301",
-      "youtube_id": "2iMxW-fAkPQ",
-      "title": "Chocolate Lemon Kinder Cake That Melts in Your Mouth \u2728",
-      "tiktok_views": 20200,
-      "youtube_views": 10,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/2iMxW-fAkPQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-19T05:54:29Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -4538,7 +4538,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 139,
+    "total_uploads": 140,
     "total_views": 687,
     "total_likes": 0,
     "upcoming": {
@@ -5059,6 +5059,16 @@
     ],
     "runs": [
       {
+        "id": 149,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-10-29",
+        "status": "success",
+        "video_id": "1Z67fogg0xw",
+        "error_message": null,
+        "created_at": "2026-10-29T21:43:39.953819+00:00"
+      },
+      {
         "id": 148,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5247,21 +5257,11 @@
         "video_id": "oiSUKZ9olMg",
         "error_message": null,
         "created_at": "2026-10-23T06:54:13.042701+00:00"
-      },
-      {
-        "id": 129,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-10-23",
-        "status": "success",
-        "video_id": "_IyOIA-X-pQ",
-        "error_message": null,
-        "created_at": "2026-10-23T01:46:40.794222+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 376,
+    "total_uploads": 377,
     "total_views": 140143,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5293,6 +5293,16 @@
     }
   },
   "runs": [
+    {
+      "id": 149,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-10-29",
+      "status": "success",
+      "video_id": "1Z67fogg0xw",
+      "error_message": null,
+      "created_at": "2026-10-29T21:43:39.953819+00:00"
+    },
     {
       "id": 148,
       "channel_id": "channel_1",
@@ -5482,17 +5492,7 @@
       "video_id": "oiSUKZ9olMg",
       "error_message": null,
       "created_at": "2026-10-23T06:54:13.042701+00:00"
-    },
-    {
-      "id": 129,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-10-23",
-      "status": "success",
-      "video_id": "_IyOIA-X-pQ",
-      "error_message": null,
-      "created_at": "2026-10-23T01:46:40.794222+00:00"
     }
   ],
-  "last_updated": "2026-10-29T20:58:41.086208+00:00"
+  "last_updated": "2026-10-29T21:43:44.694430+00:00"
 }
