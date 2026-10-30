@@ -114,67 +114,67 @@
     },
     {
       "date": "2026-10-22",
-      "ch1_views": 15,
+      "ch1_views": 16,
       "ch2_views": 39,
       "ch3_views": 56,
       "ch4_views": 0,
-      "total_views": 110
+      "total_views": 111
     },
     {
       "date": "2026-10-23",
-      "ch1_views": 15,
+      "ch1_views": 16,
       "ch2_views": 61,
       "ch3_views": 80,
       "ch4_views": 0,
-      "total_views": 156
+      "total_views": 157
     },
     {
       "date": "2026-10-24",
-      "ch1_views": 22,
+      "ch1_views": 23,
       "ch2_views": 80,
       "ch3_views": 95,
       "ch4_views": 0,
-      "total_views": 197
+      "total_views": 198
     },
     {
       "date": "2026-10-25",
-      "ch1_views": 22,
+      "ch1_views": 23,
       "ch2_views": 82,
       "ch3_views": 101,
       "ch4_views": 0,
-      "total_views": 205
+      "total_views": 206
     },
     {
       "date": "2026-10-26",
-      "ch1_views": 24,
+      "ch1_views": 25,
       "ch2_views": 98,
       "ch3_views": 109,
       "ch4_views": 0,
-      "total_views": 231
+      "total_views": 232
     },
     {
       "date": "2026-10-27",
-      "ch1_views": 28,
+      "ch1_views": 29,
       "ch2_views": 109,
       "ch3_views": 121,
       "ch4_views": 0,
-      "total_views": 258
+      "total_views": 259
     },
     {
       "date": "2026-10-28",
-      "ch1_views": 28,
+      "ch1_views": 29,
       "ch2_views": 114,
       "ch3_views": 138,
       "ch4_views": 0,
-      "total_views": 280
+      "total_views": 281
     },
     {
       "date": "2026-10-29",
-      "ch1_views": 28,
-      "ch2_views": 114,
-      "ch3_views": 143,
+      "ch1_views": 30,
+      "ch2_views": 116,
+      "ch3_views": 145,
       "ch4_views": 0,
-      "total_views": 285
+      "total_views": 291
     }
   ],
   "channels": {
@@ -237,51 +237,51 @@
         },
         {
           "date": "2026-10-22",
-          "views": 4,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 16
         },
         {
           "date": "2026-10-23",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 16
         },
         {
           "date": "2026-10-24",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 23
         },
         {
           "date": "2026-10-25",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 23
         },
         {
           "date": "2026-10-26",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 25
         },
         {
           "date": "2026-10-27",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 28
+          "cumulative_views": 29
         },
         {
           "date": "2026-10-28",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 28
+          "cumulative_views": 29
         },
         {
           "date": "2026-10-29",
-          "views": 0,
+          "views": 1,
           "uploads": 3,
-          "cumulative_views": 28
+          "cumulative_views": 30
         }
       ],
       "videos": [
@@ -306,7 +306,7 @@
           "youtube_id": "LxD23ZSh2xI",
           "title": "\ud83d\ude02 \u201cShow Me Daddy Fixing Something\u201d\u2026 This Toddler Was TOO Accurate! \ud83e\udd23",
           "tiktok_views": 5460,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/LxD23ZSh2xI/hqdefault.jpg",
@@ -614,7 +614,7 @@
           "youtube_id": "bEp7IDEhuEA",
           "title": "Is This REALLY How Every Dad Comes Home After Work? \ud83d\ude02",
           "tiktok_views": 9736,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/bEp7IDEhuEA/hqdefault.jpg",
@@ -924,7 +924,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
-      "total_uploads": 127,
+      "total_uploads": 128,
       "total_views": 1431,
       "total_likes": 1,
       "upcoming": {
@@ -1016,9 +1016,9 @@
         },
         {
           "date": "2026-10-29",
-          "views": 0,
+          "views": 2,
           "uploads": 3,
-          "cumulative_views": 114
+          "cumulative_views": 116
         }
       ],
       "videos": [
@@ -1057,7 +1057,7 @@
           "youtube_id": "tknez266o6Y",
           "title": "Crispy Eggplant Meat Rolls \u2728",
           "tiktok_views": 9807,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/tknez266o6Y/hqdefault.jpg",
@@ -1445,6 +1445,16 @@
       ],
       "runs": [
         {
+          "id": 156,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-10-30",
+          "status": "success",
+          "video_id": "A2XN4jjFhp0",
+          "error_message": null,
+          "created_at": "2026-10-30T01:50:10.353788+00:00"
+        },
+        {
           "id": 155,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1633,16 +1643,6 @@
           "video_id": "lTN_iKsKog0",
           "error_message": null,
           "created_at": "2026-10-23T05:59:02.596924+00:00"
-        },
-        {
-          "id": 136,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-23",
-          "status": "success",
-          "video_id": "MIr9QJEVZV4",
-          "error_message": null,
-          "created_at": "2026-10-23T00:40:03.511412+00:00"
         }
       ]
     },
@@ -1661,7 +1661,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 91,
+      "total_uploads": 90,
       "total_views": 136457,
       "total_likes": 0,
       "upcoming": {
@@ -1747,9 +1747,9 @@
         },
         {
           "date": "2026-10-29",
-          "views": 5,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 143
+          "cumulative_views": 145
         }
       ],
       "videos": [
@@ -1760,7 +1760,7 @@
           "youtube_id": "CzKbzL6SIYI",
           "title": "Medical pick scraping nail buildup \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CzKbzL6SIYI/hqdefault.jpg",
@@ -2977,7 +2977,7 @@
       "youtube_id": "CzKbzL6SIYI",
       "title": "Medical pick scraping nail buildup \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CzKbzL6SIYI/hqdefault.jpg",
@@ -3019,7 +3019,7 @@
       "youtube_id": "LxD23ZSh2xI",
       "title": "\ud83d\ude02 \u201cShow Me Daddy Fixing Something\u201d\u2026 This Toddler Was TOO Accurate! \ud83e\udd23",
       "tiktok_views": 5460,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/LxD23ZSh2xI/hqdefault.jpg",
@@ -3075,7 +3075,7 @@
       "youtube_id": "tknez266o6Y",
       "title": "Crispy Eggplant Meat Rolls \u2728",
       "tiktok_views": 9807,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/tknez266o6Y/hqdefault.jpg",
@@ -3929,7 +3929,7 @@
       "youtube_id": "bEp7IDEhuEA",
       "title": "Is This REALLY How Every Dad Comes Home After Work? \ud83d\ude02",
       "tiktok_views": 9736,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/bEp7IDEhuEA/hqdefault.jpg",
@@ -4570,51 +4570,51 @@
       },
       {
         "date": "2026-10-22",
-        "views": 4,
+        "views": 5,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 16
       },
       {
         "date": "2026-10-23",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 16
       },
       {
         "date": "2026-10-24",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 23
       },
       {
         "date": "2026-10-25",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 23
       },
       {
         "date": "2026-10-26",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 25
       },
       {
         "date": "2026-10-27",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 28
+        "cumulative_views": 29
       },
       {
         "date": "2026-10-28",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 28
+        "cumulative_views": 29
       },
       {
         "date": "2026-10-29",
-        "views": 0,
+        "views": 1,
         "uploads": 3,
-        "cumulative_views": 28
+        "cumulative_views": 30
       }
     ],
     "videos": [
@@ -4639,7 +4639,7 @@
         "youtube_id": "LxD23ZSh2xI",
         "title": "\ud83d\ude02 \u201cShow Me Daddy Fixing Something\u201d\u2026 This Toddler Was TOO Accurate! \ud83e\udd23",
         "tiktok_views": 5460,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/LxD23ZSh2xI/hqdefault.jpg",
@@ -4947,7 +4947,7 @@
         "youtube_id": "bEp7IDEhuEA",
         "title": "Is This REALLY How Every Dad Comes Home After Work? \ud83d\ude02",
         "tiktok_views": 9736,
-        "youtube_views": 4,
+        "youtube_views": 5,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/bEp7IDEhuEA/hqdefault.jpg",
@@ -5476,5 +5476,5 @@
       "created_at": "2026-10-23T06:54:13.042701+00:00"
     }
   ],
-  "last_updated": "2026-10-29T21:56:52.907511+00:00"
+  "last_updated": "2026-10-30T01:50:15.806343+00:00"
 }
