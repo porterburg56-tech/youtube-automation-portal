@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 386,
+    "total_uploads": 387,
     "total_views": 140179,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -92,89 +92,89 @@
       "date": "2026-10-20",
       "ch1_views": 0,
       "ch2_views": 4,
-      "ch3_views": 3,
+      "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 7
+      "total_views": 4
     },
     {
       "date": "2026-10-21",
       "ch1_views": 1,
       "ch2_views": 19,
-      "ch3_views": 13,
+      "ch3_views": 10,
       "ch4_views": 0,
-      "total_views": 33
+      "total_views": 30
     },
     {
       "date": "2026-10-22",
       "ch1_views": 6,
       "ch2_views": 28,
-      "ch3_views": 41,
+      "ch3_views": 38,
       "ch4_views": 0,
-      "total_views": 75
+      "total_views": 72
     },
     {
       "date": "2026-10-23",
       "ch1_views": 6,
       "ch2_views": 50,
-      "ch3_views": 65,
+      "ch3_views": 62,
       "ch4_views": 0,
-      "total_views": 121
+      "total_views": 118
     },
     {
       "date": "2026-10-24",
       "ch1_views": 13,
       "ch2_views": 69,
-      "ch3_views": 80,
+      "ch3_views": 77,
       "ch4_views": 0,
-      "total_views": 162
+      "total_views": 159
     },
     {
       "date": "2026-10-25",
       "ch1_views": 15,
       "ch2_views": 71,
-      "ch3_views": 86,
+      "ch3_views": 83,
       "ch4_views": 0,
-      "total_views": 172
+      "total_views": 169
     },
     {
       "date": "2026-10-26",
       "ch1_views": 17,
       "ch2_views": 87,
-      "ch3_views": 95,
+      "ch3_views": 92,
       "ch4_views": 0,
-      "total_views": 199
+      "total_views": 196
     },
     {
       "date": "2026-10-27",
       "ch1_views": 21,
       "ch2_views": 98,
-      "ch3_views": 107,
+      "ch3_views": 104,
       "ch4_views": 0,
-      "total_views": 226
+      "total_views": 223
     },
     {
       "date": "2026-10-28",
       "ch1_views": 21,
       "ch2_views": 105,
-      "ch3_views": 124,
+      "ch3_views": 121,
       "ch4_views": 0,
-      "total_views": 250
+      "total_views": 247
     },
     {
       "date": "2026-10-29",
       "ch1_views": 22,
       "ch2_views": 112,
-      "ch3_views": 135,
+      "ch3_views": 132,
       "ch4_views": 0,
-      "total_views": 269
+      "total_views": 266
     },
     {
       "date": "2026-10-30",
-      "ch1_views": 27,
+      "ch1_views": 25,
       "ch2_views": 119,
-      "ch3_views": 139,
+      "ch3_views": 136,
       "ch4_views": 0,
-      "total_views": 285
+      "total_views": 280
     }
   ],
   "channels": {
@@ -279,9 +279,9 @@
         },
         {
           "date": "2026-10-30",
-          "views": 5,
+          "views": 3,
           "uploads": 3,
-          "cumulative_views": 27
+          "cumulative_views": 25
         }
       ],
       "videos": [
@@ -320,7 +320,7 @@
           "youtube_id": "O47DFE2_Mt0",
           "title": "Alexa Ignored the Toddler\u2026 But Listened to the Cat Instead! \ud83d\ude02\ud83d\udc31",
           "tiktok_views": 5394,
-          "youtube_views": 5,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/O47DFE2_Mt0/hqdefault.jpg",
@@ -1661,7 +1661,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 93,
+      "total_uploads": 94,
       "total_views": 136476,
       "total_likes": 0,
       "upcoming": {
@@ -1692,73 +1692,81 @@
       },
       "view_history": [
         {
-          "date": "2026-10-20",
-          "views": 3,
-          "uploads": 1,
-          "cumulative_views": 3
-        },
-        {
           "date": "2026-10-21",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 10
         },
         {
           "date": "2026-10-22",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 41
+          "cumulative_views": 38
         },
         {
           "date": "2026-10-23",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 65
+          "cumulative_views": 62
         },
         {
           "date": "2026-10-24",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 80
+          "cumulative_views": 77
         },
         {
           "date": "2026-10-25",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 86
+          "cumulative_views": 83
         },
         {
           "date": "2026-10-26",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 95
+          "cumulative_views": 92
         },
         {
           "date": "2026-10-27",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 107
+          "cumulative_views": 104
         },
         {
           "date": "2026-10-28",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 124
+          "cumulative_views": 121
         },
         {
           "date": "2026-10-29",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 135
+          "cumulative_views": 132
         },
         {
           "date": "2026-10-30",
           "views": 4,
-          "uploads": 2,
-          "cumulative_views": 139
+          "uploads": 3,
+          "cumulative_views": 136
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "17VlAB4DGa-3P1B89uWnfaZjAuXkxwQLF",
+          "youtube_id": "QmtohsyN-7c",
+          "title": "Medical tool cleaning yellowed t\u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/QmtohsyN-7c/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-30T21:28:57Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2164,20 +2172,6 @@
           "thumbnail": "https://i.ytimg.com/vi/XpaZoUSYVdY/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-21T00:38:43Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1S9t3qGCf4uI3pIBmZ3y6SEMpe5jeIPyb",
-          "youtube_id": "b57e1hdftHc",
-          "title": "Professional performing medical \u2026(1) \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/b57e1hdftHc/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-20T20:34:47Z"
         }
       ],
       "runs": [
@@ -2773,6 +2767,16 @@
       ],
       "runs": [
         {
+          "id": 110,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-10-30",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-30T21:41:32.512943+00:00"
+        },
+        {
           "id": 109,
           "channel_id": "channel_4",
           "slot": 3,
@@ -2961,21 +2965,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-24T06:03:45.596493+00:00"
-        },
-        {
-          "id": 90,
-          "channel_id": "channel_4",
-          "slot": 2,
-          "run_date": "2026-10-24",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-24T00:51:37.282538+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "17VlAB4DGa-3P1B89uWnfaZjAuXkxwQLF",
+      "youtube_id": "QmtohsyN-7c",
+      "title": "Medical tool cleaning yellowed t\u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/QmtohsyN-7c/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-30T21:28:57Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -3053,7 +3061,7 @@
       "youtube_id": "O47DFE2_Mt0",
       "title": "Alexa Ignored the Toddler\u2026 But Listened to the Cat Instead! \ud83d\ude02\ud83d\udc31",
       "tiktok_views": 5394,
-      "youtube_views": 5,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/O47DFE2_Mt0/hqdefault.jpg",
@@ -4209,20 +4217,6 @@
       "uploaded_at": "2026-10-21T00:38:43Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1S9t3qGCf4uI3pIBmZ3y6SEMpe5jeIPyb",
-      "youtube_id": "b57e1hdftHc",
-      "title": "Professional performing medical \u2026(1) \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/b57e1hdftHc/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-20T20:34:47Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7698803805827206414",
@@ -4618,9 +4612,9 @@
       },
       {
         "date": "2026-10-30",
-        "views": 5,
+        "views": 3,
         "uploads": 3,
-        "cumulative_views": 27
+        "cumulative_views": 25
       }
     ],
     "videos": [
@@ -4659,7 +4653,7 @@
         "youtube_id": "O47DFE2_Mt0",
         "title": "Alexa Ignored the Toddler\u2026 But Listened to the Cat Instead! \ud83d\ude02\ud83d\udc31",
         "tiktok_views": 5394,
-        "youtube_views": 5,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/O47DFE2_Mt0/hqdefault.jpg",
@@ -5249,7 +5243,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 386,
+    "total_uploads": 387,
     "total_views": 140179,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5482,5 +5476,5 @@
       "created_at": "2026-10-24T06:50:12.894312+00:00"
     }
   ],
-  "last_updated": "2026-10-30T21:28:42.683321+00:00"
+  "last_updated": "2026-10-30T21:41:37.172822+00:00"
 }
