@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 386,
-    "total_views": 140173,
+    "total_views": 140179,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -163,18 +163,18 @@
     {
       "date": "2026-10-29",
       "ch1_views": 22,
-      "ch2_views": 111,
+      "ch2_views": 112,
       "ch3_views": 135,
       "ch4_views": 0,
-      "total_views": 268
+      "total_views": 269
     },
     {
       "date": "2026-10-30",
-      "ch1_views": 25,
-      "ch2_views": 118,
+      "ch1_views": 27,
+      "ch2_views": 119,
       "ch3_views": 139,
       "ch4_views": 0,
-      "total_views": 282
+      "total_views": 285
     }
   ],
   "channels": {
@@ -223,12 +223,6 @@
         }
       },
       "view_history": [
-        {
-          "date": "2026-10-20",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
         {
           "date": "2026-10-21",
           "views": 1,
@@ -285,12 +279,26 @@
         },
         {
           "date": "2026-10-30",
-          "views": 3,
-          "uploads": 2,
-          "cumulative_views": 25
+          "views": 5,
+          "uploads": 3,
+          "cumulative_views": 27
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7702493360258436365",
+          "youtube_id": "iHuiqfDpXZk",
+          "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
+          "tiktok_views": 45500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-30T21:26:51Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -312,7 +320,7 @@
           "youtube_id": "O47DFE2_Mt0",
           "title": "Alexa Ignored the Toddler\u2026 But Listened to the Cat Instead! \ud83d\ude02\ud83d\udc31",
           "tiktok_views": 5394,
-          "youtube_views": 3,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/O47DFE2_Mt0/hqdefault.jpg",
@@ -696,20 +704,6 @@
           "thumbnail": "https://i.ytimg.com/vi/re3Apr51YDA/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-21T01:54:56Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7674223599842053389",
-          "youtube_id": "qBfYcmJ1NUk",
-          "title": "Every second just kept getting better. \u2764\ufe0f\ud83e\udd23",
-          "tiktok_views": 10200,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/qBfYcmJ1NUk/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-20T20:26:18Z"
         }
       ],
       "runs": [
@@ -1016,15 +1010,15 @@
         },
         {
           "date": "2026-10-29",
-          "views": 6,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 111
+          "cumulative_views": 112
         },
         {
           "date": "2026-10-30",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 118
+          "cumulative_views": 119
         }
       ],
       "videos": [
@@ -1077,7 +1071,7 @@
           "youtube_id": "GBWIp4y-uro",
           "title": "Snickers-Stuffed Baked Apples with Caramel & Ice Cream \ud83c\udf4e",
           "tiktok_views": 1367,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/GBWIp4y-uro/hqdefault.jpg",
@@ -1668,7 +1662,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 93,
-      "total_views": 136470,
+      "total_views": 136476,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -2188,6 +2182,16 @@
       ],
       "runs": [
         {
+          "id": 117,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-30",
+          "status": "success",
+          "video_id": "QmtohsyN-7c",
+          "error_message": null,
+          "created_at": "2026-10-30T21:28:38.573461+00:00"
+        },
+        {
           "id": 116,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2376,16 +2380,6 @@
           "video_id": "m4_o8lVwmZo",
           "error_message": null,
           "created_at": "2026-10-24T05:48:20.125954+00:00"
-        },
-        {
-          "id": 97,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-24",
-          "status": "success",
-          "video_id": "mRc0BLTXHb4",
-          "error_message": null,
-          "created_at": "2026-10-24T00:43:47.458719+00:00"
         }
       ]
     },
@@ -2983,6 +2977,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7702493360258436365",
+      "youtube_id": "iHuiqfDpXZk",
+      "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
+      "tiktok_views": 45500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-30T21:26:51Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7702530022719950093",
@@ -3045,7 +3053,7 @@
       "youtube_id": "O47DFE2_Mt0",
       "title": "Alexa Ignored the Toddler\u2026 But Listened to the Cat Instead! \ud83d\ude02\ud83d\udc31",
       "tiktok_views": 5394,
-      "youtube_views": 3,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/O47DFE2_Mt0/hqdefault.jpg",
@@ -3115,7 +3123,7 @@
       "youtube_id": "GBWIp4y-uro",
       "title": "Snickers-Stuffed Baked Apples with Caramel & Ice Cream \ud83c\udf4e",
       "tiktok_views": 1367,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/GBWIp4y-uro/hqdefault.jpg",
@@ -4215,20 +4223,6 @@
       "uploaded_at": "2026-10-20T20:34:47Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7674223599842053389",
-      "youtube_id": "qBfYcmJ1NUk",
-      "title": "Every second just kept getting better. \u2764\ufe0f\ud83e\udd23",
-      "tiktok_views": 10200,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/qBfYcmJ1NUk/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-20T20:26:18Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7698803805827206414",
@@ -4569,12 +4563,6 @@
     },
     "view_history": [
       {
-        "date": "2026-10-20",
-        "views": 0,
-        "uploads": 1,
-        "cumulative_views": 0
-      },
-      {
         "date": "2026-10-21",
         "views": 1,
         "uploads": 3,
@@ -4630,12 +4618,26 @@
       },
       {
         "date": "2026-10-30",
-        "views": 3,
-        "uploads": 2,
-        "cumulative_views": 25
+        "views": 5,
+        "uploads": 3,
+        "cumulative_views": 27
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7702493360258436365",
+        "youtube_id": "iHuiqfDpXZk",
+        "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
+        "tiktok_views": 45500,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-30T21:26:51Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4657,7 +4659,7 @@
         "youtube_id": "O47DFE2_Mt0",
         "title": "Alexa Ignored the Toddler\u2026 But Listened to the Cat Instead! \ud83d\ude02\ud83d\udc31",
         "tiktok_views": 5394,
-        "youtube_views": 3,
+        "youtube_views": 5,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/O47DFE2_Mt0/hqdefault.jpg",
@@ -5041,20 +5043,6 @@
         "thumbnail": "https://i.ytimg.com/vi/re3Apr51YDA/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-21T01:54:56Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7674223599842053389",
-        "youtube_id": "qBfYcmJ1NUk",
-        "title": "Every second just kept getting better. \u2764\ufe0f\ud83e\udd23",
-        "tiktok_views": 10200,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/qBfYcmJ1NUk/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-20T20:26:18Z"
       }
     ],
     "runs": [
@@ -5262,7 +5250,7 @@
   },
   "kpis": {
     "total_uploads": 386,
-    "total_views": 140173,
+    "total_views": 140179,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5494,5 +5482,5 @@
       "created_at": "2026-10-24T06:50:12.894312+00:00"
     }
   ],
-  "last_updated": "2026-10-30T21:26:34.778744+00:00"
+  "last_updated": "2026-10-30T21:28:42.683321+00:00"
 }
