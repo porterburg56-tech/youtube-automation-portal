@@ -91,90 +91,90 @@
     {
       "date": "2026-10-20",
       "ch1_views": 10,
-      "ch2_views": 15,
+      "ch2_views": 9,
       "ch3_views": 10,
       "ch4_views": 0,
-      "total_views": 35
+      "total_views": 29
     },
     {
       "date": "2026-10-21",
       "ch1_views": 11,
-      "ch2_views": 30,
+      "ch2_views": 24,
       "ch3_views": 20,
       "ch4_views": 0,
-      "total_views": 61
+      "total_views": 55
     },
     {
       "date": "2026-10-22",
       "ch1_views": 16,
-      "ch2_views": 39,
+      "ch2_views": 33,
       "ch3_views": 48,
       "ch4_views": 0,
-      "total_views": 103
+      "total_views": 97
     },
     {
       "date": "2026-10-23",
       "ch1_views": 16,
-      "ch2_views": 61,
+      "ch2_views": 55,
       "ch3_views": 72,
       "ch4_views": 0,
-      "total_views": 149
+      "total_views": 143
     },
     {
       "date": "2026-10-24",
       "ch1_views": 23,
-      "ch2_views": 80,
+      "ch2_views": 74,
       "ch3_views": 87,
       "ch4_views": 0,
-      "total_views": 190
+      "total_views": 184
     },
     {
       "date": "2026-10-25",
       "ch1_views": 25,
-      "ch2_views": 82,
+      "ch2_views": 76,
       "ch3_views": 93,
       "ch4_views": 0,
-      "total_views": 200
+      "total_views": 194
     },
     {
       "date": "2026-10-26",
       "ch1_views": 27,
-      "ch2_views": 98,
+      "ch2_views": 92,
       "ch3_views": 101,
       "ch4_views": 0,
-      "total_views": 226
+      "total_views": 220
     },
     {
       "date": "2026-10-27",
       "ch1_views": 31,
-      "ch2_views": 109,
+      "ch2_views": 103,
       "ch3_views": 113,
       "ch4_views": 0,
-      "total_views": 253
+      "total_views": 247
     },
     {
       "date": "2026-10-28",
       "ch1_views": 31,
-      "ch2_views": 115,
+      "ch2_views": 109,
       "ch3_views": 130,
       "ch4_views": 0,
-      "total_views": 276
+      "total_views": 270
     },
     {
       "date": "2026-10-29",
       "ch1_views": 32,
-      "ch2_views": 118,
+      "ch2_views": 113,
       "ch3_views": 138,
       "ch4_views": 0,
-      "total_views": 288
+      "total_views": 283
     },
     {
       "date": "2026-10-30",
       "ch1_views": 34,
-      "ch2_views": 118,
+      "ch2_views": 113,
       "ch3_views": 139,
       "ch4_views": 0,
-      "total_views": 291
+      "total_views": 286
     }
   ],
   "channels": {
@@ -962,72 +962,86 @@
       "view_history": [
         {
           "date": "2026-10-20",
-          "views": 15,
-          "uploads": 3,
-          "cumulative_views": 15
+          "views": 9,
+          "uploads": 2,
+          "cumulative_views": 9
         },
         {
           "date": "2026-10-21",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 30
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-22",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 39
+          "cumulative_views": 33
         },
         {
           "date": "2026-10-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 61
+          "cumulative_views": 55
         },
         {
           "date": "2026-10-24",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 80
+          "cumulative_views": 74
         },
         {
           "date": "2026-10-25",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 82
+          "cumulative_views": 76
         },
         {
           "date": "2026-10-26",
           "views": 16,
           "uploads": 2,
-          "cumulative_views": 98
+          "cumulative_views": 92
         },
         {
           "date": "2026-10-27",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 109
+          "cumulative_views": 103
         },
         {
           "date": "2026-10-28",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 115
+          "cumulative_views": 109
         },
         {
           "date": "2026-10-29",
-          "views": 3,
+          "views": 4,
           "uploads": 3,
-          "cumulative_views": 118
+          "cumulative_views": 113
         },
         {
           "date": "2026-10-30",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 118
+          "uploads": 2,
+          "cumulative_views": 113
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7667637532657487118",
+          "youtube_id": "AGp76c2nkHI",
+          "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
+          "tiktok_views": 8290,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/AGp76c2nkHI/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-30T06:58:01Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1063,7 +1077,7 @@
           "youtube_id": "dPBtaS6-wAY",
           "title": "Taste & Tales \u2728",
           "tiktok_views": 9450,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dPBtaS6-wAY/hqdefault.jpg",
@@ -1433,20 +1447,6 @@
           "thumbnail": "https://i.ytimg.com/vi/pAUzjkAQAPw/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-20T05:55:38Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7660221928916978957",
-          "youtube_id": "yzSnALdYapw",
-          "title": "Strawberry Coffee Dessert Cups That Melt in Your Mouth \ud83c\udf53\u2615",
-          "tiktok_views": 19800,
-          "youtube_views": 6,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/yzSnALdYapw/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-20T01:14:50Z"
         }
       ],
       "runs": [
@@ -2188,6 +2188,16 @@
       ],
       "runs": [
         {
+          "id": 116,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-30",
+          "status": "success",
+          "video_id": "V7ByFUim07U",
+          "error_message": null,
+          "created_at": "2026-10-30T07:05:13.959750+00:00"
+        },
+        {
           "id": 115,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2376,16 +2386,6 @@
           "video_id": "mRc0BLTXHb4",
           "error_message": null,
           "created_at": "2026-10-24T00:43:47.458719+00:00"
-        },
-        {
-          "id": 96,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-23",
-          "status": "success",
-          "video_id": "dAiy2lbo13M",
-          "error_message": null,
-          "created_at": "2026-10-23T20:26:17.059735+00:00"
         }
       ]
     },
@@ -2983,6 +2983,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7667637532657487118",
+      "youtube_id": "AGp76c2nkHI",
+      "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
+      "tiktok_views": 8290,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/AGp76c2nkHI/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-30T06:58:01Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7664588742086216974",
@@ -3101,7 +3115,7 @@
       "youtube_id": "dPBtaS6-wAY",
       "title": "Taste & Tales \u2728",
       "tiktok_views": 9450,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dPBtaS6-wAY/hqdefault.jpg",
@@ -4227,20 +4241,6 @@
       "thumbnail": "https://i.ytimg.com/vi/pAUzjkAQAPw/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-20T05:55:38Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7660221928916978957",
-      "youtube_id": "yzSnALdYapw",
-      "title": "Strawberry Coffee Dessert Cups That Melt in Your Mouth \ud83c\udf53\u2615",
-      "tiktok_views": 19800,
-      "youtube_views": 6,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/yzSnALdYapw/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-20T01:14:50Z"
     },
     {
       "channel_id": "channel_4",
@@ -5494,5 +5494,5 @@
       "created_at": "2026-10-23T20:18:16.578248+00:00"
     }
   ],
-  "last_updated": "2026-10-30T06:57:13.840259+00:00"
+  "last_updated": "2026-10-30T07:05:18.311569+00:00"
 }
