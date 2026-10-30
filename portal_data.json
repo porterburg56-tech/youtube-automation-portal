@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 378,
+    "total_uploads": 379,
     "total_views": 140143,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -89,14 +89,6 @@
       "total_views": 1568
     },
     {
-      "date": "2026-10-19",
-      "ch1_views": 0,
-      "ch2_views": 0,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 0
-    },
-    {
       "date": "2026-10-20",
       "ch1_views": 10,
       "ch2_views": 15,
@@ -175,6 +167,14 @@
       "ch3_views": 145,
       "ch4_views": 0,
       "total_views": 291
+    },
+    {
+      "date": "2026-10-30",
+      "ch1_views": 0,
+      "ch2_views": 116,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 116
     }
   ],
   "channels": {
@@ -955,12 +955,6 @@
       },
       "view_history": [
         {
-          "date": "2026-10-19",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
-        {
           "date": "2026-10-20",
           "views": 15,
           "uploads": 3,
@@ -1019,9 +1013,29 @@
           "views": 2,
           "uploads": 3,
           "cumulative_views": 116
+        },
+        {
+          "date": "2026-10-30",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 116
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7652053896570899726",
+          "youtube_id": "A2XN4jjFhp0",
+          "title": "Hidden Layered Meat Bake That Everyone Will Ask You to Make Again \u2728",
+          "tiktok_views": 9174,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/A2XN4jjFhp0/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-30T01:50:44Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1427,20 +1441,6 @@
           "thumbnail": "https://i.ytimg.com/vi/yzSnALdYapw/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-20T01:14:50Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7698429741501517070",
-          "youtube_id": "ooHXqhZwflc",
-          "title": "Cheesy Puff Pastry with Frankfurters and Onion Rings \ud83e\uddc0",
-          "tiktok_views": 1998,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/ooHXqhZwflc/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-19T21:05:28Z"
         }
       ],
       "runs": [
@@ -1661,7 +1661,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 90,
+      "total_uploads": 91,
       "total_views": 136457,
       "total_likes": 0,
       "upcoming": {
@@ -2176,6 +2176,16 @@
       ],
       "runs": [
         {
+          "id": 115,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-10-30",
+          "status": "success",
+          "video_id": "rg43r3vIUS8",
+          "error_message": null,
+          "created_at": "2026-10-30T01:58:37.062174+00:00"
+        },
+        {
           "id": 114,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2364,16 +2374,6 @@
           "video_id": "dAiy2lbo13M",
           "error_message": null,
           "created_at": "2026-10-23T20:26:17.059735+00:00"
-        },
-        {
-          "id": 95,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-23",
-          "status": "success",
-          "video_id": "eWnmzCi8MjM",
-          "error_message": null,
-          "created_at": "2026-10-23T06:28:30.070217+00:00"
         }
       ]
     },
@@ -2970,6 +2970,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7652053896570899726",
+      "youtube_id": "A2XN4jjFhp0",
+      "title": "Hidden Layered Meat Bake That Everyone Will Ask You to Make Again \u2728",
+      "tiktok_views": 9174,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/A2XN4jjFhp0/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-30T01:50:44Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -4217,20 +4231,6 @@
       "uploaded_at": "2026-10-20T01:07:06Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7698429741501517070",
-      "youtube_id": "ooHXqhZwflc",
-      "title": "Cheesy Puff Pastry with Frankfurters and Onion Rings \ud83e\uddc0",
-      "tiktok_views": 1998,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/ooHXqhZwflc/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-19T21:05:28Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -5243,7 +5243,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 378,
+    "total_uploads": 379,
     "total_views": 140143,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5476,5 +5476,5 @@
       "created_at": "2026-10-23T06:54:13.042701+00:00"
     }
   ],
-  "last_updated": "2026-10-30T01:50:15.806343+00:00"
+  "last_updated": "2026-10-30T01:58:41.382599+00:00"
 }
