@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 383,
+    "total_uploads": 384,
     "total_views": 140143,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -172,9 +172,9 @@
       "date": "2026-10-30",
       "ch1_views": 34,
       "ch2_views": 113,
-      "ch3_views": 132,
+      "ch3_views": 131,
       "ch4_views": 0,
-      "total_views": 279
+      "total_views": 278
     }
   ],
   "channels": {
@@ -193,7 +193,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 141,
+      "total_uploads": 142,
       "total_views": 687,
       "total_likes": 0,
       "upcoming": {
@@ -714,6 +714,16 @@
       ],
       "runs": [
         {
+          "id": 151,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-10-30",
+          "status": "success",
+          "video_id": "kBatZnTZd58",
+          "error_message": null,
+          "created_at": "2026-10-30T08:00:23.373302+00:00"
+        },
+        {
           "id": 150,
           "channel_id": "channel_1",
           "slot": 2,
@@ -902,16 +912,6 @@
           "video_id": "WE6efn5Ri9E",
           "error_message": null,
           "created_at": "2026-10-24T01:50:56.008262+00:00"
-        },
-        {
-          "id": 131,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-10-23",
-          "status": "success",
-          "video_id": "h9Yz6NAgXNA",
-          "error_message": null,
-          "created_at": "2026-10-23T20:18:16.578248+00:00"
         }
       ]
     },
@@ -1759,9 +1759,9 @@
         },
         {
           "date": "2026-10-30",
-          "views": 1,
+          "views": 0,
           "uploads": 2,
-          "cumulative_views": 132
+          "cumulative_views": 131
         }
       ],
       "videos": [
@@ -1786,7 +1786,7 @@
           "youtube_id": "rg43r3vIUS8",
           "title": "Medical professional performing \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/rg43r3vIUS8/hqdefault.jpg",
@@ -3031,7 +3031,7 @@
       "youtube_id": "rg43r3vIUS8",
       "title": "Medical professional performing \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/rg43r3vIUS8/hqdefault.jpg",
@@ -4538,7 +4538,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 141,
+    "total_uploads": 142,
     "total_views": 687,
     "total_likes": 0,
     "upcoming": {
@@ -5059,6 +5059,16 @@
     ],
     "runs": [
       {
+        "id": 151,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-10-30",
+        "status": "success",
+        "video_id": "kBatZnTZd58",
+        "error_message": null,
+        "created_at": "2026-10-30T08:00:23.373302+00:00"
+      },
+      {
         "id": 150,
         "channel_id": "channel_1",
         "slot": 2,
@@ -5247,21 +5257,11 @@
         "video_id": "WE6efn5Ri9E",
         "error_message": null,
         "created_at": "2026-10-24T01:50:56.008262+00:00"
-      },
-      {
-        "id": 131,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-10-23",
-        "status": "success",
-        "video_id": "h9Yz6NAgXNA",
-        "error_message": null,
-        "created_at": "2026-10-23T20:18:16.578248+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 383,
+    "total_uploads": 384,
     "total_views": 140143,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5293,6 +5293,16 @@
     }
   },
   "runs": [
+    {
+      "id": 151,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-10-30",
+      "status": "success",
+      "video_id": "kBatZnTZd58",
+      "error_message": null,
+      "created_at": "2026-10-30T08:00:23.373302+00:00"
+    },
     {
       "id": 150,
       "channel_id": "channel_1",
@@ -5482,17 +5492,7 @@
       "video_id": "WE6efn5Ri9E",
       "error_message": null,
       "created_at": "2026-10-24T01:50:56.008262+00:00"
-    },
-    {
-      "id": 131,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-10-23",
-      "status": "success",
-      "video_id": "h9Yz6NAgXNA",
-      "error_message": null,
-      "created_at": "2026-10-23T20:18:16.578248+00:00"
     }
   ],
-  "last_updated": "2026-10-30T07:21:21.603482+00:00"
+  "last_updated": "2026-10-30T08:00:27.808341+00:00"
 }
