@@ -172,9 +172,9 @@
       "date": "2026-10-31",
       "ch1_views": 34,
       "ch2_views": 115,
-      "ch3_views": 146,
+      "ch3_views": 145,
       "ch4_views": 0,
-      "total_views": 295
+      "total_views": 294
     }
   ],
   "channels": {
@@ -1759,9 +1759,9 @@
         },
         {
           "date": "2026-10-31",
-          "views": 6,
+          "views": 5,
           "uploads": 2,
-          "cumulative_views": 146
+          "cumulative_views": 145
         }
       ],
       "videos": [
@@ -1772,7 +1772,7 @@
           "youtube_id": "Ok5wftBEbIs",
           "title": "Metal pick removing debris from \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Ok5wftBEbIs/hqdefault.jpg",
@@ -2188,6 +2188,16 @@
       ],
       "runs": [
         {
+          "id": 120,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-10-31",
+          "status": "success",
+          "video_id": "dlK2wGNAJGc",
+          "error_message": null,
+          "created_at": "2026-10-31T20:27:23.562882+00:00"
+        },
+        {
           "id": 119,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2376,16 +2386,6 @@
           "video_id": "Kww1g3bS0_w",
           "error_message": null,
           "created_at": "2026-10-25T06:04:27.099281+00:00"
-        },
-        {
-          "id": 100,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-25",
-          "status": "success",
-          "video_id": "VzwFVRogy1o",
-          "error_message": null,
-          "created_at": "2026-10-25T00:21:12.982691+00:00"
         }
       ]
     },
@@ -3017,7 +3017,7 @@
       "youtube_id": "Ok5wftBEbIs",
       "title": "Metal pick removing debris from \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Ok5wftBEbIs/hqdefault.jpg",
@@ -5494,5 +5494,5 @@
       "created_at": "2026-10-25T07:14:01.562018+00:00"
     }
   ],
-  "last_updated": "2026-10-31T20:27:12.772446+00:00"
+  "last_updated": "2026-10-31T20:27:30.597121+00:00"
 }
