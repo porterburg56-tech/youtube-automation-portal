@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 391,
-    "total_views": 140200,
+    "total_views": 140205,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -91,90 +91,90 @@
     {
       "date": "2026-10-21",
       "ch1_views": 1,
-      "ch2_views": 15,
+      "ch2_views": 9,
       "ch3_views": 10,
       "ch4_views": 0,
-      "total_views": 26
+      "total_views": 20
     },
     {
       "date": "2026-10-22",
       "ch1_views": 6,
-      "ch2_views": 24,
+      "ch2_views": 18,
       "ch3_views": 38,
       "ch4_views": 0,
-      "total_views": 68
+      "total_views": 62
     },
     {
       "date": "2026-10-23",
       "ch1_views": 6,
-      "ch2_views": 46,
+      "ch2_views": 40,
       "ch3_views": 62,
       "ch4_views": 0,
-      "total_views": 114
+      "total_views": 108
     },
     {
       "date": "2026-10-24",
       "ch1_views": 13,
-      "ch2_views": 65,
+      "ch2_views": 59,
       "ch3_views": 77,
       "ch4_views": 0,
-      "total_views": 155
+      "total_views": 149
     },
     {
       "date": "2026-10-25",
       "ch1_views": 15,
-      "ch2_views": 67,
+      "ch2_views": 61,
       "ch3_views": 83,
       "ch4_views": 0,
-      "total_views": 165
+      "total_views": 159
     },
     {
       "date": "2026-10-26",
       "ch1_views": 17,
-      "ch2_views": 83,
+      "ch2_views": 77,
       "ch3_views": 92,
       "ch4_views": 0,
-      "total_views": 192
+      "total_views": 186
     },
     {
       "date": "2026-10-27",
       "ch1_views": 21,
-      "ch2_views": 94,
+      "ch2_views": 88,
       "ch3_views": 104,
       "ch4_views": 0,
-      "total_views": 219
+      "total_views": 213
     },
     {
       "date": "2026-10-28",
       "ch1_views": 22,
-      "ch2_views": 101,
+      "ch2_views": 95,
       "ch3_views": 122,
       "ch4_views": 0,
-      "total_views": 245
+      "total_views": 239
     },
     {
       "date": "2026-10-29",
       "ch1_views": 27,
-      "ch2_views": 110,
+      "ch2_views": 104,
       "ch3_views": 134,
       "ch4_views": 0,
-      "total_views": 271
+      "total_views": 265
     },
     {
       "date": "2026-10-30",
-      "ch1_views": 33,
-      "ch2_views": 118,
+      "ch1_views": 32,
+      "ch2_views": 112,
       "ch3_views": 140,
       "ch4_views": 0,
-      "total_views": 291
+      "total_views": 284
     },
     {
       "date": "2026-10-31",
-      "ch1_views": 33,
-      "ch2_views": 118,
+      "ch1_views": 32,
+      "ch2_views": 112,
       "ch3_views": 140,
       "ch4_views": 0,
-      "total_views": 291
+      "total_views": 284
     }
   ],
   "channels": {
@@ -279,15 +279,15 @@
         },
         {
           "date": "2026-10-30",
-          "views": 6,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 33
+          "cumulative_views": 32
         },
         {
           "date": "2026-10-31",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 33
+          "cumulative_views": 32
         }
       ],
       "videos": [
@@ -312,7 +312,7 @@
           "youtube_id": "iHuiqfDpXZk",
           "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
           "tiktok_views": 45500,
-          "youtube_views": 1,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
@@ -962,72 +962,86 @@
       "view_history": [
         {
           "date": "2026-10-21",
-          "views": 15,
-          "uploads": 3,
-          "cumulative_views": 15
+          "views": 9,
+          "uploads": 2,
+          "cumulative_views": 9
         },
         {
           "date": "2026-10-22",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 46
+          "cumulative_views": 40
         },
         {
           "date": "2026-10-24",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 65
+          "cumulative_views": 59
         },
         {
           "date": "2026-10-25",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 67
+          "cumulative_views": 61
         },
         {
           "date": "2026-10-26",
           "views": 16,
           "uploads": 2,
-          "cumulative_views": 83
+          "cumulative_views": 77
         },
         {
           "date": "2026-10-27",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 94
+          "cumulative_views": 88
         },
         {
           "date": "2026-10-28",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 101
+          "cumulative_views": 95
         },
         {
           "date": "2026-10-29",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 110
+          "cumulative_views": 104
         },
         {
           "date": "2026-10-30",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 118
+          "cumulative_views": 112
         },
         {
           "date": "2026-10-31",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 118
+          "uploads": 2,
+          "cumulative_views": 112
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7650201063118769422",
+          "youtube_id": "7R64A0GKFj0",
+          "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
+          "tiktok_views": 8060,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/7R64A0GKFj0/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-31T06:48:14Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1433,20 +1447,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ayQRr1rtLA8/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-21T06:01:29Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7660588704481807629",
-          "youtube_id": "YYS9GsqQmxE",
-          "title": "Berry Cream Puff Pastry Cups That Melt in Your Mouth \ud83e\uded0\ud83c\udf53",
-          "tiktok_views": 14500,
-          "youtube_views": 6,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/YYS9GsqQmxE/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-21T00:42:10Z"
         }
       ],
       "runs": [
@@ -1668,7 +1668,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 95,
-      "total_views": 136476,
+      "total_views": 136481,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -2188,6 +2188,16 @@
       ],
       "runs": [
         {
+          "id": 119,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-10-31",
+          "status": "success",
+          "video_id": "Ok5wftBEbIs",
+          "error_message": null,
+          "created_at": "2026-10-31T06:58:08.002681+00:00"
+        },
+        {
           "id": 118,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2376,16 +2386,6 @@
           "video_id": "VzwFVRogy1o",
           "error_message": null,
           "created_at": "2026-10-25T00:21:12.982691+00:00"
-        },
-        {
-          "id": 99,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-24",
-          "status": "success",
-          "video_id": "m35wNsYWFT8",
-          "error_message": null,
-          "created_at": "2026-10-24T19:28:52.420060+00:00"
         }
       ]
     },
@@ -2983,6 +2983,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7650201063118769422",
+      "youtube_id": "7R64A0GKFj0",
+      "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
+      "tiktok_views": 8060,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/7R64A0GKFj0/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-31T06:48:14Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7665348553920826637",
@@ -3045,7 +3059,7 @@
       "youtube_id": "iHuiqfDpXZk",
       "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
       "tiktok_views": 45500,
-      "youtube_views": 1,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
@@ -4229,20 +4243,6 @@
       "uploaded_at": "2026-10-21T06:00:52Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7660588704481807629",
-      "youtube_id": "YYS9GsqQmxE",
-      "title": "Berry Cream Puff Pastry Cups That Melt in Your Mouth \ud83e\uded0\ud83c\udf53",
-      "tiktok_views": 14500,
-      "youtube_views": 6,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/YYS9GsqQmxE/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-21T00:42:10Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -4624,15 +4624,15 @@
       },
       {
         "date": "2026-10-30",
-        "views": 6,
+        "views": 5,
         "uploads": 3,
-        "cumulative_views": 33
+        "cumulative_views": 32
       },
       {
         "date": "2026-10-31",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 33
+        "cumulative_views": 32
       }
     ],
     "videos": [
@@ -4657,7 +4657,7 @@
         "youtube_id": "iHuiqfDpXZk",
         "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
         "tiktok_views": 45500,
-        "youtube_views": 1,
+        "youtube_views": 0,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
@@ -5262,7 +5262,7 @@
   },
   "kpis": {
     "total_uploads": 391,
-    "total_views": 140200,
+    "total_views": 140205,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5494,5 +5494,5 @@
       "created_at": "2026-10-24T19:23:37.415758+00:00"
     }
   ],
-  "last_updated": "2026-10-31T06:47:41.133042+00:00"
+  "last_updated": "2026-10-31T06:58:11.811137+00:00"
 }
