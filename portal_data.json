@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 388,
-    "total_views": 140179,
+    "total_uploads": 389,
+    "total_views": 140183,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -202,7 +202,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 143,
-      "total_views": 687,
+      "total_views": 691,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -932,7 +932,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
-      "total_uploads": 130,
+      "total_uploads": 131,
       "total_views": 1448,
       "total_likes": 1,
       "upcoming": {
@@ -1453,6 +1453,16 @@
       ],
       "runs": [
         {
+          "id": 159,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-10-31",
+          "status": "success",
+          "video_id": "6WpOm50h1Ss",
+          "error_message": null,
+          "created_at": "2026-10-31T01:46:39.734957+00:00"
+        },
+        {
           "id": 158,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1641,16 +1651,6 @@
           "video_id": "OkF08MTZViQ",
           "error_message": null,
           "created_at": "2026-10-24T05:40:10.867435+00:00"
-        },
-        {
-          "id": 139,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-24",
-          "status": "success",
-          "video_id": "epwZeDcvWh8",
-          "error_message": null,
-          "created_at": "2026-10-24T00:31:41.729383+00:00"
         }
       ]
     },
@@ -4541,7 +4541,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 143,
-    "total_views": 687,
+    "total_views": 691,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5257,8 +5257,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 388,
-    "total_views": 140179,
+    "total_uploads": 389,
+    "total_views": 140183,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5490,5 +5490,5 @@
       "created_at": "2026-10-24T06:50:12.894312+00:00"
     }
   ],
-  "last_updated": "2026-10-31T01:41:20.778814+00:00"
+  "last_updated": "2026-10-31T01:46:43.809959+00:00"
 }
