@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 387,
-    "total_views": 140183,
+    "total_uploads": 388,
+    "total_views": 140179,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -163,18 +163,26 @@
     {
       "date": "2026-10-29",
       "ch1_views": 26,
-      "ch2_views": 112,
+      "ch2_views": 113,
       "ch3_views": 132,
       "ch4_views": 0,
-      "total_views": 270
+      "total_views": 271
     },
     {
       "date": "2026-10-30",
       "ch1_views": 31,
-      "ch2_views": 120,
+      "ch2_views": 121,
       "ch3_views": 138,
       "ch4_views": 0,
-      "total_views": 289
+      "total_views": 290
+    },
+    {
+      "date": "2026-10-31",
+      "ch1_views": 0,
+      "ch2_views": 0,
+      "ch3_views": 138,
+      "ch4_views": 0,
+      "total_views": 138
     }
   ],
   "channels": {
@@ -194,7 +202,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 143,
-      "total_views": 691,
+      "total_views": 687,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1010,15 +1018,15 @@
         },
         {
           "date": "2026-10-29",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 112
+          "cumulative_views": 113
         },
         {
           "date": "2026-10-30",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 120
+          "cumulative_views": 121
         }
       ],
       "videos": [
@@ -1071,7 +1079,7 @@
           "youtube_id": "GBWIp4y-uro",
           "title": "Snickers-Stuffed Baked Apples with Caramel & Ice Cream \ud83c\udf4e",
           "tiktok_views": 1367,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/GBWIp4y-uro/hqdefault.jpg",
@@ -1661,7 +1669,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 94,
+      "total_uploads": 95,
       "total_views": 136476,
       "total_likes": 0,
       "upcoming": {
@@ -1694,7 +1702,7 @@
         {
           "date": "2026-10-21",
           "views": 10,
-          "uploads": 3,
+          "uploads": 2,
           "cumulative_views": 10
         },
         {
@@ -1750,9 +1758,29 @@
           "views": 6,
           "uploads": 3,
           "cumulative_views": 138
+        },
+        {
+          "date": "2026-10-31",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 138
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1GxTWxxnRmHUFhFCn6jsTZRiInjYa3WR_",
+          "youtube_id": "JsH7v8xA7a8",
+          "title": "Medical tool scraping thickened \u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/JsH7v8xA7a8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-31T01:37:04Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2158,20 +2186,6 @@
           "thumbnail": "https://i.ytimg.com/vi/BtA_lcZ1mzU/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-21T06:00:52Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "11YS1PqbrZ_nINDQFrj8z0I8WcMr7ubxr",
-          "youtube_id": "XpaZoUSYVdY",
-          "title": "Professional performing medical \u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/XpaZoUSYVdY/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-21T00:38:43Z"
         }
       ],
       "runs": [
@@ -2767,6 +2781,16 @@
       ],
       "runs": [
         {
+          "id": 111,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-10-31",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-31T01:41:16.437512+00:00"
+        },
+        {
           "id": 110,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2955,21 +2979,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-24T19:40:33.767795+00:00"
-        },
-        {
-          "id": 91,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-24",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-24T06:03:45.596493+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1GxTWxxnRmHUFhFCn6jsTZRiInjYa3WR_",
+      "youtube_id": "JsH7v8xA7a8",
+      "title": "Medical tool scraping thickened \u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/JsH7v8xA7a8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-31T01:37:04Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -3131,7 +3159,7 @@
       "youtube_id": "GBWIp4y-uro",
       "title": "Snickers-Stuffed Baked Apples with Caramel & Ice Cream \ud83c\udf4e",
       "tiktok_views": 1367,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/GBWIp4y-uro/hqdefault.jpg",
@@ -4203,20 +4231,6 @@
       "uploaded_at": "2026-10-21T00:42:10Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "11YS1PqbrZ_nINDQFrj8z0I8WcMr7ubxr",
-      "youtube_id": "XpaZoUSYVdY",
-      "title": "Professional performing medical \u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/XpaZoUSYVdY/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-21T00:38:43Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7698803805827206414",
@@ -4527,7 +4541,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 143,
-    "total_views": 691,
+    "total_views": 687,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5243,8 +5257,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 387,
-    "total_views": 140183,
+    "total_uploads": 388,
+    "total_views": 140179,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5476,5 +5490,5 @@
       "created_at": "2026-10-24T06:50:12.894312+00:00"
     }
   ],
-  "last_updated": "2026-10-31T01:36:49.345337+00:00"
+  "last_updated": "2026-10-31T01:41:20.778814+00:00"
 }
