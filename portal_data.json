@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 391,
+    "total_uploads": 392,
     "total_views": 140205,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -92,89 +92,89 @@
       "date": "2026-10-21",
       "ch1_views": 1,
       "ch2_views": 9,
-      "ch3_views": 10,
+      "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 20
+      "total_views": 10
     },
     {
       "date": "2026-10-22",
       "ch1_views": 6,
       "ch2_views": 18,
-      "ch3_views": 38,
+      "ch3_views": 28,
       "ch4_views": 0,
-      "total_views": 62
+      "total_views": 52
     },
     {
       "date": "2026-10-23",
       "ch1_views": 6,
       "ch2_views": 40,
-      "ch3_views": 62,
+      "ch3_views": 52,
       "ch4_views": 0,
-      "total_views": 108
+      "total_views": 98
     },
     {
       "date": "2026-10-24",
       "ch1_views": 13,
       "ch2_views": 59,
-      "ch3_views": 77,
+      "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 149
+      "total_views": 139
     },
     {
       "date": "2026-10-25",
       "ch1_views": 15,
       "ch2_views": 61,
-      "ch3_views": 83,
+      "ch3_views": 73,
       "ch4_views": 0,
-      "total_views": 159
+      "total_views": 149
     },
     {
       "date": "2026-10-26",
       "ch1_views": 17,
       "ch2_views": 77,
-      "ch3_views": 92,
+      "ch3_views": 82,
       "ch4_views": 0,
-      "total_views": 186
+      "total_views": 176
     },
     {
       "date": "2026-10-27",
       "ch1_views": 21,
       "ch2_views": 88,
-      "ch3_views": 104,
+      "ch3_views": 94,
       "ch4_views": 0,
-      "total_views": 213
+      "total_views": 203
     },
     {
       "date": "2026-10-28",
       "ch1_views": 22,
       "ch2_views": 95,
-      "ch3_views": 122,
+      "ch3_views": 112,
       "ch4_views": 0,
-      "total_views": 239
+      "total_views": 229
     },
     {
       "date": "2026-10-29",
       "ch1_views": 27,
       "ch2_views": 104,
-      "ch3_views": 134,
+      "ch3_views": 124,
       "ch4_views": 0,
-      "total_views": 265
+      "total_views": 255
     },
     {
       "date": "2026-10-30",
-      "ch1_views": 32,
+      "ch1_views": 33,
       "ch2_views": 112,
-      "ch3_views": 140,
+      "ch3_views": 130,
       "ch4_views": 0,
-      "total_views": 284
+      "total_views": 275
     },
     {
       "date": "2026-10-31",
-      "ch1_views": 32,
+      "ch1_views": 33,
       "ch2_views": 112,
-      "ch3_views": 140,
+      "ch3_views": 130,
       "ch4_views": 0,
-      "total_views": 284
+      "total_views": 275
     }
   ],
   "channels": {
@@ -279,15 +279,15 @@
         },
         {
           "date": "2026-10-30",
-          "views": 5,
+          "views": 6,
           "uploads": 3,
-          "cumulative_views": 32
+          "cumulative_views": 33
         },
         {
           "date": "2026-10-31",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 32
+          "cumulative_views": 33
         }
       ],
       "videos": [
@@ -312,7 +312,7 @@
           "youtube_id": "iHuiqfDpXZk",
           "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
           "tiktok_views": 45500,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
@@ -1667,7 +1667,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 95,
+      "total_uploads": 96,
       "total_views": 136481,
       "total_likes": 0,
       "upcoming": {
@@ -1699,72 +1699,86 @@
       "view_history": [
         {
           "date": "2026-10-21",
-          "views": 10,
-          "uploads": 2,
-          "cumulative_views": 10
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 0
         },
         {
           "date": "2026-10-22",
           "views": 28,
           "uploads": 3,
-          "cumulative_views": 38
+          "cumulative_views": 28
         },
         {
           "date": "2026-10-23",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 62
+          "cumulative_views": 52
         },
         {
           "date": "2026-10-24",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 77
+          "cumulative_views": 67
         },
         {
           "date": "2026-10-25",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 83
+          "cumulative_views": 73
         },
         {
           "date": "2026-10-26",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 92
+          "cumulative_views": 82
         },
         {
           "date": "2026-10-27",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 104
+          "cumulative_views": 94
         },
         {
           "date": "2026-10-28",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 122
+          "cumulative_views": 112
         },
         {
           "date": "2026-10-29",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 134
+          "cumulative_views": 124
         },
         {
           "date": "2026-10-30",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 140
+          "cumulative_views": 130
         },
         {
           "date": "2026-10-31",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 140
+          "uploads": 2,
+          "cumulative_views": 130
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1Y3qcFcUBWrJ2R3hyhN4iKvTPSD9N4r3r",
+          "youtube_id": "Ok5wftBEbIs",
+          "title": "Metal pick removing debris from \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/Ok5wftBEbIs/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-31T06:58:23Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2170,20 +2184,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ZBB38thwV8M/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-21T20:37:17Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "116XbV47my82kETqOZaTZ46vCLsp0qfLf",
-          "youtube_id": "BtA_lcZ1mzU",
-          "title": "Professional performing medical \u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 10,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/BtA_lcZ1mzU/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-21T06:00:52Z"
         }
       ],
       "runs": [
@@ -2779,6 +2779,16 @@
       ],
       "runs": [
         {
+          "id": 112,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-10-31",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-10-31T07:09:09.562364+00:00"
+        },
+        {
           "id": 111,
           "channel_id": "channel_4",
           "slot": 2,
@@ -2967,21 +2977,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-25T00:24:41.389613+00:00"
-        },
-        {
-          "id": 92,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-10-24",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-24T19:40:33.767795+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1Y3qcFcUBWrJ2R3hyhN4iKvTPSD9N4r3r",
+      "youtube_id": "Ok5wftBEbIs",
+      "title": "Metal pick removing debris from \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/Ok5wftBEbIs/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-31T06:58:23Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -3059,7 +3073,7 @@
       "youtube_id": "iHuiqfDpXZk",
       "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
       "tiktok_views": 45500,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
@@ -4229,20 +4243,6 @@
       "uploaded_at": "2026-10-21T06:01:29Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "116XbV47my82kETqOZaTZ46vCLsp0qfLf",
-      "youtube_id": "BtA_lcZ1mzU",
-      "title": "Professional performing medical \u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 10,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/BtA_lcZ1mzU/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-21T06:00:52Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -4624,15 +4624,15 @@
       },
       {
         "date": "2026-10-30",
-        "views": 5,
+        "views": 6,
         "uploads": 3,
-        "cumulative_views": 32
+        "cumulative_views": 33
       },
       {
         "date": "2026-10-31",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 32
+        "cumulative_views": 33
       }
     ],
     "videos": [
@@ -4657,7 +4657,7 @@
         "youtube_id": "iHuiqfDpXZk",
         "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
         "tiktok_views": 45500,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
@@ -5261,7 +5261,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 391,
+    "total_uploads": 392,
     "total_views": 140205,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5494,5 +5494,5 @@
       "created_at": "2026-10-24T19:23:37.415758+00:00"
     }
   ],
-  "last_updated": "2026-10-31T06:58:11.811137+00:00"
+  "last_updated": "2026-10-31T07:09:14.174029+00:00"
 }
