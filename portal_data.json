@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 387,
-    "total_views": 140179,
+    "total_views": 140183,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -162,19 +162,19 @@
     },
     {
       "date": "2026-10-29",
-      "ch1_views": 22,
+      "ch1_views": 26,
       "ch2_views": 112,
       "ch3_views": 132,
       "ch4_views": 0,
-      "total_views": 266
+      "total_views": 270
     },
     {
       "date": "2026-10-30",
-      "ch1_views": 25,
-      "ch2_views": 119,
-      "ch3_views": 136,
+      "ch1_views": 31,
+      "ch2_views": 120,
+      "ch3_views": 138,
       "ch4_views": 0,
-      "total_views": 280
+      "total_views": 289
     }
   ],
   "channels": {
@@ -194,7 +194,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 143,
-      "total_views": 687,
+      "total_views": 691,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -273,15 +273,15 @@
         },
         {
           "date": "2026-10-29",
-          "views": 1,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 26
         },
         {
           "date": "2026-10-30",
-          "views": 3,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 25
+          "cumulative_views": 31
         }
       ],
       "videos": [
@@ -320,7 +320,7 @@
           "youtube_id": "O47DFE2_Mt0",
           "title": "Alexa Ignored the Toddler\u2026 But Listened to the Cat Instead! \ud83d\ude02\ud83d\udc31",
           "tiktok_views": 5394,
-          "youtube_views": 3,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/O47DFE2_Mt0/hqdefault.jpg",
@@ -334,7 +334,7 @@
           "youtube_id": "1Z67fogg0xw",
           "title": "She Did the Full Dad Routine and I\u2019m Crying \ud83d\ude02",
           "tiktok_views": 3566,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/1Z67fogg0xw/hqdefault.jpg",
@@ -362,7 +362,7 @@
           "youtube_id": "8DjbBDadtBk",
           "title": "POV: Mom After Cooking Dinner \ud83d\ude02",
           "tiktok_views": 5514,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8DjbBDadtBk/hqdefault.jpg",
@@ -1016,9 +1016,9 @@
         },
         {
           "date": "2026-10-30",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 119
+          "cumulative_views": 120
         }
       ],
       "videos": [
@@ -1057,7 +1057,7 @@
           "youtube_id": "A2XN4jjFhp0",
           "title": "Hidden Layered Meat Bake That Everyone Will Ask You to Make Again \u2728",
           "tiktok_views": 9174,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/A2XN4jjFhp0/hqdefault.jpg",
@@ -1747,9 +1747,9 @@
         },
         {
           "date": "2026-10-30",
-          "views": 4,
+          "views": 6,
           "uploads": 3,
-          "cumulative_views": 136
+          "cumulative_views": 138
         }
       ],
       "videos": [
@@ -1760,7 +1760,7 @@
           "youtube_id": "QmtohsyN-7c",
           "title": "Medical tool cleaning yellowed t\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QmtohsyN-7c/hqdefault.jpg",
@@ -1774,7 +1774,7 @@
           "youtube_id": "V7ByFUim07U",
           "title": "Medical scraper removing debris \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/V7ByFUim07U/hqdefault.jpg",
@@ -2176,6 +2176,16 @@
       ],
       "runs": [
         {
+          "id": 118,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-10-31",
+          "status": "success",
+          "video_id": "JsH7v8xA7a8",
+          "error_message": null,
+          "created_at": "2026-10-31T01:36:44.050532+00:00"
+        },
+        {
           "id": 117,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2364,16 +2374,6 @@
           "video_id": "m35wNsYWFT8",
           "error_message": null,
           "created_at": "2026-10-24T19:28:52.420060+00:00"
-        },
-        {
-          "id": 98,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-24",
-          "status": "success",
-          "video_id": "m4_o8lVwmZo",
-          "error_message": null,
-          "created_at": "2026-10-24T05:48:20.125954+00:00"
         }
       ]
     },
@@ -2977,7 +2977,7 @@
       "youtube_id": "QmtohsyN-7c",
       "title": "Medical tool cleaning yellowed t\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QmtohsyN-7c/hqdefault.jpg",
@@ -3033,7 +3033,7 @@
       "youtube_id": "V7ByFUim07U",
       "title": "Medical scraper removing debris \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/V7ByFUim07U/hqdefault.jpg",
@@ -3061,7 +3061,7 @@
       "youtube_id": "O47DFE2_Mt0",
       "title": "Alexa Ignored the Toddler\u2026 But Listened to the Cat Instead! \ud83d\ude02\ud83d\udc31",
       "tiktok_views": 5394,
-      "youtube_views": 3,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/O47DFE2_Mt0/hqdefault.jpg",
@@ -3089,7 +3089,7 @@
       "youtube_id": "A2XN4jjFhp0",
       "title": "Hidden Layered Meat Bake That Everyone Will Ask You to Make Again \u2728",
       "tiktok_views": 9174,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/A2XN4jjFhp0/hqdefault.jpg",
@@ -3117,7 +3117,7 @@
       "youtube_id": "1Z67fogg0xw",
       "title": "She Did the Full Dad Routine and I\u2019m Crying \ud83d\ude02",
       "tiktok_views": 3566,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/1Z67fogg0xw/hqdefault.jpg",
@@ -3187,7 +3187,7 @@
       "youtube_id": "8DjbBDadtBk",
       "title": "POV: Mom After Cooking Dinner \ud83d\ude02",
       "tiktok_views": 5514,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8DjbBDadtBk/hqdefault.jpg",
@@ -4527,7 +4527,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 143,
-    "total_views": 687,
+    "total_views": 691,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -4606,15 +4606,15 @@
       },
       {
         "date": "2026-10-29",
-        "views": 1,
+        "views": 5,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 26
       },
       {
         "date": "2026-10-30",
-        "views": 3,
+        "views": 5,
         "uploads": 3,
-        "cumulative_views": 25
+        "cumulative_views": 31
       }
     ],
     "videos": [
@@ -4653,7 +4653,7 @@
         "youtube_id": "O47DFE2_Mt0",
         "title": "Alexa Ignored the Toddler\u2026 But Listened to the Cat Instead! \ud83d\ude02\ud83d\udc31",
         "tiktok_views": 5394,
-        "youtube_views": 3,
+        "youtube_views": 5,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/O47DFE2_Mt0/hqdefault.jpg",
@@ -4667,7 +4667,7 @@
         "youtube_id": "1Z67fogg0xw",
         "title": "She Did the Full Dad Routine and I\u2019m Crying \ud83d\ude02",
         "tiktok_views": 3566,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/1Z67fogg0xw/hqdefault.jpg",
@@ -4695,7 +4695,7 @@
         "youtube_id": "8DjbBDadtBk",
         "title": "POV: Mom After Cooking Dinner \ud83d\ude02",
         "tiktok_views": 5514,
-        "youtube_views": 0,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/8DjbBDadtBk/hqdefault.jpg",
@@ -5244,7 +5244,7 @@
   },
   "kpis": {
     "total_uploads": 387,
-    "total_views": 140179,
+    "total_views": 140183,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5476,5 +5476,5 @@
       "created_at": "2026-10-24T06:50:12.894312+00:00"
     }
   ],
-  "last_updated": "2026-10-30T21:41:37.172822+00:00"
+  "last_updated": "2026-10-31T01:36:49.345337+00:00"
 }
