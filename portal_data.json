@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 393,
-    "total_views": 140211,
-    "total_likes": 16,
+    "total_uploads": 394,
+    "total_views": 140235,
+    "total_likes": 17,
     "total_subscribers": 88,
     "channels_count": 4,
     "videos_per_day": 12
@@ -45,56 +45,56 @@
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 843,
-      "total_views": 843
+      "ch4_views": 845,
+      "total_views": 845
     },
     {
       "date": "2026-10-01",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 1057,
-      "total_views": 1057
+      "ch4_views": 1059,
+      "total_views": 1059
     },
     {
       "date": "2026-10-08",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 1103,
-      "total_views": 1103
+      "ch4_views": 1105,
+      "total_views": 1105
     },
     {
       "date": "2026-10-09",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 1334,
-      "total_views": 1334
+      "ch4_views": 1336,
+      "total_views": 1336
     },
     {
       "date": "2026-10-10",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 1506,
-      "total_views": 1506
+      "ch4_views": 1508,
+      "total_views": 1508
     },
     {
       "date": "2026-10-11",
       "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 0,
-      "ch4_views": 1568,
-      "total_views": 1568
+      "ch4_views": 1570,
+      "total_views": 1570
     },
     {
       "date": "2026-10-21",
-      "ch1_views": 1,
+      "ch1_views": 0,
       "ch2_views": 9,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 10
+      "total_views": 9
     },
     {
       "date": "2026-10-22",
@@ -122,59 +122,59 @@
     },
     {
       "date": "2026-10-25",
-      "ch1_views": 15,
+      "ch1_views": 17,
       "ch2_views": 61,
       "ch3_views": 73,
       "ch4_views": 0,
-      "total_views": 149
+      "total_views": 151
     },
     {
       "date": "2026-10-26",
-      "ch1_views": 17,
+      "ch1_views": 19,
       "ch2_views": 77,
       "ch3_views": 82,
       "ch4_views": 0,
-      "total_views": 176
+      "total_views": 178
     },
     {
       "date": "2026-10-27",
-      "ch1_views": 21,
-      "ch2_views": 88,
+      "ch1_views": 23,
+      "ch2_views": 89,
       "ch3_views": 94,
       "ch4_views": 0,
-      "total_views": 203
+      "total_views": 206
     },
     {
       "date": "2026-10-28",
-      "ch1_views": 22,
-      "ch2_views": 95,
+      "ch1_views": 24,
+      "ch2_views": 96,
       "ch3_views": 112,
       "ch4_views": 0,
-      "total_views": 229
+      "total_views": 232
     },
     {
       "date": "2026-10-29",
-      "ch1_views": 27,
-      "ch2_views": 104,
+      "ch1_views": 28,
+      "ch2_views": 106,
       "ch3_views": 124,
       "ch4_views": 0,
-      "total_views": 255
+      "total_views": 258
     },
     {
       "date": "2026-10-30",
-      "ch1_views": 33,
-      "ch2_views": 112,
-      "ch3_views": 130,
+      "ch1_views": 34,
+      "ch2_views": 120,
+      "ch3_views": 140,
       "ch4_views": 0,
-      "total_views": 275
+      "total_views": 294
     },
     {
       "date": "2026-10-31",
-      "ch1_views": 33,
-      "ch2_views": 112,
-      "ch3_views": 130,
+      "ch1_views": 34,
+      "ch2_views": 123,
+      "ch3_views": 145,
       "ch4_views": 0,
-      "total_views": 275
+      "total_views": 302
     }
   ],
   "channels": {
@@ -194,7 +194,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 145,
-      "total_views": 697,
+      "total_views": 704,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -225,13 +225,13 @@
       "view_history": [
         {
           "date": "2026-10-21",
-          "views": 1,
-          "uploads": 2,
-          "cumulative_views": 1
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 0
         },
         {
           "date": "2026-10-22",
-          "views": 5,
+          "views": 6,
           "uploads": 3,
           "cumulative_views": 6
         },
@@ -249,48 +249,62 @@
         },
         {
           "date": "2026-10-25",
-          "views": 2,
+          "views": 4,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-26",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-27",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 23
         },
         {
           "date": "2026-10-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-29",
-          "views": 5,
+          "views": 4,
           "uploads": 3,
-          "cumulative_views": 27
+          "cumulative_views": 28
         },
         {
           "date": "2026-10-30",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 33
+          "cumulative_views": 34
         },
         {
           "date": "2026-10-31",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 33
+          "uploads": 2,
+          "cumulative_views": 34
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7663129846029061390",
+          "youtube_id": "D-dVq2kDg80",
+          "title": "This Is Every Tired Dad in America \ud83d\ude2d\ud83d\ude02",
+          "tiktok_views": 4871,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/D-dVq2kDg80/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-10-31T07:57:00Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -382,7 +396,7 @@
           "youtube_id": "8DjbBDadtBk",
           "title": "POV: Mom After Cooking Dinner \ud83d\ude02",
           "tiktok_views": 5514,
-          "youtube_views": 3,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8DjbBDadtBk/hqdefault.jpg",
@@ -522,7 +536,7 @@
           "youtube_id": "MdcNDHrgNzs",
           "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
           "tiktok_views": 3560,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MdcNDHrgNzs/hqdefault.jpg",
@@ -676,7 +690,7 @@
           "youtube_id": "bEp7IDEhuEA",
           "title": "Is This REALLY How Every Dad Comes Home After Work? \ud83d\ude02",
           "tiktok_views": 9736,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/bEp7IDEhuEA/hqdefault.jpg",
@@ -696,20 +710,6 @@
           "thumbnail": "https://i.ytimg.com/vi/qNiLZXw8-44/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-21T20:31:58Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7670943434244394253",
-          "youtube_id": "cm_-qXXsihA",
-          "title": "POV: Dad Walks In After Work \ud83d\ude02",
-          "tiktok_views": 9726,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/cm_-qXXsihA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-21T06:58:12Z"
         }
       ],
       "runs": [
@@ -930,9 +930,9 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
-      "total_uploads": 132,
-      "total_views": 1465,
-      "total_likes": 1,
+      "total_uploads": 133,
+      "total_views": 1476,
+      "total_likes": 2,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -998,33 +998,33 @@
         },
         {
           "date": "2026-10-27",
-          "views": 11,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 88
+          "cumulative_views": 89
         },
         {
           "date": "2026-10-28",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 95
+          "cumulative_views": 96
         },
         {
           "date": "2026-10-29",
-          "views": 9,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 104
+          "cumulative_views": 106
         },
         {
           "date": "2026-10-30",
-          "views": 8,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 112
+          "cumulative_views": 120
         },
         {
           "date": "2026-10-31",
-          "views": 0,
+          "views": 3,
           "uploads": 2,
-          "cumulative_views": 112
+          "cumulative_views": 123
         }
       ],
       "videos": [
@@ -1035,8 +1035,8 @@
           "youtube_id": "7R64A0GKFj0",
           "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
           "tiktok_views": 8060,
-          "youtube_views": 0,
-          "youtube_likes": 0,
+          "youtube_views": 2,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7R64A0GKFj0/hqdefault.jpg",
           "status": "uploaded",
@@ -1049,7 +1049,7 @@
           "youtube_id": "6WpOm50h1Ss",
           "title": "Taste & Tales \u2728",
           "tiktok_views": 8068,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6WpOm50h1Ss/hqdefault.jpg",
@@ -1063,7 +1063,7 @@
           "youtube_id": "GD0BImcT-b8",
           "title": "Cheesy Stuffed Meat with Creamy Potato Salad \u2728",
           "tiktok_views": 20800,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/GD0BImcT-b8/hqdefault.jpg",
@@ -1077,7 +1077,7 @@
           "youtube_id": "AGp76c2nkHI",
           "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
           "tiktok_views": 8290,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/AGp76c2nkHI/hqdefault.jpg",
@@ -1091,7 +1091,7 @@
           "youtube_id": "A2XN4jjFhp0",
           "title": "Hidden Layered Meat Bake That Everyone Will Ask You to Make Again \u2728",
           "tiktok_views": 9174,
-          "youtube_views": 8,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/A2XN4jjFhp0/hqdefault.jpg",
@@ -1105,7 +1105,7 @@
           "youtube_id": "GBWIp4y-uro",
           "title": "Snickers-Stuffed Baked Apples with Caramel & Ice Cream \ud83c\udf4e",
           "tiktok_views": 1367,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/GBWIp4y-uro/hqdefault.jpg",
@@ -1189,7 +1189,7 @@
           "youtube_id": "zLTAOL7vgh4",
           "title": "Chocolate Caramel Stuffed Baked Apples \ud83c\udf4e",
           "tiktok_views": 4199,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/zLTAOL7vgh4/hqdefault.jpg",
@@ -1451,6 +1451,16 @@
       ],
       "runs": [
         {
+          "id": 161,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-10-31",
+          "status": "success",
+          "video_id": "lbNdEvb2rFs",
+          "error_message": null,
+          "created_at": "2026-10-31T19:49:28.075392+00:00"
+        },
+        {
           "id": 160,
           "channel_id": "channel_2",
           "slot": 3,
@@ -1639,16 +1649,6 @@
           "video_id": "QavAtLr2WsA",
           "error_message": null,
           "created_at": "2026-10-25T00:14:07.577055+00:00"
-        },
-        {
-          "id": 141,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-10-24",
-          "status": "success",
-          "video_id": "YTy5-OKOFiA",
-          "error_message": null,
-          "created_at": "2026-10-24T18:42:10.063995+00:00"
         }
       ]
     },
@@ -1668,7 +1668,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 96,
-      "total_views": 136481,
+      "total_views": 136485,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1753,15 +1753,15 @@
         },
         {
           "date": "2026-10-30",
-          "views": 6,
+          "views": 16,
           "uploads": 3,
-          "cumulative_views": 130
+          "cumulative_views": 140
         },
         {
           "date": "2026-10-31",
-          "views": 0,
+          "views": 5,
           "uploads": 2,
-          "cumulative_views": 130
+          "cumulative_views": 145
         }
       ],
       "videos": [
@@ -1772,7 +1772,7 @@
           "youtube_id": "Ok5wftBEbIs",
           "title": "Metal pick removing debris from \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Ok5wftBEbIs/hqdefault.jpg",
@@ -1786,7 +1786,7 @@
           "youtube_id": "JsH7v8xA7a8",
           "title": "Medical tool scraping thickened \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/JsH7v8xA7a8/hqdefault.jpg",
@@ -1800,7 +1800,7 @@
           "youtube_id": "QmtohsyN-7c",
           "title": "Medical tool cleaning yellowed t\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QmtohsyN-7c/hqdefault.jpg",
@@ -1828,7 +1828,7 @@
           "youtube_id": "rg43r3vIUS8",
           "title": "Medical professional performing \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 2,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/rg43r3vIUS8/hqdefault.jpg",
@@ -2405,7 +2405,7 @@
       "category": "Remote Work & Side Hustles",
       "subscribers": 5,
       "total_uploads": 20,
-      "total_views": 1568,
+      "total_views": 1570,
       "total_likes": 15,
       "upcoming": {
         "slot1": {
@@ -2460,39 +2460,39 @@
         },
         {
           "date": "2026-09-30",
-          "views": 207,
+          "views": 209,
           "uploads": 3,
-          "cumulative_views": 843
+          "cumulative_views": 845
         },
         {
           "date": "2026-10-01",
           "views": 214,
           "uploads": 1,
-          "cumulative_views": 1057
+          "cumulative_views": 1059
         },
         {
           "date": "2026-10-08",
           "views": 46,
           "uploads": 2,
-          "cumulative_views": 1103
+          "cumulative_views": 1105
         },
         {
           "date": "2026-10-09",
           "views": 231,
           "uploads": 3,
-          "cumulative_views": 1334
+          "cumulative_views": 1336
         },
         {
           "date": "2026-10-10",
           "views": 172,
           "uploads": 3,
-          "cumulative_views": 1506
+          "cumulative_views": 1508
         },
         {
           "date": "2026-10-11",
           "views": 62,
           "uploads": 1,
-          "cumulative_views": 1568
+          "cumulative_views": 1570
         }
       ],
       "videos": [
@@ -2657,7 +2657,7 @@
           "youtube_id": "nyF_x7_XbtE",
           "title": "Legit Work From Home Job Opening \ud83d\udea8",
           "tiktok_views": 0,
-          "youtube_views": 108,
+          "youtube_views": 110,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/nyF_x7_XbtE/hqdefault.jpg",
@@ -2983,13 +2983,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7663129846029061390",
+      "youtube_id": "D-dVq2kDg80",
+      "title": "This Is Every Tired Dad in America \ud83d\ude2d\ud83d\ude02",
+      "tiktok_views": 4871,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/D-dVq2kDg80/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-31T07:57:00Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1Y3qcFcUBWrJ2R3hyhN4iKvTPSD9N4r3r",
       "youtube_id": "Ok5wftBEbIs",
       "title": "Metal pick removing debris from \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Ok5wftBEbIs/hqdefault.jpg",
@@ -3003,8 +3017,8 @@
       "youtube_id": "7R64A0GKFj0",
       "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
       "tiktok_views": 8060,
-      "youtube_views": 0,
-      "youtube_likes": 0,
+      "youtube_views": 2,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7R64A0GKFj0/hqdefault.jpg",
       "status": "uploaded",
@@ -3031,7 +3045,7 @@
       "youtube_id": "6WpOm50h1Ss",
       "title": "Taste & Tales \u2728",
       "tiktok_views": 8068,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6WpOm50h1Ss/hqdefault.jpg",
@@ -3045,7 +3059,7 @@
       "youtube_id": "JsH7v8xA7a8",
       "title": "Medical tool scraping thickened \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/JsH7v8xA7a8/hqdefault.jpg",
@@ -3059,7 +3073,7 @@
       "youtube_id": "QmtohsyN-7c",
       "title": "Medical tool cleaning yellowed t\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QmtohsyN-7c/hqdefault.jpg",
@@ -3087,7 +3101,7 @@
       "youtube_id": "GD0BImcT-b8",
       "title": "Cheesy Stuffed Meat with Creamy Potato Salad \u2728",
       "tiktok_views": 20800,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/GD0BImcT-b8/hqdefault.jpg",
@@ -3129,7 +3143,7 @@
       "youtube_id": "AGp76c2nkHI",
       "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
       "tiktok_views": 8290,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/AGp76c2nkHI/hqdefault.jpg",
@@ -3157,7 +3171,7 @@
       "youtube_id": "rg43r3vIUS8",
       "title": "Medical professional performing \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 2,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/rg43r3vIUS8/hqdefault.jpg",
@@ -3171,7 +3185,7 @@
       "youtube_id": "A2XN4jjFhp0",
       "title": "Hidden Layered Meat Bake That Everyone Will Ask You to Make Again \u2728",
       "tiktok_views": 9174,
-      "youtube_views": 8,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/A2XN4jjFhp0/hqdefault.jpg",
@@ -3213,7 +3227,7 @@
       "youtube_id": "GBWIp4y-uro",
       "title": "Snickers-Stuffed Baked Apples with Caramel & Ice Cream \ud83c\udf4e",
       "tiktok_views": 1367,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/GBWIp4y-uro/hqdefault.jpg",
@@ -3269,7 +3283,7 @@
       "youtube_id": "8DjbBDadtBk",
       "title": "POV: Mom After Cooking Dinner \ud83d\ude02",
       "tiktok_views": 5514,
-      "youtube_views": 3,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8DjbBDadtBk/hqdefault.jpg",
@@ -3465,7 +3479,7 @@
       "youtube_id": "zLTAOL7vgh4",
       "title": "Chocolate Caramel Stuffed Baked Apples \ud83c\udf4e",
       "tiktok_views": 4199,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/zLTAOL7vgh4/hqdefault.jpg",
@@ -3689,7 +3703,7 @@
       "youtube_id": "MdcNDHrgNzs",
       "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
       "tiktok_views": 3560,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MdcNDHrgNzs/hqdefault.jpg",
@@ -4137,7 +4151,7 @@
       "youtube_id": "bEp7IDEhuEA",
       "title": "Is This REALLY How Every Dad Comes Home After Work? \ud83d\ude02",
       "tiktok_views": 9736,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/bEp7IDEhuEA/hqdefault.jpg",
@@ -4213,20 +4227,6 @@
       "thumbnail": "https://i.ytimg.com/vi/iC_7bG9Rtac/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-21T20:03:53Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7670943434244394253",
-      "youtube_id": "cm_-qXXsihA",
-      "title": "POV: Dad Walks In After Work \ud83d\ude02",
-      "tiktok_views": 9726,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/cm_-qXXsihA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-21T06:58:12Z"
     },
     {
       "channel_id": "channel_2",
@@ -4403,7 +4403,7 @@
       "youtube_id": "nyF_x7_XbtE",
       "title": "Legit Work From Home Job Opening \ud83d\udea8",
       "tiktok_views": 0,
-      "youtube_views": 108,
+      "youtube_views": 110,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/nyF_x7_XbtE/hqdefault.jpg",
@@ -4539,7 +4539,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 145,
-    "total_views": 697,
+    "total_views": 704,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -4570,13 +4570,13 @@
     "view_history": [
       {
         "date": "2026-10-21",
-        "views": 1,
-        "uploads": 2,
-        "cumulative_views": 1
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 0
       },
       {
         "date": "2026-10-22",
-        "views": 5,
+        "views": 6,
         "uploads": 3,
         "cumulative_views": 6
       },
@@ -4594,48 +4594,62 @@
       },
       {
         "date": "2026-10-25",
-        "views": 2,
+        "views": 4,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 17
       },
       {
         "date": "2026-10-26",
         "views": 2,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 19
       },
       {
         "date": "2026-10-27",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 21
+        "cumulative_views": 23
       },
       {
         "date": "2026-10-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 22
+        "cumulative_views": 24
       },
       {
         "date": "2026-10-29",
-        "views": 5,
+        "views": 4,
         "uploads": 3,
-        "cumulative_views": 27
+        "cumulative_views": 28
       },
       {
         "date": "2026-10-30",
         "views": 6,
         "uploads": 3,
-        "cumulative_views": 33
+        "cumulative_views": 34
       },
       {
         "date": "2026-10-31",
         "views": 0,
-        "uploads": 1,
-        "cumulative_views": 33
+        "uploads": 2,
+        "cumulative_views": 34
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7663129846029061390",
+        "youtube_id": "D-dVq2kDg80",
+        "title": "This Is Every Tired Dad in America \ud83d\ude2d\ud83d\ude02",
+        "tiktok_views": 4871,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/D-dVq2kDg80/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-10-31T07:57:00Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4727,7 +4741,7 @@
         "youtube_id": "8DjbBDadtBk",
         "title": "POV: Mom After Cooking Dinner \ud83d\ude02",
         "tiktok_views": 5514,
-        "youtube_views": 3,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/8DjbBDadtBk/hqdefault.jpg",
@@ -4867,7 +4881,7 @@
         "youtube_id": "MdcNDHrgNzs",
         "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
         "tiktok_views": 3560,
-        "youtube_views": 2,
+        "youtube_views": 4,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/MdcNDHrgNzs/hqdefault.jpg",
@@ -5021,7 +5035,7 @@
         "youtube_id": "bEp7IDEhuEA",
         "title": "Is This REALLY How Every Dad Comes Home After Work? \ud83d\ude02",
         "tiktok_views": 9736,
-        "youtube_views": 5,
+        "youtube_views": 6,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/bEp7IDEhuEA/hqdefault.jpg",
@@ -5041,20 +5055,6 @@
         "thumbnail": "https://i.ytimg.com/vi/qNiLZXw8-44/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-21T20:31:58Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7670943434244394253",
-        "youtube_id": "cm_-qXXsihA",
-        "title": "POV: Dad Walks In After Work \ud83d\ude02",
-        "tiktok_views": 9726,
-        "youtube_views": 1,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/cm_-qXXsihA/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-21T06:58:12Z"
       }
     ],
     "runs": [
@@ -5261,9 +5261,9 @@
     ]
   },
   "kpis": {
-    "total_uploads": 393,
-    "total_views": 140211,
-    "total_likes": 16,
+    "total_uploads": 394,
+    "total_views": 140235,
+    "total_likes": 17,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5494,5 +5494,5 @@
       "created_at": "2026-10-25T01:27:22.323236+00:00"
     }
   ],
-  "last_updated": "2026-10-31T07:56:38.033486+00:00"
+  "last_updated": "2026-10-31T19:49:32.664370+00:00"
 }
