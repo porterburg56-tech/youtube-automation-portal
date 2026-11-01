@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 400,
-    "total_views": 140252,
+    "total_views": 140267,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -194,7 +194,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 147,
-      "total_views": 704,
+      "total_views": 705,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -931,7 +931,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
       "total_uploads": 134,
-      "total_views": 1476,
+      "total_views": 1490,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -1451,6 +1451,36 @@
       ],
       "runs": [
         {
+          "id": 165,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-01",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "Dubbing exception for 7647319070974512398: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmp08jtho_0/retimed_video_only.mp4', '-i', '/tmp/tmp08jtho_0/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7647319070974512398_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
+          "created_at": "2026-11-01T08:09:56.242703+00:00"
+        },
+        {
+          "id": 164,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-01",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "Dubbing exception for 7647319070974512398: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmpdvhqrjfc/retimed_video_only.mp4', '-i', '/tmp/tmpdvhqrjfc/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7647319070974512398_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
+          "created_at": "2026-11-01T07:48:49.011553+00:00"
+        },
+        {
+          "id": 163,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-01",
+          "status": "failed",
+          "video_id": null,
+          "error_message": "Dubbing exception for 7647319070974512398: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmp71krm5i9/retimed_video_only.mp4', '-i', '/tmp/tmp71krm5i9/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7647319070974512398_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
+          "created_at": "2026-11-01T07:27:40.929343+00:00"
+        },
+        {
           "id": 162,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1619,36 +1649,6 @@
           "video_id": "2TZ8anAXE5I",
           "error_message": null,
           "created_at": "2026-10-26T21:00:18.677980+00:00"
-        },
-        {
-          "id": 145,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-26",
-          "status": "success",
-          "video_id": "PGwJxiNFXuE",
-          "error_message": null,
-          "created_at": "2026-10-26T05:56:01.658304+00:00"
-        },
-        {
-          "id": 144,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-10-25",
-          "status": "success",
-          "video_id": "coXCtp7qNGQ",
-          "error_message": null,
-          "created_at": "2026-10-25T18:52:17.783201+00:00"
-        },
-        {
-          "id": 143,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-25",
-          "status": "success",
-          "video_id": "O9_m30NbN6M",
-          "error_message": null,
-          "created_at": "2026-10-25T05:57:04.056143+00:00"
         }
       ]
     },
@@ -4539,7 +4539,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 147,
-    "total_views": 704,
+    "total_views": 705,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5262,7 +5262,7 @@
   },
   "kpis": {
     "total_uploads": 400,
-    "total_views": 140252,
+    "total_views": 140267,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5494,5 +5494,5 @@
       "created_at": "2026-10-25T19:31:47.195744+00:00"
     }
   ],
-  "last_updated": "2026-11-01T07:42:57.029930+00:00"
+  "last_updated": "2026-11-01T08:10:00.236038+00:00"
 }
