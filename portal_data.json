@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 402,
+    "total_uploads": 403,
     "total_views": 140299,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -91,88 +91,88 @@
     {
       "date": "2026-10-22",
       "ch1_views": 0,
-      "ch2_views": 9,
+      "ch2_views": 7,
       "ch3_views": 18,
       "ch4_views": 0,
-      "total_views": 27
+      "total_views": 25
     },
     {
       "date": "2026-10-23",
       "ch1_views": 0,
-      "ch2_views": 31,
+      "ch2_views": 29,
       "ch3_views": 42,
       "ch4_views": 0,
-      "total_views": 73
+      "total_views": 71
     },
     {
       "date": "2026-10-24",
       "ch1_views": 7,
-      "ch2_views": 50,
+      "ch2_views": 48,
       "ch3_views": 57,
       "ch4_views": 0,
-      "total_views": 114
+      "total_views": 112
     },
     {
       "date": "2026-10-25",
       "ch1_views": 11,
-      "ch2_views": 53,
+      "ch2_views": 51,
       "ch3_views": 63,
       "ch4_views": 0,
-      "total_views": 127
+      "total_views": 125
     },
     {
       "date": "2026-10-26",
       "ch1_views": 14,
-      "ch2_views": 69,
+      "ch2_views": 67,
       "ch3_views": 72,
       "ch4_views": 0,
-      "total_views": 155
+      "total_views": 153
     },
     {
       "date": "2026-10-27",
       "ch1_views": 18,
-      "ch2_views": 81,
+      "ch2_views": 79,
       "ch3_views": 84,
       "ch4_views": 0,
-      "total_views": 183
+      "total_views": 181
     },
     {
       "date": "2026-10-28",
       "ch1_views": 19,
-      "ch2_views": 88,
+      "ch2_views": 86,
       "ch3_views": 102,
       "ch4_views": 0,
-      "total_views": 209
+      "total_views": 207
     },
     {
       "date": "2026-10-29",
       "ch1_views": 23,
-      "ch2_views": 99,
+      "ch2_views": 97,
       "ch3_views": 114,
       "ch4_views": 0,
-      "total_views": 236
+      "total_views": 234
     },
     {
       "date": "2026-10-30",
       "ch1_views": 33,
-      "ch2_views": 114,
+      "ch2_views": 112,
       "ch3_views": 131,
       "ch4_views": 0,
-      "total_views": 278
+      "total_views": 276
     },
     {
       "date": "2026-10-31",
-      "ch1_views": 35,
-      "ch2_views": 120,
+      "ch1_views": 36,
+      "ch2_views": 118,
       "ch3_views": 152,
       "ch4_views": 0,
-      "total_views": 307
+      "total_views": 306
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 38,
-      "ch2_views": 120,
-      "ch3_views": 165,
+      "ch1_views": 39,
+      "ch2_views": 118,
+      "ch3_views": 166,
       "ch4_views": 0,
       "total_views": 323
     }
@@ -193,7 +193,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 148,
+      "total_uploads": 149,
       "total_views": 712,
       "total_likes": 0,
       "upcoming": {
@@ -279,15 +279,15 @@
         },
         {
           "date": "2026-10-31",
-          "views": 2,
+          "views": 3,
           "uploads": 3,
-          "cumulative_views": 35
+          "cumulative_views": 36
         },
         {
           "date": "2026-11-01",
           "views": 3,
           "uploads": 2,
-          "cumulative_views": 38
+          "cumulative_views": 39
         }
       ],
       "videos": [
@@ -340,7 +340,7 @@
           "youtube_id": "D-dVq2kDg80",
           "title": "This Is Every Tired Dad in America \ud83d\ude2d\ud83d\ude02",
           "tiktok_views": 4871,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/D-dVq2kDg80/hqdefault.jpg",
@@ -714,6 +714,16 @@
       ],
       "runs": [
         {
+          "id": 158,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-11-01",
+          "status": "success",
+          "video_id": "ILbjHmjgutE",
+          "error_message": null,
+          "created_at": "2026-11-01T21:04:29.817742+00:00"
+        },
+        {
           "id": 157,
           "channel_id": "channel_1",
           "slot": 3,
@@ -902,16 +912,6 @@
           "video_id": "t4Er_MOclBk",
           "error_message": null,
           "created_at": "2026-10-26T07:22:53.612958+00:00"
-        },
-        {
-          "id": 138,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-10-26",
-          "status": "success",
-          "video_id": "vwQ41SxBdc4",
-          "error_message": null,
-          "created_at": "2026-10-26T01:31:02.897932+00:00"
         }
       ]
     },
@@ -962,72 +962,86 @@
       "view_history": [
         {
           "date": "2026-10-22",
-          "views": 9,
-          "uploads": 3,
-          "cumulative_views": 9
+          "views": 7,
+          "uploads": 2,
+          "cumulative_views": 7
         },
         {
           "date": "2026-10-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 31
+          "cumulative_views": 29
         },
         {
           "date": "2026-10-24",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 50
+          "cumulative_views": 48
         },
         {
           "date": "2026-10-25",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 53
+          "cumulative_views": 51
         },
         {
           "date": "2026-10-26",
           "views": 16,
           "uploads": 2,
-          "cumulative_views": 69
+          "cumulative_views": 67
         },
         {
           "date": "2026-10-27",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 81
+          "cumulative_views": 79
         },
         {
           "date": "2026-10-28",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 88
+          "cumulative_views": 86
         },
         {
           "date": "2026-10-29",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 99
+          "cumulative_views": 97
         },
         {
           "date": "2026-10-30",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 114
+          "cumulative_views": 112
         },
         {
           "date": "2026-10-31",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 120
+          "cumulative_views": 118
         },
         {
           "date": "2026-11-01",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 120
+          "uploads": 2,
+          "cumulative_views": 118
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7703256889169169677",
+          "youtube_id": "Ymi32MjwNfk",
+          "title": "Creamy Garlic Butter Salmon Pasta \u2728",
+          "tiktok_views": 24500,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/Ymi32MjwNfk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-01T20:23:35Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1433,20 +1447,6 @@
           "thumbnail": "https://i.ytimg.com/vi/dlBMmGb0sc4/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-22T06:03:36Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7669131389664562446",
-          "youtube_id": "D-lA8Mt0VWA",
-          "title": "Quick & Easy Recipe Idea You'll Love \ud83c\udf7d\ufe0f\ud83d\udd25",
-          "tiktok_views": 13800,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/D-lA8Mt0VWA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-22T00:41:39Z"
         }
       ],
       "runs": [
@@ -1759,9 +1759,9 @@
         },
         {
           "date": "2026-11-01",
-          "views": 13,
+          "views": 14,
           "uploads": 2,
-          "cumulative_views": 165
+          "cumulative_views": 166
         }
       ],
       "videos": [
@@ -1772,7 +1772,7 @@
           "youtube_id": "MM2uhPp6AIQ",
           "title": "Podiatry procedure extracting na\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MM2uhPp6AIQ/hqdefault.jpg",
@@ -2983,6 +2983,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7703256889169169677",
+      "youtube_id": "Ymi32MjwNfk",
+      "title": "Creamy Garlic Butter Salmon Pasta \u2728",
+      "tiktok_views": 24500,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/Ymi32MjwNfk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-01T20:23:35Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7663836651998825742",
@@ -3003,7 +3017,7 @@
       "youtube_id": "MM2uhPp6AIQ",
       "title": "Podiatry procedure extracting na\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MM2uhPp6AIQ/hqdefault.jpg",
@@ -3101,7 +3115,7 @@
       "youtube_id": "D-dVq2kDg80",
       "title": "This Is Every Tired Dad in America \ud83d\ude2d\ud83d\ude02",
       "tiktok_views": 4871,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/D-dVq2kDg80/hqdefault.jpg",
@@ -4229,20 +4243,6 @@
       "uploaded_at": "2026-10-22T06:03:36Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7669131389664562446",
-      "youtube_id": "D-lA8Mt0VWA",
-      "title": "Quick & Easy Recipe Idea You'll Love \ud83c\udf7d\ufe0f\ud83d\udd25",
-      "tiktok_views": 13800,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/D-lA8Mt0VWA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-22T00:41:39Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -4538,7 +4538,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 148,
+    "total_uploads": 149,
     "total_views": 712,
     "total_likes": 0,
     "upcoming": {
@@ -4624,15 +4624,15 @@
       },
       {
         "date": "2026-10-31",
-        "views": 2,
+        "views": 3,
         "uploads": 3,
-        "cumulative_views": 35
+        "cumulative_views": 36
       },
       {
         "date": "2026-11-01",
         "views": 3,
         "uploads": 2,
-        "cumulative_views": 38
+        "cumulative_views": 39
       }
     ],
     "videos": [
@@ -4685,7 +4685,7 @@
         "youtube_id": "D-dVq2kDg80",
         "title": "This Is Every Tired Dad in America \ud83d\ude2d\ud83d\ude02",
         "tiktok_views": 4871,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/D-dVq2kDg80/hqdefault.jpg",
@@ -5059,6 +5059,16 @@
     ],
     "runs": [
       {
+        "id": 158,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-11-01",
+        "status": "success",
+        "video_id": "ILbjHmjgutE",
+        "error_message": null,
+        "created_at": "2026-11-01T21:04:29.817742+00:00"
+      },
+      {
         "id": 157,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5247,21 +5257,11 @@
         "video_id": "t4Er_MOclBk",
         "error_message": null,
         "created_at": "2026-10-26T07:22:53.612958+00:00"
-      },
-      {
-        "id": 138,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-10-26",
-        "status": "success",
-        "video_id": "vwQ41SxBdc4",
-        "error_message": null,
-        "created_at": "2026-10-26T01:31:02.897932+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 402,
+    "total_uploads": 403,
     "total_views": 140299,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5293,6 +5293,16 @@
     }
   },
   "runs": [
+    {
+      "id": 158,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-11-01",
+      "status": "success",
+      "video_id": "ILbjHmjgutE",
+      "error_message": null,
+      "created_at": "2026-11-01T21:04:29.817742+00:00"
+    },
     {
       "id": 157,
       "channel_id": "channel_1",
@@ -5482,17 +5492,7 @@
       "video_id": "t4Er_MOclBk",
       "error_message": null,
       "created_at": "2026-10-26T07:22:53.612958+00:00"
-    },
-    {
-      "id": 138,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-10-26",
-      "status": "success",
-      "video_id": "vwQ41SxBdc4",
-      "error_message": null,
-      "created_at": "2026-10-26T01:31:02.897932+00:00"
     }
   ],
-  "last_updated": "2026-11-01T20:23:08.988345+00:00"
+  "last_updated": "2026-11-01T21:04:34.012169+00:00"
 }
