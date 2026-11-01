@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 399,
-    "total_views": 140235,
+    "total_views": 140253,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -90,91 +90,91 @@
     },
     {
       "date": "2026-10-22",
-      "ch1_views": 6,
+      "ch1_views": 0,
       "ch2_views": 9,
       "ch3_views": 20,
       "ch4_views": 0,
-      "total_views": 35
+      "total_views": 29
     },
     {
       "date": "2026-10-23",
-      "ch1_views": 6,
+      "ch1_views": 0,
       "ch2_views": 31,
       "ch3_views": 44,
       "ch4_views": 0,
-      "total_views": 81
+      "total_views": 75
     },
     {
       "date": "2026-10-24",
-      "ch1_views": 13,
+      "ch1_views": 7,
       "ch2_views": 50,
       "ch3_views": 59,
       "ch4_views": 0,
-      "total_views": 122
+      "total_views": 116
     },
     {
       "date": "2026-10-25",
-      "ch1_views": 17,
+      "ch1_views": 11,
       "ch2_views": 52,
       "ch3_views": 65,
       "ch4_views": 0,
-      "total_views": 134
+      "total_views": 128
     },
     {
       "date": "2026-10-26",
-      "ch1_views": 20,
+      "ch1_views": 14,
       "ch2_views": 68,
       "ch3_views": 74,
       "ch4_views": 0,
-      "total_views": 162
+      "total_views": 156
     },
     {
       "date": "2026-10-27",
-      "ch1_views": 24,
+      "ch1_views": 18,
       "ch2_views": 80,
       "ch3_views": 86,
       "ch4_views": 0,
-      "total_views": 190
+      "total_views": 184
     },
     {
       "date": "2026-10-28",
-      "ch1_views": 25,
+      "ch1_views": 19,
       "ch2_views": 87,
       "ch3_views": 104,
       "ch4_views": 0,
-      "total_views": 216
+      "total_views": 210
     },
     {
       "date": "2026-10-29",
-      "ch1_views": 29,
+      "ch1_views": 23,
       "ch2_views": 98,
       "ch3_views": 116,
       "ch4_views": 0,
-      "total_views": 243
+      "total_views": 237
     },
     {
       "date": "2026-10-30",
-      "ch1_views": 34,
+      "ch1_views": 30,
       "ch2_views": 112,
       "ch3_views": 133,
       "ch4_views": 0,
-      "total_views": 279
+      "total_views": 275
     },
     {
       "date": "2026-10-31",
-      "ch1_views": 34,
-      "ch2_views": 117,
-      "ch3_views": 145,
+      "ch1_views": 31,
+      "ch2_views": 118,
+      "ch3_views": 147,
       "ch4_views": 0,
       "total_views": 296
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 0,
-      "ch2_views": 117,
-      "ch3_views": 145,
+      "ch1_views": 31,
+      "ch2_views": 118,
+      "ch3_views": 152,
       "ch4_views": 0,
-      "total_views": 262
+      "total_views": 301
     }
   ],
   "channels": {
@@ -194,7 +194,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 147,
-      "total_views": 704,
+      "total_views": 705,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -225,66 +225,86 @@
       "view_history": [
         {
           "date": "2026-10-22",
-          "views": 6,
-          "uploads": 3,
-          "cumulative_views": 6
+          "views": 0,
+          "uploads": 2,
+          "cumulative_views": 0
         },
         {
           "date": "2026-10-23",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 6
+          "cumulative_views": 0
         },
         {
           "date": "2026-10-24",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 7
         },
         {
           "date": "2026-10-25",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 11
         },
         {
           "date": "2026-10-26",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-27",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 25
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-29",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 29
+          "cumulative_views": 23
         },
         {
           "date": "2026-10-30",
-          "views": 5,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 34
+          "cumulative_views": 30
         },
         {
           "date": "2026-10-31",
-          "views": 0,
+          "views": 1,
           "uploads": 3,
-          "cumulative_views": 34
+          "cumulative_views": 31
+        },
+        {
+          "date": "2026-11-01",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 31
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7663883601259367693",
+          "youtube_id": "uJxdg2N6Uhg",
+          "title": "Show Me Daddy After Work\u201d\u2026 This Toddler Nailed It! \ud83e\udd23\u2764\ufe0f",
+          "tiktok_views": 4692,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/uJxdg2N6Uhg/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-01T02:28:47Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -292,7 +312,7 @@
           "youtube_id": "EfS8bVHRqpE",
           "title": "Show Me Mommy in the Kitchen\u2026 Every Mom Just Felt That! \ud83d\ude02",
           "tiktok_views": 3839,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/EfS8bVHRqpE/hqdefault.jpg",
@@ -334,7 +354,7 @@
           "youtube_id": "iHuiqfDpXZk",
           "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
           "tiktok_views": 45500,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
@@ -362,7 +382,7 @@
           "youtube_id": "O47DFE2_Mt0",
           "title": "Alexa Ignored the Toddler\u2026 But Listened to the Cat Instead! \ud83d\ude02\ud83d\udc31",
           "tiktok_views": 5394,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/O47DFE2_Mt0/hqdefault.jpg",
@@ -690,20 +710,6 @@
           "thumbnail": "https://i.ytimg.com/vi/zSPdfEp7wgA/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-22T07:04:20Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7669065448259980558",
-          "youtube_id": "bEp7IDEhuEA",
-          "title": "Is This REALLY How Every Dad Comes Home After Work? \ud83d\ude02",
-          "tiktok_views": 9736,
-          "youtube_views": 6,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/bEp7IDEhuEA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-22T01:44:18Z"
         }
       ],
       "runs": [
@@ -1010,15 +1016,15 @@
         },
         {
           "date": "2026-10-31",
-          "views": 5,
+          "views": 6,
           "uploads": 3,
-          "cumulative_views": 117
+          "cumulative_views": 118
         },
         {
           "date": "2026-11-01",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 117
+          "cumulative_views": 118
         }
       ],
       "videos": [
@@ -1043,7 +1049,7 @@
           "youtube_id": "lbNdEvb2rFs",
           "title": "Easy Puff Pastry Frankfurter & Cheese Rolls \ud83c\udf2d\ud83e\uddc0",
           "tiktok_views": 5725,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lbNdEvb2rFs/hqdefault.jpg",
@@ -1662,7 +1668,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 98,
-      "total_views": 136485,
+      "total_views": 136502,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1747,15 +1753,15 @@
         },
         {
           "date": "2026-10-31",
-          "views": 12,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 145
+          "cumulative_views": 147
         },
         {
           "date": "2026-11-01",
-          "views": 0,
+          "views": 5,
           "uploads": 1,
-          "cumulative_views": 145
+          "cumulative_views": 152
         }
       ],
       "videos": [
@@ -1766,7 +1772,7 @@
           "youtube_id": "q-W7Xa93rm4",
           "title": "Podiatrist cleaning discolored t\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/q-W7Xa93rm4/hqdefault.jpg",
@@ -1780,7 +1786,7 @@
           "youtube_id": "dlK2wGNAJGc",
           "title": "Metal tool extracting debris fro\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dlK2wGNAJGc/hqdefault.jpg",
@@ -1808,7 +1814,7 @@
           "youtube_id": "JsH7v8xA7a8",
           "title": "Medical tool scraping thickened \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/JsH7v8xA7a8/hqdefault.jpg",
@@ -2182,6 +2188,16 @@
       ],
       "runs": [
         {
+          "id": 122,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-11-01",
+          "status": "success",
+          "video_id": "MM2uhPp6AIQ",
+          "error_message": null,
+          "created_at": "2026-11-01T07:30:09.359453+00:00"
+        },
+        {
           "id": 121,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2370,16 +2386,6 @@
           "video_id": "AJBzJf-DFhg",
           "error_message": null,
           "created_at": "2026-10-26T00:36:18.391485+00:00"
-        },
-        {
-          "id": 102,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-25",
-          "status": "success",
-          "video_id": "4GN6y58rOgo",
-          "error_message": null,
-          "created_at": "2026-10-25T19:35:35.216059+00:00"
         }
       ]
     },
@@ -2977,13 +2983,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7663883601259367693",
+      "youtube_id": "uJxdg2N6Uhg",
+      "title": "Show Me Daddy After Work\u201d\u2026 This Toddler Nailed It! \ud83e\udd23\u2764\ufe0f",
+      "tiktok_views": 4692,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/uJxdg2N6Uhg/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-01T02:28:47Z"
+    },
+    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1Mkbjmr1Fxd2wZdBbcw2lp2ZFmpwKNUpY",
       "youtube_id": "q-W7Xa93rm4",
       "title": "Podiatrist cleaning discolored t\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/q-W7Xa93rm4/hqdefault.jpg",
@@ -3011,7 +3031,7 @@
       "youtube_id": "dlK2wGNAJGc",
       "title": "Metal tool extracting debris fro\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dlK2wGNAJGc/hqdefault.jpg",
@@ -3025,7 +3045,7 @@
       "youtube_id": "EfS8bVHRqpE",
       "title": "Show Me Mommy in the Kitchen\u2026 Every Mom Just Felt That! \ud83d\ude02",
       "tiktok_views": 3839,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/EfS8bVHRqpE/hqdefault.jpg",
@@ -3039,7 +3059,7 @@
       "youtube_id": "lbNdEvb2rFs",
       "title": "Easy Puff Pastry Frankfurter & Cheese Rolls \ud83c\udf2d\ud83e\uddc0",
       "tiktok_views": 5725,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lbNdEvb2rFs/hqdefault.jpg",
@@ -3123,7 +3143,7 @@
       "youtube_id": "JsH7v8xA7a8",
       "title": "Medical tool scraping thickened \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/JsH7v8xA7a8/hqdefault.jpg",
@@ -3151,7 +3171,7 @@
       "youtube_id": "iHuiqfDpXZk",
       "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
       "tiktok_views": 45500,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
@@ -3221,7 +3241,7 @@
       "youtube_id": "O47DFE2_Mt0",
       "title": "Alexa Ignored the Toddler\u2026 But Listened to the Cat Instead! \ud83d\ude02\ud83d\udc31",
       "tiktok_views": 5394,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/O47DFE2_Mt0/hqdefault.jpg",
@@ -4209,20 +4229,6 @@
       "uploaded_at": "2026-10-22T06:03:36Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7669065448259980558",
-      "youtube_id": "bEp7IDEhuEA",
-      "title": "Is This REALLY How Every Dad Comes Home After Work? \ud83d\ude02",
-      "tiktok_views": 9736,
-      "youtube_views": 6,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/bEp7IDEhuEA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-22T01:44:18Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7669131389664562446",
@@ -4533,7 +4539,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 147,
-    "total_views": 704,
+    "total_views": 705,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -4564,66 +4570,86 @@
     "view_history": [
       {
         "date": "2026-10-22",
-        "views": 6,
-        "uploads": 3,
-        "cumulative_views": 6
+        "views": 0,
+        "uploads": 2,
+        "cumulative_views": 0
       },
       {
         "date": "2026-10-23",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 6
+        "cumulative_views": 0
       },
       {
         "date": "2026-10-24",
         "views": 7,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 7
       },
       {
         "date": "2026-10-25",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 17
+        "cumulative_views": 11
       },
       {
         "date": "2026-10-26",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 14
       },
       {
         "date": "2026-10-27",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 18
       },
       {
         "date": "2026-10-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 25
+        "cumulative_views": 19
       },
       {
         "date": "2026-10-29",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 29
+        "cumulative_views": 23
       },
       {
         "date": "2026-10-30",
-        "views": 5,
+        "views": 7,
         "uploads": 3,
-        "cumulative_views": 34
+        "cumulative_views": 30
       },
       {
         "date": "2026-10-31",
-        "views": 0,
+        "views": 1,
         "uploads": 3,
-        "cumulative_views": 34
+        "cumulative_views": 31
+      },
+      {
+        "date": "2026-11-01",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 31
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7663883601259367693",
+        "youtube_id": "uJxdg2N6Uhg",
+        "title": "Show Me Daddy After Work\u201d\u2026 This Toddler Nailed It! \ud83e\udd23\u2764\ufe0f",
+        "tiktok_views": 4692,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/uJxdg2N6Uhg/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-11-01T02:28:47Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4631,7 +4657,7 @@
         "youtube_id": "EfS8bVHRqpE",
         "title": "Show Me Mommy in the Kitchen\u2026 Every Mom Just Felt That! \ud83d\ude02",
         "tiktok_views": 3839,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/EfS8bVHRqpE/hqdefault.jpg",
@@ -4673,7 +4699,7 @@
         "youtube_id": "iHuiqfDpXZk",
         "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
         "tiktok_views": 45500,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
@@ -4701,7 +4727,7 @@
         "youtube_id": "O47DFE2_Mt0",
         "title": "Alexa Ignored the Toddler\u2026 But Listened to the Cat Instead! \ud83d\ude02\ud83d\udc31",
         "tiktok_views": 5394,
-        "youtube_views": 5,
+        "youtube_views": 6,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/O47DFE2_Mt0/hqdefault.jpg",
@@ -5029,20 +5055,6 @@
         "thumbnail": "https://i.ytimg.com/vi/zSPdfEp7wgA/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-22T07:04:20Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7669065448259980558",
-        "youtube_id": "bEp7IDEhuEA",
-        "title": "Is This REALLY How Every Dad Comes Home After Work? \ud83d\ude02",
-        "tiktok_views": 9736,
-        "youtube_views": 6,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/bEp7IDEhuEA/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-22T01:44:18Z"
       }
     ],
     "runs": [
@@ -5250,7 +5262,7 @@
   },
   "kpis": {
     "total_uploads": 399,
-    "total_views": 140235,
+    "total_views": 140253,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5482,5 +5494,5 @@
       "created_at": "2026-10-25T19:31:47.195744+00:00"
     }
   ],
-  "last_updated": "2026-11-01T02:28:26.069540+00:00"
+  "last_updated": "2026-11-01T07:30:13.753432+00:00"
 }
