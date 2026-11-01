@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 398,
+    "total_uploads": 399,
     "total_views": 140235,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -156,25 +156,25 @@
       "date": "2026-10-30",
       "ch1_views": 34,
       "ch2_views": 112,
-      "ch3_views": 132,
+      "ch3_views": 133,
       "ch4_views": 0,
-      "total_views": 278
+      "total_views": 279
     },
     {
       "date": "2026-10-31",
       "ch1_views": 34,
       "ch2_views": 117,
-      "ch3_views": 143,
+      "ch3_views": 145,
       "ch4_views": 0,
-      "total_views": 294
+      "total_views": 296
     },
     {
       "date": "2026-11-01",
       "ch1_views": 0,
       "ch2_views": 117,
-      "ch3_views": 143,
+      "ch3_views": 145,
       "ch4_views": 0,
-      "total_views": 260
+      "total_views": 262
     }
   ],
   "channels": {
@@ -193,7 +193,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 146,
+      "total_uploads": 147,
       "total_views": 704,
       "total_likes": 0,
       "upcoming": {
@@ -708,6 +708,16 @@
       ],
       "runs": [
         {
+          "id": 156,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-11-01",
+          "status": "success",
+          "video_id": "uJxdg2N6Uhg",
+          "error_message": null,
+          "created_at": "2026-11-01T02:28:21.961721+00:00"
+        },
+        {
           "id": 155,
           "channel_id": "channel_1",
           "slot": 1,
@@ -896,16 +906,6 @@
           "video_id": "MdcNDHrgNzs",
           "error_message": null,
           "created_at": "2026-10-25T19:31:47.195744+00:00"
-        },
-        {
-          "id": 136,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-10-25",
-          "status": "success",
-          "video_id": "LquLkixKH7c",
-          "error_message": null,
-          "created_at": "2026-10-25T07:14:01.562018+00:00"
         }
       ]
     },
@@ -1741,21 +1741,21 @@
         },
         {
           "date": "2026-10-30",
-          "views": 16,
+          "views": 17,
           "uploads": 3,
-          "cumulative_views": 132
+          "cumulative_views": 133
         },
         {
           "date": "2026-10-31",
-          "views": 11,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 143
+          "cumulative_views": 145
         },
         {
           "date": "2026-11-01",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 143
+          "cumulative_views": 145
         }
       ],
       "videos": [
@@ -1808,7 +1808,7 @@
           "youtube_id": "JsH7v8xA7a8",
           "title": "Medical tool scraping thickened \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/JsH7v8xA7a8/hqdefault.jpg",
@@ -1822,7 +1822,7 @@
           "youtube_id": "QmtohsyN-7c",
           "title": "Medical tool cleaning yellowed t\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QmtohsyN-7c/hqdefault.jpg",
@@ -3123,7 +3123,7 @@
       "youtube_id": "JsH7v8xA7a8",
       "title": "Medical tool scraping thickened \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/JsH7v8xA7a8/hqdefault.jpg",
@@ -3137,7 +3137,7 @@
       "youtube_id": "QmtohsyN-7c",
       "title": "Medical tool cleaning yellowed t\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QmtohsyN-7c/hqdefault.jpg",
@@ -4532,7 +4532,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 146,
+    "total_uploads": 147,
     "total_views": 704,
     "total_likes": 0,
     "upcoming": {
@@ -5047,6 +5047,16 @@
     ],
     "runs": [
       {
+        "id": 156,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-11-01",
+        "status": "success",
+        "video_id": "uJxdg2N6Uhg",
+        "error_message": null,
+        "created_at": "2026-11-01T02:28:21.961721+00:00"
+      },
+      {
         "id": 155,
         "channel_id": "channel_1",
         "slot": 1,
@@ -5235,21 +5245,11 @@
         "video_id": "MdcNDHrgNzs",
         "error_message": null,
         "created_at": "2026-10-25T19:31:47.195744+00:00"
-      },
-      {
-        "id": 136,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-10-25",
-        "status": "success",
-        "video_id": "LquLkixKH7c",
-        "error_message": null,
-        "created_at": "2026-10-25T07:14:01.562018+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 398,
+    "total_uploads": 399,
     "total_views": 140235,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5281,6 +5281,16 @@
     }
   },
   "runs": [
+    {
+      "id": 156,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-11-01",
+      "status": "success",
+      "video_id": "uJxdg2N6Uhg",
+      "error_message": null,
+      "created_at": "2026-11-01T02:28:21.961721+00:00"
+    },
     {
       "id": 155,
       "channel_id": "channel_1",
@@ -5470,17 +5480,7 @@
       "video_id": "MdcNDHrgNzs",
       "error_message": null,
       "created_at": "2026-10-25T19:31:47.195744+00:00"
-    },
-    {
-      "id": 136,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-10-25",
-      "status": "success",
-      "video_id": "LquLkixKH7c",
-      "error_message": null,
-      "created_at": "2026-10-25T07:14:01.562018+00:00"
     }
   ],
-  "last_updated": "2026-11-01T01:20:20.674581+00:00"
+  "last_updated": "2026-11-01T02:28:26.069540+00:00"
 }
