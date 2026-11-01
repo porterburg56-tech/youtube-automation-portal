@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 396,
+    "total_uploads": 397,
     "total_views": 140235,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -130,51 +130,51 @@
     },
     {
       "date": "2026-10-26",
-      "ch1_views": 19,
+      "ch1_views": 20,
       "ch2_views": 69,
       "ch3_views": 82,
       "ch4_views": 0,
-      "total_views": 170
+      "total_views": 171
     },
     {
       "date": "2026-10-27",
-      "ch1_views": 23,
+      "ch1_views": 24,
       "ch2_views": 81,
       "ch3_views": 94,
       "ch4_views": 0,
-      "total_views": 198
+      "total_views": 199
     },
     {
       "date": "2026-10-28",
-      "ch1_views": 24,
+      "ch1_views": 25,
       "ch2_views": 88,
       "ch3_views": 112,
       "ch4_views": 0,
-      "total_views": 224
+      "total_views": 225
     },
     {
       "date": "2026-10-29",
-      "ch1_views": 28,
+      "ch1_views": 29,
       "ch2_views": 99,
       "ch3_views": 124,
       "ch4_views": 0,
-      "total_views": 251
+      "total_views": 252
     },
     {
       "date": "2026-10-30",
       "ch1_views": 34,
       "ch2_views": 113,
-      "ch3_views": 140,
+      "ch3_views": 141,
       "ch4_views": 0,
-      "total_views": 287
+      "total_views": 288
     },
     {
       "date": "2026-10-31",
       "ch1_views": 34,
-      "ch2_views": 116,
-      "ch3_views": 146,
+      "ch2_views": 118,
+      "ch3_views": 152,
       "ch4_views": 0,
-      "total_views": 296
+      "total_views": 304
     }
   ],
   "channels": {
@@ -249,31 +249,31 @@
         },
         {
           "date": "2026-10-26",
-          "views": 2,
+          "views": 3,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-27",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 23
+          "cumulative_views": 24
         },
         {
           "date": "2026-10-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 25
         },
         {
           "date": "2026-10-29",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 28
+          "cumulative_views": 29
         },
         {
           "date": "2026-10-30",
-          "views": 6,
+          "views": 5,
           "uploads": 3,
           "cumulative_views": 34
         },
@@ -334,7 +334,7 @@
           "youtube_id": "iHuiqfDpXZk",
           "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
           "tiktok_views": 45500,
-          "youtube_views": 1,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
@@ -502,7 +502,7 @@
           "youtube_id": "I2AgncW9XCc",
           "title": "Toddler Doing Dad After Work Is Sending Me \ud83d\ude02",
           "tiktok_views": 4779,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/I2AgncW9XCc/hqdefault.jpg",
@@ -924,7 +924,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
-      "total_uploads": 133,
+      "total_uploads": 134,
       "total_views": 1476,
       "total_likes": 1,
       "upcoming": {
@@ -1016,9 +1016,9 @@
         },
         {
           "date": "2026-10-31",
-          "views": 3,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 116
+          "cumulative_views": 118
         }
       ],
       "videos": [
@@ -1029,7 +1029,7 @@
           "youtube_id": "lbNdEvb2rFs",
           "title": "Easy Puff Pastry Frankfurter & Cheese Rolls \ud83c\udf2d\ud83e\uddc0",
           "tiktok_views": 5725,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lbNdEvb2rFs/hqdefault.jpg",
@@ -1057,7 +1057,7 @@
           "youtube_id": "6WpOm50h1Ss",
           "title": "Taste & Tales \u2728",
           "tiktok_views": 8068,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/6WpOm50h1Ss/hqdefault.jpg",
@@ -1445,6 +1445,16 @@
       ],
       "runs": [
         {
+          "id": 162,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-11-01",
+          "status": "success",
+          "video_id": "fPyoKX9Mi5I",
+          "error_message": null,
+          "created_at": "2026-11-01T01:09:46.250003+00:00"
+        },
+        {
           "id": 161,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1633,16 +1643,6 @@
           "video_id": "O9_m30NbN6M",
           "error_message": null,
           "created_at": "2026-10-25T05:57:04.056143+00:00"
-        },
-        {
-          "id": 142,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-25",
-          "status": "success",
-          "video_id": "QavAtLr2WsA",
-          "error_message": null,
-          "created_at": "2026-10-25T00:14:07.577055+00:00"
         }
       ]
     },
@@ -1741,15 +1741,15 @@
         },
         {
           "date": "2026-10-30",
-          "views": 16,
+          "views": 17,
           "uploads": 3,
-          "cumulative_views": 140
+          "cumulative_views": 141
         },
         {
           "date": "2026-10-31",
-          "views": 6,
+          "views": 11,
           "uploads": 3,
-          "cumulative_views": 146
+          "cumulative_views": 152
         }
       ],
       "videos": [
@@ -1760,7 +1760,7 @@
           "youtube_id": "dlK2wGNAJGc",
           "title": "Metal tool extracting debris fro\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dlK2wGNAJGc/hqdefault.jpg",
@@ -1774,7 +1774,7 @@
           "youtube_id": "Ok5wftBEbIs",
           "title": "Metal pick removing debris from \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Ok5wftBEbIs/hqdefault.jpg",
@@ -1788,7 +1788,7 @@
           "youtube_id": "JsH7v8xA7a8",
           "title": "Medical tool scraping thickened \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 2,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/JsH7v8xA7a8/hqdefault.jpg",
@@ -1802,7 +1802,7 @@
           "youtube_id": "QmtohsyN-7c",
           "title": "Medical tool cleaning yellowed t\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QmtohsyN-7c/hqdefault.jpg",
@@ -2977,7 +2977,7 @@
       "youtube_id": "dlK2wGNAJGc",
       "title": "Metal tool extracting debris fro\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dlK2wGNAJGc/hqdefault.jpg",
@@ -3005,7 +3005,7 @@
       "youtube_id": "lbNdEvb2rFs",
       "title": "Easy Puff Pastry Frankfurter & Cheese Rolls \ud83c\udf2d\ud83e\uddc0",
       "tiktok_views": 5725,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lbNdEvb2rFs/hqdefault.jpg",
@@ -3033,7 +3033,7 @@
       "youtube_id": "Ok5wftBEbIs",
       "title": "Metal pick removing debris from \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Ok5wftBEbIs/hqdefault.jpg",
@@ -3075,7 +3075,7 @@
       "youtube_id": "6WpOm50h1Ss",
       "title": "Taste & Tales \u2728",
       "tiktok_views": 8068,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/6WpOm50h1Ss/hqdefault.jpg",
@@ -3089,7 +3089,7 @@
       "youtube_id": "JsH7v8xA7a8",
       "title": "Medical tool scraping thickened \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 2,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/JsH7v8xA7a8/hqdefault.jpg",
@@ -3103,7 +3103,7 @@
       "youtube_id": "QmtohsyN-7c",
       "title": "Medical tool cleaning yellowed t\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QmtohsyN-7c/hqdefault.jpg",
@@ -3117,7 +3117,7 @@
       "youtube_id": "iHuiqfDpXZk",
       "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
       "tiktok_views": 45500,
-      "youtube_views": 1,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
@@ -3621,7 +3621,7 @@
       "youtube_id": "I2AgncW9XCc",
       "title": "Toddler Doing Dad After Work Is Sending Me \ud83d\ude02",
       "tiktok_views": 4779,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/I2AgncW9XCc/hqdefault.jpg",
@@ -4582,31 +4582,31 @@
       },
       {
         "date": "2026-10-26",
-        "views": 2,
+        "views": 3,
         "uploads": 3,
-        "cumulative_views": 19
+        "cumulative_views": 20
       },
       {
         "date": "2026-10-27",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 23
+        "cumulative_views": 24
       },
       {
         "date": "2026-10-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 25
       },
       {
         "date": "2026-10-29",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 28
+        "cumulative_views": 29
       },
       {
         "date": "2026-10-30",
-        "views": 6,
+        "views": 5,
         "uploads": 3,
         "cumulative_views": 34
       },
@@ -4667,7 +4667,7 @@
         "youtube_id": "iHuiqfDpXZk",
         "title": "This Toddler Just Roasted Grandpa Without Saying a Word \ud83d\udc80\ud83d\ude2d",
         "tiktok_views": 45500,
-        "youtube_views": 1,
+        "youtube_views": 0,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/iHuiqfDpXZk/hqdefault.jpg",
@@ -4835,7 +4835,7 @@
         "youtube_id": "I2AgncW9XCc",
         "title": "Toddler Doing Dad After Work Is Sending Me \ud83d\ude02",
         "tiktok_views": 4779,
-        "youtube_views": 2,
+        "youtube_views": 3,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/I2AgncW9XCc/hqdefault.jpg",
@@ -5243,7 +5243,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 396,
+    "total_uploads": 397,
     "total_views": 140235,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5476,5 +5476,5 @@
       "created_at": "2026-10-25T07:14:01.562018+00:00"
     }
   ],
-  "last_updated": "2026-10-31T20:37:12.848386+00:00"
+  "last_updated": "2026-11-01T01:09:51.087210+00:00"
 }
