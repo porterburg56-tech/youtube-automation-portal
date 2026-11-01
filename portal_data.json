@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 397,
+    "total_uploads": 398,
     "total_views": 140235,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -92,89 +92,89 @@
       "date": "2026-10-22",
       "ch1_views": 6,
       "ch2_views": 9,
-      "ch3_views": 28,
+      "ch3_views": 20,
       "ch4_views": 0,
-      "total_views": 43
+      "total_views": 35
     },
     {
       "date": "2026-10-23",
       "ch1_views": 6,
       "ch2_views": 31,
-      "ch3_views": 52,
+      "ch3_views": 44,
       "ch4_views": 0,
-      "total_views": 89
+      "total_views": 81
     },
     {
       "date": "2026-10-24",
       "ch1_views": 13,
       "ch2_views": 50,
-      "ch3_views": 67,
+      "ch3_views": 59,
       "ch4_views": 0,
-      "total_views": 130
+      "total_views": 122
     },
     {
       "date": "2026-10-25",
       "ch1_views": 17,
       "ch2_views": 52,
-      "ch3_views": 73,
+      "ch3_views": 65,
       "ch4_views": 0,
-      "total_views": 142
+      "total_views": 134
     },
     {
       "date": "2026-10-26",
       "ch1_views": 20,
       "ch2_views": 68,
-      "ch3_views": 82,
+      "ch3_views": 74,
       "ch4_views": 0,
-      "total_views": 170
+      "total_views": 162
     },
     {
       "date": "2026-10-27",
       "ch1_views": 24,
       "ch2_views": 80,
-      "ch3_views": 94,
+      "ch3_views": 86,
       "ch4_views": 0,
-      "total_views": 198
+      "total_views": 190
     },
     {
       "date": "2026-10-28",
       "ch1_views": 25,
       "ch2_views": 87,
-      "ch3_views": 112,
+      "ch3_views": 104,
       "ch4_views": 0,
-      "total_views": 224
+      "total_views": 216
     },
     {
       "date": "2026-10-29",
       "ch1_views": 29,
       "ch2_views": 98,
-      "ch3_views": 124,
+      "ch3_views": 116,
       "ch4_views": 0,
-      "total_views": 251
+      "total_views": 243
     },
     {
       "date": "2026-10-30",
       "ch1_views": 34,
       "ch2_views": 112,
-      "ch3_views": 141,
+      "ch3_views": 132,
       "ch4_views": 0,
-      "total_views": 287
+      "total_views": 278
     },
     {
       "date": "2026-10-31",
       "ch1_views": 34,
       "ch2_views": 117,
-      "ch3_views": 149,
+      "ch3_views": 143,
       "ch4_views": 0,
-      "total_views": 300
+      "total_views": 294
     },
     {
       "date": "2026-11-01",
       "ch1_views": 0,
       "ch2_views": 117,
-      "ch3_views": 0,
+      "ch3_views": 143,
       "ch4_views": 0,
-      "total_views": 117
+      "total_views": 260
     }
   ],
   "channels": {
@@ -1661,7 +1661,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 97,
+      "total_uploads": 98,
       "total_views": 136485,
       "total_likes": 0,
       "upcoming": {
@@ -1693,66 +1693,86 @@
       "view_history": [
         {
           "date": "2026-10-22",
-          "views": 28,
-          "uploads": 3,
-          "cumulative_views": 28
+          "views": 20,
+          "uploads": 2,
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-23",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 52
+          "cumulative_views": 44
         },
         {
           "date": "2026-10-24",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 67
+          "cumulative_views": 59
         },
         {
           "date": "2026-10-25",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 73
+          "cumulative_views": 65
         },
         {
           "date": "2026-10-26",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 82
+          "cumulative_views": 74
         },
         {
           "date": "2026-10-27",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 94
+          "cumulative_views": 86
         },
         {
           "date": "2026-10-28",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 112
+          "cumulative_views": 104
         },
         {
           "date": "2026-10-29",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 124
+          "cumulative_views": 116
         },
         {
           "date": "2026-10-30",
-          "views": 17,
+          "views": 16,
           "uploads": 3,
-          "cumulative_views": 141
+          "cumulative_views": 132
         },
         {
           "date": "2026-10-31",
-          "views": 8,
+          "views": 11,
           "uploads": 3,
-          "cumulative_views": 149
+          "cumulative_views": 143
+        },
+        {
+          "date": "2026-11-01",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 143
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1Mkbjmr1Fxd2wZdBbcw2lp2ZFmpwKNUpY",
+          "youtube_id": "q-W7Xa93rm4",
+          "title": "Podiatrist cleaning discolored t\u2026 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/q-W7Xa93rm4/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-01T01:11:20Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1788,7 +1808,7 @@
           "youtube_id": "JsH7v8xA7a8",
           "title": "Medical tool scraping thickened \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 2,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/JsH7v8xA7a8/hqdefault.jpg",
@@ -1802,7 +1822,7 @@
           "youtube_id": "QmtohsyN-7c",
           "title": "Medical tool cleaning yellowed t\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/QmtohsyN-7c/hqdefault.jpg",
@@ -2158,20 +2178,6 @@
           "thumbnail": "https://i.ytimg.com/vi/JE_SlJn0ZH0/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-22T06:07:13Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1opZK_VaT9jwAdL5aagga427J-slUuP4n",
-          "youtube_id": "KfFwDrs8VNs",
-          "title": "Professional removing growth fro\u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 8,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/KfFwDrs8VNs/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-22T00:42:41Z"
         }
       ],
       "runs": [
@@ -2767,6 +2773,16 @@
       ],
       "runs": [
         {
+          "id": 114,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-11-01",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-01T01:20:06.616281+00:00"
+        },
+        {
           "id": 113,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2955,21 +2971,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-25T19:53:10.296230+00:00"
-        },
-        {
-          "id": 94,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-25",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-25T06:21:52.478090+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1Mkbjmr1Fxd2wZdBbcw2lp2ZFmpwKNUpY",
+      "youtube_id": "q-W7Xa93rm4",
+      "title": "Podiatrist cleaning discolored t\u2026 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/q-W7Xa93rm4/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-01T01:11:20Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -3103,7 +3123,7 @@
       "youtube_id": "JsH7v8xA7a8",
       "title": "Medical tool scraping thickened \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 2,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/JsH7v8xA7a8/hqdefault.jpg",
@@ -3117,7 +3137,7 @@
       "youtube_id": "QmtohsyN-7c",
       "title": "Medical tool cleaning yellowed t\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/QmtohsyN-7c/hqdefault.jpg",
@@ -4203,20 +4223,6 @@
       "uploaded_at": "2026-10-22T01:44:18Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1opZK_VaT9jwAdL5aagga427J-slUuP4n",
-      "youtube_id": "KfFwDrs8VNs",
-      "title": "Professional removing growth fro\u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 8,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/KfFwDrs8VNs/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-22T00:42:41Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7669131389664562446",
@@ -5243,7 +5249,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 397,
+    "total_uploads": 398,
     "total_views": 140235,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5476,5 +5482,5 @@
       "created_at": "2026-10-25T07:14:01.562018+00:00"
     }
   ],
-  "last_updated": "2026-11-01T01:11:10.820215+00:00"
+  "last_updated": "2026-11-01T01:20:20.674581+00:00"
 }
