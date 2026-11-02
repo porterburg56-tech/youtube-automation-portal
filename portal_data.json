@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 405,
+    "total_uploads": 406,
     "total_views": 140299,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -932,7 +932,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
-      "total_uploads": 135,
+      "total_uploads": 136,
       "total_views": 1495,
       "total_likes": 1,
       "upcoming": {
@@ -1453,6 +1453,16 @@
       ],
       "runs": [
         {
+          "id": 167,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-11-02",
+          "status": "success",
+          "video_id": "i7XP8_Q24x0",
+          "error_message": null,
+          "created_at": "2026-11-02T01:41:41.462327+00:00"
+        },
+        {
           "id": 166,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1641,16 +1651,6 @@
           "video_id": "CVWeFv92x2o",
           "error_message": null,
           "created_at": "2026-10-27T06:17:06.831717+00:00"
-        },
-        {
-          "id": 147,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-27",
-          "status": "success",
-          "video_id": "8FuHOr7V-q0",
-          "error_message": null,
-          "created_at": "2026-10-27T01:32:07.977811+00:00"
         }
       ]
     },
@@ -5257,7 +5257,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 405,
+    "total_uploads": 406,
     "total_views": 140299,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5490,5 +5490,5 @@
       "created_at": "2026-10-26T07:22:53.612958+00:00"
     }
   ],
-  "last_updated": "2026-11-02T01:37:02.880667+00:00"
+  "last_updated": "2026-11-02T01:41:46.107015+00:00"
 }
