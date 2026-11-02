@@ -164,17 +164,17 @@
       "date": "2026-11-01",
       "ch1_views": 52,
       "ch2_views": 112,
-      "ch3_views": 148,
+      "ch3_views": 149,
       "ch4_views": 0,
-      "total_views": 312
+      "total_views": 313
     },
     {
       "date": "2026-11-02",
       "ch1_views": 52,
       "ch2_views": 118,
-      "ch3_views": 155,
+      "ch3_views": 156,
       "ch4_views": 0,
-      "total_views": 325
+      "total_views": 326
     }
   ],
   "channels": {
@@ -223,12 +223,6 @@
         }
       },
       "view_history": [
-        {
-          "date": "2026-10-23",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
         {
           "date": "2026-10-24",
           "views": 7,
@@ -286,11 +280,25 @@
         {
           "date": "2026-11-02",
           "views": 0,
-          "uploads": 2,
+          "uploads": 3,
           "cumulative_views": 52
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7668287019818192142",
+          "youtube_id": "nAy_9KAIaxY",
+          "title": "She Turned Dad\u2019s After-Work Mood Into a Masterpiece \ud83d\ude2d",
+          "tiktok_views": 2297,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/nAy_9KAIaxY/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-02T23:51:28Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -696,20 +704,6 @@
           "thumbnail": "https://i.ytimg.com/vi/WE6efn5Ri9E/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-24T01:51:24Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7672739307945315598",
-          "youtube_id": "h9Yz6NAgXNA",
-          "title": "Pure innocence mixed with perfect comedy. \u2764\ufe0f \ud83d\ude02",
-          "tiktok_views": 6528,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/h9Yz6NAgXNA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-23T20:18:36Z"
         }
       ],
       "runs": [
@@ -1753,15 +1747,15 @@
         },
         {
           "date": "2026-11-01",
-          "views": 30,
+          "views": 31,
           "uploads": 3,
-          "cumulative_views": 148
+          "cumulative_views": 149
         },
         {
           "date": "2026-11-02",
           "views": 7,
           "uploads": 2,
-          "cumulative_views": 155
+          "cumulative_views": 156
         }
       ],
       "videos": [
@@ -1814,7 +1808,7 @@
           "youtube_id": "MM2uhPp6AIQ",
           "title": "Podiatry procedure extracting na\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 14,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MM2uhPp6AIQ/hqdefault.jpg",
@@ -2188,6 +2182,16 @@
       ],
       "runs": [
         {
+          "id": 126,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-11-02",
+          "status": "success",
+          "video_id": "G4s5E6jDS3Y",
+          "error_message": null,
+          "created_at": "2026-11-02T23:52:44.562712+00:00"
+        },
+        {
           "id": 125,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2376,16 +2380,6 @@
           "video_id": "Gi5hirr4P2Q",
           "error_message": null,
           "created_at": "2026-10-27T06:15:00.283927+00:00"
-        },
-        {
-          "id": 106,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-27",
-          "status": "success",
-          "video_id": "A6oak1RD_oE",
-          "error_message": null,
-          "created_at": "2026-10-27T01:57:28.602330+00:00"
         }
       ]
     },
@@ -2983,6 +2977,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7668287019818192142",
+      "youtube_id": "nAy_9KAIaxY",
+      "title": "She Turned Dad\u2019s After-Work Mood Into a Masterpiece \ud83d\ude2d",
+      "tiktok_views": 2297,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/nAy_9KAIaxY/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-02T23:51:28Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7658729678919732494",
@@ -3143,7 +3151,7 @@
       "youtube_id": "MM2uhPp6AIQ",
       "title": "Podiatry procedure extracting na\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 14,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MM2uhPp6AIQ/hqdefault.jpg",
@@ -4201,20 +4209,6 @@
       "uploaded_at": "2026-10-23T20:26:37Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7672739307945315598",
-      "youtube_id": "h9Yz6NAgXNA",
-      "title": "Pure innocence mixed with perfect comedy. \u2764\ufe0f \ud83d\ude02",
-      "tiktok_views": 6528,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/h9Yz6NAgXNA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-23T20:18:36Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7699920297431977230",
@@ -4569,12 +4563,6 @@
     },
     "view_history": [
       {
-        "date": "2026-10-23",
-        "views": 0,
-        "uploads": 1,
-        "cumulative_views": 0
-      },
-      {
         "date": "2026-10-24",
         "views": 7,
         "uploads": 3,
@@ -4631,11 +4619,25 @@
       {
         "date": "2026-11-02",
         "views": 0,
-        "uploads": 2,
+        "uploads": 3,
         "cumulative_views": 52
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7668287019818192142",
+        "youtube_id": "nAy_9KAIaxY",
+        "title": "She Turned Dad\u2019s After-Work Mood Into a Masterpiece \ud83d\ude2d",
+        "tiktok_views": 2297,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/nAy_9KAIaxY/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-11-02T23:51:28Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5041,20 +5043,6 @@
         "thumbnail": "https://i.ytimg.com/vi/WE6efn5Ri9E/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-24T01:51:24Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7672739307945315598",
-        "youtube_id": "h9Yz6NAgXNA",
-        "title": "Pure innocence mixed with perfect comedy. \u2764\ufe0f \ud83d\ude02",
-        "tiktok_views": 6528,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/h9Yz6NAgXNA/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-23T20:18:36Z"
       }
     ],
     "runs": [
@@ -5494,5 +5482,5 @@
       "created_at": "2026-10-27T07:14:16.029934+00:00"
     }
   ],
-  "last_updated": "2026-11-02T23:51:11.847236+00:00"
+  "last_updated": "2026-11-02T23:52:48.974807+00:00"
 }
