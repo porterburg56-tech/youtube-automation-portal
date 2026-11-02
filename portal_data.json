@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 408,
+    "total_uploads": 409,
     "total_views": 140335,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -1667,7 +1667,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 101,
+      "total_uploads": 102,
       "total_views": 136541,
       "total_likes": 0,
       "upcoming": {
@@ -1700,7 +1700,7 @@
         {
           "date": "2026-10-23",
           "views": 1,
-          "uploads": 2,
+          "uploads": 1,
           "cumulative_views": 1
         },
         {
@@ -1760,11 +1760,25 @@
         {
           "date": "2026-11-02",
           "views": 0,
-          "uploads": 1,
+          "uploads": 2,
           "cumulative_views": 139
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1a5xyBUagwgtiOMKXVRP_ksh8q0FQuUuf",
+          "youtube_id": "lmU5-T_OTrA",
+          "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-02T07:39:41Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2170,20 +2184,6 @@
           "thumbnail": "https://i.ytimg.com/vi/dAiy2lbo13M/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-23T20:26:37Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1LgTPBlsbeUQsR1JzBt-FCTJZwoPeCUjX",
-          "youtube_id": "eWnmzCi8MjM",
-          "title": "Professional removing stone from\u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/eWnmzCi8MjM/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-23T06:28:48Z"
         }
       ],
       "runs": [
@@ -2779,6 +2779,16 @@
       ],
       "runs": [
         {
+          "id": 118,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-11-02",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-02T07:49:15.019964+00:00"
+        },
+        {
           "id": 117,
           "channel_id": "channel_4",
           "slot": 2,
@@ -2967,21 +2977,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-27T01:33:00.031315+00:00"
-        },
-        {
-          "id": 98,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-10-26",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-26T21:47:06.403410+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1a5xyBUagwgtiOMKXVRP_ksh8q0FQuUuf",
+      "youtube_id": "lmU5-T_OTrA",
+      "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-02T07:39:41Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4201,20 +4215,6 @@
       "uploaded_at": "2026-10-23T06:54:30Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1LgTPBlsbeUQsR1JzBt-FCTJZwoPeCUjX",
-      "youtube_id": "eWnmzCi8MjM",
-      "title": "Professional removing stone from\u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/eWnmzCi8MjM/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-23T06:28:48Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7659097536761777421",
@@ -5261,7 +5261,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 408,
+    "total_uploads": 409,
     "total_views": 140335,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5494,5 +5494,5 @@
       "created_at": "2026-10-26T21:32:56.645034+00:00"
     }
   ],
-  "last_updated": "2026-11-02T07:39:13.337339+00:00"
+  "last_updated": "2026-11-02T07:49:19.141188+00:00"
 }
