@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 408,
-    "total_views": 140316,
+    "total_views": 140335,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -89,100 +89,92 @@
       "total_views": 1570
     },
     {
-      "date": "2026-10-22",
-      "ch1_views": 0,
-      "ch2_views": 3,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 3
-    },
-    {
       "date": "2026-10-23",
       "ch1_views": 0,
-      "ch2_views": 25,
+      "ch2_views": 22,
       "ch3_views": 1,
       "ch4_views": 0,
-      "total_views": 26
+      "total_views": 23
     },
     {
       "date": "2026-10-24",
       "ch1_views": 7,
-      "ch2_views": 44,
+      "ch2_views": 41,
       "ch3_views": 16,
       "ch4_views": 0,
-      "total_views": 67
+      "total_views": 64
     },
     {
       "date": "2026-10-25",
       "ch1_views": 12,
-      "ch2_views": 47,
+      "ch2_views": 44,
       "ch3_views": 22,
       "ch4_views": 0,
-      "total_views": 81
+      "total_views": 78
     },
     {
       "date": "2026-10-26",
       "ch1_views": 16,
-      "ch2_views": 63,
+      "ch2_views": 60,
       "ch3_views": 31,
       "ch4_views": 0,
-      "total_views": 110
+      "total_views": 107
     },
     {
       "date": "2026-10-27",
       "ch1_views": 20,
-      "ch2_views": 75,
+      "ch2_views": 72,
       "ch3_views": 43,
       "ch4_views": 0,
-      "total_views": 138
+      "total_views": 135
     },
     {
       "date": "2026-10-28",
       "ch1_views": 21,
-      "ch2_views": 82,
+      "ch2_views": 79,
       "ch3_views": 61,
       "ch4_views": 0,
-      "total_views": 164
+      "total_views": 161
     },
     {
       "date": "2026-10-29",
       "ch1_views": 26,
-      "ch2_views": 93,
+      "ch2_views": 90,
       "ch3_views": 73,
       "ch4_views": 0,
-      "total_views": 192
+      "total_views": 189
     },
     {
       "date": "2026-10-30",
       "ch1_views": 37,
-      "ch2_views": 108,
+      "ch2_views": 105,
       "ch3_views": 90,
       "ch4_views": 0,
-      "total_views": 235
+      "total_views": 232
     },
     {
       "date": "2026-10-31",
       "ch1_views": 40,
-      "ch2_views": 115,
+      "ch2_views": 112,
       "ch3_views": 113,
       "ch4_views": 0,
-      "total_views": 268
+      "total_views": 265
     },
     {
       "date": "2026-11-01",
       "ch1_views": 44,
-      "ch2_views": 117,
-      "ch3_views": 138,
+      "ch2_views": 114,
+      "ch3_views": 139,
       "ch4_views": 0,
-      "total_views": 299
+      "total_views": 297
     },
     {
       "date": "2026-11-02",
       "ch1_views": 44,
-      "ch2_views": 117,
-      "ch3_views": 138,
+      "ch2_views": 114,
+      "ch3_views": 139,
       "ch4_views": 0,
-      "total_views": 299
+      "total_views": 297
     }
   ],
   "channels": {
@@ -969,79 +961,87 @@
       },
       "view_history": [
         {
-          "date": "2026-10-22",
-          "views": 3,
-          "uploads": 1,
-          "cumulative_views": 3
-        },
-        {
           "date": "2026-10-23",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 25
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-24",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 44
+          "cumulative_views": 41
         },
         {
           "date": "2026-10-25",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 47
+          "cumulative_views": 44
         },
         {
           "date": "2026-10-26",
           "views": 16,
           "uploads": 2,
-          "cumulative_views": 63
+          "cumulative_views": 60
         },
         {
           "date": "2026-10-27",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 75
+          "cumulative_views": 72
         },
         {
           "date": "2026-10-28",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 82
+          "cumulative_views": 79
         },
         {
           "date": "2026-10-29",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 93
+          "cumulative_views": 90
         },
         {
           "date": "2026-10-30",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 108
+          "cumulative_views": 105
         },
         {
           "date": "2026-10-31",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 115
+          "cumulative_views": 112
         },
         {
           "date": "2026-11-01",
           "views": 2,
           "uploads": 2,
-          "cumulative_views": 117
+          "cumulative_views": 114
         },
         {
           "date": "2026-11-02",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 117
+          "uploads": 2,
+          "cumulative_views": 114
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7649465159429164302",
+          "youtube_id": "lHTOsuX0lRc",
+          "title": "The Fluffiest Chocolate Banana Cake Secret I Ever Learned \ud83c\udf4c\ud83c\udf6b\u2728",
+          "tiktok_views": 7517,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/lHTOsuX0lRc/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-02T07:22:21Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1447,20 +1447,6 @@
           "thumbnail": "https://i.ytimg.com/vi/MIr9QJEVZV4/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-23T00:40:37Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7699541605694311693",
-          "youtube_id": "1ZKxJOtIU-4",
-          "title": "Puff Pastry Stuffed Apples with Chocolate Sauce \ud83c\udf4e\ud83c\udf6b",
-          "tiktok_views": 5587,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/1ZKxJOtIU-4/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-22T19:56:03Z"
         }
       ],
       "runs": [
@@ -1682,7 +1668,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 101,
-      "total_views": 136522,
+      "total_views": 136541,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1767,15 +1753,15 @@
         },
         {
           "date": "2026-11-01",
-          "views": 25,
+          "views": 26,
           "uploads": 3,
-          "cumulative_views": 138
+          "cumulative_views": 139
         },
         {
           "date": "2026-11-02",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 138
+          "cumulative_views": 139
         }
       ],
       "videos": [
@@ -1828,7 +1814,7 @@
           "youtube_id": "q-W7Xa93rm4",
           "title": "Podiatrist cleaning discolored t\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 11,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/q-W7Xa93rm4/hqdefault.jpg",
@@ -2202,6 +2188,16 @@
       ],
       "runs": [
         {
+          "id": 125,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-11-02",
+          "status": "success",
+          "video_id": "lmU5-T_OTrA",
+          "error_message": null,
+          "created_at": "2026-11-02T07:39:08.942453+00:00"
+        },
+        {
           "id": 124,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2390,16 +2386,6 @@
           "video_id": "A6oak1RD_oE",
           "error_message": null,
           "created_at": "2026-10-27T01:57:28.602330+00:00"
-        },
-        {
-          "id": 105,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-26",
-          "status": "success",
-          "video_id": "dLCskoONG-8",
-          "error_message": null,
-          "created_at": "2026-10-26T21:38:42.090591+00:00"
         }
       ]
     },
@@ -2997,6 +2983,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7649465159429164302",
+      "youtube_id": "lHTOsuX0lRc",
+      "title": "The Fluffiest Chocolate Banana Cake Secret I Ever Learned \ud83c\udf4c\ud83c\udf6b\u2728",
+      "tiktok_views": 7517,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/lHTOsuX0lRc/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-02T07:22:21Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7668297547756080398",
@@ -3129,7 +3129,7 @@
       "youtube_id": "q-W7Xa93rm4",
       "title": "Podiatrist cleaning discolored t\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 11,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/q-W7Xa93rm4/hqdefault.jpg",
@@ -4243,20 +4243,6 @@
       "uploaded_at": "2026-10-23T00:40:37Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7699541605694311693",
-      "youtube_id": "1ZKxJOtIU-4",
-      "title": "Puff Pastry Stuffed Apples with Chocolate Sauce \ud83c\udf4e\ud83c\udf6b",
-      "tiktok_views": 5587,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/1ZKxJOtIU-4/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-22T19:56:03Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -5276,7 +5262,7 @@
   },
   "kpis": {
     "total_uploads": 408,
-    "total_views": 140316,
+    "total_views": 140335,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5508,5 +5494,5 @@
       "created_at": "2026-10-26T21:32:56.645034+00:00"
     }
   ],
-  "last_updated": "2026-11-02T07:21:25.225554+00:00"
+  "last_updated": "2026-11-02T07:39:13.337339+00:00"
 }
