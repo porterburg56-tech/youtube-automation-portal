@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 407,
-    "total_views": 140299,
+    "total_uploads": 408,
+    "total_views": 140316,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -114,75 +114,75 @@
     },
     {
       "date": "2026-10-25",
-      "ch1_views": 11,
+      "ch1_views": 12,
       "ch2_views": 47,
       "ch3_views": 22,
       "ch4_views": 0,
-      "total_views": 80
+      "total_views": 81
     },
     {
       "date": "2026-10-26",
-      "ch1_views": 15,
+      "ch1_views": 16,
       "ch2_views": 63,
       "ch3_views": 31,
       "ch4_views": 0,
-      "total_views": 109
+      "total_views": 110
     },
     {
       "date": "2026-10-27",
-      "ch1_views": 19,
+      "ch1_views": 20,
       "ch2_views": 75,
       "ch3_views": 43,
       "ch4_views": 0,
-      "total_views": 137
+      "total_views": 138
     },
     {
       "date": "2026-10-28",
-      "ch1_views": 20,
+      "ch1_views": 21,
       "ch2_views": 82,
       "ch3_views": 61,
       "ch4_views": 0,
-      "total_views": 163
+      "total_views": 164
     },
     {
       "date": "2026-10-29",
-      "ch1_views": 24,
+      "ch1_views": 26,
       "ch2_views": 93,
       "ch3_views": 73,
       "ch4_views": 0,
-      "total_views": 190
+      "total_views": 192
     },
     {
       "date": "2026-10-30",
-      "ch1_views": 35,
+      "ch1_views": 37,
       "ch2_views": 108,
       "ch3_views": 90,
       "ch4_views": 0,
-      "total_views": 233
+      "total_views": 235
     },
     {
       "date": "2026-10-31",
-      "ch1_views": 38,
+      "ch1_views": 40,
       "ch2_views": 115,
       "ch3_views": 113,
       "ch4_views": 0,
-      "total_views": 266
+      "total_views": 268
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 41,
-      "ch2_views": 116,
+      "ch1_views": 44,
+      "ch2_views": 117,
       "ch3_views": 138,
       "ch4_views": 0,
-      "total_views": 295
+      "total_views": 299
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 0,
-      "ch2_views": 116,
+      "ch1_views": 44,
+      "ch2_views": 117,
       "ch3_views": 138,
       "ch4_views": 0,
-      "total_views": 254
+      "total_views": 299
     }
   ],
   "channels": {
@@ -202,7 +202,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 150,
-      "total_views": 712,
+      "total_views": 722,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -234,7 +234,7 @@
         {
           "date": "2026-10-23",
           "views": 0,
-          "uploads": 3,
+          "uploads": 2,
           "cumulative_views": 0
         },
         {
@@ -245,54 +245,74 @@
         },
         {
           "date": "2026-10-25",
-          "views": 4,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 11
+          "cumulative_views": 12
         },
         {
           "date": "2026-10-26",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 16
         },
         {
           "date": "2026-10-27",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 21
         },
         {
           "date": "2026-10-29",
-          "views": 4,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 26
         },
         {
           "date": "2026-10-30",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 35
+          "cumulative_views": 37
         },
         {
           "date": "2026-10-31",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 38
+          "cumulative_views": 40
         },
         {
           "date": "2026-11-01",
-          "views": 3,
+          "views": 4,
           "uploads": 3,
-          "cumulative_views": 41
+          "cumulative_views": 44
+        },
+        {
+          "date": "2026-11-02",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 44
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7668297547756080398",
+          "youtube_id": "emIoKA1_kXk",
+          "title": "This is why you never Leave snacks Near catty \ud83d\ude02",
+          "tiktok_views": 4234,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/emIoKA1_kXk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-02T02:43:02Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -328,7 +348,7 @@
           "youtube_id": "uJxdg2N6Uhg",
           "title": "Show Me Daddy After Work\u201d\u2026 This Toddler Nailed It! \ud83e\udd23\u2764\ufe0f",
           "tiktok_views": 4692,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/uJxdg2N6Uhg/hqdefault.jpg",
@@ -440,7 +460,7 @@
           "youtube_id": "LxD23ZSh2xI",
           "title": "\ud83d\ude02 \u201cShow Me Daddy Fixing Something\u201d\u2026 This Toddler Was TOO Accurate! \ud83e\udd23",
           "tiktok_views": 5460,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/LxD23ZSh2xI/hqdefault.jpg",
@@ -608,7 +628,7 @@
           "youtube_id": "LquLkixKH7c",
           "title": "Dad Came Home From Work\u2026 But My Toddler Somehow Became Him! \ud83e\udd23",
           "tiktok_views": 7709,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/LquLkixKH7c/hqdefault.jpg",
@@ -698,20 +718,6 @@
           "thumbnail": "https://i.ytimg.com/vi/oiSUKZ9olMg/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-23T06:54:30Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7672780144100117774",
-          "youtube_id": "_IyOIA-X-pQ",
-          "title": "We watched this five times and still laughed. \ud83e\udd23",
-          "tiktok_views": 8931,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/_IyOIA-X-pQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-23T01:47:06Z"
         }
       ],
       "runs": [
@@ -932,8 +938,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
-      "total_uploads": 136,
-      "total_views": 1495,
+      "total_uploads": 137,
+      "total_views": 1502,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -1024,15 +1030,15 @@
         },
         {
           "date": "2026-11-01",
-          "views": 1,
+          "views": 2,
           "uploads": 2,
-          "cumulative_views": 116
+          "cumulative_views": 117
         },
         {
           "date": "2026-11-02",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 116
+          "cumulative_views": 117
         }
       ],
       "videos": [
@@ -1071,7 +1077,7 @@
           "youtube_id": "fPyoKX9Mi5I",
           "title": "No-Bake Triple Chocolate Cream Cups with Nutella Biscuit Base \u2728",
           "tiktok_views": 7775,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/fPyoKX9Mi5I/hqdefault.jpg",
@@ -1459,6 +1465,16 @@
       ],
       "runs": [
         {
+          "id": 168,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-02",
+          "status": "success",
+          "video_id": "lHTOsuX0lRc",
+          "error_message": null,
+          "created_at": "2026-11-02T07:21:20.780229+00:00"
+        },
+        {
           "id": 167,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1647,16 +1663,6 @@
           "video_id": "zLTAOL7vgh4",
           "error_message": null,
           "created_at": "2026-10-27T20:38:23.454939+00:00"
-        },
-        {
-          "id": 148,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-27",
-          "status": "success",
-          "video_id": "CVWeFv92x2o",
-          "error_message": null,
-          "created_at": "2026-10-27T06:17:06.831717+00:00"
         }
       ]
     },
@@ -2991,6 +2997,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7668297547756080398",
+      "youtube_id": "emIoKA1_kXk",
+      "title": "This is why you never Leave snacks Near catty \ud83d\ude02",
+      "tiktok_views": 4234,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/emIoKA1_kXk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-02T02:43:02Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7659856001067126030",
@@ -3095,7 +3115,7 @@
       "youtube_id": "uJxdg2N6Uhg",
       "title": "Show Me Daddy After Work\u201d\u2026 This Toddler Nailed It! \ud83e\udd23\u2764\ufe0f",
       "tiktok_views": 4692,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/uJxdg2N6Uhg/hqdefault.jpg",
@@ -3123,7 +3143,7 @@
       "youtube_id": "fPyoKX9Mi5I",
       "title": "No-Bake Triple Chocolate Cream Cups with Nutella Biscuit Base \u2728",
       "tiktok_views": 7775,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/fPyoKX9Mi5I/hqdefault.jpg",
@@ -3431,7 +3451,7 @@
       "youtube_id": "LxD23ZSh2xI",
       "title": "\ud83d\ude02 \u201cShow Me Daddy Fixing Something\u201d\u2026 This Toddler Was TOO Accurate! \ud83e\udd23",
       "tiktok_views": 5460,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/LxD23ZSh2xI/hqdefault.jpg",
@@ -3921,7 +3941,7 @@
       "youtube_id": "LquLkixKH7c",
       "title": "Dad Came Home From Work\u2026 But My Toddler Somehow Became Him! \ud83e\udd23",
       "tiktok_views": 7709,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/LquLkixKH7c/hqdefault.jpg",
@@ -4207,20 +4227,6 @@
       "thumbnail": "https://i.ytimg.com/vi/lTN_iKsKog0/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-23T06:00:09Z"
-    },
-    {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7672780144100117774",
-      "youtube_id": "_IyOIA-X-pQ",
-      "title": "We watched this five times and still laughed. \ud83e\udd23",
-      "tiktok_views": 8931,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/_IyOIA-X-pQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-23T01:47:06Z"
     },
     {
       "channel_id": "channel_2",
@@ -4547,7 +4553,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 150,
-    "total_views": 712,
+    "total_views": 722,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -4579,7 +4585,7 @@
       {
         "date": "2026-10-23",
         "views": 0,
-        "uploads": 3,
+        "uploads": 2,
         "cumulative_views": 0
       },
       {
@@ -4590,54 +4596,74 @@
       },
       {
         "date": "2026-10-25",
-        "views": 4,
+        "views": 5,
         "uploads": 3,
-        "cumulative_views": 11
+        "cumulative_views": 12
       },
       {
         "date": "2026-10-26",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 16
       },
       {
         "date": "2026-10-27",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 19
+        "cumulative_views": 20
       },
       {
         "date": "2026-10-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 21
       },
       {
         "date": "2026-10-29",
-        "views": 4,
+        "views": 5,
         "uploads": 3,
-        "cumulative_views": 24
+        "cumulative_views": 26
       },
       {
         "date": "2026-10-30",
         "views": 11,
         "uploads": 3,
-        "cumulative_views": 35
+        "cumulative_views": 37
       },
       {
         "date": "2026-10-31",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 38
+        "cumulative_views": 40
       },
       {
         "date": "2026-11-01",
-        "views": 3,
+        "views": 4,
         "uploads": 3,
-        "cumulative_views": 41
+        "cumulative_views": 44
+      },
+      {
+        "date": "2026-11-02",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 44
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7668297547756080398",
+        "youtube_id": "emIoKA1_kXk",
+        "title": "This is why you never Leave snacks Near catty \ud83d\ude02",
+        "tiktok_views": 4234,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/emIoKA1_kXk/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-11-02T02:43:02Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4673,7 +4699,7 @@
         "youtube_id": "uJxdg2N6Uhg",
         "title": "Show Me Daddy After Work\u201d\u2026 This Toddler Nailed It! \ud83e\udd23\u2764\ufe0f",
         "tiktok_views": 4692,
-        "youtube_views": 3,
+        "youtube_views": 4,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/uJxdg2N6Uhg/hqdefault.jpg",
@@ -4785,7 +4811,7 @@
         "youtube_id": "LxD23ZSh2xI",
         "title": "\ud83d\ude02 \u201cShow Me Daddy Fixing Something\u201d\u2026 This Toddler Was TOO Accurate! \ud83e\udd23",
         "tiktok_views": 5460,
-        "youtube_views": 1,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/LxD23ZSh2xI/hqdefault.jpg",
@@ -4953,7 +4979,7 @@
         "youtube_id": "LquLkixKH7c",
         "title": "Dad Came Home From Work\u2026 But My Toddler Somehow Became Him! \ud83e\udd23",
         "tiktok_views": 7709,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/LquLkixKH7c/hqdefault.jpg",
@@ -5043,20 +5069,6 @@
         "thumbnail": "https://i.ytimg.com/vi/oiSUKZ9olMg/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-23T06:54:30Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7672780144100117774",
-        "youtube_id": "_IyOIA-X-pQ",
-        "title": "We watched this five times and still laughed. \ud83e\udd23",
-        "tiktok_views": 8931,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/_IyOIA-X-pQ/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-23T01:47:06Z"
       }
     ],
     "runs": [
@@ -5263,8 +5275,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 407,
-    "total_views": 140299,
+    "total_uploads": 408,
+    "total_views": 140316,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5496,5 +5508,5 @@
       "created_at": "2026-10-26T21:32:56.645034+00:00"
     }
   ],
-  "last_updated": "2026-11-02T02:42:38.876763+00:00"
+  "last_updated": "2026-11-02T07:21:25.225554+00:00"
 }
