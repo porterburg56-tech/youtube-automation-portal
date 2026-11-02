@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 404,
+    "total_uploads": 405,
     "total_views": 140299,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -100,81 +100,89 @@
       "date": "2026-10-23",
       "ch1_views": 0,
       "ch2_views": 29,
-      "ch3_views": 24,
+      "ch3_views": 1,
       "ch4_views": 0,
-      "total_views": 53
+      "total_views": 30
     },
     {
       "date": "2026-10-24",
       "ch1_views": 7,
       "ch2_views": 48,
-      "ch3_views": 39,
+      "ch3_views": 16,
       "ch4_views": 0,
-      "total_views": 94
+      "total_views": 71
     },
     {
       "date": "2026-10-25",
       "ch1_views": 11,
       "ch2_views": 51,
-      "ch3_views": 45,
+      "ch3_views": 22,
       "ch4_views": 0,
-      "total_views": 107
+      "total_views": 84
     },
     {
       "date": "2026-10-26",
       "ch1_views": 15,
       "ch2_views": 67,
-      "ch3_views": 54,
+      "ch3_views": 31,
       "ch4_views": 0,
-      "total_views": 136
+      "total_views": 113
     },
     {
       "date": "2026-10-27",
       "ch1_views": 19,
       "ch2_views": 79,
-      "ch3_views": 66,
+      "ch3_views": 43,
       "ch4_views": 0,
-      "total_views": 164
+      "total_views": 141
     },
     {
       "date": "2026-10-28",
       "ch1_views": 20,
       "ch2_views": 86,
-      "ch3_views": 84,
+      "ch3_views": 61,
       "ch4_views": 0,
-      "total_views": 190
+      "total_views": 167
     },
     {
       "date": "2026-10-29",
       "ch1_views": 24,
       "ch2_views": 97,
-      "ch3_views": 96,
+      "ch3_views": 73,
       "ch4_views": 0,
-      "total_views": 217
+      "total_views": 194
     },
     {
       "date": "2026-10-30",
       "ch1_views": 35,
       "ch2_views": 112,
-      "ch3_views": 113,
+      "ch3_views": 90,
       "ch4_views": 0,
-      "total_views": 260
+      "total_views": 237
     },
     {
       "date": "2026-10-31",
       "ch1_views": 38,
       "ch2_views": 119,
-      "ch3_views": 135,
+      "ch3_views": 112,
       "ch4_views": 0,
-      "total_views": 292
+      "total_views": 269
     },
     {
       "date": "2026-11-01",
       "ch1_views": 41,
-      "ch2_views": 121,
-      "ch3_views": 155,
+      "ch2_views": 120,
+      "ch3_views": 135,
       "ch4_views": 0,
-      "total_views": 317
+      "total_views": 296
+    },
+    {
+      "date": "2026-11-02",
+      "ch1_views": 0,
+      "ch2_views": 0,
+      "ch3_views": 135,
+      "ch4_views": 0,
+      "total_views": 135
     }
   ],
   "channels": {
@@ -1016,9 +1024,9 @@
         },
         {
           "date": "2026-11-01",
-          "views": 2,
+          "views": 1,
           "uploads": 2,
-          "cumulative_views": 121
+          "cumulative_views": 120
         }
       ],
       "videos": [
@@ -1043,7 +1051,7 @@
           "youtube_id": "fPyoKX9Mi5I",
           "title": "No-Bake Triple Chocolate Cream Cups with Nutella Biscuit Base \u2728",
           "tiktok_views": 7775,
-          "youtube_views": 1,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/fPyoKX9Mi5I/hqdefault.jpg",
@@ -1661,7 +1669,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 100,
+      "total_uploads": 101,
       "total_views": 136522,
       "total_likes": 0,
       "upcoming": {
@@ -1693,66 +1701,86 @@
       "view_history": [
         {
           "date": "2026-10-23",
-          "views": 24,
-          "uploads": 3,
-          "cumulative_views": 24
+          "views": 1,
+          "uploads": 2,
+          "cumulative_views": 1
         },
         {
           "date": "2026-10-24",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 39
+          "cumulative_views": 16
         },
         {
           "date": "2026-10-25",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 45
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-26",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 54
+          "cumulative_views": 31
         },
         {
           "date": "2026-10-27",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 66
+          "cumulative_views": 43
         },
         {
           "date": "2026-10-28",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 84
+          "cumulative_views": 61
         },
         {
           "date": "2026-10-29",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 96
+          "cumulative_views": 73
         },
         {
           "date": "2026-10-30",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 113
+          "cumulative_views": 90
         },
         {
           "date": "2026-10-31",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 135
+          "cumulative_views": 112
         },
         {
           "date": "2026-11-01",
-          "views": 20,
+          "views": 23,
           "uploads": 3,
-          "cumulative_views": 155
+          "cumulative_views": 135
+        },
+        {
+          "date": "2026-11-02",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 135
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1I52J2f3JKRCKIoKQlMYh2K_eGA1MppCu",
+          "youtube_id": "Xp9wtj15e-Y",
+          "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/Xp9wtj15e-Y/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-02T01:31:17Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -1760,7 +1788,7 @@
           "youtube_id": "PYhiYAlnAOE",
           "title": "Removing substance from toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/PYhiYAlnAOE/hqdefault.jpg",
@@ -1788,7 +1816,7 @@
           "youtube_id": "q-W7Xa93rm4",
           "title": "Podiatrist cleaning discolored t\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 10,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/q-W7Xa93rm4/hqdefault.jpg",
@@ -2158,20 +2186,6 @@
           "thumbnail": "https://i.ytimg.com/vi/eWnmzCi8MjM/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-23T06:28:48Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1Sqhv7hCbJyYnpavZ78vNseUorR-vfeWJ",
-          "youtube_id": "WRMpYZheRwc",
-          "title": "Professional removing stone depo\u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 23,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/WRMpYZheRwc/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-23T01:09:54Z"
         }
       ],
       "runs": [
@@ -2767,6 +2781,16 @@
       ],
       "runs": [
         {
+          "id": 117,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-11-02",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-02T01:36:57.887135+00:00"
+        },
+        {
           "id": 116,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2955,16 +2979,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-26T21:47:06.403410+00:00"
-        },
-        {
-          "id": 97,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-26",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-26T06:31:04.801181+00:00"
         }
       ]
     }
@@ -2973,11 +2987,25 @@
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1I52J2f3JKRCKIoKQlMYh2K_eGA1MppCu",
+      "youtube_id": "Xp9wtj15e-Y",
+      "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/Xp9wtj15e-Y/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-02T01:31:17Z"
+    },
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1nuKpC8zVcq8FCYZFSuZQMd92f1k8Du-1",
       "youtube_id": "PYhiYAlnAOE",
       "title": "Removing substance from toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/PYhiYAlnAOE/hqdefault.jpg",
@@ -3061,7 +3089,7 @@
       "youtube_id": "q-W7Xa93rm4",
       "title": "Podiatrist cleaning discolored t\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 10,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/q-W7Xa93rm4/hqdefault.jpg",
@@ -3075,7 +3103,7 @@
       "youtube_id": "fPyoKX9Mi5I",
       "title": "No-Bake Triple Chocolate Cream Cups with Nutella Biscuit Base \u2728",
       "tiktok_views": 7775,
-      "youtube_views": 1,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/fPyoKX9Mi5I/hqdefault.jpg",
@@ -4175,20 +4203,6 @@
       "uploaded_at": "2026-10-23T01:47:06Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1Sqhv7hCbJyYnpavZ78vNseUorR-vfeWJ",
-      "youtube_id": "WRMpYZheRwc",
-      "title": "Professional removing stone depo\u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 23,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/WRMpYZheRwc/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-23T01:09:54Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7664751072392629518",
@@ -5243,7 +5257,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 404,
+    "total_uploads": 405,
     "total_views": 140299,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5476,5 +5490,5 @@
       "created_at": "2026-10-26T07:22:53.612958+00:00"
     }
   ],
-  "last_updated": "2026-11-02T01:31:02.867303+00:00"
+  "last_updated": "2026-11-02T01:37:02.880667+00:00"
 }
