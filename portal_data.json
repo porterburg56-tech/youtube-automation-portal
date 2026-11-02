@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 411,
+    "total_uploads": 412,
     "total_views": 140353,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -91,90 +91,90 @@
     {
       "date": "2026-10-23",
       "ch1_views": 0,
-      "ch2_views": 23,
+      "ch2_views": 12,
       "ch3_views": 1,
       "ch4_views": 0,
-      "total_views": 24
+      "total_views": 13
     },
     {
       "date": "2026-10-24",
       "ch1_views": 7,
-      "ch2_views": 42,
+      "ch2_views": 31,
       "ch3_views": 16,
       "ch4_views": 0,
-      "total_views": 65
+      "total_views": 54
     },
     {
       "date": "2026-10-25",
       "ch1_views": 13,
-      "ch2_views": 45,
+      "ch2_views": 34,
       "ch3_views": 22,
       "ch4_views": 0,
-      "total_views": 80
+      "total_views": 69
     },
     {
       "date": "2026-10-26",
       "ch1_views": 17,
-      "ch2_views": 61,
+      "ch2_views": 50,
       "ch3_views": 31,
       "ch4_views": 0,
-      "total_views": 109
+      "total_views": 98
     },
     {
       "date": "2026-10-27",
       "ch1_views": 21,
-      "ch2_views": 73,
+      "ch2_views": 62,
       "ch3_views": 44,
       "ch4_views": 0,
-      "total_views": 138
+      "total_views": 127
     },
     {
       "date": "2026-10-28",
       "ch1_views": 22,
-      "ch2_views": 81,
+      "ch2_views": 70,
       "ch3_views": 62,
       "ch4_views": 0,
-      "total_views": 165
+      "total_views": 154
     },
     {
       "date": "2026-10-29",
       "ch1_views": 27,
-      "ch2_views": 92,
+      "ch2_views": 81,
       "ch3_views": 76,
       "ch4_views": 0,
-      "total_views": 195
+      "total_views": 184
     },
     {
       "date": "2026-10-30",
       "ch1_views": 39,
-      "ch2_views": 107,
+      "ch2_views": 96,
       "ch3_views": 94,
       "ch4_views": 0,
-      "total_views": 240
+      "total_views": 229
     },
     {
       "date": "2026-10-31",
       "ch1_views": 42,
-      "ch2_views": 115,
+      "ch2_views": 104,
       "ch3_views": 118,
       "ch4_views": 0,
-      "total_views": 275
+      "total_views": 264
     },
     {
       "date": "2026-11-01",
       "ch1_views": 52,
-      "ch2_views": 123,
-      "ch3_views": 149,
+      "ch2_views": 112,
+      "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 324
+      "total_views": 312
     },
     {
       "date": "2026-11-02",
       "ch1_views": 52,
-      "ch2_views": 129,
-      "ch3_views": 154,
+      "ch2_views": 118,
+      "ch3_views": 155,
       "ch4_views": 0,
-      "total_views": 335
+      "total_views": 325
     }
   ],
   "channels": {
@@ -193,7 +193,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 151,
+      "total_uploads": 152,
       "total_views": 726,
       "total_likes": 0,
       "upcoming": {
@@ -714,6 +714,16 @@
       ],
       "runs": [
         {
+          "id": 161,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-11-02",
+          "status": "success",
+          "video_id": "nAy_9KAIaxY",
+          "error_message": null,
+          "created_at": "2026-11-02T23:51:07.448149+00:00"
+        },
+        {
           "id": 160,
           "channel_id": "channel_1",
           "slot": 3,
@@ -902,16 +912,6 @@
           "video_id": "eCa-5yqbQ7c",
           "error_message": null,
           "created_at": "2026-10-27T07:14:16.029934+00:00"
-        },
-        {
-          "id": 141,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-10-27",
-          "status": "success",
-          "video_id": "NtZuz8Vb5rI",
-          "error_message": null,
-          "created_at": "2026-10-27T02:46:23.510626+00:00"
         }
       ]
     },
@@ -962,72 +962,86 @@
       "view_history": [
         {
           "date": "2026-10-23",
-          "views": 23,
-          "uploads": 3,
-          "cumulative_views": 23
+          "views": 12,
+          "uploads": 2,
+          "cumulative_views": 12
         },
         {
           "date": "2026-10-24",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 42
+          "cumulative_views": 31
         },
         {
           "date": "2026-10-25",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 45
+          "cumulative_views": 34
         },
         {
           "date": "2026-10-26",
           "views": 16,
           "uploads": 2,
-          "cumulative_views": 61
+          "cumulative_views": 50
         },
         {
           "date": "2026-10-27",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 73
+          "cumulative_views": 62
         },
         {
           "date": "2026-10-28",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 81
+          "cumulative_views": 70
         },
         {
           "date": "2026-10-29",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 92
+          "cumulative_views": 81
         },
         {
           "date": "2026-10-30",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 107
+          "cumulative_views": 96
         },
         {
           "date": "2026-10-31",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 115
+          "cumulative_views": 104
         },
         {
           "date": "2026-11-01",
           "views": 8,
           "uploads": 2,
-          "cumulative_views": 123
+          "cumulative_views": 112
         },
         {
           "date": "2026-11-02",
           "views": 6,
-          "uploads": 2,
-          "cumulative_views": 129
+          "uploads": 3,
+          "cumulative_views": 118
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7658729678919732494",
+          "youtube_id": "2O4yNgj2TdQ",
+          "title": "Creamy Lemon White Chocolate Ladyfinger Cups \ud83c\udf4b",
+          "tiktok_views": 6818,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/2O4yNgj2TdQ/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-02T23:27:24Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1433,20 +1447,6 @@
           "thumbnail": "https://i.ytimg.com/vi/lTN_iKsKog0/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-23T06:00:09Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7664751072392629518",
-          "youtube_id": "MIr9QJEVZV4",
-          "title": "Creamy No-Bake Nutella Cheesecake Dessert You'll Make Again \u2728",
-          "tiktok_views": 13200,
-          "youtube_views": 11,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/MIr9QJEVZV4/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-23T00:40:37Z"
         }
       ],
       "runs": [
@@ -1753,15 +1753,15 @@
         },
         {
           "date": "2026-11-01",
-          "views": 31,
+          "views": 30,
           "uploads": 3,
-          "cumulative_views": 149
+          "cumulative_views": 148
         },
         {
           "date": "2026-11-02",
-          "views": 5,
+          "views": 7,
           "uploads": 2,
-          "cumulative_views": 154
+          "cumulative_views": 155
         }
       ],
       "videos": [
@@ -1786,7 +1786,7 @@
           "youtube_id": "Xp9wtj15e-Y",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Xp9wtj15e-Y/hqdefault.jpg",
@@ -1814,7 +1814,7 @@
           "youtube_id": "MM2uhPp6AIQ",
           "title": "Podiatry procedure extracting na\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 15,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MM2uhPp6AIQ/hqdefault.jpg",
@@ -2983,6 +2983,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7658729678919732494",
+      "youtube_id": "2O4yNgj2TdQ",
+      "title": "Creamy Lemon White Chocolate Ladyfinger Cups \ud83c\udf4b",
+      "tiktok_views": 6818,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/2O4yNgj2TdQ/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-02T23:27:24Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7668687235721579789",
@@ -3059,7 +3073,7 @@
       "youtube_id": "Xp9wtj15e-Y",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Xp9wtj15e-Y/hqdefault.jpg",
@@ -3129,7 +3143,7 @@
       "youtube_id": "MM2uhPp6AIQ",
       "title": "Podiatry procedure extracting na\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 15,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MM2uhPp6AIQ/hqdefault.jpg",
@@ -4229,20 +4243,6 @@
       "uploaded_at": "2026-10-23T06:00:09Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7664751072392629518",
-      "youtube_id": "MIr9QJEVZV4",
-      "title": "Creamy No-Bake Nutella Cheesecake Dessert You'll Make Again \u2728",
-      "tiktok_views": 13200,
-      "youtube_views": 11,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/MIr9QJEVZV4/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-23T00:40:37Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -4538,7 +4538,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 151,
+    "total_uploads": 152,
     "total_views": 726,
     "total_likes": 0,
     "upcoming": {
@@ -5059,6 +5059,16 @@
     ],
     "runs": [
       {
+        "id": 161,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-11-02",
+        "status": "success",
+        "video_id": "nAy_9KAIaxY",
+        "error_message": null,
+        "created_at": "2026-11-02T23:51:07.448149+00:00"
+      },
+      {
         "id": 160,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5247,21 +5257,11 @@
         "video_id": "eCa-5yqbQ7c",
         "error_message": null,
         "created_at": "2026-10-27T07:14:16.029934+00:00"
-      },
-      {
-        "id": 141,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-10-27",
-        "status": "success",
-        "video_id": "NtZuz8Vb5rI",
-        "error_message": null,
-        "created_at": "2026-10-27T02:46:23.510626+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 411,
+    "total_uploads": 412,
     "total_views": 140353,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5293,6 +5293,16 @@
     }
   },
   "runs": [
+    {
+      "id": 161,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-11-02",
+      "status": "success",
+      "video_id": "nAy_9KAIaxY",
+      "error_message": null,
+      "created_at": "2026-11-02T23:51:07.448149+00:00"
+    },
     {
       "id": 160,
       "channel_id": "channel_1",
@@ -5482,17 +5492,7 @@
       "video_id": "eCa-5yqbQ7c",
       "error_message": null,
       "created_at": "2026-10-27T07:14:16.029934+00:00"
-    },
-    {
-      "id": 141,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-10-27",
-      "status": "success",
-      "video_id": "NtZuz8Vb5rI",
-      "error_message": null,
-      "created_at": "2026-10-27T02:46:23.510626+00:00"
     }
   ],
-  "last_updated": "2026-11-02T23:26:48.800659+00:00"
+  "last_updated": "2026-11-02T23:51:11.847236+00:00"
 }
