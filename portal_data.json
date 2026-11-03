@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 417,
-    "total_views": 140392,
+    "total_uploads": 418,
+    "total_views": 140404,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -91,50 +91,50 @@
     {
       "date": "2026-10-24",
       "ch1_views": 7,
-      "ch2_views": 19,
+      "ch2_views": 20,
       "ch3_views": 7,
       "ch4_views": 0,
-      "total_views": 33
+      "total_views": 34
     },
     {
       "date": "2026-10-25",
       "ch1_views": 13,
-      "ch2_views": 22,
+      "ch2_views": 23,
       "ch3_views": 13,
       "ch4_views": 0,
-      "total_views": 48
+      "total_views": 49
     },
     {
       "date": "2026-10-26",
       "ch1_views": 17,
-      "ch2_views": 38,
+      "ch2_views": 39,
       "ch3_views": 22,
       "ch4_views": 0,
-      "total_views": 77
+      "total_views": 78
     },
     {
       "date": "2026-10-27",
       "ch1_views": 21,
-      "ch2_views": 50,
+      "ch2_views": 51,
       "ch3_views": 35,
       "ch4_views": 0,
-      "total_views": 106
+      "total_views": 107
     },
     {
       "date": "2026-10-28",
       "ch1_views": 22,
-      "ch2_views": 58,
+      "ch2_views": 59,
       "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 133
+      "total_views": 134
     },
     {
       "date": "2026-10-29",
       "ch1_views": 27,
-      "ch2_views": 70,
+      "ch2_views": 71,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 164
+      "total_views": 165
     },
     {
       "date": "2026-10-30",
@@ -163,18 +163,18 @@
     {
       "date": "2026-11-02",
       "ch1_views": 55,
-      "ch2_views": 109,
+      "ch2_views": 110,
       "ch3_views": 146,
       "ch4_views": 0,
-      "total_views": 310
+      "total_views": 311
     },
     {
       "date": "2026-11-03",
       "ch1_views": 55,
-      "ch2_views": 109,
+      "ch2_views": 110,
       "ch3_views": 147,
       "ch4_views": 0,
-      "total_views": 311
+      "total_views": 312
     }
   ],
   "channels": {
@@ -193,8 +193,8 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 153,
-      "total_views": 726,
+      "total_uploads": 154,
+      "total_views": 738,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -714,6 +714,16 @@
       ],
       "runs": [
         {
+          "id": 163,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-11-03",
+          "status": "success",
+          "video_id": "WnwYhE4rKu4",
+          "error_message": null,
+          "created_at": "2026-11-03T08:57:49.783055+00:00"
+        },
+        {
           "id": 162,
           "channel_id": "channel_1",
           "slot": 2,
@@ -902,16 +912,6 @@
           "video_id": "0dqhXEmNWSg",
           "error_message": null,
           "created_at": "2026-10-28T02:32:12.047669+00:00"
-        },
-        {
-          "id": 143,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-10-27",
-          "status": "success",
-          "video_id": "cE2Ln6Wt4T0",
-          "error_message": null,
-          "created_at": "2026-10-27T21:12:59.338469+00:00"
         }
       ]
     },
@@ -962,43 +962,43 @@
       "view_history": [
         {
           "date": "2026-10-24",
-          "views": 19,
+          "views": 20,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-25",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 23
         },
         {
           "date": "2026-10-26",
           "views": 16,
           "uploads": 2,
-          "cumulative_views": 38
+          "cumulative_views": 39
         },
         {
           "date": "2026-10-27",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 50
+          "cumulative_views": 51
         },
         {
           "date": "2026-10-28",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 58
+          "cumulative_views": 59
         },
         {
           "date": "2026-10-29",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 70
+          "cumulative_views": 71
         },
         {
           "date": "2026-10-30",
-          "views": 15,
+          "views": 14,
           "uploads": 3,
           "cumulative_views": 85
         },
@@ -1016,15 +1016,15 @@
         },
         {
           "date": "2026-11-02",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 109
+          "cumulative_views": 110
         },
         {
           "date": "2026-11-03",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 109
+          "cumulative_views": 110
         }
       ],
       "videos": [
@@ -1063,7 +1063,7 @@
           "youtube_id": "2O4yNgj2TdQ",
           "title": "Creamy Lemon White Chocolate Ladyfinger Cups \ud83c\udf4b",
           "tiktok_views": 6818,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2O4yNgj2TdQ/hqdefault.jpg",
@@ -1203,7 +1203,7 @@
           "youtube_id": "A2XN4jjFhp0",
           "title": "Hidden Layered Meat Bake That Everyone Will Ask You to Make Again \u2728",
           "tiktok_views": 9174,
-          "youtube_views": 12,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/A2XN4jjFhp0/hqdefault.jpg",
@@ -1427,7 +1427,7 @@
           "youtube_id": "OkF08MTZViQ",
           "title": "Cheesy Broccoli Omelette with Crispy Bacon \u2728",
           "tiktok_views": 11800,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/OkF08MTZViQ/hqdefault.jpg",
@@ -3073,7 +3073,7 @@
       "youtube_id": "2O4yNgj2TdQ",
       "title": "Creamy Lemon White Chocolate Ladyfinger Cups \ud83c\udf4b",
       "tiktok_views": 6818,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2O4yNgj2TdQ/hqdefault.jpg",
@@ -3521,7 +3521,7 @@
       "youtube_id": "A2XN4jjFhp0",
       "title": "Hidden Layered Meat Bake That Everyone Will Ask You to Make Again \u2728",
       "tiktok_views": 9174,
-      "youtube_views": 12,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/A2XN4jjFhp0/hqdefault.jpg",
@@ -4221,7 +4221,7 @@
       "youtube_id": "OkF08MTZViQ",
       "title": "Cheesy Broccoli Omelette with Crispy Bacon \u2728",
       "tiktok_views": 11800,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/OkF08MTZViQ/hqdefault.jpg",
@@ -4538,8 +4538,8 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 153,
-    "total_views": 726,
+    "total_uploads": 154,
+    "total_views": 738,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5059,6 +5059,16 @@
     ],
     "runs": [
       {
+        "id": 163,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-11-03",
+        "status": "success",
+        "video_id": "WnwYhE4rKu4",
+        "error_message": null,
+        "created_at": "2026-11-03T08:57:49.783055+00:00"
+      },
+      {
         "id": 162,
         "channel_id": "channel_1",
         "slot": 2,
@@ -5247,22 +5257,12 @@
         "video_id": "0dqhXEmNWSg",
         "error_message": null,
         "created_at": "2026-10-28T02:32:12.047669+00:00"
-      },
-      {
-        "id": 143,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-10-27",
-        "status": "success",
-        "video_id": "cE2Ln6Wt4T0",
-        "error_message": null,
-        "created_at": "2026-10-27T21:12:59.338469+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 417,
-    "total_views": 140392,
+    "total_uploads": 418,
+    "total_views": 140404,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5293,6 +5293,16 @@
     }
   },
   "runs": [
+    {
+      "id": 163,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-11-03",
+      "status": "success",
+      "video_id": "WnwYhE4rKu4",
+      "error_message": null,
+      "created_at": "2026-11-03T08:57:49.783055+00:00"
+    },
     {
       "id": 162,
       "channel_id": "channel_1",
@@ -5482,17 +5492,7 @@
       "video_id": "0dqhXEmNWSg",
       "error_message": null,
       "created_at": "2026-10-28T02:32:12.047669+00:00"
-    },
-    {
-      "id": 143,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-10-27",
-      "status": "success",
-      "video_id": "cE2Ln6Wt4T0",
-      "error_message": null,
-      "created_at": "2026-10-27T21:12:59.338469+00:00"
     }
   ],
-  "last_updated": "2026-11-03T08:05:15.580377+00:00"
+  "last_updated": "2026-11-03T08:57:53.900084+00:00"
 }
