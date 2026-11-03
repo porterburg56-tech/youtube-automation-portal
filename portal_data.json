@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 414,
+    "total_uploads": 415,
     "total_views": 140353,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -162,19 +162,19 @@
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 55,
+      "ch1_views": 54,
       "ch2_views": 113,
       "ch3_views": 138,
       "ch4_views": 0,
-      "total_views": 306
+      "total_views": 305
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 55,
+      "ch1_views": 54,
       "ch2_views": 119,
       "ch3_views": 145,
       "ch4_views": 0,
-      "total_views": 319
+      "total_views": 318
     },
     {
       "date": "2026-11-03",
@@ -281,15 +281,15 @@
         },
         {
           "date": "2026-11-01",
-          "views": 13,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 55
+          "cumulative_views": 54
         },
         {
           "date": "2026-11-02",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 55
+          "cumulative_views": 54
         }
       ],
       "videos": [
@@ -356,7 +356,7 @@
           "youtube_id": "TzwyYFLz8_U",
           "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
           "tiktok_views": 4477,
-          "youtube_views": 6,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -932,7 +932,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
-      "total_uploads": 138,
+      "total_uploads": 139,
       "total_views": 1507,
       "total_likes": 1,
       "upcoming": {
@@ -1453,6 +1453,16 @@
       ],
       "runs": [
         {
+          "id": 170,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-11-03",
+          "status": "success",
+          "video_id": "eSKbV0JlS68",
+          "error_message": null,
+          "created_at": "2026-11-03T03:36:26.848479+00:00"
+        },
+        {
           "id": 169,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1641,16 +1651,6 @@
           "video_id": "nUlvHOdp9-U",
           "error_message": null,
           "created_at": "2026-10-28T06:54:53.879955+00:00"
-        },
-        {
-          "id": 150,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-10-28",
-          "status": "success",
-          "video_id": "LdGb9bIV6sQ",
-          "error_message": null,
-          "created_at": "2026-10-28T01:21:07.049181+00:00"
         }
       ]
     },
@@ -3173,7 +3173,7 @@
       "youtube_id": "TzwyYFLz8_U",
       "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
       "tiktok_views": 4477,
-      "youtube_views": 6,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -4620,15 +4620,15 @@
       },
       {
         "date": "2026-11-01",
-        "views": 13,
+        "views": 12,
         "uploads": 3,
-        "cumulative_views": 55
+        "cumulative_views": 54
       },
       {
         "date": "2026-11-02",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 55
+        "cumulative_views": 54
       }
     ],
     "videos": [
@@ -4695,7 +4695,7 @@
         "youtube_id": "TzwyYFLz8_U",
         "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
         "tiktok_views": 4477,
-        "youtube_views": 6,
+        "youtube_views": 5,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -5257,7 +5257,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 414,
+    "total_uploads": 415,
     "total_views": 140353,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5490,5 +5490,5 @@
       "created_at": "2026-10-27T07:14:16.029934+00:00"
     }
   ],
-  "last_updated": "2026-11-03T03:32:26.025277+00:00"
+  "last_updated": "2026-11-03T03:36:31.500770+00:00"
 }
