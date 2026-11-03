@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 413,
+    "total_uploads": 414,
     "total_views": 140353,
     "total_likes": 16,
     "total_subscribers": 88,
@@ -100,81 +100,89 @@
       "date": "2026-10-24",
       "ch1_views": 7,
       "ch2_views": 31,
-      "ch3_views": 15,
+      "ch3_views": 7,
       "ch4_views": 0,
-      "total_views": 53
+      "total_views": 45
     },
     {
       "date": "2026-10-25",
       "ch1_views": 13,
       "ch2_views": 34,
-      "ch3_views": 21,
+      "ch3_views": 13,
       "ch4_views": 0,
-      "total_views": 68
+      "total_views": 60
     },
     {
       "date": "2026-10-26",
       "ch1_views": 17,
       "ch2_views": 50,
-      "ch3_views": 30,
+      "ch3_views": 22,
       "ch4_views": 0,
-      "total_views": 97
+      "total_views": 89
     },
     {
       "date": "2026-10-27",
       "ch1_views": 21,
       "ch2_views": 62,
-      "ch3_views": 43,
+      "ch3_views": 35,
       "ch4_views": 0,
-      "total_views": 126
+      "total_views": 118
     },
     {
       "date": "2026-10-28",
       "ch1_views": 22,
       "ch2_views": 70,
-      "ch3_views": 61,
+      "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 153
+      "total_views": 145
     },
     {
       "date": "2026-10-29",
       "ch1_views": 27,
       "ch2_views": 81,
-      "ch3_views": 75,
+      "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 183
+      "total_views": 175
     },
     {
       "date": "2026-10-30",
       "ch1_views": 39,
       "ch2_views": 96,
-      "ch3_views": 93,
+      "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 228
+      "total_views": 220
     },
     {
       "date": "2026-10-31",
       "ch1_views": 42,
       "ch2_views": 104,
-      "ch3_views": 116,
+      "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 262
+      "total_views": 254
     },
     {
       "date": "2026-11-01",
       "ch1_views": 55,
       "ch2_views": 113,
-      "ch3_views": 146,
+      "ch3_views": 138,
       "ch4_views": 0,
-      "total_views": 314
+      "total_views": 306
     },
     {
       "date": "2026-11-02",
       "ch1_views": 55,
       "ch2_views": 119,
-      "ch3_views": 153,
+      "ch3_views": 145,
       "ch4_views": 0,
-      "total_views": 327
+      "total_views": 319
+    },
+    {
+      "date": "2026-11-03",
+      "ch1_views": 0,
+      "ch2_views": 0,
+      "ch3_views": 145,
+      "ch4_views": 0,
+      "total_views": 145
     }
   ],
   "channels": {
@@ -1661,7 +1669,7 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 103,
+      "total_uploads": 104,
       "total_views": 136550,
       "total_likes": 0,
       "upcoming": {
@@ -1693,66 +1701,86 @@
       "view_history": [
         {
           "date": "2026-10-24",
-          "views": 15,
-          "uploads": 3,
-          "cumulative_views": 15
+          "views": 7,
+          "uploads": 2,
+          "cumulative_views": 7
         },
         {
           "date": "2026-10-25",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 21
+          "cumulative_views": 13
         },
         {
           "date": "2026-10-26",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 30
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-27",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 43
+          "cumulative_views": 35
         },
         {
           "date": "2026-10-28",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 61
+          "cumulative_views": 53
         },
         {
           "date": "2026-10-29",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 75
+          "cumulative_views": 67
         },
         {
           "date": "2026-10-30",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 93
+          "cumulative_views": 85
         },
         {
           "date": "2026-10-31",
           "views": 23,
           "uploads": 3,
-          "cumulative_views": 116
+          "cumulative_views": 108
         },
         {
           "date": "2026-11-01",
           "views": 30,
           "uploads": 3,
-          "cumulative_views": 146
+          "cumulative_views": 138
         },
         {
           "date": "2026-11-02",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 153
+          "cumulative_views": 145
+        },
+        {
+          "date": "2026-11-03",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 145
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_3",
+          "channel_name": "Oddly Satisfying Nails",
+          "tiktok_id": "1frqpARdbeL3USDzwRSKnQyVvAq0m4rO_",
+          "youtube_id": "c7SmTq89tes",
+          "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
+          "tiktok_views": 0,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/c7SmTq89tes/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-03T03:29:53Z"
+        },
         {
           "channel_id": "channel_3",
           "channel_name": "Oddly Satisfying Nails",
@@ -2158,20 +2186,6 @@
           "thumbnail": "https://i.ytimg.com/vi/m4_o8lVwmZo/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-24T05:48:38Z"
-        },
-        {
-          "channel_id": "channel_3",
-          "channel_name": "Oddly Satisfying Nails",
-          "tiktok_id": "1JEp9MxPM9_pPMEYM5f6llrB2ZgbOK9Wj",
-          "youtube_id": "mRc0BLTXHb4",
-          "title": "Professional scraping crystallin\u2026 \ud83d\udc85",
-          "tiktok_views": 0,
-          "youtube_views": 8,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/mRc0BLTXHb4/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-24T00:44:08Z"
         }
       ],
       "runs": [
@@ -2767,6 +2781,16 @@
       ],
       "runs": [
         {
+          "id": 120,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-11-03",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-03T03:32:21.850518+00:00"
+        },
+        {
           "id": 119,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2955,21 +2979,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-27T21:27:44.435574+00:00"
-        },
-        {
-          "id": 100,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-27",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-27T06:28:43.185544+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_3",
+      "channel_name": "Oddly Satisfying Nails",
+      "tiktok_id": "1frqpARdbeL3USDzwRSKnQyVvAq0m4rO_",
+      "youtube_id": "c7SmTq89tes",
+      "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
+      "tiktok_views": 0,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/c7SmTq89tes/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-03T03:29:53Z"
+    },
     {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
@@ -4175,20 +4203,6 @@
       "uploaded_at": "2026-10-24T01:51:24Z"
     },
     {
-      "channel_id": "channel_3",
-      "channel_name": "Oddly Satisfying Nails",
-      "tiktok_id": "1JEp9MxPM9_pPMEYM5f6llrB2ZgbOK9Wj",
-      "youtube_id": "mRc0BLTXHb4",
-      "title": "Professional scraping crystallin\u2026 \ud83d\udc85",
-      "tiktok_views": 0,
-      "youtube_views": 8,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/mRc0BLTXHb4/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-24T00:44:08Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7657264418971061517",
@@ -5243,7 +5257,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 413,
+    "total_uploads": 414,
     "total_views": 140353,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5476,5 +5490,5 @@
       "created_at": "2026-10-27T07:14:16.029934+00:00"
     }
   ],
-  "last_updated": "2026-11-03T03:29:36.583457+00:00"
+  "last_updated": "2026-11-03T03:32:26.025277+00:00"
 }
