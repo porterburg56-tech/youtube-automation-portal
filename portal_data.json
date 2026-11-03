@@ -156,25 +156,25 @@
       "date": "2026-11-01",
       "ch1_views": 48,
       "ch2_views": 95,
-      "ch3_views": 143,
+      "ch3_views": 141,
       "ch4_views": 0,
-      "total_views": 286
+      "total_views": 284
     },
     {
       "date": "2026-11-02",
       "ch1_views": 48,
       "ch2_views": 107,
-      "ch3_views": 152,
+      "ch3_views": 150,
       "ch4_views": 0,
-      "total_views": 307
+      "total_views": 305
     },
     {
       "date": "2026-11-03",
       "ch1_views": 48,
       "ch2_views": 111,
-      "ch3_views": 154,
+      "ch3_views": 152,
       "ch4_views": 0,
-      "total_views": 313
+      "total_views": 311
     }
   ],
   "channels": {
@@ -223,12 +223,6 @@
         }
       },
       "view_history": [
-        {
-          "date": "2026-10-24",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 0
-        },
         {
           "date": "2026-10-25",
           "views": 6,
@@ -286,11 +280,25 @@
         {
           "date": "2026-11-03",
           "views": 0,
-          "uploads": 2,
+          "uploads": 3,
           "cumulative_views": 48
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7703956934709300493",
+          "youtube_id": "VETAEB71t8Q",
+          "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
+          "tiktok_views": 15800,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-03T22:19:42Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -696,20 +704,6 @@
           "thumbnail": "https://i.ytimg.com/vi/U7GCzsFTwM8/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-25T01:27:48Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7671641120501271821",
-          "youtube_id": "zrvSpO4QlJY",
-          "title": "This Is Literally Dad Every Evening \ud83d\ude02",
-          "tiktok_views": 6552,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/zrvSpO4QlJY/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-24T19:23:58Z"
         }
       ],
       "runs": [
@@ -1747,21 +1741,21 @@
         },
         {
           "date": "2026-11-01",
-          "views": 35,
+          "views": 33,
           "uploads": 3,
-          "cumulative_views": 143
+          "cumulative_views": 141
         },
         {
           "date": "2026-11-02",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 152
+          "cumulative_views": 150
         },
         {
           "date": "2026-11-03",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 154
+          "cumulative_views": 152
         }
       ],
       "videos": [
@@ -1842,7 +1836,7 @@
           "youtube_id": "MM2uhPp6AIQ",
           "title": "Podiatry procedure extracting na\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 17,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MM2uhPp6AIQ/hqdefault.jpg",
@@ -2779,6 +2773,16 @@
       ],
       "runs": [
         {
+          "id": 122,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-11-03",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-03T22:28:09.406400+00:00"
+        },
+        {
           "id": 121,
           "channel_id": "channel_4",
           "slot": 3,
@@ -2967,21 +2971,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-28T06:57:37.633799+00:00"
-        },
-        {
-          "id": 102,
-          "channel_id": "channel_4",
-          "slot": 2,
-          "run_date": "2026-10-28",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-28T01:29:45.635017+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7703956934709300493",
+      "youtube_id": "VETAEB71t8Q",
+      "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
+      "tiktok_views": 15800,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-03T22:19:42Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -3255,7 +3263,7 @@
       "youtube_id": "MM2uhPp6AIQ",
       "title": "Podiatry procedure extracting na\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 17,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MM2uhPp6AIQ/hqdefault.jpg",
@@ -4187,20 +4195,6 @@
       "uploaded_at": "2026-10-24T19:29:22Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7671641120501271821",
-      "youtube_id": "zrvSpO4QlJY",
-      "title": "This Is Literally Dad Every Evening \ud83d\ude02",
-      "tiktok_views": 6552,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/zrvSpO4QlJY/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-24T19:23:58Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7700290375663095054",
@@ -4569,12 +4563,6 @@
     },
     "view_history": [
       {
-        "date": "2026-10-24",
-        "views": 0,
-        "uploads": 1,
-        "cumulative_views": 0
-      },
-      {
         "date": "2026-10-25",
         "views": 6,
         "uploads": 3,
@@ -4631,11 +4619,25 @@
       {
         "date": "2026-11-03",
         "views": 0,
-        "uploads": 2,
+        "uploads": 3,
         "cumulative_views": 48
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7703956934709300493",
+        "youtube_id": "VETAEB71t8Q",
+        "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
+        "tiktok_views": 15800,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-11-03T22:19:42Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5041,20 +5043,6 @@
         "thumbnail": "https://i.ytimg.com/vi/U7GCzsFTwM8/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-25T01:27:48Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7671641120501271821",
-        "youtube_id": "zrvSpO4QlJY",
-        "title": "This Is Literally Dad Every Evening \ud83d\ude02",
-        "tiktok_views": 6552,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/zrvSpO4QlJY/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-24T19:23:58Z"
       }
     ],
     "runs": [
@@ -5494,5 +5482,5 @@
       "created_at": "2026-10-28T07:52:43.339799+00:00"
     }
   ],
-  "last_updated": "2026-11-03T22:19:24.831903+00:00"
+  "last_updated": "2026-11-03T22:28:14.969691+00:00"
 }
