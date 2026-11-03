@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 416,
-    "total_views": 140353,
+    "total_uploads": 417,
+    "total_views": 140392,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -139,50 +139,50 @@
     {
       "date": "2026-10-29",
       "ch1_views": 27,
-      "ch2_views": 71,
+      "ch2_views": 72,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 165
+      "total_views": 166
     },
     {
       "date": "2026-10-30",
       "ch1_views": 39,
-      "ch2_views": 86,
+      "ch2_views": 87,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 210
+      "total_views": 211
     },
     {
       "date": "2026-10-31",
       "ch1_views": 42,
-      "ch2_views": 94,
+      "ch2_views": 95,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 244
+      "total_views": 245
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 54,
-      "ch2_views": 103,
+      "ch1_views": 55,
+      "ch2_views": 104,
       "ch3_views": 138,
       "ch4_views": 0,
-      "total_views": 295
+      "total_views": 297
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 54,
-      "ch2_views": 109,
-      "ch3_views": 145,
+      "ch1_views": 55,
+      "ch2_views": 111,
+      "ch3_views": 147,
       "ch4_views": 0,
-      "total_views": 308
+      "total_views": 313
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 0,
-      "ch2_views": 109,
-      "ch3_views": 145,
+      "ch1_views": 55,
+      "ch2_views": 111,
+      "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 254
+      "total_views": 314
     }
   ],
   "channels": {
@@ -234,7 +234,7 @@
         {
           "date": "2026-10-24",
           "views": 7,
-          "uploads": 3,
+          "uploads": 2,
           "cumulative_views": 7
         },
         {
@@ -281,18 +281,38 @@
         },
         {
           "date": "2026-11-01",
-          "views": 12,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 54
+          "cumulative_views": 55
         },
         {
           "date": "2026-11-02",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 54
+          "cumulative_views": 55
+        },
+        {
+          "date": "2026-11-03",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 55
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7664226470037867789",
+          "youtube_id": "4rgYrfFpkEo",
+          "title": "Show Me Daddy After Work\u2026 Every Parent Will Relate! \ud83d\ude02",
+          "tiktok_views": 3908,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/4rgYrfFpkEo/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-03T04:00:30Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -356,7 +376,7 @@
           "youtube_id": "TzwyYFLz8_U",
           "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
           "tiktok_views": 4477,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -698,20 +718,6 @@
           "thumbnail": "https://i.ytimg.com/vi/SNZSwLPW3yE/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-24T06:50:42Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7669445566920756494",
-          "youtube_id": "WE6efn5Ri9E",
-          "title": "This Is the Most Relatable Dad Video Ever \ud83d\ude2d",
-          "tiktok_views": 8508,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/WE6efn5Ri9E/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-24T01:51:24Z"
         }
       ],
       "runs": [
@@ -932,8 +938,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
-      "total_uploads": 139,
-      "total_views": 1507,
+      "total_uploads": 140,
+      "total_views": 1532,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -1000,39 +1006,39 @@
         },
         {
           "date": "2026-10-29",
-          "views": 11,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 71
+          "cumulative_views": 72
         },
         {
           "date": "2026-10-30",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 86
+          "cumulative_views": 87
         },
         {
           "date": "2026-10-31",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 94
+          "cumulative_views": 95
         },
         {
           "date": "2026-11-01",
           "views": 9,
           "uploads": 2,
-          "cumulative_views": 103
+          "cumulative_views": 104
         },
         {
           "date": "2026-11-02",
-          "views": 6,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 109
+          "cumulative_views": 111
         },
         {
           "date": "2026-11-03",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 109
+          "cumulative_views": 111
         }
       ],
       "videos": [
@@ -1071,7 +1077,7 @@
           "youtube_id": "lHTOsuX0lRc",
           "title": "The Fluffiest Chocolate Banana Cake Secret I Ever Learned \ud83c\udf4c\ud83c\udf6b\u2728",
           "tiktok_views": 7517,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lHTOsuX0lRc/hqdefault.jpg",
@@ -1225,7 +1231,7 @@
           "youtube_id": "dPBtaS6-wAY",
           "title": "Taste & Tales \u2728",
           "tiktok_views": 9450,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dPBtaS6-wAY/hqdefault.jpg",
@@ -1459,6 +1465,16 @@
       ],
       "runs": [
         {
+          "id": 171,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-03",
+          "status": "success",
+          "video_id": "jYasY4u8HK0",
+          "error_message": null,
+          "created_at": "2026-11-03T07:51:30.897952+00:00"
+        },
+        {
           "id": 170,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1647,16 +1663,6 @@
           "video_id": "uYpvxi_VgBw",
           "error_message": null,
           "created_at": "2026-10-28T20:59:19.382295+00:00"
-        },
-        {
-          "id": 151,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-28",
-          "status": "success",
-          "video_id": "nUlvHOdp9-U",
-          "error_message": null,
-          "created_at": "2026-10-28T06:54:53.879955+00:00"
         }
       ]
     },
@@ -1676,7 +1682,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 104,
-      "total_views": 136550,
+      "total_views": 136564,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1761,15 +1767,15 @@
         },
         {
           "date": "2026-11-02",
-          "views": 7,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 145
+          "cumulative_views": 147
         },
         {
           "date": "2026-11-03",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 145
+          "cumulative_views": 148
         }
       ],
       "videos": [
@@ -1780,7 +1786,7 @@
           "youtube_id": "c7SmTq89tes",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/c7SmTq89tes/hqdefault.jpg",
@@ -1794,7 +1800,7 @@
           "youtube_id": "G4s5E6jDS3Y",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/G4s5E6jDS3Y/hqdefault.jpg",
@@ -1808,7 +1814,7 @@
           "youtube_id": "lmU5-T_OTrA",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
@@ -2991,6 +2997,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7664226470037867789",
+      "youtube_id": "4rgYrfFpkEo",
+      "title": "Show Me Daddy After Work\u2026 Every Parent Will Relate! \ud83d\ude02",
+      "tiktok_views": 3908,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/4rgYrfFpkEo/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-03T04:00:30Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7658019167680908558",
@@ -3011,7 +3031,7 @@
       "youtube_id": "c7SmTq89tes",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/c7SmTq89tes/hqdefault.jpg",
@@ -3025,7 +3045,7 @@
       "youtube_id": "G4s5E6jDS3Y",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/G4s5E6jDS3Y/hqdefault.jpg",
@@ -3081,7 +3101,7 @@
       "youtube_id": "lmU5-T_OTrA",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
@@ -3095,7 +3115,7 @@
       "youtube_id": "lHTOsuX0lRc",
       "title": "The Fluffiest Chocolate Banana Cake Secret I Ever Learned \ud83c\udf4c\ud83c\udf6b\u2728",
       "tiktok_views": 7517,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lHTOsuX0lRc/hqdefault.jpg",
@@ -3193,7 +3213,7 @@
       "youtube_id": "TzwyYFLz8_U",
       "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
       "tiktok_views": 4477,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -3585,7 +3605,7 @@
       "youtube_id": "dPBtaS6-wAY",
       "title": "Taste & Tales \u2728",
       "tiktok_views": 9450,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dPBtaS6-wAY/hqdefault.jpg",
@@ -4209,20 +4229,6 @@
       "uploaded_at": "2026-10-24T05:40:56Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7669445566920756494",
-      "youtube_id": "WE6efn5Ri9E",
-      "title": "This Is the Most Relatable Dad Video Ever \ud83d\ude2d",
-      "tiktok_views": 8508,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/WE6efn5Ri9E/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-24T01:51:24Z"
-    },
-    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7657264418971061517",
@@ -4579,7 +4585,7 @@
       {
         "date": "2026-10-24",
         "views": 7,
-        "uploads": 3,
+        "uploads": 2,
         "cumulative_views": 7
       },
       {
@@ -4626,18 +4632,38 @@
       },
       {
         "date": "2026-11-01",
-        "views": 12,
+        "views": 13,
         "uploads": 3,
-        "cumulative_views": 54
+        "cumulative_views": 55
       },
       {
         "date": "2026-11-02",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 54
+        "cumulative_views": 55
+      },
+      {
+        "date": "2026-11-03",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 55
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7664226470037867789",
+        "youtube_id": "4rgYrfFpkEo",
+        "title": "Show Me Daddy After Work\u2026 Every Parent Will Relate! \ud83d\ude02",
+        "tiktok_views": 3908,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/4rgYrfFpkEo/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-11-03T04:00:30Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4701,7 +4727,7 @@
         "youtube_id": "TzwyYFLz8_U",
         "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
         "tiktok_views": 4477,
-        "youtube_views": 5,
+        "youtube_views": 6,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -5043,20 +5069,6 @@
         "thumbnail": "https://i.ytimg.com/vi/SNZSwLPW3yE/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-24T06:50:42Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7669445566920756494",
-        "youtube_id": "WE6efn5Ri9E",
-        "title": "This Is the Most Relatable Dad Video Ever \ud83d\ude2d",
-        "tiktok_views": 8508,
-        "youtube_views": 0,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/WE6efn5Ri9E/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-24T01:51:24Z"
       }
     ],
     "runs": [
@@ -5263,8 +5275,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 416,
-    "total_views": 140353,
+    "total_uploads": 417,
+    "total_views": 140392,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5496,5 +5508,5 @@
       "created_at": "2026-10-27T21:12:59.338469+00:00"
     }
   ],
-  "last_updated": "2026-11-03T04:00:10.213939+00:00"
+  "last_updated": "2026-11-03T07:51:35.870526+00:00"
 }
