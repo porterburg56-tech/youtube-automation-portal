@@ -156,25 +156,25 @@
       "date": "2026-10-31",
       "ch1_views": 42,
       "ch2_views": 104,
-      "ch3_views": 117,
+      "ch3_views": 116,
       "ch4_views": 0,
-      "total_views": 263
+      "total_views": 262
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 52,
-      "ch2_views": 112,
-      "ch3_views": 148,
+      "ch1_views": 55,
+      "ch2_views": 113,
+      "ch3_views": 146,
       "ch4_views": 0,
-      "total_views": 312
+      "total_views": 314
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 52,
-      "ch2_views": 118,
-      "ch3_views": 155,
+      "ch1_views": 55,
+      "ch2_views": 119,
+      "ch3_views": 153,
       "ch4_views": 0,
-      "total_views": 325
+      "total_views": 327
     }
   ],
   "channels": {
@@ -273,15 +273,15 @@
         },
         {
           "date": "2026-11-01",
-          "views": 10,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 52
+          "cumulative_views": 55
         },
         {
           "date": "2026-11-02",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 52
+          "cumulative_views": 55
         }
       ],
       "videos": [
@@ -348,7 +348,7 @@
           "youtube_id": "TzwyYFLz8_U",
           "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
           "tiktok_views": 4477,
-          "youtube_views": 3,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -1010,15 +1010,15 @@
         },
         {
           "date": "2026-11-01",
-          "views": 8,
+          "views": 9,
           "uploads": 2,
-          "cumulative_views": 112
+          "cumulative_views": 113
         },
         {
           "date": "2026-11-02",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 118
+          "cumulative_views": 119
         }
       ],
       "videos": [
@@ -1071,7 +1071,7 @@
           "youtube_id": "Ymi32MjwNfk",
           "title": "Creamy Garlic Butter Salmon Pasta \u2728",
           "tiktok_views": 24500,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Ymi32MjwNfk/hqdefault.jpg",
@@ -1735,21 +1735,21 @@
         },
         {
           "date": "2026-10-31",
-          "views": 24,
+          "views": 23,
           "uploads": 3,
-          "cumulative_views": 117
+          "cumulative_views": 116
         },
         {
           "date": "2026-11-01",
-          "views": 31,
+          "views": 30,
           "uploads": 3,
-          "cumulative_views": 148
+          "cumulative_views": 146
         },
         {
           "date": "2026-11-02",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 155
+          "cumulative_views": 153
         }
       ],
       "videos": [
@@ -1830,7 +1830,7 @@
           "youtube_id": "q-W7Xa93rm4",
           "title": "Podiatrist cleaning discolored t\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 14,
+          "youtube_views": 13,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/q-W7Xa93rm4/hqdefault.jpg",
@@ -1858,7 +1858,7 @@
           "youtube_id": "Ok5wftBEbIs",
           "title": "Metal pick removing debris from \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 11,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Ok5wftBEbIs/hqdefault.jpg",
@@ -2176,6 +2176,16 @@
       ],
       "runs": [
         {
+          "id": 127,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-11-03",
+          "status": "success",
+          "video_id": "c7SmTq89tes",
+          "error_message": null,
+          "created_at": "2026-11-03T03:29:31.191487+00:00"
+        },
+        {
           "id": 126,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2364,16 +2374,6 @@
           "video_id": "GxotkhHSMRU",
           "error_message": null,
           "created_at": "2026-10-27T21:17:30.804823+00:00"
-        },
-        {
-          "id": 107,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-27",
-          "status": "success",
-          "video_id": "Gi5hirr4P2Q",
-          "error_message": null,
-          "created_at": "2026-10-27T06:15:00.283927+00:00"
         }
       ]
     },
@@ -3131,7 +3131,7 @@
       "youtube_id": "Ymi32MjwNfk",
       "title": "Creamy Garlic Butter Salmon Pasta \u2728",
       "tiktok_views": 24500,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Ymi32MjwNfk/hqdefault.jpg",
@@ -3145,7 +3145,7 @@
       "youtube_id": "TzwyYFLz8_U",
       "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
       "tiktok_views": 4477,
-      "youtube_views": 3,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -3187,7 +3187,7 @@
       "youtube_id": "q-W7Xa93rm4",
       "title": "Podiatrist cleaning discolored t\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 14,
+      "youtube_views": 13,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/q-W7Xa93rm4/hqdefault.jpg",
@@ -3271,7 +3271,7 @@
       "youtube_id": "Ok5wftBEbIs",
       "title": "Metal pick removing debris from \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 11,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Ok5wftBEbIs/hqdefault.jpg",
@@ -4606,15 +4606,15 @@
       },
       {
         "date": "2026-11-01",
-        "views": 10,
+        "views": 13,
         "uploads": 3,
-        "cumulative_views": 52
+        "cumulative_views": 55
       },
       {
         "date": "2026-11-02",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 52
+        "cumulative_views": 55
       }
     ],
     "videos": [
@@ -4681,7 +4681,7 @@
         "youtube_id": "TzwyYFLz8_U",
         "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
         "tiktok_views": 4477,
-        "youtube_views": 3,
+        "youtube_views": 6,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -5476,5 +5476,5 @@
       "created_at": "2026-10-27T07:14:16.029934+00:00"
     }
   ],
-  "last_updated": "2026-11-03T00:00:22.381427+00:00"
+  "last_updated": "2026-11-03T03:29:36.583457+00:00"
 }
