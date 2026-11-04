@@ -91,90 +91,98 @@
     {
       "date": "2026-10-24",
       "ch1_views": 0,
-      "ch2_views": 8,
+      "ch2_views": 1,
       "ch3_views": 7,
       "ch4_views": 0,
-      "total_views": 15
+      "total_views": 8
     },
     {
       "date": "2026-10-25",
       "ch1_views": 6,
-      "ch2_views": 11,
+      "ch2_views": 4,
       "ch3_views": 13,
       "ch4_views": 0,
-      "total_views": 30
+      "total_views": 23
     },
     {
       "date": "2026-10-26",
       "ch1_views": 10,
-      "ch2_views": 27,
+      "ch2_views": 20,
       "ch3_views": 22,
       "ch4_views": 0,
-      "total_views": 59
+      "total_views": 52
     },
     {
       "date": "2026-10-27",
       "ch1_views": 14,
-      "ch2_views": 39,
+      "ch2_views": 32,
       "ch3_views": 35,
       "ch4_views": 0,
-      "total_views": 88
+      "total_views": 81
     },
     {
       "date": "2026-10-28",
       "ch1_views": 15,
-      "ch2_views": 47,
+      "ch2_views": 40,
       "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 115
+      "total_views": 108
     },
     {
       "date": "2026-10-29",
       "ch1_views": 20,
-      "ch2_views": 61,
+      "ch2_views": 54,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 148
+      "total_views": 141
     },
     {
       "date": "2026-10-30",
       "ch1_views": 34,
-      "ch2_views": 75,
+      "ch2_views": 68,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 194
+      "total_views": 187
     },
     {
       "date": "2026-10-31",
       "ch1_views": 37,
-      "ch2_views": 83,
+      "ch2_views": 76,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 228
+      "total_views": 221
     },
     {
       "date": "2026-11-01",
       "ch1_views": 50,
-      "ch2_views": 95,
+      "ch2_views": 88,
       "ch3_views": 147,
       "ch4_views": 0,
-      "total_views": 292
+      "total_views": 285
     },
     {
       "date": "2026-11-02",
       "ch1_views": 50,
-      "ch2_views": 108,
+      "ch2_views": 101,
       "ch3_views": 156,
       "ch4_views": 0,
-      "total_views": 314
+      "total_views": 307
     },
     {
       "date": "2026-11-03",
       "ch1_views": 50,
-      "ch2_views": 113,
+      "ch2_views": 106,
       "ch3_views": 158,
       "ch4_views": 0,
-      "total_views": 321
+      "total_views": 314
+    },
+    {
+      "date": "2026-11-04",
+      "ch1_views": 0,
+      "ch2_views": 106,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 106
     }
   ],
   "channels": {
@@ -956,72 +964,92 @@
       "view_history": [
         {
           "date": "2026-10-24",
-          "views": 8,
-          "uploads": 2,
-          "cumulative_views": 8
+          "views": 1,
+          "uploads": 1,
+          "cumulative_views": 1
         },
         {
           "date": "2026-10-25",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 11
+          "cumulative_views": 4
         },
         {
           "date": "2026-10-26",
           "views": 16,
           "uploads": 2,
-          "cumulative_views": 27
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-27",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 39
+          "cumulative_views": 32
         },
         {
           "date": "2026-10-28",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 47
+          "cumulative_views": 40
         },
         {
           "date": "2026-10-29",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 61
+          "cumulative_views": 54
         },
         {
           "date": "2026-10-30",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 75
+          "cumulative_views": 68
         },
         {
           "date": "2026-10-31",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 83
+          "cumulative_views": 76
         },
         {
           "date": "2026-11-01",
           "views": 12,
           "uploads": 2,
-          "cumulative_views": 95
+          "cumulative_views": 88
         },
         {
           "date": "2026-11-02",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 108
+          "cumulative_views": 101
         },
         {
           "date": "2026-11-03",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 113
+          "cumulative_views": 106
+        },
+        {
+          "date": "2026-11-04",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 106
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7654677540560178445",
+          "youtube_id": "FDH3p2j__Jk",
+          "title": "The French Dessert Secret That Creates Perfect Chocolate Layers \u2728",
+          "tiktok_views": 6653,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/FDH3p2j__Jk/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-04T02:08:25Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1427,20 +1455,6 @@
           "thumbnail": "https://i.ytimg.com/vi/YTy5-OKOFiA/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-24T18:42:33Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7653542996964609293",
-          "youtube_id": "OkF08MTZViQ",
-          "title": "Cheesy Broccoli Omelette with Crispy Bacon \u2728",
-          "tiktok_views": 11800,
-          "youtube_views": 7,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/OkF08MTZViQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-24T05:40:56Z"
         }
       ],
       "runs": [
@@ -2182,6 +2196,16 @@
       ],
       "runs": [
         {
+          "id": 130,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-11-04",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-04T02:21:08.127536+00:00"
+        },
+        {
           "id": 129,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2370,16 +2394,6 @@
           "video_id": "anwygeueHgo",
           "error_message": null,
           "created_at": "2026-10-28T21:40:08.611528+00:00"
-        },
-        {
-          "id": 110,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-28",
-          "status": "success",
-          "video_id": "ySTHlZPy5R0",
-          "error_message": null,
-          "created_at": "2026-10-28T06:50:48.791429+00:00"
         }
       ]
     },
@@ -2976,6 +2990,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7654677540560178445",
+      "youtube_id": "FDH3p2j__Jk",
+      "title": "The French Dessert Secret That Creates Perfect Chocolate Layers \u2728",
+      "tiktok_views": 6653,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/FDH3p2j__Jk/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-04T02:08:25Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -4223,20 +4251,6 @@
       "uploaded_at": "2026-10-24T05:48:38Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7653542996964609293",
-      "youtube_id": "OkF08MTZViQ",
-      "title": "Cheesy Broccoli Omelette with Crispy Bacon \u2728",
-      "tiktok_views": 11800,
-      "youtube_views": 7,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/OkF08MTZViQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-24T05:40:56Z"
-    },
-    {
       "channel_id": "channel_4",
       "channel_name": "Remote Jobs WFH",
       "tiktok_id": "1duh9JufJljUcydL52yCnBshK2E4dqzkF",
@@ -5482,5 +5496,5 @@
       "created_at": "2026-10-28T07:52:43.339799+00:00"
     }
   ],
-  "last_updated": "2026-11-04T02:08:05.434875+00:00"
+  "last_updated": "2026-11-04T02:21:13.392043+00:00"
 }
