@@ -99,90 +99,90 @@
     {
       "date": "2026-10-25",
       "ch1_views": 5,
-      "ch2_views": 3,
+      "ch2_views": 2,
       "ch3_views": 13,
       "ch4_views": 0,
-      "total_views": 21
+      "total_views": 20
     },
     {
       "date": "2026-10-26",
       "ch1_views": 9,
-      "ch2_views": 19,
+      "ch2_views": 18,
       "ch3_views": 22,
       "ch4_views": 0,
-      "total_views": 50
+      "total_views": 49
     },
     {
       "date": "2026-10-27",
       "ch1_views": 13,
-      "ch2_views": 31,
+      "ch2_views": 30,
       "ch3_views": 35,
       "ch4_views": 0,
-      "total_views": 79
+      "total_views": 78
     },
     {
       "date": "2026-10-28",
       "ch1_views": 14,
-      "ch2_views": 39,
+      "ch2_views": 38,
       "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 106
+      "total_views": 105
     },
     {
       "date": "2026-10-29",
       "ch1_views": 19,
-      "ch2_views": 57,
+      "ch2_views": 56,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 143
+      "total_views": 142
     },
     {
       "date": "2026-10-30",
       "ch1_views": 34,
-      "ch2_views": 71,
+      "ch2_views": 70,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 190
+      "total_views": 189
     },
     {
       "date": "2026-10-31",
       "ch1_views": 39,
-      "ch2_views": 79,
+      "ch2_views": 78,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 226
+      "total_views": 225
     },
     {
       "date": "2026-11-01",
       "ch1_views": 57,
-      "ch2_views": 92,
+      "ch2_views": 91,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 297
+      "total_views": 296
     },
     {
       "date": "2026-11-02",
       "ch1_views": 57,
-      "ch2_views": 109,
+      "ch2_views": 108,
       "ch3_views": 163,
       "ch4_views": 0,
-      "total_views": 329
+      "total_views": 328
     },
     {
       "date": "2026-11-03",
       "ch1_views": 62,
-      "ch2_views": 118,
+      "ch2_views": 117,
       "ch3_views": 167,
       "ch4_views": 0,
-      "total_views": 347
+      "total_views": 346
     },
     {
       "date": "2026-11-04",
       "ch1_views": 63,
-      "ch2_views": 120,
+      "ch2_views": 119,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 183
+      "total_views": 182
     }
   ],
   "channels": {
@@ -722,6 +722,16 @@
       ],
       "runs": [
         {
+          "id": 167,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-11-04",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-04T22:31:05.254696+00:00"
+        },
+        {
           "id": 166,
           "channel_id": "channel_1",
           "slot": 3,
@@ -910,16 +920,6 @@
           "video_id": "LxD23ZSh2xI",
           "error_message": null,
           "created_at": "2026-10-29T07:57:22.911018+00:00"
-        },
-        {
-          "id": 147,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-10-29",
-          "status": "success",
-          "video_id": "8DjbBDadtBk",
-          "error_message": null,
-          "created_at": "2026-10-29T02:40:41.569591+00:00"
         }
       ]
     },
@@ -970,72 +970,86 @@
       "view_history": [
         {
           "date": "2026-10-25",
-          "views": 3,
-          "uploads": 3,
-          "cumulative_views": 3
+          "views": 2,
+          "uploads": 2,
+          "cumulative_views": 2
         },
         {
           "date": "2026-10-26",
           "views": 16,
           "uploads": 2,
-          "cumulative_views": 19
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-27",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 31
+          "cumulative_views": 30
         },
         {
           "date": "2026-10-28",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 39
+          "cumulative_views": 38
         },
         {
           "date": "2026-10-29",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 57
+          "cumulative_views": 56
         },
         {
           "date": "2026-10-30",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 71
+          "cumulative_views": 70
         },
         {
           "date": "2026-10-31",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 79
+          "cumulative_views": 78
         },
         {
           "date": "2026-11-01",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 92
+          "cumulative_views": 91
         },
         {
           "date": "2026-11-02",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 109
+          "cumulative_views": 108
         },
         {
           "date": "2026-11-03",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 118
+          "cumulative_views": 117
         },
         {
           "date": "2026-11-04",
           "views": 2,
-          "uploads": 2,
-          "cumulative_views": 120
+          "uploads": 3,
+          "cumulative_views": 119
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7704375072634522893",
+          "youtube_id": "khN8cah-hYs",
+          "title": "Crispy Potato-Crusted Chicken Schnitzel \u2728",
+          "tiktok_views": 4430,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/khN8cah-hYs/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-04T21:59:35Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1441,20 +1455,6 @@
           "thumbnail": "https://i.ytimg.com/vi/O9_m30NbN6M/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-25T05:57:53Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7648350386532748557",
-          "youtube_id": "QavAtLr2WsA",
-          "title": "No-Bake Chocolate Banana Delight \ud83c\udf4c\ud83c\udf6b",
-          "tiktok_views": 11700,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/QavAtLr2WsA/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-25T00:15:04Z"
         }
       ],
       "runs": [
@@ -2991,6 +2991,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7704375072634522893",
+      "youtube_id": "khN8cah-hYs",
+      "title": "Crispy Potato-Crusted Chicken Schnitzel \u2728",
+      "tiktok_views": 4430,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/khN8cah-hYs/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-04T21:59:35Z"
+    },
+    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7667918242840677646",
@@ -4209,20 +4223,6 @@
       "uploaded_at": "2026-10-25T00:21:35Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7648350386532748557",
-      "youtube_id": "QavAtLr2WsA",
-      "title": "No-Bake Chocolate Banana Delight \ud83c\udf4c\ud83c\udf6b",
-      "tiktok_views": 11700,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/QavAtLr2WsA/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-25T00:15:04Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1yEPyAWGgkXSiMkMWFLwYvv-vpPBYHNkH",
@@ -5067,6 +5067,16 @@
     ],
     "runs": [
       {
+        "id": 167,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-11-04",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-04T22:31:05.254696+00:00"
+      },
+      {
         "id": 166,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5255,16 +5265,6 @@
         "video_id": "LxD23ZSh2xI",
         "error_message": null,
         "created_at": "2026-10-29T07:57:22.911018+00:00"
-      },
-      {
-        "id": 147,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-10-29",
-        "status": "success",
-        "video_id": "8DjbBDadtBk",
-        "error_message": null,
-        "created_at": "2026-10-29T02:40:41.569591+00:00"
       }
     ]
   },
@@ -5301,6 +5301,16 @@
     }
   },
   "runs": [
+    {
+      "id": 167,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-11-04",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-04T22:31:05.254696+00:00"
+    },
     {
       "id": 166,
       "channel_id": "channel_1",
@@ -5490,17 +5500,7 @@
       "video_id": "LxD23ZSh2xI",
       "error_message": null,
       "created_at": "2026-10-29T07:57:22.911018+00:00"
-    },
-    {
-      "id": 147,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-10-29",
-      "status": "success",
-      "video_id": "8DjbBDadtBk",
-      "error_message": null,
-      "created_at": "2026-10-29T02:40:41.569591+00:00"
     }
   ],
-  "last_updated": "2026-11-04T21:58:31.046746+00:00"
+  "last_updated": "2026-11-04T22:31:10.305857+00:00"
 }
