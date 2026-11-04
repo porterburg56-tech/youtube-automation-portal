@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 424,
-    "total_views": 140444,
+    "total_views": 140468,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -98,91 +98,91 @@
     },
     {
       "date": "2026-10-25",
-      "ch1_views": 6,
+      "ch1_views": 5,
       "ch2_views": 3,
       "ch3_views": 13,
       "ch4_views": 0,
-      "total_views": 22
+      "total_views": 21
     },
     {
       "date": "2026-10-26",
-      "ch1_views": 10,
+      "ch1_views": 9,
       "ch2_views": 19,
       "ch3_views": 22,
       "ch4_views": 0,
-      "total_views": 51
+      "total_views": 50
     },
     {
       "date": "2026-10-27",
-      "ch1_views": 14,
+      "ch1_views": 13,
       "ch2_views": 31,
       "ch3_views": 35,
       "ch4_views": 0,
-      "total_views": 80
+      "total_views": 79
     },
     {
       "date": "2026-10-28",
-      "ch1_views": 15,
+      "ch1_views": 14,
       "ch2_views": 39,
       "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 107
+      "total_views": 106
     },
     {
       "date": "2026-10-29",
-      "ch1_views": 20,
-      "ch2_views": 54,
+      "ch1_views": 19,
+      "ch2_views": 57,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 141
+      "total_views": 143
     },
     {
       "date": "2026-10-30",
-      "ch1_views": 35,
-      "ch2_views": 68,
+      "ch1_views": 34,
+      "ch2_views": 71,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 188
+      "total_views": 190
     },
     {
       "date": "2026-10-31",
       "ch1_views": 39,
-      "ch2_views": 76,
+      "ch2_views": 79,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 223
+      "total_views": 226
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 52,
-      "ch2_views": 88,
-      "ch3_views": 147,
+      "ch1_views": 57,
+      "ch2_views": 92,
+      "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 287
+      "total_views": 297
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 52,
-      "ch2_views": 101,
-      "ch3_views": 156,
+      "ch1_views": 57,
+      "ch2_views": 109,
+      "ch3_views": 163,
       "ch4_views": 0,
-      "total_views": 309
+      "total_views": 329
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 54,
-      "ch2_views": 107,
-      "ch3_views": 158,
+      "ch1_views": 62,
+      "ch2_views": 118,
+      "ch3_views": 167,
       "ch4_views": 0,
-      "total_views": 319
+      "total_views": 347
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 54,
-      "ch2_views": 108,
+      "ch1_views": 63,
+      "ch2_views": 120,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 162
+      "total_views": 183
     }
   ],
   "channels": {
@@ -202,7 +202,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 157,
-      "total_views": 744,
+      "total_views": 752,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -233,72 +233,86 @@
       "view_history": [
         {
           "date": "2026-10-25",
-          "views": 6,
-          "uploads": 2,
-          "cumulative_views": 6
+          "views": 5,
+          "uploads": 1,
+          "cumulative_views": 5
         },
         {
           "date": "2026-10-26",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 10
+          "cumulative_views": 9
         },
         {
           "date": "2026-10-27",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 14
+          "cumulative_views": 13
         },
         {
           "date": "2026-10-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-29",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 19
         },
         {
           "date": "2026-10-30",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 35
+          "cumulative_views": 34
         },
         {
           "date": "2026-10-31",
-          "views": 4,
+          "views": 5,
           "uploads": 3,
           "cumulative_views": 39
         },
         {
           "date": "2026-11-01",
-          "views": 13,
+          "views": 18,
           "uploads": 3,
-          "cumulative_views": 52
+          "cumulative_views": 57
         },
         {
           "date": "2026-11-02",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 52
+          "cumulative_views": 57
         },
         {
           "date": "2026-11-03",
-          "views": 2,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 54
+          "cumulative_views": 62
         },
         {
           "date": "2026-11-04",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 54
+          "views": 1,
+          "uploads": 2,
+          "cumulative_views": 63
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7667918242840677646",
+          "youtube_id": "t9hgUCXAbrw",
+          "title": "\ud83d\ude02 Five More Minutes, Please!",
+          "tiktok_views": 2082,
+          "youtube_views": 1,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/t9hgUCXAbrw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-04T08:31:52Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -320,7 +334,7 @@
           "youtube_id": "VETAEB71t8Q",
           "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
           "tiktok_views": 15800,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
@@ -348,7 +362,7 @@
           "youtube_id": "4rgYrfFpkEo",
           "title": "Show Me Daddy After Work\u2026 Every Parent Will Relate! \ud83d\ude02",
           "tiktok_views": 3908,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/4rgYrfFpkEo/hqdefault.jpg",
@@ -418,7 +432,7 @@
           "youtube_id": "TzwyYFLz8_U",
           "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
           "tiktok_views": 4477,
-          "youtube_views": 6,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -474,7 +488,7 @@
           "youtube_id": "4oUPy06i6UE",
           "title": "My 2-Year-Old Turned Into Dad After Work \ud83d\ude2d\ud83d\ude02",
           "tiktok_views": 4741,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/4oUPy06i6UE/hqdefault.jpg",
@@ -704,20 +718,6 @@
           "thumbnail": "https://i.ytimg.com/vi/MdcNDHrgNzs/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-25T19:32:12Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7669820668778663181",
-          "youtube_id": "LquLkixKH7c",
-          "title": "Dad Came Home From Work\u2026 But My Toddler Somehow Became Him! \ud83e\udd23",
-          "tiktok_views": 7709,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/LquLkixKH7c/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-25T07:14:23Z"
         }
       ],
       "runs": [
@@ -938,8 +938,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
-      "total_uploads": 143,
-      "total_views": 1558,
+      "total_uploads": 144,
+      "total_views": 1569,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -994,45 +994,45 @@
         },
         {
           "date": "2026-10-29",
-          "views": 15,
+          "views": 18,
           "uploads": 3,
-          "cumulative_views": 54
+          "cumulative_views": 57
         },
         {
           "date": "2026-10-30",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 68
+          "cumulative_views": 71
         },
         {
           "date": "2026-10-31",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 76
+          "cumulative_views": 79
         },
         {
           "date": "2026-11-01",
-          "views": 12,
+          "views": 13,
           "uploads": 2,
-          "cumulative_views": 88
+          "cumulative_views": 92
         },
         {
           "date": "2026-11-02",
-          "views": 13,
+          "views": 17,
           "uploads": 3,
-          "cumulative_views": 101
+          "cumulative_views": 109
         },
         {
           "date": "2026-11-03",
-          "views": 6,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 107
+          "cumulative_views": 118
         },
         {
           "date": "2026-11-04",
-          "views": 1,
+          "views": 2,
           "uploads": 2,
-          "cumulative_views": 108
+          "cumulative_views": 120
         }
       ],
       "videos": [
@@ -1043,7 +1043,7 @@
           "youtube_id": "8nVAWmiUdqM",
           "title": "Caramel Strawberry Nutella Dream Cake \ud83c\udf53\u2728",
           "tiktok_views": 6340,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8nVAWmiUdqM/hqdefault.jpg",
@@ -1071,7 +1071,7 @@
           "youtube_id": "dIfFwPOesNE",
           "title": "Chocolate & Caramel Layered Cream Cake \ud83c\udf6b\ud83c\udf6e",
           "tiktok_views": 18200,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dIfFwPOesNE/hqdefault.jpg",
@@ -1085,7 +1085,7 @@
           "youtube_id": "jYasY4u8HK0",
           "title": "Hidden Apple Chocolate Puff Pastry Pies \ud83c\udf4f\ud83c\udf6b",
           "tiktok_views": 7121,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jYasY4u8HK0/hqdefault.jpg",
@@ -1099,7 +1099,7 @@
           "youtube_id": "eSKbV0JlS68",
           "title": "Cheesy Puff Pastry Sausage Muffins \ud83e\uddc0\ud83e\udd50",
           "tiktok_views": 3734,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/eSKbV0JlS68/hqdefault.jpg",
@@ -1127,7 +1127,7 @@
           "youtube_id": "lHTOsuX0lRc",
           "title": "The Fluffiest Chocolate Banana Cake Secret I Ever Learned \ud83c\udf4c\ud83c\udf6b\u2728",
           "tiktok_views": 7517,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lHTOsuX0lRc/hqdefault.jpg",
@@ -1141,7 +1141,7 @@
           "youtube_id": "i7XP8_Q24x0",
           "title": "Caramel Strawberry Banana Roll \u2013 The No-Bake Dessert Everyone Loves \u2728",
           "tiktok_views": 7587,
-          "youtube_views": 4,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/i7XP8_Q24x0/hqdefault.jpg",
@@ -1155,7 +1155,7 @@
           "youtube_id": "Ymi32MjwNfk",
           "title": "Creamy Garlic Butter Salmon Pasta \u2728",
           "tiktok_views": 24500,
-          "youtube_views": 10,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Ymi32MjwNfk/hqdefault.jpg",
@@ -1267,7 +1267,7 @@
           "youtube_id": "GBWIp4y-uro",
           "title": "Snickers-Stuffed Baked Apples with Caramel & Ice Cream \ud83c\udf4e",
           "tiktok_views": 1367,
-          "youtube_views": 7,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/GBWIp4y-uro/hqdefault.jpg",
@@ -1459,6 +1459,16 @@
       ],
       "runs": [
         {
+          "id": 175,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-11-04",
+          "status": "success",
+          "video_id": "khN8cah-hYs",
+          "error_message": null,
+          "created_at": "2026-11-04T21:58:26.735918+00:00"
+        },
+        {
           "id": 174,
           "channel_id": "channel_2",
           "slot": 3,
@@ -1647,16 +1657,6 @@
           "video_id": "A2XN4jjFhp0",
           "error_message": null,
           "created_at": "2026-10-30T01:50:10.353788+00:00"
-        },
-        {
-          "id": 155,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-10-29",
-          "status": "success",
-          "video_id": "GBWIp4y-uro",
-          "error_message": null,
-          "created_at": "2026-10-29T20:58:36.097640+00:00"
         }
       ]
     },
@@ -1675,8 +1675,8 @@
       "avatar_letter": "N",
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
-      "total_uploads": 104,
-      "total_views": 136572,
+      "total_uploads": 103,
+      "total_views": 136577,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1755,21 +1755,21 @@
         },
         {
           "date": "2026-11-01",
-          "views": 39,
+          "views": 40,
           "uploads": 3,
-          "cumulative_views": 147
+          "cumulative_views": 148
         },
         {
           "date": "2026-11-02",
-          "views": 9,
+          "views": 15,
           "uploads": 3,
-          "cumulative_views": 156
+          "cumulative_views": 163
         },
         {
           "date": "2026-11-03",
-          "views": 2,
+          "views": 4,
           "uploads": 1,
-          "cumulative_views": 158
+          "cumulative_views": 167
         }
       ],
       "videos": [
@@ -1780,7 +1780,7 @@
           "youtube_id": "c7SmTq89tes",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/c7SmTq89tes/hqdefault.jpg",
@@ -1794,7 +1794,7 @@
           "youtube_id": "G4s5E6jDS3Y",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/G4s5E6jDS3Y/hqdefault.jpg",
@@ -1808,7 +1808,7 @@
           "youtube_id": "lmU5-T_OTrA",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
@@ -1822,7 +1822,7 @@
           "youtube_id": "Xp9wtj15e-Y",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Xp9wtj15e-Y/hqdefault.jpg",
@@ -1850,7 +1850,7 @@
           "youtube_id": "MM2uhPp6AIQ",
           "title": "Podiatry procedure extracting na\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 19,
+          "youtube_views": 20,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MM2uhPp6AIQ/hqdefault.jpg",
@@ -2991,13 +2991,27 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7667918242840677646",
+      "youtube_id": "t9hgUCXAbrw",
+      "title": "\ud83d\ude02 Five More Minutes, Please!",
+      "tiktok_views": 2082,
+      "youtube_views": 1,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/t9hgUCXAbrw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-04T08:31:52Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7649815186395680013",
       "youtube_id": "8nVAWmiUdqM",
       "title": "Caramel Strawberry Nutella Dream Cake \ud83c\udf53\u2728",
       "tiktok_views": 6340,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8nVAWmiUdqM/hqdefault.jpg",
@@ -3039,7 +3053,7 @@
       "youtube_id": "VETAEB71t8Q",
       "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
       "tiktok_views": 15800,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
@@ -3053,7 +3067,7 @@
       "youtube_id": "dIfFwPOesNE",
       "title": "Chocolate & Caramel Layered Cream Cake \ud83c\udf6b\ud83c\udf6e",
       "tiktok_views": 18200,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dIfFwPOesNE/hqdefault.jpg",
@@ -3081,7 +3095,7 @@
       "youtube_id": "jYasY4u8HK0",
       "title": "Hidden Apple Chocolate Puff Pastry Pies \ud83c\udf4f\ud83c\udf6b",
       "tiktok_views": 7121,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jYasY4u8HK0/hqdefault.jpg",
@@ -3095,7 +3109,7 @@
       "youtube_id": "4rgYrfFpkEo",
       "title": "Show Me Daddy After Work\u2026 Every Parent Will Relate! \ud83d\ude02",
       "tiktok_views": 3908,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/4rgYrfFpkEo/hqdefault.jpg",
@@ -3109,7 +3123,7 @@
       "youtube_id": "eSKbV0JlS68",
       "title": "Cheesy Puff Pastry Sausage Muffins \ud83e\uddc0\ud83e\udd50",
       "tiktok_views": 3734,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/eSKbV0JlS68/hqdefault.jpg",
@@ -3123,7 +3137,7 @@
       "youtube_id": "c7SmTq89tes",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/c7SmTq89tes/hqdefault.jpg",
@@ -3137,7 +3151,7 @@
       "youtube_id": "G4s5E6jDS3Y",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/G4s5E6jDS3Y/hqdefault.jpg",
@@ -3193,7 +3207,7 @@
       "youtube_id": "lmU5-T_OTrA",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
@@ -3207,7 +3221,7 @@
       "youtube_id": "lHTOsuX0lRc",
       "title": "The Fluffiest Chocolate Banana Cake Secret I Ever Learned \ud83c\udf4c\ud83c\udf6b\u2728",
       "tiktok_views": 7517,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lHTOsuX0lRc/hqdefault.jpg",
@@ -3235,7 +3249,7 @@
       "youtube_id": "i7XP8_Q24x0",
       "title": "Caramel Strawberry Banana Roll \u2013 The No-Bake Dessert Everyone Loves \u2728",
       "tiktok_views": 7587,
-      "youtube_views": 4,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/i7XP8_Q24x0/hqdefault.jpg",
@@ -3249,7 +3263,7 @@
       "youtube_id": "Xp9wtj15e-Y",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Xp9wtj15e-Y/hqdefault.jpg",
@@ -3291,7 +3305,7 @@
       "youtube_id": "Ymi32MjwNfk",
       "title": "Creamy Garlic Butter Salmon Pasta \u2728",
       "tiktok_views": 24500,
-      "youtube_views": 10,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Ymi32MjwNfk/hqdefault.jpg",
@@ -3305,7 +3319,7 @@
       "youtube_id": "TzwyYFLz8_U",
       "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
       "tiktok_views": 4477,
-      "youtube_views": 6,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -3319,7 +3333,7 @@
       "youtube_id": "MM2uhPp6AIQ",
       "title": "Podiatry procedure extracting na\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 19,
+      "youtube_views": 20,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MM2uhPp6AIQ/hqdefault.jpg",
@@ -3459,7 +3473,7 @@
       "youtube_id": "4oUPy06i6UE",
       "title": "My 2-Year-Old Turned Into Dad After Work \ud83d\ude2d\ud83d\ude02",
       "tiktok_views": 4741,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/4oUPy06i6UE/hqdefault.jpg",
@@ -3655,7 +3669,7 @@
       "youtube_id": "GBWIp4y-uro",
       "title": "Snickers-Stuffed Baked Apples with Caramel & Ice Cream \ud83c\udf4e",
       "tiktok_views": 1367,
-      "youtube_views": 7,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/GBWIp4y-uro/hqdefault.jpg",
@@ -4153,20 +4167,6 @@
       "uploaded_at": "2026-10-25T18:52:54Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7669820668778663181",
-      "youtube_id": "LquLkixKH7c",
-      "title": "Dad Came Home From Work\u2026 But My Toddler Somehow Became Him! \ud83e\udd23",
-      "tiktok_views": 7709,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/LquLkixKH7c/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-25T07:14:23Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1uVPB6e0Xyr1h5pCRm52_KS-9bAEEMec0",
@@ -4547,7 +4547,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 157,
-    "total_views": 744,
+    "total_views": 752,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -4578,72 +4578,86 @@
     "view_history": [
       {
         "date": "2026-10-25",
-        "views": 6,
-        "uploads": 2,
-        "cumulative_views": 6
+        "views": 5,
+        "uploads": 1,
+        "cumulative_views": 5
       },
       {
         "date": "2026-10-26",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 10
+        "cumulative_views": 9
       },
       {
         "date": "2026-10-27",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 14
+        "cumulative_views": 13
       },
       {
         "date": "2026-10-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 14
       },
       {
         "date": "2026-10-29",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 19
       },
       {
         "date": "2026-10-30",
         "views": 15,
         "uploads": 3,
-        "cumulative_views": 35
+        "cumulative_views": 34
       },
       {
         "date": "2026-10-31",
-        "views": 4,
+        "views": 5,
         "uploads": 3,
         "cumulative_views": 39
       },
       {
         "date": "2026-11-01",
-        "views": 13,
+        "views": 18,
         "uploads": 3,
-        "cumulative_views": 52
+        "cumulative_views": 57
       },
       {
         "date": "2026-11-02",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 52
+        "cumulative_views": 57
       },
       {
         "date": "2026-11-03",
-        "views": 2,
+        "views": 5,
         "uploads": 3,
-        "cumulative_views": 54
+        "cumulative_views": 62
       },
       {
         "date": "2026-11-04",
-        "views": 0,
-        "uploads": 1,
-        "cumulative_views": 54
+        "views": 1,
+        "uploads": 2,
+        "cumulative_views": 63
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7667918242840677646",
+        "youtube_id": "t9hgUCXAbrw",
+        "title": "\ud83d\ude02 Five More Minutes, Please!",
+        "tiktok_views": 2082,
+        "youtube_views": 1,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/t9hgUCXAbrw/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-11-04T08:31:52Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -4665,7 +4679,7 @@
         "youtube_id": "VETAEB71t8Q",
         "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
         "tiktok_views": 15800,
-        "youtube_views": 2,
+        "youtube_views": 4,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
@@ -4693,7 +4707,7 @@
         "youtube_id": "4rgYrfFpkEo",
         "title": "Show Me Daddy After Work\u2026 Every Parent Will Relate! \ud83d\ude02",
         "tiktok_views": 3908,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/4rgYrfFpkEo/hqdefault.jpg",
@@ -4763,7 +4777,7 @@
         "youtube_id": "TzwyYFLz8_U",
         "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
         "tiktok_views": 4477,
-        "youtube_views": 6,
+        "youtube_views": 11,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -4819,7 +4833,7 @@
         "youtube_id": "4oUPy06i6UE",
         "title": "My 2-Year-Old Turned Into Dad After Work \ud83d\ude2d\ud83d\ude02",
         "tiktok_views": 4741,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/4oUPy06i6UE/hqdefault.jpg",
@@ -5049,20 +5063,6 @@
         "thumbnail": "https://i.ytimg.com/vi/MdcNDHrgNzs/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-25T19:32:12Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7669820668778663181",
-        "youtube_id": "LquLkixKH7c",
-        "title": "Dad Came Home From Work\u2026 But My Toddler Somehow Became Him! \ud83e\udd23",
-        "tiktok_views": 7709,
-        "youtube_views": 1,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/LquLkixKH7c/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-25T07:14:23Z"
       }
     ],
     "runs": [
@@ -5270,7 +5270,7 @@
   },
   "kpis": {
     "total_uploads": 424,
-    "total_views": 140444,
+    "total_views": 140468,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5502,5 +5502,5 @@
       "created_at": "2026-10-29T02:40:41.569591+00:00"
     }
   ],
-  "last_updated": "2026-11-04T08:31:33.844719+00:00"
+  "last_updated": "2026-11-04T21:58:31.046746+00:00"
 }
