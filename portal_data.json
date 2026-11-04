@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 423,
-    "total_views": 140441,
+    "total_uploads": 424,
+    "total_views": 140444,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -170,19 +170,19 @@
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 52,
-      "ch2_views": 106,
+      "ch1_views": 54,
+      "ch2_views": 107,
       "ch3_views": 158,
       "ch4_views": 0,
-      "total_views": 316
+      "total_views": 319
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 52,
-      "ch2_views": 107,
+      "ch1_views": 54,
+      "ch2_views": 108,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 159
+      "total_views": 162
     }
   ],
   "channels": {
@@ -201,8 +201,8 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 156,
-      "total_views": 741,
+      "total_uploads": 157,
+      "total_views": 744,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -287,15 +287,15 @@
         },
         {
           "date": "2026-11-03",
-          "views": 0,
+          "views": 2,
           "uploads": 3,
-          "cumulative_views": 52
+          "cumulative_views": 54
         },
         {
           "date": "2026-11-04",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 52
+          "cumulative_views": 54
         }
       ],
       "videos": [
@@ -320,7 +320,7 @@
           "youtube_id": "VETAEB71t8Q",
           "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
           "tiktok_views": 15800,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
@@ -722,6 +722,16 @@
       ],
       "runs": [
         {
+          "id": 166,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-11-04",
+          "status": "success",
+          "video_id": "t9hgUCXAbrw",
+          "error_message": null,
+          "created_at": "2026-11-04T08:31:29.523122+00:00"
+        },
+        {
           "id": 165,
           "channel_id": "channel_1",
           "slot": 2,
@@ -910,16 +920,6 @@
           "video_id": "8DjbBDadtBk",
           "error_message": null,
           "created_at": "2026-10-29T02:40:41.569591+00:00"
-        },
-        {
-          "id": 146,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-10-28",
-          "status": "success",
-          "video_id": "Tb5yuHM9hWo",
-          "error_message": null,
-          "created_at": "2026-10-28T21:36:15.094025+00:00"
         }
       ]
     },
@@ -1024,15 +1024,15 @@
         },
         {
           "date": "2026-11-03",
-          "views": 5,
+          "views": 6,
           "uploads": 3,
-          "cumulative_views": 106
+          "cumulative_views": 107
         },
         {
           "date": "2026-11-04",
           "views": 1,
           "uploads": 2,
-          "cumulative_views": 107
+          "cumulative_views": 108
         }
       ],
       "videos": [
@@ -1085,7 +1085,7 @@
           "youtube_id": "jYasY4u8HK0",
           "title": "Hidden Apple Chocolate Puff Pastry Pies \ud83c\udf4f\ud83c\udf6b",
           "tiktok_views": 7121,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jYasY4u8HK0/hqdefault.jpg",
@@ -3039,7 +3039,7 @@
       "youtube_id": "VETAEB71t8Q",
       "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
       "tiktok_views": 15800,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
@@ -3081,7 +3081,7 @@
       "youtube_id": "jYasY4u8HK0",
       "title": "Hidden Apple Chocolate Puff Pastry Pies \ud83c\udf4f\ud83c\udf6b",
       "tiktok_views": 7121,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jYasY4u8HK0/hqdefault.jpg",
@@ -4546,8 +4546,8 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 156,
-    "total_views": 741,
+    "total_uploads": 157,
+    "total_views": 744,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -4632,15 +4632,15 @@
       },
       {
         "date": "2026-11-03",
-        "views": 0,
+        "views": 2,
         "uploads": 3,
-        "cumulative_views": 52
+        "cumulative_views": 54
       },
       {
         "date": "2026-11-04",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 52
+        "cumulative_views": 54
       }
     ],
     "videos": [
@@ -4665,7 +4665,7 @@
         "youtube_id": "VETAEB71t8Q",
         "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
         "tiktok_views": 15800,
-        "youtube_views": 0,
+        "youtube_views": 2,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
@@ -5067,6 +5067,16 @@
     ],
     "runs": [
       {
+        "id": 166,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-11-04",
+        "status": "success",
+        "video_id": "t9hgUCXAbrw",
+        "error_message": null,
+        "created_at": "2026-11-04T08:31:29.523122+00:00"
+      },
+      {
         "id": 165,
         "channel_id": "channel_1",
         "slot": 2,
@@ -5255,22 +5265,12 @@
         "video_id": "8DjbBDadtBk",
         "error_message": null,
         "created_at": "2026-10-29T02:40:41.569591+00:00"
-      },
-      {
-        "id": 146,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-10-28",
-        "status": "success",
-        "video_id": "Tb5yuHM9hWo",
-        "error_message": null,
-        "created_at": "2026-10-28T21:36:15.094025+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 423,
-    "total_views": 140441,
+    "total_uploads": 424,
+    "total_views": 140444,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5301,6 +5301,16 @@
     }
   },
   "runs": [
+    {
+      "id": 166,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-11-04",
+      "status": "success",
+      "video_id": "t9hgUCXAbrw",
+      "error_message": null,
+      "created_at": "2026-11-04T08:31:29.523122+00:00"
+    },
     {
       "id": 165,
       "channel_id": "channel_1",
@@ -5490,17 +5500,7 @@
       "video_id": "8DjbBDadtBk",
       "error_message": null,
       "created_at": "2026-10-29T02:40:41.569591+00:00"
-    },
-    {
-      "id": 146,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-10-28",
-      "status": "success",
-      "video_id": "Tb5yuHM9hWo",
-      "error_message": null,
-      "created_at": "2026-10-28T21:36:15.094025+00:00"
     }
   ],
-  "last_updated": "2026-11-04T07:38:36.678399+00:00"
+  "last_updated": "2026-11-04T08:31:33.844719+00:00"
 }
