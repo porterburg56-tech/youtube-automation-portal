@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 423,
-    "total_views": 140434,
+    "total_views": 140416,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -170,19 +170,19 @@
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 54,
-      "ch2_views": 108,
+      "ch1_views": 52,
+      "ch2_views": 107,
       "ch3_views": 158,
       "ch4_views": 0,
-      "total_views": 320
+      "total_views": 317
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 54,
-      "ch2_views": 109,
+      "ch1_views": 52,
+      "ch2_views": 108,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 163
+      "total_views": 160
     }
   ],
   "channels": {
@@ -287,15 +287,15 @@
         },
         {
           "date": "2026-11-03",
-          "views": 2,
+          "views": 0,
           "uploads": 3,
-          "cumulative_views": 54
+          "cumulative_views": 52
         },
         {
           "date": "2026-11-04",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 54
+          "cumulative_views": 52
         }
       ],
       "videos": [
@@ -320,7 +320,7 @@
           "youtube_id": "VETAEB71t8Q",
           "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
           "tiktok_views": 15800,
-          "youtube_views": 2,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
@@ -939,7 +939,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
       "total_uploads": 143,
-      "total_views": 1558,
+      "total_views": 1540,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -1030,15 +1030,15 @@
         },
         {
           "date": "2026-11-03",
-          "views": 6,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 108
+          "cumulative_views": 107
         },
         {
           "date": "2026-11-04",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 109
+          "cumulative_views": 108
         }
       ],
       "videos": [
@@ -1077,7 +1077,7 @@
           "youtube_id": "jYasY4u8HK0",
           "title": "Hidden Apple Chocolate Puff Pastry Pies \ud83c\udf4f\ud83c\udf6b",
           "tiktok_views": 7121,
-          "youtube_views": 2,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jYasY4u8HK0/hqdefault.jpg",
@@ -2202,6 +2202,16 @@
       ],
       "runs": [
         {
+          "id": 131,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-11-04",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-04T07:30:15.409188+00:00"
+        },
+        {
           "id": 130,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2390,16 +2400,6 @@
           "video_id": "n4Ol_vXLTxg",
           "error_message": null,
           "created_at": "2026-10-29T01:49:05.562785+00:00"
-        },
-        {
-          "id": 111,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-28",
-          "status": "success",
-          "video_id": "anwygeueHgo",
-          "error_message": null,
-          "created_at": "2026-10-28T21:40:08.611528+00:00"
         }
       ]
     },
@@ -3031,7 +3031,7 @@
       "youtube_id": "VETAEB71t8Q",
       "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
       "tiktok_views": 15800,
-      "youtube_views": 2,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
@@ -3073,7 +3073,7 @@
       "youtube_id": "jYasY4u8HK0",
       "title": "Hidden Apple Chocolate Puff Pastry Pies \ud83c\udf4f\ud83c\udf6b",
       "tiktok_views": 7121,
-      "youtube_views": 2,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jYasY4u8HK0/hqdefault.jpg",
@@ -4638,15 +4638,15 @@
       },
       {
         "date": "2026-11-03",
-        "views": 2,
+        "views": 0,
         "uploads": 3,
-        "cumulative_views": 54
+        "cumulative_views": 52
       },
       {
         "date": "2026-11-04",
         "views": 0,
         "uploads": 1,
-        "cumulative_views": 54
+        "cumulative_views": 52
       }
     ],
     "videos": [
@@ -4671,7 +4671,7 @@
         "youtube_id": "VETAEB71t8Q",
         "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
         "tiktok_views": 15800,
-        "youtube_views": 2,
+        "youtube_views": 0,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
@@ -5276,7 +5276,7 @@
   },
   "kpis": {
     "total_uploads": 423,
-    "total_views": 140434,
+    "total_views": 140416,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5508,5 +5508,5 @@
       "created_at": "2026-10-28T21:36:15.094025+00:00"
     }
   ],
-  "last_updated": "2026-11-04T07:30:02.020963+00:00"
+  "last_updated": "2026-11-04T07:30:20.237338+00:00"
 }
