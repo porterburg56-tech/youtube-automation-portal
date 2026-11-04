@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 421,
-    "total_views": 140413,
+    "total_uploads": 422,
+    "total_views": 140416,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -156,33 +156,33 @@
       "date": "2026-11-01",
       "ch1_views": 50,
       "ch2_views": 88,
-      "ch3_views": 143,
+      "ch3_views": 145,
       "ch4_views": 0,
-      "total_views": 281
+      "total_views": 283
     },
     {
       "date": "2026-11-02",
       "ch1_views": 50,
-      "ch2_views": 100,
-      "ch3_views": 152,
+      "ch2_views": 101,
+      "ch3_views": 154,
       "ch4_views": 0,
-      "total_views": 302
+      "total_views": 305
     },
     {
       "date": "2026-11-03",
       "ch1_views": 50,
-      "ch2_views": 104,
-      "ch3_views": 154,
+      "ch2_views": 106,
+      "ch3_views": 156,
       "ch4_views": 0,
-      "total_views": 308
+      "total_views": 312
     },
     {
       "date": "2026-11-04",
       "ch1_views": 0,
-      "ch2_views": 104,
+      "ch2_views": 107,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 104
+      "total_views": 107
     }
   ],
   "channels": {
@@ -201,8 +201,8 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 155,
-      "total_views": 738,
+      "total_uploads": 156,
+      "total_views": 741,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -716,6 +716,16 @@
       ],
       "runs": [
         {
+          "id": 165,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-11-04",
+          "status": "success",
+          "video_id": "FXn588n5FTQ",
+          "error_message": null,
+          "created_at": "2026-11-04T03:08:09.646277+00:00"
+        },
+        {
           "id": 164,
           "channel_id": "channel_1",
           "slot": 1,
@@ -904,16 +914,6 @@
           "video_id": "Tb5yuHM9hWo",
           "error_message": null,
           "created_at": "2026-10-28T21:36:15.094025+00:00"
-        },
-        {
-          "id": 145,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-10-28",
-          "status": "success",
-          "video_id": "2BTOUgwmqH8",
-          "error_message": null,
-          "created_at": "2026-10-28T07:52:43.339799+00:00"
         }
       ]
     },
@@ -1018,21 +1018,21 @@
         },
         {
           "date": "2026-11-02",
-          "views": 12,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 100
+          "cumulative_views": 101
         },
         {
           "date": "2026-11-03",
-          "views": 4,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 104
+          "cumulative_views": 106
         },
         {
           "date": "2026-11-04",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 104
+          "cumulative_views": 107
         }
       ],
       "videos": [
@@ -1043,7 +1043,7 @@
           "youtube_id": "FDH3p2j__Jk",
           "title": "The French Dessert Secret That Creates Perfect Chocolate Layers \u2728",
           "tiktok_views": 6653,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/FDH3p2j__Jk/hqdefault.jpg",
@@ -1085,7 +1085,7 @@
           "youtube_id": "eSKbV0JlS68",
           "title": "Cheesy Puff Pastry Sausage Muffins \ud83e\uddc0\ud83e\udd50",
           "tiktok_views": 3734,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/eSKbV0JlS68/hqdefault.jpg",
@@ -1099,7 +1099,7 @@
           "youtube_id": "2O4yNgj2TdQ",
           "title": "Creamy Lemon White Chocolate Ladyfinger Cups \ud83c\udf4b",
           "tiktok_views": 6818,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2O4yNgj2TdQ/hqdefault.jpg",
@@ -1755,21 +1755,21 @@
         },
         {
           "date": "2026-11-01",
-          "views": 35,
+          "views": 37,
           "uploads": 3,
-          "cumulative_views": 143
+          "cumulative_views": 145
         },
         {
           "date": "2026-11-02",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 152
+          "cumulative_views": 154
         },
         {
           "date": "2026-11-03",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 154
+          "cumulative_views": 156
         }
       ],
       "videos": [
@@ -1850,7 +1850,7 @@
           "youtube_id": "MM2uhPp6AIQ",
           "title": "Podiatry procedure extracting na\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 17,
+          "youtube_views": 19,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/MM2uhPp6AIQ/hqdefault.jpg",
@@ -2997,7 +2997,7 @@
       "youtube_id": "FDH3p2j__Jk",
       "title": "The French Dessert Secret That Creates Perfect Chocolate Layers \u2728",
       "tiktok_views": 6653,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/FDH3p2j__Jk/hqdefault.jpg",
@@ -3081,7 +3081,7 @@
       "youtube_id": "eSKbV0JlS68",
       "title": "Cheesy Puff Pastry Sausage Muffins \ud83e\uddc0\ud83e\udd50",
       "tiktok_views": 3734,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/eSKbV0JlS68/hqdefault.jpg",
@@ -3137,7 +3137,7 @@
       "youtube_id": "2O4yNgj2TdQ",
       "title": "Creamy Lemon White Chocolate Ladyfinger Cups \ud83c\udf4b",
       "tiktok_views": 6818,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2O4yNgj2TdQ/hqdefault.jpg",
@@ -3291,7 +3291,7 @@
       "youtube_id": "MM2uhPp6AIQ",
       "title": "Podiatry procedure extracting na\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 17,
+      "youtube_views": 19,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/MM2uhPp6AIQ/hqdefault.jpg",
@@ -4546,8 +4546,8 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 155,
-    "total_views": 738,
+    "total_uploads": 156,
+    "total_views": 741,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5061,6 +5061,16 @@
     ],
     "runs": [
       {
+        "id": 165,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-11-04",
+        "status": "success",
+        "video_id": "FXn588n5FTQ",
+        "error_message": null,
+        "created_at": "2026-11-04T03:08:09.646277+00:00"
+      },
+      {
         "id": 164,
         "channel_id": "channel_1",
         "slot": 1,
@@ -5249,22 +5259,12 @@
         "video_id": "Tb5yuHM9hWo",
         "error_message": null,
         "created_at": "2026-10-28T21:36:15.094025+00:00"
-      },
-      {
-        "id": 145,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-10-28",
-        "status": "success",
-        "video_id": "2BTOUgwmqH8",
-        "error_message": null,
-        "created_at": "2026-10-28T07:52:43.339799+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 421,
-    "total_views": 140413,
+    "total_uploads": 422,
+    "total_views": 140416,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5295,6 +5295,16 @@
     }
   },
   "runs": [
+    {
+      "id": 165,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-11-04",
+      "status": "success",
+      "video_id": "FXn588n5FTQ",
+      "error_message": null,
+      "created_at": "2026-11-04T03:08:09.646277+00:00"
+    },
     {
       "id": 164,
       "channel_id": "channel_1",
@@ -5484,17 +5494,7 @@
       "video_id": "Tb5yuHM9hWo",
       "error_message": null,
       "created_at": "2026-10-28T21:36:15.094025+00:00"
-    },
-    {
-      "id": 145,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-10-28",
-      "status": "success",
-      "video_id": "2BTOUgwmqH8",
-      "error_message": null,
-      "created_at": "2026-10-28T07:52:43.339799+00:00"
     }
   ],
-  "last_updated": "2026-11-04T02:29:35.054522+00:00"
+  "last_updated": "2026-11-04T03:08:13.447083+00:00"
 }
