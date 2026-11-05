@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 428,
-    "total_views": 140524,
+    "total_views": 140516,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -210,7 +210,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 157,
-      "total_views": 769,
+      "total_views": 762,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1684,7 +1684,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 104,
-      "total_views": 136587,
+      "total_views": 136586,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -2204,6 +2204,16 @@
       ],
       "runs": [
         {
+          "id": 135,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-11-05",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-05T22:40:35.553012+00:00"
+        },
+        {
           "id": 134,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2392,16 +2402,6 @@
           "video_id": "V7ByFUim07U",
           "error_message": null,
           "created_at": "2026-10-30T07:05:13.959750+00:00"
-        },
-        {
-          "id": 115,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-10-30",
-          "status": "success",
-          "video_id": "rg43r3vIUS8",
-          "error_message": null,
-          "created_at": "2026-10-30T01:58:37.062174+00:00"
         }
       ]
     },
@@ -4555,7 +4555,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 157,
-    "total_views": 769,
+    "total_views": 762,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5278,7 +5278,7 @@
   },
   "kpis": {
     "total_uploads": 428,
-    "total_views": 140524,
+    "total_views": 140516,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5510,5 +5510,5 @@
       "created_at": "2026-10-30T08:00:23.373302+00:00"
     }
   ],
-  "last_updated": "2026-11-05T22:38:35.934021+00:00"
+  "last_updated": "2026-11-05T22:40:39.714904+00:00"
 }
