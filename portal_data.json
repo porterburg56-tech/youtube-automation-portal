@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 425,
-    "total_views": 140491,
+    "total_uploads": 426,
+    "total_views": 140500,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -154,35 +154,35 @@
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 57,
+      "ch1_views": 58,
       "ch2_views": 92,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 297
+      "total_views": 298
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 57,
+      "ch1_views": 58,
       "ch2_views": 109,
       "ch3_views": 163,
       "ch4_views": 0,
-      "total_views": 329
+      "total_views": 330
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 62,
+      "ch1_views": 63,
       "ch2_views": 118,
       "ch3_views": 167,
       "ch4_views": 0,
-      "total_views": 347
+      "total_views": 348
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 63,
+      "ch1_views": 64,
       "ch2_views": 121,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 184
+      "total_views": 185
     },
     {
       "date": "2026-11-05",
@@ -283,27 +283,27 @@
         },
         {
           "date": "2026-11-01",
-          "views": 18,
+          "views": 19,
           "uploads": 3,
-          "cumulative_views": 57
+          "cumulative_views": 58
         },
         {
           "date": "2026-11-02",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 57
+          "cumulative_views": 58
         },
         {
           "date": "2026-11-03",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 62
+          "cumulative_views": 63
         },
         {
           "date": "2026-11-04",
           "views": 1,
           "uploads": 2,
-          "cumulative_views": 63
+          "cumulative_views": 64
         }
       ],
       "videos": [
@@ -440,7 +440,7 @@
           "youtube_id": "TzwyYFLz8_U",
           "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
           "tiktok_views": 4477,
-          "youtube_views": 11,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -946,7 +946,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
-      "total_uploads": 145,
+      "total_uploads": 146,
       "total_views": 1582,
       "total_likes": 1,
       "upcoming": {
@@ -1473,6 +1473,16 @@
       ],
       "runs": [
         {
+          "id": 177,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-05",
+          "status": "success",
+          "video_id": "XwmzmOvUmSw",
+          "error_message": null,
+          "created_at": "2026-11-05T07:51:18.999473+00:00"
+        },
+        {
           "id": 176,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1661,16 +1671,6 @@
           "video_id": "GD0BImcT-b8",
           "error_message": null,
           "created_at": "2026-10-30T20:29:27.252096+00:00"
-        },
-        {
-          "id": 157,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-10-30",
-          "status": "success",
-          "video_id": "AGp76c2nkHI",
-          "error_message": null,
-          "created_at": "2026-10-30T06:57:09.375100+00:00"
         }
       ]
     },
@@ -1690,7 +1690,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 103,
-      "total_views": 136577,
+      "total_views": 136586,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -3361,7 +3361,7 @@
       "youtube_id": "TzwyYFLz8_U",
       "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
       "tiktok_views": 4477,
-      "youtube_views": 11,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -4634,27 +4634,27 @@
       },
       {
         "date": "2026-11-01",
-        "views": 18,
+        "views": 19,
         "uploads": 3,
-        "cumulative_views": 57
+        "cumulative_views": 58
       },
       {
         "date": "2026-11-02",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 57
+        "cumulative_views": 58
       },
       {
         "date": "2026-11-03",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 62
+        "cumulative_views": 63
       },
       {
         "date": "2026-11-04",
         "views": 1,
         "uploads": 2,
-        "cumulative_views": 63
+        "cumulative_views": 64
       }
     ],
     "videos": [
@@ -4791,7 +4791,7 @@
         "youtube_id": "TzwyYFLz8_U",
         "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
         "tiktok_views": 4477,
-        "youtube_views": 11,
+        "youtube_views": 12,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -5283,8 +5283,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 425,
-    "total_views": 140491,
+    "total_uploads": 426,
+    "total_views": 140500,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5516,5 +5516,5 @@
       "created_at": "2026-10-29T21:43:39.953819+00:00"
     }
   ],
-  "last_updated": "2026-11-05T03:38:17.819589+00:00"
+  "last_updated": "2026-11-05T07:51:23.246951+00:00"
 }
