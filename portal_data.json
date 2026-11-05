@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 425,
-    "total_views": 140481,
+    "total_views": 140491,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -179,18 +179,18 @@
     {
       "date": "2026-11-04",
       "ch1_views": 63,
-      "ch2_views": 120,
+      "ch2_views": 121,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 183
+      "total_views": 184
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 120,
+      "ch2_views": 121,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 120
+      "total_views": 121
     }
   ],
   "channels": {
@@ -210,7 +210,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 157,
-      "total_views": 752,
+      "total_views": 762,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -730,6 +730,16 @@
       ],
       "runs": [
         {
+          "id": 168,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-11-05",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-05T03:38:13.660544+00:00"
+        },
+        {
           "id": 167,
           "channel_id": "channel_1",
           "slot": 1,
@@ -918,16 +928,6 @@
           "video_id": "1Z67fogg0xw",
           "error_message": null,
           "created_at": "2026-10-29T21:43:39.953819+00:00"
-        },
-        {
-          "id": 148,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-10-29",
-          "status": "success",
-          "video_id": "LxD23ZSh2xI",
-          "error_message": null,
-          "created_at": "2026-10-29T07:57:22.911018+00:00"
         }
       ]
     },
@@ -1038,15 +1038,15 @@
         },
         {
           "date": "2026-11-04",
-          "views": 2,
+          "views": 3,
           "uploads": 3,
-          "cumulative_views": 120
+          "cumulative_views": 121
         },
         {
           "date": "2026-11-05",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 120
+          "cumulative_views": 121
         }
       ],
       "videos": [
@@ -1099,7 +1099,7 @@
           "youtube_id": "FDH3p2j__Jk",
           "title": "The French Dessert Secret That Creates Perfect Chocolate Layers \u2728",
           "tiktok_views": 6653,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/FDH3p2j__Jk/hqdefault.jpg",
@@ -3081,7 +3081,7 @@
       "youtube_id": "FDH3p2j__Jk",
       "title": "The French Dessert Secret That Creates Perfect Chocolate Layers \u2728",
       "tiktok_views": 6653,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/FDH3p2j__Jk/hqdefault.jpg",
@@ -4561,7 +4561,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 157,
-    "total_views": 752,
+    "total_views": 762,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5081,6 +5081,16 @@
     ],
     "runs": [
       {
+        "id": 168,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-11-05",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-05T03:38:13.660544+00:00"
+      },
+      {
         "id": 167,
         "channel_id": "channel_1",
         "slot": 1,
@@ -5269,22 +5279,12 @@
         "video_id": "1Z67fogg0xw",
         "error_message": null,
         "created_at": "2026-10-29T21:43:39.953819+00:00"
-      },
-      {
-        "id": 148,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-10-29",
-        "status": "success",
-        "video_id": "LxD23ZSh2xI",
-        "error_message": null,
-        "created_at": "2026-10-29T07:57:22.911018+00:00"
       }
     ]
   },
   "kpis": {
     "total_uploads": 425,
-    "total_views": 140481,
+    "total_views": 140491,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5315,6 +5315,16 @@
     }
   },
   "runs": [
+    {
+      "id": 168,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-11-05",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-05T03:38:13.660544+00:00"
+    },
     {
       "id": 167,
       "channel_id": "channel_1",
@@ -5504,17 +5514,7 @@
       "video_id": "1Z67fogg0xw",
       "error_message": null,
       "created_at": "2026-10-29T21:43:39.953819+00:00"
-    },
-    {
-      "id": 148,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-10-29",
-      "status": "success",
-      "video_id": "LxD23ZSh2xI",
-      "error_message": null,
-      "created_at": "2026-10-29T07:57:22.911018+00:00"
     }
   ],
-  "last_updated": "2026-11-05T02:37:34.981374+00:00"
+  "last_updated": "2026-11-05T03:38:17.819589+00:00"
 }
