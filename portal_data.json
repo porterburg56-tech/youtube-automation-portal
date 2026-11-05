@@ -183,6 +183,14 @@
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 183
+    },
+    {
+      "date": "2026-11-05",
+      "ch1_views": 0,
+      "ch2_views": 120,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 120
     }
   ],
   "channels": {
@@ -971,7 +979,7 @@
         {
           "date": "2026-10-25",
           "views": 2,
-          "uploads": 2,
+          "uploads": 1,
           "cumulative_views": 2
         },
         {
@@ -1033,9 +1041,29 @@
           "views": 2,
           "uploads": 3,
           "cumulative_views": 120
+        },
+        {
+          "date": "2026-11-05",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 120
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7648054571658398989",
+          "youtube_id": "lhJli_ZTatY",
+          "title": "The Secret to Soft & Cheesy Cabbage Pancakes \u2728",
+          "tiktok_views": 5792,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/lhJli_ZTatY/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-05T02:20:24Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1441,20 +1469,6 @@
           "thumbnail": "https://i.ytimg.com/vi/coXCtp7qNGQ/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-25T18:52:54Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7648725152276008206",
-          "youtube_id": "O9_m30NbN6M",
-          "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
-          "tiktok_views": 11400,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/O9_m30NbN6M/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-25T05:57:53Z"
         }
       ],
       "runs": [
@@ -2196,6 +2210,16 @@
       ],
       "runs": [
         {
+          "id": 133,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-11-05",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-05T02:29:54.657602+00:00"
+        },
+        {
           "id": 132,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2384,16 +2408,6 @@
           "video_id": "CzKbzL6SIYI",
           "error_message": null,
           "created_at": "2026-10-29T21:46:58.283327+00:00"
-        },
-        {
-          "id": 113,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-29",
-          "status": "success",
-          "video_id": "5BZ5vZ2p71Y",
-          "error_message": null,
-          "created_at": "2026-10-29T07:02:13.796864+00:00"
         }
       ]
     },
@@ -2990,6 +3004,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7648054571658398989",
+      "youtube_id": "lhJli_ZTatY",
+      "title": "The Secret to Soft & Cheesy Cabbage Pancakes \u2728",
+      "tiktok_views": 5792,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/lhJli_ZTatY/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-05T02:20:24Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4193,20 +4221,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Kww1g3bS0_w/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-25T06:04:39Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7648725152276008206",
-      "youtube_id": "O9_m30NbN6M",
-      "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
-      "tiktok_views": 11400,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/O9_m30NbN6M/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-25T05:57:53Z"
     },
     {
       "channel_id": "channel_3",
@@ -5502,5 +5516,5 @@
       "created_at": "2026-10-29T07:57:22.911018+00:00"
     }
   ],
-  "last_updated": "2026-11-05T02:19:45.958648+00:00"
+  "last_updated": "2026-11-05T02:29:58.666254+00:00"
 }
