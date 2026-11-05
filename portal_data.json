@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 426,
-    "total_views": 140500,
+    "total_views": 140481,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -99,98 +99,98 @@
     {
       "date": "2026-10-25",
       "ch1_views": 5,
-      "ch2_views": 2,
+      "ch2_views": 0,
       "ch3_views": 13,
       "ch4_views": 0,
-      "total_views": 20
+      "total_views": 18
     },
     {
       "date": "2026-10-26",
       "ch1_views": 9,
-      "ch2_views": 18,
+      "ch2_views": 16,
       "ch3_views": 22,
       "ch4_views": 0,
-      "total_views": 49
+      "total_views": 47
     },
     {
       "date": "2026-10-27",
       "ch1_views": 13,
-      "ch2_views": 30,
+      "ch2_views": 28,
       "ch3_views": 35,
       "ch4_views": 0,
-      "total_views": 78
+      "total_views": 76
     },
     {
       "date": "2026-10-28",
       "ch1_views": 14,
-      "ch2_views": 38,
+      "ch2_views": 36,
       "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 105
+      "total_views": 103
     },
     {
       "date": "2026-10-29",
       "ch1_views": 19,
-      "ch2_views": 56,
+      "ch2_views": 54,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 142
+      "total_views": 140
     },
     {
       "date": "2026-10-30",
       "ch1_views": 34,
-      "ch2_views": 70,
+      "ch2_views": 68,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 189
+      "total_views": 187
     },
     {
       "date": "2026-10-31",
       "ch1_views": 39,
-      "ch2_views": 79,
+      "ch2_views": 77,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 226
+      "total_views": 224
     },
     {
       "date": "2026-11-01",
       "ch1_views": 58,
-      "ch2_views": 92,
+      "ch2_views": 90,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 298
+      "total_views": 296
     },
     {
       "date": "2026-11-02",
       "ch1_views": 58,
-      "ch2_views": 109,
+      "ch2_views": 107,
       "ch3_views": 163,
       "ch4_views": 0,
-      "total_views": 330
+      "total_views": 328
     },
     {
       "date": "2026-11-03",
       "ch1_views": 63,
-      "ch2_views": 118,
+      "ch2_views": 116,
       "ch3_views": 167,
       "ch4_views": 0,
-      "total_views": 348
+      "total_views": 346
     },
     {
       "date": "2026-11-04",
       "ch1_views": 64,
-      "ch2_views": 121,
+      "ch2_views": 119,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 185
+      "total_views": 183
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 121,
+      "ch2_views": 119,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 121
+      "total_views": 119
     }
   ],
   "channels": {
@@ -210,7 +210,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 157,
-      "total_views": 762,
+      "total_views": 752,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -977,79 +977,87 @@
       },
       "view_history": [
         {
-          "date": "2026-10-25",
-          "views": 2,
-          "uploads": 1,
-          "cumulative_views": 2
-        },
-        {
           "date": "2026-10-26",
           "views": 16,
           "uploads": 2,
-          "cumulative_views": 18
+          "cumulative_views": 16
         },
         {
           "date": "2026-10-27",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 30
+          "cumulative_views": 28
         },
         {
           "date": "2026-10-28",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 38
+          "cumulative_views": 36
         },
         {
           "date": "2026-10-29",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 56
+          "cumulative_views": 54
         },
         {
           "date": "2026-10-30",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 70
+          "cumulative_views": 68
         },
         {
           "date": "2026-10-31",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 79
+          "cumulative_views": 77
         },
         {
           "date": "2026-11-01",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 92
+          "cumulative_views": 90
         },
         {
           "date": "2026-11-02",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 109
+          "cumulative_views": 107
         },
         {
           "date": "2026-11-03",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 118
+          "cumulative_views": 116
         },
         {
           "date": "2026-11-04",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 121
+          "cumulative_views": 119
         },
         {
           "date": "2026-11-05",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 121
+          "uploads": 2,
+          "cumulative_views": 119
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7655404848568962318",
+          "youtube_id": "XwmzmOvUmSw",
+          "title": "Cheesy Pull-Apart Croissant Ring with Creamy Garlic Cheese Dip \ud83e\udd50\ud83e\uddc0",
+          "tiktok_views": 5747,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/XwmzmOvUmSw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-05T07:52:03Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1455,20 +1463,6 @@
           "thumbnail": "https://i.ytimg.com/vi/PGwJxiNFXuE/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-26T05:57:19Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7700661864501349646",
-          "youtube_id": "coXCtp7qNGQ",
-          "title": "Chocolate Cream Dessert Cups \ud83c\udf6b",
-          "tiktok_views": 2851,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/coXCtp7qNGQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-25T18:52:54Z"
         }
       ],
       "runs": [
@@ -1690,7 +1684,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 103,
-      "total_views": 136586,
+      "total_views": 136577,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -2210,6 +2204,16 @@
       ],
       "runs": [
         {
+          "id": 134,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-11-05",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-05T07:55:12.407014+00:00"
+        },
+        {
           "id": 133,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2398,16 +2402,6 @@
           "video_id": "rg43r3vIUS8",
           "error_message": null,
           "created_at": "2026-10-30T01:58:37.062174+00:00"
-        },
-        {
-          "id": 114,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-29",
-          "status": "success",
-          "video_id": "CzKbzL6SIYI",
-          "error_message": null,
-          "created_at": "2026-10-29T21:46:58.283327+00:00"
         }
       ]
     },
@@ -3004,6 +2998,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7655404848568962318",
+      "youtube_id": "XwmzmOvUmSw",
+      "title": "Cheesy Pull-Apart Croissant Ring with Creamy Garlic Cheese Dip \ud83e\udd50\ud83e\uddc0",
+      "tiktok_views": 5747,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/XwmzmOvUmSw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-05T07:52:03Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4195,20 +4203,6 @@
       "uploaded_at": "2026-10-25T19:32:12Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7700661864501349646",
-      "youtube_id": "coXCtp7qNGQ",
-      "title": "Chocolate Cream Dessert Cups \ud83c\udf6b",
-      "tiktok_views": 2851,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/coXCtp7qNGQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-25T18:52:54Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1uVPB6e0Xyr1h5pCRm52_KS-9bAEEMec0",
@@ -4561,7 +4555,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 157,
-    "total_views": 762,
+    "total_views": 752,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5284,7 +5278,7 @@
   },
   "kpis": {
     "total_uploads": 426,
-    "total_views": 140500,
+    "total_views": 140481,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5516,5 +5510,5 @@
       "created_at": "2026-10-29T21:43:39.953819+00:00"
     }
   ],
-  "last_updated": "2026-11-05T07:51:23.246951+00:00"
+  "last_updated": "2026-11-05T07:55:17.369787+00:00"
 }
