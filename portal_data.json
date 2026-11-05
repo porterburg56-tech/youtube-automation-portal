@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 426,
-    "total_views": 140481,
+    "total_views": 140500,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -106,83 +106,83 @@
     },
     {
       "date": "2026-10-26",
-      "ch1_views": 9,
+      "ch1_views": 10,
       "ch2_views": 16,
       "ch3_views": 22,
       "ch4_views": 0,
-      "total_views": 47
+      "total_views": 48
     },
     {
       "date": "2026-10-27",
-      "ch1_views": 13,
+      "ch1_views": 14,
       "ch2_views": 28,
       "ch3_views": 35,
       "ch4_views": 0,
-      "total_views": 76
+      "total_views": 77
     },
     {
       "date": "2026-10-28",
-      "ch1_views": 14,
+      "ch1_views": 15,
       "ch2_views": 36,
       "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 103
+      "total_views": 104
     },
     {
       "date": "2026-10-29",
-      "ch1_views": 19,
+      "ch1_views": 20,
       "ch2_views": 54,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 140
+      "total_views": 141
     },
     {
       "date": "2026-10-30",
-      "ch1_views": 34,
+      "ch1_views": 35,
       "ch2_views": 68,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 187
+      "total_views": 188
     },
     {
       "date": "2026-10-31",
-      "ch1_views": 39,
+      "ch1_views": 40,
       "ch2_views": 77,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 224
+      "total_views": 225
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 58,
+      "ch1_views": 59,
       "ch2_views": 90,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 296
+      "total_views": 297
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 58,
+      "ch1_views": 59,
       "ch2_views": 107,
       "ch3_views": 163,
       "ch4_views": 0,
-      "total_views": 328
+      "total_views": 329
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 63,
+      "ch1_views": 64,
       "ch2_views": 116,
       "ch3_views": 167,
       "ch4_views": 0,
-      "total_views": 346
+      "total_views": 347
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 64,
+      "ch1_views": 65,
       "ch2_views": 119,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 183
+      "total_views": 184
     },
     {
       "date": "2026-11-05",
@@ -210,7 +210,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 157,
-      "total_views": 752,
+      "total_views": 762,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -247,63 +247,63 @@
         },
         {
           "date": "2026-10-26",
-          "views": 4,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 9
+          "cumulative_views": 10
         },
         {
           "date": "2026-10-27",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 14
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-29",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-30",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 34
+          "cumulative_views": 35
         },
         {
           "date": "2026-10-31",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 39
+          "cumulative_views": 40
         },
         {
           "date": "2026-11-01",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 58
+          "cumulative_views": 59
         },
         {
           "date": "2026-11-02",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 58
+          "cumulative_views": 59
         },
         {
           "date": "2026-11-03",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 63
+          "cumulative_views": 64
         },
         {
           "date": "2026-11-04",
           "views": 1,
           "uploads": 2,
-          "cumulative_views": 64
+          "cumulative_views": 65
         }
       ],
       "videos": [
@@ -692,7 +692,7 @@
           "youtube_id": "t4Er_MOclBk",
           "title": "\u2764\ufe0f Dad\u2019s Battery Is Officially Dead! \ud83d\ude02",
           "tiktok_views": 7265,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/t4Er_MOclBk/hqdefault.jpg",
@@ -729,6 +729,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 169,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-11-05",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-05T08:53:50.940824+00:00"
+        },
         {
           "id": 168,
           "channel_id": "channel_1",
@@ -918,16 +928,6 @@
           "video_id": "O47DFE2_Mt0",
           "error_message": null,
           "created_at": "2026-10-30T02:49:12.315624+00:00"
-        },
-        {
-          "id": 149,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-10-29",
-          "status": "success",
-          "video_id": "1Z67fogg0xw",
-          "error_message": null,
-          "created_at": "2026-10-29T21:43:39.953819+00:00"
         }
       ]
     },
@@ -1684,7 +1684,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 103,
-      "total_views": 136577,
+      "total_views": 136586,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -4111,7 +4111,7 @@
       "youtube_id": "t4Er_MOclBk",
       "title": "\u2764\ufe0f Dad\u2019s Battery Is Officially Dead! \ud83d\ude02",
       "tiktok_views": 7265,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/t4Er_MOclBk/hqdefault.jpg",
@@ -4555,7 +4555,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 157,
-    "total_views": 752,
+    "total_views": 762,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -4592,63 +4592,63 @@
       },
       {
         "date": "2026-10-26",
-        "views": 4,
+        "views": 5,
         "uploads": 3,
-        "cumulative_views": 9
+        "cumulative_views": 10
       },
       {
         "date": "2026-10-27",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 13
+        "cumulative_views": 14
       },
       {
         "date": "2026-10-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 14
+        "cumulative_views": 15
       },
       {
         "date": "2026-10-29",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 19
+        "cumulative_views": 20
       },
       {
         "date": "2026-10-30",
         "views": 15,
         "uploads": 3,
-        "cumulative_views": 34
+        "cumulative_views": 35
       },
       {
         "date": "2026-10-31",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 39
+        "cumulative_views": 40
       },
       {
         "date": "2026-11-01",
         "views": 19,
         "uploads": 3,
-        "cumulative_views": 58
+        "cumulative_views": 59
       },
       {
         "date": "2026-11-02",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 58
+        "cumulative_views": 59
       },
       {
         "date": "2026-11-03",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 63
+        "cumulative_views": 64
       },
       {
         "date": "2026-11-04",
         "views": 1,
         "uploads": 2,
-        "cumulative_views": 64
+        "cumulative_views": 65
       }
     ],
     "videos": [
@@ -5037,7 +5037,7 @@
         "youtube_id": "t4Er_MOclBk",
         "title": "\u2764\ufe0f Dad\u2019s Battery Is Officially Dead! \ud83d\ude02",
         "tiktok_views": 7265,
-        "youtube_views": 0,
+        "youtube_views": 1,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/t4Er_MOclBk/hqdefault.jpg",
@@ -5074,6 +5074,16 @@
       }
     ],
     "runs": [
+      {
+        "id": 169,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-11-05",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-05T08:53:50.940824+00:00"
+      },
       {
         "id": 168,
         "channel_id": "channel_1",
@@ -5263,22 +5273,12 @@
         "video_id": "O47DFE2_Mt0",
         "error_message": null,
         "created_at": "2026-10-30T02:49:12.315624+00:00"
-      },
-      {
-        "id": 149,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-10-29",
-        "status": "success",
-        "video_id": "1Z67fogg0xw",
-        "error_message": null,
-        "created_at": "2026-10-29T21:43:39.953819+00:00"
       }
     ]
   },
   "kpis": {
     "total_uploads": 426,
-    "total_views": 140481,
+    "total_views": 140500,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5309,6 +5309,16 @@
     }
   },
   "runs": [
+    {
+      "id": 169,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-11-05",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-05T08:53:50.940824+00:00"
+    },
     {
       "id": 168,
       "channel_id": "channel_1",
@@ -5498,17 +5508,7 @@
       "video_id": "O47DFE2_Mt0",
       "error_message": null,
       "created_at": "2026-10-30T02:49:12.315624+00:00"
-    },
-    {
-      "id": 149,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-10-29",
-      "status": "success",
-      "video_id": "1Z67fogg0xw",
-      "error_message": null,
-      "created_at": "2026-10-29T21:43:39.953819+00:00"
     }
   ],
-  "last_updated": "2026-11-05T08:01:14.274205+00:00"
+  "last_updated": "2026-11-05T08:53:54.926747+00:00"
 }
