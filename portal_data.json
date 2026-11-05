@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 428,
-    "total_views": 140516,
+    "total_views": 140524,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -210,7 +210,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 157,
-      "total_views": 762,
+      "total_views": 769,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1684,7 +1684,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 104,
-      "total_views": 136586,
+      "total_views": 136587,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -2795,6 +2795,16 @@
       ],
       "runs": [
         {
+          "id": 128,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-11-05",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-05T22:47:38.348288+00:00"
+        },
+        {
           "id": 127,
           "channel_id": "channel_4",
           "slot": 3,
@@ -2983,16 +2993,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-30T07:21:17.475215+00:00"
-        },
-        {
-          "id": 108,
-          "channel_id": "channel_4",
-          "slot": 2,
-          "run_date": "2026-10-30",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-30T02:02:32.213258+00:00"
         }
       ]
     }
@@ -4555,7 +4555,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 157,
-    "total_views": 762,
+    "total_views": 769,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5278,7 +5278,7 @@
   },
   "kpis": {
     "total_uploads": 428,
-    "total_views": 140516,
+    "total_views": 140524,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5510,5 +5510,5 @@
       "created_at": "2026-10-30T08:00:23.373302+00:00"
     }
   ],
-  "last_updated": "2026-11-05T22:40:39.714904+00:00"
+  "last_updated": "2026-11-05T22:47:41.940798+00:00"
 }
