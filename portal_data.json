@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 428,
-    "total_views": 140516,
+    "total_views": 140524,
     "total_likes": 16,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -107,90 +107,90 @@
     {
       "date": "2026-10-26",
       "ch1_views": 10,
-      "ch2_views": 16,
+      "ch2_views": 13,
       "ch3_views": 22,
       "ch4_views": 0,
-      "total_views": 48
+      "total_views": 45
     },
     {
       "date": "2026-10-27",
       "ch1_views": 14,
-      "ch2_views": 30,
+      "ch2_views": 27,
       "ch3_views": 35,
       "ch4_views": 0,
-      "total_views": 79
+      "total_views": 76
     },
     {
       "date": "2026-10-28",
       "ch1_views": 15,
-      "ch2_views": 39,
+      "ch2_views": 36,
       "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 107
+      "total_views": 104
     },
     {
       "date": "2026-10-29",
       "ch1_views": 20,
-      "ch2_views": 59,
+      "ch2_views": 56,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 146
+      "total_views": 143
     },
     {
       "date": "2026-10-30",
       "ch1_views": 35,
-      "ch2_views": 73,
+      "ch2_views": 70,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 193
+      "total_views": 190
     },
     {
       "date": "2026-10-31",
       "ch1_views": 40,
-      "ch2_views": 82,
+      "ch2_views": 79,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 230
+      "total_views": 227
     },
     {
       "date": "2026-11-01",
       "ch1_views": 61,
-      "ch2_views": 95,
+      "ch2_views": 92,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 304
+      "total_views": 301
     },
     {
       "date": "2026-11-02",
       "ch1_views": 61,
-      "ch2_views": 112,
+      "ch2_views": 109,
       "ch3_views": 164,
       "ch4_views": 0,
-      "total_views": 337
+      "total_views": 334
     },
     {
       "date": "2026-11-03",
       "ch1_views": 66,
-      "ch2_views": 123,
+      "ch2_views": 120,
       "ch3_views": 168,
       "ch4_views": 0,
-      "total_views": 357
+      "total_views": 354
     },
     {
       "date": "2026-11-04",
       "ch1_views": 68,
-      "ch2_views": 130,
+      "ch2_views": 127,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 198
+      "total_views": 195
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 130,
+      "ch2_views": 127,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 130
+      "total_views": 127
     }
   ],
   "channels": {
@@ -210,7 +210,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 157,
-      "total_views": 762,
+      "total_views": 769,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -730,6 +730,16 @@
       ],
       "runs": [
         {
+          "id": 170,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-11-05",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-05T22:38:31.355833+00:00"
+        },
+        {
           "id": 169,
           "channel_id": "channel_1",
           "slot": 3,
@@ -918,16 +928,6 @@
           "video_id": "kBatZnTZd58",
           "error_message": null,
           "created_at": "2026-10-30T08:00:23.373302+00:00"
-        },
-        {
-          "id": 150,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-10-30",
-          "status": "success",
-          "video_id": "O47DFE2_Mt0",
-          "error_message": null,
-          "created_at": "2026-10-30T02:49:12.315624+00:00"
         }
       ]
     },
@@ -978,72 +978,86 @@
       "view_history": [
         {
           "date": "2026-10-26",
-          "views": 16,
-          "uploads": 2,
-          "cumulative_views": 16
+          "views": 13,
+          "uploads": 1,
+          "cumulative_views": 13
         },
         {
           "date": "2026-10-27",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 30
+          "cumulative_views": 27
         },
         {
           "date": "2026-10-28",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 39
+          "cumulative_views": 36
         },
         {
           "date": "2026-10-29",
           "views": 20,
           "uploads": 3,
-          "cumulative_views": 59
+          "cumulative_views": 56
         },
         {
           "date": "2026-10-30",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 73
+          "cumulative_views": 70
         },
         {
           "date": "2026-10-31",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 82
+          "cumulative_views": 79
         },
         {
           "date": "2026-11-01",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 95
+          "cumulative_views": 92
         },
         {
           "date": "2026-11-02",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 112
+          "cumulative_views": 109
         },
         {
           "date": "2026-11-03",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 123
+          "cumulative_views": 120
         },
         {
           "date": "2026-11-04",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 130
+          "cumulative_views": 127
         },
         {
           "date": "2026-11-05",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 130
+          "uploads": 3,
+          "cumulative_views": 127
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7657632155996032269",
+          "youtube_id": "_-KGLCjssb8",
+          "title": "Creamy Baked Fettuccine with Chicken & Mushrooms \ud83c\udf5d",
+          "tiktok_views": 4892,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/_-KGLCjssb8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-05T21:52:21Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1449,20 +1463,6 @@
           "thumbnail": "https://i.ytimg.com/vi/2TZ8anAXE5I/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-26T21:00:45Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7656514943025466638",
-          "youtube_id": "PGwJxiNFXuE",
-          "title": "The Secret to the Crispiest Cheesy Chicken Patty \u2728",
-          "tiktok_views": 11200,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/PGwJxiNFXuE/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-26T05:57:19Z"
         }
       ],
       "runs": [
@@ -1684,7 +1684,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 104,
-      "total_views": 136586,
+      "total_views": 136587,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -3001,6 +3001,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7657632155996032269",
+      "youtube_id": "_-KGLCjssb8",
+      "title": "Creamy Baked Fettuccine with Chicken & Mushrooms \ud83c\udf5d",
+      "tiktok_views": 4892,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/_-KGLCjssb8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-05T21:52:21Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7655404848568962318",
       "youtube_id": "XwmzmOvUmSw",
       "title": "Cheesy Pull-Apart Croissant Ring with Creamy Garlic Cheese Dip \ud83e\udd50\ud83e\uddc0",
@@ -4133,20 +4147,6 @@
       "uploaded_at": "2026-10-26T06:09:39Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7656514943025466638",
-      "youtube_id": "PGwJxiNFXuE",
-      "title": "The Secret to the Crispiest Cheesy Chicken Patty \u2728",
-      "tiktok_views": 11200,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/PGwJxiNFXuE/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-26T05:57:19Z"
-    },
-    {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
       "tiktok_id": "7664948958216621325",
@@ -4555,7 +4555,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 157,
-    "total_views": 762,
+    "total_views": 769,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5075,6 +5075,16 @@
     ],
     "runs": [
       {
+        "id": 170,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-11-05",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-05T22:38:31.355833+00:00"
+      },
+      {
         "id": 169,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5263,22 +5273,12 @@
         "video_id": "kBatZnTZd58",
         "error_message": null,
         "created_at": "2026-10-30T08:00:23.373302+00:00"
-      },
-      {
-        "id": 150,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-10-30",
-        "status": "success",
-        "video_id": "O47DFE2_Mt0",
-        "error_message": null,
-        "created_at": "2026-10-30T02:49:12.315624+00:00"
       }
     ]
   },
   "kpis": {
     "total_uploads": 428,
-    "total_views": 140516,
+    "total_views": 140524,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5309,6 +5309,16 @@
     }
   },
   "runs": [
+    {
+      "id": 170,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-11-05",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-05T22:38:31.355833+00:00"
+    },
     {
       "id": 169,
       "channel_id": "channel_1",
@@ -5498,17 +5508,7 @@
       "video_id": "kBatZnTZd58",
       "error_message": null,
       "created_at": "2026-10-30T08:00:23.373302+00:00"
-    },
-    {
-      "id": 150,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-10-30",
-      "status": "success",
-      "video_id": "O47DFE2_Mt0",
-      "error_message": null,
-      "created_at": "2026-10-30T02:49:12.315624+00:00"
     }
   ],
-  "last_updated": "2026-11-05T21:51:48.839756+00:00"
+  "last_updated": "2026-11-05T22:38:35.934021+00:00"
 }
