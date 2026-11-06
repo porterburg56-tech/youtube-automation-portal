@@ -1,9 +1,9 @@
 {
   "cumulative": {
-    "total_uploads": 430,
-    "total_views": 140543,
+    "total_uploads": 431,
+    "total_views": 140548,
     "total_likes": 16,
-    "total_subscribers": 88,
+    "total_subscribers": 89,
     "channels_count": 4,
     "videos_per_day": 12
   },
@@ -115,90 +115,90 @@
     {
       "date": "2026-10-27",
       "ch1_views": 14,
-      "ch2_views": 14,
+      "ch2_views": 17,
       "ch3_views": 35,
       "ch4_views": 0,
-      "total_views": 63
+      "total_views": 66
     },
     {
       "date": "2026-10-28",
       "ch1_views": 15,
-      "ch2_views": 23,
+      "ch2_views": 26,
       "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 91
+      "total_views": 94
     },
     {
       "date": "2026-10-29",
       "ch1_views": 20,
-      "ch2_views": 43,
+      "ch2_views": 46,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 130
+      "total_views": 133
     },
     {
       "date": "2026-10-30",
       "ch1_views": 35,
-      "ch2_views": 57,
+      "ch2_views": 61,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 177
+      "total_views": 181
     },
     {
       "date": "2026-10-31",
       "ch1_views": 40,
-      "ch2_views": 66,
+      "ch2_views": 70,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 214
+      "total_views": 218
     },
     {
       "date": "2026-11-01",
       "ch1_views": 64,
-      "ch2_views": 79,
+      "ch2_views": 83,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 291
+      "total_views": 295
     },
     {
       "date": "2026-11-02",
       "ch1_views": 64,
-      "ch2_views": 96,
-      "ch3_views": 165,
+      "ch2_views": 100,
+      "ch3_views": 167,
       "ch4_views": 0,
-      "total_views": 325
+      "total_views": 331
     },
     {
       "date": "2026-11-03",
       "ch1_views": 69,
-      "ch2_views": 107,
-      "ch3_views": 169,
+      "ch2_views": 111,
+      "ch3_views": 171,
       "ch4_views": 0,
-      "total_views": 345
+      "total_views": 351
     },
     {
       "date": "2026-11-04",
       "ch1_views": 71,
-      "ch2_views": 115,
+      "ch2_views": 119,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 186
+      "total_views": 190
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 115,
+      "ch2_views": 124,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 115
+      "total_views": 124
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 118,
+      "ch2_views": 140,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 118
+      "total_views": 140
     }
   ],
   "channels": {
@@ -218,7 +218,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 157,
-      "total_views": 775,
+      "total_views": 778,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -953,8 +953,8 @@
       "avatar": "https://yt3.ggpht.com/BzfrtPYNdc_HaeUp-BzMgQYBKQzMy8kzHQwtG7rtTR2XGjy4qb_K_Q2gI9A4HwplzX5C5ZrCzQ=s240-c-k-c0x00ffffff-no-rj",
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
-      "subscribers": 7,
-      "total_uploads": 149,
+      "subscribers": 8,
+      "total_uploads": 150,
       "total_views": 1611,
       "total_likes": 1,
       "upcoming": {
@@ -986,69 +986,69 @@
       "view_history": [
         {
           "date": "2026-10-27",
-          "views": 14,
+          "views": 17,
           "uploads": 2,
-          "cumulative_views": 14
+          "cumulative_views": 17
         },
         {
           "date": "2026-10-28",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 23
+          "cumulative_views": 26
         },
         {
           "date": "2026-10-29",
           "views": 20,
           "uploads": 3,
-          "cumulative_views": 43
+          "cumulative_views": 46
         },
         {
           "date": "2026-10-30",
-          "views": 14,
+          "views": 15,
           "uploads": 3,
-          "cumulative_views": 57
+          "cumulative_views": 61
         },
         {
           "date": "2026-10-31",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 66
+          "cumulative_views": 70
         },
         {
           "date": "2026-11-01",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 79
+          "cumulative_views": 83
         },
         {
           "date": "2026-11-02",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 96
+          "cumulative_views": 100
         },
         {
           "date": "2026-11-03",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 107
+          "cumulative_views": 111
         },
         {
           "date": "2026-11-04",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 115
+          "cumulative_views": 119
         },
         {
           "date": "2026-11-05",
-          "views": 0,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 115
+          "cumulative_views": 124
         },
         {
           "date": "2026-11-06",
-          "views": 3,
+          "views": 16,
           "uploads": 2,
-          "cumulative_views": 118
+          "cumulative_views": 140
         }
       ],
       "videos": [
@@ -1059,7 +1059,7 @@
           "youtube_id": "cFMap834578",
           "title": "The Secret to the Softest Nutella Chocolate Loaf Cake \u2728",
           "tiktok_views": 5526,
-          "youtube_views": 0,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cFMap834578/hqdefault.jpg",
@@ -1073,7 +1073,7 @@
           "youtube_id": "g7jkjFvOb44",
           "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
           "tiktok_views": 5724,
-          "youtube_views": 3,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -1087,7 +1087,7 @@
           "youtube_id": "_-KGLCjssb8",
           "title": "Creamy Baked Fettuccine with Chicken & Mushrooms \ud83c\udf5d",
           "tiktok_views": 4892,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/_-KGLCjssb8/hqdefault.jpg",
@@ -1101,7 +1101,7 @@
           "youtube_id": "XwmzmOvUmSw",
           "title": "Cheesy Pull-Apart Croissant Ring with Creamy Garlic Cheese Dip \ud83e\udd50\ud83e\uddc0",
           "tiktok_views": 5747,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XwmzmOvUmSw/hqdefault.jpg",
@@ -1115,7 +1115,7 @@
           "youtube_id": "lhJli_ZTatY",
           "title": "The Secret to Soft & Cheesy Cabbage Pancakes \u2728",
           "tiktok_views": 5792,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lhJli_ZTatY/hqdefault.jpg",
@@ -1325,7 +1325,7 @@
           "youtube_id": "GD0BImcT-b8",
           "title": "Cheesy Stuffed Meat with Creamy Potato Salad \u2728",
           "tiktok_views": 20800,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/GD0BImcT-b8/hqdefault.jpg",
@@ -1465,7 +1465,7 @@
           "youtube_id": "CVWeFv92x2o",
           "title": "Caramel Banana Oreo Roll Cake \ud83c\udf4c\u2728",
           "tiktok_views": 10700,
-          "youtube_views": 10,
+          "youtube_views": 13,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CVWeFv92x2o/hqdefault.jpg",
@@ -1474,6 +1474,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 181,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-11-06",
+          "status": "success",
+          "video_id": "7VkCTL_WD94",
+          "error_message": null,
+          "created_at": "2026-11-06T21:22:36.898290+00:00"
+        },
         {
           "id": 180,
           "channel_id": "channel_2",
@@ -1663,16 +1673,6 @@
           "video_id": "fPyoKX9Mi5I",
           "error_message": null,
           "created_at": "2026-11-01T01:09:46.250003+00:00"
-        },
-        {
-          "id": 161,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-10-31",
-          "status": "success",
-          "video_id": "lbNdEvb2rFs",
-          "error_message": null,
-          "created_at": "2026-10-31T19:49:28.075392+00:00"
         }
       ]
     },
@@ -1692,7 +1692,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 104,
-      "total_views": 136587,
+      "total_views": 136589,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1777,15 +1777,15 @@
         },
         {
           "date": "2026-11-02",
-          "views": 17,
+          "views": 19,
           "uploads": 3,
-          "cumulative_views": 165
+          "cumulative_views": 167
         },
         {
           "date": "2026-11-03",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 169
+          "cumulative_views": 171
         }
       ],
       "videos": [
@@ -1810,7 +1810,7 @@
           "youtube_id": "G4s5E6jDS3Y",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/G4s5E6jDS3Y/hqdefault.jpg",
@@ -1824,7 +1824,7 @@
           "youtube_id": "lmU5-T_OTrA",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
@@ -3013,7 +3013,7 @@
       "youtube_id": "cFMap834578",
       "title": "The Secret to the Softest Nutella Chocolate Loaf Cake \u2728",
       "tiktok_views": 5526,
-      "youtube_views": 0,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cFMap834578/hqdefault.jpg",
@@ -3027,7 +3027,7 @@
       "youtube_id": "g7jkjFvOb44",
       "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
       "tiktok_views": 5724,
-      "youtube_views": 3,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -3041,7 +3041,7 @@
       "youtube_id": "_-KGLCjssb8",
       "title": "Creamy Baked Fettuccine with Chicken & Mushrooms \ud83c\udf5d",
       "tiktok_views": 4892,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/_-KGLCjssb8/hqdefault.jpg",
@@ -3055,7 +3055,7 @@
       "youtube_id": "XwmzmOvUmSw",
       "title": "Cheesy Pull-Apart Croissant Ring with Creamy Garlic Cheese Dip \ud83e\udd50\ud83e\uddc0",
       "tiktok_views": 5747,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XwmzmOvUmSw/hqdefault.jpg",
@@ -3069,7 +3069,7 @@
       "youtube_id": "lhJli_ZTatY",
       "title": "The Secret to Soft & Cheesy Cabbage Pancakes \u2728",
       "tiktok_views": 5792,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lhJli_ZTatY/hqdefault.jpg",
@@ -3251,7 +3251,7 @@
       "youtube_id": "G4s5E6jDS3Y",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/G4s5E6jDS3Y/hqdefault.jpg",
@@ -3307,7 +3307,7 @@
       "youtube_id": "lmU5-T_OTrA",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
@@ -3643,7 +3643,7 @@
       "youtube_id": "GD0BImcT-b8",
       "title": "Cheesy Stuffed Meat with Creamy Potato Salad \u2728",
       "tiktok_views": 20800,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/GD0BImcT-b8/hqdefault.jpg",
@@ -4049,7 +4049,7 @@
       "youtube_id": "CVWeFv92x2o",
       "title": "Caramel Banana Oreo Roll Cake \ud83c\udf4c\u2728",
       "tiktok_views": 10700,
-      "youtube_views": 10,
+      "youtube_views": 13,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CVWeFv92x2o/hqdefault.jpg",
@@ -4563,7 +4563,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 157,
-    "total_views": 775,
+    "total_views": 778,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5285,8 +5285,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 430,
-    "total_views": 140543,
+    "total_uploads": 431,
+    "total_views": 140548,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5518,5 +5518,5 @@
       "created_at": "2026-10-31T02:40:19.564940+00:00"
     }
   ],
-  "last_updated": "2026-11-06T08:53:07.061013+00:00"
+  "last_updated": "2026-11-06T21:22:41.733217+00:00"
 }
