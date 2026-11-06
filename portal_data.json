@@ -115,90 +115,90 @@
     {
       "date": "2026-10-27",
       "ch1_views": 14,
-      "ch2_views": 16,
+      "ch2_views": 14,
       "ch3_views": 35,
       "ch4_views": 0,
-      "total_views": 65
+      "total_views": 63
     },
     {
       "date": "2026-10-28",
       "ch1_views": 15,
-      "ch2_views": 25,
+      "ch2_views": 23,
       "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 93
+      "total_views": 91
     },
     {
       "date": "2026-10-29",
       "ch1_views": 20,
-      "ch2_views": 45,
+      "ch2_views": 43,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 132
+      "total_views": 130
     },
     {
       "date": "2026-10-30",
       "ch1_views": 35,
-      "ch2_views": 59,
+      "ch2_views": 57,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 179
+      "total_views": 177
     },
     {
       "date": "2026-10-31",
       "ch1_views": 40,
-      "ch2_views": 68,
+      "ch2_views": 66,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 216
+      "total_views": 214
     },
     {
       "date": "2026-11-01",
       "ch1_views": 64,
-      "ch2_views": 81,
+      "ch2_views": 79,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 293
+      "total_views": 291
     },
     {
       "date": "2026-11-02",
       "ch1_views": 64,
-      "ch2_views": 98,
+      "ch2_views": 96,
       "ch3_views": 164,
       "ch4_views": 0,
-      "total_views": 326
+      "total_views": 324
     },
     {
       "date": "2026-11-03",
       "ch1_views": 69,
-      "ch2_views": 109,
+      "ch2_views": 107,
       "ch3_views": 168,
       "ch4_views": 0,
-      "total_views": 346
+      "total_views": 344
     },
     {
       "date": "2026-11-04",
       "ch1_views": 71,
-      "ch2_views": 117,
+      "ch2_views": 115,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 188
+      "total_views": 186
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 117,
+      "ch2_views": 115,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 117
+      "total_views": 115
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 119,
+      "ch2_views": 116,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 119
+      "total_views": 116
     }
   ],
   "channels": {
@@ -986,72 +986,86 @@
       "view_history": [
         {
           "date": "2026-10-27",
-          "views": 16,
-          "uploads": 3,
-          "cumulative_views": 16
+          "views": 14,
+          "uploads": 2,
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-28",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 25
+          "cumulative_views": 23
         },
         {
           "date": "2026-10-29",
           "views": 20,
           "uploads": 3,
-          "cumulative_views": 45
+          "cumulative_views": 43
         },
         {
           "date": "2026-10-30",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 59
+          "cumulative_views": 57
         },
         {
           "date": "2026-10-31",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 68
+          "cumulative_views": 66
         },
         {
           "date": "2026-11-01",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 81
+          "cumulative_views": 79
         },
         {
           "date": "2026-11-02",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 98
+          "cumulative_views": 96
         },
         {
           "date": "2026-11-03",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 109
+          "cumulative_views": 107
         },
         {
           "date": "2026-11-04",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 117
+          "cumulative_views": 115
         },
         {
           "date": "2026-11-05",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 117
+          "cumulative_views": 115
         },
         {
           "date": "2026-11-06",
-          "views": 2,
-          "uploads": 1,
-          "cumulative_views": 119
+          "views": 1,
+          "uploads": 2,
+          "cumulative_views": 116
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7656889360964472077",
+          "youtube_id": "cFMap834578",
+          "title": "The Secret to the Softest Nutella Chocolate Loaf Cake \u2728",
+          "tiktok_views": 5526,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/cFMap834578/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-06T07:46:59Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1059,7 +1073,7 @@
           "youtube_id": "g7jkjFvOb44",
           "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
           "tiktok_views": 5724,
-          "youtube_views": 2,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -1457,20 +1471,6 @@
           "thumbnail": "https://i.ytimg.com/vi/CVWeFv92x2o/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-27T06:18:04Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7647693233996303629",
-          "youtube_id": "8FuHOr7V-q0",
-          "title": "Crispy Parmesan Chicken That\u2019s Impossible to Resist \u2728",
-          "tiktok_views": 11000,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/8FuHOr7V-q0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-27T01:33:10Z"
         }
       ],
       "runs": [
@@ -2212,6 +2212,16 @@
       ],
       "runs": [
         {
+          "id": 137,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-11-06",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-06T07:54:38.166247+00:00"
+        },
+        {
           "id": 136,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2400,16 +2410,6 @@
           "video_id": "JsH7v8xA7a8",
           "error_message": null,
           "created_at": "2026-10-31T01:36:44.050532+00:00"
-        },
-        {
-          "id": 117,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-30",
-          "status": "success",
-          "video_id": "QmtohsyN-7c",
-          "error_message": null,
-          "created_at": "2026-10-30T21:28:38.573461+00:00"
         }
       ]
     },
@@ -3009,11 +3009,25 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7656889360964472077",
+      "youtube_id": "cFMap834578",
+      "title": "The Secret to the Softest Nutella Chocolate Loaf Cake \u2728",
+      "tiktok_views": 5526,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/cFMap834578/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-06T07:46:59Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7656142221250448653",
       "youtube_id": "g7jkjFvOb44",
       "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
       "tiktok_views": 5724,
-      "youtube_views": 2,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -4083,20 +4097,6 @@
       "thumbnail": "https://i.ytimg.com/vi/A6oak1RD_oE/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-27T01:57:47Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7647693233996303629",
-      "youtube_id": "8FuHOr7V-q0",
-      "title": "Crispy Parmesan Chicken That\u2019s Impossible to Resist \u2728",
-      "tiktok_views": 11000,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/8FuHOr7V-q0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-27T01:33:10Z"
     },
     {
       "channel_id": "channel_3",
@@ -5518,5 +5518,5 @@
       "created_at": "2026-10-30T21:26:29.633528+00:00"
     }
   ],
-  "last_updated": "2026-11-06T07:46:13.335283+00:00"
+  "last_updated": "2026-11-06T07:54:42.870775+00:00"
 }
