@@ -107,90 +107,98 @@
     {
       "date": "2026-10-26",
       "ch1_views": 10,
-      "ch2_views": 13,
+      "ch2_views": 0,
       "ch3_views": 22,
       "ch4_views": 0,
-      "total_views": 45
+      "total_views": 32
     },
     {
       "date": "2026-10-27",
       "ch1_views": 14,
-      "ch2_views": 27,
+      "ch2_views": 14,
       "ch3_views": 35,
       "ch4_views": 0,
-      "total_views": 76
+      "total_views": 63
     },
     {
       "date": "2026-10-28",
       "ch1_views": 15,
-      "ch2_views": 36,
+      "ch2_views": 23,
       "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 104
+      "total_views": 91
     },
     {
       "date": "2026-10-29",
       "ch1_views": 20,
-      "ch2_views": 56,
+      "ch2_views": 43,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 143
+      "total_views": 130
     },
     {
       "date": "2026-10-30",
       "ch1_views": 35,
-      "ch2_views": 70,
+      "ch2_views": 57,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 190
+      "total_views": 177
     },
     {
       "date": "2026-10-31",
       "ch1_views": 40,
-      "ch2_views": 79,
+      "ch2_views": 66,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 227
+      "total_views": 214
     },
     {
       "date": "2026-11-01",
       "ch1_views": 61,
-      "ch2_views": 92,
+      "ch2_views": 79,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 301
+      "total_views": 288
     },
     {
       "date": "2026-11-02",
       "ch1_views": 61,
-      "ch2_views": 109,
+      "ch2_views": 96,
       "ch3_views": 164,
       "ch4_views": 0,
-      "total_views": 334
+      "total_views": 321
     },
     {
       "date": "2026-11-03",
       "ch1_views": 66,
-      "ch2_views": 120,
+      "ch2_views": 107,
       "ch3_views": 168,
       "ch4_views": 0,
-      "total_views": 354
+      "total_views": 341
     },
     {
       "date": "2026-11-04",
       "ch1_views": 68,
-      "ch2_views": 127,
+      "ch2_views": 114,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 195
+      "total_views": 182
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 127,
+      "ch2_views": 114,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 127
+      "total_views": 114
+    },
+    {
+      "date": "2026-11-06",
+      "ch1_views": 0,
+      "ch2_views": 114,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 114
     }
   ],
   "channels": {
@@ -977,73 +985,87 @@
       },
       "view_history": [
         {
-          "date": "2026-10-26",
-          "views": 13,
-          "uploads": 1,
-          "cumulative_views": 13
-        },
-        {
           "date": "2026-10-27",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 27
+          "cumulative_views": 14
         },
         {
           "date": "2026-10-28",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 36
+          "cumulative_views": 23
         },
         {
           "date": "2026-10-29",
           "views": 20,
           "uploads": 3,
-          "cumulative_views": 56
+          "cumulative_views": 43
         },
         {
           "date": "2026-10-30",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 70
+          "cumulative_views": 57
         },
         {
           "date": "2026-10-31",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 79
+          "cumulative_views": 66
         },
         {
           "date": "2026-11-01",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 92
+          "cumulative_views": 79
         },
         {
           "date": "2026-11-02",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 109
+          "cumulative_views": 96
         },
         {
           "date": "2026-11-03",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 120
+          "cumulative_views": 107
         },
         {
           "date": "2026-11-04",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 127
+          "cumulative_views": 114
         },
         {
           "date": "2026-11-05",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 127
+          "cumulative_views": 114
+        },
+        {
+          "date": "2026-11-06",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 114
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7656142221250448653",
+          "youtube_id": "g7jkjFvOb44",
+          "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
+          "tiktok_views": 5724,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-06T02:12:02Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1449,20 +1471,6 @@
           "thumbnail": "https://i.ytimg.com/vi/8FuHOr7V-q0/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-27T01:33:10Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7701033129770781966",
-          "youtube_id": "2TZ8anAXE5I",
-          "title": "No-Bake Oreo Strawberry Banana Dessert Roll \ud83c\udf53\ud83c\udf4c",
-          "tiktok_views": 13600,
-          "youtube_views": 13,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/2TZ8anAXE5I/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-26T21:00:45Z"
         }
       ],
       "runs": [
@@ -2204,6 +2212,16 @@
       ],
       "runs": [
         {
+          "id": 136,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-11-06",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-06T02:27:34.547588+00:00"
+        },
+        {
           "id": 135,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2392,16 +2410,6 @@
           "video_id": "QmtohsyN-7c",
           "error_message": null,
           "created_at": "2026-10-30T21:28:38.573461+00:00"
-        },
-        {
-          "id": 116,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-30",
-          "status": "success",
-          "video_id": "V7ByFUim07U",
-          "error_message": null,
-          "created_at": "2026-10-30T07:05:13.959750+00:00"
         }
       ]
     },
@@ -2998,6 +3006,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7656142221250448653",
+      "youtube_id": "g7jkjFvOb44",
+      "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
+      "tiktok_views": 5724,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-06T02:12:02Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -4103,20 +4125,6 @@
       "thumbnail": "https://i.ytimg.com/vi/I2AgncW9XCc/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-26T21:33:14Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7701033129770781966",
-      "youtube_id": "2TZ8anAXE5I",
-      "title": "No-Bake Oreo Strawberry Banana Dessert Roll \ud83c\udf53\ud83c\udf4c",
-      "tiktok_views": 13600,
-      "youtube_views": 13,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/2TZ8anAXE5I/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-26T21:00:45Z"
     },
     {
       "channel_id": "channel_1",
@@ -5510,5 +5518,5 @@
       "created_at": "2026-10-30T08:00:23.373302+00:00"
     }
   ],
-  "last_updated": "2026-11-06T02:11:34.471384+00:00"
+  "last_updated": "2026-11-06T02:27:39.225154+00:00"
 }
