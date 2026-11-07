@@ -123,90 +123,90 @@
     {
       "date": "2026-10-28",
       "ch1_views": 15,
-      "ch2_views": 9,
+      "ch2_views": 2,
       "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 77
+      "total_views": 70
     },
     {
       "date": "2026-10-29",
       "ch1_views": 20,
-      "ch2_views": 29,
+      "ch2_views": 22,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 116
+      "total_views": 109
     },
     {
       "date": "2026-10-30",
       "ch1_views": 35,
-      "ch2_views": 44,
+      "ch2_views": 37,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 164
+      "total_views": 157
     },
     {
       "date": "2026-10-31",
       "ch1_views": 40,
-      "ch2_views": 53,
+      "ch2_views": 46,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 201
+      "total_views": 194
     },
     {
       "date": "2026-11-01",
       "ch1_views": 75,
-      "ch2_views": 66,
+      "ch2_views": 59,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 289
+      "total_views": 282
     },
     {
       "date": "2026-11-02",
       "ch1_views": 75,
-      "ch2_views": 84,
+      "ch2_views": 77,
       "ch3_views": 169,
       "ch4_views": 0,
-      "total_views": 328
+      "total_views": 321
     },
     {
       "date": "2026-11-03",
       "ch1_views": 81,
-      "ch2_views": 96,
+      "ch2_views": 89,
       "ch3_views": 174,
       "ch4_views": 0,
-      "total_views": 351
+      "total_views": 344
     },
     {
       "date": "2026-11-04",
       "ch1_views": 83,
-      "ch2_views": 104,
+      "ch2_views": 97,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 187
+      "total_views": 180
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 111,
+      "ch2_views": 104,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 111
+      "total_views": 104
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 139,
+      "ch2_views": 135,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 139
+      "total_views": 135
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 144,
+      "ch2_views": 140,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 144
+      "total_views": 140
     }
   ],
   "channels": {
@@ -746,6 +746,16 @@
       ],
       "runs": [
         {
+          "id": 176,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-11-07",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-07T20:46:07.855883+00:00"
+        },
+        {
           "id": 175,
           "channel_id": "channel_1",
           "slot": 3,
@@ -934,16 +944,6 @@
           "video_id": "TzwyYFLz8_U",
           "error_message": null,
           "created_at": "2026-11-01T08:38:39.338368+00:00"
-        },
-        {
-          "id": 156,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-11-01",
-          "status": "success",
-          "video_id": "uJxdg2N6Uhg",
-          "error_message": null,
-          "created_at": "2026-11-01T02:28:21.961721+00:00"
         }
       ]
     },
@@ -994,72 +994,86 @@
       "view_history": [
         {
           "date": "2026-10-28",
-          "views": 9,
-          "uploads": 2,
-          "cumulative_views": 9
+          "views": 2,
+          "uploads": 1,
+          "cumulative_views": 2
         },
         {
           "date": "2026-10-29",
           "views": 20,
           "uploads": 3,
-          "cumulative_views": 29
+          "cumulative_views": 22
         },
         {
           "date": "2026-10-30",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 44
+          "cumulative_views": 37
         },
         {
           "date": "2026-10-31",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 53
+          "cumulative_views": 46
         },
         {
           "date": "2026-11-01",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 66
+          "cumulative_views": 59
         },
         {
           "date": "2026-11-02",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 84
+          "cumulative_views": 77
         },
         {
           "date": "2026-11-03",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 96
+          "cumulative_views": 89
         },
         {
           "date": "2026-11-04",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 104
+          "cumulative_views": 97
         },
         {
           "date": "2026-11-05",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 111
+          "cumulative_views": 104
         },
         {
           "date": "2026-11-06",
-          "views": 28,
+          "views": 31,
           "uploads": 3,
-          "cumulative_views": 139
+          "cumulative_views": 135
         },
         {
           "date": "2026-11-07",
           "views": 5,
-          "uploads": 2,
-          "cumulative_views": 144
+          "uploads": 3,
+          "cumulative_views": 140
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7705488376232774926",
+          "youtube_id": "ySbnVCFnBR8",
+          "title": "Crispy Parmesan Potatoes with Creamy Garlic Sauce \u2728",
+          "tiktok_views": 3164,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/ySbnVCFnBR8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-07T19:57:26Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1109,7 +1123,7 @@
           "youtube_id": "cFMap834578",
           "title": "The Secret to the Softest Nutella Chocolate Loaf Cake \u2728",
           "tiktok_views": 5526,
-          "youtube_views": 11,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cFMap834578/hqdefault.jpg",
@@ -1465,20 +1479,6 @@
           "thumbnail": "https://i.ytimg.com/vi/uYpvxi_VgBw/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-28T21:00:26Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7668763444560055565",
-          "youtube_id": "nUlvHOdp9-U",
-          "title": "No Bake chocolate Caramel cake that's Melt in Your Mouth \u2728",
-          "tiktok_views": 9929,
-          "youtube_views": 7,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/nUlvHOdp9-U/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-28T06:55:39Z"
         }
       ],
       "runs": [
@@ -3017,6 +3017,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7705488376232774926",
+      "youtube_id": "ySbnVCFnBR8",
+      "title": "Crispy Parmesan Potatoes with Creamy Garlic Sauce \u2728",
+      "tiktok_views": 3164,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/ySbnVCFnBR8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-07T19:57:26Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7656143777861471502",
       "youtube_id": "KiVMWMqm6DI",
       "title": "No-Bake Oreo Caramel Banana Roll | The Easiest Dessert You'll Ever Ma \u2728",
@@ -3063,7 +3077,7 @@
       "youtube_id": "cFMap834578",
       "title": "The Secret to the Softest Nutella Chocolate Loaf Cake \u2728",
       "tiktok_views": 5526,
-      "youtube_views": 11,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cFMap834578/hqdefault.jpg",
@@ -3965,20 +3979,6 @@
       "thumbnail": "https://i.ytimg.com/vi/2BTOUgwmqH8/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-28T07:52:59Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7668763444560055565",
-      "youtube_id": "nUlvHOdp9-U",
-      "title": "No Bake chocolate Caramel cake that's Melt in Your Mouth \u2728",
-      "tiktok_views": 9929,
-      "youtube_views": 7,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/nUlvHOdp9-U/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-28T06:55:39Z"
     },
     {
       "channel_id": "channel_3",
@@ -5091,6 +5091,16 @@
     ],
     "runs": [
       {
+        "id": 176,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-11-07",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-07T20:46:07.855883+00:00"
+      },
+      {
         "id": 175,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5279,16 +5289,6 @@
         "video_id": "TzwyYFLz8_U",
         "error_message": null,
         "created_at": "2026-11-01T08:38:39.338368+00:00"
-      },
-      {
-        "id": 156,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-11-01",
-        "status": "success",
-        "video_id": "uJxdg2N6Uhg",
-        "error_message": null,
-        "created_at": "2026-11-01T02:28:21.961721+00:00"
       }
     ]
   },
@@ -5325,6 +5325,16 @@
     }
   },
   "runs": [
+    {
+      "id": 176,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-11-07",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-07T20:46:07.855883+00:00"
+    },
     {
       "id": 175,
       "channel_id": "channel_1",
@@ -5514,17 +5524,7 @@
       "video_id": "TzwyYFLz8_U",
       "error_message": null,
       "created_at": "2026-11-01T08:38:39.338368+00:00"
-    },
-    {
-      "id": 156,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-11-01",
-      "status": "success",
-      "video_id": "uJxdg2N6Uhg",
-      "error_message": null,
-      "created_at": "2026-11-01T02:28:21.961721+00:00"
     }
   ],
-  "last_updated": "2026-11-07T19:56:57.997618+00:00"
+  "last_updated": "2026-11-07T20:46:12.540072+00:00"
 }
