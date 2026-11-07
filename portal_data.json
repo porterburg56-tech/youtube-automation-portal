@@ -115,90 +115,98 @@
     {
       "date": "2026-10-27",
       "ch1_views": 14,
-      "ch2_views": 4,
+      "ch2_views": 0,
       "ch3_views": 35,
       "ch4_views": 0,
-      "total_views": 53
+      "total_views": 49
     },
     {
       "date": "2026-10-28",
       "ch1_views": 15,
-      "ch2_views": 13,
+      "ch2_views": 9,
       "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 81
+      "total_views": 77
     },
     {
       "date": "2026-10-29",
       "ch1_views": 20,
-      "ch2_views": 33,
+      "ch2_views": 29,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 120
+      "total_views": 116
     },
     {
       "date": "2026-10-30",
       "ch1_views": 35,
-      "ch2_views": 48,
+      "ch2_views": 44,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 168
+      "total_views": 164
     },
     {
       "date": "2026-10-31",
       "ch1_views": 40,
-      "ch2_views": 57,
+      "ch2_views": 53,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 205
+      "total_views": 201
     },
     {
       "date": "2026-11-01",
       "ch1_views": 64,
-      "ch2_views": 70,
+      "ch2_views": 66,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 282
+      "total_views": 278
     },
     {
       "date": "2026-11-02",
       "ch1_views": 64,
-      "ch2_views": 87,
+      "ch2_views": 83,
       "ch3_views": 168,
       "ch4_views": 0,
-      "total_views": 319
+      "total_views": 315
     },
     {
       "date": "2026-11-03",
       "ch1_views": 70,
-      "ch2_views": 98,
+      "ch2_views": 94,
       "ch3_views": 172,
       "ch4_views": 0,
-      "total_views": 340
+      "total_views": 336
     },
     {
       "date": "2026-11-04",
       "ch1_views": 72,
-      "ch2_views": 106,
+      "ch2_views": 102,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 178
+      "total_views": 174
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 112,
+      "ch2_views": 107,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 112
+      "total_views": 107
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 138,
+      "ch2_views": 132,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 138
+      "total_views": 132
+    },
+    {
+      "date": "2026-11-07",
+      "ch1_views": 0,
+      "ch2_views": 132,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 132
     }
   ],
   "channels": {
@@ -985,73 +993,87 @@
       },
       "view_history": [
         {
-          "date": "2026-10-27",
-          "views": 4,
-          "uploads": 1,
-          "cumulative_views": 4
-        },
-        {
           "date": "2026-10-28",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 9
         },
         {
           "date": "2026-10-29",
           "views": 20,
           "uploads": 3,
-          "cumulative_views": 33
+          "cumulative_views": 29
         },
         {
           "date": "2026-10-30",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 48
+          "cumulative_views": 44
         },
         {
           "date": "2026-10-31",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 57
+          "cumulative_views": 53
         },
         {
           "date": "2026-11-01",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 70
+          "cumulative_views": 66
         },
         {
           "date": "2026-11-02",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 87
+          "cumulative_views": 83
         },
         {
           "date": "2026-11-03",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 98
+          "cumulative_views": 94
         },
         {
           "date": "2026-11-04",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 106
+          "cumulative_views": 102
         },
         {
           "date": "2026-11-05",
-          "views": 6,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 112
+          "cumulative_views": 107
         },
         {
           "date": "2026-11-06",
-          "views": 26,
+          "views": 25,
           "uploads": 3,
-          "cumulative_views": 138
+          "cumulative_views": 132
+        },
+        {
+          "date": "2026-11-07",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 132
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7650945551256669453",
+          "youtube_id": "DpBN5-bxa50",
+          "title": "The Secret to Perfectly Juicy Rosemary Lemon Chicken \ud83c\udf4b\ud83c\udf57",
+          "tiktok_views": 4815,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/DpBN5-bxa50/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-07T01:54:55Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1087,7 +1109,7 @@
           "youtube_id": "g7jkjFvOb44",
           "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
           "tiktok_views": 5724,
-          "youtube_views": 14,
+          "youtube_views": 13,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -1115,7 +1137,7 @@
           "youtube_id": "XwmzmOvUmSw",
           "title": "Cheesy Pull-Apart Croissant Ring with Creamy Garlic Cheese Dip \ud83e\udd50\ud83e\uddc0",
           "tiktok_views": 5747,
-          "youtube_views": 4,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XwmzmOvUmSw/hqdefault.jpg",
@@ -1457,20 +1479,6 @@
           "thumbnail": "https://i.ytimg.com/vi/LdGb9bIV6sQ/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-28T01:22:01Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7701417855341923598",
-          "youtube_id": "zLTAOL7vgh4",
-          "title": "Chocolate Caramel Stuffed Baked Apples \ud83c\udf4e",
-          "tiktok_views": 4199,
-          "youtube_views": 4,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/zLTAOL7vgh4/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-27T20:38:46Z"
         }
       ],
       "runs": [
@@ -2212,6 +2220,16 @@
       ],
       "runs": [
         {
+          "id": 139,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-11-07",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-07T01:56:17.079478+00:00"
+        },
+        {
           "id": 138,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2400,16 +2418,6 @@
           "video_id": "dlK2wGNAJGc",
           "error_message": null,
           "created_at": "2026-10-31T20:27:23.562882+00:00"
-        },
-        {
-          "id": 119,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-10-31",
-          "status": "success",
-          "video_id": "Ok5wftBEbIs",
-          "error_message": null,
-          "created_at": "2026-10-31T06:58:08.002681+00:00"
         }
       ]
     },
@@ -3009,6 +3017,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7650945551256669453",
+      "youtube_id": "DpBN5-bxa50",
+      "title": "The Secret to Perfectly Juicy Rosemary Lemon Chicken \ud83c\udf4b\ud83c\udf57",
+      "tiktok_views": 4815,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/DpBN5-bxa50/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-07T01:54:55Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7705115632647376141",
       "youtube_id": "7VkCTL_WD94",
       "title": "Cheesy Stuffed Cabbage Meatballs \u2728",
@@ -3041,7 +3063,7 @@
       "youtube_id": "g7jkjFvOb44",
       "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
       "tiktok_views": 5724,
-      "youtube_views": 14,
+      "youtube_views": 13,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -3069,7 +3091,7 @@
       "youtube_id": "XwmzmOvUmSw",
       "title": "Cheesy Pull-Apart Croissant Ring with Creamy Garlic Cheese Dip \ud83e\udd50\ud83e\uddc0",
       "tiktok_views": 5747,
-      "youtube_views": 4,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XwmzmOvUmSw/hqdefault.jpg",
@@ -4027,20 +4049,6 @@
       "thumbnail": "https://i.ytimg.com/vi/cE2Ln6Wt4T0/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-27T21:13:21Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7701417855341923598",
-      "youtube_id": "zLTAOL7vgh4",
-      "title": "Chocolate Caramel Stuffed Baked Apples \ud83c\udf4e",
-      "tiktok_views": 4199,
-      "youtube_views": 4,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/zLTAOL7vgh4/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-27T20:38:46Z"
     },
     {
       "channel_id": "channel_1",
@@ -5518,5 +5526,5 @@
       "created_at": "2026-10-31T07:56:34.312996+00:00"
     }
   ],
-  "last_updated": "2026-11-07T01:53:40.422449+00:00"
+  "last_updated": "2026-11-07T01:56:21.425558+00:00"
 }
