@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 433,
-    "total_views": 140563,
+    "total_views": 140602,
     "total_likes": 16,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -203,10 +203,10 @@
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 136,
+      "ch2_views": 138,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 136
+      "total_views": 138
     }
   ],
   "channels": {
@@ -963,7 +963,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
       "total_uploads": 152,
-      "total_views": 1620,
+      "total_views": 1659,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -995,7 +995,7 @@
         {
           "date": "2026-10-28",
           "views": 9,
-          "uploads": 3,
+          "uploads": 2,
           "cumulative_views": 9
         },
         {
@@ -1054,12 +1054,26 @@
         },
         {
           "date": "2026-11-07",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 136
+          "views": 2,
+          "uploads": 2,
+          "cumulative_views": 138
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7656143777861471502",
+          "youtube_id": "KiVMWMqm6DI",
+          "title": "No-Bake Oreo Caramel Banana Roll | The Easiest Dessert You'll Ever Ma \u2728",
+          "tiktok_views": 4786,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/KiVMWMqm6DI/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-07T07:01:00Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1067,7 +1081,7 @@
           "youtube_id": "DpBN5-bxa50",
           "title": "The Secret to Perfectly Juicy Rosemary Lemon Chicken \ud83c\udf4b\ud83c\udf57",
           "tiktok_views": 4815,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/DpBN5-bxa50/hqdefault.jpg",
@@ -1465,20 +1479,6 @@
           "thumbnail": "https://i.ytimg.com/vi/nUlvHOdp9-U/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-28T06:55:39Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7664295516125105421",
-          "youtube_id": "LdGb9bIV6sQ",
-          "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
-          "tiktok_views": 10400,
-          "youtube_views": 0,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/LdGb9bIV6sQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-28T01:22:01Z"
         }
       ],
       "runs": [
@@ -2220,6 +2220,16 @@
       ],
       "runs": [
         {
+          "id": 140,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-11-07",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-07T07:04:52.162831+00:00"
+        },
+        {
           "id": 139,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2408,16 +2418,6 @@
           "video_id": "q-W7Xa93rm4",
           "error_message": null,
           "created_at": "2026-11-01T01:11:06.290506+00:00"
-        },
-        {
-          "id": 120,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-10-31",
-          "status": "success",
-          "video_id": "dlK2wGNAJGc",
-          "error_message": null,
-          "created_at": "2026-10-31T20:27:23.562882+00:00"
         }
       ]
     },
@@ -3017,11 +3017,25 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7656143777861471502",
+      "youtube_id": "KiVMWMqm6DI",
+      "title": "No-Bake Oreo Caramel Banana Roll | The Easiest Dessert You'll Ever Ma \u2728",
+      "tiktok_views": 4786,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/KiVMWMqm6DI/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-07T07:01:00Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7650945551256669453",
       "youtube_id": "DpBN5-bxa50",
       "title": "The Secret to Perfectly Juicy Rosemary Lemon Chicken \ud83c\udf4b\ud83c\udf57",
       "tiktok_views": 4815,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/DpBN5-bxa50/hqdefault.jpg",
@@ -4007,20 +4021,6 @@
       "thumbnail": "https://i.ytimg.com/vi/VH02Fabt7qI/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-28T01:23:26Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7664295516125105421",
-      "youtube_id": "LdGb9bIV6sQ",
-      "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
-      "tiktok_views": 10400,
-      "youtube_views": 0,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/LdGb9bIV6sQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-28T01:22:01Z"
     },
     {
       "channel_id": "channel_3",
@@ -5294,7 +5294,7 @@
   },
   "kpis": {
     "total_uploads": 433,
-    "total_views": 140563,
+    "total_views": 140602,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5526,5 +5526,5 @@
       "created_at": "2026-10-31T20:27:07.920537+00:00"
     }
   ],
-  "last_updated": "2026-11-07T07:00:22.309155+00:00"
+  "last_updated": "2026-11-07T07:04:57.020112+00:00"
 }
