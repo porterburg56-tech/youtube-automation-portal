@@ -187,26 +187,26 @@
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 107,
+      "ch2_views": 108,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 107
+      "total_views": 108
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 132,
+      "ch2_views": 134,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 132
+      "total_views": 134
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 132,
+      "ch2_views": 134,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 132
+      "total_views": 134
     }
   ],
   "channels": {
@@ -1042,21 +1042,21 @@
         },
         {
           "date": "2026-11-05",
-          "views": 5,
+          "views": 6,
           "uploads": 3,
-          "cumulative_views": 107
+          "cumulative_views": 108
         },
         {
           "date": "2026-11-06",
-          "views": 25,
+          "views": 26,
           "uploads": 3,
-          "cumulative_views": 132
+          "cumulative_views": 134
         },
         {
           "date": "2026-11-07",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 132
+          "cumulative_views": 134
         }
       ],
       "videos": [
@@ -1109,7 +1109,7 @@
           "youtube_id": "g7jkjFvOb44",
           "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
           "tiktok_views": 5724,
-          "youtube_views": 13,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -1137,7 +1137,7 @@
           "youtube_id": "XwmzmOvUmSw",
           "title": "Cheesy Pull-Apart Croissant Ring with Creamy Garlic Cheese Dip \ud83e\udd50\ud83e\uddc0",
           "tiktok_views": 5747,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XwmzmOvUmSw/hqdefault.jpg",
@@ -2811,6 +2811,16 @@
       ],
       "runs": [
         {
+          "id": 132,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-11-07",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-07T02:04:23.019814+00:00"
+        },
+        {
           "id": 131,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2999,16 +3009,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-10-31T20:37:08.252979+00:00"
-        },
-        {
-          "id": 112,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-10-31",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-10-31T07:09:09.562364+00:00"
         }
       ]
     }
@@ -3063,7 +3063,7 @@
       "youtube_id": "g7jkjFvOb44",
       "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
       "tiktok_views": 5724,
-      "youtube_views": 13,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -3091,7 +3091,7 @@
       "youtube_id": "XwmzmOvUmSw",
       "title": "Cheesy Pull-Apart Croissant Ring with Creamy Garlic Cheese Dip \ud83e\udd50\ud83e\uddc0",
       "tiktok_views": 5747,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XwmzmOvUmSw/hqdefault.jpg",
@@ -5526,5 +5526,5 @@
       "created_at": "2026-10-31T07:56:34.312996+00:00"
     }
   ],
-  "last_updated": "2026-11-07T01:56:21.425558+00:00"
+  "last_updated": "2026-11-07T02:04:27.509551+00:00"
 }
