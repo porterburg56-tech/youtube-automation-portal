@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 431,
+    "total_uploads": 432,
     "total_views": 140557,
     "total_likes": 16,
     "total_subscribers": 89,
@@ -164,17 +164,17 @@
       "date": "2026-11-02",
       "ch1_views": 64,
       "ch2_views": 87,
-      "ch3_views": 167,
+      "ch3_views": 168,
       "ch4_views": 0,
-      "total_views": 318
+      "total_views": 319
     },
     {
       "date": "2026-11-03",
       "ch1_views": 70,
       "ch2_views": 98,
-      "ch3_views": 171,
+      "ch3_views": 172,
       "ch4_views": 0,
-      "total_views": 339
+      "total_views": 340
     },
     {
       "date": "2026-11-04",
@@ -187,18 +187,18 @@
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 111,
+      "ch2_views": 112,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 111
+      "total_views": 112
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 135,
+      "ch2_views": 138,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 135
+      "total_views": 138
     }
   ],
   "channels": {
@@ -954,7 +954,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
-      "total_uploads": 150,
+      "total_uploads": 151,
       "total_views": 1620,
       "total_likes": 1,
       "upcoming": {
@@ -1040,15 +1040,15 @@
         },
         {
           "date": "2026-11-05",
-          "views": 5,
+          "views": 6,
           "uploads": 3,
-          "cumulative_views": 111
+          "cumulative_views": 112
         },
         {
           "date": "2026-11-06",
-          "views": 24,
+          "views": 26,
           "uploads": 3,
-          "cumulative_views": 135
+          "cumulative_views": 138
         }
       ],
       "videos": [
@@ -1087,7 +1087,7 @@
           "youtube_id": "g7jkjFvOb44",
           "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
           "tiktok_views": 5724,
-          "youtube_views": 12,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -1115,7 +1115,7 @@
           "youtube_id": "XwmzmOvUmSw",
           "title": "Cheesy Pull-Apart Croissant Ring with Creamy Garlic Cheese Dip \ud83e\udd50\ud83e\uddc0",
           "tiktok_views": 5747,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/XwmzmOvUmSw/hqdefault.jpg",
@@ -1475,6 +1475,16 @@
       ],
       "runs": [
         {
+          "id": 182,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-11-07",
+          "status": "success",
+          "video_id": "DpBN5-bxa50",
+          "error_message": null,
+          "created_at": "2026-11-07T01:53:35.838699+00:00"
+        },
+        {
           "id": 181,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1663,16 +1673,6 @@
           "video_id": null,
           "error_message": "Dubbing exception for 7647319070974512398: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmp71krm5i9/retimed_video_only.mp4', '-i', '/tmp/tmp71krm5i9/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7647319070974512398_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
           "created_at": "2026-11-01T07:27:40.929343+00:00"
-        },
-        {
-          "id": 162,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-11-01",
-          "status": "success",
-          "video_id": "fPyoKX9Mi5I",
-          "error_message": null,
-          "created_at": "2026-11-01T01:09:46.250003+00:00"
         }
       ]
     },
@@ -1777,15 +1777,15 @@
         },
         {
           "date": "2026-11-02",
-          "views": 19,
+          "views": 20,
           "uploads": 3,
-          "cumulative_views": 167
+          "cumulative_views": 168
         },
         {
           "date": "2026-11-03",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 171
+          "cumulative_views": 172
         }
       ],
       "videos": [
@@ -1824,7 +1824,7 @@
           "youtube_id": "lmU5-T_OTrA",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 9,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
@@ -3041,7 +3041,7 @@
       "youtube_id": "g7jkjFvOb44",
       "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
       "tiktok_views": 5724,
-      "youtube_views": 12,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -3069,7 +3069,7 @@
       "youtube_id": "XwmzmOvUmSw",
       "title": "Cheesy Pull-Apart Croissant Ring with Creamy Garlic Cheese Dip \ud83e\udd50\ud83e\uddc0",
       "tiktok_views": 5747,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/XwmzmOvUmSw/hqdefault.jpg",
@@ -3321,7 +3321,7 @@
       "youtube_id": "lmU5-T_OTrA",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 9,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
@@ -5285,7 +5285,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 431,
+    "total_uploads": 432,
     "total_views": 140557,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5518,5 +5518,5 @@
       "created_at": "2026-10-31T07:56:34.312996+00:00"
     }
   ],
-  "last_updated": "2026-11-06T22:16:22.516545+00:00"
+  "last_updated": "2026-11-07T01:53:40.422449+00:00"
 }
