@@ -195,26 +195,26 @@
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 133,
+      "ch2_views": 134,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 133
+      "total_views": 134
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 141,
+      "ch2_views": 142,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 141
+      "total_views": 142
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 141,
+      "ch2_views": 142,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 141
+      "total_views": 142
     }
   ],
   "channels": {
@@ -754,6 +754,16 @@
       ],
       "runs": [
         {
+          "id": 178,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-11-08",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-08T08:29:54.074522+00:00"
+        },
+        {
           "id": 177,
           "channel_id": "channel_1",
           "slot": 2,
@@ -942,16 +952,6 @@
           "video_id": "emIoKA1_kXk",
           "error_message": null,
           "created_at": "2026-11-02T02:42:34.492291+00:00"
-        },
-        {
-          "id": 158,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-11-01",
-          "status": "success",
-          "video_id": "ILbjHmjgutE",
-          "error_message": null,
-          "created_at": "2026-11-01T21:04:29.817742+00:00"
         }
       ]
     },
@@ -1050,21 +1050,21 @@
         },
         {
           "date": "2026-11-06",
-          "views": 35,
+          "views": 36,
           "uploads": 3,
-          "cumulative_views": 133
+          "cumulative_views": 134
         },
         {
           "date": "2026-11-07",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 141
+          "cumulative_views": 142
         },
         {
           "date": "2026-11-08",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 141
+          "cumulative_views": 142
         }
       ],
       "videos": [
@@ -1159,7 +1159,7 @@
           "youtube_id": "cFMap834578",
           "title": "The Secret to the Softest Nutella Chocolate Loaf Cake \u2728",
           "tiktok_views": 5526,
-          "youtube_views": 16,
+          "youtube_views": 17,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cFMap834578/hqdefault.jpg",
@@ -3113,7 +3113,7 @@
       "youtube_id": "cFMap834578",
       "title": "The Secret to the Softest Nutella Chocolate Loaf Cake \u2728",
       "tiktok_views": 5526,
-      "youtube_views": 16,
+      "youtube_views": 17,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cFMap834578/hqdefault.jpg",
@@ -5099,6 +5099,16 @@
     ],
     "runs": [
       {
+        "id": 178,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-11-08",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-08T08:29:54.074522+00:00"
+      },
+      {
         "id": 177,
         "channel_id": "channel_1",
         "slot": 2,
@@ -5287,16 +5297,6 @@
         "video_id": "emIoKA1_kXk",
         "error_message": null,
         "created_at": "2026-11-02T02:42:34.492291+00:00"
-      },
-      {
-        "id": 158,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-11-01",
-        "status": "success",
-        "video_id": "ILbjHmjgutE",
-        "error_message": null,
-        "created_at": "2026-11-01T21:04:29.817742+00:00"
       }
     ]
   },
@@ -5333,6 +5333,16 @@
     }
   },
   "runs": [
+    {
+      "id": 178,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-11-08",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-08T08:29:54.074522+00:00"
+    },
     {
       "id": 177,
       "channel_id": "channel_1",
@@ -5522,17 +5532,7 @@
       "video_id": "emIoKA1_kXk",
       "error_message": null,
       "created_at": "2026-11-02T02:42:34.492291+00:00"
-    },
-    {
-      "id": 158,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-11-01",
-      "status": "success",
-      "video_id": "ILbjHmjgutE",
-      "error_message": null,
-      "created_at": "2026-11-01T21:04:29.817742+00:00"
     }
   ],
-  "last_updated": "2026-11-08T07:35:01.166528+00:00"
+  "last_updated": "2026-11-08T08:29:57.782248+00:00"
 }
