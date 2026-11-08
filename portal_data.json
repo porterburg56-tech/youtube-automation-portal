@@ -123,90 +123,98 @@
     {
       "date": "2026-10-28",
       "ch1_views": 15,
-      "ch2_views": 2,
+      "ch2_views": 0,
       "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 70
+      "total_views": 68
     },
     {
       "date": "2026-10-29",
       "ch1_views": 20,
-      "ch2_views": 22,
+      "ch2_views": 20,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 109
+      "total_views": 107
     },
     {
       "date": "2026-10-30",
       "ch1_views": 35,
-      "ch2_views": 37,
+      "ch2_views": 35,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 157
+      "total_views": 155
     },
     {
       "date": "2026-10-31",
       "ch1_views": 40,
-      "ch2_views": 46,
+      "ch2_views": 44,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 194
+      "total_views": 192
     },
     {
       "date": "2026-11-01",
       "ch1_views": 75,
-      "ch2_views": 59,
+      "ch2_views": 57,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 282
+      "total_views": 280
     },
     {
       "date": "2026-11-02",
       "ch1_views": 75,
-      "ch2_views": 77,
+      "ch2_views": 75,
       "ch3_views": 169,
       "ch4_views": 0,
-      "total_views": 321
+      "total_views": 319
     },
     {
       "date": "2026-11-03",
       "ch1_views": 81,
-      "ch2_views": 89,
+      "ch2_views": 87,
       "ch3_views": 174,
       "ch4_views": 0,
-      "total_views": 344
+      "total_views": 342
     },
     {
       "date": "2026-11-04",
       "ch1_views": 83,
-      "ch2_views": 97,
+      "ch2_views": 95,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 180
+      "total_views": 178
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 104,
+      "ch2_views": 102,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 104
+      "total_views": 102
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 138,
+      "ch2_views": 136,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 138
+      "total_views": 136
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 144,
+      "ch2_views": 142,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 144
+      "total_views": 142
+    },
+    {
+      "date": "2026-11-08",
+      "ch1_views": 0,
+      "ch2_views": 142,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 142
     }
   ],
   "channels": {
@@ -993,73 +1001,87 @@
       },
       "view_history": [
         {
-          "date": "2026-10-28",
-          "views": 2,
-          "uploads": 1,
-          "cumulative_views": 2
-        },
-        {
           "date": "2026-10-29",
           "views": 20,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 20
         },
         {
           "date": "2026-10-30",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 37
+          "cumulative_views": 35
         },
         {
           "date": "2026-10-31",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 46
+          "cumulative_views": 44
         },
         {
           "date": "2026-11-01",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 59
+          "cumulative_views": 57
         },
         {
           "date": "2026-11-02",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 77
+          "cumulative_views": 75
         },
         {
           "date": "2026-11-03",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 89
+          "cumulative_views": 87
         },
         {
           "date": "2026-11-04",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 97
+          "cumulative_views": 95
         },
         {
           "date": "2026-11-05",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 104
+          "cumulative_views": 102
         },
         {
           "date": "2026-11-06",
           "views": 34,
           "uploads": 3,
-          "cumulative_views": 138
+          "cumulative_views": 136
         },
         {
           "date": "2026-11-07",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 144
+          "cumulative_views": 142
+        },
+        {
+          "date": "2026-11-08",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 142
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7653937388305108237",
+          "youtube_id": "pfTj7_RcPdw",
+          "title": "Taste & Tales \u2728",
+          "tiktok_views": 4777,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/pfTj7_RcPdw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-08T01:32:04Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1465,20 +1487,6 @@
           "thumbnail": "https://i.ytimg.com/vi/tknez266o6Y/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-29T01:57:20Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7670974510765575437",
-          "youtube_id": "uYpvxi_VgBw",
-          "title": "Taste & Tales \u2728",
-          "tiktok_views": 9039,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/uYpvxi_VgBw/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-28T21:00:26Z"
         }
       ],
       "runs": [
@@ -2811,6 +2819,16 @@
       ],
       "runs": [
         {
+          "id": 135,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-11-08",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-08T01:34:56.447907+00:00"
+        },
+        {
           "id": 134,
           "channel_id": "channel_4",
           "slot": 1,
@@ -2999,21 +3017,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-01T21:21:12.627742+00:00"
-        },
-        {
-          "id": 115,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-11-01",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-01T07:42:53.318540+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7653937388305108237",
+      "youtube_id": "pfTj7_RcPdw",
+      "title": "Taste & Tales \u2728",
+      "tiktok_views": 4777,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/pfTj7_RcPdw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-08T01:32:04Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -3951,20 +3973,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Tb5yuHM9hWo/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-28T21:36:42Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7670974510765575437",
-      "youtube_id": "uYpvxi_VgBw",
-      "title": "Taste & Tales \u2728",
-      "tiktok_views": 9039,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/uYpvxi_VgBw/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-28T21:00:26Z"
     },
     {
       "channel_id": "channel_1",
@@ -5526,5 +5534,5 @@
       "created_at": "2026-11-01T08:38:39.338368+00:00"
     }
   ],
-  "last_updated": "2026-11-08T01:31:17.246563+00:00"
+  "last_updated": "2026-11-08T01:34:59.855373+00:00"
 }
