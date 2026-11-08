@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 435,
-    "total_views": 140623,
+    "total_uploads": 436,
+    "total_views": 140640,
     "total_likes": 16,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -154,35 +154,35 @@
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 75,
+      "ch1_views": 76,
       "ch2_views": 57,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 280
+      "total_views": 281
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 75,
+      "ch1_views": 76,
       "ch2_views": 75,
       "ch3_views": 169,
       "ch4_views": 0,
-      "total_views": 319
+      "total_views": 320
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 81,
+      "ch1_views": 82,
       "ch2_views": 87,
       "ch3_views": 174,
       "ch4_views": 0,
-      "total_views": 342
+      "total_views": 343
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 83,
+      "ch1_views": 84,
       "ch2_views": 95,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 178
+      "total_views": 179
     },
     {
       "date": "2026-11-05",
@@ -195,26 +195,26 @@
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 136,
+      "ch2_views": 138,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 136
+      "total_views": 138
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 142,
+      "ch2_views": 146,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 142
+      "total_views": 146
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 142,
+      "ch2_views": 146,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 142
+      "total_views": 146
     }
   ],
   "channels": {
@@ -307,27 +307,27 @@
         },
         {
           "date": "2026-11-01",
-          "views": 35,
+          "views": 36,
           "uploads": 3,
-          "cumulative_views": 75
+          "cumulative_views": 76
         },
         {
           "date": "2026-11-02",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 75
+          "cumulative_views": 76
         },
         {
           "date": "2026-11-03",
           "views": 6,
           "uploads": 3,
-          "cumulative_views": 81
+          "cumulative_views": 82
         },
         {
           "date": "2026-11-04",
           "views": 2,
           "uploads": 2,
-          "cumulative_views": 83
+          "cumulative_views": 84
         }
       ],
       "videos": [
@@ -478,7 +478,7 @@
           "youtube_id": "uJxdg2N6Uhg",
           "title": "Show Me Daddy After Work\u201d\u2026 This Toddler Nailed It! \ud83e\udd23\u2764\ufe0f",
           "tiktok_views": 4692,
-          "youtube_views": 11,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/uJxdg2N6Uhg/hqdefault.jpg",
@@ -970,8 +970,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
-      "total_uploads": 154,
-      "total_views": 1668,
+      "total_uploads": 155,
+      "total_views": 1684,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -1050,21 +1050,21 @@
         },
         {
           "date": "2026-11-06",
-          "views": 34,
+          "views": 36,
           "uploads": 3,
-          "cumulative_views": 136
+          "cumulative_views": 138
         },
         {
           "date": "2026-11-07",
-          "views": 6,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 142
+          "cumulative_views": 146
         },
         {
           "date": "2026-11-08",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 142
+          "cumulative_views": 146
         }
       ],
       "videos": [
@@ -1089,7 +1089,7 @@
           "youtube_id": "ySbnVCFnBR8",
           "title": "Crispy Parmesan Potatoes with Creamy Garlic Sauce \u2728",
           "tiktok_views": 3164,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ySbnVCFnBR8/hqdefault.jpg",
@@ -1145,7 +1145,7 @@
           "youtube_id": "cFMap834578",
           "title": "The Secret to the Softest Nutella Chocolate Loaf Cake \u2728",
           "tiktok_views": 5526,
-          "youtube_views": 15,
+          "youtube_views": 17,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cFMap834578/hqdefault.jpg",
@@ -1491,6 +1491,16 @@
       ],
       "runs": [
         {
+          "id": 186,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-08",
+          "status": "success",
+          "video_id": "WAJj-ruALOE",
+          "error_message": null,
+          "created_at": "2026-11-08T07:12:23.396952+00:00"
+        },
+        {
           "id": 185,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1679,16 +1689,6 @@
           "video_id": "i7XP8_Q24x0",
           "error_message": null,
           "created_at": "2026-11-02T01:41:41.462327+00:00"
-        },
-        {
-          "id": 166,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-11-01",
-          "status": "success",
-          "video_id": "Ymi32MjwNfk",
-          "error_message": null,
-          "created_at": "2026-11-01T20:23:04.228357+00:00"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 104,
-      "total_views": 136595,
+      "total_views": 136596,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -3043,7 +3043,7 @@
       "youtube_id": "ySbnVCFnBR8",
       "title": "Crispy Parmesan Potatoes with Creamy Garlic Sauce \u2728",
       "tiktok_views": 3164,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ySbnVCFnBR8/hqdefault.jpg",
@@ -3099,7 +3099,7 @@
       "youtube_id": "cFMap834578",
       "title": "The Secret to the Softest Nutella Chocolate Loaf Cake \u2728",
       "tiktok_views": 5526,
-      "youtube_views": 15,
+      "youtube_views": 17,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cFMap834578/hqdefault.jpg",
@@ -3533,7 +3533,7 @@
       "youtube_id": "uJxdg2N6Uhg",
       "title": "Show Me Daddy After Work\u201d\u2026 This Toddler Nailed It! \ud83e\udd23\u2764\ufe0f",
       "tiktok_views": 4692,
-      "youtube_views": 11,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/uJxdg2N6Uhg/hqdefault.jpg",
@@ -4652,27 +4652,27 @@
       },
       {
         "date": "2026-11-01",
-        "views": 35,
+        "views": 36,
         "uploads": 3,
-        "cumulative_views": 75
+        "cumulative_views": 76
       },
       {
         "date": "2026-11-02",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 75
+        "cumulative_views": 76
       },
       {
         "date": "2026-11-03",
         "views": 6,
         "uploads": 3,
-        "cumulative_views": 81
+        "cumulative_views": 82
       },
       {
         "date": "2026-11-04",
         "views": 2,
         "uploads": 2,
-        "cumulative_views": 83
+        "cumulative_views": 84
       }
     ],
     "videos": [
@@ -4823,7 +4823,7 @@
         "youtube_id": "uJxdg2N6Uhg",
         "title": "Show Me Daddy After Work\u201d\u2026 This Toddler Nailed It! \ud83e\udd23\u2764\ufe0f",
         "tiktok_views": 4692,
-        "youtube_views": 11,
+        "youtube_views": 12,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/uJxdg2N6Uhg/hqdefault.jpg",
@@ -5301,8 +5301,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 435,
-    "total_views": 140623,
+    "total_uploads": 436,
+    "total_views": 140640,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5534,5 +5534,5 @@
       "created_at": "2026-11-01T21:04:29.817742+00:00"
     }
   ],
-  "last_updated": "2026-11-08T02:39:13.457620+00:00"
+  "last_updated": "2026-11-08T07:12:27.952611+00:00"
 }
