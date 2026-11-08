@@ -195,26 +195,26 @@
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 134,
+      "ch2_views": 133,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 134
+      "total_views": 133
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 142,
+      "ch2_views": 141,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 142
+      "total_views": 141
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 142,
+      "ch2_views": 141,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 142
+      "total_views": 141
     }
   ],
   "channels": {
@@ -1050,21 +1050,21 @@
         },
         {
           "date": "2026-11-06",
-          "views": 36,
+          "views": 35,
           "uploads": 3,
-          "cumulative_views": 134
+          "cumulative_views": 133
         },
         {
           "date": "2026-11-07",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 142
+          "cumulative_views": 141
         },
         {
           "date": "2026-11-08",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 142
+          "cumulative_views": 141
         }
       ],
       "videos": [
@@ -1159,7 +1159,7 @@
           "youtube_id": "cFMap834578",
           "title": "The Secret to the Softest Nutella Chocolate Loaf Cake \u2728",
           "tiktok_views": 5526,
-          "youtube_views": 17,
+          "youtube_views": 16,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cFMap834578/hqdefault.jpg",
@@ -2819,6 +2819,16 @@
       ],
       "runs": [
         {
+          "id": 136,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-11-08",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-08T07:34:54.959517+00:00"
+        },
+        {
           "id": 135,
           "channel_id": "channel_4",
           "slot": 2,
@@ -3007,16 +3017,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-02T01:36:57.887135+00:00"
-        },
-        {
-          "id": 116,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-11-01",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-01T21:21:12.627742+00:00"
         }
       ]
     }
@@ -3113,7 +3113,7 @@
       "youtube_id": "cFMap834578",
       "title": "The Secret to the Softest Nutella Chocolate Loaf Cake \u2728",
       "tiktok_views": 5526,
-      "youtube_views": 17,
+      "youtube_views": 16,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cFMap834578/hqdefault.jpg",
@@ -5534,5 +5534,5 @@
       "created_at": "2026-11-01T21:04:29.817742+00:00"
     }
   ],
-  "last_updated": "2026-11-08T07:17:25.925291+00:00"
+  "last_updated": "2026-11-08T07:35:01.166528+00:00"
 }
