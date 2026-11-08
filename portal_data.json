@@ -131,90 +131,90 @@
     {
       "date": "2026-10-29",
       "ch1_views": 20,
-      "ch2_views": 16,
+      "ch2_views": 12,
       "ch3_views": 67,
-      "ch4_views": 0,
-      "total_views": 103
-    },
-    {
-      "date": "2026-10-30",
-      "ch1_views": 35,
-      "ch2_views": 31,
-      "ch3_views": 85,
-      "ch4_views": 0,
-      "total_views": 151
-    },
-    {
-      "date": "2026-10-31",
-      "ch1_views": 42,
-      "ch2_views": 40,
-      "ch3_views": 108,
-      "ch4_views": 0,
-      "total_views": 190
-    },
-    {
-      "date": "2026-11-01",
-      "ch1_views": 82,
-      "ch2_views": 53,
-      "ch3_views": 148,
-      "ch4_views": 0,
-      "total_views": 283
-    },
-    {
-      "date": "2026-11-02",
-      "ch1_views": 82,
-      "ch2_views": 71,
-      "ch3_views": 170,
-      "ch4_views": 0,
-      "total_views": 323
-    },
-    {
-      "date": "2026-11-03",
-      "ch1_views": 89,
-      "ch2_views": 83,
-      "ch3_views": 176,
-      "ch4_views": 0,
-      "total_views": 348
-    },
-    {
-      "date": "2026-11-04",
-      "ch1_views": 91,
-      "ch2_views": 92,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 183
-    },
-    {
-      "date": "2026-11-05",
-      "ch1_views": 0,
-      "ch2_views": 99,
-      "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 99
     },
     {
-      "date": "2026-11-06",
-      "ch1_views": 0,
-      "ch2_views": 138,
+      "date": "2026-10-30",
+      "ch1_views": 35,
+      "ch2_views": 27,
+      "ch3_views": 85,
+      "ch4_views": 0,
+      "total_views": 147
+    },
+    {
+      "date": "2026-10-31",
+      "ch1_views": 42,
+      "ch2_views": 36,
+      "ch3_views": 108,
+      "ch4_views": 0,
+      "total_views": 186
+    },
+    {
+      "date": "2026-11-01",
+      "ch1_views": 82,
+      "ch2_views": 49,
+      "ch3_views": 148,
+      "ch4_views": 0,
+      "total_views": 279
+    },
+    {
+      "date": "2026-11-02",
+      "ch1_views": 82,
+      "ch2_views": 67,
+      "ch3_views": 170,
+      "ch4_views": 0,
+      "total_views": 319
+    },
+    {
+      "date": "2026-11-03",
+      "ch1_views": 89,
+      "ch2_views": 79,
+      "ch3_views": 176,
+      "ch4_views": 0,
+      "total_views": 344
+    },
+    {
+      "date": "2026-11-04",
+      "ch1_views": 91,
+      "ch2_views": 88,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 138
+      "total_views": 179
+    },
+    {
+      "date": "2026-11-05",
+      "ch1_views": 0,
+      "ch2_views": 95,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 95
+    },
+    {
+      "date": "2026-11-06",
+      "ch1_views": 0,
+      "ch2_views": 135,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 135
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 150,
+      "ch2_views": 148,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 150
+      "total_views": 148
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 150,
+      "ch2_views": 148,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 150
+      "total_views": 148
     }
   ],
   "channels": {
@@ -754,6 +754,16 @@
       ],
       "runs": [
         {
+          "id": 179,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-11-08",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-08T21:02:06.784927+00:00"
+        },
+        {
           "id": 178,
           "channel_id": "channel_1",
           "slot": 3,
@@ -942,16 +952,6 @@
           "video_id": "88ANbHsHlWM",
           "error_message": null,
           "created_at": "2026-11-02T08:47:43.221490+00:00"
-        },
-        {
-          "id": 159,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-11-02",
-          "status": "success",
-          "video_id": "emIoKA1_kXk",
-          "error_message": null,
-          "created_at": "2026-11-02T02:42:34.492291+00:00"
         }
       ]
     },
@@ -1002,72 +1002,86 @@
       "view_history": [
         {
           "date": "2026-10-29",
-          "views": 16,
-          "uploads": 2,
-          "cumulative_views": 16
+          "views": 12,
+          "uploads": 1,
+          "cumulative_views": 12
         },
         {
           "date": "2026-10-30",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 31
+          "cumulative_views": 27
         },
         {
           "date": "2026-10-31",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 40
+          "cumulative_views": 36
         },
         {
           "date": "2026-11-01",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 53
+          "cumulative_views": 49
         },
         {
           "date": "2026-11-02",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 71
+          "cumulative_views": 67
         },
         {
           "date": "2026-11-03",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 83
+          "cumulative_views": 79
         },
         {
           "date": "2026-11-04",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 92
+          "cumulative_views": 88
         },
         {
           "date": "2026-11-05",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 99
+          "cumulative_views": 95
         },
         {
           "date": "2026-11-06",
-          "views": 39,
+          "views": 40,
           "uploads": 3,
-          "cumulative_views": 138
+          "cumulative_views": 135
         },
         {
           "date": "2026-11-07",
-          "views": 12,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 150
+          "cumulative_views": 148
         },
         {
           "date": "2026-11-08",
           "views": 0,
-          "uploads": 2,
-          "cumulative_views": 150
+          "uploads": 3,
+          "cumulative_views": 148
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7705854079376854285",
+          "youtube_id": "t4lOdSWjsLg",
+          "title": "Crispy Cheesy Chicken Slices \u2728",
+          "tiktok_views": 7662,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/t4lOdSWjsLg/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-08T20:17:44Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1103,7 +1117,7 @@
           "youtube_id": "ySbnVCFnBR8",
           "title": "Crispy Parmesan Potatoes with Creamy Garlic Sauce \u2728",
           "tiktok_views": 3164,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ySbnVCFnBR8/hqdefault.jpg",
@@ -1145,7 +1159,7 @@
           "youtube_id": "7VkCTL_WD94",
           "title": "Cheesy Stuffed Cabbage Meatballs \u2728",
           "tiktok_views": 2158,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7VkCTL_WD94/hqdefault.jpg",
@@ -1473,20 +1487,6 @@
           "thumbnail": "https://i.ytimg.com/vi/GBWIp4y-uro/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-29T20:59:12Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7659488803605794062",
-          "youtube_id": "dPBtaS6-wAY",
-          "title": "Taste & Tales \u2728",
-          "tiktok_views": 9450,
-          "youtube_views": 4,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/dPBtaS6-wAY/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-29T07:00:40Z"
         }
       ],
       "runs": [
@@ -3025,6 +3025,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7705854079376854285",
+      "youtube_id": "t4lOdSWjsLg",
+      "title": "Crispy Cheesy Chicken Slices \u2728",
+      "tiktok_views": 7662,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/t4lOdSWjsLg/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-08T20:17:44Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7649466353635609869",
       "youtube_id": "WAJj-ruALOE",
       "title": "Cheese Flatbreads That Disappear in Minutes \u2728",
@@ -3057,7 +3071,7 @@
       "youtube_id": "ySbnVCFnBR8",
       "title": "Crispy Parmesan Potatoes with Creamy Garlic Sauce \u2728",
       "tiktok_views": 3164,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ySbnVCFnBR8/hqdefault.jpg",
@@ -3099,7 +3113,7 @@
       "youtube_id": "7VkCTL_WD94",
       "title": "Cheesy Stuffed Cabbage Meatballs \u2728",
       "tiktok_views": 2158,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7VkCTL_WD94/hqdefault.jpg",
@@ -3903,20 +3917,6 @@
       "thumbnail": "https://i.ytimg.com/vi/5BZ5vZ2p71Y/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-29T07:02:35Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7659488803605794062",
-      "youtube_id": "dPBtaS6-wAY",
-      "title": "Taste & Tales \u2728",
-      "tiktok_views": 9450,
-      "youtube_views": 4,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/dPBtaS6-wAY/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-29T07:00:40Z"
     },
     {
       "channel_id": "channel_1",
@@ -5099,6 +5099,16 @@
     ],
     "runs": [
       {
+        "id": 179,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-11-08",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-08T21:02:06.784927+00:00"
+      },
+      {
         "id": 178,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5287,16 +5297,6 @@
         "video_id": "88ANbHsHlWM",
         "error_message": null,
         "created_at": "2026-11-02T08:47:43.221490+00:00"
-      },
-      {
-        "id": 159,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-11-02",
-        "status": "success",
-        "video_id": "emIoKA1_kXk",
-        "error_message": null,
-        "created_at": "2026-11-02T02:42:34.492291+00:00"
       }
     ]
   },
@@ -5333,6 +5333,16 @@
     }
   },
   "runs": [
+    {
+      "id": 179,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-11-08",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-08T21:02:06.784927+00:00"
+    },
     {
       "id": 178,
       "channel_id": "channel_1",
@@ -5522,17 +5532,7 @@
       "video_id": "88ANbHsHlWM",
       "error_message": null,
       "created_at": "2026-11-02T08:47:43.221490+00:00"
-    },
-    {
-      "id": 159,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-11-02",
-      "status": "success",
-      "video_id": "emIoKA1_kXk",
-      "error_message": null,
-      "created_at": "2026-11-02T02:42:34.492291+00:00"
     }
   ],
-  "last_updated": "2026-11-08T20:16:50.698723+00:00"
+  "last_updated": "2026-11-08T21:02:11.321446+00:00"
 }
