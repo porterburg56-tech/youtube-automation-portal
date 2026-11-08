@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 434,
+    "total_uploads": 435,
     "total_views": 140617,
     "total_likes": 16,
     "total_subscribers": 89,
@@ -962,7 +962,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
-      "total_uploads": 153,
+      "total_uploads": 154,
       "total_views": 1668,
       "total_likes": 1,
       "upcoming": {
@@ -1483,6 +1483,16 @@
       ],
       "runs": [
         {
+          "id": 185,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-11-08",
+          "status": "success",
+          "video_id": "pfTj7_RcPdw",
+          "error_message": null,
+          "created_at": "2026-11-08T01:31:13.499389+00:00"
+        },
+        {
           "id": 184,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1671,16 +1681,6 @@
           "video_id": "Ymi32MjwNfk",
           "error_message": null,
           "created_at": "2026-11-01T20:23:04.228357+00:00"
-        },
-        {
-          "id": 165,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-11-01",
-          "status": "failed",
-          "video_id": null,
-          "error_message": "Dubbing exception for 7647319070974512398: Command '['/usr/bin/ffmpeg', '-y', '-i', '/tmp/tmp08jtho_0/retimed_video_only.mp4', '-i', '/tmp/tmp08jtho_0/dubbed_audio.wav', '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'libx264', '-crf', '19', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k', '-shortest', 'downloads/enhanced_7647319070974512398_es_dubbed.mp4']' timed out after 300 seconds. Aborting upload.",
-          "created_at": "2026-11-01T08:09:56.242703+00:00"
         }
       ]
     },
@@ -5293,7 +5293,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 434,
+    "total_uploads": 435,
     "total_views": 140617,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5526,5 +5526,5 @@
       "created_at": "2026-11-01T08:38:39.338368+00:00"
     }
   ],
-  "last_updated": "2026-11-08T01:27:37.384267+00:00"
+  "last_updated": "2026-11-08T01:31:17.246563+00:00"
 }
