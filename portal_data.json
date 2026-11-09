@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 437,
+    "total_uploads": 438,
     "total_views": 140663,
     "total_likes": 16,
     "total_subscribers": 89,
@@ -170,51 +170,51 @@
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 89,
+      "ch1_views": 90,
       "ch2_views": 79,
       "ch3_views": 176,
       "ch4_views": 0,
-      "total_views": 344
+      "total_views": 345
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 91,
-      "ch2_views": 88,
+      "ch1_views": 92,
+      "ch2_views": 89,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 179
+      "total_views": 181
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 95,
+      "ch2_views": 96,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 95
+      "total_views": 96
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 135,
+      "ch2_views": 137,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 135
+      "total_views": 137
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 148,
+      "ch2_views": 150,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 148
+      "total_views": 150
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 148,
+      "ch2_views": 150,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 148
+      "total_views": 150
     }
   ],
   "channels": {
@@ -319,15 +319,15 @@
         },
         {
           "date": "2026-11-03",
-          "views": 7,
+          "views": 8,
           "uploads": 3,
-          "cumulative_views": 89
+          "cumulative_views": 90
         },
         {
           "date": "2026-11-04",
           "views": 2,
           "uploads": 2,
-          "cumulative_views": 91
+          "cumulative_views": 92
         }
       ],
       "videos": [
@@ -366,7 +366,7 @@
           "youtube_id": "VETAEB71t8Q",
           "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
           "tiktok_views": 15800,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
@@ -970,7 +970,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
-      "total_uploads": 156,
+      "total_uploads": 157,
       "total_views": 1706,
       "total_likes": 1,
       "upcoming": {
@@ -1038,33 +1038,33 @@
         },
         {
           "date": "2026-11-04",
-          "views": 9,
+          "views": 10,
           "uploads": 3,
-          "cumulative_views": 88
+          "cumulative_views": 89
         },
         {
           "date": "2026-11-05",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 95
+          "cumulative_views": 96
         },
         {
           "date": "2026-11-06",
-          "views": 40,
+          "views": 41,
           "uploads": 3,
-          "cumulative_views": 135
+          "cumulative_views": 137
         },
         {
           "date": "2026-11-07",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 148
+          "cumulative_views": 150
         },
         {
           "date": "2026-11-08",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 148
+          "cumulative_views": 150
         }
       ],
       "videos": [
@@ -1187,7 +1187,7 @@
           "youtube_id": "g7jkjFvOb44",
           "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
           "tiktok_views": 5724,
-          "youtube_views": 16,
+          "youtube_views": 17,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -1257,7 +1257,7 @@
           "youtube_id": "8nVAWmiUdqM",
           "title": "Caramel Strawberry Nutella Dream Cake \ud83c\udf53\u2728",
           "tiktok_views": 6340,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8nVAWmiUdqM/hqdefault.jpg",
@@ -1491,6 +1491,16 @@
       ],
       "runs": [
         {
+          "id": 188,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-11-09",
+          "status": "success",
+          "video_id": "rUaebs1NTu0",
+          "error_message": null,
+          "created_at": "2026-11-09T01:43:09.562122+00:00"
+        },
+        {
           "id": 187,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1679,16 +1689,6 @@
           "video_id": "2O4yNgj2TdQ",
           "error_message": null,
           "created_at": "2026-11-02T23:26:43.999801+00:00"
-        },
-        {
-          "id": 168,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-11-02",
-          "status": "success",
-          "video_id": "lHTOsuX0lRc",
-          "error_message": null,
-          "created_at": "2026-11-02T07:21:20.780229+00:00"
         }
       ]
     },
@@ -3141,7 +3141,7 @@
       "youtube_id": "g7jkjFvOb44",
       "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
       "tiktok_views": 5724,
-      "youtube_views": 16,
+      "youtube_views": 17,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -3225,7 +3225,7 @@
       "youtube_id": "8nVAWmiUdqM",
       "title": "Caramel Strawberry Nutella Dream Cake \ud83c\udf53\u2728",
       "tiktok_views": 6340,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8nVAWmiUdqM/hqdefault.jpg",
@@ -3267,7 +3267,7 @@
       "youtube_id": "VETAEB71t8Q",
       "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
       "tiktok_views": 15800,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
@@ -4664,15 +4664,15 @@
       },
       {
         "date": "2026-11-03",
-        "views": 7,
+        "views": 8,
         "uploads": 3,
-        "cumulative_views": 89
+        "cumulative_views": 90
       },
       {
         "date": "2026-11-04",
         "views": 2,
         "uploads": 2,
-        "cumulative_views": 91
+        "cumulative_views": 92
       }
     ],
     "videos": [
@@ -4711,7 +4711,7 @@
         "youtube_id": "VETAEB71t8Q",
         "title": "Grandpa Has No Idea He Just Got the Funniest Compliment Ever \ud83e\udd79",
         "tiktok_views": 15800,
-        "youtube_views": 4,
+        "youtube_views": 5,
         "youtube_likes": 0,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/VETAEB71t8Q/hqdefault.jpg",
@@ -5301,7 +5301,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 437,
+    "total_uploads": 438,
     "total_views": 140663,
     "total_likes": 16,
     "videos_per_day": 12
@@ -5534,5 +5534,5 @@
       "created_at": "2026-11-02T08:47:43.221490+00:00"
     }
   ],
-  "last_updated": "2026-11-08T21:19:49.413765+00:00"
+  "last_updated": "2026-11-09T01:43:14.266005+00:00"
 }
