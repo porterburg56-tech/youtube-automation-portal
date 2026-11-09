@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 439,
-    "total_views": 140673,
+    "total_views": 140683,
     "total_likes": 16,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -139,90 +139,90 @@
     {
       "date": "2026-10-30",
       "ch1_views": 35,
-      "ch2_views": 15,
+      "ch2_views": 4,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 135
+      "total_views": 124
     },
     {
       "date": "2026-10-31",
       "ch1_views": 43,
-      "ch2_views": 24,
+      "ch2_views": 13,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 175
+      "total_views": 164
     },
     {
       "date": "2026-11-01",
       "ch1_views": 83,
-      "ch2_views": 37,
+      "ch2_views": 26,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 268
+      "total_views": 257
     },
     {
       "date": "2026-11-02",
       "ch1_views": 83,
-      "ch2_views": 56,
+      "ch2_views": 45,
       "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 309
+      "total_views": 298
     },
     {
       "date": "2026-11-03",
       "ch1_views": 91,
-      "ch2_views": 68,
+      "ch2_views": 57,
       "ch3_views": 176,
       "ch4_views": 0,
-      "total_views": 335
+      "total_views": 324
     },
     {
       "date": "2026-11-04",
       "ch1_views": 93,
-      "ch2_views": 78,
+      "ch2_views": 67,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 171
+      "total_views": 160
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 86,
+      "ch2_views": 75,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 86
+      "total_views": 75
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 127,
+      "ch2_views": 116,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 127
+      "total_views": 116
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 143,
+      "ch2_views": 132,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 143
+      "total_views": 132
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 143,
+      "ch2_views": 132,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 143
+      "total_views": 132
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 143,
+      "ch2_views": 132,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 143
+      "total_views": 132
     }
   ],
   "channels": {
@@ -242,7 +242,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 157,
-      "total_views": 799,
+      "total_views": 791,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -979,7 +979,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
       "total_uploads": 158,
-      "total_views": 1706,
+      "total_views": 1724,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -1010,72 +1010,86 @@
       "view_history": [
         {
           "date": "2026-10-30",
-          "views": 15,
-          "uploads": 3,
-          "cumulative_views": 15
+          "views": 4,
+          "uploads": 2,
+          "cumulative_views": 4
         },
         {
           "date": "2026-10-31",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 13
         },
         {
           "date": "2026-11-01",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 37
+          "cumulative_views": 26
         },
         {
           "date": "2026-11-02",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 56
+          "cumulative_views": 45
         },
         {
           "date": "2026-11-03",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 68
+          "cumulative_views": 57
         },
         {
           "date": "2026-11-04",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 78
+          "cumulative_views": 67
         },
         {
           "date": "2026-11-05",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 86
+          "cumulative_views": 75
         },
         {
           "date": "2026-11-06",
           "views": 41,
           "uploads": 3,
-          "cumulative_views": 127
+          "cumulative_views": 116
         },
         {
           "date": "2026-11-07",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 143
+          "cumulative_views": 132
         },
         {
           "date": "2026-11-08",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 143
+          "cumulative_views": 132
         },
         {
           "date": "2026-11-09",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 143
+          "uploads": 2,
+          "cumulative_views": 132
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7654248169965997326",
+          "youtube_id": "S4oOSEQEabA",
+          "title": "The Secret to the Juiciest Cheesy Meatballs You'll Ever Make \u2728",
+          "tiktok_views": 4290,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/S4oOSEQEabA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-09T07:48:14Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1481,20 +1495,6 @@
           "thumbnail": "https://i.ytimg.com/vi/AGp76c2nkHI/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-30T06:58:01Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7652053896570899726",
-          "youtube_id": "A2XN4jjFhp0",
-          "title": "Hidden Layered Meat Bake That Everyone Will Ask You to Make Again \u2728",
-          "tiktok_views": 9174,
-          "youtube_views": 11,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/A2XN4jjFhp0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-30T01:50:44Z"
         }
       ],
       "runs": [
@@ -2236,6 +2236,16 @@
       ],
       "runs": [
         {
+          "id": 146,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-11-09",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-09T07:55:05.623196+00:00"
+        },
+        {
           "id": 145,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2424,16 +2434,6 @@
           "video_id": "c7SmTq89tes",
           "error_message": null,
           "created_at": "2026-11-03T03:29:31.191487+00:00"
-        },
-        {
-          "id": 126,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-11-02",
-          "status": "success",
-          "video_id": "G4s5E6jDS3Y",
-          "error_message": null,
-          "created_at": "2026-11-02T23:52:44.562712+00:00"
         }
       ]
     },
@@ -3030,6 +3030,20 @@
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7654248169965997326",
+      "youtube_id": "S4oOSEQEabA",
+      "title": "The Secret to the Juiciest Cheesy Meatballs You'll Ever Make \u2728",
+      "tiktok_views": 4290,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/S4oOSEQEabA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-09T07:48:14Z"
+    },
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
@@ -3857,20 +3871,6 @@
       "uploaded_at": "2026-10-30T01:58:53Z"
     },
     {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7652053896570899726",
-      "youtube_id": "A2XN4jjFhp0",
-      "title": "Hidden Layered Meat Bake That Everyone Will Ask You to Make Again \u2728",
-      "tiktok_views": 9174,
-      "youtube_views": 11,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/A2XN4jjFhp0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-30T01:50:44Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1ZAMccKBCeXBiLX4Q3uMiTPPvrszFYM6X",
@@ -4587,7 +4587,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 157,
-    "total_views": 799,
+    "total_views": 791,
     "total_likes": 0,
     "upcoming": {
       "slot1": {
@@ -5310,7 +5310,7 @@
   },
   "kpis": {
     "total_uploads": 439,
-    "total_views": 140673,
+    "total_views": 140683,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5542,5 +5542,5 @@
       "created_at": "2026-11-02T23:51:07.448149+00:00"
     }
   ],
-  "last_updated": "2026-11-09T07:47:30.727445+00:00"
+  "last_updated": "2026-11-09T07:55:10.597592+00:00"
 }
