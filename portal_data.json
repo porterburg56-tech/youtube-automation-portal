@@ -762,6 +762,16 @@
       ],
       "runs": [
         {
+          "id": 181,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-11-09",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-09T08:59:53.879763+00:00"
+        },
+        {
           "id": 180,
           "channel_id": "channel_1",
           "slot": 2,
@@ -950,16 +960,6 @@
           "video_id": "4rgYrfFpkEo",
           "error_message": null,
           "created_at": "2026-11-03T04:00:05.294871+00:00"
-        },
-        {
-          "id": 161,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-11-02",
-          "status": "success",
-          "video_id": "nAy_9KAIaxY",
-          "error_message": null,
-          "created_at": "2026-11-02T23:51:07.448149+00:00"
         }
       ]
     },
@@ -5107,6 +5107,16 @@
     ],
     "runs": [
       {
+        "id": 181,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-11-09",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-09T08:59:53.879763+00:00"
+      },
+      {
         "id": 180,
         "channel_id": "channel_1",
         "slot": 2,
@@ -5295,16 +5305,6 @@
         "video_id": "4rgYrfFpkEo",
         "error_message": null,
         "created_at": "2026-11-03T04:00:05.294871+00:00"
-      },
-      {
-        "id": 161,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-11-02",
-        "status": "success",
-        "video_id": "nAy_9KAIaxY",
-        "error_message": null,
-        "created_at": "2026-11-02T23:51:07.448149+00:00"
       }
     ]
   },
@@ -5341,6 +5341,16 @@
     }
   },
   "runs": [
+    {
+      "id": 181,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-11-09",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-09T08:59:53.879763+00:00"
+    },
     {
       "id": 180,
       "channel_id": "channel_1",
@@ -5530,17 +5540,7 @@
       "video_id": "4rgYrfFpkEo",
       "error_message": null,
       "created_at": "2026-11-03T04:00:05.294871+00:00"
-    },
-    {
-      "id": 161,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-11-02",
-      "status": "success",
-      "video_id": "nAy_9KAIaxY",
-      "error_message": null,
-      "created_at": "2026-11-02T23:51:07.448149+00:00"
     }
   ],
-  "last_updated": "2026-11-09T08:11:54.839275+00:00"
+  "last_updated": "2026-11-09T09:00:00.886572+00:00"
 }
