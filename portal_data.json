@@ -1,8 +1,8 @@
 {
   "cumulative": {
-    "total_uploads": 443,
+    "total_uploads": 444,
     "total_views": 140724,
-    "total_likes": 17,
+    "total_likes": 16,
     "total_subscribers": 89,
     "channels_count": 4,
     "videos_per_day": 12
@@ -147,90 +147,90 @@
     {
       "date": "2026-10-31",
       "ch1_views": 43,
-      "ch2_views": 6,
+      "ch2_views": 4,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 157
+      "total_views": 155
     },
     {
       "date": "2026-11-01",
       "ch1_views": 89,
-      "ch2_views": 19,
+      "ch2_views": 17,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 256
+      "total_views": 254
     },
     {
       "date": "2026-11-02",
       "ch1_views": 89,
-      "ch2_views": 38,
+      "ch2_views": 36,
       "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 297
+      "total_views": 295
     },
     {
       "date": "2026-11-03",
       "ch1_views": 97,
-      "ch2_views": 51,
+      "ch2_views": 49,
       "ch3_views": 176,
       "ch4_views": 0,
-      "total_views": 324
+      "total_views": 322
     },
     {
       "date": "2026-11-04",
       "ch1_views": 99,
-      "ch2_views": 61,
+      "ch2_views": 59,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 160
+      "total_views": 158
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 70,
+      "ch2_views": 68,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 70
+      "total_views": 68
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 114,
+      "ch2_views": 112,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 114
+      "total_views": 112
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 130,
+      "ch2_views": 128,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 130
+      "total_views": 128
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 133,
+      "ch2_views": 131,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 133
+      "total_views": 131
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 139,
+      "ch2_views": 137,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 139
+      "total_views": 137
     },
     {
       "date": "2026-11-10",
       "ch1_views": 0,
-      "ch2_views": 153,
+      "ch2_views": 152,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 153
+      "total_views": 152
     }
   ],
   "channels": {
@@ -249,7 +249,7 @@
       "avatar_letter": "G",
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
-      "total_uploads": 157,
+      "total_uploads": 158,
       "total_views": 804,
       "total_likes": 1,
       "upcoming": {
@@ -770,6 +770,16 @@
       ],
       "runs": [
         {
+          "id": 185,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-11-10",
+          "status": "success",
+          "video_id": "l3Fhxv5P5H8",
+          "error_message": null,
+          "created_at": "2026-11-10T22:15:45.192927+00:00"
+        },
+        {
           "id": 184,
           "channel_id": "channel_1",
           "slot": 3,
@@ -958,16 +968,6 @@
           "video_id": "t9hgUCXAbrw",
           "error_message": null,
           "created_at": "2026-11-04T08:31:29.523122+00:00"
-        },
-        {
-          "id": 165,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-11-04",
-          "status": "success",
-          "video_id": "FXn588n5FTQ",
-          "error_message": null,
-          "created_at": "2026-11-04T03:08:09.646277+00:00"
         }
       ]
     },
@@ -988,7 +988,7 @@
       "subscribers": 8,
       "total_uploads": 162,
       "total_views": 1749,
-      "total_likes": 1,
+      "total_likes": 0,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -1018,72 +1018,86 @@
       "view_history": [
         {
           "date": "2026-10-31",
-          "views": 6,
-          "uploads": 2,
-          "cumulative_views": 6
+          "views": 4,
+          "uploads": 1,
+          "cumulative_views": 4
         },
         {
           "date": "2026-11-01",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 19
+          "cumulative_views": 17
         },
         {
           "date": "2026-11-02",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 38
+          "cumulative_views": 36
         },
         {
           "date": "2026-11-03",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 51
+          "cumulative_views": 49
         },
         {
           "date": "2026-11-04",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 61
+          "cumulative_views": 59
         },
         {
           "date": "2026-11-05",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 70
+          "cumulative_views": 68
         },
         {
           "date": "2026-11-06",
           "views": 44,
           "uploads": 3,
-          "cumulative_views": 114
+          "cumulative_views": 112
         },
         {
           "date": "2026-11-07",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 130
+          "cumulative_views": 128
         },
         {
           "date": "2026-11-08",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 133
+          "cumulative_views": 131
         },
         {
           "date": "2026-11-09",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 139
+          "cumulative_views": 137
         },
         {
           "date": "2026-11-10",
-          "views": 14,
-          "uploads": 3,
-          "cumulative_views": 153
+          "views": 15,
+          "uploads": 4,
+          "cumulative_views": 152
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7706601227018128653",
+          "youtube_id": "s8pqV9djvwg",
+          "title": "Beer-Braised Beef with Creamy Mushroom Sauce & Homemade Pasta \u2728",
+          "tiktok_views": 5892,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/s8pqV9djvwg/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-10T22:00:53Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1091,7 +1105,7 @@
           "youtube_id": "56493C5vjY4",
           "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
           "tiktok_views": 2902,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/56493C5vjY4/hqdefault.jpg",
@@ -1489,20 +1503,6 @@
           "thumbnail": "https://i.ytimg.com/vi/lbNdEvb2rFs/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-31T19:50:09Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7650201063118769422",
-          "youtube_id": "7R64A0GKFj0",
-          "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
-          "tiktok_views": 8060,
-          "youtube_views": 2,
-          "youtube_likes": 1,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/7R64A0GKFj0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-31T06:48:14Z"
         }
       ],
       "runs": [
@@ -3041,11 +3041,25 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7706601227018128653",
+      "youtube_id": "s8pqV9djvwg",
+      "title": "Beer-Braised Beef with Creamy Mushroom Sauce & Homemade Pasta \u2728",
+      "tiktok_views": 5892,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/s8pqV9djvwg/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-10T22:00:53Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7649816984946887950",
       "youtube_id": "56493C5vjY4",
       "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
       "tiktok_views": 2902,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/56493C5vjY4/hqdefault.jpg",
@@ -3751,20 +3765,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Ok5wftBEbIs/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-31T06:58:23Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7650201063118769422",
-      "youtube_id": "7R64A0GKFj0",
-      "title": "Secret Chef Trick For Perfect Flavor \ud83c\udf73",
-      "tiktok_views": 8060,
-      "youtube_views": 2,
-      "youtube_likes": 1,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/7R64A0GKFj0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-31T06:48:14Z"
     },
     {
       "channel_id": "channel_1",
@@ -4594,7 +4594,7 @@
     "avatar_letter": "G",
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
-    "total_uploads": 157,
+    "total_uploads": 158,
     "total_views": 804,
     "total_likes": 1,
     "upcoming": {
@@ -5115,6 +5115,16 @@
     ],
     "runs": [
       {
+        "id": 185,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-11-10",
+        "status": "success",
+        "video_id": "l3Fhxv5P5H8",
+        "error_message": null,
+        "created_at": "2026-11-10T22:15:45.192927+00:00"
+      },
+      {
         "id": 184,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5303,23 +5313,13 @@
         "video_id": "t9hgUCXAbrw",
         "error_message": null,
         "created_at": "2026-11-04T08:31:29.523122+00:00"
-      },
-      {
-        "id": 165,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-11-04",
-        "status": "success",
-        "video_id": "FXn588n5FTQ",
-        "error_message": null,
-        "created_at": "2026-11-04T03:08:09.646277+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 443,
+    "total_uploads": 444,
     "total_views": 140724,
-    "total_likes": 17,
+    "total_likes": 16,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5349,6 +5349,16 @@
     }
   },
   "runs": [
+    {
+      "id": 185,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-11-10",
+      "status": "success",
+      "video_id": "l3Fhxv5P5H8",
+      "error_message": null,
+      "created_at": "2026-11-10T22:15:45.192927+00:00"
+    },
     {
       "id": 184,
       "channel_id": "channel_1",
@@ -5538,17 +5548,7 @@
       "video_id": "t9hgUCXAbrw",
       "error_message": null,
       "created_at": "2026-11-04T08:31:29.523122+00:00"
-    },
-    {
-      "id": 165,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-11-04",
-      "status": "success",
-      "video_id": "FXn588n5FTQ",
-      "error_message": null,
-      "created_at": "2026-11-04T03:08:09.646277+00:00"
     }
   ],
-  "last_updated": "2026-11-10T21:59:59.714328+00:00"
+  "last_updated": "2026-11-10T22:15:50.184695+00:00"
 }
