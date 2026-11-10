@@ -219,18 +219,18 @@
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 140,
+      "ch2_views": 139,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 140
+      "total_views": 139
     },
     {
       "date": "2026-11-10",
       "ch1_views": 0,
-      "ch2_views": 140,
+      "ch2_views": 139,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 140
+      "total_views": 139
     }
   ],
   "channels": {
@@ -1078,15 +1078,15 @@
         },
         {
           "date": "2026-11-09",
-          "views": 4,
+          "views": 3,
           "uploads": 2,
-          "cumulative_views": 140
+          "cumulative_views": 139
         },
         {
           "date": "2026-11-10",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 140
+          "cumulative_views": 139
         }
       ],
       "videos": [
@@ -1111,7 +1111,7 @@
           "youtube_id": "S4oOSEQEabA",
           "title": "The Secret to the Juiciest Cheesy Meatballs You'll Ever Make \u2728",
           "tiktok_views": 4290,
-          "youtube_views": 1,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/S4oOSEQEabA/hqdefault.jpg",
@@ -2250,6 +2250,16 @@
       ],
       "runs": [
         {
+          "id": 147,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-11-10",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-10T00:41:12.606370+00:00"
+        },
+        {
           "id": 146,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2438,16 +2448,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-03T07:53:47.111068+00:00"
-        },
-        {
-          "id": 127,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-11-03",
-          "status": "success",
-          "video_id": "c7SmTq89tes",
-          "error_message": null,
-          "created_at": "2026-11-03T03:29:31.191487+00:00"
         }
       ]
     },
@@ -3065,7 +3065,7 @@
       "youtube_id": "S4oOSEQEabA",
       "title": "The Secret to the Juiciest Cheesy Meatballs You'll Ever Make \u2728",
       "tiktok_views": 4290,
-      "youtube_views": 1,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/S4oOSEQEabA/hqdefault.jpg",
@@ -5556,5 +5556,5 @@
       "created_at": "2026-11-03T08:57:49.783055+00:00"
     }
   ],
-  "last_updated": "2026-11-10T00:38:35.643363+00:00"
+  "last_updated": "2026-11-10T00:41:17.437270+00:00"
 }
