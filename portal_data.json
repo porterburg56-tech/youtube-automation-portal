@@ -139,69 +139,77 @@
     {
       "date": "2026-10-30",
       "ch1_views": 35,
-      "ch2_views": 4,
+      "ch2_views": 2,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 124
+      "total_views": 122
     },
     {
       "date": "2026-10-31",
       "ch1_views": 43,
-      "ch2_views": 13,
+      "ch2_views": 11,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 164
+      "total_views": 162
     },
     {
       "date": "2026-11-01",
       "ch1_views": 87,
-      "ch2_views": 26,
+      "ch2_views": 24,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 261
+      "total_views": 259
     },
     {
       "date": "2026-11-02",
       "ch1_views": 87,
-      "ch2_views": 45,
+      "ch2_views": 43,
       "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 302
+      "total_views": 300
     },
     {
       "date": "2026-11-03",
       "ch1_views": 95,
-      "ch2_views": 58,
+      "ch2_views": 56,
       "ch3_views": 176,
       "ch4_views": 0,
-      "total_views": 329
+      "total_views": 327
     },
     {
       "date": "2026-11-04",
       "ch1_views": 97,
-      "ch2_views": 68,
+      "ch2_views": 66,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 165
+      "total_views": 163
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 77,
+      "ch2_views": 75,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 77
+      "total_views": 75
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 120,
+      "ch2_views": 118,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 120
+      "total_views": 118
     },
     {
       "date": "2026-11-07",
+      "ch1_views": 0,
+      "ch2_views": 134,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 134
+    },
+    {
+      "date": "2026-11-08",
       "ch1_views": 0,
       "ch2_views": 136,
       "ch3_views": 0,
@@ -209,20 +217,20 @@
       "total_views": 136
     },
     {
-      "date": "2026-11-08",
-      "ch1_views": 0,
-      "ch2_views": 138,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 138
-    },
-    {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 142,
+      "ch2_views": 140,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 142
+      "total_views": 140
+    },
+    {
+      "date": "2026-11-10",
+      "ch1_views": 0,
+      "ch2_views": 140,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 140
     }
   ],
   "channels": {
@@ -762,6 +770,16 @@
       ],
       "runs": [
         {
+          "id": 182,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-11-10",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-10T00:38:31.040345+00:00"
+        },
+        {
           "id": 181,
           "channel_id": "channel_1",
           "slot": 3,
@@ -950,16 +968,6 @@
           "video_id": "WnwYhE4rKu4",
           "error_message": null,
           "created_at": "2026-11-03T08:57:49.783055+00:00"
-        },
-        {
-          "id": 162,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-11-03",
-          "status": "success",
-          "video_id": "4rgYrfFpkEo",
-          "error_message": null,
-          "created_at": "2026-11-03T04:00:05.294871+00:00"
         }
       ]
     },
@@ -1010,72 +1018,92 @@
       "view_history": [
         {
           "date": "2026-10-30",
-          "views": 4,
-          "uploads": 2,
-          "cumulative_views": 4
+          "views": 2,
+          "uploads": 1,
+          "cumulative_views": 2
         },
         {
           "date": "2026-10-31",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 11
         },
         {
           "date": "2026-11-01",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 26
+          "cumulative_views": 24
         },
         {
           "date": "2026-11-02",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 45
+          "cumulative_views": 43
         },
         {
           "date": "2026-11-03",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 58
+          "cumulative_views": 56
         },
         {
           "date": "2026-11-04",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 68
+          "cumulative_views": 66
         },
         {
           "date": "2026-11-05",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 77
+          "cumulative_views": 75
         },
         {
           "date": "2026-11-06",
           "views": 43,
           "uploads": 3,
-          "cumulative_views": 120
+          "cumulative_views": 118
         },
         {
           "date": "2026-11-07",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 136
+          "cumulative_views": 134
         },
         {
           "date": "2026-11-08",
           "views": 2,
           "uploads": 3,
-          "cumulative_views": 138
+          "cumulative_views": 136
         },
         {
           "date": "2026-11-09",
           "views": 4,
           "uploads": 2,
-          "cumulative_views": 142
+          "cumulative_views": 140
+        },
+        {
+          "date": "2026-11-10",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 140
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7706230350153862413",
+          "youtube_id": "qrL9QMUPMLA",
+          "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
+          "tiktok_views": 6768,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-10T00:17:49Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1481,20 +1509,6 @@
           "thumbnail": "https://i.ytimg.com/vi/GD0BImcT-b8/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-30T20:30:09Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7667637532657487118",
-          "youtube_id": "AGp76c2nkHI",
-          "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
-          "tiktok_views": 8290,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/AGp76c2nkHI/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-30T06:58:01Z"
         }
       ],
       "runs": [
@@ -3033,6 +3047,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7706230350153862413",
+      "youtube_id": "qrL9QMUPMLA",
+      "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
+      "tiktok_views": 6768,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-10T00:17:49Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7654248169965997326",
       "youtube_id": "S4oOSEQEabA",
       "title": "The Secret to the Juiciest Cheesy Meatballs You'll Ever Make \u2728",
@@ -3827,20 +3855,6 @@
       "thumbnail": "https://i.ytimg.com/vi/V7ByFUim07U/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-30T07:05:39Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7667637532657487118",
-      "youtube_id": "AGp76c2nkHI",
-      "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
-      "tiktok_views": 8290,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/AGp76c2nkHI/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-30T06:58:01Z"
     },
     {
       "channel_id": "channel_1",
@@ -5107,6 +5121,16 @@
     ],
     "runs": [
       {
+        "id": 182,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-11-10",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-10T00:38:31.040345+00:00"
+      },
+      {
         "id": 181,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5295,16 +5319,6 @@
         "video_id": "WnwYhE4rKu4",
         "error_message": null,
         "created_at": "2026-11-03T08:57:49.783055+00:00"
-      },
-      {
-        "id": 162,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-11-03",
-        "status": "success",
-        "video_id": "4rgYrfFpkEo",
-        "error_message": null,
-        "created_at": "2026-11-03T04:00:05.294871+00:00"
       }
     ]
   },
@@ -5341,6 +5355,16 @@
     }
   },
   "runs": [
+    {
+      "id": 182,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-11-10",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-10T00:38:31.040345+00:00"
+    },
     {
       "id": 181,
       "channel_id": "channel_1",
@@ -5530,17 +5554,7 @@
       "video_id": "WnwYhE4rKu4",
       "error_message": null,
       "created_at": "2026-11-03T08:57:49.783055+00:00"
-    },
-    {
-      "id": 162,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-11-03",
-      "status": "success",
-      "video_id": "4rgYrfFpkEo",
-      "error_message": null,
-      "created_at": "2026-11-03T04:00:05.294871+00:00"
     }
   ],
-  "last_updated": "2026-11-10T00:17:06.187887+00:00"
+  "last_updated": "2026-11-10T00:38:35.643363+00:00"
 }
