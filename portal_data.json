@@ -1,6 +1,6 @@
 {
   "cumulative": {
-    "total_uploads": 442,
+    "total_uploads": 443,
     "total_views": 140724,
     "total_likes": 17,
     "total_subscribers": 89,
@@ -154,35 +154,35 @@
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 87,
+      "ch1_views": 89,
       "ch2_views": 19,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 254
+      "total_views": 256
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 87,
+      "ch1_views": 89,
       "ch2_views": 38,
       "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 295
+      "total_views": 297
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 95,
+      "ch1_views": 97,
       "ch2_views": 51,
       "ch3_views": 176,
       "ch4_views": 0,
-      "total_views": 322
+      "total_views": 324
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 97,
+      "ch1_views": 99,
       "ch2_views": 61,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 158
+      "total_views": 160
     },
     {
       "date": "2026-11-05",
@@ -219,18 +219,18 @@
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 138,
+      "ch2_views": 139,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 138
+      "total_views": 139
     },
     {
       "date": "2026-11-10",
       "ch1_views": 0,
-      "ch2_views": 141,
+      "ch2_views": 153,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 141
+      "total_views": 153
     }
   ],
   "channels": {
@@ -323,27 +323,27 @@
         },
         {
           "date": "2026-11-01",
-          "views": 44,
+          "views": 46,
           "uploads": 3,
-          "cumulative_views": 87
+          "cumulative_views": 89
         },
         {
           "date": "2026-11-02",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 87
+          "cumulative_views": 89
         },
         {
           "date": "2026-11-03",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 95
+          "cumulative_views": 97
         },
         {
           "date": "2026-11-04",
           "views": 2,
           "uploads": 2,
-          "cumulative_views": 97
+          "cumulative_views": 99
         }
       ],
       "videos": [
@@ -480,7 +480,7 @@
           "youtube_id": "TzwyYFLz8_U",
           "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
           "tiktok_views": 4477,
-          "youtube_views": 28,
+          "youtube_views": 30,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -986,7 +986,7 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
-      "total_uploads": 161,
+      "total_uploads": 162,
       "total_views": 1749,
       "total_likes": 1,
       "upcoming": {
@@ -1072,15 +1072,15 @@
         },
         {
           "date": "2026-11-09",
-          "views": 5,
+          "views": 6,
           "uploads": 2,
-          "cumulative_views": 138
+          "cumulative_views": 139
         },
         {
           "date": "2026-11-10",
-          "views": 3,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 141
+          "cumulative_views": 153
         }
       ],
       "videos": [
@@ -1091,7 +1091,7 @@
           "youtube_id": "56493C5vjY4",
           "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
           "tiktok_views": 2902,
-          "youtube_views": 0,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/56493C5vjY4/hqdefault.jpg",
@@ -1105,7 +1105,7 @@
           "youtube_id": "7TWmsPO1piE",
           "title": "Crispy Cheesy Chicken & Broccoli Meatballs You'll Make Again \u2728",
           "tiktok_views": 3515,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7TWmsPO1piE/hqdefault.jpg",
@@ -1119,7 +1119,7 @@
           "youtube_id": "qrL9QMUPMLA",
           "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
           "tiktok_views": 6768,
-          "youtube_views": 3,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -1147,7 +1147,7 @@
           "youtube_id": "rUaebs1NTu0",
           "title": "Creamy Garlic Salmon with Spinach & Cheese Sauce \u2728",
           "tiktok_views": 4632,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/rUaebs1NTu0/hqdefault.jpg",
@@ -1507,6 +1507,16 @@
       ],
       "runs": [
         {
+          "id": 193,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-11-10",
+          "status": "success",
+          "video_id": "s8pqV9djvwg",
+          "error_message": null,
+          "created_at": "2026-11-10T21:59:54.095488+00:00"
+        },
+        {
           "id": 192,
           "channel_id": "channel_2",
           "slot": 3,
@@ -1695,16 +1705,6 @@
           "video_id": "8nVAWmiUdqM",
           "error_message": null,
           "created_at": "2026-11-04T07:29:57.044333+00:00"
-        },
-        {
-          "id": 173,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-11-04",
-          "status": "success",
-          "video_id": "FDH3p2j__Jk",
-          "error_message": null,
-          "created_at": "2026-11-04T02:08:00.113050+00:00"
         }
       ]
     },
@@ -3045,7 +3045,7 @@
       "youtube_id": "56493C5vjY4",
       "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
       "tiktok_views": 2902,
-      "youtube_views": 0,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/56493C5vjY4/hqdefault.jpg",
@@ -3059,7 +3059,7 @@
       "youtube_id": "7TWmsPO1piE",
       "title": "Crispy Cheesy Chicken & Broccoli Meatballs You'll Make Again \u2728",
       "tiktok_views": 3515,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7TWmsPO1piE/hqdefault.jpg",
@@ -3073,7 +3073,7 @@
       "youtube_id": "qrL9QMUPMLA",
       "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
       "tiktok_views": 6768,
-      "youtube_views": 3,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -3101,7 +3101,7 @@
       "youtube_id": "rUaebs1NTu0",
       "title": "Creamy Garlic Salmon with Spinach & Cheese Sauce \u2728",
       "tiktok_views": 4632,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/rUaebs1NTu0/hqdefault.jpg",
@@ -3619,7 +3619,7 @@
       "youtube_id": "TzwyYFLz8_U",
       "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
       "tiktok_views": 4477,
-      "youtube_views": 28,
+      "youtube_views": 30,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -4668,27 +4668,27 @@
       },
       {
         "date": "2026-11-01",
-        "views": 44,
+        "views": 46,
         "uploads": 3,
-        "cumulative_views": 87
+        "cumulative_views": 89
       },
       {
         "date": "2026-11-02",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 87
+        "cumulative_views": 89
       },
       {
         "date": "2026-11-03",
         "views": 8,
         "uploads": 3,
-        "cumulative_views": 95
+        "cumulative_views": 97
       },
       {
         "date": "2026-11-04",
         "views": 2,
         "uploads": 2,
-        "cumulative_views": 97
+        "cumulative_views": 99
       }
     ],
     "videos": [
@@ -4825,7 +4825,7 @@
         "youtube_id": "TzwyYFLz8_U",
         "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
         "tiktok_views": 4477,
-        "youtube_views": 28,
+        "youtube_views": 30,
         "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -5317,7 +5317,7 @@
     ]
   },
   "kpis": {
-    "total_uploads": 442,
+    "total_uploads": 443,
     "total_views": 140724,
     "total_likes": 17,
     "videos_per_day": 12
@@ -5550,5 +5550,5 @@
       "created_at": "2026-11-04T03:08:09.646277+00:00"
     }
   ],
-  "last_updated": "2026-11-10T09:15:49.006205+00:00"
+  "last_updated": "2026-11-10T21:59:59.714328+00:00"
 }
