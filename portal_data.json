@@ -98,91 +98,91 @@
     },
     {
       "date": "2026-10-25",
-      "ch1_views": 5,
+      "ch1_views": 0,
       "ch2_views": 0,
       "ch3_views": 13,
       "ch4_views": 0,
-      "total_views": 18
+      "total_views": 13
     },
     {
       "date": "2026-10-26",
-      "ch1_views": 10,
+      "ch1_views": 5,
       "ch2_views": 0,
       "ch3_views": 22,
       "ch4_views": 0,
-      "total_views": 32
+      "total_views": 27
     },
     {
       "date": "2026-10-27",
-      "ch1_views": 14,
+      "ch1_views": 9,
       "ch2_views": 0,
       "ch3_views": 35,
       "ch4_views": 0,
-      "total_views": 49
+      "total_views": 44
     },
     {
       "date": "2026-10-28",
-      "ch1_views": 15,
+      "ch1_views": 10,
       "ch2_views": 0,
       "ch3_views": 53,
       "ch4_views": 0,
-      "total_views": 68
+      "total_views": 63
     },
     {
       "date": "2026-10-29",
-      "ch1_views": 20,
+      "ch1_views": 15,
       "ch2_views": 0,
       "ch3_views": 67,
       "ch4_views": 0,
-      "total_views": 87
+      "total_views": 82
     },
     {
       "date": "2026-10-30",
-      "ch1_views": 35,
+      "ch1_views": 30,
       "ch2_views": 0,
       "ch3_views": 85,
       "ch4_views": 0,
-      "total_views": 120
+      "total_views": 115
     },
     {
       "date": "2026-10-31",
-      "ch1_views": 43,
+      "ch1_views": 38,
       "ch2_views": 4,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 155
+      "total_views": 150
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 89,
+      "ch1_views": 84,
       "ch2_views": 17,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 254
+      "total_views": 249
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 89,
+      "ch1_views": 84,
       "ch2_views": 36,
       "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 295
+      "total_views": 290
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 97,
+      "ch1_views": 92,
       "ch2_views": 49,
       "ch3_views": 176,
       "ch4_views": 0,
-      "total_views": 322
+      "total_views": 317
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 99,
+      "ch1_views": 94,
       "ch2_views": 59,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 158
+      "total_views": 153
     },
     {
       "date": "2026-11-05",
@@ -226,11 +226,11 @@
     },
     {
       "date": "2026-11-10",
-      "ch1_views": 0,
-      "ch2_views": 152,
+      "ch1_views": 94,
+      "ch2_views": 151,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 152
+      "total_views": 245
     }
   ],
   "channels": {
@@ -280,73 +280,87 @@
       },
       "view_history": [
         {
-          "date": "2026-10-25",
-          "views": 5,
-          "uploads": 1,
-          "cumulative_views": 5
-        },
-        {
           "date": "2026-10-26",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 10
+          "cumulative_views": 5
         },
         {
           "date": "2026-10-27",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 14
+          "cumulative_views": 9
         },
         {
           "date": "2026-10-28",
           "views": 1,
           "uploads": 3,
-          "cumulative_views": 15
+          "cumulative_views": 10
         },
         {
           "date": "2026-10-29",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 15
         },
         {
           "date": "2026-10-30",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 35
+          "cumulative_views": 30
         },
         {
           "date": "2026-10-31",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 43
+          "cumulative_views": 38
         },
         {
           "date": "2026-11-01",
           "views": 46,
           "uploads": 3,
-          "cumulative_views": 89
+          "cumulative_views": 84
         },
         {
           "date": "2026-11-02",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 89
+          "cumulative_views": 84
         },
         {
           "date": "2026-11-03",
           "views": 8,
           "uploads": 3,
-          "cumulative_views": 97
+          "cumulative_views": 92
         },
         {
           "date": "2026-11-04",
           "views": 2,
           "uploads": 2,
-          "cumulative_views": 99
+          "cumulative_views": 94
+        },
+        {
+          "date": "2026-11-10",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 94
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_1",
+          "channel_name": "Fun With Grandpaa",
+          "tiktok_id": "7706504172295736590",
+          "youtube_id": "l3Fhxv5P5H8",
+          "title": "Grandpa Walked Past and This Baby Had One Mission \ud83d\ude02",
+          "tiktok_views": 55600,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/l3Fhxv5P5H8/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-10T22:16:08Z"
+        },
         {
           "channel_id": "channel_1",
           "channel_name": "Fun With Grandpaa",
@@ -752,20 +766,6 @@
           "thumbnail": "https://i.ytimg.com/vi/vwQ41SxBdc4/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-10-26T01:31:21Z"
-        },
-        {
-          "channel_id": "channel_1",
-          "channel_name": "Fun With Grandpaa",
-          "tiktok_id": "7700668332827036941",
-          "youtube_id": "MdcNDHrgNzs",
-          "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
-          "tiktok_views": 3560,
-          "youtube_views": 5,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/MdcNDHrgNzs/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-25T19:32:12Z"
         }
       ],
       "runs": [
@@ -1078,9 +1078,9 @@
         },
         {
           "date": "2026-11-10",
-          "views": 15,
+          "views": 14,
           "uploads": 4,
-          "cumulative_views": 152
+          "cumulative_views": 151
         }
       ],
       "videos": [
@@ -1105,7 +1105,7 @@
           "youtube_id": "56493C5vjY4",
           "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
           "tiktok_views": 2902,
-          "youtube_views": 4,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/56493C5vjY4/hqdefault.jpg",
@@ -2244,6 +2244,16 @@
       ],
       "runs": [
         {
+          "id": 150,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-11-10",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-10T22:21:05.739134+00:00"
+        },
+        {
           "id": 149,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2432,16 +2442,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-04T07:30:15.409188+00:00"
-        },
-        {
-          "id": 130,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-11-04",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-04T02:21:08.127536+00:00"
         }
       ]
     },
@@ -3039,6 +3039,20 @@
   },
   "videos": [
     {
+      "channel_id": "channel_1",
+      "channel_name": "Fun With Grandpaa",
+      "tiktok_id": "7706504172295736590",
+      "youtube_id": "l3Fhxv5P5H8",
+      "title": "Grandpa Walked Past and This Baby Had One Mission \ud83d\ude02",
+      "tiktok_views": 55600,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/l3Fhxv5P5H8/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-10T22:16:08Z"
+    },
+    {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
       "tiktok_id": "7706601227018128653",
@@ -3059,7 +3073,7 @@
       "youtube_id": "56493C5vjY4",
       "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
       "tiktok_views": 2902,
-      "youtube_views": 4,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/56493C5vjY4/hqdefault.jpg",
@@ -4229,20 +4243,6 @@
       "uploaded_at": "2026-10-25T19:36:05Z"
     },
     {
-      "channel_id": "channel_1",
-      "channel_name": "Fun With Grandpaa",
-      "tiktok_id": "7700668332827036941",
-      "youtube_id": "MdcNDHrgNzs",
-      "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
-      "tiktok_views": 3560,
-      "youtube_views": 5,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/MdcNDHrgNzs/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-25T19:32:12Z"
-    },
-    {
       "channel_id": "channel_3",
       "channel_name": "Oddly Satisfying Nails",
       "tiktok_id": "1uVPB6e0Xyr1h5pCRm52_KS-9bAEEMec0",
@@ -4625,73 +4625,87 @@
     },
     "view_history": [
       {
-        "date": "2026-10-25",
-        "views": 5,
-        "uploads": 1,
-        "cumulative_views": 5
-      },
-      {
         "date": "2026-10-26",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 10
+        "cumulative_views": 5
       },
       {
         "date": "2026-10-27",
         "views": 4,
         "uploads": 3,
-        "cumulative_views": 14
+        "cumulative_views": 9
       },
       {
         "date": "2026-10-28",
         "views": 1,
         "uploads": 3,
-        "cumulative_views": 15
+        "cumulative_views": 10
       },
       {
         "date": "2026-10-29",
         "views": 5,
         "uploads": 3,
-        "cumulative_views": 20
+        "cumulative_views": 15
       },
       {
         "date": "2026-10-30",
         "views": 15,
         "uploads": 3,
-        "cumulative_views": 35
+        "cumulative_views": 30
       },
       {
         "date": "2026-10-31",
         "views": 8,
         "uploads": 3,
-        "cumulative_views": 43
+        "cumulative_views": 38
       },
       {
         "date": "2026-11-01",
         "views": 46,
         "uploads": 3,
-        "cumulative_views": 89
+        "cumulative_views": 84
       },
       {
         "date": "2026-11-02",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 89
+        "cumulative_views": 84
       },
       {
         "date": "2026-11-03",
         "views": 8,
         "uploads": 3,
-        "cumulative_views": 97
+        "cumulative_views": 92
       },
       {
         "date": "2026-11-04",
         "views": 2,
         "uploads": 2,
-        "cumulative_views": 99
+        "cumulative_views": 94
+      },
+      {
+        "date": "2026-11-10",
+        "views": 0,
+        "uploads": 1,
+        "cumulative_views": 94
       }
     ],
     "videos": [
+      {
+        "channel_id": "channel_1",
+        "channel_name": "Fun With Grandpaa",
+        "tiktok_id": "7706504172295736590",
+        "youtube_id": "l3Fhxv5P5H8",
+        "title": "Grandpa Walked Past and This Baby Had One Mission \ud83d\ude02",
+        "tiktok_views": 55600,
+        "youtube_views": 0,
+        "youtube_likes": 0,
+        "youtube_comments": 0,
+        "thumbnail": "https://i.ytimg.com/vi/l3Fhxv5P5H8/hqdefault.jpg",
+        "status": "uploaded",
+        "uploaded_at": "2026-11-10T22:16:08Z"
+      },
       {
         "channel_id": "channel_1",
         "channel_name": "Fun With Grandpaa",
@@ -5097,20 +5111,6 @@
         "thumbnail": "https://i.ytimg.com/vi/vwQ41SxBdc4/hqdefault.jpg",
         "status": "uploaded",
         "uploaded_at": "2026-10-26T01:31:21Z"
-      },
-      {
-        "channel_id": "channel_1",
-        "channel_name": "Fun With Grandpaa",
-        "tiktok_id": "7700668332827036941",
-        "youtube_id": "MdcNDHrgNzs",
-        "title": "The Way He Grabbed That Stick and Became Grandpa \ud83d\ude2d\ud83d\udd25",
-        "tiktok_views": 3560,
-        "youtube_views": 5,
-        "youtube_likes": 0,
-        "youtube_comments": 0,
-        "thumbnail": "https://i.ytimg.com/vi/MdcNDHrgNzs/hqdefault.jpg",
-        "status": "uploaded",
-        "uploaded_at": "2026-10-25T19:32:12Z"
       }
     ],
     "runs": [
@@ -5550,5 +5550,5 @@
       "created_at": "2026-11-04T08:31:29.523122+00:00"
     }
   ],
-  "last_updated": "2026-11-10T22:15:50.184695+00:00"
+  "last_updated": "2026-11-10T22:21:10.190389+00:00"
 }
