@@ -155,90 +155,90 @@
     {
       "date": "2026-11-01",
       "ch1_views": 109,
-      "ch2_views": 11,
+      "ch2_views": 0,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 268
+      "total_views": 257
     },
     {
       "date": "2026-11-02",
       "ch1_views": 109,
-      "ch2_views": 30,
+      "ch2_views": 19,
       "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 309
+      "total_views": 298
     },
     {
       "date": "2026-11-03",
       "ch1_views": 119,
-      "ch2_views": 43,
+      "ch2_views": 32,
       "ch3_views": 176,
       "ch4_views": 0,
-      "total_views": 338
+      "total_views": 327
     },
     {
       "date": "2026-11-04",
       "ch1_views": 121,
-      "ch2_views": 54,
+      "ch2_views": 43,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 175
+      "total_views": 164
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 64,
+      "ch2_views": 53,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 64
+      "total_views": 53
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 112,
+      "ch2_views": 101,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 112
+      "total_views": 101
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 130,
+      "ch2_views": 119,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 130
+      "total_views": 119
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 135,
+      "ch2_views": 124,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 135
+      "total_views": 124
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 143,
+      "ch2_views": 132,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 143
+      "total_views": 132
     },
     {
       "date": "2026-11-10",
       "ch1_views": 124,
-      "ch2_views": 171,
+      "ch2_views": 160,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 295
+      "total_views": 284
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 175,
+      "ch2_views": 164,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 175
+      "total_views": 164
     }
   ],
   "channels": {
@@ -778,6 +778,16 @@
       ],
       "runs": [
         {
+          "id": 188,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-11-11",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-11T23:24:48.810200+00:00"
+        },
+        {
           "id": 187,
           "channel_id": "channel_1",
           "slot": 3,
@@ -966,16 +976,6 @@
           "video_id": null,
           "error_message": "No unposted videos found.",
           "created_at": "2026-11-05T08:53:50.940824+00:00"
-        },
-        {
-          "id": 168,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-11-05",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-05T03:38:13.660544+00:00"
         }
       ]
     },
@@ -1025,73 +1025,81 @@
       },
       "view_history": [
         {
-          "date": "2026-11-01",
-          "views": 11,
-          "uploads": 1,
-          "cumulative_views": 11
-        },
-        {
           "date": "2026-11-02",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 30
+          "cumulative_views": 19
         },
         {
           "date": "2026-11-03",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 43
+          "cumulative_views": 32
         },
         {
           "date": "2026-11-04",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 54
+          "cumulative_views": 43
         },
         {
           "date": "2026-11-05",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 64
+          "cumulative_views": 53
         },
         {
           "date": "2026-11-06",
           "views": 48,
           "uploads": 3,
-          "cumulative_views": 112
+          "cumulative_views": 101
         },
         {
           "date": "2026-11-07",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 130
+          "cumulative_views": 119
         },
         {
           "date": "2026-11-08",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 135
+          "cumulative_views": 124
         },
         {
           "date": "2026-11-09",
           "views": 8,
           "uploads": 2,
-          "cumulative_views": 143
+          "cumulative_views": 132
         },
         {
           "date": "2026-11-10",
           "views": 28,
           "uploads": 4,
-          "cumulative_views": 171
+          "cumulative_views": 160
         },
         {
           "date": "2026-11-11",
           "views": 4,
-          "uploads": 2,
-          "cumulative_views": 175
+          "uploads": 3,
+          "cumulative_views": 164
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7706961820183039245",
+          "youtube_id": "yHmZ0C0Y8Fo",
+          "title": "Cheesy Vegetable Stuffed Meatballs \u2728",
+          "tiktok_views": 3113,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/yHmZ0C0Y8Fo/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-11T22:37:04Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1497,20 +1505,6 @@
           "thumbnail": "https://i.ytimg.com/vi/i7XP8_Q24x0/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-11-02T01:42:49Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7703256889169169677",
-          "youtube_id": "Ymi32MjwNfk",
-          "title": "Creamy Garlic Butter Salmon Pasta \u2728",
-          "tiktok_views": 24500,
-          "youtube_views": 11,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/Ymi32MjwNfk/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-11-01T20:23:35Z"
         }
       ],
       "runs": [
@@ -3049,6 +3043,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7706961820183039245",
+      "youtube_id": "yHmZ0C0Y8Fo",
+      "title": "Cheesy Vegetable Stuffed Meatballs \u2728",
+      "tiktok_views": 3113,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/yHmZ0C0Y8Fo/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-11T22:37:04Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7655706823890046221",
       "youtube_id": "mq1_4SFFb40",
       "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
@@ -3661,20 +3669,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ILbjHmjgutE/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-11-01T21:04:46Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7703256889169169677",
-      "youtube_id": "Ymi32MjwNfk",
-      "title": "Creamy Garlic Butter Salmon Pasta \u2728",
-      "tiktok_views": 24500,
-      "youtube_views": 11,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/Ymi32MjwNfk/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-11-01T20:23:35Z"
     },
     {
       "channel_id": "channel_1",
@@ -5123,6 +5117,16 @@
     ],
     "runs": [
       {
+        "id": 188,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-11-11",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-11T23:24:48.810200+00:00"
+      },
+      {
         "id": 187,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5311,16 +5315,6 @@
         "video_id": null,
         "error_message": "No unposted videos found.",
         "created_at": "2026-11-05T08:53:50.940824+00:00"
-      },
-      {
-        "id": 168,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-11-05",
-        "status": "no_content",
-        "video_id": null,
-        "error_message": "No unposted videos found.",
-        "created_at": "2026-11-05T03:38:13.660544+00:00"
       }
     ]
   },
@@ -5357,6 +5351,16 @@
     }
   },
   "runs": [
+    {
+      "id": 188,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-11-11",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-11T23:24:48.810200+00:00"
+    },
     {
       "id": 187,
       "channel_id": "channel_1",
@@ -5546,17 +5550,7 @@
       "video_id": null,
       "error_message": "No unposted videos found.",
       "created_at": "2026-11-05T08:53:50.940824+00:00"
-    },
-    {
-      "id": 168,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-11-05",
-      "status": "no_content",
-      "video_id": null,
-      "error_message": "No unposted videos found.",
-      "created_at": "2026-11-05T03:38:13.660544+00:00"
     }
   ],
-  "last_updated": "2026-11-11T22:36:49.881989+00:00"
+  "last_updated": "2026-11-11T23:24:53.067169+00:00"
 }
