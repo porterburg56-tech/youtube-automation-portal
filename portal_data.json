@@ -219,26 +219,26 @@
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 132,
+      "ch2_views": 133,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 132
+      "total_views": 133
     },
     {
       "date": "2026-11-10",
       "ch1_views": 124,
-      "ch2_views": 160,
+      "ch2_views": 162,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 284
+      "total_views": 286
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 164,
+      "ch2_views": 166,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 164
+      "total_views": 166
     }
   ],
   "channels": {
@@ -1068,21 +1068,21 @@
         },
         {
           "date": "2026-11-09",
-          "views": 8,
+          "views": 9,
           "uploads": 2,
-          "cumulative_views": 132
+          "cumulative_views": 133
         },
         {
           "date": "2026-11-10",
-          "views": 28,
+          "views": 29,
           "uploads": 4,
-          "cumulative_views": 160
+          "cumulative_views": 162
         },
         {
           "date": "2026-11-11",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 164
+          "cumulative_views": 166
         }
       ],
       "videos": [
@@ -1177,7 +1177,7 @@
           "youtube_id": "qrL9QMUPMLA",
           "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
           "tiktok_views": 6768,
-          "youtube_views": 14,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -1191,7 +1191,7 @@
           "youtube_id": "S4oOSEQEabA",
           "title": "The Secret to the Juiciest Cheesy Meatballs You'll Ever Make \u2728",
           "tiktok_views": 4290,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/S4oOSEQEabA/hqdefault.jpg",
@@ -2246,6 +2246,16 @@
       ],
       "runs": [
         {
+          "id": 153,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-11-11",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-11T23:27:49.263984+00:00"
+        },
+        {
           "id": 152,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2434,16 +2444,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-05T07:55:12.407014+00:00"
-        },
-        {
-          "id": 133,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-11-05",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-05T02:29:54.657602+00:00"
         }
       ]
     },
@@ -3145,7 +3145,7 @@
       "youtube_id": "qrL9QMUPMLA",
       "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
       "tiktok_views": 6768,
-      "youtube_views": 14,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -3159,7 +3159,7 @@
       "youtube_id": "S4oOSEQEabA",
       "title": "The Secret to the Juiciest Cheesy Meatballs You'll Ever Make \u2728",
       "tiktok_views": 4290,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/S4oOSEQEabA/hqdefault.jpg",
@@ -5552,5 +5552,5 @@
       "created_at": "2026-11-05T08:53:50.940824+00:00"
     }
   ],
-  "last_updated": "2026-11-11T23:24:53.067169+00:00"
+  "last_updated": "2026-11-11T23:27:53.481049+00:00"
 }
