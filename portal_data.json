@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 444,
-    "total_views": 140724,
+    "total_uploads": 445,
+    "total_views": 140736,
     "total_likes": 16,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -179,58 +179,58 @@
     {
       "date": "2026-11-04",
       "ch1_views": 94,
-      "ch2_views": 59,
+      "ch2_views": 60,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 153
+      "total_views": 154
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 68,
+      "ch2_views": 69,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 68
+      "total_views": 69
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 112,
+      "ch2_views": 113,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 112
+      "total_views": 113
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 128,
+      "ch2_views": 129,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 128
+      "total_views": 129
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 131,
+      "ch2_views": 132,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 131
+      "total_views": 132
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 137,
+      "ch2_views": 138,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 137
+      "total_views": 138
     },
     {
       "date": "2026-11-10",
       "ch1_views": 94,
-      "ch2_views": 158,
+      "ch2_views": 159,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 252
+      "total_views": 253
     }
   ],
   "channels": {
@@ -986,8 +986,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
-      "total_uploads": 162,
-      "total_views": 1749,
+      "total_uploads": 163,
+      "total_views": 1761,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1042,45 +1042,45 @@
         },
         {
           "date": "2026-11-04",
-          "views": 10,
+          "views": 11,
           "uploads": 3,
-          "cumulative_views": 59
+          "cumulative_views": 60
         },
         {
           "date": "2026-11-05",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 68
+          "cumulative_views": 69
         },
         {
           "date": "2026-11-06",
           "views": 44,
           "uploads": 3,
-          "cumulative_views": 112
+          "cumulative_views": 113
         },
         {
           "date": "2026-11-07",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 128
+          "cumulative_views": 129
         },
         {
           "date": "2026-11-08",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 131
+          "cumulative_views": 132
         },
         {
           "date": "2026-11-09",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 137
+          "cumulative_views": 138
         },
         {
           "date": "2026-11-10",
           "views": 21,
           "uploads": 4,
-          "cumulative_views": 158
+          "cumulative_views": 159
         }
       ],
       "videos": [
@@ -1343,7 +1343,7 @@
           "youtube_id": "khN8cah-hYs",
           "title": "Crispy Potato-Crusted Chicken Schnitzel \u2728",
           "tiktok_views": 4430,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/khN8cah-hYs/hqdefault.jpg",
@@ -1506,6 +1506,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 194,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-11-11",
+          "status": "success",
+          "video_id": "73cJ6iy8qBU",
+          "error_message": null,
+          "created_at": "2026-11-11T01:59:03.196725+00:00"
+        },
         {
           "id": 193,
           "channel_id": "channel_2",
@@ -1695,16 +1705,6 @@
           "video_id": "khN8cah-hYs",
           "error_message": null,
           "created_at": "2026-11-04T21:58:26.735918+00:00"
-        },
-        {
-          "id": 174,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-11-04",
-          "status": "success",
-          "video_id": "8nVAWmiUdqM",
-          "error_message": null,
-          "created_at": "2026-11-04T07:29:57.044333+00:00"
         }
       ]
     },
@@ -3311,7 +3311,7 @@
       "youtube_id": "khN8cah-hYs",
       "title": "Crispy Potato-Crusted Chicken Schnitzel \u2728",
       "tiktok_views": 4430,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/khN8cah-hYs/hqdefault.jpg",
@@ -5317,8 +5317,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 444,
-    "total_views": 140724,
+    "total_uploads": 445,
+    "total_views": 140736,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5550,5 +5550,5 @@
       "created_at": "2026-11-04T08:31:29.523122+00:00"
     }
   ],
-  "last_updated": "2026-11-11T01:57:29.541534+00:00"
+  "last_updated": "2026-11-11T01:59:07.772391+00:00"
 }
