@@ -147,90 +147,98 @@
     {
       "date": "2026-10-31",
       "ch1_views": 38,
-      "ch2_views": 4,
+      "ch2_views": 0,
       "ch3_views": 108,
       "ch4_views": 0,
-      "total_views": 150
+      "total_views": 146
     },
     {
       "date": "2026-11-01",
       "ch1_views": 84,
-      "ch2_views": 17,
+      "ch2_views": 13,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 249
+      "total_views": 245
     },
     {
       "date": "2026-11-02",
       "ch1_views": 84,
-      "ch2_views": 36,
+      "ch2_views": 32,
       "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 290
+      "total_views": 286
     },
     {
       "date": "2026-11-03",
       "ch1_views": 92,
-      "ch2_views": 49,
+      "ch2_views": 45,
       "ch3_views": 176,
       "ch4_views": 0,
-      "total_views": 317
+      "total_views": 313
     },
     {
       "date": "2026-11-04",
       "ch1_views": 94,
-      "ch2_views": 60,
+      "ch2_views": 56,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 154
+      "total_views": 150
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 69,
+      "ch2_views": 65,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 69
+      "total_views": 65
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 113,
+      "ch2_views": 109,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 113
+      "total_views": 109
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 129,
+      "ch2_views": 125,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 129
+      "total_views": 125
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 132,
+      "ch2_views": 128,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 132
+      "total_views": 128
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 138,
+      "ch2_views": 134,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 138
+      "total_views": 134
     },
     {
       "date": "2026-11-10",
       "ch1_views": 94,
-      "ch2_views": 159,
+      "ch2_views": 155,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 253
+      "total_views": 249
+    },
+    {
+      "date": "2026-11-11",
+      "ch1_views": 0,
+      "ch2_views": 155,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 155
     }
   ],
   "channels": {
@@ -1017,73 +1025,87 @@
       },
       "view_history": [
         {
-          "date": "2026-10-31",
-          "views": 4,
-          "uploads": 1,
-          "cumulative_views": 4
-        },
-        {
           "date": "2026-11-01",
           "views": 13,
           "uploads": 2,
-          "cumulative_views": 17
+          "cumulative_views": 13
         },
         {
           "date": "2026-11-02",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 36
+          "cumulative_views": 32
         },
         {
           "date": "2026-11-03",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 49
+          "cumulative_views": 45
         },
         {
           "date": "2026-11-04",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 60
+          "cumulative_views": 56
         },
         {
           "date": "2026-11-05",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 69
+          "cumulative_views": 65
         },
         {
           "date": "2026-11-06",
           "views": 44,
           "uploads": 3,
-          "cumulative_views": 113
+          "cumulative_views": 109
         },
         {
           "date": "2026-11-07",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 129
+          "cumulative_views": 125
         },
         {
           "date": "2026-11-08",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 132
+          "cumulative_views": 128
         },
         {
           "date": "2026-11-09",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 138
+          "cumulative_views": 134
         },
         {
           "date": "2026-11-10",
           "views": 21,
           "uploads": 4,
-          "cumulative_views": 159
+          "cumulative_views": 155
+        },
+        {
+          "date": "2026-11-11",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 155
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7650957759017405710",
+          "youtube_id": "73cJ6iy8qBU",
+          "title": "Hidden Chocolate Strawberry Cheesecake Bites \ud83c\udf53\ud83c\udf6b",
+          "tiktok_views": 2773,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/73cJ6iy8qBU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-11T01:59:43Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1489,20 +1511,6 @@
           "thumbnail": "https://i.ytimg.com/vi/fPyoKX9Mi5I/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-11-01T01:10:37Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7662821696612699405",
-          "youtube_id": "lbNdEvb2rFs",
-          "title": "Easy Puff Pastry Frankfurter & Cheese Rolls \ud83c\udf2d\ud83e\uddc0",
-          "tiktok_views": 5725,
-          "youtube_views": 4,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/lbNdEvb2rFs/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-10-31T19:50:09Z"
         }
       ],
       "runs": [
@@ -2835,6 +2843,16 @@
       ],
       "runs": [
         {
+          "id": 144,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-11-11",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-11T02:01:07.609510+00:00"
+        },
+        {
           "id": 143,
           "channel_id": "channel_4",
           "slot": 1,
@@ -3023,21 +3041,25 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-04T22:47:15.983656+00:00"
-        },
-        {
-          "id": 124,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-11-04",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-04T07:38:32.983758+00:00"
         }
       ]
     }
   },
   "videos": [
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
+      "tiktok_id": "7650957759017405710",
+      "youtube_id": "73cJ6iy8qBU",
+      "title": "Hidden Chocolate Strawberry Cheesecake Bites \ud83c\udf53\ud83c\udf6b",
+      "tiktok_views": 2773,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/73cJ6iy8qBU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-11T01:59:43Z"
+    },
     {
       "channel_id": "channel_1",
       "channel_name": "Fun With Grandpaa",
@@ -3737,20 +3759,6 @@
       "thumbnail": "https://i.ytimg.com/vi/EfS8bVHRqpE/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-10-31T20:27:28Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7662821696612699405",
-      "youtube_id": "lbNdEvb2rFs",
-      "title": "Easy Puff Pastry Frankfurter & Cheese Rolls \ud83c\udf2d\ud83e\uddc0",
-      "tiktok_views": 5725,
-      "youtube_views": 4,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/lbNdEvb2rFs/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-10-31T19:50:09Z"
     },
     {
       "channel_id": "channel_1",
@@ -5550,5 +5558,5 @@
       "created_at": "2026-11-04T08:31:29.523122+00:00"
     }
   ],
-  "last_updated": "2026-11-11T01:59:07.772391+00:00"
+  "last_updated": "2026-11-11T02:01:11.741578+00:00"
 }
