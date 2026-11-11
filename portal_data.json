@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 446,
-    "total_views": 140754,
+    "total_views": 140757,
     "total_likes": 16,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -155,90 +155,90 @@
     {
       "date": "2026-11-01",
       "ch1_views": 100,
-      "ch2_views": 13,
+      "ch2_views": 11,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 261
+      "total_views": 259
     },
     {
       "date": "2026-11-02",
       "ch1_views": 100,
-      "ch2_views": 32,
+      "ch2_views": 30,
       "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 302
+      "total_views": 300
     },
     {
       "date": "2026-11-03",
       "ch1_views": 110,
-      "ch2_views": 45,
+      "ch2_views": 43,
       "ch3_views": 176,
       "ch4_views": 0,
-      "total_views": 331
+      "total_views": 329
     },
     {
       "date": "2026-11-04",
       "ch1_views": 112,
-      "ch2_views": 56,
+      "ch2_views": 54,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 168
+      "total_views": 166
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 66,
+      "ch2_views": 64,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 66
+      "total_views": 64
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 110,
+      "ch2_views": 108,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 110
+      "total_views": 108
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 127,
+      "ch2_views": 125,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 127
+      "total_views": 125
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 131,
+      "ch2_views": 130,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 131
+      "total_views": 130
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 138,
+      "ch2_views": 137,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 138
+      "total_views": 137
     },
     {
       "date": "2026-11-10",
       "ch1_views": 112,
-      "ch2_views": 159,
+      "ch2_views": 158,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 271
+      "total_views": 270
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 159,
+      "ch2_views": 160,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 159
+      "total_views": 160
     }
   ],
   "channels": {
@@ -258,7 +258,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 158,
-      "total_views": 804,
+      "total_views": 806,
       "total_likes": 1,
       "upcoming": {
         "slot1": {
@@ -1026,72 +1026,86 @@
       "view_history": [
         {
           "date": "2026-11-01",
-          "views": 13,
-          "uploads": 2,
-          "cumulative_views": 13
+          "views": 11,
+          "uploads": 1,
+          "cumulative_views": 11
         },
         {
           "date": "2026-11-02",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 32
+          "cumulative_views": 30
         },
         {
           "date": "2026-11-03",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 45
+          "cumulative_views": 43
         },
         {
           "date": "2026-11-04",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 56
+          "cumulative_views": 54
         },
         {
           "date": "2026-11-05",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 66
+          "cumulative_views": 64
         },
         {
           "date": "2026-11-06",
           "views": 44,
           "uploads": 3,
-          "cumulative_views": 110
+          "cumulative_views": 108
         },
         {
           "date": "2026-11-07",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 127
+          "cumulative_views": 125
         },
         {
           "date": "2026-11-08",
-          "views": 4,
+          "views": 5,
           "uploads": 3,
-          "cumulative_views": 131
+          "cumulative_views": 130
         },
         {
           "date": "2026-11-09",
           "views": 7,
           "uploads": 2,
-          "cumulative_views": 138
+          "cumulative_views": 137
         },
         {
           "date": "2026-11-10",
           "views": 21,
           "uploads": 4,
-          "cumulative_views": 159
+          "cumulative_views": 158
         },
         {
           "date": "2026-11-11",
-          "views": 0,
-          "uploads": 1,
-          "cumulative_views": 159
+          "views": 2,
+          "uploads": 2,
+          "cumulative_views": 160
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7655706823890046221",
+          "youtube_id": "mq1_4SFFb40",
+          "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
+          "tiktok_views": 2643,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/mq1_4SFFb40/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-11T07:39:49Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1099,7 +1113,7 @@
           "youtube_id": "73cJ6iy8qBU",
           "title": "Hidden Chocolate Strawberry Cheesecake Bites \ud83c\udf53\ud83c\udf6b",
           "tiktok_views": 2773,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/73cJ6iy8qBU/hqdefault.jpg",
@@ -1197,7 +1211,7 @@
           "youtube_id": "t4lOdSWjsLg",
           "title": "Crispy Cheesy Chicken Slices \u2728",
           "tiktok_views": 7662,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/t4lOdSWjsLg/hqdefault.jpg",
@@ -1497,20 +1511,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Ymi32MjwNfk/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-11-01T20:23:35Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7653174372382952718",
-          "youtube_id": "fPyoKX9Mi5I",
-          "title": "No-Bake Triple Chocolate Cream Cups with Nutella Biscuit Base \u2728",
-          "tiktok_views": 7775,
-          "youtube_views": 2,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/fPyoKX9Mi5I/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-11-01T01:10:37Z"
         }
       ],
       "runs": [
@@ -1732,7 +1732,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 104,
-      "total_views": 136601,
+      "total_views": 136602,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -2252,6 +2252,16 @@
       ],
       "runs": [
         {
+          "id": 152,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-11-11",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-11T07:44:15.814586+00:00"
+        },
+        {
           "id": 151,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2440,16 +2450,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-05T02:29:54.657602+00:00"
-        },
-        {
-          "id": 132,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-11-04",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-04T22:36:32.100781+00:00"
         }
       ]
     },
@@ -3049,11 +3049,25 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7655706823890046221",
+      "youtube_id": "mq1_4SFFb40",
+      "title": "You Have To Try This Incredible Dish! \ud83c\udf7d\ufe0f\u2728",
+      "tiktok_views": 2643,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/mq1_4SFFb40/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-11T07:39:49Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7650957759017405710",
       "youtube_id": "73cJ6iy8qBU",
       "title": "Hidden Chocolate Strawberry Cheesecake Bites \ud83c\udf53\ud83c\udf6b",
       "tiktok_views": 2773,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/73cJ6iy8qBU/hqdefault.jpg",
@@ -3165,7 +3179,7 @@
       "youtube_id": "t4lOdSWjsLg",
       "title": "Crispy Cheesy Chicken Slices \u2728",
       "tiktok_views": 7662,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/t4lOdSWjsLg/hqdefault.jpg",
@@ -3717,20 +3731,6 @@
       "thumbnail": "https://i.ytimg.com/vi/q-W7Xa93rm4/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-11-01T01:11:20Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7653174372382952718",
-      "youtube_id": "fPyoKX9Mi5I",
-      "title": "No-Bake Triple Chocolate Cream Cups with Nutella Biscuit Base \u2728",
-      "tiktok_views": 7775,
-      "youtube_views": 2,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/fPyoKX9Mi5I/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-11-01T01:10:37Z"
     },
     {
       "channel_id": "channel_3",
@@ -4603,7 +4603,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 158,
-    "total_views": 804,
+    "total_views": 806,
     "total_likes": 1,
     "upcoming": {
       "slot1": {
@@ -5326,7 +5326,7 @@
   },
   "kpis": {
     "total_uploads": 446,
-    "total_views": 140754,
+    "total_views": 140757,
     "total_likes": 16,
     "videos_per_day": 12
   },
@@ -5558,5 +5558,5 @@
       "created_at": "2026-11-04T22:31:05.254696+00:00"
     }
   ],
-  "last_updated": "2026-11-11T07:39:09.216490+00:00"
+  "last_updated": "2026-11-11T07:44:20.036479+00:00"
 }
