@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 448,
-    "total_views": 140828,
+    "total_views": 140847,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -1003,7 +1003,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
       "total_uploads": 166,
-      "total_views": 1803,
+      "total_views": 1822,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -2851,6 +2851,16 @@
       ],
       "runs": [
         {
+          "id": 148,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-11-12",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-12T08:29:51.400906+00:00"
+        },
+        {
           "id": 147,
           "channel_id": "channel_4",
           "slot": 2,
@@ -3039,16 +3049,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-06T02:36:54.601570+00:00"
-        },
-        {
-          "id": 128,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-11-05",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-05T22:47:38.348288+00:00"
         }
       ]
     }
@@ -5334,7 +5334,7 @@
   },
   "kpis": {
     "total_uploads": 448,
-    "total_views": 140828,
+    "total_views": 140847,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5566,5 +5566,5 @@
       "created_at": "2026-11-05T22:38:31.355833+00:00"
     }
   ],
-  "last_updated": "2026-11-12T08:17:26.483147+00:00"
+  "last_updated": "2026-11-12T08:29:55.609396+00:00"
 }
