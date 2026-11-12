@@ -227,26 +227,26 @@
     {
       "date": "2026-11-10",
       "ch1_views": 132,
-      "ch2_views": 160,
+      "ch2_views": 159,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 292
+      "total_views": 291
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 167,
+      "ch2_views": 166,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 167
+      "total_views": 166
     },
     {
       "date": "2026-11-12",
       "ch1_views": 0,
-      "ch2_views": 167,
+      "ch2_views": 166,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 167
+      "total_views": 166
     }
   ],
   "channels": {
@@ -1082,21 +1082,21 @@
         },
         {
           "date": "2026-11-10",
-          "views": 38,
+          "views": 37,
           "uploads": 4,
-          "cumulative_views": 160
+          "cumulative_views": 159
         },
         {
           "date": "2026-11-11",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 167
+          "cumulative_views": 166
         },
         {
           "date": "2026-11-12",
           "views": 0,
           "uploads": 2,
-          "cumulative_views": 167
+          "cumulative_views": 166
         }
       ],
       "videos": [
@@ -1219,7 +1219,7 @@
           "youtube_id": "qrL9QMUPMLA",
           "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
           "tiktok_views": 6768,
-          "youtube_views": 22,
+          "youtube_views": 21,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -2260,6 +2260,16 @@
       ],
       "runs": [
         {
+          "id": 156,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-11-12",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-12T22:43:14.215390+00:00"
+        },
+        {
           "id": 155,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2448,16 +2458,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-06T07:54:38.166247+00:00"
-        },
-        {
-          "id": 136,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-11-06",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-06T02:27:34.547588+00:00"
         }
       ]
     },
@@ -3187,7 +3187,7 @@
       "youtube_id": "qrL9QMUPMLA",
       "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
       "tiktok_views": 6768,
-      "youtube_views": 22,
+      "youtube_views": 21,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -5566,5 +5566,5 @@
       "created_at": "2026-11-06T08:53:02.918991+00:00"
     }
   ],
-  "last_updated": "2026-11-12T22:40:52.268888+00:00"
+  "last_updated": "2026-11-12T22:43:18.304718+00:00"
 }
