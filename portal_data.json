@@ -1,8 +1,8 @@
 {
   "cumulative": {
     "total_uploads": 448,
-    "total_views": 140828,
-    "total_likes": 16,
+    "total_views": 140815,
+    "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
     "videos_per_day": 12
@@ -163,82 +163,90 @@
     {
       "date": "2026-11-02",
       "ch1_views": 109,
-      "ch2_views": 19,
+      "ch2_views": 11,
       "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 298
+      "total_views": 290
     },
     {
       "date": "2026-11-03",
       "ch1_views": 119,
-      "ch2_views": 32,
+      "ch2_views": 24,
       "ch3_views": 176,
       "ch4_views": 0,
-      "total_views": 327
+      "total_views": 319
     },
     {
       "date": "2026-11-04",
       "ch1_views": 122,
-      "ch2_views": 43,
+      "ch2_views": 35,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 165
+      "total_views": 157
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 53,
+      "ch2_views": 45,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 53
+      "total_views": 45
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 101,
+      "ch2_views": 93,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 101
+      "total_views": 93
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 119,
+      "ch2_views": 111,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 119
+      "total_views": 111
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 124,
+      "ch2_views": 116,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 124
+      "total_views": 116
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 133,
+      "ch2_views": 125,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 133
+      "total_views": 125
     },
     {
       "date": "2026-11-10",
-      "ch1_views": 125,
-      "ch2_views": 164,
+      "ch1_views": 127,
+      "ch2_views": 156,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 289
+      "total_views": 283
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 168,
+      "ch2_views": 160,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 168
+      "total_views": 160
+    },
+    {
+      "date": "2026-11-12",
+      "ch1_views": 0,
+      "ch2_views": 160,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 160
     }
   ],
   "channels": {
@@ -258,8 +266,8 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 158,
-      "total_views": 851,
-      "total_likes": 1,
+      "total_views": 838,
+      "total_likes": 2,
       "upcoming": {
         "slot1": {
           "slot": 1,
@@ -349,9 +357,9 @@
         },
         {
           "date": "2026-11-10",
-          "views": 3,
+          "views": 5,
           "uploads": 1,
-          "cumulative_views": 125
+          "cumulative_views": 127
         }
       ],
       "videos": [
@@ -362,8 +370,8 @@
           "youtube_id": "l3Fhxv5P5H8",
           "title": "Grandpa Walked Past and This Baby Had One Mission \ud83d\ude02",
           "tiktok_views": 55600,
-          "youtube_views": 3,
-          "youtube_likes": 0,
+          "youtube_views": 5,
+          "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/l3Fhxv5P5H8/hqdefault.jpg",
           "status": "uploaded",
@@ -1026,66 +1034,86 @@
       "view_history": [
         {
           "date": "2026-11-02",
-          "views": 19,
-          "uploads": 3,
-          "cumulative_views": 19
+          "views": 11,
+          "uploads": 2,
+          "cumulative_views": 11
         },
         {
           "date": "2026-11-03",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 32
+          "cumulative_views": 24
         },
         {
           "date": "2026-11-04",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 43
+          "cumulative_views": 35
         },
         {
           "date": "2026-11-05",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 53
+          "cumulative_views": 45
         },
         {
           "date": "2026-11-06",
           "views": 48,
           "uploads": 3,
-          "cumulative_views": 101
+          "cumulative_views": 93
         },
         {
           "date": "2026-11-07",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 119
+          "cumulative_views": 111
         },
         {
           "date": "2026-11-08",
           "views": 5,
           "uploads": 3,
-          "cumulative_views": 124
+          "cumulative_views": 116
         },
         {
           "date": "2026-11-09",
           "views": 9,
           "uploads": 2,
-          "cumulative_views": 133
+          "cumulative_views": 125
         },
         {
           "date": "2026-11-10",
           "views": 31,
           "uploads": 4,
-          "cumulative_views": 164
+          "cumulative_views": 156
         },
         {
           "date": "2026-11-11",
           "views": 4,
           "uploads": 3,
-          "cumulative_views": 168
+          "cumulative_views": 160
+        },
+        {
+          "date": "2026-11-12",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 160
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7655709262731119885",
+          "youtube_id": "bVZcjQ242ao",
+          "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
+          "tiktok_views": 2488,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/bVZcjQ242ao/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-12T02:56:16Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1491,20 +1519,6 @@
           "thumbnail": "https://i.ytimg.com/vi/lHTOsuX0lRc/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-11-02T07:22:21Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7659856001067126030",
-          "youtube_id": "i7XP8_Q24x0",
-          "title": "Caramel Strawberry Banana Roll \u2013 The No-Bake Dessert Everyone Loves \u2728",
-          "tiktok_views": 7587,
-          "youtube_views": 8,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/i7XP8_Q24x0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-11-02T01:42:49Z"
         }
       ],
       "runs": [
@@ -2246,6 +2260,16 @@
       ],
       "runs": [
         {
+          "id": 154,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-11-12",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-12T03:00:09.788023+00:00"
+        },
+        {
           "id": 153,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2434,16 +2458,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-05T22:40:35.553012+00:00"
-        },
-        {
-          "id": 134,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-11-05",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-05T07:55:12.407014+00:00"
         }
       ]
     },
@@ -3043,6 +3057,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7655709262731119885",
+      "youtube_id": "bVZcjQ242ao",
+      "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
+      "tiktok_views": 2488,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/bVZcjQ242ao/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-12T02:56:16Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7706961820183039245",
       "youtube_id": "yHmZ0C0Y8Fo",
       "title": "Cheesy Vegetable Stuffed Meatballs \u2728",
@@ -3089,8 +3117,8 @@
       "youtube_id": "l3Fhxv5P5H8",
       "title": "Grandpa Walked Past and This Baby Had One Mission \ud83d\ude02",
       "tiktok_views": 55600,
-      "youtube_views": 3,
-      "youtube_likes": 0,
+      "youtube_views": 5,
+      "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/l3Fhxv5P5H8/hqdefault.jpg",
       "status": "uploaded",
@@ -3613,20 +3641,6 @@
       "thumbnail": "https://i.ytimg.com/vi/emIoKA1_kXk/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-11-02T02:43:02Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7659856001067126030",
-      "youtube_id": "i7XP8_Q24x0",
-      "title": "Caramel Strawberry Banana Roll \u2013 The No-Bake Dessert Everyone Loves \u2728",
-      "tiktok_views": 7587,
-      "youtube_views": 8,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/i7XP8_Q24x0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-11-02T01:42:49Z"
     },
     {
       "channel_id": "channel_3",
@@ -4597,8 +4611,8 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 158,
-    "total_views": 851,
-    "total_likes": 1,
+    "total_views": 838,
+    "total_likes": 2,
     "upcoming": {
       "slot1": {
         "slot": 1,
@@ -4688,9 +4702,9 @@
       },
       {
         "date": "2026-11-10",
-        "views": 3,
+        "views": 5,
         "uploads": 1,
-        "cumulative_views": 125
+        "cumulative_views": 127
       }
     ],
     "videos": [
@@ -4701,8 +4715,8 @@
         "youtube_id": "l3Fhxv5P5H8",
         "title": "Grandpa Walked Past and This Baby Had One Mission \ud83d\ude02",
         "tiktok_views": 55600,
-        "youtube_views": 3,
-        "youtube_likes": 0,
+        "youtube_views": 5,
+        "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/l3Fhxv5P5H8/hqdefault.jpg",
         "status": "uploaded",
@@ -5320,8 +5334,8 @@
   },
   "kpis": {
     "total_uploads": 448,
-    "total_views": 140828,
-    "total_likes": 16,
+    "total_views": 140815,
+    "total_likes": 17,
     "videos_per_day": 12
   },
   "upcoming": {
@@ -5552,5 +5566,5 @@
       "created_at": "2026-11-05T08:53:50.940824+00:00"
     }
   ],
-  "last_updated": "2026-11-12T02:55:14.558542+00:00"
+  "last_updated": "2026-11-12T03:00:14.658636+00:00"
 }
