@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 448,
-    "total_views": 140828,
+    "total_uploads": 449,
+    "total_views": 140864,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -163,90 +163,90 @@
     {
       "date": "2026-11-02",
       "ch1_views": 111,
-      "ch2_views": 11,
+      "ch2_views": 3,
       "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 292
+      "total_views": 284
     },
     {
       "date": "2026-11-03",
       "ch1_views": 122,
-      "ch2_views": 24,
+      "ch2_views": 17,
       "ch3_views": 176,
       "ch4_views": 0,
-      "total_views": 322
+      "total_views": 315
     },
     {
       "date": "2026-11-04",
       "ch1_views": 126,
-      "ch2_views": 35,
+      "ch2_views": 29,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 161
+      "total_views": 155
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 45,
+      "ch2_views": 39,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 45
+      "total_views": 39
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 93,
+      "ch2_views": 88,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 93
+      "total_views": 88
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 111,
+      "ch2_views": 106,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 111
+      "total_views": 106
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 116,
+      "ch2_views": 112,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 116
+      "total_views": 112
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 125,
+      "ch2_views": 122,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 125
+      "total_views": 122
     },
     {
       "date": "2026-11-10",
       "ch1_views": 132,
-      "ch2_views": 157,
+      "ch2_views": 160,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 289
+      "total_views": 292
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 161,
+      "ch2_views": 167,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 161
+      "total_views": 167
     },
     {
       "date": "2026-11-12",
       "ch1_views": 0,
-      "ch2_views": 161,
+      "ch2_views": 167,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 161
+      "total_views": 167
     }
   ],
   "channels": {
@@ -266,7 +266,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 158,
-      "total_views": 851,
+      "total_views": 863,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -786,6 +786,16 @@
       ],
       "runs": [
         {
+          "id": 191,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-11-12",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-12T22:40:47.702414+00:00"
+        },
+        {
           "id": 190,
           "channel_id": "channel_1",
           "slot": 3,
@@ -974,16 +984,6 @@
           "video_id": null,
           "error_message": "No unposted videos found.",
           "created_at": "2026-11-06T08:53:02.918991+00:00"
-        },
-        {
-          "id": 171,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-11-06",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-06T03:33:56.534950+00:00"
         }
       ]
     },
@@ -1002,8 +1002,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
-      "total_uploads": 166,
-      "total_views": 1803,
+      "total_uploads": 167,
+      "total_views": 1827,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1034,72 +1034,86 @@
       "view_history": [
         {
           "date": "2026-11-02",
-          "views": 11,
-          "uploads": 2,
-          "cumulative_views": 11
+          "views": 3,
+          "uploads": 1,
+          "cumulative_views": 3
         },
         {
           "date": "2026-11-03",
-          "views": 13,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 24
+          "cumulative_views": 17
         },
         {
           "date": "2026-11-04",
-          "views": 11,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 35
+          "cumulative_views": 29
         },
         {
           "date": "2026-11-05",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 45
+          "cumulative_views": 39
         },
         {
           "date": "2026-11-06",
-          "views": 48,
+          "views": 49,
           "uploads": 3,
-          "cumulative_views": 93
+          "cumulative_views": 88
         },
         {
           "date": "2026-11-07",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 111
+          "cumulative_views": 106
         },
         {
           "date": "2026-11-08",
-          "views": 5,
+          "views": 6,
           "uploads": 3,
-          "cumulative_views": 116
+          "cumulative_views": 112
         },
         {
           "date": "2026-11-09",
-          "views": 9,
+          "views": 10,
           "uploads": 2,
-          "cumulative_views": 125
+          "cumulative_views": 122
         },
         {
           "date": "2026-11-10",
-          "views": 32,
+          "views": 38,
           "uploads": 4,
-          "cumulative_views": 157
+          "cumulative_views": 160
         },
         {
           "date": "2026-11-11",
-          "views": 4,
+          "views": 7,
           "uploads": 3,
-          "cumulative_views": 161
+          "cumulative_views": 167
         },
         {
           "date": "2026-11-12",
           "views": 0,
-          "uploads": 1,
-          "cumulative_views": 161
+          "uploads": 2,
+          "cumulative_views": 167
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7707341065723874591",
+          "youtube_id": "ChO2JB9cVFw",
+          "title": "Cheesy Broccoli Bacon Skillet \u2728",
+          "tiktok_views": 7541,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/ChO2JB9cVFw/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-12T22:17:47Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1121,7 +1135,7 @@
           "youtube_id": "yHmZ0C0Y8Fo",
           "title": "Cheesy Vegetable Stuffed Meatballs \u2728",
           "tiktok_views": 3113,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yHmZ0C0Y8Fo/hqdefault.jpg",
@@ -1149,7 +1163,7 @@
           "youtube_id": "73cJ6iy8qBU",
           "title": "Hidden Chocolate Strawberry Cheesecake Bites \ud83c\udf53\ud83c\udf6b",
           "tiktok_views": 2773,
-          "youtube_views": 2,
+          "youtube_views": 3,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/73cJ6iy8qBU/hqdefault.jpg",
@@ -1191,7 +1205,7 @@
           "youtube_id": "7TWmsPO1piE",
           "title": "Crispy Cheesy Chicken & Broccoli Meatballs You'll Make Again \u2728",
           "tiktok_views": 3515,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7TWmsPO1piE/hqdefault.jpg",
@@ -1205,7 +1219,7 @@
           "youtube_id": "qrL9QMUPMLA",
           "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
           "tiktok_views": 6768,
-          "youtube_views": 17,
+          "youtube_views": 22,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -1219,7 +1233,7 @@
           "youtube_id": "S4oOSEQEabA",
           "title": "The Secret to the Juiciest Cheesy Meatballs You'll Ever Make \u2728",
           "tiktok_views": 4290,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/S4oOSEQEabA/hqdefault.jpg",
@@ -1247,7 +1261,7 @@
           "youtube_id": "t4lOdSWjsLg",
           "title": "Crispy Cheesy Chicken Slices \u2728",
           "tiktok_views": 7662,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/t4lOdSWjsLg/hqdefault.jpg",
@@ -1359,7 +1373,7 @@
           "youtube_id": "g7jkjFvOb44",
           "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
           "tiktok_views": 5724,
-          "youtube_views": 21,
+          "youtube_views": 22,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -1429,7 +1443,7 @@
           "youtube_id": "8nVAWmiUdqM",
           "title": "Caramel Strawberry Nutella Dream Cake \ud83c\udf53\u2728",
           "tiktok_views": 6340,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8nVAWmiUdqM/hqdefault.jpg",
@@ -1485,7 +1499,7 @@
           "youtube_id": "eSKbV0JlS68",
           "title": "Cheesy Puff Pastry Sausage Muffins \ud83e\uddc0\ud83e\udd50",
           "tiktok_views": 3734,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/eSKbV0JlS68/hqdefault.jpg",
@@ -1505,23 +1519,19 @@
           "thumbnail": "https://i.ytimg.com/vi/2O4yNgj2TdQ/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-11-02T23:27:24Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7649465159429164302",
-          "youtube_id": "lHTOsuX0lRc",
-          "title": "The Fluffiest Chocolate Banana Cake Secret I Ever Learned \ud83c\udf4c\ud83c\udf6b\u2728",
-          "tiktok_views": 7517,
-          "youtube_views": 8,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/lHTOsuX0lRc/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-11-02T07:22:21Z"
         }
       ],
       "runs": [
+        {
+          "id": 201,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-11-12",
+          "status": "success",
+          "video_id": "ChO2JB9cVFw",
+          "error_message": null,
+          "created_at": "2026-11-12T22:16:59.755964+00:00"
+        },
         {
           "id": 200,
           "channel_id": "channel_2",
@@ -1711,16 +1721,6 @@
           "video_id": "DpBN5-bxa50",
           "error_message": null,
           "created_at": "2026-11-07T01:53:35.838699+00:00"
-        },
-        {
-          "id": 181,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-11-06",
-          "status": "success",
-          "video_id": "7VkCTL_WD94",
-          "error_message": null,
-          "created_at": "2026-11-06T21:22:36.898290+00:00"
         }
       ]
     },
@@ -3057,6 +3057,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7707341065723874591",
+      "youtube_id": "ChO2JB9cVFw",
+      "title": "Cheesy Broccoli Bacon Skillet \u2728",
+      "tiktok_views": 7541,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/ChO2JB9cVFw/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-12T22:17:47Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7655709262731119885",
       "youtube_id": "bVZcjQ242ao",
       "title": "The Most Delicious Recipe You Need To Try! \ud83c\udf73\u2728",
@@ -3075,7 +3089,7 @@
       "youtube_id": "yHmZ0C0Y8Fo",
       "title": "Cheesy Vegetable Stuffed Meatballs \u2728",
       "tiktok_views": 3113,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yHmZ0C0Y8Fo/hqdefault.jpg",
@@ -3103,7 +3117,7 @@
       "youtube_id": "73cJ6iy8qBU",
       "title": "Hidden Chocolate Strawberry Cheesecake Bites \ud83c\udf53\ud83c\udf6b",
       "tiktok_views": 2773,
-      "youtube_views": 2,
+      "youtube_views": 3,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/73cJ6iy8qBU/hqdefault.jpg",
@@ -3159,7 +3173,7 @@
       "youtube_id": "7TWmsPO1piE",
       "title": "Crispy Cheesy Chicken & Broccoli Meatballs You'll Make Again \u2728",
       "tiktok_views": 3515,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7TWmsPO1piE/hqdefault.jpg",
@@ -3173,7 +3187,7 @@
       "youtube_id": "qrL9QMUPMLA",
       "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
       "tiktok_views": 6768,
-      "youtube_views": 17,
+      "youtube_views": 22,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -3187,7 +3201,7 @@
       "youtube_id": "S4oOSEQEabA",
       "title": "The Secret to the Juiciest Cheesy Meatballs You'll Ever Make \u2728",
       "tiktok_views": 4290,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/S4oOSEQEabA/hqdefault.jpg",
@@ -3215,7 +3229,7 @@
       "youtube_id": "t4lOdSWjsLg",
       "title": "Crispy Cheesy Chicken Slices \u2728",
       "tiktok_views": 7662,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/t4lOdSWjsLg/hqdefault.jpg",
@@ -3327,7 +3341,7 @@
       "youtube_id": "g7jkjFvOb44",
       "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
       "tiktok_views": 5724,
-      "youtube_views": 21,
+      "youtube_views": 22,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -3411,7 +3425,7 @@
       "youtube_id": "8nVAWmiUdqM",
       "title": "Caramel Strawberry Nutella Dream Cake \ud83c\udf53\u2728",
       "tiktok_views": 6340,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8nVAWmiUdqM/hqdefault.jpg",
@@ -3523,7 +3537,7 @@
       "youtube_id": "eSKbV0JlS68",
       "title": "Cheesy Puff Pastry Sausage Muffins \ud83e\uddc0\ud83e\udd50",
       "tiktok_views": 3734,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/eSKbV0JlS68/hqdefault.jpg",
@@ -3613,20 +3627,6 @@
       "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-11-02T07:39:41Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7649465159429164302",
-      "youtube_id": "lHTOsuX0lRc",
-      "title": "The Fluffiest Chocolate Banana Cake Secret I Ever Learned \ud83c\udf4c\ud83c\udf6b\u2728",
-      "tiktok_views": 7517,
-      "youtube_views": 8,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/lHTOsuX0lRc/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-11-02T07:22:21Z"
     },
     {
       "channel_id": "channel_1",
@@ -4611,7 +4611,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 158,
-    "total_views": 851,
+    "total_views": 863,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -5131,6 +5131,16 @@
     ],
     "runs": [
       {
+        "id": 191,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-11-12",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-12T22:40:47.702414+00:00"
+      },
+      {
         "id": 190,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5319,22 +5329,12 @@
         "video_id": null,
         "error_message": "No unposted videos found.",
         "created_at": "2026-11-06T08:53:02.918991+00:00"
-      },
-      {
-        "id": 171,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-11-06",
-        "status": "no_content",
-        "video_id": null,
-        "error_message": "No unposted videos found.",
-        "created_at": "2026-11-06T03:33:56.534950+00:00"
       }
     ]
   },
   "kpis": {
-    "total_uploads": 448,
-    "total_views": 140828,
+    "total_uploads": 449,
+    "total_views": 140864,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5365,6 +5365,16 @@
     }
   },
   "runs": [
+    {
+      "id": 191,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-11-12",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-12T22:40:47.702414+00:00"
+    },
     {
       "id": 190,
       "channel_id": "channel_1",
@@ -5554,17 +5564,7 @@
       "video_id": null,
       "error_message": "No unposted videos found.",
       "created_at": "2026-11-06T08:53:02.918991+00:00"
-    },
-    {
-      "id": 171,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-11-06",
-      "status": "no_content",
-      "video_id": null,
-      "error_message": "No unposted videos found.",
-      "created_at": "2026-11-06T03:33:56.534950+00:00"
     }
   ],
-  "last_updated": "2026-11-12T09:10:25.243529+00:00"
+  "last_updated": "2026-11-12T22:40:52.268888+00:00"
 }
