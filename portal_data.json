@@ -171,82 +171,82 @@
     {
       "date": "2026-11-03",
       "ch1_views": 122,
-      "ch2_views": 17,
+      "ch2_views": 18,
       "ch3_views": 176,
       "ch4_views": 0,
-      "total_views": 315
+      "total_views": 316
     },
     {
       "date": "2026-11-04",
       "ch1_views": 126,
-      "ch2_views": 29,
+      "ch2_views": 30,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 155
+      "total_views": 156
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 39,
+      "ch2_views": 40,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 39
+      "total_views": 40
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 88,
+      "ch2_views": 91,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 88
+      "total_views": 91
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 106,
+      "ch2_views": 109,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 106
+      "total_views": 109
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 112,
+      "ch2_views": 118,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 112
+      "total_views": 118
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 122,
+      "ch2_views": 128,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 122
+      "total_views": 128
     },
     {
       "date": "2026-11-10",
       "ch1_views": 132,
-      "ch2_views": 159,
+      "ch2_views": 167,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 291
+      "total_views": 299
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 166,
+      "ch2_views": 174,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 166
+      "total_views": 174
     },
     {
       "date": "2026-11-12",
       "ch1_views": 0,
-      "ch2_views": 166,
+      "ch2_views": 175,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 166
+      "total_views": 175
     }
   ],
   "channels": {
@@ -1040,63 +1040,63 @@
         },
         {
           "date": "2026-11-03",
-          "views": 14,
+          "views": 15,
           "uploads": 3,
-          "cumulative_views": 17
+          "cumulative_views": 18
         },
         {
           "date": "2026-11-04",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 29
+          "cumulative_views": 30
         },
         {
           "date": "2026-11-05",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 39
+          "cumulative_views": 40
         },
         {
           "date": "2026-11-06",
-          "views": 49,
+          "views": 51,
           "uploads": 3,
-          "cumulative_views": 88
+          "cumulative_views": 91
         },
         {
           "date": "2026-11-07",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 106
+          "cumulative_views": 109
         },
         {
           "date": "2026-11-08",
-          "views": 6,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 112
+          "cumulative_views": 118
         },
         {
           "date": "2026-11-09",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 122
+          "cumulative_views": 128
         },
         {
           "date": "2026-11-10",
-          "views": 37,
+          "views": 39,
           "uploads": 4,
-          "cumulative_views": 159
+          "cumulative_views": 167
         },
         {
           "date": "2026-11-11",
           "views": 7,
           "uploads": 3,
-          "cumulative_views": 166
+          "cumulative_views": 174
         },
         {
           "date": "2026-11-12",
-          "views": 0,
+          "views": 1,
           "uploads": 2,
-          "cumulative_views": 166
+          "cumulative_views": 175
         }
       ],
       "videos": [
@@ -1107,7 +1107,7 @@
           "youtube_id": "ChO2JB9cVFw",
           "title": "Cheesy Broccoli Bacon Skillet \u2728",
           "tiktok_views": 7541,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ChO2JB9cVFw/hqdefault.jpg",
@@ -1219,7 +1219,7 @@
           "youtube_id": "qrL9QMUPMLA",
           "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
           "tiktok_views": 6768,
-          "youtube_views": 21,
+          "youtube_views": 23,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -1261,7 +1261,7 @@
           "youtube_id": "t4lOdSWjsLg",
           "title": "Crispy Cheesy Chicken Slices \u2728",
           "tiktok_views": 7662,
-          "youtube_views": 5,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/t4lOdSWjsLg/hqdefault.jpg",
@@ -1359,7 +1359,7 @@
           "youtube_id": "cFMap834578",
           "title": "The Secret to the Softest Nutella Chocolate Loaf Cake \u2728",
           "tiktok_views": 5526,
-          "youtube_views": 20,
+          "youtube_views": 22,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/cFMap834578/hqdefault.jpg",
@@ -1499,7 +1499,7 @@
           "youtube_id": "eSKbV0JlS68",
           "title": "Cheesy Puff Pastry Sausage Muffins \ud83e\uddc0\ud83e\udd50",
           "tiktok_views": 3734,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/eSKbV0JlS68/hqdefault.jpg",
@@ -1522,6 +1522,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 202,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-11-13",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-13T02:28:25.101192+00:00"
+        },
         {
           "id": 201,
           "channel_id": "channel_2",
@@ -1711,16 +1721,6 @@
           "video_id": "KiVMWMqm6DI",
           "error_message": null,
           "created_at": "2026-11-07T07:00:17.283035+00:00"
-        },
-        {
-          "id": 182,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-11-07",
-          "status": "success",
-          "video_id": "DpBN5-bxa50",
-          "error_message": null,
-          "created_at": "2026-11-07T01:53:35.838699+00:00"
         }
       ]
     },
@@ -3061,7 +3061,7 @@
       "youtube_id": "ChO2JB9cVFw",
       "title": "Cheesy Broccoli Bacon Skillet \u2728",
       "tiktok_views": 7541,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ChO2JB9cVFw/hqdefault.jpg",
@@ -3187,7 +3187,7 @@
       "youtube_id": "qrL9QMUPMLA",
       "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
       "tiktok_views": 6768,
-      "youtube_views": 21,
+      "youtube_views": 23,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -3229,7 +3229,7 @@
       "youtube_id": "t4lOdSWjsLg",
       "title": "Crispy Cheesy Chicken Slices \u2728",
       "tiktok_views": 7662,
-      "youtube_views": 5,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/t4lOdSWjsLg/hqdefault.jpg",
@@ -3327,7 +3327,7 @@
       "youtube_id": "cFMap834578",
       "title": "The Secret to the Softest Nutella Chocolate Loaf Cake \u2728",
       "tiktok_views": 5526,
-      "youtube_views": 20,
+      "youtube_views": 22,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/cFMap834578/hqdefault.jpg",
@@ -3537,7 +3537,7 @@
       "youtube_id": "eSKbV0JlS68",
       "title": "Cheesy Puff Pastry Sausage Muffins \ud83e\uddc0\ud83e\udd50",
       "tiktok_views": 3734,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/eSKbV0JlS68/hqdefault.jpg",
@@ -5566,5 +5566,5 @@
       "created_at": "2026-11-06T08:53:02.918991+00:00"
     }
   ],
-  "last_updated": "2026-11-12T22:50:39.367211+00:00"
+  "last_updated": "2026-11-13T02:28:30.204090+00:00"
 }
