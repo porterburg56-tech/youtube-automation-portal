@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 449,
-    "total_views": 140881,
+    "total_uploads": 450,
+    "total_views": 140900,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -179,74 +179,74 @@
     {
       "date": "2026-11-04",
       "ch1_views": 128,
-      "ch2_views": 30,
+      "ch2_views": 31,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 158
+      "total_views": 159
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 40,
+      "ch2_views": 43,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 40
+      "total_views": 43
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 91,
+      "ch2_views": 98,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 91
+      "total_views": 98
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 109,
+      "ch2_views": 116,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 109
+      "total_views": 116
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 120,
+      "ch2_views": 127,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 120
+      "total_views": 127
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 130,
+      "ch2_views": 137,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 130
+      "total_views": 137
     },
     {
       "date": "2026-11-10",
       "ch1_views": 134,
-      "ch2_views": 170,
+      "ch2_views": 177,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 304
+      "total_views": 311
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 177,
+      "ch2_views": 186,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 177
+      "total_views": 186
     },
     {
       "date": "2026-11-12",
       "ch1_views": 0,
-      "ch2_views": 178,
+      "ch2_views": 190,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 178
+      "total_views": 190
     }
   ],
   "channels": {
@@ -266,7 +266,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 158,
-      "total_views": 863,
+      "total_views": 865,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -1002,8 +1002,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
-      "total_uploads": 167,
-      "total_views": 1844,
+      "total_uploads": 168,
+      "total_views": 1860,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1046,57 +1046,57 @@
         },
         {
           "date": "2026-11-04",
-          "views": 12,
+          "views": 13,
           "uploads": 3,
-          "cumulative_views": 30
+          "cumulative_views": 31
         },
         {
           "date": "2026-11-05",
-          "views": 10,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 40
+          "cumulative_views": 43
         },
         {
           "date": "2026-11-06",
-          "views": 51,
+          "views": 55,
           "uploads": 3,
-          "cumulative_views": 91
+          "cumulative_views": 98
         },
         {
           "date": "2026-11-07",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 109
+          "cumulative_views": 116
         },
         {
           "date": "2026-11-08",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 120
+          "cumulative_views": 127
         },
         {
           "date": "2026-11-09",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 130
+          "cumulative_views": 137
         },
         {
           "date": "2026-11-10",
           "views": 40,
           "uploads": 4,
-          "cumulative_views": 170
-        },
-        {
-          "date": "2026-11-11",
-          "views": 7,
-          "uploads": 3,
           "cumulative_views": 177
         },
         {
+          "date": "2026-11-11",
+          "views": 9,
+          "uploads": 3,
+          "cumulative_views": 186
+        },
+        {
           "date": "2026-11-12",
-          "views": 1,
+          "views": 4,
           "uploads": 2,
-          "cumulative_views": 178
+          "cumulative_views": 190
         }
       ],
       "videos": [
@@ -1107,7 +1107,7 @@
           "youtube_id": "ChO2JB9cVFw",
           "title": "Cheesy Broccoli Bacon Skillet \u2728",
           "tiktok_views": 7541,
-          "youtube_views": 1,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ChO2JB9cVFw/hqdefault.jpg",
@@ -1135,7 +1135,7 @@
           "youtube_id": "yHmZ0C0Y8Fo",
           "title": "Cheesy Vegetable Stuffed Meatballs \u2728",
           "tiktok_views": 3113,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/yHmZ0C0Y8Fo/hqdefault.jpg",
@@ -1373,7 +1373,7 @@
           "youtube_id": "g7jkjFvOb44",
           "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
           "tiktok_views": 5724,
-          "youtube_views": 22,
+          "youtube_views": 26,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -1415,7 +1415,7 @@
           "youtube_id": "lhJli_ZTatY",
           "title": "The Secret to Soft & Cheesy Cabbage Pancakes \u2728",
           "tiktok_views": 5792,
-          "youtube_views": 3,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lhJli_ZTatY/hqdefault.jpg",
@@ -1443,7 +1443,7 @@
           "youtube_id": "8nVAWmiUdqM",
           "title": "Caramel Strawberry Nutella Dream Cake \ud83c\udf53\u2728",
           "tiktok_views": 6340,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8nVAWmiUdqM/hqdefault.jpg",
@@ -1522,6 +1522,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 206,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-11-13",
+          "status": "success",
+          "video_id": "bs81qQeUErY",
+          "error_message": null,
+          "created_at": "2026-11-13T21:58:15.622969+00:00"
+        },
         {
           "id": 205,
           "channel_id": "channel_2",
@@ -1711,16 +1721,6 @@
           "video_id": "t4lOdSWjsLg",
           "error_message": null,
           "created_at": "2026-11-08T20:16:45.936616+00:00"
-        },
-        {
-          "id": 186,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-11-08",
-          "status": "success",
-          "video_id": "WAJj-ruALOE",
-          "error_message": null,
-          "created_at": "2026-11-08T07:12:23.396952+00:00"
         }
       ]
     },
@@ -1740,7 +1740,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 104,
-      "total_views": 136604,
+      "total_views": 136605,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -3061,7 +3061,7 @@
       "youtube_id": "ChO2JB9cVFw",
       "title": "Cheesy Broccoli Bacon Skillet \u2728",
       "tiktok_views": 7541,
-      "youtube_views": 1,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ChO2JB9cVFw/hqdefault.jpg",
@@ -3089,7 +3089,7 @@
       "youtube_id": "yHmZ0C0Y8Fo",
       "title": "Cheesy Vegetable Stuffed Meatballs \u2728",
       "tiktok_views": 3113,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/yHmZ0C0Y8Fo/hqdefault.jpg",
@@ -3341,7 +3341,7 @@
       "youtube_id": "g7jkjFvOb44",
       "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
       "tiktok_views": 5724,
-      "youtube_views": 22,
+      "youtube_views": 26,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -3383,7 +3383,7 @@
       "youtube_id": "lhJli_ZTatY",
       "title": "The Secret to Soft & Cheesy Cabbage Pancakes \u2728",
       "tiktok_views": 5792,
-      "youtube_views": 3,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lhJli_ZTatY/hqdefault.jpg",
@@ -3425,7 +3425,7 @@
       "youtube_id": "8nVAWmiUdqM",
       "title": "Caramel Strawberry Nutella Dream Cake \ud83c\udf53\u2728",
       "tiktok_views": 6340,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8nVAWmiUdqM/hqdefault.jpg",
@@ -4611,7 +4611,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 158,
-    "total_views": 863,
+    "total_views": 865,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -5333,8 +5333,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 449,
-    "total_views": 140881,
+    "total_uploads": 450,
+    "total_views": 140900,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5566,5 +5566,5 @@
       "created_at": "2026-11-07T03:02:56.076707+00:00"
     }
   ],
-  "last_updated": "2026-11-13T09:00:57.253792+00:00"
+  "last_updated": "2026-11-13T21:58:21.206050+00:00"
 }
