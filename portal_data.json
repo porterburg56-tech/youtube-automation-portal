@@ -163,90 +163,98 @@
     {
       "date": "2026-11-02",
       "ch1_views": 113,
-      "ch2_views": 3,
+      "ch2_views": 0,
       "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 286
+      "total_views": 283
     },
     {
       "date": "2026-11-03",
       "ch1_views": 124,
-      "ch2_views": 18,
+      "ch2_views": 15,
       "ch3_views": 176,
       "ch4_views": 0,
-      "total_views": 318
+      "total_views": 315
     },
     {
       "date": "2026-11-04",
       "ch1_views": 128,
-      "ch2_views": 31,
+      "ch2_views": 28,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 159
+      "total_views": 156
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 43,
+      "ch2_views": 40,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 43
+      "total_views": 40
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 98,
+      "ch2_views": 95,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 98
+      "total_views": 95
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 116,
+      "ch2_views": 113,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 116
+      "total_views": 113
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 127,
+      "ch2_views": 124,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 127
+      "total_views": 124
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 137,
+      "ch2_views": 134,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 137
+      "total_views": 134
     },
     {
       "date": "2026-11-10",
       "ch1_views": 134,
-      "ch2_views": 177,
+      "ch2_views": 174,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 311
+      "total_views": 308
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 186,
+      "ch2_views": 183,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 186
+      "total_views": 183
     },
     {
       "date": "2026-11-12",
       "ch1_views": 0,
-      "ch2_views": 190,
+      "ch2_views": 187,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 190
+      "total_views": 187
+    },
+    {
+      "date": "2026-11-13",
+      "ch1_views": 0,
+      "ch2_views": 187,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 187
     }
   ],
   "channels": {
@@ -786,6 +794,16 @@
       ],
       "runs": [
         {
+          "id": 194,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-11-13",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-13T22:28:21.526342+00:00"
+        },
+        {
           "id": 193,
           "channel_id": "channel_1",
           "slot": 3,
@@ -974,16 +992,6 @@
           "video_id": null,
           "error_message": "No unposted videos found.",
           "created_at": "2026-11-07T08:13:30.711028+00:00"
-        },
-        {
-          "id": 174,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-11-07",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-07T03:02:56.076707+00:00"
         }
       ]
     },
@@ -1033,73 +1041,87 @@
       },
       "view_history": [
         {
-          "date": "2026-11-02",
-          "views": 3,
-          "uploads": 1,
-          "cumulative_views": 3
-        },
-        {
           "date": "2026-11-03",
           "views": 15,
           "uploads": 3,
-          "cumulative_views": 18
+          "cumulative_views": 15
         },
         {
           "date": "2026-11-04",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 31
+          "cumulative_views": 28
         },
         {
           "date": "2026-11-05",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 43
+          "cumulative_views": 40
         },
         {
           "date": "2026-11-06",
           "views": 55,
           "uploads": 3,
-          "cumulative_views": 98
+          "cumulative_views": 95
         },
         {
           "date": "2026-11-07",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 116
+          "cumulative_views": 113
         },
         {
           "date": "2026-11-08",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 127
+          "cumulative_views": 124
         },
         {
           "date": "2026-11-09",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 137
+          "cumulative_views": 134
         },
         {
           "date": "2026-11-10",
           "views": 40,
           "uploads": 4,
-          "cumulative_views": 177
+          "cumulative_views": 174
         },
         {
           "date": "2026-11-11",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 186
+          "cumulative_views": 183
         },
         {
           "date": "2026-11-12",
           "views": 4,
           "uploads": 2,
-          "cumulative_views": 190
+          "cumulative_views": 187
+        },
+        {
+          "date": "2026-11-13",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 187
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7707714602116648206",
+          "youtube_id": "bs81qQeUErY",
+          "title": "Crispy Cheesy Chicken Patties with Creamy Cheddar Sauce \u2728",
+          "tiktok_views": 6346,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/bs81qQeUErY/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-13T21:59:02Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1505,20 +1527,6 @@
           "thumbnail": "https://i.ytimg.com/vi/eSKbV0JlS68/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-11-03T03:36:56Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7658729678919732494",
-          "youtube_id": "2O4yNgj2TdQ",
-          "title": "Creamy Lemon White Chocolate Ladyfinger Cups \ud83c\udf4b",
-          "tiktok_views": 6818,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/2O4yNgj2TdQ/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-11-02T23:27:24Z"
         }
       ],
       "runs": [
@@ -3057,6 +3065,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7707714602116648206",
+      "youtube_id": "bs81qQeUErY",
+      "title": "Crispy Cheesy Chicken Patties with Creamy Cheddar Sauce \u2728",
+      "tiktok_views": 6346,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/bs81qQeUErY/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-13T21:59:02Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7707341065723874591",
       "youtube_id": "ChO2JB9cVFw",
       "title": "Cheesy Broccoli Bacon Skillet \u2728",
@@ -3585,20 +3607,6 @@
       "thumbnail": "https://i.ytimg.com/vi/nAy_9KAIaxY/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-11-02T23:51:28Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7658729678919732494",
-      "youtube_id": "2O4yNgj2TdQ",
-      "title": "Creamy Lemon White Chocolate Ladyfinger Cups \ud83c\udf4b",
-      "tiktok_views": 6818,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/2O4yNgj2TdQ/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-11-02T23:27:24Z"
     },
     {
       "channel_id": "channel_1",
@@ -5131,6 +5139,16 @@
     ],
     "runs": [
       {
+        "id": 194,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-11-13",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-13T22:28:21.526342+00:00"
+      },
+      {
         "id": 193,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5319,16 +5337,6 @@
         "video_id": null,
         "error_message": "No unposted videos found.",
         "created_at": "2026-11-07T08:13:30.711028+00:00"
-      },
-      {
-        "id": 174,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-11-07",
-        "status": "no_content",
-        "video_id": null,
-        "error_message": "No unposted videos found.",
-        "created_at": "2026-11-07T03:02:56.076707+00:00"
       }
     ]
   },
@@ -5365,6 +5373,16 @@
     }
   },
   "runs": [
+    {
+      "id": 194,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-11-13",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-13T22:28:21.526342+00:00"
+    },
     {
       "id": 193,
       "channel_id": "channel_1",
@@ -5554,17 +5572,7 @@
       "video_id": null,
       "error_message": "No unposted videos found.",
       "created_at": "2026-11-07T08:13:30.711028+00:00"
-    },
-    {
-      "id": 174,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-11-07",
-      "status": "no_content",
-      "video_id": null,
-      "error_message": "No unposted videos found.",
-      "created_at": "2026-11-07T03:02:56.076707+00:00"
     }
   ],
-  "last_updated": "2026-11-13T21:58:21.206050+00:00"
+  "last_updated": "2026-11-13T22:28:26.284563+00:00"
 }
