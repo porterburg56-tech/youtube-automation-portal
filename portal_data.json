@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 450,
-    "total_views": 140900,
+    "total_views": 140917,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -195,66 +195,66 @@
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 95,
+      "ch2_views": 96,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 95
+      "total_views": 96
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 113,
+      "ch2_views": 114,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 113
+      "total_views": 114
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 124,
+      "ch2_views": 125,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 124
+      "total_views": 125
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 134,
+      "ch2_views": 135,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 134
+      "total_views": 135
     },
     {
       "date": "2026-11-10",
       "ch1_views": 134,
-      "ch2_views": 174,
+      "ch2_views": 175,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 308
+      "total_views": 309
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 183,
+      "ch2_views": 184,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 183
+      "total_views": 184
     },
     {
       "date": "2026-11-12",
       "ch1_views": 0,
-      "ch2_views": 187,
+      "ch2_views": 188,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 187
+      "total_views": 188
     },
     {
       "date": "2026-11-13",
       "ch1_views": 0,
-      "ch2_views": 187,
+      "ch2_views": 188,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 187
+      "total_views": 188
     }
   ],
   "channels": {
@@ -274,7 +274,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 158,
-      "total_views": 865,
+      "total_views": 866,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -1011,7 +1011,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
       "total_uploads": 168,
-      "total_views": 1860,
+      "total_views": 1876,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1060,51 +1060,51 @@
         },
         {
           "date": "2026-11-06",
-          "views": 55,
+          "views": 56,
           "uploads": 3,
-          "cumulative_views": 95
+          "cumulative_views": 96
         },
         {
           "date": "2026-11-07",
           "views": 18,
           "uploads": 3,
-          "cumulative_views": 113
+          "cumulative_views": 114
         },
         {
           "date": "2026-11-08",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 124
+          "cumulative_views": 125
         },
         {
           "date": "2026-11-09",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 134
+          "cumulative_views": 135
         },
         {
           "date": "2026-11-10",
           "views": 40,
           "uploads": 4,
-          "cumulative_views": 174
+          "cumulative_views": 175
         },
         {
           "date": "2026-11-11",
           "views": 9,
           "uploads": 3,
-          "cumulative_views": 183
+          "cumulative_views": 184
         },
         {
           "date": "2026-11-12",
           "views": 4,
           "uploads": 2,
-          "cumulative_views": 187
+          "cumulative_views": 188
         },
         {
           "date": "2026-11-13",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 187
+          "cumulative_views": 188
         }
       ],
       "videos": [
@@ -1367,7 +1367,7 @@
           "youtube_id": "7VkCTL_WD94",
           "title": "Cheesy Stuffed Cabbage Meatballs \u2728",
           "tiktok_views": 2158,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7VkCTL_WD94/hqdefault.jpg",
@@ -1530,6 +1530,36 @@
         }
       ],
       "runs": [
+        {
+          "id": 210,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-14",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-14T07:20:38.533643+00:00"
+        },
+        {
+          "id": 209,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-14",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-14T07:20:17.381309+00:00"
+        },
+        {
+          "id": 208,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-14",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-14T07:19:55.951811+00:00"
+        },
         {
           "id": 207,
           "channel_id": "channel_2",
@@ -1699,36 +1729,6 @@
           "video_id": "7TWmsPO1piE",
           "error_message": null,
           "created_at": "2026-11-10T04:16:25.866244+00:00"
-        },
-        {
-          "id": 190,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-11-09",
-          "status": "success",
-          "video_id": "qrL9QMUPMLA",
-          "error_message": null,
-          "created_at": "2026-11-10T00:17:00.307087+00:00"
-        },
-        {
-          "id": 189,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-11-09",
-          "status": "success",
-          "video_id": "S4oOSEQEabA",
-          "error_message": null,
-          "created_at": "2026-11-09T07:47:26.328225+00:00"
-        },
-        {
-          "id": 188,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-11-09",
-          "status": "success",
-          "video_id": "rUaebs1NTu0",
-          "error_message": null,
-          "created_at": "2026-11-09T01:43:09.562122+00:00"
         }
       ]
     },
@@ -3335,7 +3335,7 @@
       "youtube_id": "7VkCTL_WD94",
       "title": "Cheesy Stuffed Cabbage Meatballs \u2728",
       "tiktok_views": 2158,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7VkCTL_WD94/hqdefault.jpg",
@@ -4619,7 +4619,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 158,
-    "total_views": 865,
+    "total_views": 866,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -5342,7 +5342,7 @@
   },
   "kpis": {
     "total_uploads": 450,
-    "total_views": 140900,
+    "total_views": 140917,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5574,5 +5574,5 @@
       "created_at": "2026-11-07T20:46:07.855883+00:00"
     }
   ],
-  "last_updated": "2026-11-14T03:28:03.433662+00:00"
+  "last_updated": "2026-11-14T07:20:46.912576+00:00"
 }
