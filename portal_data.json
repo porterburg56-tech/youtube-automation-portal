@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 451,
-    "total_views": 140925,
+    "total_views": 140928,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -282,7 +282,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 158,
-      "total_views": 867,
+      "total_views": 870,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -802,6 +802,16 @@
       ],
       "runs": [
         {
+          "id": 198,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-11-15",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-15T02:57:49.564843+00:00"
+        },
+        {
           "id": 197,
           "channel_id": "channel_1",
           "slot": 1,
@@ -990,16 +1000,6 @@
           "video_id": null,
           "error_message": "No unposted videos found.",
           "created_at": "2026-11-08T21:02:06.784927+00:00"
-        },
-        {
-          "id": 178,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-11-08",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-08T08:29:54.074522+00:00"
         }
       ]
     },
@@ -4633,7 +4633,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 158,
-    "total_views": 867,
+    "total_views": 870,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -5153,6 +5153,16 @@
     ],
     "runs": [
       {
+        "id": 198,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-11-15",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-15T02:57:49.564843+00:00"
+      },
+      {
         "id": 197,
         "channel_id": "channel_1",
         "slot": 1,
@@ -5341,22 +5351,12 @@
         "video_id": null,
         "error_message": "No unposted videos found.",
         "created_at": "2026-11-08T21:02:06.784927+00:00"
-      },
-      {
-        "id": 178,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-11-08",
-        "status": "no_content",
-        "video_id": null,
-        "error_message": "No unposted videos found.",
-        "created_at": "2026-11-08T08:29:54.074522+00:00"
       }
     ]
   },
   "kpis": {
     "total_uploads": 451,
-    "total_views": 140925,
+    "total_views": 140928,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5387,6 +5387,16 @@
     }
   },
   "runs": [
+    {
+      "id": 198,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-11-15",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-15T02:57:49.564843+00:00"
+    },
     {
       "id": 197,
       "channel_id": "channel_1",
@@ -5576,17 +5586,7 @@
       "video_id": null,
       "error_message": "No unposted videos found.",
       "created_at": "2026-11-08T21:02:06.784927+00:00"
-    },
-    {
-      "id": 178,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-11-08",
-      "status": "no_content",
-      "video_id": null,
-      "error_message": "No unposted videos found.",
-      "created_at": "2026-11-08T08:29:54.074522+00:00"
     }
   ],
-  "last_updated": "2026-11-15T02:00:17.757437+00:00"
+  "last_updated": "2026-11-15T02:57:53.323895+00:00"
 }
