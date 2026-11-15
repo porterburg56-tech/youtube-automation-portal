@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 451,
-    "total_views": 140939,
+    "total_uploads": 452,
+    "total_views": 140949,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -154,102 +154,94 @@
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 114,
+      "ch1_views": 116,
       "ch2_views": 0,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 262
+      "total_views": 264
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 114,
+      "ch1_views": 116,
       "ch2_views": 0,
-      "ch3_views": 170,
+      "ch3_views": 172,
       "ch4_views": 0,
-      "total_views": 284
+      "total_views": 288
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 125,
+      "ch1_views": 127,
       "ch2_views": 6,
-      "ch3_views": 176,
+      "ch3_views": 178,
       "ch4_views": 0,
-      "total_views": 307
+      "total_views": 311
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 129,
-      "ch2_views": 19,
+      "ch1_views": 131,
+      "ch2_views": 20,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 148
+      "total_views": 151
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 32,
+      "ch2_views": 33,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 32
+      "total_views": 33
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 88,
+      "ch2_views": 91,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 88
+      "total_views": 91
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 108,
+      "ch2_views": 111,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 108
+      "total_views": 111
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 119,
+      "ch2_views": 122,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 119
+      "total_views": 122
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 129,
+      "ch2_views": 132,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 129
+      "total_views": 132
     },
     {
       "date": "2026-11-10",
-      "ch1_views": 136,
-      "ch2_views": 173,
+      "ch1_views": 139,
+      "ch2_views": 177,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 309
+      "total_views": 316
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 183,
+      "ch2_views": 187,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 183
+      "total_views": 187
     },
     {
       "date": "2026-11-12",
-      "ch1_views": 0,
-      "ch2_views": 189,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 189
-    },
-    {
-      "date": "2026-11-13",
       "ch1_views": 0,
       "ch2_views": 193,
       "ch3_views": 0,
@@ -257,12 +249,20 @@
       "total_views": 193
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-13",
       "ch1_views": 0,
-      "ch2_views": 195,
+      "ch2_views": 198,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 195
+      "total_views": 198
+    },
+    {
+      "date": "2026-11-14",
+      "ch1_views": 0,
+      "ch2_views": 202,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 202
     }
   ],
   "channels": {
@@ -349,33 +349,33 @@
         },
         {
           "date": "2026-11-01",
-          "views": 76,
+          "views": 78,
           "uploads": 3,
-          "cumulative_views": 114
+          "cumulative_views": 116
         },
         {
           "date": "2026-11-02",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 114
+          "cumulative_views": 116
         },
         {
           "date": "2026-11-03",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 125
+          "cumulative_views": 127
         },
         {
           "date": "2026-11-04",
           "views": 4,
           "uploads": 2,
-          "cumulative_views": 129
+          "cumulative_views": 131
         },
         {
           "date": "2026-11-10",
-          "views": 7,
+          "views": 8,
           "uploads": 1,
-          "cumulative_views": 136
+          "cumulative_views": 139
         }
       ],
       "videos": [
@@ -386,7 +386,7 @@
           "youtube_id": "l3Fhxv5P5H8",
           "title": "Grandpa Walked Past and This Baby Had One Mission \ud83d\ude02",
           "tiktok_views": 55600,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/l3Fhxv5P5H8/hqdefault.jpg",
@@ -526,7 +526,7 @@
           "youtube_id": "TzwyYFLz8_U",
           "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
           "tiktok_views": 4477,
-          "youtube_views": 58,
+          "youtube_views": 60,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -1018,8 +1018,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
-      "total_uploads": 169,
-      "total_views": 1894,
+      "total_uploads": 170,
+      "total_views": 1900,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1056,69 +1056,69 @@
         },
         {
           "date": "2026-11-04",
-          "views": 13,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 19
+          "cumulative_views": 20
         },
         {
           "date": "2026-11-05",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 32
+          "cumulative_views": 33
         },
         {
           "date": "2026-11-06",
-          "views": 56,
+          "views": 58,
           "uploads": 3,
-          "cumulative_views": 88
+          "cumulative_views": 91
         },
         {
           "date": "2026-11-07",
           "views": 20,
           "uploads": 3,
-          "cumulative_views": 108
+          "cumulative_views": 111
         },
         {
           "date": "2026-11-08",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 119
+          "cumulative_views": 122
         },
         {
           "date": "2026-11-09",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 129
+          "cumulative_views": 132
         },
         {
           "date": "2026-11-10",
-          "views": 44,
+          "views": 45,
           "uploads": 4,
-          "cumulative_views": 173
+          "cumulative_views": 177
         },
         {
           "date": "2026-11-11",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 183
+          "cumulative_views": 187
         },
         {
           "date": "2026-11-12",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 189
-        },
-        {
-          "date": "2026-11-13",
-          "views": 4,
-          "uploads": 1,
           "cumulative_views": 193
         },
         {
-          "date": "2026-11-14",
-          "views": 2,
+          "date": "2026-11-13",
+          "views": 5,
           "uploads": 1,
-          "cumulative_views": 195
+          "cumulative_views": 198
+        },
+        {
+          "date": "2026-11-14",
+          "views": 4,
+          "uploads": 1,
+          "cumulative_views": 202
         }
       ],
       "videos": [
@@ -1129,7 +1129,7 @@
           "youtube_id": "S3uE89VrUko",
           "title": "Cheesy Stuffed Meat Bites with Homemade Cheese Sauce \u2728",
           "tiktok_views": 16000,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/S3uE89VrUko/hqdefault.jpg",
@@ -1143,7 +1143,7 @@
           "youtube_id": "bs81qQeUErY",
           "title": "Crispy Cheesy Chicken Patties with Creamy Cheddar Sauce \u2728",
           "tiktok_views": 6346,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/bs81qQeUErY/hqdefault.jpg",
@@ -1269,7 +1269,7 @@
           "youtube_id": "qrL9QMUPMLA",
           "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
           "tiktok_views": 6768,
-          "youtube_views": 25,
+          "youtube_views": 26,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -1395,7 +1395,7 @@
           "youtube_id": "7VkCTL_WD94",
           "title": "Cheesy Stuffed Cabbage Meatballs \u2728",
           "tiktok_views": 2158,
-          "youtube_views": 8,
+          "youtube_views": 9,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7VkCTL_WD94/hqdefault.jpg",
@@ -1423,7 +1423,7 @@
           "youtube_id": "g7jkjFvOb44",
           "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
           "tiktok_views": 5724,
-          "youtube_views": 26,
+          "youtube_views": 27,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -1493,7 +1493,7 @@
           "youtube_id": "8nVAWmiUdqM",
           "title": "Caramel Strawberry Nutella Dream Cake \ud83c\udf53\u2728",
           "tiktok_views": 6340,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8nVAWmiUdqM/hqdefault.jpg",
@@ -1544,6 +1544,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 216,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-11-15",
+          "status": "success",
+          "video_id": "9hGzV_ftQ3Q",
+          "error_message": null,
+          "created_at": "2026-11-15T20:55:27.843840+00:00"
+        },
         {
           "id": 215,
           "channel_id": "channel_2",
@@ -1733,16 +1743,6 @@
           "video_id": "bVZcjQ242ao",
           "error_message": null,
           "created_at": "2026-11-12T02:55:09.361817+00:00"
-        },
-        {
-          "id": 196,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-11-11",
-          "status": "success",
-          "video_id": "yHmZ0C0Y8Fo",
-          "error_message": null,
-          "created_at": "2026-11-11T22:36:45.166634+00:00"
         }
       ]
     },
@@ -1762,7 +1762,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 104,
-      "total_views": 136605,
+      "total_views": 136609,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1847,15 +1847,15 @@
         },
         {
           "date": "2026-11-02",
-          "views": 22,
+          "views": 24,
           "uploads": 3,
-          "cumulative_views": 170
+          "cumulative_views": 172
         },
         {
           "date": "2026-11-03",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 176
+          "cumulative_views": 178
         }
       ],
       "videos": [
@@ -1894,7 +1894,7 @@
           "youtube_id": "lmU5-T_OTrA",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 12,
+          "youtube_views": 14,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
@@ -3083,7 +3083,7 @@
       "youtube_id": "S3uE89VrUko",
       "title": "Cheesy Stuffed Meat Bites with Homemade Cheese Sauce \u2728",
       "tiktok_views": 16000,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/S3uE89VrUko/hqdefault.jpg",
@@ -3097,7 +3097,7 @@
       "youtube_id": "bs81qQeUErY",
       "title": "Crispy Cheesy Chicken Patties with Creamy Cheddar Sauce \u2728",
       "tiktok_views": 6346,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/bs81qQeUErY/hqdefault.jpg",
@@ -3181,7 +3181,7 @@
       "youtube_id": "l3Fhxv5P5H8",
       "title": "Grandpa Walked Past and This Baby Had One Mission \ud83d\ude02",
       "tiktok_views": 55600,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/l3Fhxv5P5H8/hqdefault.jpg",
@@ -3237,7 +3237,7 @@
       "youtube_id": "qrL9QMUPMLA",
       "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
       "tiktok_views": 6768,
-      "youtube_views": 25,
+      "youtube_views": 26,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -3363,7 +3363,7 @@
       "youtube_id": "7VkCTL_WD94",
       "title": "Cheesy Stuffed Cabbage Meatballs \u2728",
       "tiktok_views": 2158,
-      "youtube_views": 8,
+      "youtube_views": 9,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7VkCTL_WD94/hqdefault.jpg",
@@ -3391,7 +3391,7 @@
       "youtube_id": "g7jkjFvOb44",
       "title": "Creamy Garlic Mushroom Salmon in Lemon Spinach Sauce | Easy One-Pan D \u2728",
       "tiktok_views": 5724,
-      "youtube_views": 26,
+      "youtube_views": 27,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
@@ -3475,7 +3475,7 @@
       "youtube_id": "8nVAWmiUdqM",
       "title": "Caramel Strawberry Nutella Dream Cake \ud83c\udf53\u2728",
       "tiktok_views": 6340,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8nVAWmiUdqM/hqdefault.jpg",
@@ -3643,7 +3643,7 @@
       "youtube_id": "lmU5-T_OTrA",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 12,
+      "youtube_views": 14,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
@@ -3713,7 +3713,7 @@
       "youtube_id": "TzwyYFLz8_U",
       "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
       "tiktok_views": 4477,
-      "youtube_views": 58,
+      "youtube_views": 60,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -4700,33 +4700,33 @@
       },
       {
         "date": "2026-11-01",
-        "views": 76,
+        "views": 78,
         "uploads": 3,
-        "cumulative_views": 114
+        "cumulative_views": 116
       },
       {
         "date": "2026-11-02",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 114
+        "cumulative_views": 116
       },
       {
         "date": "2026-11-03",
         "views": 11,
         "uploads": 3,
-        "cumulative_views": 125
+        "cumulative_views": 127
       },
       {
         "date": "2026-11-04",
         "views": 4,
         "uploads": 2,
-        "cumulative_views": 129
+        "cumulative_views": 131
       },
       {
         "date": "2026-11-10",
-        "views": 7,
+        "views": 8,
         "uploads": 1,
-        "cumulative_views": 136
+        "cumulative_views": 139
       }
     ],
     "videos": [
@@ -4737,7 +4737,7 @@
         "youtube_id": "l3Fhxv5P5H8",
         "title": "Grandpa Walked Past and This Baby Had One Mission \ud83d\ude02",
         "tiktok_views": 55600,
-        "youtube_views": 7,
+        "youtube_views": 8,
         "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/l3Fhxv5P5H8/hqdefault.jpg",
@@ -4877,7 +4877,7 @@
         "youtube_id": "TzwyYFLz8_U",
         "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
         "tiktok_views": 4477,
-        "youtube_views": 58,
+        "youtube_views": 60,
         "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -5355,8 +5355,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 451,
-    "total_views": 140939,
+    "total_uploads": 452,
+    "total_views": 140949,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5588,5 +5588,5 @@
       "created_at": "2026-11-09T02:53:58.099236+00:00"
     }
   ],
-  "last_updated": "2026-11-15T08:45:58.101172+00:00"
+  "last_updated": "2026-11-15T20:55:32.329631+00:00"
 }
