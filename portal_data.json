@@ -154,35 +154,35 @@
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 115,
+      "ch1_views": 114,
       "ch2_views": 0,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 263
+      "total_views": 262
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 115,
+      "ch1_views": 114,
       "ch2_views": 0,
       "ch3_views": 170,
       "ch4_views": 0,
-      "total_views": 285
+      "total_views": 284
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 126,
+      "ch1_views": 125,
       "ch2_views": 6,
       "ch3_views": 176,
       "ch4_views": 0,
-      "total_views": 308
+      "total_views": 307
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 130,
+      "ch1_views": 129,
       "ch2_views": 19,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 149
+      "total_views": 148
     },
     {
       "date": "2026-11-05",
@@ -226,8 +226,8 @@
     },
     {
       "date": "2026-11-10",
-      "ch1_views": 137,
-      "ch2_views": 172,
+      "ch1_views": 136,
+      "ch2_views": 173,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 309
@@ -235,34 +235,34 @@
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 182,
+      "ch2_views": 183,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 182
+      "total_views": 183
     },
     {
       "date": "2026-11-12",
       "ch1_views": 0,
-      "ch2_views": 188,
+      "ch2_views": 189,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 188
+      "total_views": 189
     },
     {
       "date": "2026-11-13",
-      "ch1_views": 0,
-      "ch2_views": 192,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 192
-    },
-    {
-      "date": "2026-11-14",
       "ch1_views": 0,
       "ch2_views": 193,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 193
+    },
+    {
+      "date": "2026-11-14",
+      "ch1_views": 0,
+      "ch2_views": 195,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 195
     }
   ],
   "channels": {
@@ -349,33 +349,33 @@
         },
         {
           "date": "2026-11-01",
-          "views": 77,
+          "views": 76,
           "uploads": 3,
-          "cumulative_views": 115
+          "cumulative_views": 114
         },
         {
           "date": "2026-11-02",
           "views": 0,
           "uploads": 3,
-          "cumulative_views": 115
+          "cumulative_views": 114
         },
         {
           "date": "2026-11-03",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 126
+          "cumulative_views": 125
         },
         {
           "date": "2026-11-04",
           "views": 4,
           "uploads": 2,
-          "cumulative_views": 130
+          "cumulative_views": 129
         },
         {
           "date": "2026-11-10",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 137
+          "cumulative_views": 136
         }
       ],
       "videos": [
@@ -526,7 +526,7 @@
           "youtube_id": "TzwyYFLz8_U",
           "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
           "tiktok_views": 4477,
-          "youtube_views": 59,
+          "youtube_views": 58,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -1092,33 +1092,33 @@
         },
         {
           "date": "2026-11-10",
-          "views": 43,
+          "views": 44,
           "uploads": 4,
-          "cumulative_views": 172
+          "cumulative_views": 173
         },
         {
           "date": "2026-11-11",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 182
+          "cumulative_views": 183
         },
         {
           "date": "2026-11-12",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 188
+          "cumulative_views": 189
         },
         {
           "date": "2026-11-13",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 192
+          "cumulative_views": 193
         },
         {
           "date": "2026-11-14",
-          "views": 1,
+          "views": 2,
           "uploads": 1,
-          "cumulative_views": 193
+          "cumulative_views": 195
         }
       ],
       "videos": [
@@ -1129,7 +1129,7 @@
           "youtube_id": "S3uE89VrUko",
           "title": "Cheesy Stuffed Meat Bites with Homemade Cheese Sauce \u2728",
           "tiktok_views": 16000,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/S3uE89VrUko/hqdefault.jpg",
@@ -1227,7 +1227,7 @@
           "youtube_id": "s8pqV9djvwg",
           "title": "Beer-Braised Beef with Creamy Mushroom Sauce & Homemade Pasta \u2728",
           "tiktok_views": 5892,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/s8pqV9djvwg/hqdefault.jpg",
@@ -1545,6 +1545,36 @@
       ],
       "runs": [
         {
+          "id": 215,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-15",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-15T07:31:34.180477+00:00"
+        },
+        {
+          "id": 214,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-15",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-15T07:31:13.218617+00:00"
+        },
+        {
+          "id": 213,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-15",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-15T07:30:52.372584+00:00"
+        },
+        {
           "id": 212,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1713,36 +1743,6 @@
           "video_id": "yHmZ0C0Y8Fo",
           "error_message": null,
           "created_at": "2026-11-11T22:36:45.166634+00:00"
-        },
-        {
-          "id": 195,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-11-11",
-          "status": "success",
-          "video_id": "mq1_4SFFb40",
-          "error_message": null,
-          "created_at": "2026-11-11T07:39:03.791425+00:00"
-        },
-        {
-          "id": 194,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-11-11",
-          "status": "success",
-          "video_id": "73cJ6iy8qBU",
-          "error_message": null,
-          "created_at": "2026-11-11T01:59:03.196725+00:00"
-        },
-        {
-          "id": 193,
-          "channel_id": "channel_2",
-          "slot": 1,
-          "run_date": "2026-11-10",
-          "status": "success",
-          "video_id": "s8pqV9djvwg",
-          "error_message": null,
-          "created_at": "2026-11-10T21:59:54.095488+00:00"
         }
       ]
     },
@@ -3083,7 +3083,7 @@
       "youtube_id": "S3uE89VrUko",
       "title": "Cheesy Stuffed Meat Bites with Homemade Cheese Sauce \u2728",
       "tiktok_views": 16000,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/S3uE89VrUko/hqdefault.jpg",
@@ -3195,7 +3195,7 @@
       "youtube_id": "s8pqV9djvwg",
       "title": "Beer-Braised Beef with Creamy Mushroom Sauce & Homemade Pasta \u2728",
       "tiktok_views": 5892,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/s8pqV9djvwg/hqdefault.jpg",
@@ -3713,7 +3713,7 @@
       "youtube_id": "TzwyYFLz8_U",
       "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
       "tiktok_views": 4477,
-      "youtube_views": 59,
+      "youtube_views": 58,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -4700,33 +4700,33 @@
       },
       {
         "date": "2026-11-01",
-        "views": 77,
+        "views": 76,
         "uploads": 3,
-        "cumulative_views": 115
+        "cumulative_views": 114
       },
       {
         "date": "2026-11-02",
         "views": 0,
         "uploads": 3,
-        "cumulative_views": 115
+        "cumulative_views": 114
       },
       {
         "date": "2026-11-03",
         "views": 11,
         "uploads": 3,
-        "cumulative_views": 126
+        "cumulative_views": 125
       },
       {
         "date": "2026-11-04",
         "views": 4,
         "uploads": 2,
-        "cumulative_views": 130
+        "cumulative_views": 129
       },
       {
         "date": "2026-11-10",
         "views": 7,
         "uploads": 1,
-        "cumulative_views": 137
+        "cumulative_views": 136
       }
     ],
     "videos": [
@@ -4877,7 +4877,7 @@
         "youtube_id": "TzwyYFLz8_U",
         "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
         "tiktok_views": 4477,
-        "youtube_views": 59,
+        "youtube_views": 58,
         "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -5588,5 +5588,5 @@
       "created_at": "2026-11-08T21:02:06.784927+00:00"
     }
   ],
-  "last_updated": "2026-11-15T02:57:53.323895+00:00"
+  "last_updated": "2026-11-15T07:31:38.165912+00:00"
 }
