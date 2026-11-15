@@ -171,77 +171,85 @@
     {
       "date": "2026-11-03",
       "ch1_views": 127,
-      "ch2_views": 6,
+      "ch2_views": 1,
       "ch3_views": 178,
       "ch4_views": 0,
-      "total_views": 311
+      "total_views": 306
     },
     {
       "date": "2026-11-04",
       "ch1_views": 131,
-      "ch2_views": 20,
+      "ch2_views": 15,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 151
+      "total_views": 146
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 33,
+      "ch2_views": 28,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 33
+      "total_views": 28
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 91,
+      "ch2_views": 86,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 91
+      "total_views": 86
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 111,
+      "ch2_views": 106,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 111
+      "total_views": 106
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 122,
+      "ch2_views": 117,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 122
+      "total_views": 117
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 132,
+      "ch2_views": 127,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 132
+      "total_views": 127
     },
     {
       "date": "2026-11-10",
       "ch1_views": 139,
-      "ch2_views": 177,
+      "ch2_views": 172,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 316
+      "total_views": 311
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 187,
+      "ch2_views": 182,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 187
+      "total_views": 182
     },
     {
       "date": "2026-11-12",
+      "ch1_views": 0,
+      "ch2_views": 188,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 188
+    },
+    {
+      "date": "2026-11-13",
       "ch1_views": 0,
       "ch2_views": 193,
       "ch3_views": 0,
@@ -249,20 +257,20 @@
       "total_views": 193
     },
     {
-      "date": "2026-11-13",
-      "ch1_views": 0,
-      "ch2_views": 198,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 198
-    },
-    {
       "date": "2026-11-14",
       "ch1_views": 0,
-      "ch2_views": 202,
+      "ch2_views": 197,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 202
+      "total_views": 197
+    },
+    {
+      "date": "2026-11-15",
+      "ch1_views": 0,
+      "ch2_views": 197,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 197
     }
   ],
   "channels": {
@@ -802,6 +810,16 @@
       ],
       "runs": [
         {
+          "id": 200,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-11-15",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-15T21:37:55.738698+00:00"
+        },
+        {
           "id": 199,
           "channel_id": "channel_1",
           "slot": 3,
@@ -990,16 +1008,6 @@
           "video_id": null,
           "error_message": "No unposted videos found.",
           "created_at": "2026-11-09T08:59:53.879763+00:00"
-        },
-        {
-          "id": 180,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-11-09",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-09T02:53:58.099236+00:00"
         }
       ]
     },
@@ -1050,78 +1058,98 @@
       "view_history": [
         {
           "date": "2026-11-03",
-          "views": 6,
-          "uploads": 2,
-          "cumulative_views": 6
+          "views": 1,
+          "uploads": 1,
+          "cumulative_views": 1
         },
         {
           "date": "2026-11-04",
           "views": 14,
           "uploads": 3,
-          "cumulative_views": 20
+          "cumulative_views": 15
         },
         {
           "date": "2026-11-05",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 33
+          "cumulative_views": 28
         },
         {
           "date": "2026-11-06",
           "views": 58,
           "uploads": 3,
-          "cumulative_views": 91
+          "cumulative_views": 86
         },
         {
           "date": "2026-11-07",
           "views": 20,
           "uploads": 3,
-          "cumulative_views": 111
+          "cumulative_views": 106
         },
         {
           "date": "2026-11-08",
           "views": 11,
           "uploads": 3,
-          "cumulative_views": 122
+          "cumulative_views": 117
         },
         {
           "date": "2026-11-09",
           "views": 10,
           "uploads": 2,
-          "cumulative_views": 132
+          "cumulative_views": 127
         },
         {
           "date": "2026-11-10",
           "views": 45,
           "uploads": 4,
-          "cumulative_views": 177
+          "cumulative_views": 172
         },
         {
           "date": "2026-11-11",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 187
+          "cumulative_views": 182
         },
         {
           "date": "2026-11-12",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 193
+          "cumulative_views": 188
         },
         {
           "date": "2026-11-13",
           "views": 5,
           "uploads": 1,
-          "cumulative_views": 198
+          "cumulative_views": 193
         },
         {
           "date": "2026-11-14",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 202
+          "cumulative_views": 197
+        },
+        {
+          "date": "2026-11-15",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 197
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7708456131152055566",
+          "youtube_id": "9hGzV_ftQ3Q",
+          "title": "Cheesy Minced Meat Nests with Creamy Mashed Potatoes \u2728",
+          "tiktok_views": 5778,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/9hGzV_ftQ3Q/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-15T20:55:52Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1527,20 +1555,6 @@
           "thumbnail": "https://i.ytimg.com/vi/dIfFwPOesNE/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-11-03T21:36:11Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7649089356308712717",
-          "youtube_id": "jYasY4u8HK0",
-          "title": "Hidden Apple Chocolate Puff Pastry Pies \ud83c\udf4f\ud83c\udf6b",
-          "tiktok_views": 7121,
-          "youtube_views": 5,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/jYasY4u8HK0/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-11-03T07:52:26Z"
         }
       ],
       "runs": [
@@ -3079,6 +3093,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7708456131152055566",
+      "youtube_id": "9hGzV_ftQ3Q",
+      "title": "Cheesy Minced Meat Nests with Creamy Mashed Potatoes \u2728",
+      "tiktok_views": 5778,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/9hGzV_ftQ3Q/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-15T20:55:52Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7708085543090883854",
       "youtube_id": "S3uE89VrUko",
       "title": "Cheesy Stuffed Meat Bites with Homemade Cheese Sauce \u2728",
@@ -3551,20 +3579,6 @@
       "thumbnail": "https://i.ytimg.com/vi/WnwYhE4rKu4/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-11-03T08:58:11Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7649089356308712717",
-      "youtube_id": "jYasY4u8HK0",
-      "title": "Hidden Apple Chocolate Puff Pastry Pies \ud83c\udf4f\ud83c\udf6b",
-      "tiktok_views": 7121,
-      "youtube_views": 5,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/jYasY4u8HK0/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-11-03T07:52:26Z"
     },
     {
       "channel_id": "channel_1",
@@ -5153,6 +5167,16 @@
     ],
     "runs": [
       {
+        "id": 200,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-11-15",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-15T21:37:55.738698+00:00"
+      },
+      {
         "id": 199,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5341,16 +5365,6 @@
         "video_id": null,
         "error_message": "No unposted videos found.",
         "created_at": "2026-11-09T08:59:53.879763+00:00"
-      },
-      {
-        "id": 180,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-11-09",
-        "status": "no_content",
-        "video_id": null,
-        "error_message": "No unposted videos found.",
-        "created_at": "2026-11-09T02:53:58.099236+00:00"
       }
     ]
   },
@@ -5387,6 +5401,16 @@
     }
   },
   "runs": [
+    {
+      "id": 200,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-11-15",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-15T21:37:55.738698+00:00"
+    },
     {
       "id": 199,
       "channel_id": "channel_1",
@@ -5576,17 +5600,7 @@
       "video_id": null,
       "error_message": "No unposted videos found.",
       "created_at": "2026-11-09T08:59:53.879763+00:00"
-    },
-    {
-      "id": 180,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-11-09",
-      "status": "no_content",
-      "video_id": null,
-      "error_message": "No unposted videos found.",
-      "created_at": "2026-11-09T02:53:58.099236+00:00"
     }
   ],
-  "last_updated": "2026-11-15T20:55:32.329631+00:00"
+  "last_updated": "2026-11-15T21:38:00.862347+00:00"
 }
