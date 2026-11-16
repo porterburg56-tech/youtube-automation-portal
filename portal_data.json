@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 452,
-    "total_views": 140987,
+    "total_views": 140962,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -290,7 +290,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 158,
-      "total_views": 908,
+      "total_views": 870,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -1027,7 +1027,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
       "total_uploads": 170,
-      "total_views": 1900,
+      "total_views": 1913,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -2296,6 +2296,16 @@
       ],
       "runs": [
         {
+          "id": 167,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-11-16",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-16T07:57:33.902419+00:00"
+        },
+        {
           "id": 166,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2484,16 +2494,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-10T04:08:29.251433+00:00"
-        },
-        {
-          "id": 147,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-11-10",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-10T00:41:12.606370+00:00"
         }
       ]
     },
@@ -4647,7 +4647,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 158,
-    "total_views": 908,
+    "total_views": 870,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -5370,7 +5370,7 @@
   },
   "kpis": {
     "total_uploads": 452,
-    "total_views": 140987,
+    "total_views": 140962,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5602,5 +5602,5 @@
       "created_at": "2026-11-10T00:38:31.040345+00:00"
     }
   ],
-  "last_updated": "2026-11-16T07:37:51.864713+00:00"
+  "last_updated": "2026-11-16T07:57:38.338037+00:00"
 }
