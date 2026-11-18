@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 454,
-    "total_views": 141059,
+    "total_views": 141073,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -832,6 +832,16 @@
       ],
       "runs": [
         {
+          "id": 208,
+          "channel_id": "channel_1",
+          "slot": 3,
+          "run_date": "2026-11-18",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-18T09:40:10.031985+00:00"
+        },
+        {
           "id": 207,
           "channel_id": "channel_1",
           "slot": 2,
@@ -1020,16 +1030,6 @@
           "video_id": null,
           "error_message": "No unposted videos found.",
           "created_at": "2026-11-12T04:03:15.356595+00:00"
-        },
-        {
-          "id": 188,
-          "channel_id": "channel_1",
-          "slot": 1,
-          "run_date": "2026-11-11",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-11T23:24:48.810200+00:00"
         }
       ]
     },
@@ -1049,7 +1049,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
       "total_uploads": 171,
-      "total_views": 1959,
+      "total_views": 1973,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -5195,6 +5195,16 @@
     ],
     "runs": [
       {
+        "id": 208,
+        "channel_id": "channel_1",
+        "slot": 3,
+        "run_date": "2026-11-18",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-18T09:40:10.031985+00:00"
+      },
+      {
         "id": 207,
         "channel_id": "channel_1",
         "slot": 2,
@@ -5383,22 +5393,12 @@
         "video_id": null,
         "error_message": "No unposted videos found.",
         "created_at": "2026-11-12T04:03:15.356595+00:00"
-      },
-      {
-        "id": 188,
-        "channel_id": "channel_1",
-        "slot": 1,
-        "run_date": "2026-11-11",
-        "status": "no_content",
-        "video_id": null,
-        "error_message": "No unposted videos found.",
-        "created_at": "2026-11-11T23:24:48.810200+00:00"
       }
     ]
   },
   "kpis": {
     "total_uploads": 454,
-    "total_views": 141059,
+    "total_views": 141073,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5429,6 +5429,16 @@
     }
   },
   "runs": [
+    {
+      "id": 208,
+      "channel_id": "channel_1",
+      "slot": 3,
+      "run_date": "2026-11-18",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-18T09:40:10.031985+00:00"
+    },
     {
       "id": 207,
       "channel_id": "channel_1",
@@ -5618,17 +5628,7 @@
       "video_id": null,
       "error_message": "No unposted videos found.",
       "created_at": "2026-11-12T04:03:15.356595+00:00"
-    },
-    {
-      "id": 188,
-      "channel_id": "channel_1",
-      "slot": 1,
-      "run_date": "2026-11-11",
-      "status": "no_content",
-      "video_id": null,
-      "error_message": "No unposted videos found.",
-      "created_at": "2026-11-11T23:24:48.810200+00:00"
     }
   ],
-  "last_updated": "2026-11-18T08:42:25.699804+00:00"
+  "last_updated": "2026-11-18T09:40:14.388543+00:00"
 }
