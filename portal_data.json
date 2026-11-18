@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 454,
-    "total_views": 141073,
+    "total_views": 141062,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -267,10 +267,10 @@
     {
       "date": "2026-11-15",
       "ch1_views": 0,
-      "ch2_views": 240,
+      "ch2_views": 241,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 240
+      "total_views": 241
     },
     {
       "date": "2026-11-16",
@@ -283,10 +283,10 @@
     {
       "date": "2026-11-17",
       "ch1_views": 0,
-      "ch2_views": 240,
+      "ch2_views": 241,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 240
+      "total_views": 241
     }
   ],
   "channels": {
@@ -306,7 +306,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 159,
-      "total_views": 921,
+      "total_views": 924,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -1049,7 +1049,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
       "total_uploads": 171,
-      "total_views": 1973,
+      "total_views": 1959,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1146,15 +1146,15 @@
         },
         {
           "date": "2026-11-15",
-          "views": 21,
+          "views": 22,
           "uploads": 1,
-          "cumulative_views": 240
+          "cumulative_views": 241
         },
         {
           "date": "2026-11-17",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 240
+          "cumulative_views": 241
         }
       ],
       "videos": [
@@ -1179,7 +1179,7 @@
           "youtube_id": "9hGzV_ftQ3Q",
           "title": "Cheesy Minced Meat Nests with Creamy Mashed Potatoes \u2728",
           "tiktok_views": 5778,
-          "youtube_views": 21,
+          "youtube_views": 22,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9hGzV_ftQ3Q/hqdefault.jpg",
@@ -2318,6 +2318,16 @@
       ],
       "runs": [
         {
+          "id": 173,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-11-18",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-18T08:30:50.814095+00:00"
+        },
+        {
           "id": 172,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2506,16 +2516,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-12T03:00:09.788023+00:00"
-        },
-        {
-          "id": 153,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-11-11",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-11T23:27:49.263984+00:00"
         }
       ]
     },
@@ -3147,7 +3147,7 @@
       "youtube_id": "9hGzV_ftQ3Q",
       "title": "Cheesy Minced Meat Nests with Creamy Mashed Potatoes \u2728",
       "tiktok_views": 5778,
-      "youtube_views": 21,
+      "youtube_views": 22,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9hGzV_ftQ3Q/hqdefault.jpg",
@@ -4669,7 +4669,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 159,
-    "total_views": 921,
+    "total_views": 924,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -5398,7 +5398,7 @@
   },
   "kpis": {
     "total_uploads": 454,
-    "total_views": 141073,
+    "total_views": 141062,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5630,5 +5630,5 @@
       "created_at": "2026-11-11T23:24:48.810200+00:00"
     }
   ],
-  "last_updated": "2026-11-18T08:12:07.266027+00:00"
+  "last_updated": "2026-11-18T08:30:54.788417+00:00"
 }
