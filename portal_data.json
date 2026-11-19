@@ -251,26 +251,26 @@
     {
       "date": "2026-11-13",
       "ch1_views": 0,
-      "ch2_views": 218,
+      "ch2_views": 219,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 218
+      "total_views": 219
     },
     {
       "date": "2026-11-14",
       "ch1_views": 0,
-      "ch2_views": 225,
+      "ch2_views": 226,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 225
+      "total_views": 226
     },
     {
       "date": "2026-11-15",
       "ch1_views": 0,
-      "ch2_views": 254,
+      "ch2_views": 255,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 254
+      "total_views": 255
     },
     {
       "date": "2026-11-16",
@@ -283,10 +283,10 @@
     {
       "date": "2026-11-17",
       "ch1_views": 0,
-      "ch2_views": 254,
+      "ch2_views": 255,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 254
+      "total_views": 255
     }
   ],
   "channels": {
@@ -1134,27 +1134,27 @@
         },
         {
           "date": "2026-11-13",
-          "views": 7,
+          "views": 8,
           "uploads": 1,
-          "cumulative_views": 218
+          "cumulative_views": 219
         },
         {
           "date": "2026-11-14",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 225
+          "cumulative_views": 226
         },
         {
           "date": "2026-11-15",
           "views": 29,
           "uploads": 1,
-          "cumulative_views": 254
+          "cumulative_views": 255
         },
         {
           "date": "2026-11-17",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 254
+          "cumulative_views": 255
         }
       ],
       "videos": [
@@ -1207,7 +1207,7 @@
           "youtube_id": "bs81qQeUErY",
           "title": "Crispy Cheesy Chicken Patties with Creamy Cheddar Sauce \u2728",
           "tiktok_views": 6346,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/bs81qQeUErY/hqdefault.jpg",
@@ -2318,6 +2318,16 @@
       ],
       "runs": [
         {
+          "id": 175,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-11-19",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-19T03:28:30.864040+00:00"
+        },
+        {
           "id": 174,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2506,16 +2516,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-12T22:43:14.215390+00:00"
-        },
-        {
-          "id": 155,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-11-12",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-12T08:17:21.944539+00:00"
         }
       ]
     },
@@ -3175,7 +3175,7 @@
       "youtube_id": "bs81qQeUErY",
       "title": "Crispy Cheesy Chicken Patties with Creamy Cheddar Sauce \u2728",
       "tiktok_views": 6346,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/bs81qQeUErY/hqdefault.jpg",
@@ -5630,5 +5630,5 @@
       "created_at": "2026-11-12T09:10:21.266484+00:00"
     }
   ],
-  "last_updated": "2026-11-19T02:58:18.638113+00:00"
+  "last_updated": "2026-11-19T03:28:34.779173+00:00"
 }
