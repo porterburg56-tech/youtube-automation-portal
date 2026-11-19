@@ -179,98 +179,98 @@
     {
       "date": "2026-11-04",
       "ch1_views": 173,
-      "ch2_views": 15,
+      "ch2_views": 12,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 188
+      "total_views": 185
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 34,
+      "ch2_views": 31,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 34
+      "total_views": 31
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 102,
+      "ch2_views": 99,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 102
+      "total_views": 99
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 123,
+      "ch2_views": 120,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 123
+      "total_views": 120
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 135,
+      "ch2_views": 132,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 135
+      "total_views": 132
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 147,
+      "ch2_views": 144,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 147
+      "total_views": 144
     },
     {
       "date": "2026-11-10",
       "ch1_views": 196,
-      "ch2_views": 203,
+      "ch2_views": 200,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 399
+      "total_views": 396
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 213,
+      "ch2_views": 210,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 213
+      "total_views": 210
     },
     {
       "date": "2026-11-12",
       "ch1_views": 0,
-      "ch2_views": 219,
+      "ch2_views": 216,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 219
+      "total_views": 216
     },
     {
       "date": "2026-11-13",
       "ch1_views": 0,
-      "ch2_views": 227,
+      "ch2_views": 224,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 227
+      "total_views": 224
     },
     {
       "date": "2026-11-14",
       "ch1_views": 0,
-      "ch2_views": 234,
+      "ch2_views": 231,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 234
+      "total_views": 231
     },
     {
       "date": "2026-11-15",
       "ch1_views": 0,
-      "ch2_views": 268,
+      "ch2_views": 265,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 268
+      "total_views": 265
     },
     {
       "date": "2026-11-16",
@@ -283,10 +283,18 @@
     {
       "date": "2026-11-17",
       "ch1_views": 0,
-      "ch2_views": 268,
+      "ch2_views": 265,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 268
+      "total_views": 265
+    },
+    {
+      "date": "2026-11-19",
+      "ch1_views": 0,
+      "ch2_views": 265,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 265
     }
   ],
   "channels": {
@@ -832,6 +840,16 @@
       ],
       "runs": [
         {
+          "id": 212,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-11-19",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-19T23:28:28.696602+00:00"
+        },
+        {
           "id": 211,
           "channel_id": "channel_1",
           "slot": 3,
@@ -1020,16 +1038,6 @@
           "video_id": null,
           "error_message": "No unposted videos found.",
           "created_at": "2026-11-13T09:00:52.009402+00:00"
-        },
-        {
-          "id": 192,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-11-13",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-13T03:31:44.820314+00:00"
         }
       ]
     },
@@ -1080,84 +1088,104 @@
       "view_history": [
         {
           "date": "2026-11-04",
-          "views": 15,
-          "uploads": 3,
-          "cumulative_views": 15
+          "views": 12,
+          "uploads": 2,
+          "cumulative_views": 12
         },
         {
           "date": "2026-11-05",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 34
+          "cumulative_views": 31
         },
         {
           "date": "2026-11-06",
           "views": 68,
           "uploads": 3,
-          "cumulative_views": 102
+          "cumulative_views": 99
         },
         {
           "date": "2026-11-07",
           "views": 21,
           "uploads": 3,
-          "cumulative_views": 123
+          "cumulative_views": 120
         },
         {
           "date": "2026-11-08",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 135
+          "cumulative_views": 132
         },
         {
           "date": "2026-11-09",
           "views": 12,
           "uploads": 2,
-          "cumulative_views": 147
+          "cumulative_views": 144
         },
         {
           "date": "2026-11-10",
           "views": 56,
           "uploads": 4,
-          "cumulative_views": 203
+          "cumulative_views": 200
         },
         {
           "date": "2026-11-11",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 213
+          "cumulative_views": 210
         },
         {
           "date": "2026-11-12",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 219
+          "cumulative_views": 216
         },
         {
           "date": "2026-11-13",
           "views": 8,
           "uploads": 1,
-          "cumulative_views": 227
+          "cumulative_views": 224
         },
         {
           "date": "2026-11-14",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 234
+          "cumulative_views": 231
         },
         {
           "date": "2026-11-15",
           "views": 34,
           "uploads": 1,
-          "cumulative_views": 268
+          "cumulative_views": 265
         },
         {
           "date": "2026-11-17",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 268
+          "cumulative_views": 265
+        },
+        {
+          "date": "2026-11-19",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 265
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7709936673433406750",
+          "youtube_id": "D2Gc-IjevTI",
+          "title": "Cheesy Croissant Muffins with Creamy Cucumber Dip \u2728",
+          "tiktok_views": 5048,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/D2Gc-IjevTI/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-19T23:06:34Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1563,20 +1591,6 @@
           "thumbnail": "https://i.ytimg.com/vi/8nVAWmiUdqM/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-11-04T07:30:50Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7654677540560178445",
-          "youtube_id": "FDH3p2j__Jk",
-          "title": "The French Dessert Secret That Creates Perfect Chocolate Layers \u2728",
-          "tiktok_views": 6653,
-          "youtube_views": 3,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/FDH3p2j__Jk/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-11-04T02:08:25Z"
         }
       ],
       "runs": [
@@ -3115,6 +3129,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7709936673433406750",
+      "youtube_id": "D2Gc-IjevTI",
+      "title": "Cheesy Croissant Muffins with Creamy Cucumber Dip \u2728",
+      "tiktok_views": 5048,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/D2Gc-IjevTI/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-19T23:06:34Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7709198393024711950",
       "youtube_id": "uSUw-sZZBgQ",
       "title": "Chocolate Ladyfinger Cream Dessert \u2728",
@@ -3573,20 +3601,6 @@
       "thumbnail": "https://i.ytimg.com/vi/FXn588n5FTQ/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-11-04T03:08:33Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7654677540560178445",
-      "youtube_id": "FDH3p2j__Jk",
-      "title": "The French Dessert Secret That Creates Perfect Chocolate Layers \u2728",
-      "tiktok_views": 6653,
-      "youtube_views": 3,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/FDH3p2j__Jk/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-11-04T02:08:25Z"
     },
     {
       "channel_id": "channel_1",
@@ -5195,6 +5209,16 @@
     ],
     "runs": [
       {
+        "id": 212,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-11-19",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-19T23:28:28.696602+00:00"
+      },
+      {
         "id": 211,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5383,16 +5407,6 @@
         "video_id": null,
         "error_message": "No unposted videos found.",
         "created_at": "2026-11-13T09:00:52.009402+00:00"
-      },
-      {
-        "id": 192,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-11-13",
-        "status": "no_content",
-        "video_id": null,
-        "error_message": "No unposted videos found.",
-        "created_at": "2026-11-13T03:31:44.820314+00:00"
       }
     ]
   },
@@ -5429,6 +5443,16 @@
     }
   },
   "runs": [
+    {
+      "id": 212,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-11-19",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-19T23:28:28.696602+00:00"
+    },
     {
       "id": 211,
       "channel_id": "channel_1",
@@ -5618,17 +5642,7 @@
       "video_id": null,
       "error_message": "No unposted videos found.",
       "created_at": "2026-11-13T09:00:52.009402+00:00"
-    },
-    {
-      "id": 192,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-11-13",
-      "status": "no_content",
-      "video_id": null,
-      "error_message": "No unposted videos found.",
-      "created_at": "2026-11-13T03:31:44.820314+00:00"
     }
   ],
-  "last_updated": "2026-11-19T23:06:05.232261+00:00"
+  "last_updated": "2026-11-19T23:28:32.623995+00:00"
 }
