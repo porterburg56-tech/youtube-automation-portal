@@ -179,69 +179,77 @@
     {
       "date": "2026-11-04",
       "ch1_views": 176,
-      "ch2_views": 12,
+      "ch2_views": 4,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 188
+      "total_views": 180
     },
     {
       "date": "2026-11-05",
       "ch1_views": 0,
-      "ch2_views": 31,
+      "ch2_views": 23,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 31
+      "total_views": 23
     },
     {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 101,
+      "ch2_views": 93,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 101
+      "total_views": 93
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 123,
+      "ch2_views": 115,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 123
+      "total_views": 115
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 135,
+      "ch2_views": 127,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 135
+      "total_views": 127
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 147,
+      "ch2_views": 139,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 147
+      "total_views": 139
     },
     {
       "date": "2026-11-10",
       "ch1_views": 199,
-      "ch2_views": 206,
+      "ch2_views": 198,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 405
+      "total_views": 397
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 216,
+      "ch2_views": 208,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 216
+      "total_views": 208
     },
     {
       "date": "2026-11-12",
+      "ch1_views": 0,
+      "ch2_views": 214,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 214
+    },
+    {
+      "date": "2026-11-13",
       "ch1_views": 0,
       "ch2_views": 222,
       "ch3_views": 0,
@@ -249,28 +257,20 @@
       "total_views": 222
     },
     {
-      "date": "2026-11-13",
-      "ch1_views": 0,
-      "ch2_views": 230,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 230
-    },
-    {
       "date": "2026-11-14",
       "ch1_views": 0,
-      "ch2_views": 237,
+      "ch2_views": 229,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 237
+      "total_views": 229
     },
     {
       "date": "2026-11-15",
       "ch1_views": 0,
-      "ch2_views": 271,
+      "ch2_views": 263,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 271
+      "total_views": 263
     },
     {
       "date": "2026-11-16",
@@ -283,18 +283,26 @@
     {
       "date": "2026-11-17",
       "ch1_views": 0,
-      "ch2_views": 272,
+      "ch2_views": 264,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 272
+      "total_views": 264
     },
     {
       "date": "2026-11-19",
       "ch1_views": 0,
-      "ch2_views": 273,
+      "ch2_views": 265,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 273
+      "total_views": 265
+    },
+    {
+      "date": "2026-11-20",
+      "ch1_views": 0,
+      "ch2_views": 265,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 265
     }
   ],
   "channels": {
@@ -1088,90 +1096,110 @@
       "view_history": [
         {
           "date": "2026-11-04",
-          "views": 12,
-          "uploads": 2,
-          "cumulative_views": 12
+          "views": 4,
+          "uploads": 1,
+          "cumulative_views": 4
         },
         {
           "date": "2026-11-05",
           "views": 19,
           "uploads": 3,
-          "cumulative_views": 31
+          "cumulative_views": 23
         },
         {
           "date": "2026-11-06",
           "views": 70,
           "uploads": 3,
-          "cumulative_views": 101
+          "cumulative_views": 93
         },
         {
           "date": "2026-11-07",
           "views": 22,
           "uploads": 3,
-          "cumulative_views": 123
+          "cumulative_views": 115
         },
         {
           "date": "2026-11-08",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 135
+          "cumulative_views": 127
         },
         {
           "date": "2026-11-09",
           "views": 12,
           "uploads": 2,
-          "cumulative_views": 147
+          "cumulative_views": 139
         },
         {
           "date": "2026-11-10",
           "views": 59,
           "uploads": 4,
-          "cumulative_views": 206
+          "cumulative_views": 198
         },
         {
           "date": "2026-11-11",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 216
+          "cumulative_views": 208
         },
         {
           "date": "2026-11-12",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 222
+          "cumulative_views": 214
         },
         {
           "date": "2026-11-13",
           "views": 8,
           "uploads": 1,
-          "cumulative_views": 230
+          "cumulative_views": 222
         },
         {
           "date": "2026-11-14",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 237
+          "cumulative_views": 229
         },
         {
           "date": "2026-11-15",
           "views": 34,
           "uploads": 1,
-          "cumulative_views": 271
+          "cumulative_views": 263
         },
         {
           "date": "2026-11-17",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 272
+          "cumulative_views": 264
         },
         {
           "date": "2026-11-19",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 273
+          "cumulative_views": 265
+        },
+        {
+          "date": "2026-11-20",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 265
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7710332463062568206",
+          "youtube_id": "kV7zeI3YhSU",
+          "title": "The Most Flavorful Saucy Egg Recipe \u2728",
+          "tiktok_views": 1522,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/kV7zeI3YhSU/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-20T22:39:40Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1577,20 +1605,6 @@
           "thumbnail": "https://i.ytimg.com/vi/khN8cah-hYs/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-11-04T21:59:35Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7649815186395680013",
-          "youtube_id": "8nVAWmiUdqM",
-          "title": "Caramel Strawberry Nutella Dream Cake \ud83c\udf53\u2728",
-          "tiktok_views": 6340,
-          "youtube_views": 8,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/8nVAWmiUdqM/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-11-04T07:30:50Z"
         }
       ],
       "runs": [
@@ -2332,6 +2346,16 @@
       ],
       "runs": [
         {
+          "id": 180,
+          "channel_id": "channel_3",
+          "slot": 1,
+          "run_date": "2026-11-20",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-20T23:04:26.886487+00:00"
+        },
+        {
           "id": 179,
           "channel_id": "channel_3",
           "slot": 3,
@@ -2520,16 +2544,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-14T07:36:00.615481+00:00"
-        },
-        {
-          "id": 160,
-          "channel_id": "channel_3",
-          "slot": 2,
-          "run_date": "2026-11-14",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-14T02:27:41.303030+00:00"
         }
       ]
     },
@@ -3129,6 +3143,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7710332463062568206",
+      "youtube_id": "kV7zeI3YhSU",
+      "title": "The Most Flavorful Saucy Egg Recipe \u2728",
+      "tiktok_views": 1522,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/kV7zeI3YhSU/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-20T22:39:40Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7709936673433406750",
       "youtube_id": "D2Gc-IjevTI",
       "title": "Cheesy Croissant Muffins with Creamy Cucumber Dip \u2728",
@@ -3573,20 +3601,6 @@
       "thumbnail": "https://i.ytimg.com/vi/t9hgUCXAbrw/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-11-04T08:31:52Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7649815186395680013",
-      "youtube_id": "8nVAWmiUdqM",
-      "title": "Caramel Strawberry Nutella Dream Cake \ud83c\udf53\u2728",
-      "tiktok_views": 6340,
-      "youtube_views": 8,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/8nVAWmiUdqM/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-11-04T07:30:50Z"
     },
     {
       "channel_id": "channel_1",
@@ -5644,5 +5658,5 @@
       "created_at": "2026-11-14T03:27:57.295199+00:00"
     }
   ],
-  "last_updated": "2026-11-20T22:39:20.103142+00:00"
+  "last_updated": "2026-11-20T23:04:31.095241+00:00"
 }
