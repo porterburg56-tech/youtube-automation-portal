@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 455,
-    "total_views": 141119,
+    "total_views": 141145,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -291,10 +291,10 @@
     {
       "date": "2026-11-19",
       "ch1_views": 0,
-      "ch2_views": 269,
+      "ch2_views": 268,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 269
+      "total_views": 268
     }
   ],
   "channels": {
@@ -1057,7 +1057,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
       "total_uploads": 172,
-      "total_views": 1993,
+      "total_views": 2019,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1166,9 +1166,9 @@
         },
         {
           "date": "2026-11-19",
-          "views": 1,
+          "views": 0,
           "uploads": 1,
-          "cumulative_views": 269
+          "cumulative_views": 268
         }
       ],
       "videos": [
@@ -1179,7 +1179,7 @@
           "youtube_id": "D2Gc-IjevTI",
           "title": "Cheesy Croissant Muffins with Creamy Cucumber Dip \u2728",
           "tiktok_views": 5048,
-          "youtube_views": 1,
+          "youtube_views": 0,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/D2Gc-IjevTI/hqdefault.jpg",
@@ -2332,6 +2332,16 @@
       ],
       "runs": [
         {
+          "id": 179,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-11-20",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-20T08:30:32.669835+00:00"
+        },
+        {
           "id": 178,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2520,16 +2530,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-14T02:27:41.303030+00:00"
-        },
-        {
-          "id": 159,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-11-13",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-13T22:35:29.426764+00:00"
         }
       ]
     },
@@ -3133,7 +3133,7 @@
       "youtube_id": "D2Gc-IjevTI",
       "title": "Cheesy Croissant Muffins with Creamy Cucumber Dip \u2728",
       "tiktok_views": 5048,
-      "youtube_views": 1,
+      "youtube_views": 0,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/D2Gc-IjevTI/hqdefault.jpg",
@@ -5412,7 +5412,7 @@
   },
   "kpis": {
     "total_uploads": 455,
-    "total_views": 141119,
+    "total_views": 141145,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5644,5 +5644,5 @@
       "created_at": "2026-11-13T22:28:21.526342+00:00"
     }
   ],
-  "last_updated": "2026-11-20T08:03:48.034569+00:00"
+  "last_updated": "2026-11-20T08:30:36.985036+00:00"
 }
