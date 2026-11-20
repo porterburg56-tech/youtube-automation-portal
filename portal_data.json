@@ -154,35 +154,35 @@
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 147,
+      "ch1_views": 149,
       "ch2_views": 0,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 295
+      "total_views": 297
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 150,
+      "ch1_views": 152,
       "ch2_views": 0,
       "ch3_views": 172,
       "ch4_views": 0,
-      "total_views": 322
+      "total_views": 324
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 167,
+      "ch1_views": 169,
       "ch2_views": 0,
       "ch3_views": 178,
       "ch4_views": 0,
-      "total_views": 345
+      "total_views": 347
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 173,
+      "ch1_views": 175,
       "ch2_views": 12,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 185
+      "total_views": 187
     },
     {
       "date": "2026-11-05",
@@ -226,11 +226,11 @@
     },
     {
       "date": "2026-11-10",
-      "ch1_views": 196,
+      "ch1_views": 198,
       "ch2_views": 200,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 396
+      "total_views": 398
     },
     {
       "date": "2026-11-11",
@@ -274,27 +274,27 @@
     },
     {
       "date": "2026-11-16",
-      "ch1_views": 199,
+      "ch1_views": 201,
       "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 199
+      "total_views": 201
     },
     {
       "date": "2026-11-17",
       "ch1_views": 0,
-      "ch2_views": 265,
+      "ch2_views": 266,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 265
+      "total_views": 266
     },
     {
       "date": "2026-11-19",
       "ch1_views": 0,
-      "ch2_views": 265,
+      "ch2_views": 266,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 265
+      "total_views": 266
     }
   ],
   "channels": {
@@ -381,39 +381,39 @@
         },
         {
           "date": "2026-11-01",
-          "views": 98,
+          "views": 100,
           "uploads": 3,
-          "cumulative_views": 147
+          "cumulative_views": 149
         },
         {
           "date": "2026-11-02",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 150
+          "cumulative_views": 152
         },
         {
           "date": "2026-11-03",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 167
+          "cumulative_views": 169
         },
         {
           "date": "2026-11-04",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 173
+          "cumulative_views": 175
         },
         {
           "date": "2026-11-10",
           "views": 23,
           "uploads": 1,
-          "cumulative_views": 196
+          "cumulative_views": 198
         },
         {
           "date": "2026-11-16",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 199
+          "cumulative_views": 201
         }
       ],
       "videos": [
@@ -578,7 +578,7 @@
           "youtube_id": "TzwyYFLz8_U",
           "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
           "tiktok_views": 4477,
-          "youtube_views": 78,
+          "youtube_views": 80,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -1160,15 +1160,15 @@
         },
         {
           "date": "2026-11-17",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 265
+          "cumulative_views": 266
         },
         {
           "date": "2026-11-19",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 265
+          "cumulative_views": 266
         }
       ],
       "videos": [
@@ -1193,7 +1193,7 @@
           "youtube_id": "uSUw-sZZBgQ",
           "title": "Chocolate Ladyfinger Cream Dessert \u2728",
           "tiktok_views": 24400,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/uSUw-sZZBgQ/hqdefault.jpg",
@@ -1595,6 +1595,16 @@
       ],
       "runs": [
         {
+          "id": 237,
+          "channel_id": "channel_2",
+          "slot": 2,
+          "run_date": "2026-11-20",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-20T02:55:23.197653+00:00"
+        },
+        {
           "id": 236,
           "channel_id": "channel_2",
           "slot": 1,
@@ -1783,16 +1793,6 @@
           "video_id": null,
           "error_message": "No unposted videos found.",
           "created_at": "2026-11-16T07:37:05.449287+00:00"
-        },
-        {
-          "id": 217,
-          "channel_id": "channel_2",
-          "slot": 2,
-          "run_date": "2026-11-16",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-16T01:37:54.272413+00:00"
         }
       ]
     },
@@ -3147,7 +3147,7 @@
       "youtube_id": "uSUw-sZZBgQ",
       "title": "Chocolate Ladyfinger Cream Dessert \u2728",
       "tiktok_views": 24400,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/uSUw-sZZBgQ/hqdefault.jpg",
@@ -3777,7 +3777,7 @@
       "youtube_id": "TzwyYFLz8_U",
       "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
       "tiktok_views": 4477,
-      "youtube_views": 78,
+      "youtube_views": 80,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -4750,39 +4750,39 @@
       },
       {
         "date": "2026-11-01",
-        "views": 98,
+        "views": 100,
         "uploads": 3,
-        "cumulative_views": 147
+        "cumulative_views": 149
       },
       {
         "date": "2026-11-02",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 150
+        "cumulative_views": 152
       },
       {
         "date": "2026-11-03",
         "views": 17,
         "uploads": 3,
-        "cumulative_views": 167
+        "cumulative_views": 169
       },
       {
         "date": "2026-11-04",
         "views": 6,
         "uploads": 2,
-        "cumulative_views": 173
+        "cumulative_views": 175
       },
       {
         "date": "2026-11-10",
         "views": 23,
         "uploads": 1,
-        "cumulative_views": 196
+        "cumulative_views": 198
       },
       {
         "date": "2026-11-16",
         "views": 3,
         "uploads": 1,
-        "cumulative_views": 199
+        "cumulative_views": 201
       }
     ],
     "videos": [
@@ -4947,7 +4947,7 @@
         "youtube_id": "TzwyYFLz8_U",
         "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
         "tiktok_views": 4477,
-        "youtube_views": 78,
+        "youtube_views": 80,
         "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -5644,5 +5644,5 @@
       "created_at": "2026-11-13T09:00:52.009402+00:00"
     }
   ],
-  "last_updated": "2026-11-19T23:42:47.088546+00:00"
+  "last_updated": "2026-11-20T02:55:28.682279+00:00"
 }
