@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 455,
-    "total_views": 141113,
+    "total_views": 141119,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -227,50 +227,50 @@
     {
       "date": "2026-11-10",
       "ch1_views": 198,
-      "ch2_views": 200,
+      "ch2_views": 201,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 398
+      "total_views": 399
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 210,
+      "ch2_views": 211,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 210
+      "total_views": 211
     },
     {
       "date": "2026-11-12",
       "ch1_views": 0,
-      "ch2_views": 216,
+      "ch2_views": 217,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 216
+      "total_views": 217
     },
     {
       "date": "2026-11-13",
       "ch1_views": 0,
-      "ch2_views": 224,
+      "ch2_views": 225,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 224
+      "total_views": 225
     },
     {
       "date": "2026-11-14",
       "ch1_views": 0,
-      "ch2_views": 231,
+      "ch2_views": 232,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 231
+      "total_views": 232
     },
     {
       "date": "2026-11-15",
       "ch1_views": 0,
-      "ch2_views": 265,
+      "ch2_views": 266,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 265
+      "total_views": 266
     },
     {
       "date": "2026-11-16",
@@ -283,18 +283,18 @@
     {
       "date": "2026-11-17",
       "ch1_views": 0,
-      "ch2_views": 266,
+      "ch2_views": 267,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 266
+      "total_views": 267
     },
     {
       "date": "2026-11-19",
       "ch1_views": 0,
-      "ch2_views": 266,
+      "ch2_views": 267,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 266
+      "total_views": 267
     }
   ],
   "channels": {
@@ -314,7 +314,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 159,
-      "total_views": 937,
+      "total_views": 943,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -1124,51 +1124,51 @@
         },
         {
           "date": "2026-11-10",
-          "views": 56,
+          "views": 57,
           "uploads": 4,
-          "cumulative_views": 200
+          "cumulative_views": 201
         },
         {
           "date": "2026-11-11",
           "views": 10,
           "uploads": 3,
-          "cumulative_views": 210
+          "cumulative_views": 211
         },
         {
           "date": "2026-11-12",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 216
+          "cumulative_views": 217
         },
         {
           "date": "2026-11-13",
           "views": 8,
           "uploads": 1,
-          "cumulative_views": 224
+          "cumulative_views": 225
         },
         {
           "date": "2026-11-14",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 231
+          "cumulative_views": 232
         },
         {
           "date": "2026-11-15",
           "views": 34,
           "uploads": 1,
-          "cumulative_views": 265
+          "cumulative_views": 266
         },
         {
           "date": "2026-11-17",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 266
+          "cumulative_views": 267
         },
         {
           "date": "2026-11-19",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 266
+          "cumulative_views": 267
         }
       ],
       "videos": [
@@ -1361,7 +1361,7 @@
           "youtube_id": "qrL9QMUPMLA",
           "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
           "tiktok_views": 6768,
-          "youtube_views": 34,
+          "youtube_views": 35,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -2332,6 +2332,16 @@
       ],
       "runs": [
         {
+          "id": 178,
+          "channel_id": "channel_3",
+          "slot": 2,
+          "run_date": "2026-11-20",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-20T03:16:50.703131+00:00"
+        },
+        {
           "id": 177,
           "channel_id": "channel_3",
           "slot": 1,
@@ -2520,16 +2530,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-13T22:35:29.426764+00:00"
-        },
-        {
-          "id": 158,
-          "channel_id": "channel_3",
-          "slot": 3,
-          "run_date": "2026-11-13",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-13T07:53:51.654160+00:00"
         }
       ]
     },
@@ -3343,7 +3343,7 @@
       "youtube_id": "qrL9QMUPMLA",
       "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
       "tiktok_views": 6768,
-      "youtube_views": 34,
+      "youtube_views": 35,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -4683,7 +4683,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 159,
-    "total_views": 937,
+    "total_views": 943,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -5412,7 +5412,7 @@
   },
   "kpis": {
     "total_uploads": 455,
-    "total_views": 141113,
+    "total_views": 141119,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5644,5 +5644,5 @@
       "created_at": "2026-11-13T09:00:52.009402+00:00"
     }
   ],
-  "last_updated": "2026-11-20T02:55:28.682279+00:00"
+  "last_updated": "2026-11-20T03:16:54.746540+00:00"
 }
