@@ -291,10 +291,10 @@
     {
       "date": "2026-11-19",
       "ch1_views": 0,
-      "ch2_views": 268,
+      "ch2_views": 269,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 268
+      "total_views": 269
     }
   ],
   "channels": {
@@ -1166,9 +1166,9 @@
         },
         {
           "date": "2026-11-19",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 268
+          "cumulative_views": 269
         }
       ],
       "videos": [
@@ -1179,7 +1179,7 @@
           "youtube_id": "D2Gc-IjevTI",
           "title": "Cheesy Croissant Muffins with Creamy Cucumber Dip \u2728",
           "tiktok_views": 5048,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/D2Gc-IjevTI/hqdefault.jpg",
@@ -2923,6 +2923,16 @@
       ],
       "runs": [
         {
+          "id": 172,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-11-20",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-20T08:43:28.835080+00:00"
+        },
+        {
           "id": 171,
           "channel_id": "channel_4",
           "slot": 2,
@@ -3111,16 +3121,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-14T02:32:23.130806+00:00"
-        },
-        {
-          "id": 152,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-11-13",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-13T22:46:37.167085+00:00"
         }
       ]
     }
@@ -3133,7 +3133,7 @@
       "youtube_id": "D2Gc-IjevTI",
       "title": "Cheesy Croissant Muffins with Creamy Cucumber Dip \u2728",
       "tiktok_views": 5048,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/D2Gc-IjevTI/hqdefault.jpg",
@@ -5644,5 +5644,5 @@
       "created_at": "2026-11-13T22:28:21.526342+00:00"
     }
   ],
-  "last_updated": "2026-11-20T08:30:36.985036+00:00"
+  "last_updated": "2026-11-20T08:43:33.036451+00:00"
 }
