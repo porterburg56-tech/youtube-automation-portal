@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 456,
-    "total_views": 141153,
+    "total_views": 141157,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -154,35 +154,35 @@
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 150,
+      "ch1_views": 151,
       "ch2_views": 0,
       "ch3_views": 148,
       "ch4_views": 0,
-      "total_views": 298
+      "total_views": 299
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 153,
+      "ch1_views": 154,
       "ch2_views": 0,
       "ch3_views": 172,
       "ch4_views": 0,
-      "total_views": 325
+      "total_views": 326
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 170,
+      "ch1_views": 171,
       "ch2_views": 0,
       "ch3_views": 178,
       "ch4_views": 0,
-      "total_views": 348
+      "total_views": 349
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 176,
+      "ch1_views": 177,
       "ch2_views": 4,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 180
+      "total_views": 181
     },
     {
       "date": "2026-11-05",
@@ -226,11 +226,11 @@
     },
     {
       "date": "2026-11-10",
-      "ch1_views": 199,
+      "ch1_views": 200,
       "ch2_views": 197,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 396
+      "total_views": 397
     },
     {
       "date": "2026-11-11",
@@ -274,11 +274,11 @@
     },
     {
       "date": "2026-11-16",
-      "ch1_views": 202,
+      "ch1_views": 203,
       "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 202
+      "total_views": 203
     },
     {
       "date": "2026-11-17",
@@ -299,10 +299,10 @@
     {
       "date": "2026-11-20",
       "ch1_views": 0,
-      "ch2_views": 270,
+      "ch2_views": 271,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 270
+      "total_views": 271
     }
   ],
   "channels": {
@@ -322,7 +322,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 159,
-      "total_views": 943,
+      "total_views": 947,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -389,39 +389,39 @@
         },
         {
           "date": "2026-11-01",
-          "views": 101,
+          "views": 102,
           "uploads": 3,
-          "cumulative_views": 150
+          "cumulative_views": 151
         },
         {
           "date": "2026-11-02",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 153
+          "cumulative_views": 154
         },
         {
           "date": "2026-11-03",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 170
+          "cumulative_views": 171
         },
         {
           "date": "2026-11-04",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 176
+          "cumulative_views": 177
         },
         {
           "date": "2026-11-10",
           "views": 23,
           "uploads": 1,
-          "cumulative_views": 199
+          "cumulative_views": 200
         },
         {
           "date": "2026-11-16",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 202
+          "cumulative_views": 203
         }
       ],
       "videos": [
@@ -586,7 +586,7 @@
           "youtube_id": "TzwyYFLz8_U",
           "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
           "tiktok_views": 4477,
-          "youtube_views": 81,
+          "youtube_views": 82,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -1180,9 +1180,9 @@
         },
         {
           "date": "2026-11-20",
-          "views": 3,
+          "views": 4,
           "uploads": 1,
-          "cumulative_views": 270
+          "cumulative_views": 271
         }
       ],
       "videos": [
@@ -1193,7 +1193,7 @@
           "youtube_id": "kV7zeI3YhSU",
           "title": "The Most Flavorful Saucy Egg Recipe \u2728",
           "tiktok_views": 1522,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/kV7zeI3YhSU/hqdefault.jpg",
@@ -1609,6 +1609,36 @@
       ],
       "runs": [
         {
+          "id": 245,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-21",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-21T07:58:09.297094+00:00"
+        },
+        {
+          "id": 244,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-21",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-21T07:57:48.303903+00:00"
+        },
+        {
+          "id": 243,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-21",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-21T07:57:26.961432+00:00"
+        },
+        {
           "id": 242,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1777,36 +1807,6 @@
           "video_id": "uSUw-sZZBgQ",
           "error_message": null,
           "created_at": "2026-11-17T23:30:47.324489+00:00"
-        },
-        {
-          "id": 225,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-11-17",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-17T08:48:38.765199+00:00"
-        },
-        {
-          "id": 224,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-11-17",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-17T08:48:14.323374+00:00"
-        },
-        {
-          "id": 223,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-11-17",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-17T08:47:51.225433+00:00"
         }
       ]
     },
@@ -3147,7 +3147,7 @@
       "youtube_id": "kV7zeI3YhSU",
       "title": "The Most Flavorful Saucy Egg Recipe \u2728",
       "tiktok_views": 1522,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/kV7zeI3YhSU/hqdefault.jpg",
@@ -3791,7 +3791,7 @@
       "youtube_id": "TzwyYFLz8_U",
       "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
       "tiktok_views": 4477,
-      "youtube_views": 81,
+      "youtube_views": 82,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -4697,7 +4697,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 159,
-    "total_views": 943,
+    "total_views": 947,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -4764,39 +4764,39 @@
       },
       {
         "date": "2026-11-01",
-        "views": 101,
+        "views": 102,
         "uploads": 3,
-        "cumulative_views": 150
+        "cumulative_views": 151
       },
       {
         "date": "2026-11-02",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 153
+        "cumulative_views": 154
       },
       {
         "date": "2026-11-03",
         "views": 17,
         "uploads": 3,
-        "cumulative_views": 170
+        "cumulative_views": 171
       },
       {
         "date": "2026-11-04",
         "views": 6,
         "uploads": 2,
-        "cumulative_views": 176
+        "cumulative_views": 177
       },
       {
         "date": "2026-11-10",
         "views": 23,
         "uploads": 1,
-        "cumulative_views": 199
+        "cumulative_views": 200
       },
       {
         "date": "2026-11-16",
         "views": 3,
         "uploads": 1,
-        "cumulative_views": 202
+        "cumulative_views": 203
       }
     ],
     "videos": [
@@ -4961,7 +4961,7 @@
         "youtube_id": "TzwyYFLz8_U",
         "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
         "tiktok_views": 4477,
-        "youtube_views": 81,
+        "youtube_views": 82,
         "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -5426,7 +5426,7 @@
   },
   "kpis": {
     "total_uploads": 456,
-    "total_views": 141153,
+    "total_views": 141157,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5658,5 +5658,5 @@
       "created_at": "2026-11-14T21:16:35.087407+00:00"
     }
   ],
-  "last_updated": "2026-11-21T04:10:46.387386+00:00"
+  "last_updated": "2026-11-21T07:58:13.489417+00:00"
 }
