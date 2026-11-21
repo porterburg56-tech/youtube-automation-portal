@@ -227,50 +227,50 @@
     {
       "date": "2026-11-10",
       "ch1_views": 200,
-      "ch2_views": 203,
+      "ch2_views": 200,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 403
+      "total_views": 400
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 215,
+      "ch2_views": 212,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 215
+      "total_views": 212
     },
     {
       "date": "2026-11-12",
       "ch1_views": 0,
-      "ch2_views": 221,
+      "ch2_views": 218,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 221
+      "total_views": 218
     },
     {
       "date": "2026-11-13",
       "ch1_views": 0,
-      "ch2_views": 229,
+      "ch2_views": 226,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 229
+      "total_views": 226
     },
     {
       "date": "2026-11-14",
       "ch1_views": 0,
-      "ch2_views": 236,
+      "ch2_views": 233,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 236
+      "total_views": 233
     },
     {
       "date": "2026-11-15",
       "ch1_views": 0,
-      "ch2_views": 271,
+      "ch2_views": 268,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 271
+      "total_views": 268
     },
     {
       "date": "2026-11-16",
@@ -283,34 +283,34 @@
     {
       "date": "2026-11-17",
       "ch1_views": 0,
-      "ch2_views": 272,
+      "ch2_views": 269,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 272
+      "total_views": 269
     },
     {
       "date": "2026-11-19",
       "ch1_views": 0,
-      "ch2_views": 274,
+      "ch2_views": 271,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 274
+      "total_views": 271
     },
     {
       "date": "2026-11-20",
       "ch1_views": 0,
-      "ch2_views": 279,
+      "ch2_views": 276,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 279
+      "total_views": 276
     },
     {
       "date": "2026-11-21",
       "ch1_views": 0,
-      "ch2_views": 279,
+      "ch2_views": 276,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 279
+      "total_views": 276
     }
   ],
   "channels": {
@@ -1134,63 +1134,63 @@
         },
         {
           "date": "2026-11-10",
-          "views": 61,
+          "views": 58,
           "uploads": 4,
-          "cumulative_views": 203
+          "cumulative_views": 200
         },
         {
           "date": "2026-11-11",
           "views": 12,
           "uploads": 3,
-          "cumulative_views": 215
+          "cumulative_views": 212
         },
         {
           "date": "2026-11-12",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 221
+          "cumulative_views": 218
         },
         {
           "date": "2026-11-13",
           "views": 8,
           "uploads": 1,
-          "cumulative_views": 229
+          "cumulative_views": 226
         },
         {
           "date": "2026-11-14",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 236
+          "cumulative_views": 233
         },
         {
           "date": "2026-11-15",
           "views": 35,
           "uploads": 1,
-          "cumulative_views": 271
+          "cumulative_views": 268
         },
         {
           "date": "2026-11-17",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 272
+          "cumulative_views": 269
         },
         {
           "date": "2026-11-19",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 274
+          "cumulative_views": 271
         },
         {
           "date": "2026-11-20",
           "views": 5,
           "uploads": 1,
-          "cumulative_views": 279
+          "cumulative_views": 276
         },
         {
           "date": "2026-11-21",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 279
+          "cumulative_views": 276
         }
       ],
       "videos": [
@@ -1411,7 +1411,7 @@
           "youtube_id": "qrL9QMUPMLA",
           "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
           "tiktok_views": 6768,
-          "youtube_views": 39,
+          "youtube_views": 36,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -2945,6 +2945,16 @@
       ],
       "runs": [
         {
+          "id": 176,
+          "channel_id": "channel_4",
+          "slot": 1,
+          "run_date": "2026-11-21",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-21T22:17:52.051332+00:00"
+        },
+        {
           "id": 175,
           "channel_id": "channel_4",
           "slot": 3,
@@ -3133,16 +3143,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-15T07:58:58.392449+00:00"
-        },
-        {
-          "id": 156,
-          "channel_id": "channel_4",
-          "slot": 2,
-          "run_date": "2026-11-15",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-15T02:00:13.767080+00:00"
         }
       ]
     }
@@ -3393,7 +3393,7 @@
       "youtube_id": "qrL9QMUPMLA",
       "title": "Cheesy Bacon-Wrapped Stuffed Pork Tenderloin \u2728",
       "tiktok_views": 6768,
-      "youtube_views": 39,
+      "youtube_views": 36,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/qrL9QMUPMLA/hqdefault.jpg",
@@ -5666,5 +5666,5 @@
       "created_at": "2026-11-15T08:45:53.592707+00:00"
     }
   ],
-  "last_updated": "2026-11-21T22:10:37.654176+00:00"
+  "last_updated": "2026-11-21T22:17:55.582105+00:00"
 }
