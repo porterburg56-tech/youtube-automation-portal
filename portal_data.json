@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 456,
-    "total_views": 141157,
+    "total_views": 141165,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -267,10 +267,10 @@
     {
       "date": "2026-11-15",
       "ch1_views": 0,
-      "ch2_views": 263,
+      "ch2_views": 264,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 263
+      "total_views": 264
     },
     {
       "date": "2026-11-16",
@@ -283,26 +283,26 @@
     {
       "date": "2026-11-17",
       "ch1_views": 0,
-      "ch2_views": 264,
+      "ch2_views": 265,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 264
+      "total_views": 265
     },
     {
       "date": "2026-11-19",
       "ch1_views": 0,
-      "ch2_views": 267,
+      "ch2_views": 268,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 267
+      "total_views": 268
     },
     {
       "date": "2026-11-20",
       "ch1_views": 0,
-      "ch2_views": 271,
+      "ch2_views": 272,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 271
+      "total_views": 272
     }
   ],
   "channels": {
@@ -1065,7 +1065,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
       "total_uploads": 173,
-      "total_views": 2027,
+      "total_views": 2035,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1162,27 +1162,27 @@
         },
         {
           "date": "2026-11-15",
-          "views": 34,
+          "views": 35,
           "uploads": 1,
-          "cumulative_views": 263
+          "cumulative_views": 264
         },
         {
           "date": "2026-11-17",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 264
+          "cumulative_views": 265
         },
         {
           "date": "2026-11-19",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 267
+          "cumulative_views": 268
         },
         {
           "date": "2026-11-20",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 271
+          "cumulative_views": 272
         }
       ],
       "videos": [
@@ -1235,7 +1235,7 @@
           "youtube_id": "9hGzV_ftQ3Q",
           "title": "Cheesy Minced Meat Nests with Creamy Mashed Potatoes \u2728",
           "tiktok_views": 5778,
-          "youtube_views": 34,
+          "youtube_views": 35,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9hGzV_ftQ3Q/hqdefault.jpg",
@@ -2937,6 +2937,16 @@
       ],
       "runs": [
         {
+          "id": 175,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-11-21",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-21T08:25:19.215060+00:00"
+        },
+        {
           "id": 174,
           "channel_id": "channel_4",
           "slot": 2,
@@ -3125,16 +3135,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-15T02:00:13.767080+00:00"
-        },
-        {
-          "id": 155,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-11-14",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-14T21:39:24.343866+00:00"
         }
       ]
     }
@@ -3203,7 +3203,7 @@
       "youtube_id": "9hGzV_ftQ3Q",
       "title": "Cheesy Minced Meat Nests with Creamy Mashed Potatoes \u2728",
       "tiktok_views": 5778,
-      "youtube_views": 34,
+      "youtube_views": 35,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9hGzV_ftQ3Q/hqdefault.jpg",
@@ -5426,7 +5426,7 @@
   },
   "kpis": {
     "total_uploads": 456,
-    "total_views": 141157,
+    "total_views": 141165,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5658,5 +5658,5 @@
       "created_at": "2026-11-14T21:16:35.087407+00:00"
     }
   ],
-  "last_updated": "2026-11-21T08:15:11.272943+00:00"
+  "last_updated": "2026-11-21T08:25:23.023984+00:00"
 }
