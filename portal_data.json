@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 457,
-    "total_views": 141186,
+    "total_views": 141188,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -307,10 +307,10 @@
     {
       "date": "2026-11-21",
       "ch1_views": 0,
-      "ch2_views": 282,
+      "ch2_views": 283,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 282
+      "total_views": 283
     }
   ],
   "channels": {
@@ -330,7 +330,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 159,
-      "total_views": 951,
+      "total_views": 952,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -1188,9 +1188,9 @@
         },
         {
           "date": "2026-11-21",
-          "views": 3,
+          "views": 4,
           "uploads": 1,
-          "cumulative_views": 282
+          "cumulative_views": 283
         }
       ],
       "videos": [
@@ -1201,7 +1201,7 @@
           "youtube_id": "jv91KdcmRHw",
           "title": "Cheesy Sausage Puff Pastry Pie \u2728",
           "tiktok_views": 36600,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jv91KdcmRHw/hqdefault.jpg",
@@ -1834,7 +1834,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 104,
-      "total_views": 136613,
+      "total_views": 136614,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -2945,6 +2945,16 @@
       ],
       "runs": [
         {
+          "id": 178,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-11-22",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-22T08:17:05.535203+00:00"
+        },
+        {
           "id": 177,
           "channel_id": "channel_4",
           "slot": 2,
@@ -3133,16 +3143,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-16T02:16:22.899068+00:00"
-        },
-        {
-          "id": 158,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-11-15",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-15T21:59:51.745217+00:00"
         }
       ]
     }
@@ -3155,7 +3155,7 @@
       "youtube_id": "jv91KdcmRHw",
       "title": "Cheesy Sausage Puff Pastry Pie \u2728",
       "tiktok_views": 36600,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jv91KdcmRHw/hqdefault.jpg",
@@ -4705,7 +4705,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 159,
-    "total_views": 951,
+    "total_views": 952,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -5434,7 +5434,7 @@
   },
   "kpis": {
     "total_uploads": 457,
-    "total_views": 141186,
+    "total_views": 141188,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5666,5 +5666,5 @@
       "created_at": "2026-11-15T21:37:55.738698+00:00"
     }
   ],
-  "last_updated": "2026-11-22T07:58:48.159150+00:00"
+  "last_updated": "2026-11-22T08:17:09.655578+00:00"
 }
