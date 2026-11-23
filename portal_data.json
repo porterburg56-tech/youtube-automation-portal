@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 458,
-    "total_views": 141203,
+    "total_views": 141209,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -338,7 +338,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 159,
-      "total_views": 956,
+      "total_views": 962,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -2959,6 +2959,16 @@
       ],
       "runs": [
         {
+          "id": 180,
+          "channel_id": "channel_4",
+          "slot": 2,
+          "run_date": "2026-11-23",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-23T02:55:37.888143+00:00"
+        },
+        {
           "id": 179,
           "channel_id": "channel_4",
           "slot": 1,
@@ -3147,16 +3157,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-17T00:59:37.032914+00:00"
-        },
-        {
-          "id": 160,
-          "channel_id": "channel_4",
-          "slot": 3,
-          "run_date": "2026-11-16",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-16T08:07:31.982965+00:00"
         }
       ]
     }
@@ -4719,7 +4719,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 159,
-    "total_views": 956,
+    "total_views": 962,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -5448,7 +5448,7 @@
   },
   "kpis": {
     "total_uploads": 458,
-    "total_views": 141203,
+    "total_views": 141209,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5680,5 +5680,5 @@
       "created_at": "2026-11-16T08:58:00.279527+00:00"
     }
   ],
-  "last_updated": "2026-11-23T02:46:15.898059+00:00"
+  "last_updated": "2026-11-23T02:55:42.181686+00:00"
 }
