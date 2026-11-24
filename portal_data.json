@@ -307,26 +307,26 @@
     {
       "date": "2026-11-21",
       "ch1_views": 0,
-      "ch2_views": 309,
+      "ch2_views": 308,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 309
+      "total_views": 308
     },
     {
       "date": "2026-11-22",
+      "ch1_views": 0,
+      "ch2_views": 314,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 314
+    },
+    {
+      "date": "2026-11-24",
       "ch1_views": 0,
       "ch2_views": 315,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 315
-    },
-    {
-      "date": "2026-11-24",
-      "ch1_views": 0,
-      "ch2_views": 316,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 316
     }
   ],
   "channels": {
@@ -1204,21 +1204,21 @@
         },
         {
           "date": "2026-11-21",
-          "views": 8,
+          "views": 7,
           "uploads": 1,
-          "cumulative_views": 309
+          "cumulative_views": 308
         },
         {
           "date": "2026-11-22",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 315
+          "cumulative_views": 314
         },
         {
           "date": "2026-11-24",
           "views": 1,
           "uploads": 1,
-          "cumulative_views": 316
+          "cumulative_views": 315
         }
       ],
       "videos": [
@@ -1257,7 +1257,7 @@
           "youtube_id": "jv91KdcmRHw",
           "title": "Cheesy Sausage Puff Pastry Pie \u2728",
           "tiktok_views": 36600,
-          "youtube_views": 8,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jv91KdcmRHw/hqdefault.jpg",
@@ -2973,6 +2973,16 @@
       ],
       "runs": [
         {
+          "id": 184,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-11-24",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-24T11:10:52.726416+00:00"
+        },
+        {
           "id": 183,
           "channel_id": "channel_4",
           "slot": 2,
@@ -3161,16 +3171,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-18T03:45:28.723796+00:00"
-        },
-        {
-          "id": 164,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-11-17",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-17T23:55:59.371489+00:00"
         }
       ]
     }
@@ -3211,7 +3211,7 @@
       "youtube_id": "jv91KdcmRHw",
       "title": "Cheesy Sausage Puff Pastry Pie \u2728",
       "tiktok_views": 36600,
-      "youtube_views": 8,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jv91KdcmRHw/hqdefault.jpg",
@@ -5694,5 +5694,5 @@
       "created_at": "2026-11-17T23:49:04.017688+00:00"
     }
   ],
-  "last_updated": "2026-11-24T10:53:56.473137+00:00"
+  "last_updated": "2026-11-24T11:10:56.878403+00:00"
 }
