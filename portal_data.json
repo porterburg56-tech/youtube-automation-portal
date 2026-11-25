@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 460,
-    "total_views": 141282,
+    "total_views": 141307,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -92,89 +92,89 @@
       "date": "2026-10-24",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 7,
+      "ch3_views": 9,
       "ch4_views": 0,
-      "total_views": 7
+      "total_views": 9
     },
     {
       "date": "2026-10-25",
       "ch1_views": 0,
       "ch2_views": 0,
-      "ch3_views": 13,
+      "ch3_views": 18,
       "ch4_views": 0,
-      "total_views": 13
+      "total_views": 18
     },
     {
       "date": "2026-10-26",
       "ch1_views": 6,
       "ch2_views": 0,
-      "ch3_views": 22,
+      "ch3_views": 30,
       "ch4_views": 0,
-      "total_views": 28
+      "total_views": 36
     },
     {
       "date": "2026-10-27",
       "ch1_views": 10,
       "ch2_views": 0,
-      "ch3_views": 35,
+      "ch3_views": 44,
       "ch4_views": 0,
-      "total_views": 45
+      "total_views": 54
     },
     {
       "date": "2026-10-28",
       "ch1_views": 13,
       "ch2_views": 0,
-      "ch3_views": 53,
+      "ch3_views": 63,
       "ch4_views": 0,
-      "total_views": 66
+      "total_views": 76
     },
     {
       "date": "2026-10-29",
       "ch1_views": 21,
       "ch2_views": 0,
-      "ch3_views": 69,
+      "ch3_views": 81,
       "ch4_views": 0,
-      "total_views": 90
+      "total_views": 102
     },
     {
       "date": "2026-10-30",
       "ch1_views": 39,
       "ch2_views": 0,
-      "ch3_views": 88,
+      "ch3_views": 101,
       "ch4_views": 0,
-      "total_views": 127
+      "total_views": 140
     },
     {
       "date": "2026-10-31",
       "ch1_views": 50,
       "ch2_views": 0,
-      "ch3_views": 111,
+      "ch3_views": 125,
       "ch4_views": 0,
-      "total_views": 161
+      "total_views": 175
     },
     {
       "date": "2026-11-01",
       "ch1_views": 160,
       "ch2_views": 0,
-      "ch3_views": 151,
+      "ch3_views": 166,
       "ch4_views": 0,
-      "total_views": 311
+      "total_views": 326
     },
     {
       "date": "2026-11-02",
       "ch1_views": 163,
       "ch2_views": 0,
-      "ch3_views": 175,
+      "ch3_views": 193,
       "ch4_views": 0,
-      "total_views": 338
+      "total_views": 356
     },
     {
       "date": "2026-11-03",
       "ch1_views": 180,
       "ch2_views": 0,
-      "ch3_views": 181,
+      "ch3_views": 200,
       "ch4_views": 0,
-      "total_views": 361
+      "total_views": 380
     },
     {
       "date": "2026-11-04",
@@ -323,10 +323,10 @@
     {
       "date": "2026-11-25",
       "ch1_views": 0,
-      "ch2_views": 327,
+      "ch2_views": 328,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 327
+      "total_views": 328
     }
   ],
   "channels": {
@@ -1089,7 +1089,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
       "total_uploads": 177,
-      "total_views": 2131,
+      "total_views": 2148,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1216,9 +1216,9 @@
         },
         {
           "date": "2026-11-25",
-          "views": 0,
+          "views": 1,
           "uploads": 1,
-          "cumulative_views": 327
+          "cumulative_views": 328
         }
       ],
       "videos": [
@@ -1229,7 +1229,7 @@
           "youtube_id": "8Lp7aJPpVUY",
           "title": "Creamy Chicken Meatballs with Garlic Parmesan Sauce \u2728",
           "tiktok_views": 26600,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8Lp7aJPpVUY/hqdefault.jpg",
@@ -1645,6 +1645,36 @@
       ],
       "runs": [
         {
+          "id": 265,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-25",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-25T09:31:06.061382+00:00"
+        },
+        {
+          "id": 264,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-25",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-25T09:30:43.780814+00:00"
+        },
+        {
+          "id": 263,
+          "channel_id": "channel_2",
+          "slot": 3,
+          "run_date": "2026-11-25",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-25T09:30:22.773858+00:00"
+        },
+        {
           "id": 262,
           "channel_id": "channel_2",
           "slot": 2,
@@ -1813,36 +1843,6 @@
           "video_id": "jv91KdcmRHw",
           "error_message": null,
           "created_at": "2026-11-21T21:38:01.400925+00:00"
-        },
-        {
-          "id": 245,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-11-21",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-21T07:58:09.297094+00:00"
-        },
-        {
-          "id": 244,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-11-21",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-21T07:57:48.303903+00:00"
-        },
-        {
-          "id": 243,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-11-21",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-21T07:57:26.961432+00:00"
         }
       ]
     },
@@ -1862,7 +1862,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 104,
-      "total_views": 136616,
+      "total_views": 136624,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1893,69 +1893,69 @@
       "view_history": [
         {
           "date": "2026-10-24",
-          "views": 7,
+          "views": 9,
           "uploads": 2,
-          "cumulative_views": 7
+          "cumulative_views": 9
         },
         {
           "date": "2026-10-25",
-          "views": 6,
+          "views": 9,
           "uploads": 3,
-          "cumulative_views": 13
+          "cumulative_views": 18
         },
         {
           "date": "2026-10-26",
-          "views": 9,
+          "views": 12,
           "uploads": 3,
-          "cumulative_views": 22
+          "cumulative_views": 30
         },
         {
           "date": "2026-10-27",
-          "views": 13,
+          "views": 14,
           "uploads": 3,
-          "cumulative_views": 35
+          "cumulative_views": 44
         },
         {
           "date": "2026-10-28",
-          "views": 18,
+          "views": 19,
           "uploads": 3,
-          "cumulative_views": 53
+          "cumulative_views": 63
         },
         {
           "date": "2026-10-29",
-          "views": 16,
+          "views": 18,
           "uploads": 3,
-          "cumulative_views": 69
+          "cumulative_views": 81
         },
         {
           "date": "2026-10-30",
-          "views": 19,
+          "views": 20,
           "uploads": 3,
-          "cumulative_views": 88
+          "cumulative_views": 101
         },
         {
           "date": "2026-10-31",
-          "views": 23,
+          "views": 24,
           "uploads": 3,
-          "cumulative_views": 111
+          "cumulative_views": 125
         },
         {
           "date": "2026-11-01",
-          "views": 40,
+          "views": 41,
           "uploads": 3,
-          "cumulative_views": 151
+          "cumulative_views": 166
         },
         {
           "date": "2026-11-02",
-          "views": 24,
+          "views": 27,
           "uploads": 3,
-          "cumulative_views": 175
+          "cumulative_views": 193
         },
         {
           "date": "2026-11-03",
-          "views": 6,
+          "views": 7,
           "uploads": 1,
-          "cumulative_views": 181
+          "cumulative_views": 200
         }
       ],
       "videos": [
@@ -1966,7 +1966,7 @@
           "youtube_id": "c7SmTq89tes",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/c7SmTq89tes/hqdefault.jpg",
@@ -1980,7 +1980,7 @@
           "youtube_id": "G4s5E6jDS3Y",
           "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/G4s5E6jDS3Y/hqdefault.jpg",
@@ -1994,7 +1994,7 @@
           "youtube_id": "lmU5-T_OTrA",
           "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 14,
+          "youtube_views": 16,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
@@ -2022,7 +2022,7 @@
           "youtube_id": "PYhiYAlnAOE",
           "title": "Removing substance from toenail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/PYhiYAlnAOE/hqdefault.jpg",
@@ -2064,7 +2064,7 @@
           "youtube_id": "dlK2wGNAJGc",
           "title": "Metal tool extracting debris fro\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dlK2wGNAJGc/hqdefault.jpg",
@@ -2120,7 +2120,7 @@
           "youtube_id": "V7ByFUim07U",
           "title": "Medical scraper removing debris \u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 3,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/V7ByFUim07U/hqdefault.jpg",
@@ -2148,7 +2148,7 @@
           "youtube_id": "CzKbzL6SIYI",
           "title": "Medical pick scraping nail buildup \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/CzKbzL6SIYI/hqdefault.jpg",
@@ -2176,7 +2176,7 @@
           "youtube_id": "n4Ol_vXLTxg",
           "title": "Hands removing fluid from nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/n4Ol_vXLTxg/hqdefault.jpg",
@@ -2218,7 +2218,7 @@
           "youtube_id": "VH02Fabt7qI",
           "title": "Hands extracting gel from nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/VH02Fabt7qI/hqdefault.jpg",
@@ -2232,7 +2232,7 @@
           "youtube_id": "GxotkhHSMRU",
           "title": "Hands extracting gel from nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/GxotkhHSMRU/hqdefault.jpg",
@@ -2274,7 +2274,7 @@
           "youtube_id": "dLCskoONG-8",
           "title": "Tweezers extracting splinter fro\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 2,
+          "youtube_views": 4,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/dLCskoONG-8/hqdefault.jpg",
@@ -2288,7 +2288,7 @@
           "youtube_id": "FZNYZPmDCZc",
           "title": "Tweezers extracting splinter fro\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 1,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/FZNYZPmDCZc/hqdefault.jpg",
@@ -2330,7 +2330,7 @@
           "youtube_id": "Kww1g3bS0_w",
           "title": "Surgical forceps extracting wood\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 2,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/Kww1g3bS0_w/hqdefault.jpg",
@@ -2344,7 +2344,7 @@
           "youtube_id": "VzwFVRogy1o",
           "title": "Surgical forceps extracting nail \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/VzwFVRogy1o/hqdefault.jpg",
@@ -2358,7 +2358,7 @@
           "youtube_id": "m35wNsYWFT8",
           "title": "Surgical forceps extracting iron\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 0,
+          "youtube_views": 1,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/m35wNsYWFT8/hqdefault.jpg",
@@ -2372,7 +2372,7 @@
           "youtube_id": "m4_o8lVwmZo",
           "title": "Professional scraping crystallin\u2026 \ud83d\udc85",
           "tiktok_views": 0,
-          "youtube_views": 7,
+          "youtube_views": 8,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/m4_o8lVwmZo/hqdefault.jpg",
@@ -3183,7 +3183,7 @@
       "youtube_id": "8Lp7aJPpVUY",
       "title": "Creamy Chicken Meatballs with Garlic Parmesan Sauce \u2728",
       "tiktok_views": 26600,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8Lp7aJPpVUY/hqdefault.jpg",
@@ -3701,7 +3701,7 @@
       "youtube_id": "c7SmTq89tes",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/c7SmTq89tes/hqdefault.jpg",
@@ -3715,7 +3715,7 @@
       "youtube_id": "G4s5E6jDS3Y",
       "title": "Flawless Nail Art Design Transformation \ud83d\udc85\u2728",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/G4s5E6jDS3Y/hqdefault.jpg",
@@ -3757,7 +3757,7 @@
       "youtube_id": "lmU5-T_OTrA",
       "title": "Mesmerizing Acrylic Nail Transformation You Need To See \u2728 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 14,
+      "youtube_views": 16,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/lmU5-T_OTrA/hqdefault.jpg",
@@ -3799,7 +3799,7 @@
       "youtube_id": "PYhiYAlnAOE",
       "title": "Removing substance from toenail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/PYhiYAlnAOE/hqdefault.jpg",
@@ -3883,7 +3883,7 @@
       "youtube_id": "dlK2wGNAJGc",
       "title": "Metal tool extracting debris fro\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dlK2wGNAJGc/hqdefault.jpg",
@@ -4009,7 +4009,7 @@
       "youtube_id": "V7ByFUim07U",
       "title": "Medical scraper removing debris \u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 3,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/V7ByFUim07U/hqdefault.jpg",
@@ -4051,7 +4051,7 @@
       "youtube_id": "CzKbzL6SIYI",
       "title": "Medical pick scraping nail buildup \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/CzKbzL6SIYI/hqdefault.jpg",
@@ -4121,7 +4121,7 @@
       "youtube_id": "n4Ol_vXLTxg",
       "title": "Hands removing fluid from nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/n4Ol_vXLTxg/hqdefault.jpg",
@@ -4205,7 +4205,7 @@
       "youtube_id": "VH02Fabt7qI",
       "title": "Hands extracting gel from nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/VH02Fabt7qI/hqdefault.jpg",
@@ -4219,7 +4219,7 @@
       "youtube_id": "GxotkhHSMRU",
       "title": "Hands extracting gel from nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/GxotkhHSMRU/hqdefault.jpg",
@@ -4303,7 +4303,7 @@
       "youtube_id": "dLCskoONG-8",
       "title": "Tweezers extracting splinter fro\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 2,
+      "youtube_views": 4,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/dLCskoONG-8/hqdefault.jpg",
@@ -4345,7 +4345,7 @@
       "youtube_id": "FZNYZPmDCZc",
       "title": "Tweezers extracting splinter fro\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 1,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/FZNYZPmDCZc/hqdefault.jpg",
@@ -4387,7 +4387,7 @@
       "youtube_id": "Kww1g3bS0_w",
       "title": "Surgical forceps extracting wood\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 2,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/Kww1g3bS0_w/hqdefault.jpg",
@@ -4401,7 +4401,7 @@
       "youtube_id": "VzwFVRogy1o",
       "title": "Surgical forceps extracting nail \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/VzwFVRogy1o/hqdefault.jpg",
@@ -4415,7 +4415,7 @@
       "youtube_id": "m35wNsYWFT8",
       "title": "Surgical forceps extracting iron\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 0,
+      "youtube_views": 1,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/m35wNsYWFT8/hqdefault.jpg",
@@ -4429,7 +4429,7 @@
       "youtube_id": "m4_o8lVwmZo",
       "title": "Professional scraping crystallin\u2026 \ud83d\udc85",
       "tiktok_views": 0,
-      "youtube_views": 7,
+      "youtube_views": 8,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/m4_o8lVwmZo/hqdefault.jpg",
@@ -5462,7 +5462,7 @@
   },
   "kpis": {
     "total_uploads": 460,
-    "total_views": 141282,
+    "total_views": 141307,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5694,5 +5694,5 @@
       "created_at": "2026-11-18T23:20:39.707017+00:00"
     }
   ],
-  "last_updated": "2026-11-25T05:36:22.286389+00:00"
+  "last_updated": "2026-11-25T09:31:10.387111+00:00"
 }
