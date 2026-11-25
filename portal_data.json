@@ -185,92 +185,84 @@
       "total_views": 186
     },
     {
-      "date": "2026-11-05",
-      "ch1_views": 0,
-      "ch2_views": 1,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 1
-    },
-    {
       "date": "2026-11-06",
       "ch1_views": 0,
-      "ch2_views": 86,
+      "ch2_views": 85,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 86
+      "total_views": 85
     },
     {
       "date": "2026-11-07",
       "ch1_views": 0,
-      "ch2_views": 110,
+      "ch2_views": 109,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 110
+      "total_views": 109
     },
     {
       "date": "2026-11-08",
       "ch1_views": 0,
-      "ch2_views": 123,
+      "ch2_views": 122,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 123
+      "total_views": 122
     },
     {
       "date": "2026-11-09",
       "ch1_views": 0,
-      "ch2_views": 138,
+      "ch2_views": 137,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 138
+      "total_views": 137
     },
     {
       "date": "2026-11-10",
       "ch1_views": 209,
-      "ch2_views": 201,
+      "ch2_views": 200,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 410
+      "total_views": 409
     },
     {
       "date": "2026-11-11",
       "ch1_views": 0,
-      "ch2_views": 217,
+      "ch2_views": 216,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 217
+      "total_views": 216
     },
     {
       "date": "2026-11-12",
       "ch1_views": 0,
-      "ch2_views": 226,
+      "ch2_views": 225,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 226
+      "total_views": 225
     },
     {
       "date": "2026-11-13",
       "ch1_views": 0,
-      "ch2_views": 238,
+      "ch2_views": 237,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 238
+      "total_views": 237
     },
     {
       "date": "2026-11-14",
       "ch1_views": 0,
-      "ch2_views": 251,
+      "ch2_views": 250,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 251
+      "total_views": 250
     },
     {
       "date": "2026-11-15",
       "ch1_views": 0,
-      "ch2_views": 290,
+      "ch2_views": 289,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 290
+      "total_views": 289
     },
     {
       "date": "2026-11-16",
@@ -283,50 +275,58 @@
     {
       "date": "2026-11-17",
       "ch1_views": 0,
-      "ch2_views": 294,
+      "ch2_views": 293,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 294
+      "total_views": 293
     },
     {
       "date": "2026-11-19",
       "ch1_views": 0,
-      "ch2_views": 299,
+      "ch2_views": 298,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 299
+      "total_views": 298
     },
     {
       "date": "2026-11-20",
       "ch1_views": 0,
-      "ch2_views": 309,
+      "ch2_views": 308,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 309
+      "total_views": 308
     },
     {
       "date": "2026-11-21",
       "ch1_views": 0,
-      "ch2_views": 318,
+      "ch2_views": 317,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 318
+      "total_views": 317
     },
     {
       "date": "2026-11-22",
       "ch1_views": 0,
-      "ch2_views": 326,
+      "ch2_views": 325,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 326
+      "total_views": 325
     },
     {
       "date": "2026-11-24",
       "ch1_views": 0,
-      "ch2_views": 328,
+      "ch2_views": 327,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 328
+      "total_views": 327
+    },
+    {
+      "date": "2026-11-25",
+      "ch1_views": 0,
+      "ch2_views": 327,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 327
     }
   ],
   "channels": {
@@ -872,6 +872,16 @@
       ],
       "runs": [
         {
+          "id": 227,
+          "channel_id": "channel_1",
+          "slot": 1,
+          "run_date": "2026-11-25",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-25T01:19:31.247787+00:00"
+        },
+        {
           "id": 226,
           "channel_id": "channel_1",
           "slot": 3,
@@ -1060,16 +1070,6 @@
           "video_id": null,
           "error_message": "No unposted videos found.",
           "created_at": "2026-11-18T09:40:10.031985+00:00"
-        },
-        {
-          "id": 207,
-          "channel_id": "channel_1",
-          "slot": 2,
-          "run_date": "2026-11-18",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-18T04:39:20.182469+00:00"
         }
       ]
     },
@@ -1119,109 +1119,123 @@
       },
       "view_history": [
         {
-          "date": "2026-11-05",
-          "views": 1,
-          "uploads": 1,
-          "cumulative_views": 1
-        },
-        {
           "date": "2026-11-06",
           "views": 85,
           "uploads": 3,
-          "cumulative_views": 86
+          "cumulative_views": 85
         },
         {
           "date": "2026-11-07",
           "views": 24,
           "uploads": 3,
-          "cumulative_views": 110
+          "cumulative_views": 109
         },
         {
           "date": "2026-11-08",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 123
+          "cumulative_views": 122
         },
         {
           "date": "2026-11-09",
           "views": 15,
           "uploads": 2,
-          "cumulative_views": 138
+          "cumulative_views": 137
         },
         {
           "date": "2026-11-10",
           "views": 63,
           "uploads": 4,
-          "cumulative_views": 201
+          "cumulative_views": 200
         },
         {
           "date": "2026-11-11",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 217
+          "cumulative_views": 216
         },
         {
           "date": "2026-11-12",
           "views": 9,
           "uploads": 2,
-          "cumulative_views": 226
+          "cumulative_views": 225
         },
         {
           "date": "2026-11-13",
           "views": 12,
           "uploads": 1,
-          "cumulative_views": 238
+          "cumulative_views": 237
         },
         {
           "date": "2026-11-14",
           "views": 13,
           "uploads": 1,
-          "cumulative_views": 251
+          "cumulative_views": 250
         },
         {
           "date": "2026-11-15",
           "views": 39,
           "uploads": 1,
-          "cumulative_views": 290
+          "cumulative_views": 289
         },
         {
           "date": "2026-11-17",
           "views": 4,
           "uploads": 1,
-          "cumulative_views": 294
+          "cumulative_views": 293
         },
         {
           "date": "2026-11-19",
           "views": 5,
           "uploads": 1,
-          "cumulative_views": 299
+          "cumulative_views": 298
         },
         {
           "date": "2026-11-20",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 309
+          "cumulative_views": 308
         },
         {
           "date": "2026-11-21",
           "views": 9,
           "uploads": 1,
-          "cumulative_views": 318
+          "cumulative_views": 317
         },
         {
           "date": "2026-11-22",
           "views": 8,
           "uploads": 1,
-          "cumulative_views": 326
+          "cumulative_views": 325
         },
         {
           "date": "2026-11-24",
           "views": 2,
           "uploads": 1,
-          "cumulative_views": 328
+          "cumulative_views": 327
+        },
+        {
+          "date": "2026-11-25",
+          "views": 0,
+          "uploads": 1,
+          "cumulative_views": 327
         }
       ],
       "videos": [
+        {
+          "channel_id": "channel_2",
+          "channel_name": "Taste & Tales",
+          "tiktok_id": "7711794156435197197",
+          "youtube_id": "8Lp7aJPpVUY",
+          "title": "Creamy Chicken Meatballs with Garlic Parmesan Sauce \u2728",
+          "tiktok_views": 26600,
+          "youtube_views": 0,
+          "youtube_likes": 0,
+          "youtube_comments": 0,
+          "thumbnail": "https://i.ytimg.com/vi/8Lp7aJPpVUY/hqdefault.jpg",
+          "status": "uploaded",
+          "uploaded_at": "2026-11-25T00:32:47Z"
+        },
         {
           "channel_id": "channel_2",
           "channel_name": "Taste & Tales",
@@ -1627,20 +1641,6 @@
           "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
           "status": "uploaded",
           "uploaded_at": "2026-11-06T02:12:02Z"
-        },
-        {
-          "channel_id": "channel_2",
-          "channel_name": "Taste & Tales",
-          "tiktok_id": "7657632155996032269",
-          "youtube_id": "_-KGLCjssb8",
-          "title": "Creamy Baked Fettuccine with Chicken & Mushrooms \ud83c\udf5d",
-          "tiktok_views": 4892,
-          "youtube_views": 1,
-          "youtube_likes": 0,
-          "youtube_comments": 0,
-          "thumbnail": "https://i.ytimg.com/vi/_-KGLCjssb8/hqdefault.jpg",
-          "status": "uploaded",
-          "uploaded_at": "2026-11-05T21:52:21Z"
         }
       ],
       "runs": [
@@ -3179,6 +3179,20 @@
     {
       "channel_id": "channel_2",
       "channel_name": "Taste & Tales",
+      "tiktok_id": "7711794156435197197",
+      "youtube_id": "8Lp7aJPpVUY",
+      "title": "Creamy Chicken Meatballs with Garlic Parmesan Sauce \u2728",
+      "tiktok_views": 26600,
+      "youtube_views": 0,
+      "youtube_likes": 0,
+      "youtube_comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/8Lp7aJPpVUY/hqdefault.jpg",
+      "status": "uploaded",
+      "uploaded_at": "2026-11-25T00:32:47Z"
+    },
+    {
+      "channel_id": "channel_2",
+      "channel_name": "Taste & Tales",
       "tiktok_id": "7711421035148545294",
       "youtube_id": "2DX_gfVDKSc",
       "title": "Raspberry White Chocolate Cream Pastries \u2728",
@@ -3609,20 +3623,6 @@
       "thumbnail": "https://i.ytimg.com/vi/g7jkjFvOb44/hqdefault.jpg",
       "status": "uploaded",
       "uploaded_at": "2026-11-06T02:12:02Z"
-    },
-    {
-      "channel_id": "channel_2",
-      "channel_name": "Taste & Tales",
-      "tiktok_id": "7657632155996032269",
-      "youtube_id": "_-KGLCjssb8",
-      "title": "Creamy Baked Fettuccine with Chicken & Mushrooms \ud83c\udf5d",
-      "tiktok_views": 4892,
-      "youtube_views": 1,
-      "youtube_likes": 0,
-      "youtube_comments": 0,
-      "thumbnail": "https://i.ytimg.com/vi/_-KGLCjssb8/hqdefault.jpg",
-      "status": "uploaded",
-      "uploaded_at": "2026-11-05T21:52:21Z"
     },
     {
       "channel_id": "channel_1",
@@ -5259,6 +5259,16 @@
     ],
     "runs": [
       {
+        "id": 227,
+        "channel_id": "channel_1",
+        "slot": 1,
+        "run_date": "2026-11-25",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-25T01:19:31.247787+00:00"
+      },
+      {
         "id": 226,
         "channel_id": "channel_1",
         "slot": 3,
@@ -5447,16 +5457,6 @@
         "video_id": null,
         "error_message": "No unposted videos found.",
         "created_at": "2026-11-18T09:40:10.031985+00:00"
-      },
-      {
-        "id": 207,
-        "channel_id": "channel_1",
-        "slot": 2,
-        "run_date": "2026-11-18",
-        "status": "no_content",
-        "video_id": null,
-        "error_message": "No unposted videos found.",
-        "created_at": "2026-11-18T04:39:20.182469+00:00"
       }
     ]
   },
@@ -5493,6 +5493,16 @@
     }
   },
   "runs": [
+    {
+      "id": 227,
+      "channel_id": "channel_1",
+      "slot": 1,
+      "run_date": "2026-11-25",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-25T01:19:31.247787+00:00"
+    },
     {
       "id": 226,
       "channel_id": "channel_1",
@@ -5682,17 +5692,7 @@
       "video_id": null,
       "error_message": "No unposted videos found.",
       "created_at": "2026-11-18T09:40:10.031985+00:00"
-    },
-    {
-      "id": 207,
-      "channel_id": "channel_1",
-      "slot": 2,
-      "run_date": "2026-11-18",
-      "status": "no_content",
-      "video_id": null,
-      "error_message": "No unposted videos found.",
-      "created_at": "2026-11-18T04:39:20.182469+00:00"
     }
   ],
-  "last_updated": "2026-11-25T00:32:07.849731+00:00"
+  "last_updated": "2026-11-25T01:19:35.873327+00:00"
 }
