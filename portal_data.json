@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 460,
-    "total_views": 141307,
+    "total_views": 141299,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -1862,7 +1862,7 @@
       "category": "Nail Art & ASMR Transformations",
       "subscribers": 76,
       "total_uploads": 104,
-      "total_views": 136624,
+      "total_views": 136616,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -2382,6 +2382,16 @@
       ],
       "runs": [
         {
+          "id": 194,
+          "channel_id": "channel_3",
+          "slot": 3,
+          "run_date": "2026-11-25",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-25T09:48:11.786396+00:00"
+        },
+        {
           "id": 193,
           "channel_id": "channel_3",
           "slot": 2,
@@ -2570,16 +2580,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-19T03:28:30.864040+00:00"
-        },
-        {
-          "id": 174,
-          "channel_id": "channel_3",
-          "slot": 1,
-          "run_date": "2026-11-18",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-18T23:23:00.322760+00:00"
         }
       ]
     },
@@ -5462,7 +5462,7 @@
   },
   "kpis": {
     "total_uploads": 460,
-    "total_views": 141307,
+    "total_views": 141299,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5694,5 +5694,5 @@
       "created_at": "2026-11-18T23:20:39.707017+00:00"
     }
   ],
-  "last_updated": "2026-11-25T09:31:10.387111+00:00"
+  "last_updated": "2026-11-25T09:48:15.529617+00:00"
 }
