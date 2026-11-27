@@ -1,7 +1,7 @@
 {
   "cumulative": {
     "total_uploads": 461,
-    "total_views": 141420,
+    "total_views": 141436,
     "total_likes": 17,
     "total_subscribers": 89,
     "channels_count": 4,
@@ -331,10 +331,10 @@
     {
       "date": "2026-11-26",
       "ch1_views": 0,
-      "ch2_views": 318,
+      "ch2_views": 319,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 318
+      "total_views": 319
     }
   ],
   "channels": {
@@ -880,6 +880,16 @@
       ],
       "runs": [
         {
+          "id": 234,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-11-27",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-27T05:15:13.034263+00:00"
+        },
+        {
           "id": 233,
           "channel_id": "channel_1",
           "slot": 1,
@@ -1068,16 +1078,6 @@
           "video_id": null,
           "error_message": "No unposted videos found.",
           "created_at": "2026-11-20T23:08:53.349750+00:00"
-        },
-        {
-          "id": 214,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-11-20",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-20T09:35:16.452588+00:00"
         }
       ]
     },
@@ -1097,7 +1097,7 @@
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 8,
       "total_uploads": 178,
-      "total_views": 2192,
+      "total_views": 2208,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1230,9 +1230,9 @@
         },
         {
           "date": "2026-11-26",
-          "views": 11,
+          "views": 12,
           "uploads": 1,
-          "cumulative_views": 318
+          "cumulative_views": 319
         }
       ],
       "videos": [
@@ -1243,7 +1243,7 @@
           "youtube_id": "ehPCgAm6iKg",
           "title": "Creamy Strawberry Berry Puff Pastry Pie \u2728",
           "tiktok_views": 4801,
-          "youtube_views": 11,
+          "youtube_views": 12,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ehPCgAm6iKg/hqdefault.jpg",
@@ -3197,7 +3197,7 @@
       "youtube_id": "ehPCgAm6iKg",
       "title": "Creamy Strawberry Berry Puff Pastry Pie \u2728",
       "tiktok_views": 4801,
-      "youtube_views": 11,
+      "youtube_views": 12,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ehPCgAm6iKg/hqdefault.jpg",
@@ -5273,6 +5273,16 @@
     ],
     "runs": [
       {
+        "id": 234,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-11-27",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-27T05:15:13.034263+00:00"
+      },
+      {
         "id": 233,
         "channel_id": "channel_1",
         "slot": 1,
@@ -5461,22 +5471,12 @@
         "video_id": null,
         "error_message": "No unposted videos found.",
         "created_at": "2026-11-20T23:08:53.349750+00:00"
-      },
-      {
-        "id": 214,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-11-20",
-        "status": "no_content",
-        "video_id": null,
-        "error_message": "No unposted videos found.",
-        "created_at": "2026-11-20T09:35:16.452588+00:00"
       }
     ]
   },
   "kpis": {
     "total_uploads": 461,
-    "total_views": 141420,
+    "total_views": 141436,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5507,6 +5507,16 @@
     }
   },
   "runs": [
+    {
+      "id": 234,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-11-27",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-27T05:15:13.034263+00:00"
+    },
     {
       "id": 233,
       "channel_id": "channel_1",
@@ -5696,17 +5706,7 @@
       "video_id": null,
       "error_message": "No unposted videos found.",
       "created_at": "2026-11-20T23:08:53.349750+00:00"
-    },
-    {
-      "id": 214,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-11-20",
-      "status": "no_content",
-      "video_id": null,
-      "error_message": "No unposted videos found.",
-      "created_at": "2026-11-20T09:35:16.452588+00:00"
     }
   ],
-  "last_updated": "2026-11-27T04:21:39.700563+00:00"
+  "last_updated": "2026-11-27T05:15:17.331242+00:00"
 }
