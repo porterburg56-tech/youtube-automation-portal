@@ -1,7 +1,7 @@
 {
   "cumulative": {
-    "total_uploads": 461,
-    "total_views": 141436,
+    "total_uploads": 462,
+    "total_views": 141448,
     "total_likes": 17,
     "total_subscribers": 88,
     "channels_count": 4,
@@ -154,158 +154,150 @@
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 168,
+      "ch1_views": 169,
       "ch2_views": 0,
       "ch3_views": 184,
       "ch4_views": 0,
-      "total_views": 352
+      "total_views": 353
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 171,
+      "ch1_views": 172,
       "ch2_views": 0,
       "ch3_views": 213,
       "ch4_views": 0,
-      "total_views": 384
+      "total_views": 385
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 188,
+      "ch1_views": 189,
       "ch2_views": 0,
       "ch3_views": 221,
       "ch4_views": 0,
-      "total_views": 409
+      "total_views": 410
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 194,
+      "ch1_views": 195,
       "ch2_views": 0,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 195
+    },
+    {
+      "date": "2026-11-06",
+      "ch1_views": 0,
+      "ch2_views": 45,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 45
+    },
+    {
+      "date": "2026-11-07",
+      "ch1_views": 0,
+      "ch2_views": 71,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 71
+    },
+    {
+      "date": "2026-11-08",
+      "ch1_views": 0,
+      "ch2_views": 84,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 84
+    },
+    {
+      "date": "2026-11-09",
+      "ch1_views": 0,
+      "ch2_views": 100,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 100
+    },
+    {
+      "date": "2026-11-10",
+      "ch1_views": 218,
+      "ch2_views": 167,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 385
+    },
+    {
+      "date": "2026-11-11",
+      "ch1_views": 0,
+      "ch2_views": 183,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 183
+    },
+    {
+      "date": "2026-11-12",
+      "ch1_views": 0,
+      "ch2_views": 194,
       "ch3_views": 0,
       "ch4_views": 0,
       "total_views": 194
     },
     {
-      "date": "2026-11-06",
-      "ch1_views": 0,
-      "ch2_views": 43,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 43
-    },
-    {
-      "date": "2026-11-07",
-      "ch1_views": 0,
-      "ch2_views": 68,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 68
-    },
-    {
-      "date": "2026-11-08",
-      "ch1_views": 0,
-      "ch2_views": 81,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 81
-    },
-    {
-      "date": "2026-11-09",
-      "ch1_views": 0,
-      "ch2_views": 96,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 96
-    },
-    {
-      "date": "2026-11-10",
-      "ch1_views": 217,
-      "ch2_views": 163,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 380
-    },
-    {
-      "date": "2026-11-11",
-      "ch1_views": 0,
-      "ch2_views": 179,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 179
-    },
-    {
-      "date": "2026-11-12",
-      "ch1_views": 0,
-      "ch2_views": 190,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 190
-    },
-    {
       "date": "2026-11-13",
       "ch1_views": 0,
-      "ch2_views": 204,
+      "ch2_views": 209,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 204
+      "total_views": 209
     },
     {
       "date": "2026-11-14",
       "ch1_views": 0,
-      "ch2_views": 219,
+      "ch2_views": 224,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 219
+      "total_views": 224
     },
     {
       "date": "2026-11-15",
       "ch1_views": 0,
-      "ch2_views": 258,
+      "ch2_views": 265,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 258
+      "total_views": 265
     },
     {
       "date": "2026-11-16",
-      "ch1_views": 220,
+      "ch1_views": 221,
       "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 220
+      "total_views": 221
     },
     {
       "date": "2026-11-17",
       "ch1_views": 0,
-      "ch2_views": 262,
+      "ch2_views": 270,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 262
+      "total_views": 270
     },
     {
       "date": "2026-11-19",
       "ch1_views": 0,
-      "ch2_views": 267,
+      "ch2_views": 275,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 267
+      "total_views": 275
     },
     {
       "date": "2026-11-20",
       "ch1_views": 0,
-      "ch2_views": 282,
+      "ch2_views": 290,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 282
+      "total_views": 290
     },
     {
       "date": "2026-11-21",
-      "ch1_views": 0,
-      "ch2_views": 291,
-      "ch3_views": 0,
-      "ch4_views": 0,
-      "total_views": 291
-    },
-    {
-      "date": "2026-11-22",
       "ch1_views": 0,
       "ch2_views": 300,
       "ch3_views": 0,
@@ -313,28 +305,36 @@
       "total_views": 300
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-22",
       "ch1_views": 0,
-      "ch2_views": 306,
+      "ch2_views": 309,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 306
+      "total_views": 309
+    },
+    {
+      "date": "2026-11-24",
+      "ch1_views": 0,
+      "ch2_views": 315,
+      "ch3_views": 0,
+      "ch4_views": 0,
+      "total_views": 315
     },
     {
       "date": "2026-11-25",
       "ch1_views": 0,
-      "ch2_views": 312,
+      "ch2_views": 322,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 312
+      "total_views": 322
     },
     {
       "date": "2026-11-26",
       "ch1_views": 0,
-      "ch2_views": 324,
+      "ch2_views": 335,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 324
+      "total_views": 335
     }
   ],
   "channels": {
@@ -354,7 +354,7 @@
       "category": "Comedy & Toddler Moments",
       "subscribers": 0,
       "total_uploads": 159,
-      "total_views": 972,
+      "total_views": 973,
       "total_likes": 2,
       "upcoming": {
         "slot1": {
@@ -421,39 +421,39 @@
         },
         {
           "date": "2026-11-01",
-          "views": 113,
+          "views": 114,
           "uploads": 3,
-          "cumulative_views": 168
+          "cumulative_views": 169
         },
         {
           "date": "2026-11-02",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 171
+          "cumulative_views": 172
         },
         {
           "date": "2026-11-03",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 188
+          "cumulative_views": 189
         },
         {
           "date": "2026-11-04",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 194
+          "cumulative_views": 195
         },
         {
           "date": "2026-11-10",
           "views": 23,
           "uploads": 1,
-          "cumulative_views": 217
+          "cumulative_views": 218
         },
         {
           "date": "2026-11-16",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 220
+          "cumulative_views": 221
         }
       ],
       "videos": [
@@ -618,7 +618,7 @@
           "youtube_id": "TzwyYFLz8_U",
           "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
           "tiktok_views": 4477,
-          "youtube_views": 93,
+          "youtube_views": 94,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -1096,8 +1096,8 @@
       "avatar_letter": "T",
       "category": "Cooking & Stories (Spanish Dubbed)",
       "subscribers": 7,
-      "total_uploads": 178,
-      "total_views": 2208,
+      "total_uploads": 179,
+      "total_views": 2219,
       "total_likes": 0,
       "upcoming": {
         "slot1": {
@@ -1128,111 +1128,111 @@
       "view_history": [
         {
           "date": "2026-11-06",
-          "views": 43,
+          "views": 45,
           "uploads": 2,
-          "cumulative_views": 43
+          "cumulative_views": 45
         },
         {
           "date": "2026-11-07",
-          "views": 25,
+          "views": 26,
           "uploads": 3,
-          "cumulative_views": 68
+          "cumulative_views": 71
         },
         {
           "date": "2026-11-08",
           "views": 13,
           "uploads": 3,
-          "cumulative_views": 81
+          "cumulative_views": 84
         },
         {
           "date": "2026-11-09",
-          "views": 15,
+          "views": 16,
           "uploads": 2,
-          "cumulative_views": 96
+          "cumulative_views": 100
         },
         {
           "date": "2026-11-10",
           "views": 67,
           "uploads": 4,
-          "cumulative_views": 163
+          "cumulative_views": 167
         },
         {
           "date": "2026-11-11",
           "views": 16,
           "uploads": 3,
-          "cumulative_views": 179
+          "cumulative_views": 183
         },
         {
           "date": "2026-11-12",
           "views": 11,
           "uploads": 2,
-          "cumulative_views": 190
+          "cumulative_views": 194
         },
         {
           "date": "2026-11-13",
-          "views": 14,
+          "views": 15,
           "uploads": 1,
-          "cumulative_views": 204
+          "cumulative_views": 209
         },
         {
           "date": "2026-11-14",
           "views": 15,
           "uploads": 1,
-          "cumulative_views": 219
+          "cumulative_views": 224
         },
         {
           "date": "2026-11-15",
-          "views": 39,
+          "views": 41,
           "uploads": 1,
-          "cumulative_views": 258
+          "cumulative_views": 265
         },
         {
           "date": "2026-11-17",
-          "views": 4,
+          "views": 5,
           "uploads": 1,
-          "cumulative_views": 262
+          "cumulative_views": 270
         },
         {
           "date": "2026-11-19",
           "views": 5,
           "uploads": 1,
-          "cumulative_views": 267
+          "cumulative_views": 275
         },
         {
           "date": "2026-11-20",
           "views": 15,
           "uploads": 1,
-          "cumulative_views": 282
+          "cumulative_views": 290
         },
         {
           "date": "2026-11-21",
-          "views": 9,
+          "views": 10,
           "uploads": 1,
-          "cumulative_views": 291
+          "cumulative_views": 300
         },
         {
           "date": "2026-11-22",
           "views": 9,
           "uploads": 1,
-          "cumulative_views": 300
+          "cumulative_views": 309
         },
         {
           "date": "2026-11-24",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 306
+          "cumulative_views": 315
         },
         {
           "date": "2026-11-25",
-          "views": 6,
+          "views": 7,
           "uploads": 1,
-          "cumulative_views": 312
+          "cumulative_views": 322
         },
         {
           "date": "2026-11-26",
-          "views": 12,
+          "views": 13,
           "uploads": 1,
-          "cumulative_views": 324
+          "cumulative_views": 335
         }
       ],
       "videos": [
@@ -1243,7 +1243,7 @@
           "youtube_id": "ehPCgAm6iKg",
           "title": "Creamy Strawberry Berry Puff Pastry Pie \u2728",
           "tiktok_views": 4801,
-          "youtube_views": 12,
+          "youtube_views": 13,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/ehPCgAm6iKg/hqdefault.jpg",
@@ -1257,7 +1257,7 @@
           "youtube_id": "8Lp7aJPpVUY",
           "title": "Creamy Chicken Meatballs with Garlic Parmesan Sauce \u2728",
           "tiktok_views": 26600,
-          "youtube_views": 6,
+          "youtube_views": 7,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/8Lp7aJPpVUY/hqdefault.jpg",
@@ -1299,7 +1299,7 @@
           "youtube_id": "jv91KdcmRHw",
           "title": "Cheesy Sausage Puff Pastry Pie \u2728",
           "tiktok_views": 36600,
-          "youtube_views": 9,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/jv91KdcmRHw/hqdefault.jpg",
@@ -1341,7 +1341,7 @@
           "youtube_id": "uSUw-sZZBgQ",
           "title": "Chocolate Ladyfinger Cream Dessert \u2728",
           "tiktok_views": 24400,
-          "youtube_views": 4,
+          "youtube_views": 5,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/uSUw-sZZBgQ/hqdefault.jpg",
@@ -1355,7 +1355,7 @@
           "youtube_id": "9hGzV_ftQ3Q",
           "title": "Cheesy Minced Meat Nests with Creamy Mashed Potatoes \u2728",
           "tiktok_views": 5778,
-          "youtube_views": 39,
+          "youtube_views": 41,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/9hGzV_ftQ3Q/hqdefault.jpg",
@@ -1383,7 +1383,7 @@
           "youtube_id": "bs81qQeUErY",
           "title": "Crispy Cheesy Chicken Patties with Creamy Cheddar Sauce \u2728",
           "tiktok_views": 6346,
-          "youtube_views": 14,
+          "youtube_views": 15,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/bs81qQeUErY/hqdefault.jpg",
@@ -1537,7 +1537,7 @@
           "youtube_id": "rUaebs1NTu0",
           "title": "Creamy Garlic Salmon with Spinach & Cheese Sauce \u2728",
           "tiktok_views": 4632,
-          "youtube_views": 10,
+          "youtube_views": 11,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/rUaebs1NTu0/hqdefault.jpg",
@@ -1607,7 +1607,7 @@
           "youtube_id": "KiVMWMqm6DI",
           "title": "No-Bake Oreo Caramel Banana Roll | The Easiest Dessert You'll Ever Ma \u2728",
           "tiktok_views": 4786,
-          "youtube_views": 9,
+          "youtube_views": 10,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/KiVMWMqm6DI/hqdefault.jpg",
@@ -1635,7 +1635,7 @@
           "youtube_id": "7VkCTL_WD94",
           "title": "Cheesy Stuffed Cabbage Meatballs \u2728",
           "tiktok_views": 2158,
-          "youtube_views": 20,
+          "youtube_views": 22,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/7VkCTL_WD94/hqdefault.jpg",
@@ -1658,6 +1658,16 @@
         }
       ],
       "runs": [
+        {
+          "id": 275,
+          "channel_id": "channel_2",
+          "slot": 1,
+          "run_date": "2026-11-27",
+          "status": "success",
+          "video_id": "OuNsPj30KTE",
+          "error_message": null,
+          "created_at": "2026-11-27T23:59:36.299761+00:00"
+        },
         {
           "id": 274,
           "channel_id": "channel_2",
@@ -1847,16 +1857,6 @@
           "video_id": "2DX_gfVDKSc",
           "error_message": null,
           "created_at": "2026-11-24T02:57:02.252060+00:00"
-        },
-        {
-          "id": 255,
-          "channel_id": "channel_2",
-          "slot": 3,
-          "run_date": "2026-11-23",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-23T08:34:15.654814+00:00"
         }
       ]
     },
@@ -3197,7 +3197,7 @@
       "youtube_id": "ehPCgAm6iKg",
       "title": "Creamy Strawberry Berry Puff Pastry Pie \u2728",
       "tiktok_views": 4801,
-      "youtube_views": 12,
+      "youtube_views": 13,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/ehPCgAm6iKg/hqdefault.jpg",
@@ -3211,7 +3211,7 @@
       "youtube_id": "8Lp7aJPpVUY",
       "title": "Creamy Chicken Meatballs with Garlic Parmesan Sauce \u2728",
       "tiktok_views": 26600,
-      "youtube_views": 6,
+      "youtube_views": 7,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/8Lp7aJPpVUY/hqdefault.jpg",
@@ -3253,7 +3253,7 @@
       "youtube_id": "jv91KdcmRHw",
       "title": "Cheesy Sausage Puff Pastry Pie \u2728",
       "tiktok_views": 36600,
-      "youtube_views": 9,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/jv91KdcmRHw/hqdefault.jpg",
@@ -3295,7 +3295,7 @@
       "youtube_id": "uSUw-sZZBgQ",
       "title": "Chocolate Ladyfinger Cream Dessert \u2728",
       "tiktok_views": 24400,
-      "youtube_views": 4,
+      "youtube_views": 5,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/uSUw-sZZBgQ/hqdefault.jpg",
@@ -3323,7 +3323,7 @@
       "youtube_id": "9hGzV_ftQ3Q",
       "title": "Cheesy Minced Meat Nests with Creamy Mashed Potatoes \u2728",
       "tiktok_views": 5778,
-      "youtube_views": 39,
+      "youtube_views": 41,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/9hGzV_ftQ3Q/hqdefault.jpg",
@@ -3351,7 +3351,7 @@
       "youtube_id": "bs81qQeUErY",
       "title": "Crispy Cheesy Chicken Patties with Creamy Cheddar Sauce \u2728",
       "tiktok_views": 6346,
-      "youtube_views": 14,
+      "youtube_views": 15,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/bs81qQeUErY/hqdefault.jpg",
@@ -3519,7 +3519,7 @@
       "youtube_id": "rUaebs1NTu0",
       "title": "Creamy Garlic Salmon with Spinach & Cheese Sauce \u2728",
       "tiktok_views": 4632,
-      "youtube_views": 10,
+      "youtube_views": 11,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/rUaebs1NTu0/hqdefault.jpg",
@@ -3589,7 +3589,7 @@
       "youtube_id": "KiVMWMqm6DI",
       "title": "No-Bake Oreo Caramel Banana Roll | The Easiest Dessert You'll Ever Ma \u2728",
       "tiktok_views": 4786,
-      "youtube_views": 9,
+      "youtube_views": 10,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/KiVMWMqm6DI/hqdefault.jpg",
@@ -3617,7 +3617,7 @@
       "youtube_id": "7VkCTL_WD94",
       "title": "Cheesy Stuffed Cabbage Meatballs \u2728",
       "tiktok_views": 2158,
-      "youtube_views": 20,
+      "youtube_views": 22,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/7VkCTL_WD94/hqdefault.jpg",
@@ -3841,7 +3841,7 @@
       "youtube_id": "TzwyYFLz8_U",
       "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
       "tiktok_views": 4477,
-      "youtube_views": 93,
+      "youtube_views": 94,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -4747,7 +4747,7 @@
     "category": "Comedy & Toddler Moments",
     "subscribers": 0,
     "total_uploads": 159,
-    "total_views": 972,
+    "total_views": 973,
     "total_likes": 2,
     "upcoming": {
       "slot1": {
@@ -4814,39 +4814,39 @@
       },
       {
         "date": "2026-11-01",
-        "views": 113,
+        "views": 114,
         "uploads": 3,
-        "cumulative_views": 168
+        "cumulative_views": 169
       },
       {
         "date": "2026-11-02",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 171
+        "cumulative_views": 172
       },
       {
         "date": "2026-11-03",
         "views": 17,
         "uploads": 3,
-        "cumulative_views": 188
+        "cumulative_views": 189
       },
       {
         "date": "2026-11-04",
         "views": 6,
         "uploads": 2,
-        "cumulative_views": 194
+        "cumulative_views": 195
       },
       {
         "date": "2026-11-10",
         "views": 23,
         "uploads": 1,
-        "cumulative_views": 217
+        "cumulative_views": 218
       },
       {
         "date": "2026-11-16",
         "views": 3,
         "uploads": 1,
-        "cumulative_views": 220
+        "cumulative_views": 221
       }
     ],
     "videos": [
@@ -5011,7 +5011,7 @@
         "youtube_id": "TzwyYFLz8_U",
         "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
         "tiktok_views": 4477,
-        "youtube_views": 93,
+        "youtube_views": 94,
         "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -5475,8 +5475,8 @@
     ]
   },
   "kpis": {
-    "total_uploads": 461,
-    "total_views": 141436,
+    "total_uploads": 462,
+    "total_views": 141448,
     "total_likes": 17,
     "videos_per_day": 12
   },
@@ -5708,5 +5708,5 @@
       "created_at": "2026-11-21T04:10:42.265735+00:00"
     }
   ],
-  "last_updated": "2026-11-27T10:28:31.912765+00:00"
+  "last_updated": "2026-11-27T23:59:40.859725+00:00"
 }
