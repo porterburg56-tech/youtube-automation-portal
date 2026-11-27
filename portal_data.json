@@ -315,26 +315,26 @@
     {
       "date": "2026-11-24",
       "ch1_views": 0,
-      "ch2_views": 305,
+      "ch2_views": 306,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 305
+      "total_views": 306
     },
     {
       "date": "2026-11-25",
       "ch1_views": 0,
-      "ch2_views": 311,
+      "ch2_views": 312,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 311
+      "total_views": 312
     },
     {
       "date": "2026-11-26",
       "ch1_views": 0,
-      "ch2_views": 323,
+      "ch2_views": 324,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 323
+      "total_views": 324
     }
   ],
   "channels": {
@@ -1218,21 +1218,21 @@
         },
         {
           "date": "2026-11-24",
-          "views": 5,
+          "views": 6,
           "uploads": 1,
-          "cumulative_views": 305
+          "cumulative_views": 306
         },
         {
           "date": "2026-11-25",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 311
+          "cumulative_views": 312
         },
         {
           "date": "2026-11-26",
           "views": 12,
           "uploads": 1,
-          "cumulative_views": 323
+          "cumulative_views": 324
         }
       ],
       "videos": [
@@ -1271,7 +1271,7 @@
           "youtube_id": "2DX_gfVDKSc",
           "title": "Raspberry White Chocolate Cream Pastries \u2728",
           "tiktok_views": 316800,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/2DX_gfVDKSc/hqdefault.jpg",
@@ -2987,6 +2987,16 @@
       ],
       "runs": [
         {
+          "id": 193,
+          "channel_id": "channel_4",
+          "slot": 3,
+          "run_date": "2026-11-27",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted Drive videos found.",
+          "created_at": "2026-11-27T09:47:38.414058+00:00"
+        },
+        {
           "id": 192,
           "channel_id": "channel_4",
           "slot": 2,
@@ -3175,16 +3185,6 @@
           "video_id": null,
           "error_message": "No unposted Drive videos found.",
           "created_at": "2026-11-21T03:18:42.911988+00:00"
-        },
-        {
-          "id": 173,
-          "channel_id": "channel_4",
-          "slot": 1,
-          "run_date": "2026-11-20",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted Drive videos found.",
-          "created_at": "2026-11-20T23:20:19.098569+00:00"
         }
       ]
     }
@@ -3225,7 +3225,7 @@
       "youtube_id": "2DX_gfVDKSc",
       "title": "Raspberry White Chocolate Cream Pastries \u2728",
       "tiktok_views": 316800,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/2DX_gfVDKSc/hqdefault.jpg",
@@ -5708,5 +5708,5 @@
       "created_at": "2026-11-20T23:08:53.349750+00:00"
     }
   ],
-  "last_updated": "2026-11-27T09:39:32.681474+00:00"
+  "last_updated": "2026-11-27T09:47:42.621020+00:00"
 }
