@@ -154,35 +154,35 @@
     },
     {
       "date": "2026-11-01",
-      "ch1_views": 169,
+      "ch1_views": 170,
       "ch2_views": 0,
       "ch3_views": 184,
       "ch4_views": 0,
-      "total_views": 353
+      "total_views": 354
     },
     {
       "date": "2026-11-02",
-      "ch1_views": 172,
+      "ch1_views": 173,
       "ch2_views": 0,
       "ch3_views": 213,
       "ch4_views": 0,
-      "total_views": 385
+      "total_views": 386
     },
     {
       "date": "2026-11-03",
-      "ch1_views": 189,
+      "ch1_views": 190,
       "ch2_views": 0,
       "ch3_views": 221,
       "ch4_views": 0,
-      "total_views": 410
+      "total_views": 411
     },
     {
       "date": "2026-11-04",
-      "ch1_views": 195,
+      "ch1_views": 196,
       "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 195
+      "total_views": 196
     },
     {
       "date": "2026-11-06",
@@ -218,11 +218,11 @@
     },
     {
       "date": "2026-11-10",
-      "ch1_views": 218,
+      "ch1_views": 219,
       "ch2_views": 144,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 362
+      "total_views": 363
     },
     {
       "date": "2026-11-11",
@@ -266,11 +266,11 @@
     },
     {
       "date": "2026-11-16",
-      "ch1_views": 221,
+      "ch1_views": 222,
       "ch2_views": 0,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 221
+      "total_views": 222
     },
     {
       "date": "2026-11-17",
@@ -283,66 +283,66 @@
     {
       "date": "2026-11-19",
       "ch1_views": 0,
-      "ch2_views": 252,
+      "ch2_views": 253,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 252
+      "total_views": 253
     },
     {
       "date": "2026-11-20",
       "ch1_views": 0,
-      "ch2_views": 267,
+      "ch2_views": 268,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 267
+      "total_views": 268
     },
     {
       "date": "2026-11-21",
       "ch1_views": 0,
-      "ch2_views": 277,
+      "ch2_views": 278,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 277
+      "total_views": 278
     },
     {
       "date": "2026-11-22",
       "ch1_views": 0,
-      "ch2_views": 286,
+      "ch2_views": 287,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 286
+      "total_views": 287
     },
     {
       "date": "2026-11-24",
       "ch1_views": 0,
-      "ch2_views": 292,
+      "ch2_views": 293,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 292
+      "total_views": 293
     },
     {
       "date": "2026-11-25",
       "ch1_views": 0,
-      "ch2_views": 299,
+      "ch2_views": 300,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 299
+      "total_views": 300
     },
     {
       "date": "2026-11-26",
       "ch1_views": 0,
-      "ch2_views": 312,
+      "ch2_views": 313,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 312
+      "total_views": 313
     },
     {
       "date": "2026-11-28",
       "ch1_views": 0,
-      "ch2_views": 312,
+      "ch2_views": 313,
       "ch3_views": 0,
       "ch4_views": 0,
-      "total_views": 312
+      "total_views": 313
     }
   ],
   "channels": {
@@ -429,39 +429,39 @@
         },
         {
           "date": "2026-11-01",
-          "views": 114,
+          "views": 115,
           "uploads": 3,
-          "cumulative_views": 169
+          "cumulative_views": 170
         },
         {
           "date": "2026-11-02",
           "views": 3,
           "uploads": 3,
-          "cumulative_views": 172
+          "cumulative_views": 173
         },
         {
           "date": "2026-11-03",
           "views": 17,
           "uploads": 3,
-          "cumulative_views": 189
+          "cumulative_views": 190
         },
         {
           "date": "2026-11-04",
           "views": 6,
           "uploads": 2,
-          "cumulative_views": 195
+          "cumulative_views": 196
         },
         {
           "date": "2026-11-10",
           "views": 23,
           "uploads": 1,
-          "cumulative_views": 218
+          "cumulative_views": 219
         },
         {
           "date": "2026-11-16",
           "views": 3,
           "uploads": 1,
-          "cumulative_views": 221
+          "cumulative_views": 222
         }
       ],
       "videos": [
@@ -626,7 +626,7 @@
           "youtube_id": "TzwyYFLz8_U",
           "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
           "tiktok_views": 4477,
-          "youtube_views": 94,
+          "youtube_views": 95,
           "youtube_likes": 1,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -888,6 +888,16 @@
       ],
       "runs": [
         {
+          "id": 237,
+          "channel_id": "channel_1",
+          "slot": 2,
+          "run_date": "2026-11-28",
+          "status": "no_content",
+          "video_id": null,
+          "error_message": "No unposted videos found.",
+          "created_at": "2026-11-28T04:53:20.389398+00:00"
+        },
+        {
           "id": 236,
           "channel_id": "channel_1",
           "slot": 1,
@@ -1076,16 +1086,6 @@
           "video_id": null,
           "error_message": "No unposted videos found.",
           "created_at": "2026-11-21T22:06:45.076173+00:00"
-        },
-        {
-          "id": 217,
-          "channel_id": "channel_1",
-          "slot": 3,
-          "run_date": "2026-11-21",
-          "status": "no_content",
-          "video_id": null,
-          "error_message": "No unposted videos found.",
-          "created_at": "2026-11-21T09:07:44.689473+00:00"
         }
       ]
     },
@@ -1202,51 +1202,51 @@
         },
         {
           "date": "2026-11-19",
-          "views": 5,
+          "views": 6,
           "uploads": 1,
-          "cumulative_views": 252
+          "cumulative_views": 253
         },
         {
           "date": "2026-11-20",
           "views": 15,
           "uploads": 1,
-          "cumulative_views": 267
+          "cumulative_views": 268
         },
         {
           "date": "2026-11-21",
           "views": 10,
           "uploads": 1,
-          "cumulative_views": 277
+          "cumulative_views": 278
         },
         {
           "date": "2026-11-22",
           "views": 9,
           "uploads": 1,
-          "cumulative_views": 286
+          "cumulative_views": 287
         },
         {
           "date": "2026-11-24",
           "views": 6,
           "uploads": 1,
-          "cumulative_views": 292
+          "cumulative_views": 293
         },
         {
           "date": "2026-11-25",
           "views": 7,
           "uploads": 1,
-          "cumulative_views": 299
+          "cumulative_views": 300
         },
         {
           "date": "2026-11-26",
           "views": 13,
           "uploads": 1,
-          "cumulative_views": 312
+          "cumulative_views": 313
         },
         {
           "date": "2026-11-28",
           "views": 0,
           "uploads": 1,
-          "cumulative_views": 312
+          "cumulative_views": 313
         }
       ],
       "videos": [
@@ -1355,7 +1355,7 @@
           "youtube_id": "D2Gc-IjevTI",
           "title": "Cheesy Croissant Muffins with Creamy Cucumber Dip \u2728",
           "tiktok_views": 5048,
-          "youtube_views": 5,
+          "youtube_views": 6,
           "youtube_likes": 0,
           "youtube_comments": 0,
           "thumbnail": "https://i.ytimg.com/vi/D2Gc-IjevTI/hqdefault.jpg",
@@ -3309,7 +3309,7 @@
       "youtube_id": "D2Gc-IjevTI",
       "title": "Cheesy Croissant Muffins with Creamy Cucumber Dip \u2728",
       "tiktok_views": 5048,
-      "youtube_views": 5,
+      "youtube_views": 6,
       "youtube_likes": 0,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/D2Gc-IjevTI/hqdefault.jpg",
@@ -3855,7 +3855,7 @@
       "youtube_id": "TzwyYFLz8_U",
       "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
       "tiktok_views": 4477,
-      "youtube_views": 94,
+      "youtube_views": 95,
       "youtube_likes": 1,
       "youtube_comments": 0,
       "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -4828,39 +4828,39 @@
       },
       {
         "date": "2026-11-01",
-        "views": 114,
+        "views": 115,
         "uploads": 3,
-        "cumulative_views": 169
+        "cumulative_views": 170
       },
       {
         "date": "2026-11-02",
         "views": 3,
         "uploads": 3,
-        "cumulative_views": 172
+        "cumulative_views": 173
       },
       {
         "date": "2026-11-03",
         "views": 17,
         "uploads": 3,
-        "cumulative_views": 189
+        "cumulative_views": 190
       },
       {
         "date": "2026-11-04",
         "views": 6,
         "uploads": 2,
-        "cumulative_views": 195
+        "cumulative_views": 196
       },
       {
         "date": "2026-11-10",
         "views": 23,
         "uploads": 1,
-        "cumulative_views": 218
+        "cumulative_views": 219
       },
       {
         "date": "2026-11-16",
         "views": 3,
         "uploads": 1,
-        "cumulative_views": 221
+        "cumulative_views": 222
       }
     ],
     "videos": [
@@ -5025,7 +5025,7 @@
         "youtube_id": "TzwyYFLz8_U",
         "title": "\ud83e\udd23 This Toddler\u2019s Dad Impression Is Too Accurate! \ud83d\ude02",
         "tiktok_views": 4477,
-        "youtube_views": 94,
+        "youtube_views": 95,
         "youtube_likes": 1,
         "youtube_comments": 0,
         "thumbnail": "https://i.ytimg.com/vi/TzwyYFLz8_U/hqdefault.jpg",
@@ -5287,6 +5287,16 @@
     ],
     "runs": [
       {
+        "id": 237,
+        "channel_id": "channel_1",
+        "slot": 2,
+        "run_date": "2026-11-28",
+        "status": "no_content",
+        "video_id": null,
+        "error_message": "No unposted videos found.",
+        "created_at": "2026-11-28T04:53:20.389398+00:00"
+      },
+      {
         "id": 236,
         "channel_id": "channel_1",
         "slot": 1,
@@ -5475,16 +5485,6 @@
         "video_id": null,
         "error_message": "No unposted videos found.",
         "created_at": "2026-11-21T22:06:45.076173+00:00"
-      },
-      {
-        "id": 217,
-        "channel_id": "channel_1",
-        "slot": 3,
-        "run_date": "2026-11-21",
-        "status": "no_content",
-        "video_id": null,
-        "error_message": "No unposted videos found.",
-        "created_at": "2026-11-21T09:07:44.689473+00:00"
       }
     ]
   },
@@ -5521,6 +5521,16 @@
     }
   },
   "runs": [
+    {
+      "id": 237,
+      "channel_id": "channel_1",
+      "slot": 2,
+      "run_date": "2026-11-28",
+      "status": "no_content",
+      "video_id": null,
+      "error_message": "No unposted videos found.",
+      "created_at": "2026-11-28T04:53:20.389398+00:00"
+    },
     {
       "id": 236,
       "channel_id": "channel_1",
@@ -5710,17 +5720,7 @@
       "video_id": null,
       "error_message": "No unposted videos found.",
       "created_at": "2026-11-21T22:06:45.076173+00:00"
-    },
-    {
-      "id": 217,
-      "channel_id": "channel_1",
-      "slot": 3,
-      "run_date": "2026-11-21",
-      "status": "no_content",
-      "video_id": null,
-      "error_message": "No unposted videos found.",
-      "created_at": "2026-11-21T09:07:44.689473+00:00"
     }
   ],
-  "last_updated": "2026-11-28T04:02:15.687600+00:00"
+  "last_updated": "2026-11-28T04:53:24.908369+00:00"
 }
